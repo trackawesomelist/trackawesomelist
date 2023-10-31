@@ -30,6 +30,14 @@ A curated list of Generative AI tools, works, models, and references
 *   [\[2309.17288\] AutoAgents: A Framework for Automatic Agent Generation](https://arxiv.org/abs/2309.17288)
 *   [Exploring Multi-Persona Prompting for Better Outputs](https://www.prompthub.us/blog/exploring-multi-persona-prompting-for-better-outputs): "method of prompt engineering that instructs the LLM to summon multiple personas and have them work together to solve a task"
 
+### Discussions and Philosophy / Papers Collections
+
+*   [Can Computers Create Art? by Aaron Hertzmann](https://www.mdpi.com/2076-0752/7/2/18): 2018's essay published on the Arts Journal
+
+### Datasets / Generative Adversarial Networks (GANs)
+
+*   [RedPajama-Data-v2 by Together AI](https://together.ai/blog/redpajama-data-v2): an open dataset with 30 trillion tokens for training Large Language Models
+
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
 ### Courses and Educational Materials / Deforum

@@ -18,7 +18,16 @@
 
 ### Algorithms / Data Mining Algorithms
 
-*   [SVM](https://en.wikipedia.org/wiki/Support_vector_machine)
+*   [C4.5](https://en.wikipedia.org/wiki/C4.5_algorithm)
+*   [k-Means](https://en.wikipedia.org/wiki/K-means_clustering)
+*   [SVM (Support Vector Machine)](https://en.wikipedia.org/wiki/Support_vector_machine)
+*   [Apriori](https://en.wikipedia.org/wiki/Apriori_algorithm)
+*   [EM (Expectation-Maximization)](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm)
+*   [PageRank](https://en.wikipedia.org/wiki/PageRank)
+*   [AdaBoost](https://en.wikipedia.org/wiki/AdaBoost)
+*   [KNN (K-Nearest Neighbors)](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+*   [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+*   [CART (Classification and Regression Trees)](https://en.wikipedia.org/wiki/Decision_tree_learning)
 
 ## [Oct 29, 2023](/content/2023/10/29/README.md)
 
@@ -55,10 +64,6 @@
 ### Tutorials
 
 *   [Tutorials to get started on signal processing for machine learning (⭐41)](https://github.com/jinglescode/python-signal-processing)
-
-### Algorithms / Data Mining Algorithms
-
-*   KNN
 
 ## [Oct 07, 2023](/content/2023/10/07/README.md)
 
@@ -345,17 +350,6 @@
 ### Algorithms / Semi-Supervised Learning
 
 *   S3VM
-
-### Algorithms / Data Mining Algorithms
-
-*   C4.5
-*   k-Means
-*   Apriori
-*   EM
-*   PageRank
-*   AdaBoost
-*   Naive Bayes
-*   CART
 
 ### Journals, Publications and Magazines / Book Deals (Affiliated) 🛍
 

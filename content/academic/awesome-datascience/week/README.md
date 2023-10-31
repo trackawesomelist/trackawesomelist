@@ -18,7 +18,16 @@
 
 ### Algorithms / Data Mining Algorithms
 
-*   [SVM](https://en.wikipedia.org/wiki/Support_vector_machine)
+*   [C4.5](https://en.wikipedia.org/wiki/C4.5_algorithm)
+*   [k-Means](https://en.wikipedia.org/wiki/K-means_clustering)
+*   [SVM (Support Vector Machine)](https://en.wikipedia.org/wiki/Support_vector_machine)
+*   [Apriori](https://en.wikipedia.org/wiki/Apriori_algorithm)
+*   [EM (Expectation-Maximization)](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm)
+*   [PageRank](https://en.wikipedia.org/wiki/PageRank)
+*   [AdaBoost](https://en.wikipedia.org/wiki/AdaBoost)
+*   [KNN (K-Nearest Neighbors)](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+*   [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+*   [CART (Classification and Regression Trees)](https://en.wikipedia.org/wiki/Decision_tree_learning)
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
@@ -49,10 +58,6 @@
 *   [Q Learning](https://en.wikipedia.org/wiki/Q-learning)
 *   [SARSA (State-Action-Reward-State-Action) algorithm](https://en.wikipedia.org/wiki/State%E2%80%93action%E2%80%93reward%E2%80%93state%E2%80%93action)
 *   [Temporal difference learning](https://en.wikipedia.org/wiki/Temporal_difference_learning#:~:text=Temporal%20difference%20\(TD\)%20learning%20refers,estimate%20of%20the%20value%20function.)
-
-### Algorithms / Data Mining Algorithms
-
-*   KNN
 
 ### YouTube Videos & Channels / Book Deals (Affiliated) 🛍
 
@@ -333,17 +338,6 @@
 ### Algorithms / Semi-Supervised Learning
 
 *   S3VM
-
-### Algorithms / Data Mining Algorithms
-
-*   C4.5
-*   k-Means
-*   Apriori
-*   EM
-*   PageRank
-*   AdaBoost
-*   Naive Bayes
-*   CART
 
 ### Books / Visualization Tools
 

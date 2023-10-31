@@ -1,18 +1,72 @@
 # Awesome List Updates on Oct 31, 2023
 
-13 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+## [1. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+
+### Design Generator
+
+*   [Book Witch](https://bookwitch.io/) - Use the power of AI to create complete e-books with just one click! `#freemium`
+
+### Fitness
+
+*   [Alpa AI](https://www.alfa-ai.com/) - To train the right way without depending on anyone but their self-anytime, everywhere. `#freemium`
+
+### Image Generator
+
+*   [AI Passport Photo](https://aipassportphoto.com/) - Take A Photo with Your Mobile Phone and Get Your Passport Photo in Seconds. `freemium`
+
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Science Logology / Democratization of Science
+
+*   [Single-atom alloy catalysts designed by first-principles calculations and artificial intelligence](https://www.nature.com/articles/s41467-021-22048-9) - ***Nature Communications***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=6593978922251447907\&hl=en\&as_sdt=0,5)].
+
+## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications
+
+*   [WinterJS (⭐507)](https://github.com/wasmerio/winterjs) — A secure JavaScript runtime built with SpiderMonkey, Rust and Axum
+
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Discussions and Philosophy / Papers Collections
+
+*   [Can Computers Create Art? by Aaron Hertzmann](https://www.mdpi.com/2076-0752/7/2/18): 2018's essay published on the Arts Journal
+
+### Datasets / Generative Adversarial Networks (GANs)
+
+*   [RedPajama-Data-v2 by Together AI](https://together.ai/blog/redpajama-data-v2): an open dataset with 30 trillion tokens for training Large Language Models
+
+## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+
+### Plugins
+
+*   🧬 [Htmx (⭐5)](https://github.com/aniftyco/tailwind-htmx) - Adds variants for styling on [htmx](https://htmx.org/reference/#classes) events.
+
+## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Tools / Playground
+
+*   [OXC (⭐3.1k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
+
+## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+
+### Rust / Git
+
+*   [botan-rs (⭐22)](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
+
+## [8. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
 *   [polars-business (⭐37)](https://github.com/MarcoGorelli/polars-business) - Polars extension that offers utilities for business day operations with Polars and Python by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
-## [2. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+## [9. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
@@ -23,7 +77,7 @@
 *   [Langroid (⭐293)](https://github.com/langroid/langroid): an intuitive, lightweight, extensible and principled Python framework to easily build LLM-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langroid/langroid?style=social)
 *   [Langstream (⭐310)](https://github.com/rogeriochaves/langstream): Build robust LLM applications with true composability 🔗 ![GitHub Repo stars](https://img.shields.io/github/stars/rogeriochaves/langstream?style=social)
 
-## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [10. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### IRB
 
@@ -33,19 +87,19 @@
 
 *   [ruby-spellchecker (⭐9)](https://github.com/omohokcoj/ruby-spellchecker) - English spelling and grammar checker that can be used for autocorrection.
 
-## [4. Awesome Go](/content/avelino/awesome-go/README.md)
+## [11. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Security
 
 *   [beelzebub (⭐422)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
 
-## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [12. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Package Manager / Miscellaneous
 
 *   [bun](https://bun.sh) - All-in-one toolkit for JavaScript and TypeScript apps.
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Graphics
 
@@ -64,7 +118,7 @@
 
 *   [bluefireoly/SimpleKotlinMail (⭐59)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
 
-## [7. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [14. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Party
 
@@ -98,31 +152,31 @@
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
-## [8. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [15. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Planning Coding Resources / Python
 
 *   [Dash](https://dash.plotly.com/) - Dash is an open source python library for building interactive data visualizations on the web. It enables you to build custom data dashboards using pure Python.
 
-## [9. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [16. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Shadowsworn: Haunts](https://nightsandweekends.itch.io/shadowsworn-haunts) - Frameworks for modern horror games
 
-## [10. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [17. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Extension scripts
 
 *   [Directus Hook Library (⭐1)](https://github.com/formfcw/directus-hook-library) - A collection of customizable hooks for Directus.
 
-## [11. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [18. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [Error Prone](https://errorprone.info) — Catch common Java mistakes as compile-time errors.
 
-## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [19. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -138,7 +192,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [Gymnasium (⭐3.9k)](https://github.com/Farama-Foundation/Gymnasium) - A library for developing and comparing reinforcement learning algorithms (successor of [gym (⭐33k)](https://github.com/openai/gym).
 
-## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [20. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Algorithms / Unsupervised Learning
 
@@ -150,7 +204,16 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Algorithms / Data Mining Algorithms
 
-*   [SVM](https://en.wikipedia.org/wiki/Support_vector_machine)
+*   [C4.5](https://en.wikipedia.org/wiki/C4.5_algorithm)
+*   [k-Means](https://en.wikipedia.org/wiki/K-means_clustering)
+*   [SVM (Support Vector Machine)](https://en.wikipedia.org/wiki/Support_vector_machine)
+*   [Apriori](https://en.wikipedia.org/wiki/Apriori_algorithm)
+*   [EM (Expectation-Maximization)](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm)
+*   [PageRank](https://en.wikipedia.org/wiki/PageRank)
+*   [AdaBoost](https://en.wikipedia.org/wiki/AdaBoost)
+*   [KNN (K-Nearest Neighbors)](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+*   [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+*   [CART (Classification and Regression Trees)](https://en.wikipedia.org/wiki/Decision_tree_learning)
 
 ---
 

@@ -127,6 +127,7 @@
 *   🧬 [Pseudo selectors (⭐38)](https://github.com/Microwawe/tailwindcss-pseudo-selectors) - Adds variants for the pseudo-classes and pseudo-elements that Tailwind CSS doesn't have by default.
 *   🧬 [Container Queries (⭐85)](https://github.com/dgknca/tailwindcss-container-query) - Adds CSS Container Query variants.
 *   🧬 [FormKit (⭐3.6k)](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
+*   🧬 [Htmx (⭐5)](https://github.com/aniftyco/tailwind-htmx) - Adds variants for styling on [htmx](https://htmx.org/reference/#classes) events.
 *   🧩 [Debug Screens (⭐535)](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint).
 *   🧩 [Heropatterns (⭐196)](https://github.com/AndreaMinato/tailwind-heropatterns) - Adds [Hero Patterns](https://www.heropatterns.com) components.
 *   🧩 [Responsive Embed (⭐83)](https://github.com/drdogbot7/tailwindcss-responsive-embed) - Adds a `responsive-embed` component.
