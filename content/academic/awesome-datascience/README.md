@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Oct 31, 2023](/content/2023/10/31/README.md)
+
+### Algorithms / Unsupervised Learning
+
+*   [Dimension Reduction](https://en.wikipedia.org/wiki/Dimensionality_reduction)
+    *   [Principal Component Analysis (PCA)](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
+    *   [t-SNE; t-distributed Stochastic Neighbor Embedding](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
+    *   [Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
+    *   [Latent Dirichlet Allocation (LDA)](https://scikit-learn.org/stable/modules/decomposition.html#latent-dirichlet-allocation-lda)
+
+### Algorithms / Data Mining Algorithms
+
+*   [SVM](https://en.wikipedia.org/wiki/Support_vector_machine)
+
 ## [Oct 29, 2023](/content/2023/10/29/README.md)
 
 ### Algorithms / Supervised Learning
@@ -228,11 +242,6 @@
     *   [Density-based clustering](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
     *   [Fuzzy clustering](https://en.wikipedia.org/wiki/Fuzzy_clustering)
     *   [Mixture models](https://en.wikipedia.org/wiki/Mixture_model)
-*   Dimension Reduction
-    *   [Principal Component Analysis (PCA)](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
-    *   [t-SNE; t-distributed Stochastic Neighbor Embedding](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
-    *   [Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
-    *   [Latent Dirichlet Allocation (LDA)](https://scikit-learn.org/stable/modules/decomposition.html#latent-dirichlet-allocation-lda)
 
 ## [Oct 30, 2022](/content/2022/10/30/README.md)
 
@@ -341,7 +350,6 @@
 
 *   C4.5
 *   k-Means
-*   SVM
 *   Apriori
 *   EM
 *   PageRank

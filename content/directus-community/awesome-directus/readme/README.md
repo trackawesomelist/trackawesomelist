@@ -29,9 +29,9 @@ A curated list of awesome things related to Directus
 ### Offical
 
 *   [Documentation](https://docs.directus.io/getting-started/introduction/)
-*   [GitHub Repository (⭐23k)](https://github.com/directus/directus)
+*   [GitHub Repository (⭐24k)](https://github.com/directus/directus)
 *   [Live Discussions on Discord](https://directus.chat)
-*   [Community Help Board (⭐23k)](https://github.com/directus/directus/discussions/categories/q-a)
+*   [Community Help Board (⭐24k)](https://github.com/directus/directus/discussions/categories/q-a)
 *   [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
 *   [Community Repositories](https://github.com/directus-community)
 
@@ -91,6 +91,10 @@ A curated list of awesome things related to Directus
 *   [Drawer Notice (⭐0)](https://github.com/formfcw/directus-extension-drawer-notice) - A notice field that is only visible in the drawer.
 *   [Classified Group (⭐0)](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
 *   [Tokenized Preview (⭐1)](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
+
+### Extension scripts
+
+*   [Directus Hook Library (⭐1)](https://github.com/formfcw/directus-hook-library) - A collection of customizable hooks for Directus.
 
 ## Articles
 

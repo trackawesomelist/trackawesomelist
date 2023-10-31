@@ -220,8 +220,8 @@
 *   [is-online (⭐1.2k)](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
 *   [public-ip (⭐978)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
 *   [clipboard-cli (⭐481)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
-*   [XO (⭐7.3k)](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
-*   [ESLint (⭐23k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript.
+*   [XO (⭐7.4k)](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
+*   [ESLint (⭐24k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript.
 *   [David (⭐961)](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
 *   [http-server (⭐13k)](https://github.com/http-party/http-server) - Simple, zero-config command-line HTTP server.
 *   [Live Server (⭐4.2k)](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
@@ -235,7 +235,7 @@
 *   [wifi-password (⭐285)](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
 *   [wallpaper (⭐995)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 *   [pen (⭐325)](https://github.com/hatashiro/pen) - Live Markdown preview in the browser from your favorite editor.
-*   [dark-mode (⭐643)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
+*   [dark-mode (⭐644)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
 *   [Jsome (⭐239)](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
 *   [mobicon (⭐105)](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
 *   [mobisplash (⭐66)](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
@@ -358,7 +358,7 @@
 *   [Brunch (⭐6.8k)](https://github.com/brunch/brunch) - Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow.
 *   [FuseBox (⭐4k)](https://github.com/fuse-box/fuse-box) - Fast build system that combines the power of webpack, JSPM and SystemJS, with first-class TypeScript support.
 *   [pkg (⭐24k)](https://github.com/vercel/pkg) - Package your Node.js project into an executable.
-*   [Vite (⭐60k)](https://github.com/vitejs/vite) - Front-end build tool with hot module replacement and static asset bundling.
+*   [Vite (⭐61k)](https://github.com/vitejs/vite) - Front-end build tool with hot module replacement and static asset bundling.
 
 ### Hardware
 
@@ -528,7 +528,7 @@
 
 *   [Luxon (⭐14k)](https://github.com/moment/luxon) - Library for working with dates and times.
 *   [date-fns (⭐32k)](https://github.com/date-fns/date-fns) - Modern date utility.
-*   [Day.js (⭐44k)](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
+*   [Day.js (⭐45k)](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
 *   [dateformat (⭐1.3k)](https://github.com/felixge/node-dateformat) - Date formatting.
 *   [tz-format (⭐10)](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
 *   [cctz (⭐59)](https://github.com/floatdrop/node-cctz) - Fast parsing, formatting, and timezone conversation for dates.
@@ -636,7 +636,7 @@
     *   [Keyv (⭐2.3k)](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
     *   [Finale (⭐184)](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
     *   [database-js (⭐73)](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
-    *   [Mongo Seeding (⭐517)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
+    *   [Mongo Seeding (⭐519)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
     *   [@databases (⭐554)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
     *   [pg-mem (⭐1.6k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
 
@@ -774,7 +774,7 @@
 ### Content management systems
 
 *   [KeystoneJS (⭐8.4k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
-*   [ApostropheCMS (⭐4.1k)](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
+*   [ApostropheCMS (⭐4.2k)](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
 *   [Strapi (⭐57k)](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
 *   [Factor (⭐1.4k)](https://github.com/FactorJS/factor) - Vue.js dashboard framework and headless CMS.
 *   [AdminBro (⭐7.4k)](https://github.com/SoftwareBrothers/adminjs) - Auto-generated admin panel with CRUD for all your resources.
@@ -848,6 +848,7 @@
 *   [npm](https://docs.npmjs.com/about-npm) - The default package manager.
 *   [pnpm](https://pnpm.io) - Disk space efficient package manager.
 *   [yarn](https://yarnpkg.com) - Alternative package manager.
+*   [bun](https://bun.sh) - All-in-one toolkit for JavaScript and TypeScript apps.
 
 ## Resources
 

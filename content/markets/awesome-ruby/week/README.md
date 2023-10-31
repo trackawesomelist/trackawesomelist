@@ -6,6 +6,16 @@
 
 [ [Daily](/content/markets/awesome-ruby/README.md) / Weekly / [Overview](/content/markets/awesome-ruby/readme/README.md) ]
 
+## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
+
+### IRB
+
+*   [KatakataIrb (⭐90)](https://github.com/tompng/katakata_irb) - IRB with Kata(型 Type) completion.
+
+### Natural Language Processing
+
+*   [ruby-spellchecker (⭐9)](https://github.com/omohokcoj/ruby-spellchecker) - English spelling and grammar checker that can be used for autocorrection.
+
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
 ### HTML/XML Parsing
@@ -20,7 +30,7 @@
 
 ### Assets
 
-*   [Shakapacker (⭐346)](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)
+*   [Shakapacker (⭐352)](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
@@ -367,7 +377,7 @@
 
 ### Queues and Messaging
 
-*   [GoodJob (⭐2k)](https://github.com/bensheldon/good_job) - GoodJob is a multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
+*   [GoodJob (⭐2.1k)](https://github.com/bensheldon/good_job) - GoodJob is a multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
 
 ## [Sep 27 - Oct 03, 2021](/content/2021/39/README.md)
 
@@ -437,7 +447,7 @@
 
 ### Form Builder
 
-*   [Simple Form (⭐8.1k)](https://github.com/heartcombo/simple_form) - Rails forms made easy.
+*   [Simple Form (⭐8.2k)](https://github.com/heartcombo/simple_form) - Rails forms made easy.
 
 ### Logging
 
@@ -449,7 +459,7 @@
 
 ### Process Management and Monitoring
 
-*   [RedisWebManager (⭐164)](https://github.com/OpenGems/redis_web_manager) - Web interface that allows you to manage easily your Redis instance (see keys, memory used, connected client, etc...).
+*   [RedisWebManager (⭐170)](https://github.com/OpenGems/redis_web_manager) - Web interface that allows you to manage easily your Redis instance (see keys, memory used, connected client, etc...).
 
 ### Search
 
@@ -496,7 +506,7 @@
 
 ### CRM
 
-*   [Hitobito (⭐316)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito (⭐318)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
 ## [Jan 04 - Jan 10, 2021](/content/2021/1/README.md)
 
@@ -660,7 +670,7 @@
 
 ### Automation
 
-*   [ActiveWorkflow (⭐733)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
+*   [ActiveWorkflow (⭐741)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents.
 
 ### Captchas and anti-spam
 
@@ -695,7 +705,7 @@
 
 ### Game Development and Graphics
 
-*   [Ruby 2D (⭐612)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
+*   [Ruby 2D (⭐614)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
 
 ## [Feb 10 - Feb 16, 2020](/content/2020/6/README.md)
 
@@ -751,7 +761,7 @@
 
 ### Authorization
 
-*   [ActionPolicy (⭐1.2k)](https://github.com/palkan/action_policy) - Authorization framework for Ruby and Rails applications. Composable, extensible and performant.
+*   [ActionPolicy (⭐1.3k)](https://github.com/palkan/action_policy) - Authorization framework for Ruby and Rails applications. Composable, extensible and performant.
 
 ### Web Crawling
 
@@ -1023,7 +1033,7 @@
 
 ### Assets
 
-*   [Sprockets (⭐905)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
+*   [Sprockets (⭐907)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
 
 ### Code Analysis and Metrics
 
@@ -1142,7 +1152,7 @@
 
 ### CMS
 
-*   [Fae (⭐830)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
+*   [Fae (⭐833)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
 
 ## [Mar 12 - Mar 18, 2018](/content/2018/11/README.md)
 
@@ -1664,7 +1674,7 @@
 
 ### SEO
 
-*   [prerender\_rails (⭐358)](https://github.com/prerender/prerender_rails) - Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
+*   [prerender\_rails (⭐359)](https://github.com/prerender/prerender_rails) - Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
 
 ### Web Frameworks
 
@@ -2138,7 +2148,7 @@
 
 ### Database Drivers
 
-*   [SQL Server (⭐954)](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) - The SQL Server adapter for ActiveRecord.
+*   [SQL Server (⭐956)](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) - The SQL Server adapter for ActiveRecord.
 
 ### Database Tools
 
@@ -2319,7 +2329,7 @@
 
 ### Documentation
 
-*   [Annotate (⭐4.2k)](https://github.com/ctran/annotate_models) - Add a comment documenting the current schema to the top or bottom of each of your ActiveRecord models.
+*   [Annotate (⭐4.3k)](https://github.com/ctran/annotate_models) - Add a comment documenting the current schema to the top or bottom of each of your ActiveRecord models.
 
 ### ORM/ODM Extensions
 
@@ -2478,7 +2488,7 @@
 
 ### Code Analysis and Metrics
 
-*   [MetricFu (⭐615)](https://github.com/metricfu/metric_fu) - A fist full of code metrics.
+*   [MetricFu (⭐617)](https://github.com/metricfu/metric_fu) - A fist full of code metrics.
 *   [rails\_best\_practices (⭐4.1k)](https://github.com/railsbp/rails_best_practices) - A code metric tool for rails projects.
 *   [Reek (⭐3.9k)](https://github.com/troessner/reek) - Code smell detector for Ruby.
 

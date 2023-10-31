@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Oct 31, 2023](/content/2023/10/31/README.md)
+
+### Libraries/Packages/Scripts / Python
+
+*   [polars-business (⭐37)](https://github.com/MarcoGorelli/polars-business) - Polars extension that offers utilities for business day operations with Polars and Python by [@MarcoGorelli](https://github.com/MarcoGorelli).
+
 ## [Oct 26, 2023](/content/2023/10/26/README.md)
 
 ### Resources / Blog posts

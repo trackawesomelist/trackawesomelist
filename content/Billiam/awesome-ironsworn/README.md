@@ -6,6 +6,12 @@ An awesome list of awesome Ironsworn projects
 
 [ Daily / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
+## [Oct 31, 2023](/content/2023/10/31/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Shadowsworn: Haunts](https://nightsandweekends.itch.io/shadowsworn-haunts) - Frameworks for modern horror games
+
 ## [Oct 20, 2023](/content/2023/10/20/README.md)
 
 ### Tools / Ironsworn

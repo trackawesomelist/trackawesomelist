@@ -6,6 +6,12 @@ A curated list of awesome things related to Directus
 
 [ [Daily](/content/directus-community/awesome-directus/README.md) / Weekly / [Overview](/content/directus-community/awesome-directus/readme/README.md) ]
 
+## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
+
+### Extensions / Extension scripts
+
+*   [Directus Hook Library (⭐1)](https://github.com/formfcw/directus-hook-library) - A collection of customizable hooks for Directus.
+
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
 ### Extensions / Community
@@ -172,7 +178,7 @@ A curated list of awesome things related to Directus
 
 ### Resources / Offical
 
-*   [Community Help Board (⭐23k)](https://github.com/directus/directus/discussions/categories/q-a)
+*   [Community Help Board (⭐24k)](https://github.com/directus/directus/discussions/categories/q-a)
 
 ## [Feb 07 - Feb 13, 2022](/content/2022/6/README.md)
 
@@ -234,5 +240,5 @@ A curated list of awesome things related to Directus
 ### Resources / Offical
 
 *   [Documentation](https://docs.directus.io/getting-started/introduction/)
-*   [GitHub Repository (⭐23k)](https://github.com/directus/directus)
+*   [GitHub Repository (⭐24k)](https://github.com/directus/directus)
 *   [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)

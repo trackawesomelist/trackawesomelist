@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [coherence-go-client (⭐7)](https://github.com/oracle/coherence-go-client) - Full implementation of Oracle Coherence cache API for Go applications using gRPC as network transport.
 
+### Security
+
+*   [beelzebub (⭐422)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
+
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
 ### Blockchain
