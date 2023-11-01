@@ -14,49 +14,41 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Awesome Generative AI](#awesome-generative-ai)
     *   [Repository Introduction](#repository-introduction)
-        *   [Structure:](#structure)
-        *   [Contribute to Our Repository](#contribute-to-our-repository)
-    *   [The Generative AI Area: history, maps, and definitions](#the-generative-ai-area-history-maps-and-definitions)
+        *   [Structure](#structure)
+        *   [Contribute to our Repository](#contribute-to-our-repository)
+    *   [About the Generative AI Area: history, maps, and definitions](#about-the-generative-ai-area-history-maps-and-definitions)
+    *   [Philosophical questions and Discussions about Generative AI](#philosophical-questions-and-discussions-about-generative-ai)
+        *   [Critical Views about Generative AI](#critical-views-about-generative-ai)
     *   [Generative AI Processes and Artifacts](#generative-ai-processes-and-artifacts)
     *   [Generative AI Tools Directories](#generative-ai-tools-directories)
     *   [Inbox: Large Language Models (LLMs)](#inbox-large-language-models-llms)
+        *   [LLM Multi-agents](#llm-multi-agents)
         *   [Autonomous LLM Agents](#autonomous-llm-agents)
-        *   [LangChain](#langchain)
+        *   [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag)
         *   [Embeddings and Semantic Search](#embeddings-and-semantic-search)
         *   [LLMOps](#llmops)
+        *   [LangChain](#langchain)
         *   [ChatGPT](#chatgpt)
-        *   [GPT-3](#gpt-3)
-        *   [BLOOM](#bloom)
         *   [Text-related Generative Tools](#text-related-generative-tools)
-    *   [Prompt Engineering | Prompt Design | Prompt Craft](#prompt-engineering--prompt-design--prompt-craft)
-        *   [For text-to-text](#for-text-to-text)
-        *   [For text-to-image](#for-text-to-image)
-    *   [Inbox: Stable Diffusion](#inbox-stable-diffusion)
+    *   [Prompt Engineering](#prompt-engineering)
+        *   [Prompt Engineering for Text-to-text](#prompt-engineering-for-text-to-text)
+        *   [Prompt Engineering for Text-to-image](#prompt-engineering-for-text-to-image)
+    *   [Courses and Educational Materials](#courses-and-educational-materials)
+    *   [Papers and References](#papers-and-references)
+        *   [Papers Collections](#papers-collections)
+        *   [AI Tools for Research](#ai-tools-for-research)
+        *   [AI Tools for Searching](#ai-tools-for-searching)
+    *   [Image Synthesis](#image-synthesis)
+        *   [Inbox: Stable Diffusion](#inbox-stable-diffusion)
         *   [Stable Diffusion Deployed Web Tools](#stable-diffusion-deployed-web-tools)
         *   [Web UI for Stable Diffusion via Google Colab](#web-ui-for-stable-diffusion-via-google-colab)
         *   [References Collection about Stable Diffusion](#references-collection-about-stable-diffusion)
-    *   [Hypertechniques](#hypertechniques)
-        *   [ControlNet](#controlnet)
-        *   [Textual Inversion](#textual-inversion)
-        *   [DreamBooth](#dreambooth)
-        *   [Deforum](#deforum)
-    *   [Creative Uses of Generative AI Tools](#creative-uses-of-generative-ai-tools)
-    *   [Courses and Educational Materials](#courses-and-educational-materials)
-    *   [Papers and References](#papers-and-references)
-        *   [AI Tools for Research](#ai-tools-for-research)
-        *   [AI Tools for Searching](#ai-tools-for-searching)
-        *   [Papers Collections](#papers-collections)
-    *   [Discussions and Philosophy](#discussions-and-philosophy)
-        *   [Critical Views about Generative AI](#critical-views-about-generative-ai)
-        *   [Promptism](#promptism)
-    *   [Image Synthesis](#image-synthesis)
-        *   [DALL-E 2](#dall-e-2)
-        *   [Latent Diffusion](#latent-diffusion)
-        *   [GLIDE](#glide)
-        *   [VQGAN+CLIP](#vqganclip)
-        *   [Text-to-image Google Colab Notebooks (Multiple Models)](#text-to-image-google-colab-notebooks-multiple-models)
-        *   [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans)
-    *   [Collections](#collections)
+        *   [Hypertechniques](#hypertechniques)
+            *   [ControlNet](#controlnet)
+            *   [Textual Inversion](#textual-inversion)
+            *   [DreamBooth](#dreambooth)
+            *   [Deforum](#deforum)
+        *   [Creative Uses of Generative AI Image Synthesis Tools](#creative-uses-of-generative-ai-image-synthesis-tools)
     *   [Image Upscaling](#image-upscaling)
     *   [Image Restoration](#image-restoration)
     *   [Image Segmentation](#image-segmentation)
@@ -81,6 +73,7 @@ A curated list of Generative AI tools, works, models, and references
         *   [Jobs in Generative AI](#jobs-in-generative-ai)
         *   [Improving Google Colab experience](#improving-google-colab-experience)
         *   [Auxiliary tools and concepts](#auxiliary-tools-and-concepts)
+    *   [Roadmaps, Tracks, Rails](#roadmaps-tracks-rails)
     *   [Stargazers over time](#stargazers-over-time)
     *   [Contribute](#contribute)
     *   [License](#license)
@@ -89,7 +82,7 @@ A curated list of Generative AI tools, works, models, and references
 
 Welcome to our Awesome List of Generative AI resources! This repository is a curated collection of references in the dynamic field of Generative AI, equipped with various sources such as academic papers, technical articles, online courses, tutorials, and software.
 
-### Structure:
+### Structure
 
 1.  **Sections**: Each section represents a different Generative AI-related category (e.g., LLMs, prompt engineering, image synthesis, educational resources, etc.). The Inboxes are the more general references of a category. When a new category emerges, it becomes a specific subsection.
 
@@ -97,13 +90,13 @@ Welcome to our Awesome List of Generative AI resources! This repository is a cur
 
 This repository is designed to offer you the most recent advancements at your fingertips, allowing you to explore the depth of older resources at your own pace. It's regularly updated, ensuring you're always on track with the rapidly progressing world of Generative AI.
 
-### Contribute to Our Repository
+### Contribute to our Repository
 
 Your contributions are welcome and greatly appreciated! If you have a valuable resource that you believe should be on this list, or if you see any outdated information, please make a Pull Request. This will help us maintain the quality and relevance of our Awesome List.
 
 Follow this roadmap, keep learning, and enjoy your journey through Generative AI!
 
-## The Generative AI Area: history, maps, and definitions
+## About the Generative AI Area: history, maps, and definitions
 
 *   [\[2310.07127\] An HCI-Centric Survey and Taxonomy of Human-Generative-AI Interactions](https://arxiv.org/abs/2310.07127): "a survey of 154 papers, providing a novel taxonomy and analysis of Human-GenAI Interactions from both human and Gen-AI perspectives".
 *   [The Building Blocks of Generative AI | by Jonathan Shriftman | Medium](https://shriftman.medium.com/the-building-blocks-of-generative-ai-a75350466a2f)
@@ -143,6 +136,92 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [AI-Generated Art](https://www.v7labs.com/blog/ai-generated-art): From Text to Images & Beyond Examples
 *   [1 week of Stable Diffusion | multimodal.art](https://multimodal.art/news/1-week-of-stable-diffusion)
 
+## Philosophical questions and Discussions about Generative AI
+
+*   [Redefining Bias: The Human Prejudice Against AI | Medium](https://johnnosta.medium.com/redefining-bias-the-human-prejudice-against-ai-a1f225b0b2c2)
+*   [AI Art and its Impact on Artists](https://dl.acm.org/doi/10.1145/3600211.3604681): paper published in the Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society
+*   [The AIKEA Effect](https://piszek.com/2023/08/28/aikea-effect/): by Artur Piszek
+*   [Ethics of Artificial Intelligence: Case Studies and Options for Addressing Ethical Challenges | SpringerLink](https://link.springer.com/book/10.1007/978-3-031-17040-9)
+*   [Embracing change and resetting expectations | Microsoft Unlocked](https://unlocked.microsoft.com/ai-anthology/terence-tao/): text by Terence Tao
+*   [Art and the science of generative AI | Science](https://www.science.org/doi/10.1126/science.adh4451)
+*   [Where AI evolves from here](https://www.axios.com/2023/05/18/ai-agi-artificial-general-intelligence)
+*   [The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun): notes by Bill Gates
+*   [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130): OpenAI's paper that discusses the possible implications of GPTs on the U.S. labor market
+*   [Why generative AI scares artists but not content writers](https://www.fastcompany.com/90848228/why-generative-ai-scares-artists-but-not-writers)
+*   [Cultures in AI/AI in Culture](https://ai-cultures.github.io/): NeurIPS 2022 Workshop webpage
+*   [AI Data Laundering - Waxy.org](https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/): How Academic and Nonprofit Researchers Shield Tech Companies from Accountability
+*   \[🔥🔥🔥] [(1232) The End of Art: An Argument Against Image AIs - YouTube](https://www.youtube.com/watch?v=tjSxFAGP9Ss\&t=193s): video essay by Steven Zapata
+*   \[🔥🔥🔥] [The End of Art: An Argument Against Image AIs (Public) - Google Docs](https://docs.google.com/document/d/128yey0VfYhM9eUdvkvCpk5zvvoIkqXfI4hEPAYeJCHU/edit): transcript of the video essay by Steven Zapata
+*   \[🔥🔥🔥] [Generative AI: A Creative New World | Sequoia Capital US/Europe](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/): report by Sequoia Capital about the possible applications of Generative AI
+*   [Synthetic Creativity - by Cavin - Deep Markets](https://deepmarkets.substack.com/p/synthetic-creativity)
+*   [Our Vision for the Future of Synthetic Media | by Victor Riparbelli | Medium](https://vriparbelli.medium.com/our-vision-for-the-future-of-synthetic-media-8791059e8f3a)
+*   [Deep Else](https://dejangrba.github.io/deep-else/): A Critical Framework for AI Art
+*   [How Photography Became An Art Form | Aaron Hertzmann’s blog](https://aaronhertzmann.com/2022/08/29/photography-history.html)
+*   [Can Computers Create Art? by Aaron Hertzmann](https://www.mdpi.com/2076-0752/7/2/18): 2018's essay published on the Arts Journal
+*   [Text Is the Universal Interface - Scale](https://scale.com/blog/text-universal-interface?utm_source=tldrnewsletter)
+*   [This artist is dominating AI-generated art. And he’s not happy about it. | MIT Technology Review](https://www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/)
+*   [The REAL fight over AI art: StableDiffusion | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgu2uo/the_real_fight_over_ai_art/)
+*   [Rutkowski battling AI art overlord | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgv0dw/rutkowski_battling_ai_art_overlord/)
+*   [Instead of mining cryptocoins with GPUs, are we now mining art? | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xg8s8e/instead_of_mining_cryptocoins_with_gpus_are_we/)
+*   [Using AI to create art is NOT art! | Reddit : ArtistLounge](https://www.reddit.com/r/ArtistLounge/comments/xczk89/using_ai_to_create_art_is_not_art/)
+*   [Appreciating the Poetic Misunderstandings of A.I. Art | The New Yorker](https://www.newyorker.com/culture/infinite-scroll/appreciating-the-poetic-misunderstandings-of-ai-art?s=09)
+
+### Critical Views about Generative AI
+
+*   [Responsible enterprise decisions with knowledge-enriched generative AI | Deloitte Netherlands](https://www2.deloitte.com/nl/nl/pages/risk/articles/responsible-enterprise-decisions-with-knowledge-enriched-generative-AI.html)
+*   [\[2310.13149\] Understanding Generative AI in Art: An Interview Study with Artists on G-AI from an HCI Perspective](https://arxiv.org/abs/2310.13149)
+*   [\[2309.12338\] Artificial Intelligence and Aesthetic Judgment](https://arxiv.org/abs/2309.12338): "as generative AI influences contemporary aesthetic judgment we outline some of the pitfalls and traps in attempting to scrutinize what AI generated media means"
+*   [AI Worship | Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2023/10/ai-worship.html)
+*   [Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water | AP News](https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4)
+*   [ChatGPT is fun, but not an author | Science](https://www.science.org/doi/10.1126/science.adg7879)
+*   [Behind the AI boom, an army of overseas workers in ‘digital sweatshops’ | The Washington Post](https://www.washingtonpost.com/world/2023/08/28/scale-ai-remotasks-philippines-artificial-intelligence/): Scale AI’s Remotasks workers in the Philippines cry foul over low pay
+*   [It’s Not Intelligent If It Always Halts: A Critical Perspective on Current Approaches to AGI | Life Is Computation](https://www.lifeiscomputation.com/it-is-not-intelligent-if-it-always-halts/)
+*   [The human costs of the AI boom | TechCrunch](https://techcrunch.com/2023/08/21/the-human-costs-of-the-ai-boom/)
+*   [AI Scams, Spam, Hacking, Are Ruining the Internet](https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8)
+*   [The ChatGPT revolution is another tech fantasy](https://www.disconnect.blog/p/the-chatgpt-revolution-is-another)
+*   [Why AI Will Save the World | Andreessen Horowitz](https://a16z.com/2023/06/06/ai-will-save-the-world/)
+*   [Hollywood studios proposed AI contract that would give them likeness rights ‘for the rest of eternity’ - The Verge](https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights)
+*   [The shady world of Brave selling copyrighted data for AI training](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
+*   [Inside the AI Factory: the humans that make tech seem human - The Verge](https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots?s=08)
+*   [Why transformative artificial intelligence is really, really hard to achieve](https://thegradient.pub/why-transformative-artificial-intelligence-is-really-really-hard-to-achieve/)
+*   [AI and the automation of work — Benedict Evans](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai)
+*   [Yuval Noah Harari argues that AI has hacked the operating system of human civilisation](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation)
+*   [Generative AI Takes Stereotypes and Bias From Bad to Worse](https://www.bloomberg.com/graphics/2023-generative-ai-bias/)
+*   [Governance of superintelligence by OpenAI](https://openai.com/blog/governance-of-superintelligence)
+*   [AIAAIC - AIAAIC Repository](https://www.aiaaic.org/aiaaic-repository): "The independent, open, public interest resource detailing incidents and controversies driven by and relating to artificial intelligence, algorithms, and automation"
+*   [Just Calm Down About GPT-4 Already - IEEE Spectrum](https://spectrum.ieee.org/gpt-4-calm-down)
+*   [Pause Giant AI Experiments: An Open Letter - Future of Life Institute](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
+*   ["OpenAI released plugins for ChatGPT"](https://twitter.com/thealexbanks/status/1639620659142881283): tweet from [@thealexbanks](https://twitter.com/thealexbanks) with a list of reflections about the impact of ChatGPT plugins
+*   [Is a socially fair Artificial Intelligence possible? | Uma Inteligência Artificial socialmente justa é possível?](https://www.mabuse.art.br/post/uma-intelig%C3%AAncia-artificial-socialmente-justa-%C3%A9-poss%C3%ADvel): post in Portuguese by H.D. Mabuse
+*   [Noam Chomsky on ChatGPT: It's "Basically High-Tech Plagiarism" and "a Way of Avoiding Learning" | Open Culture](https://www.openculture.com/2023/02/noam-chomsky-on-chatgpt.html)
+*   [Despite Their Feats, Large Language Models Still Haven't Contributed to Linguistics | Towards Data Science](https://towardsdatascience.com/despite-their-feats-large-language-models-still-havent-contributed-to-linguistics-657bea43a8a3)
+*   [Will ChatGPT Kill the Student Essay? | The Atlantic](https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/)
+*   [What ChatGPT and generative AI mean for science | Nature](https://www.nature.com/articles/d41586-023-00340-6)
+*   [ChatGPT Is a Bullshit Generator Waging Class War](https://www.vice.com/en/article/akex34/chatgpt-is-a-bullshit-generator-waging-class-war)
+*   [Some thoughts about generative AI and the future of education – Mark Carrigan](https://markcarrigan.net/2023/01/15/some-thoughts-about-generative-ai-and-the-future-of-education/)
+*   [Educator Considerations for ChatGPT - OpenAI API](https://platform.openai.com/docs/chatgpt-education)
+*   [Stable Diffusion Frivolous · Because lawsuits based on ignorance deserve a response.](http://www.stablediffusionfrivolous.com/): a community response for the "Stable Diffusion litigation"
+*   [Stable Diffusion litigation · Joseph Saveri Law Firm & Matthew Butterick](https://stablediffusionlitigation.com/)
+*   [Generative Language Models and Automated Influence Operations: Emerging Threats and Potential Mitigations | OpenAI](https://cdn.openai.com/papers/forecasting-misuse.pdf)
+*   [Abstracts written by ChatGPT fool scientists](https://www.nature.com/articles/d41586-023-00056-7)
+*   [When Machines Change Art | Aaron Hertzmann’s blog](https://aaronhertzmann.com/2022/12/17/when-tech-changes-art.html)
+*   [The Dark Risk of Large Language Models | WIRED UK](https://www.wired.co.uk/article/artificial-intelligence-language)
+*   [ChatGPT, DALL-E 2 and the collapse of the creative process](https://theconversation.com/chatgpt-dall-e-2-and-the-collapse-of-the-creative-process-196461)
+*   [What AI-Generated Art Really Means for Human Creativity | WIRED](https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/)
+*   [Forecasting Potential Misuses of Language Models for Disinformation Campaigns—and How to Reduce Risk](https://openai.com/blog/forecasting-misuse/)
+*   [The Dark Side of AI Art: 4 Potential Issues With the Growing Trend](https://www.makeuseof.com/dark-side-of-ai-art-potential-issues/)
+*   [Armed With ChatGPT, Cybercriminals Build Malware And Plot Fake Girl Bots](https://www.forbes.com/sites/thomasbrewster/2023/01/06/chatgpt-cybercriminal-malware-female-chatbots/?sh=6019f4315534)
+*   [ChatGPT And The Mass Production Of Office Work - Farsight](https://farsight.cifs.dk/chatgpt-and-the-mass-production-of-office-work/)
+*   [The Danger Of ChatGPT Nobody Talks About | by Jacob Ferus | Dec, 2022 | Medium](https://medium.com/@dreamferus/the-danger-of-chatgpt-nobody-talks-about-9aff94e5dea6)
+*   [Mind Control in the Metaverse. If we’ve learned anything about… | by Louis Rosenberg | Predict | Dec, 2022 | Medium](https://medium.com/predict/mind-control-in-the-metaverse-48dfbd88c2ae)
+*   [The Brilliance and Weirdness of ChatGPT - The New York Times](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html)
+*   [Como o texto gerado por Inteligência Artificial está envenenando a Internet - MIT Technology Review](https://mittechreview.com.br/como-o-texto-gerado-por-inteligencia-artificial-esta-envenenando-a-internet/)
+*   [O ChatGPT é o momento “Jurassic Park” da inteligência artificial - NeoFeed](https://neofeed.com.br/blog/home/o-chatgpt-e-o-momento-jurassic-park-da-inteligencia-artificial/)
+*   [Por favor, mais racionalidade e menos frenesi em relação ao chatGPT (Parte 1 de 2) | by Cezar Taurion | Dec, 2022 | Medium](https://c-taurion.medium.com/por-favor-mais-racionalidade-e-menos-frenesi-em-rela%C3%A7%C3%A3o-ao-chatgpt-parte-1-de-2-1d7637e2a854)
+*   [E se estivermos usando uma IA pseudocientífica? - Diogo Cortiz](https://diogocortiz.com.br/computacao-afetiva-e-os-desafios-das-ias-pseudocientificas/)
+*   [As limitações da sensação tecnológica de 2023: o ChatGPT | IAgora? | Época NEGÓCIOS](https://epocanegocios.globo.com/colunas/iagora/coluna/2023/01/as-limitacoes-da-sensacao-tecnologica-de-2023-o-chatgpt.ghtml)
+*   [7 Revealing Ways AIs Fail - IEEE Spectrum](https://spectrum.ieee.org/ai-failures)
+
 ## Generative AI Processes and Artifacts
 
 <img src="https://user-images.githubusercontent.com/299057/226114498-c9b8a717-31e2-4630-b0ab-752b69005146.png" width=75% height=75%>
@@ -163,6 +242,8 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [AI Depot - Discover New AI Tools](https://aidepot.co/): collection of AI tools organized by tags and presented in a card format
 *   [Generative AI Database](https://aaronsim.notion.site/Generative-AI-Database-Types-Models-Sector-URL-API-more-b5196c870594498fb1e0d979428add2d): a database in Notion with types, models, sectors, URLs, and APIs
 *   [Altern](https://altern.ai) - The place to discover new AI tools and products.
+*   [The Generative AI Landscape](https://ai-collection.org/): "a collection of awesome generative AI applications"
+*   [The ultimate list of AI tools for creators | Descript](https://www.descript.com/blog/article/the-ultimate-list-of-ai-tools-for-creators): collection organized by Descript
 
 ## Inbox: Large Language Models (LLMs)
 
@@ -251,14 +332,6 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [microsoft/JARVIS (⭐22k)](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community
 *   [HuggingGPT](https://arxiv.org/abs/2303.17580): Solving AI Tasks with ChatGPT and its Friends in HuggingFace
 
-### LangChain
-
-*   [Embedchain (⭐5.8k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
-*   [FlowiseAI](https://flowiseai.com/): "Open source UI visual tool to build your customized LLM flow using LangchainJS, written in Node Typescript/Javascript"
-*   [Langchain for paper summarization](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419)
-*   [LangChain Docs](https://langchain.readthedocs.io/en/latest/#): Python library that helps building applications with LLMs through composability
-*   [Getting started with LangChain | by Avra | Feb, 2023 | Medium](https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842): A powerful tool for working with Large Language Models
-
 ### Retrieval-Augmented Generation (RAG)
 
 *   [dssjon/biblos: biblos.app (⭐124)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
@@ -282,6 +355,14 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [Dify](https://dify.ai/): LLMOps platform for creating and operating AI-native apps based on GPT-4
 *   [LLM App (⭐682)](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
 
+### LangChain
+
+*   [Embedchain (⭐5.8k)](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset
+*   [FlowiseAI](https://flowiseai.com/): "Open source UI visual tool to build your customized LLM flow using LangchainJS, written in Node Typescript/Javascript"
+*   [Langchain for paper summarization](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419)
+*   [LangChain Docs](https://langchain.readthedocs.io/en/latest/#): Python library that helps building applications with LLMs through composability
+*   [Getting started with LangChain | by Avra | Feb, 2023 | Medium](https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-models-286419ba0842): A powerful tool for working with Large Language Models
+
 ### ChatGPT
 
 *   [Advanced Guide to ChatGPT](https://aaditsh.notion.site/aaditsh/Advanced-Guide-to-ChatGPT-b8d5901b8bba44f580bb0c0835644567): guide by Neatprompts.com
@@ -289,17 +370,6 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [acheong08's list / Awesome ChatGPT](https://github.com/stars/acheong08/lists/awesome-chatgpt): list of wrappers for accessing ChatGPT in platform such as Discord, Telegram, and languages such as Python, JS.
 *   \[🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
 *   [("Publicly announced ChatGPT variants and competitors: a thread" / Twitter](https://twitter.com/goodside/status/1606611869661384706): a Twitter thread by [@goodside](https://twitter.com/goodside) with alternatives to ChatGPT
-
-### GPT-3
-
-*   [GPT-3 playground](https://beta.openai.com/playground)
-*   [Fine-tuning GPT-3](https://beta.openai.com/docs/guides/fine-tuning): how to customize a model for OpenAI's GPT-3
-*   [Top 10 GPT-3 Powered Applications to Know in 2022](https://www.analyticsinsight.net/top-10-gpt-3-powered-applications-to-know-in-2022/)
-
-### BLOOM
-
-*   [bigscience/bloom · Hugging Face](https://huggingface.co/bigscience/bloom): getting started with BLOOM
-*   [BLOOM](https://thenextweb.com/news/bloom-new-open-source-ai-model-bigger-than-gpt-3-large-language-model-llm): open-source 176-billion-parameter model aims to democratize large-language models
 
 ### Text-related Generative Tools
 
@@ -325,7 +395,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [Taskade](https://taskade.com/): Taskade is an AI outliner and mind map generator for teams with built-in AI chat
 *   [AI Story Generator](https://www.aistorygenerator.org): Free and fast online AI-powered story generator that writes short stories for you
 
-## Prompt Engineering | Prompt Design | Prompt Craft
+## Prompt Engineering
 
 *   \[🔥🔥] [Prompt Engineering Roadmap - roadmap.sh](https://roadmap.sh/prompt-engineering)
 *   \[🔥🔥🔥] [Learn Prompting](https://learnprompting.org/): series of lessons of prompt engineering
@@ -335,7 +405,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [the Book](https://fedhoneypot.notion.site/25fdbdb69e9e44c6877d79e18336fe05?v=1d2bf4143680451986fd2836a04afbf4): collection of prompts and hints of prompt engineering
 *   [dair-ai/Prompt-Engineering-Guide (⭐37k)](https://github.com/dair-ai/Prompt-Engineering-Guide): Guide and resources for prompt engineering
 
-### For text-to-text
+### Prompt Engineering for Text-to-text
 
 *   \[🔥] [\[2307.11760\] Large Language Models Understand and Can be Enhanced by Emotional Stimuli](https://arxiv.org/abs/2307.11760)
 *   \[🔥] [\[2305.13252\] "According to ..." Prompting Language Models Improves Quoting from Pre-Training Data](https://arxiv.org/abs/2305.13252)
@@ -347,7 +417,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [How to write an effective GPT-3 prompt | Zapier](https://zapier.com/blog/gpt-3-prompt/): a list of 6 GPT-3 tips for getting the desired output
 *   [The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts](https://fka.gumroad.com/l/art-of-chatgpt-prompting): e-book by Fatih Kadir Akın ([@fkadev](http://twitter.com/fkadev))
 
-### For text-to-image
+### Prompt Engineering for Text-to-image
 
 *   [USP AI Prompt Book](https://app.usp.ai/static/Stable%20Diffusion%202.1%20Prompt%20Book%20by%20USP.ai.pdf): Stable Diffusion v2.1 Prompt Book
 *   [daspartho/prompt-extend (⭐172)](https://github.com/daspartho/prompt-extend): extending stable diffusion prompts with suitable style cues using text generation
@@ -392,7 +462,113 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [When SD just doesn't understand the prompt no matter how hard I try | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgwcab/when_sd_just_doesnt_understand_the_prompt_no/)
 *   [It's very interesting how some prompts have very defined output but other specific ones are not | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgplii/its_very_interesting_how_some_prompts_have_very/)
 
-## Inbox: Stable Diffusion
+## Courses and Educational Materials
+
+*   [Animated AI](https://animatedai.github.io/): animations and instructional videos about neural networks
+*   [Deep Learning AI - Learn the fundamentals of generative AI for real-world applications](https://www.deeplearning.ai/courses/generative-ai-with-llms/): created in partnership with AWS, this course presents the fundamentals of how generative AI works and how to deploy it in real-world applications.
+*   [Google Cloud Skills Boost - Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536): an introductory level microlearning course covering Google Tools aimed at explaining what Generative AI is, how it is used, and how it differs from traditional machine learning methods.
+*   [Google Cloud Skills Boost: Generative AI learning path](https://www.cloudskillsboost.google/journeys/118): curated content on Generative AI "from the fundamentals of Large Language Models to how to create and deploy generative AI solutions on Google Cloud"
+*   [AI for Industrial Design](https://industrialdesign.ai/): "students at the National University of Singapore explore AI’s capability for design in a semester course and share what they learned. Directed by Donn Koh at the Division of Industrial Design, NUS."
+*   [Let Us Show You How GPT Works — Using Jane Austen - The New York Times](https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html)
+*   \[🔥🔥🔥] [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): short course taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI) that provide best practices for prompt engineering
+*   \[🔥🔥🔥] [DAIR.AI](https://github.com/dair-ai): Democratizing Artificial Intelligence Research, Education, and Technologies
+*   [Welcome to the 🤗 Deep Reinforcement Learning Course](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt): a Hugging Face Course on Deep Reinforcement Learning
+*   [Crash course in AI art generation by PromptHero](https://prompthero.com/academy): paid ($99) course focused on prompt engineering
+*   [Visual intuition for diffusion models and AI art. #stablediffusionart #aiart #aiartwork #aiartcommunity](https://www.tiktok.com/@ham_made_art/video/7154863972729113899)
+*   [The Illustrated Stable Diffusion by Jay Alammar](https://jalammar.github.io/illustrated-stable-diffusion/): "gentle introduction \[on] how Stable Diffusion works"
+*   \[🔥][johnowhitaker/tglcourse (⭐108)](https://github.com/johnowhitaker/tglcourse): The Generative Landscape - a course on generative modelling (currently unfinished)
+*   [Words are Images | BustBright - Machine Learning Art](https://www.bustbright.com/product/words-are-images-7-week-online-class-starting-october-24th-2022-/331): 7-week Online class starting October 24th, 2022 by [Derrick Schultz](https://twitter.com/dvsch/)
+*   [Grokking Stable Diffusion.ipynb - Colaboratory - Part 1](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing): notebook by [@johnowhitaker](https://twitter.com/johnowhitaker) exploring Stable Diffusion details
+*   [Grokking Stable Diffusion: Textual Inversion.ipynb - Colaboratory - Part 2](https://colab.research.google.com/drive/1RTHDzE-otzmZOuy8w1WEOxmn9pNcEz3u?usp=sharing): sequel to Grokking Stable Diffusion by [@johnowhitaker](https://twitter.com/johnowhitaker) that focus on Text Inversion
+*   [GitHub - johnowhitaker/aiaiart (⭐552)](https://github.com/johnowhitaker/aiaiart): Course content and resources for the AIAIART course
+*   [Implementation/tutorial of stable diffusion with side-by-side notes by labml.ai | Twitter](https://twitter.com/labmlai/status/1571080112459878401)
+*   [Practical Deep Learning for Coders 2023 - Part II](https://www.youtube.com/watch?v=_7rMfsA24Ls\&list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP): continuation of the course focusing on the implementation of Stable Diffusion from scratch.
+*   [Practical Deep Learning for Coders 2022 - Part I](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU): "free course designed for people with some coding experience who want to learn how to apply deep learning and machine learning to practical problems" by Jeremy Howard
+
+## Papers and References
+
+### Papers Collections
+
+*   [Paper Digest - ChatGPT](https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/): Recent Papers on ChatGPT
+*   [dair-ai/ML-Papers-Explained (⭐6.2k)](https://github.com/dair-ai/ML-Papers-Explained): Explanation to key concepts in ML
+*   [AI Reading List - Google Docs](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/edit): reading list organized by [Jack Soslow (@JackSoslow)](https://twitter.com/JackSoslow)
+*   [Aman's AI Journal • Papers List](https://aman.ai/papers/): set of seminal AI/ML papers curated by Aman Chadha
+*   [Casual GAN Papers Reading Club](https://casualgan.notion.site/casualgan/Casual-GAN-Papers-Reading-Club-327c158518e44d5296a5def74486c7e8): Community knowledge base for Casual GAN Papers
+*   [Casual GAN Papers](https://www.casualganpapers.com/): Easy to read summaries of popular AI papers
+*   [The Illustrated VQGAN](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/): illustrated explanation on how VQGAN works
+*   [CLIP: Connecting Text and Images](https://openai.com/blog/clip/): OpenAI's explanation on how CLIP works
+*   [VQGAN+CLIP — How does it work?. The synthetic imagery (“GAN Art”) scene… | by Alexa Steinbrück | Medium](https://alexasteinbruck.medium.com/vqgan-clip-how-does-it-work-210a5dca5e52)
+*   [The Methods Corpus | Papers With Code](https://paperswithcode.com/methods)
+*   <https://ieeexplore.ieee.org/abstract/document/9043519>: A State-of-the-Art Review on Image Synthesis With Generative Adversarial Networks
+*   [Utilizando redes adversárias generativas (GANs) como agente de apoio à inspiração para artistas](https://www.cin.ufpe.br/~tg/2020-1/TG_CC/tg_cco2.pdf): Trabalho de Graduação de Cláudio Carvalho no Centro de Informática - UFPE
+*   [GAN Lab](https://poloclub.github.io/ganlab/): Play with Generative Adversarial Networks in Your Browser!
+*   [\[PDF\] Music2Video: Automatic Generation of Music Video with fusion of audio and text | Semantic Scholar](https://www.semanticscholar.org/paper/Music2Video%3A-Automatic-Generation-of-Music-Video-of-Jang-Shin/38e37c3a7dc22bb3356552e93e6685b99ca04264)
+*   [\[PDF\] Active Divergence with Generative Deep Learning - A Survey and Taxonomy | Semantic Scholar](https://www.semanticscholar.org/paper/Active-Divergence-with-Generative-Deep-Learning-A-Broad-Berns/091c4ea2efaba23cd9024d8a063609c9a313b5cb)
+*   [\[PDF\] Automating Generative Deep Learning for Artistic Purposes: Challenges and Opportunities | Semantic Scholar](https://www.semanticscholar.org/paper/Automating-Generative-Deep-Learning-for-Artistic-Berns-Broad/f3479740d4ec7f91b6d7a01167e9c875a72d386e)
+
+### AI Tools for Research
+
+*   [\[2310.17143\] Supercharging academic writing with generative AI: framework, techniques, and caveats](https://arxiv.org/abs/2310.17143)
+*   [Elicit](https://elicit.org/): automate research workflow for literature review
+*   [Paper Brain](https://www.paperbrain.study/): summarizer for paper parts. The user needs to copy and paste into their interface.
+*   [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
+*   [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
+*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐595)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
+*   [hwaseem04/Research-digest (⭐2)](https://github.com/hwaseem04/Research-digest): Research paper summariser application for our hackathon
+
+### AI Tools for Searching
+
+*   [whitead/paper-qa (⭐3.1k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
+*   [Metaphor](https://metaphor.systems/): search engine that "understands language — in the form of prompts — so you can say what you're looking for in all the expressive and creative ways"
+
+## Image Synthesis
+
+*   [Transforming 2D Images into 3D with the AdaMPI AI Model](https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/): guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
+*   [deep-floyd/IF (⭐7.2k)](https://github.com/deep-floyd/IF): open-source text-to-image model with a high degree of photorealism and language understanding by Stability.AI
+*   [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/): semantically transforming fonts into illustrations
+*   [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI
+*   [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/)
+*   [openai/point-e (⭐5.9k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
+*   [\[arxiv/2211.11319\] VectorFusion](https://arxiv.org/abs/2211.11319): Text-to-SVG by Abstracting Pixel-Based Diffusion Models
+*   [Parrot Zone](https://proximacentaurib.notion.site/proximacentaurib/parrot-zone-74a5c04d4feb4f12b52a41fc8750b205): a database of image synthesis references
+*   [Image Synth Link List](https://proximacentaurib.notion.site/39805c50735849cfa54b5d688587e12e?v=b9ea748623e342fdae02d07c86c668bf): a collection of links organized by the collective parrot zone
+*   \[🔥🔥🔥] [Ai generative art tools](https://pharmapsychotic.com/tools.html): a massive list of shared Google Colab notebooks and tools organized by [@pharampsychotic](https://twitter.com/pharmapsychotic)
+*   [Introduction — PyTTI-Tools](https://pytti-tools.github.io/pytti-book/intro.html)
+*   [pyttitools-PYTTI.ipynb - Colaboratory](https://colab.research.google.com/github/pytti-tools/pytti-notebook/blob/main/pyttitools-PYTTI.ipynb)
+*   [pixray/pixray (⭐992)](https://github.com/pixray/pixray): Pixray is an image generation system
+*   [pixray/pixray\_notebooks (⭐39)](https://github.com/pixray/pixray_notebooks): pixray demo notebooks
+*   [dribnet/pixray-text2image – Run with an API on Replicate](https://replicate.com/dribnet/pixray-text2image)
+*   [sberbank-ai/ru-dalle (⭐1.6k)](https://github.com/sberbank-ai/ru-dalle): Generate images from texts. In Russian.
+*   [Pyttipanna](https://pyttipanna.xyz/): visual interface for Pytti by [@\_staus](https://twitter.com/_staus). Pytti is created by [@sportsracer48](https://twitter.com/sportsracer48)
+*   [Imagen](https://imagen.research.google/): Google's Text-to-Image Diffusion Models
+*   [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/): Meta's creative control for AI image generation
+*   [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement): Stability.Ai's text-to-image model that is a breakthrough in speed and quality meaning that it can run on consumer GPUs
+*   [CLIPasso](https://clipasso.github.io/clipasso/): Semantically-Aware Object Sketching
+*   [DreamFusion / Twitter](https://twitter.com/_akhaliq/status/1575541930905243652?t=m17X6zyC0c8-VvIWjICc1w\&s=33): Text-to-3D using 2D Diffusion paper
+*   [apple/ml-no-token-left-behind (⭐135)](https://github.com/apple/ml-no-token-left-behind): PyTorch Implementation of No Token Left Behind: Explainability-Aided Image Classification and Generation
+*   [disco-diffusion/Local\_Disco\_Diffusion\_v4\_1.ipynb at main · Midgraph/disco-diffusion](https://github.com/Midgraph/disco-diffusion/blob/main/Local_Disco_Diffusion_v4_1.ipynb)
+*   [Audio to keyframe string](https://audio-keyframe-generator.glitch.me/): this tool is used to generate strings for the keyframes of AI animation notebooks, such as [this VQGAN+CLIP Animations notebook](https://colab.research.google.com/github/chigozienri/VQGAN-CLIP-animations/blob/main/VQGAN-CLIP-animations.ipynb), using the volume of audio tracks.
+*   \[🔥] [S2ML Image Generator](https://colab.research.google.com/github/justin-bennington/S2ML-Generators/blob/main/S2ML_Image_Generator.ipynb): evolution of the first VQGAN+CLIP Google Colab notebook by Katherine Crownson maintained by Justin Bennington
+*   \[🔥] [Create Variations on Images With Looking Glass 1.1 (ru-DALLE) - YouTube | Artificial Images](https://www.youtube.com/watch?v=37_Zjreghw4)
+*   \[🔥] [Looking Glass 1.1 (ru-DALLE)](https://colab.research.google.com/drive/11vdS9dpcZz2Q2efkOjcwyax4oob6N40G): Making ruDALL-E fine tuning quick and painless. Copyright (C) 2021 Bearsharktopus Studios
+*   [NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion (ML Research Paper Explained) - YouTube | Yannic Kilcher](https://www.youtube.com/watch?v=InhMx1h0N40\&t=603s)
+*   \[🔥] [yuval-alaluf/hyperstyle (⭐970)](https://github.com/yuval-alaluf/hyperstyle): Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" <https://arxiv.org/abs/2111.15666>
+*   \[🔥] [Vadim Epstein’s Aphantasia library (⭐757)](https://github.com/eps696/aphantasia): CLIP + FFT/DWT/RGB = text to image/video
+*   [mikaelalafriz/lucid-sonic-dreams (⭐762)](https://github.com/mikaelalafriz/lucid-sonic-dreams): syncs GAN-generated visuals to music
+*   [Greg Surma - Portfolio](https://gsurma.github.io/)
+*   [crowsonkb (Katherine Crowson)](https://github.com/crowsonkb): who wrote [the tutorial of VQGAN+CLIP](https://sourceful.us/doc/935/introduction-to-vqganclip)
+*   [DALL·E](https://openai.com/blog/dall-e/): Creating Images from Text
+*   [DALL-E mini](https://huggingface.co/spaces/flax-community/dalle-mini): DALL·E mini is an AI model that generates images from any prompt you give!
+*   [DALL-E mini GitHub (⭐14k)](https://github.com/borisdayma/dalle-mini)
+*   [DALL-E mini Project Report](https://wandb.ai/dalle-mini/dalle-mini/reports/DALL-E-mini--Vmlldzo4NjIxODA)
+*   [CLIPIT PixelDraw - Colaboratory](https://colab.research.google.com/github/dribnet/clipit/blob/master/demos/PixelDrawer.ipynb)
+*   [CLIP Guided Diffusion HQ 512x512.ipynb - Colaboratory](https://colab.research.google.com/drive/1V66mUeJbXrTuQITvJunvnWVn96FEbSI3#scrollTo=X5gODNAMEUCR)
+*   [Smooth Transitioning Between Position / Rotation / Zoom and Text Inputs by Keyframing Parameters: A Proof of Concept \[15,000 Frames\] : deepdream](https://www.reddit.com/r/deepdream/comments/pagqjx/smooth_transitioning_between_position_rotation/)
+*   [neural-dream Alternatives and Similar Photos & Graphics Apps | AlternativeTo](https://alternativeto.net/software/neural-dream/)
+*   [CoG 21](https://www.ea.com/seed/news/cog2021-adversarial-rl-content-generation): Adversarial Reinforcement Learning for Procedural Content Generation
+*   [GitHub Repositories of Hugging Face](https://github.com/huggingface)
+
+### Inbox: Stable Diffusion
 
 *   [Complete guide to samplers in Stable Diffusion - Félix Sanz](https://www.felixsanz.dev/articles/complete-guide-to-samplers-in-stable-diffusion)
 *   [Stable Diffusion Models](https://rentry.org/sdmodels): list of custom Stable Diffusion models
@@ -465,29 +641,29 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [Dreamer's Guide to Getting Started w/ Stable Diffusion! | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcq819/dreamers_guide_to_getting_started_w_stable/)
 *   [A collection of sites using Stable Diffusion (and other handy links) | Reddit](https://www.reddit.com/r/StableDiffusion/comments/wzj8kk/a_collection_of_sites_using_stable_diffusion_and/)
 
-## Hypertechniques
+### Hypertechniques
 
 *   [Prompt+](https://arxiv.org/abs/2303.09522): extended textual conditioning in text-to-image generation [\[unofficial repo\] (⭐62)](https://github.com/cloneofsimo/promptplusplus) [\[arxiv\]](https://arxiv.org/abs/2303.09522) [\[page\]](https://prompt-plus.github.io/)
 
-### ControlNet
+#### ControlNet
 
 *   [A Beginner's Guide to Line Detection and Image Transformation with ControlNet](https://notes.aimodels.fyi/a-dive-into-line-detection-image-transformation-and-much-more-with/)
 *   [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI (based on ControlNet)
 
-### Textual Inversion
+#### Textual Inversion
 
 *   [rinongal/textual\_inversion (⭐2.6k)](https://github.com/rinongal/textual_inversion): repo contains the official code, data and sample inversions of Textual Inversion paper
 *   [2208.01618 An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/abs/2208.01618): paper that describes the Textual Inversion technique
 *   [sd-concepts-library (Stable Diffusion concepts library)](https://huggingface.co/sd-concepts-library): Stable Diffusion Textual Inversion Concepts Library - browse through objects and styles taught by the community to Stable Diffusion and use them in your prompts!
 
-### DreamBooth
+#### DreamBooth
 
 *   [AI Profile Pictures](https://www.aiprofilepictures.com/): paid service for generating profile pictures using AI
 *   [Training Stable Diffusion with Dreambooth using Diffusers](https://huggingface.co/blog/dreambooth): experiments to analyze the effect of different settings in Dreambooth
 *   [fast-DreamBooth.ipynb - Colaboratory](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb): train custom concepts from input images with this simplified DreamBooth colab
 *   [(1166) Como Criar Artes Incríveis com o seu Próprio Rosto Usando o Dreambooth! DE FORMA FÁCIL E DE GRAÇA! - YouTube](https://www.youtube.com/watch?v=3e4jwgqy-0A): tutorial in Portuguese on how to train DreamBooth with your own face
 
-### Deforum
+#### Deforum
 
 *   \[🔥🔥🔥] [Parseq](https://sd-parseq.web.app): parameter sequencer for Stable Diffusion [\[Youtube Tutorials\]](https://www.youtube.com/playlist?list=PLXbx1PHKHwIHsYFfb5lq2wS8g1FKz6aP8)
 *   [deforum-art/sd-webui-deforum (⭐2.2k)](https://github.com/deforum-art/sd-webui-deforum): Deforum extension for AUTOMATIC1111's Stable Diffusion webui [\[wiki docs\] (⭐2.2k)](https://github.com/deforum-art/sd-webui-deforum/wiki)
@@ -495,7 +671,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [Deforum Stable Diffusion](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb#scrollTo=63UOJvU3xdPS): generating videos from scripted prompts
 *   [(5) Deforum notebook v0.5 for Stable Diffusion animations is out! Now with math automation, perspective flips, prompt weights, video masking and waifus! : StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/xuytx5/deforum_notebook_v05_for_stable_diffusion/)
 
-## Creative Uses of Generative AI Tools
+### Creative Uses of Generative AI Image Synthesis Tools
 
 *   [De-painting historical photographs | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgbug2/depainting_historical_photographs/)
 *   [img2img animation with hands | Reddit](https://www.reddit.com/r/StableDiffusion/comments/x92itm/proof_of_concept_using_img2img_ebsynth_to_animate/)
@@ -510,289 +686,6 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [GitHub - Sanster/lama-cleaner (⭐14k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
 *   [AgaMiko/pixel\_character\_generator (⭐109)](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 *   [Wilco Sierra](https://trywilco.com/sierra): A platform that generates engineering challenges for software engineers using GPT.
-
-## Courses and Educational Materials
-
-*   [Animated AI](https://animatedai.github.io/): animations and instructional videos about neural networks
-*   [Deep Learning AI - Learn the fundamentals of generative AI for real-world applications](https://www.deeplearning.ai/courses/generative-ai-with-llms/): created in partnership with AWS, this course presents the fundamentals of how generative AI works and how to deploy it in real-world applications.
-*   [Google Cloud Skills Boost - Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536): an introductory level microlearning course covering Google Tools aimed at explaining what Generative AI is, how it is used, and how it differs from traditional machine learning methods.
-*   [Google Cloud Skills Boost: Generative AI learning path](https://www.cloudskillsboost.google/journeys/118): curated content on Generative AI "from the fundamentals of Large Language Models to how to create and deploy generative AI solutions on Google Cloud"
-*   [AI for Industrial Design](https://industrialdesign.ai/): "students at the National University of Singapore explore AI’s capability for design in a semester course and share what they learned. Directed by Donn Koh at the Division of Industrial Design, NUS."
-*   [Let Us Show You How GPT Works — Using Jane Austen - The New York Times](https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html)
-*   \[🔥🔥🔥] [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): short course taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI) that provide best practices for prompt engineering
-*   \[🔥🔥🔥] [DAIR.AI](https://github.com/dair-ai): Democratizing Artificial Intelligence Research, Education, and Technologies
-*   [Welcome to the 🤗 Deep Reinforcement Learning Course](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt): a Hugging Face Course on Deep Reinforcement Learning
-*   [Crash course in AI art generation by PromptHero](https://prompthero.com/academy): paid ($99) course focused on prompt engineering
-*   [Visual intuition for diffusion models and AI art. #stablediffusionart #aiart #aiartwork #aiartcommunity](https://www.tiktok.com/@ham_made_art/video/7154863972729113899)
-*   [The Illustrated Stable Diffusion by Jay Alammar](https://jalammar.github.io/illustrated-stable-diffusion/): "gentle introduction \[on] how Stable Diffusion works"
-*   \[🔥][johnowhitaker/tglcourse (⭐108)](https://github.com/johnowhitaker/tglcourse): The Generative Landscape - a course on generative modelling (currently unfinished)
-*   [Words are Images | BustBright - Machine Learning Art](https://www.bustbright.com/product/words-are-images-7-week-online-class-starting-october-24th-2022-/331): 7-week Online class starting October 24th, 2022 by [Derrick Schultz](https://twitter.com/dvsch/)
-*   [Grokking Stable Diffusion.ipynb - Colaboratory - Part 1](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing): notebook by [@johnowhitaker](https://twitter.com/johnowhitaker) exploring Stable Diffusion details
-*   [Grokking Stable Diffusion: Textual Inversion.ipynb - Colaboratory - Part 2](https://colab.research.google.com/drive/1RTHDzE-otzmZOuy8w1WEOxmn9pNcEz3u?usp=sharing): sequel to Grokking Stable Diffusion by [@johnowhitaker](https://twitter.com/johnowhitaker) that focus on Text Inversion
-*   [GitHub - johnowhitaker/aiaiart (⭐552)](https://github.com/johnowhitaker/aiaiart): Course content and resources for the AIAIART course
-*   [Implementation/tutorial of stable diffusion with side-by-side notes by labml.ai | Twitter](https://twitter.com/labmlai/status/1571080112459878401)
-*   [Practical Deep Learning for Coders 2023 - Part II](https://www.youtube.com/watch?v=_7rMfsA24Ls\&list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP): continuation of the course focusing on the implementation of Stable Diffusion from scratch.
-*   [Practical Deep Learning for Coders 2022 - Part I](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU): "free course designed for people with some coding experience who want to learn how to apply deep learning and machine learning to practical problems" by Jeremy Howard
-
-## Papers and References
-
-### AI Tools for Research
-
-*   [\[2310.17143\] Supercharging academic writing with generative AI: framework, techniques, and caveats](https://arxiv.org/abs/2310.17143)
-*   [Elicit](https://elicit.org/): automate research workflow for literature review
-*   [Paper Brain](https://www.paperbrain.study/): summarizer for paper parts. The user needs to copy and paste into their interface.
-*   [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
-*   [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
-*   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐595)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
-*   [hwaseem04/Research-digest (⭐2)](https://github.com/hwaseem04/Research-digest): Research paper summariser application for our hackathon
-
-### AI Tools for Searching
-
-*   [whitead/paper-qa (⭐3.1k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
-*   [Metaphor](https://metaphor.systems/): search engine that "understands language — in the form of prompts — so you can say what you're looking for in all the expressive and creative ways"
-
-### Papers Collections
-
-*   [Paper Digest - ChatGPT](https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/): Recent Papers on ChatGPT
-*   [dair-ai/ML-Papers-Explained (⭐6.2k)](https://github.com/dair-ai/ML-Papers-Explained): Explanation to key concepts in ML
-*   [AI Reading List - Google Docs](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/edit): reading list organized by [Jack Soslow (@JackSoslow)](https://twitter.com/JackSoslow)
-*   [Aman's AI Journal • Papers List](https://aman.ai/papers/): set of seminal AI/ML papers curated by Aman Chadha
-*   [Casual GAN Papers Reading Club](https://casualgan.notion.site/casualgan/Casual-GAN-Papers-Reading-Club-327c158518e44d5296a5def74486c7e8): Community knowledge base for Casual GAN Papers
-*   [Casual GAN Papers](https://www.casualganpapers.com/): Easy to read summaries of popular AI papers
-*   [The Illustrated VQGAN](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/): illustrated explanation on how VQGAN works
-*   [CLIP: Connecting Text and Images](https://openai.com/blog/clip/): OpenAI's explanation on how CLIP works
-*   [VQGAN+CLIP — How does it work?. The synthetic imagery (“GAN Art”) scene… | by Alexa Steinbrück | Medium](https://alexasteinbruck.medium.com/vqgan-clip-how-does-it-work-210a5dca5e52)
-*   [The Methods Corpus | Papers With Code](https://paperswithcode.com/methods)
-*   <https://ieeexplore.ieee.org/abstract/document/9043519>: A State-of-the-Art Review on Image Synthesis With Generative Adversarial Networks
-*   [Utilizando redes adversárias generativas (GANs) como agente de apoio à inspiração para artistas](https://www.cin.ufpe.br/~tg/2020-1/TG_CC/tg_cco2.pdf): Trabalho de Graduação de Cláudio Carvalho no Centro de Informática - UFPE
-*   [GAN Lab](https://poloclub.github.io/ganlab/): Play with Generative Adversarial Networks in Your Browser!
-*   [\[PDF\] Music2Video: Automatic Generation of Music Video with fusion of audio and text | Semantic Scholar](https://www.semanticscholar.org/paper/Music2Video%3A-Automatic-Generation-of-Music-Video-of-Jang-Shin/38e37c3a7dc22bb3356552e93e6685b99ca04264)
-*   [\[PDF\] Active Divergence with Generative Deep Learning - A Survey and Taxonomy | Semantic Scholar](https://www.semanticscholar.org/paper/Active-Divergence-with-Generative-Deep-Learning-A-Broad-Berns/091c4ea2efaba23cd9024d8a063609c9a313b5cb)
-*   [\[PDF\] Automating Generative Deep Learning for Artistic Purposes: Challenges and Opportunities | Semantic Scholar](https://www.semanticscholar.org/paper/Automating-Generative-Deep-Learning-for-Artistic-Berns-Broad/f3479740d4ec7f91b6d7a01167e9c875a72d386e)
-
-## Discussions and Philosophy
-
-*   [Redefining Bias: The Human Prejudice Against AI | Medium](https://johnnosta.medium.com/redefining-bias-the-human-prejudice-against-ai-a1f225b0b2c2)
-*   [AI Art and its Impact on Artists](https://dl.acm.org/doi/10.1145/3600211.3604681): paper published in the Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society
-*   [The AIKEA Effect](https://piszek.com/2023/08/28/aikea-effect/): by Artur Piszek
-*   [Ethics of Artificial Intelligence: Case Studies and Options for Addressing Ethical Challenges | SpringerLink](https://link.springer.com/book/10.1007/978-3-031-17040-9)
-*   [Embracing change and resetting expectations | Microsoft Unlocked](https://unlocked.microsoft.com/ai-anthology/terence-tao/): text by Terence Tao
-*   [Art and the science of generative AI | Science](https://www.science.org/doi/10.1126/science.adh4451)
-*   [Where AI evolves from here](https://www.axios.com/2023/05/18/ai-agi-artificial-general-intelligence)
-*   [The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun): notes by Bill Gates
-*   [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130): OpenAI's paper that discusses the possible implications of GPTs on the U.S. labor market
-*   [Why generative AI scares artists but not content writers](https://www.fastcompany.com/90848228/why-generative-ai-scares-artists-but-not-writers)
-*   [Cultures in AI/AI in Culture](https://ai-cultures.github.io/): NeurIPS 2022 Workshop webpage
-*   [AI Data Laundering - Waxy.org](https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/): How Academic and Nonprofit Researchers Shield Tech Companies from Accountability
-*   \[🔥🔥🔥] [(1232) The End of Art: An Argument Against Image AIs - YouTube](https://www.youtube.com/watch?v=tjSxFAGP9Ss\&t=193s): video essay by Steven Zapata
-*   \[🔥🔥🔥] [The End of Art: An Argument Against Image AIs (Public) - Google Docs](https://docs.google.com/document/d/128yey0VfYhM9eUdvkvCpk5zvvoIkqXfI4hEPAYeJCHU/edit): transcript of the video essay by Steven Zapata
-*   \[🔥🔥🔥] [Generative AI: A Creative New World | Sequoia Capital US/Europe](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/): report by Sequoia Capital about the possible applications of Generative AI
-*   [Synthetic Creativity - by Cavin - Deep Markets](https://deepmarkets.substack.com/p/synthetic-creativity)
-*   [Our Vision for the Future of Synthetic Media | by Victor Riparbelli | Medium](https://vriparbelli.medium.com/our-vision-for-the-future-of-synthetic-media-8791059e8f3a)
-*   [Deep Else](https://dejangrba.github.io/deep-else/): A Critical Framework for AI Art
-*   [How Photography Became An Art Form | Aaron Hertzmann’s blog](https://aaronhertzmann.com/2022/08/29/photography-history.html)
-*   [Can Computers Create Art? by Aaron Hertzmann](https://www.mdpi.com/2076-0752/7/2/18): 2018's essay published on the Arts Journal
-*   [Text Is the Universal Interface - Scale](https://scale.com/blog/text-universal-interface?utm_source=tldrnewsletter)
-*   [This artist is dominating AI-generated art. And he’s not happy about it. | MIT Technology Review](https://www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/)
-*   [The REAL fight over AI art: StableDiffusion | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgu2uo/the_real_fight_over_ai_art/)
-*   [Rutkowski battling AI art overlord | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgv0dw/rutkowski_battling_ai_art_overlord/)
-*   [Instead of mining cryptocoins with GPUs, are we now mining art? | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xg8s8e/instead_of_mining_cryptocoins_with_gpus_are_we/)
-*   [Using AI to create art is NOT art! | Reddit : ArtistLounge](https://www.reddit.com/r/ArtistLounge/comments/xczk89/using_ai_to_create_art_is_not_art/)
-*   [Appreciating the Poetic Misunderstandings of A.I. Art | The New Yorker](https://www.newyorker.com/culture/infinite-scroll/appreciating-the-poetic-misunderstandings-of-ai-art?s=09)
-
-### Critical Views about Generative AI
-
-*   [\[2310.13149\] Understanding Generative AI in Art: An Interview Study with Artists on G-AI from an HCI Perspective](https://arxiv.org/abs/2310.13149)
-*   [\[2309.12338\] Artificial Intelligence and Aesthetic Judgment](https://arxiv.org/abs/2309.12338): "as generative AI influences contemporary aesthetic judgment we outline some of the pitfalls and traps in attempting to scrutinize what AI generated media means"
-*   [AI Worship | Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2023/10/ai-worship.html)
-*   [Artificial intelligence technology behind ChatGPT was built in Iowa — with a lot of water | AP News](https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4)
-*   [ChatGPT is fun, but not an author | Science](https://www.science.org/doi/10.1126/science.adg7879)
-*   [Behind the AI boom, an army of overseas workers in ‘digital sweatshops’ | The Washington Post](https://www.washingtonpost.com/world/2023/08/28/scale-ai-remotasks-philippines-artificial-intelligence/): Scale AI’s Remotasks workers in the Philippines cry foul over low pay
-*   [It’s Not Intelligent If It Always Halts: A Critical Perspective on Current Approaches to AGI | Life Is Computation](https://www.lifeiscomputation.com/it-is-not-intelligent-if-it-always-halts/)
-*   [The human costs of the AI boom | TechCrunch](https://techcrunch.com/2023/08/21/the-human-costs-of-the-ai-boom/)
-*   [AI Scams, Spam, Hacking, Are Ruining the Internet](https://www.businessinsider.com/ai-scam-spam-hacking-ruining-internet-chatgpt-privacy-misinformation-2023-8)
-*   [The ChatGPT revolution is another tech fantasy](https://www.disconnect.blog/p/the-chatgpt-revolution-is-another)
-*   [Why AI Will Save the World | Andreessen Horowitz](https://a16z.com/2023/06/06/ai-will-save-the-world/)
-*   [Hollywood studios proposed AI contract that would give them likeness rights ‘for the rest of eternity’ - The Verge](https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights)
-*   [The shady world of Brave selling copyrighted data for AI training](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
-*   [Inside the AI Factory: the humans that make tech seem human - The Verge](https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots?s=08)
-*   [Why transformative artificial intelligence is really, really hard to achieve](https://thegradient.pub/why-transformative-artificial-intelligence-is-really-really-hard-to-achieve/)
-*   [AI and the automation of work — Benedict Evans](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai)
-*   [Yuval Noah Harari argues that AI has hacked the operating system of human civilisation](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation)
-*   [Generative AI Takes Stereotypes and Bias From Bad to Worse](https://www.bloomberg.com/graphics/2023-generative-ai-bias/)
-*   [Governance of superintelligence by OpenAI](https://openai.com/blog/governance-of-superintelligence)
-*   [AIAAIC - AIAAIC Repository](https://www.aiaaic.org/aiaaic-repository): "The independent, open, public interest resource detailing incidents and controversies driven by and relating to artificial intelligence, algorithms, and automation"
-*   [Just Calm Down About GPT-4 Already - IEEE Spectrum](https://spectrum.ieee.org/gpt-4-calm-down)
-*   [Pause Giant AI Experiments: An Open Letter - Future of Life Institute](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
-*   ["OpenAI released plugins for ChatGPT"](https://twitter.com/thealexbanks/status/1639620659142881283): tweet from [@thealexbanks](https://twitter.com/thealexbanks) with a list of reflections about the impact of ChatGPT plugins
-*   [Is a socially fair Artificial Intelligence possible? | Uma Inteligência Artificial socialmente justa é possível?](https://www.mabuse.art.br/post/uma-intelig%C3%AAncia-artificial-socialmente-justa-%C3%A9-poss%C3%ADvel): post in Portuguese by H.D. Mabuse
-*   [Noam Chomsky on ChatGPT: It's "Basically High-Tech Plagiarism" and "a Way of Avoiding Learning" | Open Culture](https://www.openculture.com/2023/02/noam-chomsky-on-chatgpt.html)
-*   [Despite Their Feats, Large Language Models Still Haven't Contributed to Linguistics | Towards Data Science](https://towardsdatascience.com/despite-their-feats-large-language-models-still-havent-contributed-to-linguistics-657bea43a8a3)
-*   [Will ChatGPT Kill the Student Essay? | The Atlantic](https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/)
-*   [What ChatGPT and generative AI mean for science | Nature](https://www.nature.com/articles/d41586-023-00340-6)
-*   [ChatGPT Is a Bullshit Generator Waging Class War](https://www.vice.com/en/article/akex34/chatgpt-is-a-bullshit-generator-waging-class-war)
-*   [Some thoughts about generative AI and the future of education – Mark Carrigan](https://markcarrigan.net/2023/01/15/some-thoughts-about-generative-ai-and-the-future-of-education/)
-*   [Educator Considerations for ChatGPT - OpenAI API](https://platform.openai.com/docs/chatgpt-education)
-*   [Stable Diffusion Frivolous · Because lawsuits based on ignorance deserve a response.](http://www.stablediffusionfrivolous.com/): a community response for the "Stable Diffusion litigation"
-*   [Stable Diffusion litigation · Joseph Saveri Law Firm & Matthew Butterick](https://stablediffusionlitigation.com/)
-*   [Generative Language Models and Automated Influence Operations: Emerging Threats and Potential Mitigations | OpenAI](https://cdn.openai.com/papers/forecasting-misuse.pdf)
-*   [Abstracts written by ChatGPT fool scientists](https://www.nature.com/articles/d41586-023-00056-7)
-*   [When Machines Change Art | Aaron Hertzmann’s blog](https://aaronhertzmann.com/2022/12/17/when-tech-changes-art.html)
-*   [The Dark Risk of Large Language Models | WIRED UK](https://www.wired.co.uk/article/artificial-intelligence-language)
-*   [ChatGPT, DALL-E 2 and the collapse of the creative process](https://theconversation.com/chatgpt-dall-e-2-and-the-collapse-of-the-creative-process-196461)
-*   [What AI-Generated Art Really Means for Human Creativity | WIRED](https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/)
-*   [Forecasting Potential Misuses of Language Models for Disinformation Campaigns—and How to Reduce Risk](https://openai.com/blog/forecasting-misuse/)
-*   [The Dark Side of AI Art: 4 Potential Issues With the Growing Trend](https://www.makeuseof.com/dark-side-of-ai-art-potential-issues/)
-*   [Armed With ChatGPT, Cybercriminals Build Malware And Plot Fake Girl Bots](https://www.forbes.com/sites/thomasbrewster/2023/01/06/chatgpt-cybercriminal-malware-female-chatbots/?sh=6019f4315534)
-*   [ChatGPT And The Mass Production Of Office Work - Farsight](https://farsight.cifs.dk/chatgpt-and-the-mass-production-of-office-work/)
-*   [The Danger Of ChatGPT Nobody Talks About | by Jacob Ferus | Dec, 2022 | Medium](https://medium.com/@dreamferus/the-danger-of-chatgpt-nobody-talks-about-9aff94e5dea6)
-*   [Mind Control in the Metaverse. If we’ve learned anything about… | by Louis Rosenberg | Predict | Dec, 2022 | Medium](https://medium.com/predict/mind-control-in-the-metaverse-48dfbd88c2ae)
-*   [The Brilliance and Weirdness of ChatGPT - The New York Times](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html)
-*   [Como o texto gerado por Inteligência Artificial está envenenando a Internet - MIT Technology Review](https://mittechreview.com.br/como-o-texto-gerado-por-inteligencia-artificial-esta-envenenando-a-internet/)
-*   [O ChatGPT é o momento “Jurassic Park” da inteligência artificial - NeoFeed](https://neofeed.com.br/blog/home/o-chatgpt-e-o-momento-jurassic-park-da-inteligencia-artificial/)
-*   [Por favor, mais racionalidade e menos frenesi em relação ao chatGPT (Parte 1 de 2) | by Cezar Taurion | Dec, 2022 | Medium](https://c-taurion.medium.com/por-favor-mais-racionalidade-e-menos-frenesi-em-rela%C3%A7%C3%A3o-ao-chatgpt-parte-1-de-2-1d7637e2a854)
-*   [E se estivermos usando uma IA pseudocientífica? - Diogo Cortiz](https://diogocortiz.com.br/computacao-afetiva-e-os-desafios-das-ias-pseudocientificas/)
-*   [As limitações da sensação tecnológica de 2023: o ChatGPT | IAgora? | Época NEGÓCIOS](https://epocanegocios.globo.com/colunas/iagora/coluna/2023/01/as-limitacoes-da-sensacao-tecnologica-de-2023-o-chatgpt.ghtml)
-*   [7 Revealing Ways AIs Fail - IEEE Spectrum](https://spectrum.ieee.org/ai-failures)
-
-### Promptism
-
-*   [promptism | Reddit](https://www.reddit.com/r/promptism/): Promptism is an art movement whose creators apply machine learning models trained with contrastive language-image pre-training (CLIP) techniques for image generation
-*   [The Promptist Manifesto – deeplearn.art](https://deeplearn.art/the-promptist-manifesto/)
-
-## Image Synthesis
-
-*   [Transforming 2D Images into 3D with the AdaMPI AI Model](https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/): guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
-*   [deep-floyd/IF (⭐7.2k)](https://github.com/deep-floyd/IF): open-source text-to-image model with a high degree of photorealism and language understanding by Stability.AI
-*   [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/): semantically transforming fonts into illustrations
-*   [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI
-*   [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/)
-*   [openai/point-e (⭐5.9k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
-*   [\[arxiv/2211.11319\] VectorFusion](https://arxiv.org/abs/2211.11319): Text-to-SVG by Abstracting Pixel-Based Diffusion Models
-*   [Parrot Zone](https://proximacentaurib.notion.site/proximacentaurib/parrot-zone-74a5c04d4feb4f12b52a41fc8750b205): a database of image synthesis references
-*   [Image Synth Link List](https://proximacentaurib.notion.site/39805c50735849cfa54b5d688587e12e?v=b9ea748623e342fdae02d07c86c668bf): a collection of links organized by the collective parrot zone
-*   \[🔥🔥🔥] [Ai generative art tools](https://pharmapsychotic.com/tools.html): a massive list of shared Google Colab notebooks and tools organized by [@pharampsychotic](https://twitter.com/pharmapsychotic)
-*   [Introduction — PyTTI-Tools](https://pytti-tools.github.io/pytti-book/intro.html)
-*   [pyttitools-PYTTI.ipynb - Colaboratory](https://colab.research.google.com/github/pytti-tools/pytti-notebook/blob/main/pyttitools-PYTTI.ipynb)
-*   [pixray/pixray (⭐992)](https://github.com/pixray/pixray): Pixray is an image generation system
-*   [pixray/pixray\_notebooks (⭐39)](https://github.com/pixray/pixray_notebooks): pixray demo notebooks
-*   [dribnet/pixray-text2image – Run with an API on Replicate](https://replicate.com/dribnet/pixray-text2image)
-*   [sberbank-ai/ru-dalle (⭐1.6k)](https://github.com/sberbank-ai/ru-dalle): Generate images from texts. In Russian.
-*   [Pyttipanna](https://pyttipanna.xyz/): visual interface for Pytti by [@\_staus](https://twitter.com/_staus). Pytti is created by [@sportsracer48](https://twitter.com/sportsracer48)
-*   [Imagen](https://imagen.research.google/): Google's Text-to-Image Diffusion Models
-*   [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/): Meta's creative control for AI image generation
-*   [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement): Stability.Ai's text-to-image model that is a breakthrough in speed and quality meaning that it can run on consumer GPUs
-*   [CLIPasso](https://clipasso.github.io/clipasso/): Semantically-Aware Object Sketching
-*   [DreamFusion / Twitter](https://twitter.com/_akhaliq/status/1575541930905243652?t=m17X6zyC0c8-VvIWjICc1w\&s=33): Text-to-3D using 2D Diffusion paper
-*   [apple/ml-no-token-left-behind (⭐135)](https://github.com/apple/ml-no-token-left-behind): PyTorch Implementation of No Token Left Behind: Explainability-Aided Image Classification and Generation
-*   [disco-diffusion/Local\_Disco\_Diffusion\_v4\_1.ipynb at main · Midgraph/disco-diffusion](https://github.com/Midgraph/disco-diffusion/blob/main/Local_Disco_Diffusion_v4_1.ipynb)
-*   [Audio to keyframe string](https://audio-keyframe-generator.glitch.me/): this tool is used to generate strings for the keyframes of AI animation notebooks, such as [this VQGAN+CLIP Animations notebook](https://colab.research.google.com/github/chigozienri/VQGAN-CLIP-animations/blob/main/VQGAN-CLIP-animations.ipynb), using the volume of audio tracks.
-*   \[🔥] [S2ML Image Generator](https://colab.research.google.com/github/justin-bennington/S2ML-Generators/blob/main/S2ML_Image_Generator.ipynb): evolution of the first VQGAN+CLIP Google Colab notebook by Katherine Crownson maintained by Justin Bennington
-*   \[🔥] [Create Variations on Images With Looking Glass 1.1 (ru-DALLE) - YouTube | Artificial Images](https://www.youtube.com/watch?v=37_Zjreghw4)
-*   \[🔥] [Looking Glass 1.1 (ru-DALLE)](https://colab.research.google.com/drive/11vdS9dpcZz2Q2efkOjcwyax4oob6N40G): Making ruDALL-E fine tuning quick and painless. Copyright (C) 2021 Bearsharktopus Studios
-*   [NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion (ML Research Paper Explained) - YouTube | Yannic Kilcher](https://www.youtube.com/watch?v=InhMx1h0N40\&t=603s)
-*   \[🔥] [yuval-alaluf/hyperstyle (⭐970)](https://github.com/yuval-alaluf/hyperstyle): Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" <https://arxiv.org/abs/2111.15666>
-*   \[🔥] [Vadim Epstein’s Aphantasia library (⭐757)](https://github.com/eps696/aphantasia): CLIP + FFT/DWT/RGB = text to image/video
-*   [mikaelalafriz/lucid-sonic-dreams (⭐762)](https://github.com/mikaelalafriz/lucid-sonic-dreams): syncs GAN-generated visuals to music
-*   [Greg Surma - Portfolio](https://gsurma.github.io/)
-*   [crowsonkb (Katherine Crowson)](https://github.com/crowsonkb): who wrote [the tutorial of VQGAN+CLIP](https://sourceful.us/doc/935/introduction-to-vqganclip)
-*   [DALL·E](https://openai.com/blog/dall-e/): Creating Images from Text
-*   [DALL-E mini](https://huggingface.co/spaces/flax-community/dalle-mini): DALL·E mini is an AI model that generates images from any prompt you give!
-*   [DALL-E mini GitHub (⭐14k)](https://github.com/borisdayma/dalle-mini)
-*   [DALL-E mini Project Report](https://wandb.ai/dalle-mini/dalle-mini/reports/DALL-E-mini--Vmlldzo4NjIxODA)
-*   [CLIPIT PixelDraw - Colaboratory](https://colab.research.google.com/github/dribnet/clipit/blob/master/demos/PixelDrawer.ipynb)
-*   [CLIP Guided Diffusion HQ 512x512.ipynb - Colaboratory](https://colab.research.google.com/drive/1V66mUeJbXrTuQITvJunvnWVn96FEbSI3#scrollTo=X5gODNAMEUCR)
-*   [Smooth Transitioning Between Position / Rotation / Zoom and Text Inputs by Keyframing Parameters: A Proof of Concept \[15,000 Frames\] : deepdream](https://www.reddit.com/r/deepdream/comments/pagqjx/smooth_transitioning_between_position_rotation/)
-*   [neural-dream Alternatives and Similar Photos & Graphics Apps | AlternativeTo](https://alternativeto.net/software/neural-dream/)
-*   [CoG 21](https://www.ea.com/seed/news/cog2021-adversarial-rl-content-generation): Adversarial Reinforcement Learning for Procedural Content Generation
-*   [GitHub Repositories of Hugging Face](https://github.com/huggingface)
-
-### DALL-E 2
-
-*   [lucidrains/DALLE2-pytorch (⭐10k)](https://github.com/lucidrains/DALLE2-pytorch): Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch
-*   [DALL-E 2’s Failures Are the Most Interesting Thing About It - IEEE Spectrum](https://spectrum.ieee.org/openai-dall-e-2): paper by Eliza Strickland
-*   [DALL·E 2](https://openai.com/dall-e-2/): OpenAI system, evolution of the DALL-E launched in Jan 2021, that can create realistic images and art from a description in natural language.
-
-### Latent Diffusion
-
-*   [LatentVision\_rynmurdock.ipynb - Colaboratory](https://colab.research.google.com/github/olaviinha/NeuralImageGeneration/blob/main/LatentVision_rynmurdock.ipynb)
-*   [Latent\_Diffusion\_with\_LAION\_400M.ipynb - Colaboratory](https://colab.research.google.com/github/pharmapsychotic/latent-diffusion/blob/main/Latent_Diffusion_with_LAION_400M.ipynb)
-
-### GLIDE
-
-*   ["GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models", Nichol et al 2021 (OpenAI's DALL-E successor: 5b-parameter diffusion models + noise-aware CLIP) : MediaSynthesis](https://www.reddit.com/r/MediaSynthesis/comments/rl3mee/glide_towards_photorealistic_image_generation_and/?utm_source=share\&utm_medium=ios_app\&utm_name=iossmf)
-*   [OpenAI paper: "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models". Code and a smaller filtered model (300 million parameters vs 3.5 billion parameters in the paper) are available. : bigsleep](https://www.reddit.com/r/bigsleep/comments/rl5rgw/openai_paper_glide_towards_photorealistic_image/)
-
-### VQGAN+CLIP
-
-*   [VQ-GAN | Paper Explanation - YouTube](https://www.youtube.com/watch?v=wcqLFDXaDO8): explanation video about VQGAN with didactic visualizations
-*   [VQGAN+CLIP — How does it work?. The synthetic imagery (“GAN Art”) scene… | by Alexa Steinbrück | Aug, 2021 | Medium](https://alexasteinbruck.medium.com/vqgan-clip-how-does-it-work-210a5dca5e52)
-*   [Introduction to VQGAN+CLIP - 🟧Sourceful](https://sourceful.us/doc/935/introduction-to-vqganclip)
-*   [How to use VQGAN+CLIP to generate images from a text prompt —tutorial for beginners | NightCafe Creator](https://medium.com/nightcafe-creator/vqgan-clip-tutorial-a411402cf3ad)
-*   [VQGAN + CLIP Keyword Modifier Comparison - NightCafe Creator](https://creator.nightcafe.studio/vqgan-clip-keyword-modifier-comparison)
-*   [\~200 CLIP+VQGAN keywords tested on 4 subjects : bigsleep](https://www.reddit.com/r/bigsleep/comments/oq2pai/200_clipvqgan_keywords_tested_on_4_subjects/?utm_medium=android_app\&utm_source=share)
-*   [AI Generated Art Scene Explodes as Hackers Create Groundbreaking New Tools CLIP+VQ-GAN | VICE](https://www.vice.com/en/article/n7bqj7/ai-generated-art-scene-explodes-as-hackers-create-groundbreaking-new-tools)
-*   [VQGAN+CLIP (with pooling)](https://colab.research.google.com/drive/1ZAus_gn2RhTZWzOWUpPERNC0Q8OhZRTZ#scrollTo=JX56bq4rEKIp): Generate images from text prompts with VQGAN and CLIP (z+quantize method)
-*   [\~200 CLIP+VQGAN keywords on 4 subjects, by @kingdomakrillic  - Imgur](https://imgur.com/a/SALxbQm)
-*   [Experimentando o VQGAN+CLIP: gerador de imagens a partir de textos - YouTube Filipe Calegario](https://www.youtube.com/watch?v=Yy5NMTkN-Qc)
-
-### Text-to-image Google Colab Notebooks (Multiple Models)
-
-*   [VQGAN + CLIP + Gumbel](https://colab.research.google.com/drive/1tim3xTsZXafK-A2rOUsevckdl4OitIiw)
-*   [OpenAI DVAE+CLIP](https://colab.research.google.com/drive/10DzGECHlEnL4oeqsN-FWCkIe_sq3wVqt)
-*   [Text2Image VQGAN](https://colab.research.google.com/github/eps696/aphantasia/blob/master/CLIP_VQGAN.ipynb)
-*   [Improved Multi Perceptor VQGAN + CLIP](https://colab.research.google.com/drive/1peZ98vBihDD9A1v7JdH5VvHDUuW5tcRK)
-*   [Latent Majesty Diffusion v1.3](https://colab.research.google.com/github/multimodalart/MajestyDiffusion/blob/main/latent.ipynb)
-*   [CLIP Guided Decision Transformer](https://colab.research.google.com/drive/1V66mUeJbXrTuQITvJunvnWVn96FEbSI3)
-*   [CLIP Guided Diffusion](https://colab.research.google.com/drive/12a_Wrfi2_gwwAuN3VvMTwVMz9TfqctNj)
-*   [GLIDE](https://colab.research.google.com/github/openai/glide-text2im/blob/main/notebooks/text2im.ipynb)
-*   [PixelDirect](https://colab.research.google.com/drive/1F9ZOZnpV3uBPRDSESaAXYwzNZJQRJT75)
-*   [CLIP Guided Diffusion Secondary Model Method](https://colab.research.google.com/drive/1mpkrhOjoyzPeSWy2r7T8EYRaU7amYOOi)
-*   [Zoetrope](https://colab.research.google.com/drive/1LpEbICv1mmta7Qqic1IcRTsRsq7UKRHM)
-*   [Quick CLIP Guided Diffusion](https://colab.research.google.com/drive/1FuOobQOmDJuG7rGsMWfQa883A9r4HxEO)
-*   [MSE Regulized VQGAN+CLIP](https://colab.research.google.com/drive/1hf1seGOZctOJUznkhJNblLluXHbWLKZh)
-*   [CLIPRGB ImStack](https://colab.research.google.com/drive/1CcibxlLDng2yzcjLwwwSADRcisc1qVCs)
-*   [CLIP Guided Diffusion v4](https://colab.research.google.com/drive/1V66mUeJbXrTuQITvJunvnWVn96FEbSI3)
-*   [Simplified Google Colab Interface for the above models](https://sites.google.com/ear.com.br/aimodelgallery/home?authuser=1): series of interface simplification made by EAR+CIn Research project
-
-### Generative Adversarial Networks (GANs)
-
-*   \[🔥🔥🔥] [Drag Your GAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/): "Interactive Point-based Manipulation on the Generative Image Manifold"
-*   \[🔥] [weihaox/awesome-gan-inversion (⭐1k)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
-*   [DeCoDe Lab](http://decode.mit.edu/projects/creativegan/): CREATIVEGAN - Editing Generative Adversarial Networks for Creative Design Synthesis
-*   [Latent Space Exploration with StyleGAN2](https://amarsaini.github.io/Epoching-Blog/jupyter/2020/08/10/Latent-Space-Exploration-with-StyleGAN2.html)
-*   [yuval-alaluf/stylegan3-editing (⭐616)](https://github.com/yuval-alaluf/stylegan3-editing): Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" <https://arxiv.org/abs/2201.13433>
-*   [autonomousvision/projected\_gan (⭐862)](https://github.com/autonomousvision/projected_gan): \[NeurIPS'21] Projected GANs Converge Faster
-*   [These Bored Apes Do Not Exist: GAN to NFT Pipeline | Medium](https://medium.com/@nathancooperjones/these-bored-apes-do-not-exist-6bed2c73f02c)
-*   [ouhenio/StyleGAN3-CLIP-notebooks (⭐193)](https://github.com/ouhenio/StyleGAN3-CLIP-notebooks): A collection of Jupyter notebooks to play with NVIDIA's StyleGAN3 and OpenAI's CLIP for a text-based guided image generation.
-*   [k-l-lambda/stylegan-web (⭐155)](https://github.com/k-l-lambda/stylegan-web): A web porting for NVlabs' StyleGAN.
-*   [aakashjhawar/AvatarGAN (⭐57)](https://github.com/aakashjhawar/AvatarGAN): Generate Cartoon Images using Generative Adversarial Network
-*   \[🔥] [dvschultz/stylegan3 (⭐94)](https://github.com/dvschultz/stylegan3): Forked by Schultz from Stylegan3
-*   [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://nvlabs.github.io/stylegan3/): NVidia official StyleGAN3 release page
-*   \[🚀] [StyleGAN-NADA](https://stylegan-nada.github.io/): CLIP-Guided Domain Adaptation of Image Generators
-*   [Let's Talk Energy Usage of Generative Machine Learning](https://www.youtube.com/watch?v=3nViZGCkAhU\&t=1276s)
-*   [StyleGAN: Use machine learning to generate and customize realistic images | by Jamshed Khan | Heartbeat](https://heartbeat.fritz.ai/stylegans-use-machine-learning-to-generate-and-customize-realistic-images-c943388dc672)
-*   [Audio-reactive Latent Interpolations with StyleGAN](https://wavefunk.xyz/audio-reactive-stylegan)
-*   [SofGAN](https://www.unite.ai/sofgan-a-gan-face-generator-that-offers-greater-control/): A GAN Face Generator That Offers Greater Control - Unite.AI
-*   [Real GANs in AI | Hacker Noon](https://hackernoon.com/real-gans-in-ai): deep dive into what the generative models are, the recent developments in the field, and the usage of GANs in business
-*   [GANshare | Towards Data Science](https://towardsdatascience.com/ganshare-creating-and-curating-art-with-ai-for-fun-and-profit-1b3b4dcd7376): Creating and Curating Art with AI
-
-## Collections
-
-*   [The Generative AI Landscape](https://ai-collection.org/): "a collection of awesome generative AI applications"
-*   [The ultimate list of AI tools for creators | Descript](https://www.descript.com/blog/article/the-ultimate-list-of-ai-tools-for-creators): collection organized by Descript
-*   [AI art resources | Unlimited Dream Co.](https://www.unlimiteddreamco.xyz/resources): collection of AI art software, guides, inspiration, tools and other useful resources.
-*   [AI Library](https://library.phygital.plus/): catalog of AI tools and neural networks for creators
-*   \[🔥🔥] [Pollinations.AI](https://pollinations.ai): a frontend hosting a set of curated notebooks that allow creating and experimenting with generative art. Their objective is to facilitate the creation and translation of multiple forms of human expressions.
-*   \[🔥] [hive/notebooks at main · pollinations/hive (⭐58)](https://github.com/pollinations/hive/tree/main/notebooks): collection of notebooks used by Pollinations.AI
-*   [Post Reddit - MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/): List of sites/programs/projects that use OpenAI's CLIP neural network for steering image/video creation to match a text description
-*   [Top 41 AI Art Generators](https://aiartists.org/ai-generated-art-tools): Make AI Art, Paintings & More (2021 GUIDE) — AIArtists.org
-*   [10 Best AI Art Generators (2022) - Unite.AI](https://www.unite.ai/10-best-ai-art-generators/)
-*   [Get started with making AI art in 2022 – deeplearn.art](https://deeplearn.art/get-started-with-making-ai-art-in-2022/)
-*   [Text-to-Image Summary – Part 1 | Softology's Blog](https://softologyblog.wordpress.com/2021/06/10/text-to-image-summary/)
-*   \[🔥🔥] [Hitchhiker's Guide To The Latent Space: Community Notebook Document](https://docs.google.com/document/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/edit): great collection of interesting notebooks
-*   [Machine learning for arts](https://ml4a.net/)
-*   \[🔥] [dvschultz/ml-art-colabs (⭐828)](https://github.com/dvschultz/ml-art-colabs): A list of Machine Learning Art Colabs
 
 ## Image Upscaling
 

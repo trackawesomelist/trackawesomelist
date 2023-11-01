@@ -279,7 +279,7 @@ If you want to contribute to this list (please do), send me a pull request.
 *   [React Starter Kit (⭐22k)](https://github.com/kriasoft/react-starter-kit) - front-end starter kit using React, Relay, GraphQL, and JAM stack architecture.
 *   [SWAPI GraphQL Wrapper (⭐1k)](https://github.com/graphql/swapi-graphql) - A GraphQL schema and server wrapping SWAPI.
 *   [Relay TodoMVC (⭐161)](https://github.com/taion/relay-todomvc) - Relay TodoMVC with routing.
-*   [Apollo Client documentation](https://www.apollographql.com/react/) - Documentation and example for building GraphQL apps using apollo client.
+*   [Apollo Client documentation](https://www.apollographql.com/docs/react) - Documentation and example for building GraphQL apps using apollo client.
 *   [Apollo Server tools documentation](https://www.apollographql.com/docs/apollo-server/) - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
 *   [F8 App 2017 (⭐14k)](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.
 *   [Apollo React example for Github GraphQL API (⭐116)](https://github.com/katopz/react-apollo-graphql-github-example) - Usage Examples Apollo React for Github GraphQL API with create-react-app.
@@ -573,7 +573,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### Android
 
-*   [apollo-android (⭐3.5k)](https://github.com/apollographql/apollo-android) - 📟 A strongly-typed, caching GraphQL client for Android, written in Java.
+*   [apollo-android (⭐3.6k)](https://github.com/apollographql/apollo-android) - 📟 A strongly-typed, caching GraphQL client for Android, written in Java.
 *   [manifold-graphql (⭐2k)](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql) - Comprehensive GraphQL client use. Schema-first. Type-safe GraphQL types, queries, and results, no code generators, no POJOs, no annotations. Excellent [IDE support](http://manifold.systems/images/graphql.mp4) with IntelliJ IDEA and Android Studio. See the [Java example](#example-java) below.
 
 <a name="android-example" />
@@ -717,6 +717,7 @@ If you want to contribute to this list (please do), send me a pull request.
 *   [WAF for graphQL](https://lab.wallarm.com/api-security-solution/) - Web Application Firewall for graphQL APIs
 *   [GraphQL Intruder (⭐11)](https://github.com/davinerd/gql_intruder) - Plugin based python script to perform GraphQL vulnerability assessment.
 *   [GraphQL Cop (⭐233)](https://github.com/dolevf/graphql-cop) - Security Audit Utility for GraphQL
+*   [GraphQLer (⭐35)](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool
 
 ### Tools - Browser Extensions
 

@@ -6,6 +6,12 @@ Community list of data & technology resources concerning the built environment a
 
 [ Daily / [Weekly](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md) / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
 
+## [Nov 01, 2023](/content/2023/11/01/README.md)
+
+### Public Data Resources / Housing
+
+*   [National Housing Preservation Database](https://preservationdatabase.org/) - The National Housing Preservation Database contains property and subsidy-level data pulled from nine different HUD and USDA data sources.  The database contains information on over 70,000 properties nationwide.
+
 ## [Oct 31, 2023](/content/2023/10/31/README.md)
 
 ### Planning Coding Resources / Python

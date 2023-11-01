@@ -16,9 +16,9 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
  -->
 
-|                                                                           Awesome                                                                           |   Linux   | Projects |      Updated     |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :------: | :--------------: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1049   | October 27, 2023 |
+|                                                                           Awesome                                                                           |   Linux   | Projects |      Updated      |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :------: | :---------------: |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1049   | November 01, 2023 |
 
 ### Contents
 
@@ -483,6 +483,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 *Libs to get access to build chat app* [back to top](#readme)
 
 *   [Chatto (⭐4.4k)](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications.
+*   [ExyteChat (⭐316)](https://github.com/exyte/chat) - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker
 *   [InputBarAccessoryView (⭐1.1k)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
 *   [MessageKit (⭐5.8k)](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
 *   [MessengerKit (⭐1.5k)](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces.
@@ -622,7 +623,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 [back to top](#readme)
 
-*   [MongoKitten (⭐675)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
+*   [MongoKitten (⭐677)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
 *   [Perfect-MongoDB (⭐54)](https://github.com/PerfectlySoft/Perfect-MongoDB) :penguin: - A stand-alone wrapper around the mongo-c client library, enabling access to MongoDB servers.
 
 #### Multi Database
@@ -1201,7 +1202,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 *   [L10nLint (⭐38)](https://github.com/s2mr/L10nLint) - A linter tool for Localizable.strings.
 *   [swift-mod (⭐100)](https://github.com/ra1028/swift-mod) - A tool for Swift code modification intermediating between code generation and formatting.
 *   [SwiftCop (⭐542)](https://github.com/andresinaka/SwiftCop) - A validation library which inspired by the clarity of Ruby On Rails Active Record validations.
-*   [SwiftFormat (⭐7k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
+*   [SwiftFormat (⭐7.1k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 *   [SwiftLint (⭐18k)](https://github.com/realm/SwiftLint) - A tool to enforce coding conventions.
 *   [Swimat (⭐1.6k)](https://github.com/Jintin/Swimat) - Xcode plugin to format code.
 *   [Tailor (⭐1.4k)](https://github.com/sleekbyte/tailor) :penguin: - Cross-platform static analyzer that helps you to write cleaner code and avoid bugs.

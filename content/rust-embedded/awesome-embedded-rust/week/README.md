@@ -8,6 +8,10 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
+### Books, blogs and training materials / Community Chat Rooms
+
+*   [Tweede golf's workshop](https://workshop.tweede.golf) - A full workshop about Rust and embedded Rust. The embedded parts use the nRF52840-DK and a LIS3DH breakout board. ([github source (⭐2)](https://github.com/tweedegolf/rust-workshop))
+
 ### Driver crates / WIP
 
 *   [AD9850](https://crates.io/crates/ad9850) - Embedded driver for the AD9850 DDS synthesizer chip - ![crates.io](https://img.shields.io/crates/v/ad9850.svg)
@@ -128,7 +132,6 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 ### Books, blogs and training materials / Community Chat Rooms
 
 *   [ESP32-C3 Rust Tutorials](https://youtube.com/playlist?list=PLkch9g9DEE0Lkm1LqcD7pZNDmXEczOo-a) Short videos and [Github project (⭐31)](https://github.com/shanemmattner/ESP32-C3_Rust_Tutorials) implementing various peripherals of the ESP32-C3 with the end goal of creating a complete data logger application.
-    \[Ferrous Systems]: <https://ferrous-systems.com>
 
 ### Peripheral Access Crates / Renesas
 
@@ -278,7 +281,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Books, blogs and training materials / Community Chat Rooms
 
-*   [Ferrous Systems' Embedded Training Courses: 2020-current edition (⭐229)](https://github.com/ferrous-systems/embedded-trainings-2020) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by \[Ferrous Systems] to corporate customers.
+*   [Ferrous Systems' Embedded Training Courses: 2020-current edition (⭐229)](https://github.com/ferrous-systems/embedded-trainings-2020) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by [Ferrous Systems](https://ferrous-systems.com) to corporate customers.
 
 ### no-std crates / WIP
 
@@ -669,7 +672,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Tools / Community Chat Rooms
 
-*   [Knurling Tools](https://knurling.ferrous-systems.com/tools/) are developed by \[Ferrous Systems] to ease the development process for building, debugging, and testing embedded Rust systems. These tools include:
+*   [Knurling Tools](https://knurling.ferrous-systems.com/tools/) are developed by [Ferrous Systems](https://ferrous-systems.com) to ease the development process for building, debugging, and testing embedded Rust systems. These tools include:
     *   [Probe Run (⭐630)](https://github.com/knurling-rs/probe-run): a cargo runner to flash and run embedded applications just like you would native applications, including backtraces and panicking behavior
     *   [defmt (⭐603)](https://github.com/knurling-rs/defmt): a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
     *   [flip-link (⭐191)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs

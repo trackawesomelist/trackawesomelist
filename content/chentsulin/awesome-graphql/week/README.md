@@ -6,6 +6,16 @@ Awesome list of GraphQL
 
 [ [Daily](/content/chentsulin/awesome-graphql/README.md) / Weekly / [Overview](/content/chentsulin/awesome-graphql/readme/README.md) ]
 
+## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
+
+### JavaScript Examples / React
+
+*   [Apollo Client documentation](https://www.apollographql.com/docs/react) - Documentation and example for building GraphQL apps using apollo client.
+
+### Tools - Security / React
+
+*   [GraphQLer (⭐35)](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool
+
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
 ### Posts / React
@@ -563,7 +573,6 @@ Awesome list of GraphQL
 *   [React Starter Kit (⭐22k)](https://github.com/kriasoft/react-starter-kit) - front-end starter kit using React, Relay, GraphQL, and JAM stack architecture.
 *   [SWAPI GraphQL Wrapper (⭐1k)](https://github.com/graphql/swapi-graphql) - A GraphQL schema and server wrapping SWAPI.
 *   [Relay TodoMVC (⭐161)](https://github.com/taion/relay-todomvc) - Relay TodoMVC with routing.
-*   [Apollo Client documentation](https://www.apollographql.com/react/) - Documentation and example for building GraphQL apps using apollo client.
 *   [Apollo Server tools documentation](https://www.apollographql.com/docs/apollo-server/) - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
 *   [F8 App 2017 (⭐14k)](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.
 *   [Apollo React example for Github GraphQL API (⭐116)](https://github.com/katopz/react-apollo-graphql-github-example) - Usage Examples Apollo React for Github GraphQL API with create-react-app.

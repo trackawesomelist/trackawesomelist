@@ -8,6 +8,10 @@ Community list of data & technology resources concerning the built environment a
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
+### Public Data Resources / Housing
+
+*   [National Housing Preservation Database](https://preservationdatabase.org/) - The National Housing Preservation Database contains property and subsidy-level data pulled from nine different HUD and USDA data sources.  The database contains information on over 70,000 properties nationwide.
+
 ### Planning Coding Resources / Python
 
 *   [Dash](https://dash.plotly.com/) - Dash is an open source python library for building interactive data visualizations on the web. It enables you to build custom data dashboards using pure Python.

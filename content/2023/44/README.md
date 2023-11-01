@@ -1,24 +1,40 @@
 # Awesome List Updates on Oct 30 - Nov 05, 2023
 
-32 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [1. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+
+### Chat
+
+*   [ExyteChat (⭐316)](https://github.com/exyte/chat) - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker
+
+## [2. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+
+### JavaScript Examples / React
+
+*   [Apollo Client documentation](https://www.apollographql.com/docs/react) - Documentation and example for building GraphQL apps using apollo client.
+
+### Tools - Security / React
+
+*   [GraphQLer (⭐35)](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool
+
+## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Databases
 
 *   [Things Every Developer Absolutely, Positively Needs To Know About Database Indexing](https://www.youtube.com/watch?v=HubezKbFL7E) by **Kai Sassnowski** \[41:49]
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compression
 
 *   [minizip-ng (⭐1.1k)](https://github.com/zlib-ng/minizip-ng) - Fork of the popular zip manipulation library found in the zlib distribution. \[zlib]
 
-## [3. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [5. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -74,19 +90,19 @@
 *   [NDJSON (⭐592) (⭐590)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐274) (⭐271)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [4. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [6. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Databases
 
 *   [Human Virus Database (HVD)](http://computationalbiology.cn/humanVirusBase/#/) - A database of human viruses, including information on infected tissues. See description and use in a predictive model in [Ye et al. 2022](https://academic.oup.com/bioinformatics/article-abstract/38/11/3087/6569817?redirectedFrom=fulltext)
 
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [7. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### State Management / Components
 
 *   [exome (⭐127)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 
-## [6. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
+## [8. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
 
 ### Design Generator
 
@@ -100,43 +116,43 @@
 
 *   [AI Passport Photo](https://aipassportphoto.com/) - Take A Photo with Your Mobile Phone and Get Your Passport Photo in Seconds. `freemium`
 
-## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Science Logology / Democratization of Science
 
 *   [Single-atom alloy catalysts designed by first-principles calculations and artificial intelligence](https://www.nature.com/articles/s41467-021-22048-9) - ***Nature Communications***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=6593978922251447907\&hl=en\&as_sdt=0,5)].
 
-## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
 *   [WinterJS (⭐507)](https://github.com/wasmerio/winterjs) — A secure JavaScript runtime built with SpiderMonkey, Rust and Axum
 
-## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [11. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
 *   🧬 [Htmx (⭐5)](https://github.com/aniftyco/tailwind-htmx) - Adds variants for styling on [htmx](https://htmx.org/reference/#classes) events.
 
-## [10. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [12. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Tools / Playground
 
 *   [OXC (⭐3.1k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
 
-## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [13. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Rust / Git
 
 *   [botan-rs (⭐22)](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
 
-## [12. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [14. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
 *   [polars-business (⭐37)](https://github.com/MarcoGorelli/polars-business) - Polars extension that offers utilities for business day operations with Polars and Python by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
-## [13. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [15. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
@@ -147,7 +163,7 @@
 *   [Langroid (⭐293)](https://github.com/langroid/langroid): an intuitive, lightweight, extensible and principled Python framework to easily build LLM-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langroid/langroid?style=social)
 *   [Langstream (⭐310)](https://github.com/rogeriochaves/langstream): Build robust LLM applications with true composability 🔗 ![GitHub Repo stars](https://img.shields.io/github/stars/rogeriochaves/langstream?style=social)
 
-## [14. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [16. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### IRB
 
@@ -157,13 +173,13 @@
 
 *   [ruby-spellchecker (⭐9)](https://github.com/omohokcoj/ruby-spellchecker) - English spelling and grammar checker that can be used for autocorrection.
 
-## [15. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [17. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Package Manager / Miscellaneous
 
 *   [bun](https://bun.sh) - All-in-one toolkit for JavaScript and TypeScript apps.
 
-## [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [18. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Graphics
 
@@ -182,25 +198,29 @@
 
 *   [bluefireoly/SimpleKotlinMail (⭐59)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
 
-## [17. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [19. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+
+### Public Data Resources / Housing
+
+*   [National Housing Preservation Database](https://preservationdatabase.org/) - The National Housing Preservation Database contains property and subsidy-level data pulled from nine different HUD and USDA data sources.  The database contains information on over 70,000 properties nationwide.
 
 ### Planning Coding Resources / Python
 
 *   [Dash](https://dash.plotly.com/) - Dash is an open source python library for building interactive data visualizations on the web. It enables you to build custom data dashboards using pure Python.
 
-## [18. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [20. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Shadowsworn: Haunts](https://nightsandweekends.itch.io/shadowsworn-haunts) - Frameworks for modern horror games
 
-## [19. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [21. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions / Extension scripts
 
 *   [Directus Hook Library (⭐1)](https://github.com/formfcw/directus-hook-library) - A collection of customizable hooks for Directus.
 
-## [20. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [22. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -213,7 +233,7 @@
 *   Memory safety (e.g., null pointer dereferences) \* User-specified assertions (i.e., assert!(...)) \* The absence of panics (e.g., unwrap() on None values) \* The absence of some types of unexpected behavior (e.g., arithmetic overflows)
 *   [vale](https://vale.sh) — A syntax-aware linter for prose built with speed and extensibility in mind.
 
-## [21. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [23. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -229,7 +249,7 @@
 
 *   [Gymnasium (⭐3.9k)](https://github.com/Farama-Foundation/Gymnasium) - A library for developing and comparing reinforcement learning algorithms (successor of [gym (⭐33k)](https://github.com/openai/gym).
 
-## [22. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [24. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Algorithms / Unsupervised Learning
 
@@ -258,12 +278,16 @@
 *   [Yolov5 (⭐43k)](https://github.com/ultralytics/yolov5)
 *   [Yolov8 (⭐15k)](https://github.com/ultralytics/ultralytics)
 
-## [23. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [25. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Models
 
 *   [Stable Beluga](https://huggingface.co/stabilityai/StableBeluga1-Delta) - A finetuned LLamma 65B model
 *   [Stable Beluga 2](https://huggingface.co/stabilityai/StableBeluga2) - A finetuned LLamma2 70B model
+
+### Video / Stable Diffusion resources
+
+*   [ShortVideoGen](https://shortgen.video/) - Create short videos with audio using text prompts.
 
 ### Other / Music
 
@@ -274,13 +298,17 @@
 *   [OpenAI Cookbook (⭐50k)](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 *   [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
 
-## [24. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [26. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+
+### Books, blogs and training materials / Community Chat Rooms
+
+*   [Tweede golf's workshop](https://workshop.tweede.golf) - A full workshop about Rust and embedded Rust. The embedded parts use the nRF52840-DK and a LIS3DH breakout board. ([github source (⭐2)](https://github.com/tweedegolf/rust-workshop))
 
 ### Driver crates / WIP
 
 *   [AD9850](https://crates.io/crates/ad9850) - Embedded driver for the AD9850 DDS synthesizer chip - ![crates.io](https://img.shields.io/crates/v/ad9850.svg)
 
-## [25. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [27. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Caches
 
@@ -290,7 +318,7 @@
 
 *   [beelzebub (⭐422)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
 
-## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [28. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -300,7 +328,7 @@
 
 *   [mrcjkb/haskell-snippets.nvim (⭐9)](https://github.com/mrcjkb/haskell-snippets.nvim) - Haskell snippets for LuaSnip, powered by Tree-sitter and LSP.
 
-## [27. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [29. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -418,33 +446,43 @@
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
-## [28. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [30. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
+### About the Generative AI Area: history, maps, and definitions
 
 *   [\[2310.07127\] An HCI-Centric Survey and Taxonomy of Human-Generative-AI Interactions](https://arxiv.org/abs/2310.07127): "a survey of 154 papers, providing a novel taxonomy and analysis of Human-GenAI Interactions from both human and Gen-AI perspectives".
 
-### Related Awesome Lists / Galleries
+### Philosophical questions and Discussions about Generative AI
+
+*   [Can Computers Create Art? by Aaron Hertzmann](https://www.mdpi.com/2076-0752/7/2/18): 2018's essay published on the Arts Journal
+
+### Critical Views about Generative AI
+
+*   [Responsible enterprise decisions with knowledge-enriched generative AI | Deloitte Netherlands](https://www2.deloitte.com/nl/nl/pages/risk/articles/responsible-enterprise-decisions-with-knowledge-enriched-generative-AI.html)
+*   [\[2310.13149\] Understanding Generative AI in Art: An Interview Study with Artists on G-AI from an HCI Perspective](https://arxiv.org/abs/2310.13149)
+*   [\[2309.12338\] Artificial Intelligence and Aesthetic Judgment](https://arxiv.org/abs/2309.12338): "as generative AI influences contemporary aesthetic judgment we outline some of the pitfalls and traps in attempting to scrutinize what AI generated media means"
+
+### Related Awesome Lists / Deforum
 
 *   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐8.6k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
 *   [AlexChalakov/awesome-generative-ai-companies (⭐65)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 
-### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
+### Inbox: Large Language Models (LLMs)
 
 *   [\[2309.06794\] Cognitive Mirage: A Review of Hallucinations in Large Language Models](https://arxiv.org/abs/2309.06794)
 
-### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-text
+### Prompt Engineering for Text-to-text
 
 *   \[🔥] [\[2307.05300\] Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration](https://arxiv.org/abs/2307.05300)
 *   \[🔥] [\[2307.11760\] Large Language Models Understand and Can be Enhanced by Emotional Stimuli](https://arxiv.org/abs/2307.11760)
 *   \[🔥] [\[2305.13252\] "According to ..." Prompting Language Models Improves Quoting from Pre-Training Data](https://arxiv.org/abs/2305.13252)
 
-### Inbox: Large Language Models (LLMs) / LLM Multi-agents
+### LLM Multi-agents
 
 *   [\[2308.07201\] ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://arxiv.org/abs/2308.07201)
 *   [\[2308.10848\] AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://arxiv.org/abs/2308.10848)
 
-### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
+### Autonomous LLM Agents
 
 *   [\[2309.02427\] Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427): "we draw on the rich history of cognitive science and symbolic artificial intelligence to propose Cognitive Architectures for Language Agents (CoALA)"
 *   [\[2309.07864\] The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
@@ -452,40 +490,31 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 *   [\[2309.17288\] AutoAgents: A Framework for Automatic Agent Generation](https://arxiv.org/abs/2309.17288)
 *   [Exploring Multi-Persona Prompting for Better Outputs](https://www.prompthub.us/blog/exploring-multi-persona-prompting-for-better-outputs): "method of prompt engineering that instructs the LLM to summon multiple personas and have them work together to solve a task"
 
-### Inbox: Large Language Models (LLMs) / Retrieval-Augmented Generation (RAG)
+### Retrieval-Augmented Generation (RAG)
 
 *   [dssjon/biblos: biblos.app (⭐124)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
 
-### Papers and References / AI Tools for Research
+### AI Tools for Research
 
 *   [\[2310.17143\] Supercharging academic writing with generative AI: framework, techniques, and caveats](https://arxiv.org/abs/2310.17143)
 
-### Discussions and Philosophy / Papers Collections
-
-*   [Can Computers Create Art? by Aaron Hertzmann](https://www.mdpi.com/2076-0752/7/2/18): 2018's essay published on the Arts Journal
-
-### Discussions and Philosophy / Critical Views about Generative AI
-
-*   [\[2310.13149\] Understanding Generative AI in Art: An Interview Study with Artists on G-AI from an HCI Perspective](https://arxiv.org/abs/2310.13149)
-*   [\[2309.12338\] Artificial Intelligence and Aesthetic Judgment](https://arxiv.org/abs/2309.12338): "as generative AI influences contemporary aesthetic judgment we outline some of the pitfalls and traps in attempting to scrutinize what AI generated media means"
-
-### Datasets / Generative Adversarial Networks (GANs)
+### Datasets / Deforum
 
 *   [RedPajama-Data-v2 by Together AI](https://together.ai/blog/redpajama-data-v2): an open dataset with 30 trillion tokens for training Large Language Models
 
-## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
 *   [Servas (⭐371)](https://github.com/beromir/Servas) - A self-hosted bookmark management tool. It allows organization with tags, groups, and a list specifically for later access. It supports multiple users with 2FA. Companion browser extensions are available for Firefox and Chrome. ([Clients (⭐371)](https://github.com/beromir/Servas#browser-extensions)) `GPL-3.0` `Docker/Nodejs/PHP`
 
-## [30. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [32. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [skydio/revup (⭐258)](https://github.com/Skydio/revup#readme) - Project logo. Animated GIF demo + GIFs for major stages of the step-by-step tutorial. Concise explanation, installation instructions, and contribution section.
 
-## [31. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [33. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -498,7 +527,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 *   [sdkman (matthieusb) (⭐54)](https://github.com/matthieusb/zsh-sdkman) - Add tab completions for [sdkman](https://sdkman.io/).
 *   [sdkman (yongxingzhao) (⭐0)](https://github.com/yongxingzhao/zsh-sdkman) - Add tab completions for [sdkman](https://sdkman.io/).
 
-## [32. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [34. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Data Science
 

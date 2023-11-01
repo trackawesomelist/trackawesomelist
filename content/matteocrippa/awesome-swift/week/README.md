@@ -6,6 +6,12 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 [ [Daily](/content/matteocrippa/awesome-swift/README.md) / Weekly / [Overview](/content/matteocrippa/awesome-swift/readme/README.md) ]
 
+## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
+
+### Chat
+
+*   [ExyteChat (⭐316)](https://github.com/exyte/chat) - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker
+
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
 ### Alert / Barcode
@@ -133,7 +139,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### MongoDB
 
-*   [MongoKitten (⭐675)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
+*   [MongoKitten (⭐677)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
 
 ### Realm
 
@@ -1015,7 +1021,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### Quality / Barcode
 
 *   [SwiftCop (⭐542)](https://github.com/andresinaka/SwiftCop) - A validation library which inspired by the clarity of Ruby On Rails Active Record validations.
-*   [SwiftFormat (⭐7k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
+*   [SwiftFormat (⭐7.1k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 
 ## [Oct 07 - Oct 13, 2019](/content/2019/40/README.md)
 

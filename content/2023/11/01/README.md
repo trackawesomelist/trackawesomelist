@@ -1,24 +1,58 @@
 # Awesome List Updates on Nov 01, 2023
 
-10 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+## [1. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
+
+### Video / Stable Diffusion resources
+
+*   [ShortVideoGen](https://shortgen.video/) - Create short videos with audio using text prompts.
+
+## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+
+### Books, blogs and training materials / Community Chat Rooms
+
+*   [Tweede golf's workshop](https://workshop.tweede.golf) - A full workshop about Rust and embedded Rust. The embedded parts use the nRF52840-DK and a LIS3DH breakout board. ([github source (⭐2)](https://github.com/tweedegolf/rust-workshop))
+
+## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+
+### Chat
+
+*   [ExyteChat (⭐316)](https://github.com/exyte/chat) - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker
+
+## [4. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+
+### Public Data Resources / Housing
+
+*   [National Housing Preservation Database](https://preservationdatabase.org/) - The National Housing Preservation Database contains property and subsidy-level data pulled from nine different HUD and USDA data sources.  The database contains information on over 70,000 properties nationwide.
+
+## [5. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+
+### JavaScript Examples / React
+
+*   [Apollo Client documentation](https://www.apollographql.com/docs/react) - Documentation and example for building GraphQL apps using apollo client.
+
+### Tools - Security / React
+
+*   [GraphQLer (⭐35)](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool
+
+## [6. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ### Databases
 
 *   [Things Every Developer Absolutely, Positively Needs To Know About Database Indexing](https://www.youtube.com/watch?v=HubezKbFL7E) by **Kai Sassnowski** \[41:49]
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Compression
 
 *   [minizip-ng (⭐1.1k)](https://github.com/zlib-ng/minizip-ng) - Fork of the popular zip manipulation library found in the zlib distribution. \[zlib]
 
-## [3. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [8. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -74,13 +108,13 @@
 *   [NDJSON (⭐592) (⭐590)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐274) (⭐271)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [4. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
+## [9. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
 ### Databases
 
 *   [Human Virus Database (HVD)](http://computationalbiology.cn/humanVirusBase/#/) - A database of human viruses, including information on infected tissues. See description and use in a predictive model in [Ye et al. 2022](https://academic.oup.com/bioinformatics/article-abstract/38/11/3087/6569817?redirectedFrom=fulltext)
 
-## [5. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [10. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 
@@ -153,41 +187,42 @@
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
-## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
+### About the Generative AI Area: history, maps, and definitions
 
 *   [\[2310.07127\] An HCI-Centric Survey and Taxonomy of Human-Generative-AI Interactions](https://arxiv.org/abs/2310.07127): "a survey of 154 papers, providing a novel taxonomy and analysis of Human-GenAI Interactions from both human and Gen-AI perspectives".
 
-### Related Awesome Lists / Galleries
+### Critical Views about Generative AI
+
+*   [Responsible enterprise decisions with knowledge-enriched generative AI | Deloitte Netherlands](https://www2.deloitte.com/nl/nl/pages/risk/articles/responsible-enterprise-decisions-with-knowledge-enriched-generative-AI.html)
+*   [\[2310.13149\] Understanding Generative AI in Art: An Interview Study with Artists on G-AI from an HCI Perspective](https://arxiv.org/abs/2310.13149)
+*   [\[2309.12338\] Artificial Intelligence and Aesthetic Judgment](https://arxiv.org/abs/2309.12338): "as generative AI influences contemporary aesthetic judgment we outline some of the pitfalls and traps in attempting to scrutinize what AI generated media means"
+
+### Related Awesome Lists / Deforum
 
 *   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐8.6k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
 *   [AlexChalakov/awesome-generative-ai-companies (⭐65)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 
-### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
+### Autonomous LLM Agents
 
 *   [\[2309.02427\] Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427): "we draw on the rich history of cognitive science and symbolic artificial intelligence to propose Cognitive Architectures for Language Agents (CoALA)"
 
-### Inbox: Large Language Models (LLMs) / Retrieval-Augmented Generation (RAG)
+### Retrieval-Augmented Generation (RAG)
 
 *   [dssjon/biblos: biblos.app (⭐124)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
 
-### Papers and References / AI Tools for Research
+### AI Tools for Research
 
 *   [\[2310.17143\] Supercharging academic writing with generative AI: framework, techniques, and caveats](https://arxiv.org/abs/2310.17143)
 
-### Discussions and Philosophy / Critical Views about Generative AI
-
-*   [\[2310.13149\] Understanding Generative AI in Art: An Interview Study with Artists on G-AI from an HCI Perspective](https://arxiv.org/abs/2310.13149)
-*   [\[2309.12338\] Artificial Intelligence and Aesthetic Judgment](https://arxiv.org/abs/2309.12338): "as generative AI influences contemporary aesthetic judgment we outline some of the pitfalls and traps in attempting to scrutinize what AI generated media means"
-
-## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### State Management / Components
 
 *   [exome (⭐127)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 
-## [8. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -199,7 +234,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 *   Memory safety (e.g., null pointer dereferences) \* User-specified assertions (i.e., assert!(...)) \* The absence of panics (e.g., unwrap() on None values) \* The absence of some types of unexpected behavior (e.g., arithmetic overflows)
 *   [vale](https://vale.sh) — A syntax-aware linter for prose built with speed and extensibility in mind.
 
-## [9. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [14. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
@@ -207,7 +242,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 *   [Yolov5 (⭐43k)](https://github.com/ultralytics/yolov5)
 *   [Yolov8 (⭐15k)](https://github.com/ultralytics/ultralytics)
 
-## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Data Science
 

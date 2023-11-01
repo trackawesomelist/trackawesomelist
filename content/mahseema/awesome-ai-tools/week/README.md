@@ -13,6 +13,10 @@ A curated list of Artificial Intelligence Top Tools
 *   [Stable Beluga](https://huggingface.co/stabilityai/StableBeluga1-Delta) - A finetuned LLamma 65B model
 *   [Stable Beluga 2](https://huggingface.co/stabilityai/StableBeluga2) - A finetuned LLamma2 70B model
 
+### Video / Stable Diffusion resources
+
+*   [ShortVideoGen](https://shortgen.video/) - Create short videos with audio using text prompts.
+
 ### Other / Music
 
 *   [Petals (⭐7.8k)](https://github.com/bigscience-workshop/petals) - BitTorrent style platform for running AI models in a distributed way

@@ -6,6 +6,12 @@ A curated list of Artificial Intelligence Top Tools
 
 [ Daily / [Weekly](/content/mahseema/awesome-ai-tools/week/README.md) / [Overview](/content/mahseema/awesome-ai-tools/readme/README.md) ]
 
+## [Nov 01, 2023](/content/2023/11/01/README.md)
+
+### Video / Stable Diffusion resources
+
+*   [ShortVideoGen](https://shortgen.video/) - Create short videos with audio using text prompts.
+
 ## [Oct 30, 2023](/content/2023/10/30/README.md)
 
 ### Text / Models
