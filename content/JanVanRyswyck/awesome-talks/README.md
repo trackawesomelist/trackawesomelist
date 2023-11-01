@@ -6,6 +6,12 @@ Awesome online talks and screencasts
 
 [ Daily / [Weekly](/content/JanVanRyswyck/awesome-talks/week/README.md) / [Overview](/content/JanVanRyswyck/awesome-talks/readme/README.md) ]
 
+## [Nov 01, 2023](/content/2023/11/01/README.md)
+
+### Databases
+
+*   [Things Every Developer Absolutely, Positively Needs To Know About Database Indexing](https://www.youtube.com/watch?v=HubezKbFL7E) by **Kai Sassnowski** \[41:49]
+
 ## [Aug 11, 2023](/content/2023/08/11/README.md)
 
 ### Software Development

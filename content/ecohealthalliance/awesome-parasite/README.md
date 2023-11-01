@@ -2,9 +2,15 @@
 
 A curated list of host-parasite information
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ecohealthalliance/awesome-parasite/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ecohealthalliance/awesome-parasite](https://github.com/ecohealthalliance/awesome-parasite) · ⭐ 25 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ecohealthalliance/awesome-parasite/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ecohealthalliance/awesome-parasite](https://github.com/ecohealthalliance/awesome-parasite) · ⭐ 28 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/ecohealthalliance/awesome-parasite/week/README.md) / [Overview](/content/ecohealthalliance/awesome-parasite/readme/README.md) ]
+
+## [Nov 01, 2023](/content/2023/11/01/README.md)
+
+### Databases
+
+*   [Human Virus Database (HVD)](http://computationalbiology.cn/humanVirusBase/#/) - A database of human viruses, including information on infected tissues. See description and use in a predictive model in [Ye et al. 2022](https://academic.oup.com/bioinformatics/article-abstract/38/11/3087/6569817?redirectedFrom=fulltext)
 
 ## [Feb 15, 2023](/content/2023/02/15/README.md)
 

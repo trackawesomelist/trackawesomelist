@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Nov 01, 2023](/content/2023/11/01/README.md)
+
+### State Management / Components
+
+*   [exome (⭐127)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
+
 ## [Oct 27, 2023](/content/2023/10/27/README.md)
 
 ### Editor Components / Components

@@ -6,6 +6,14 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Nov 01, 2023](/content/2023/11/01/README.md)
+
+### Deep Learning Packages / PyTorch Ecosystem
+
+*   [Yolov3 (⭐9.8k)](https://github.com/ultralytics/yolov3)
+*   [Yolov5 (⭐43k)](https://github.com/ultralytics/yolov5)
+*   [Yolov8 (⭐15k)](https://github.com/ultralytics/ultralytics)
+
 ## [Oct 31, 2023](/content/2023/10/31/README.md)
 
 ### Algorithms / Unsupervised Learning
@@ -1032,7 +1040,7 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
-*   [Awesome Game Datasets (⭐563)](https://github.com/leomaurodesenv/game-datasets#readme)
+*   [Awesome Game Datasets (⭐569)](https://github.com/leomaurodesenv/game-datasets#readme)
 
 ## [Oct 25, 2020](/content/2020/10/25/README.md)
 

@@ -1,12 +1,92 @@
 # Awesome List Updates on Oct 30 - Nov 05, 2023
 
-26 awesome lists updated this week.
+32 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
+## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Databases
+
+*   [Things Every Developer Absolutely, Positively Needs To Know About Database Indexing](https://www.youtube.com/watch?v=HubezKbFL7E) by **Kai Sassnowski** \[41:49]
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+
+### Compression
+
+*   [minizip-ng (⭐1.1k)](https://github.com/zlib-ng/minizip-ng) - Fork of the popular zip manipulation library found in the zlib distribution. \[zlib]
+
+## [3. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+
+### Projects / API Management
+
+*   [Gravitee.io API Management (⭐79) (⭐69)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
+*   [WSO2 API Manager (⭐771) (⭐766)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
+
+### Projects / API Design
+
+*   [OpenAPI Diff (⭐679) (⭐667)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+*   [OpenAPI Style Validator (⭐181) (⭐177)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
+*   [Swagger Editor (⭐8.4k) (⭐8.4k)](https://github.com/swagger-api/swagger-editor) - Create, describe, and document your API with ease using this open source editor built specifically for OpenAPI-based APIs.
+*   [Zally (⭐847) (⭐825)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
+
+### Projects / API Documentation
+
+*   [DapperDox (⭐387) (⭐386)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
+*   [OpenAPI Explorer (⭐231) (⭐232)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
+
+### Projects / API Gateway
+
+*   [Apinto (⭐995) (⭐972)](https://github.com/eolinker/goku) - A Golang-based microservice gateway that provides dynamic routing, service orchestration, multi-tenancy management, and API access control.
+
+### Projects / BRE
+
+*   [Easy Rules (⭐4.6k) (⭐4.6k)](https://github.com/j-easy/easy-rules) - Simple Java rules engine for straightforward rule processing.
+*   [OpenL Tablets (⭐131) (⭐131)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
+
+### Projects / Data Mapping Solution
+
+*   [AltasMap (⭐168) (⭐165)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
+*   [JSLT (⭐573) (⭐568)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
+
+### Projects / ESB
+
+*   [NServiceBus (⭐1.9k) (⭐2k)](https://github.com/Particular/NServiceBus) - A .NET-based service bus that offers an intuitive developer-friendly environment.
+
+### Projects / ETL
+
+*   [Pentaho Data Integration (⭐7k) (⭐7k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
+
+### Projects / Messaging
+
+*   [Apache Qpid (⭐55) (⭐54)](https://github.com/apache/qpid-broker-j) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
+*   [Eclipse Mosquitto (⭐7.8k) (⭐7.8k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
+
+### Projects / Workflow engine
+
+*   [Conductor (⭐12k) (⭐11k)](https://github.com/Netflix/conductor) - A cloud-based orchestration engine designed to run and manage workflows in a microservices architecture.
+
+### Resources / Data Formats
+
+*   [Apache Avro (⭐2.6k) (⭐2.6k)](https://github.com/apache/avro) - Data serialization system that provides compact, fast, and efficient serialization of structured data. It supports schema evolution, allows for efficient data compression, and is designed to work well with big data processing frameworks.
+*   [NDJSON (⭐592) (⭐590)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+*   [YAML (⭐274) (⭐271)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+
+## [4. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+
+### Databases
+
+*   [Human Virus Database (HVD)](http://computationalbiology.cn/humanVirusBase/#/) - A database of human viruses, including information on infected tissues. See description and use in a predictive model in [Ye et al. 2022](https://academic.oup.com/bioinformatics/article-abstract/38/11/3087/6569817?redirectedFrom=fulltext)
+
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### State Management / Components
+
+*   [exome (⭐127)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
+
+## [6. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
 
 ### Design Generator
 
@@ -20,43 +100,43 @@
 
 *   [AI Passport Photo](https://aipassportphoto.com/) - Take A Photo with Your Mobile Phone and Get Your Passport Photo in Seconds. `freemium`
 
-## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Science Logology / Democratization of Science
 
 *   [Single-atom alloy catalysts designed by first-principles calculations and artificial intelligence](https://www.nature.com/articles/s41467-021-22048-9) - ***Nature Communications***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=6593978922251447907\&hl=en\&as_sdt=0,5)].
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
 *   [WinterJS (⭐507)](https://github.com/wasmerio/winterjs) — A secure JavaScript runtime built with SpiderMonkey, Rust and Axum
 
-## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
 *   🧬 [Htmx (⭐5)](https://github.com/aniftyco/tailwind-htmx) - Adds variants for styling on [htmx](https://htmx.org/reference/#classes) events.
 
-## [5. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Tools / Playground
 
 *   [OXC (⭐3.1k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
 
-## [6. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Rust / Git
 
 *   [botan-rs (⭐22)](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
 
-## [7. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [12. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
 *   [polars-business (⭐37)](https://github.com/MarcoGorelli/polars-business) - Polars extension that offers utilities for business day operations with Polars and Python by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
-## [8. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [13. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
@@ -67,7 +147,7 @@
 *   [Langroid (⭐293)](https://github.com/langroid/langroid): an intuitive, lightweight, extensible and principled Python framework to easily build LLM-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langroid/langroid?style=social)
 *   [Langstream (⭐310)](https://github.com/rogeriochaves/langstream): Build robust LLM applications with true composability 🔗 ![GitHub Repo stars](https://img.shields.io/github/stars/rogeriochaves/langstream?style=social)
 
-## [9. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [14. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### IRB
 
@@ -77,13 +157,13 @@
 
 *   [ruby-spellchecker (⭐9)](https://github.com/omohokcoj/ruby-spellchecker) - English spelling and grammar checker that can be used for autocorrection.
 
-## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [15. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Package Manager / Miscellaneous
 
 *   [bun](https://bun.sh) - All-in-one toolkit for JavaScript and TypeScript apps.
 
-## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Graphics
 
@@ -102,31 +182,38 @@
 
 *   [bluefireoly/SimpleKotlinMail (⭐59)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
 
-## [12. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [17. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Planning Coding Resources / Python
 
 *   [Dash](https://dash.plotly.com/) - Dash is an open source python library for building interactive data visualizations on the web. It enables you to build custom data dashboards using pure Python.
 
-## [13. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [18. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Shadowsworn: Haunts](https://nightsandweekends.itch.io/shadowsworn-haunts) - Frameworks for modern horror games
 
-## [14. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [19. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions / Extension scripts
 
 *   [Directus Hook Library (⭐1)](https://github.com/formfcw/directus-hook-library) - A collection of customizable hooks for Directus.
 
-## [15. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [20. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
+*   [Dataflow Framework (⭐945)](https://github.com/typetools/checker-framework) — An industrial-strength dataflow framework for Java. The Dataflow Framework is used in the Checker Framework, Google’s Error Prone, Uber’s NullAway, Meta’s Nullsafe, and in other contexts. It is distributed with the Checker Framework.
 *   [Error Prone](https://errorprone.info) — Catch common Java mistakes as compile-time errors.
 
-## [16. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+### Other / [Other](#other-1)
+
+*   [kani (⭐1.5k)](https://github.com/model-checking/kani) — The Kani Rust Verifier is a bit-precise model checker for Rust.  Kani is particularly useful for verifying unsafe code blocks in Rust,  where the "unsafe superpowers" are unchecked by the compiler. Kani verifies:
+*   Memory safety (e.g., null pointer dereferences) \* User-specified assertions (i.e., assert!(...)) \* The absence of panics (e.g., unwrap() on None values) \* The absence of some types of unexpected behavior (e.g., arithmetic overflows)
+*   [vale](https://vale.sh) — A syntax-aware linter for prose built with speed and extensibility in mind.
+
+## [21. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -142,7 +229,7 @@
 
 *   [Gymnasium (⭐3.9k)](https://github.com/Farama-Foundation/Gymnasium) - A library for developing and comparing reinforcement learning algorithms (successor of [gym (⭐33k)](https://github.com/openai/gym).
 
-## [17. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [22. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Algorithms / Unsupervised Learning
 
@@ -165,7 +252,13 @@
 *   [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 *   [CART (Classification and Regression Trees)](https://en.wikipedia.org/wiki/Decision_tree_learning)
 
-## [18. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+### Deep Learning Packages / PyTorch Ecosystem
+
+*   [Yolov3 (⭐9.8k)](https://github.com/ultralytics/yolov3)
+*   [Yolov5 (⭐43k)](https://github.com/ultralytics/yolov5)
+*   [Yolov8 (⭐15k)](https://github.com/ultralytics/ultralytics)
+
+## [23. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Models
 
@@ -181,13 +274,13 @@
 *   [OpenAI Cookbook (⭐50k)](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 *   [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
 
-## [19. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [24. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / WIP
 
 *   [AD9850](https://crates.io/crates/ad9850) - Embedded driver for the AD9850 DDS synthesizer chip - ![crates.io](https://img.shields.io/crates/v/ad9850.svg)
 
-## [20. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [25. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Caches
 
@@ -197,7 +290,7 @@
 
 *   [beelzebub (⭐422)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
 
-## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -207,7 +300,22 @@
 
 *   [mrcjkb/haskell-snippets.nvim (⭐9)](https://github.com/mrcjkb/haskell-snippets.nvim) - Haskell snippets for LuaSnip, powered by Tree-sitter and LSP.
 
-## [22. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [27. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+
+### Family
+
+### [Stationfall](https://boardgamegeek.com/boardgame/316624/stationfall)
+
+> A game of blackmail and betrayal, murder and mayhem, danger and destruction.
+> What is Stationfall? Well, imagine a dozen or so random humans, robots, and none-of-the-aboves, each with their own abilities, goals, and secret relationships, have been turned loose on a space station that is going to be incinerated upon its inevitable reentry into Earth's atmosphere. You are one of these characters, and the others are collaborators you have on hand ready to assist you in achieving your goals. But choose them wisely, as any one of them could secretly be another player waiting to betray you!
+>
+> *   Stationfall is a box full of creative solutions, but that box is going to morph, twist, and grow teeth over the course of play. Your best turns will exploit the unique tactical freedom of being a secret conspiracy, as well as deductions about your opponents’ identities and motives. Stationfall is messy, intricate, and full of dangerous variables.
+
+![Stationfall game image](https://cf.geekdo-images.com/eUiju5SqZbkNt8gnEofrTw__itemrep/img/lpTPPEk14XV1RzIhRYVIWNHD0I4=/fit-in/246x300/filters:strip_icc\(\)/pic6035127.png)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 9 |       12 | 90-120m |
 
 ### Strategy
 
@@ -241,9 +349,6 @@
 | Players | Min. Age |    Time |
 | ------: | -------: | ------: |
 |   2 - 4 |      14+ | 90-180m |
-
-### Contribute
-
 ### [Saboteur](https://boardgamegeek.com/boardgame/9220/saboteur)
 
 > With the help of Dwarf Cards, the players are assigned their role: either miner or saboteur. The roles are kept secret until the end of the round. As miners, they are hunting for gold. The miners are trying to build an uninterrupted path from the Start Card to a Goal Card, while the saboteurs are trying to prevent this. They shouldn't try to be too obvious about it, however, lest they be immediately discovered.
@@ -259,10 +364,70 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |  3 - 10 |       8+ |  30m |
+### [The Last Bottle of Rum](https://boardgamegeek.com/boardgame/275557/last-bottle-rum)
+
+> A pirate board game for 2 to 5 players, where you play as a pirate looking to trade its treasures for the very last bottle of rum of the archipelago... Prepare to explore uncharted waters, plunder your enemies and avoid the Kraken! To win the game, a player will have to score the most victory points by digging up hidden treasures.
+
+> On each turn, choose two cards from your hand. The cards you play determines the actions you may take. Cleverly combo actions and effects to overcome obstacles and keep pace with rival captains. Fire your cannons on your opponents to slow down their treasure-hunting. Push your luck at the risk of being cursed and chased by the deadly Kraken! Play one of the unique characters and use your game-changing abilities when it’s least expected!
+
+> The first Captain to collect 10 booty points gets the last bottle of the archipelago and wins the game.
+
+![The Last Bottle of Rum](https://cf.geekdo-images.com/W-28SI7dtFwOM6KYD9egrQ__itemrep/img/UIIbwvNMAHbyDJriFpltV-7nHd4=/fit-in/246x300/filters:strip_icc\(\)/pic5715210.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 5 |      10+ | 45-60m |
+### [Zoo Vadis](https://boardgamegeek.com/boardgame/368061/zoo-vadis)
+
+> What if the animals were the ones who ran the zoo? Presumably, this wild government would be built upon the support of fellow creatures and fueled by the fame, attention, and prestige of wide-eyed visitors. Naturally, the most aspirational beasts would lobby for a position in the star exhibit, and the lead star would be elected Zoo Mascot.In order to join the star exhibit, each species must campaign its way up the hierarchy of enclosures with the majority support of animal voters. And the lead star will be the species that has earned the most laurels from both raving fans and jealous rivals along the way. How does one gain support and earn laurels? Through crafty politicking, clever negotiations, and ruthless schemes. There can only be one Zoo Mascot, after all. Where are you going? That is the ultimate question of Zoo Vadis.
+>
+> Zoo Vadis is an evolution of Reiner Knizia’s classic negotiation game, Quo Vadis? It retains the elegant, political gameplay that fans have come to love while introducing many innovations and improvements by: a) Enhancing the 3-player game and tailoring the board to all player counts through neutral, bribable figures—roaming peacocks, b) Widening the player count with a second game board for 6-7 players, c) Expanding the possibilities for strategic negotiation with asymmetric animal abilities, d) Increasing tactical opportunities with new special laurel tokens, e) Broadening the appeal of the theme and presentation with vibrant zoo art by Kwanchai Moriya and Brigette Indelicato, f) Enlivening the production with chunky animal figures and functional player screens.
+>
+> Like the original design, the game ends immediately when the Star Exhibit is full. Only the animals who have reached the Star Exhibit qualify for victory, and the winner is the player with the most laurels.
+
+![Zoo Vadis](https://cf.geekdo-images.com/Kl3NjtNKpuJNPjdBQtdsow__itemrep/img/mmVsnLtn3T4zkeNbjWpfrWZKS5c=/fit-in/246x300/filters:strip_icc\(\)/pic6988937.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   3 - 7 |      10+ | 20-40m |
+### [Twilight Inscription](https://boardgamegeek.com/boardgame/361545/twilight-inscription)
+
+> Roll your way through the Twilight Imperium universe.
+> The Lazax Empire has burned to ash, rejected by its subjects. The aftermath was tragedy and petty conflict in equal measure, a time of loss and exhaustion. In the ensuing Dark Years, the factions of the galaxy retreated and recovered their strength. Now, they look upon the stars and see an opportunity—a chance to reclaim what was lost. A chance to redefine galactic civilization. A chance to leave their mark upon the stars.
+> Twilight Inscription, an epic roll-and-write game for one to eight players, offers an experience unlike anything Fantasy Flight Games has done before. With a limited pool of resources at your disposal, you’ll need to carefully manage Navigation, Expansion, Industry, and Warfare as you amass victory points and earn your right to the throne on Mecatol Rex. Will your faction become the new rulers of the galaxy? Or will your fledgling empire fade into obscurity? Anything can happen in this strategic, infinitely-replayable game!
+
+![Twilight Inscription](https://cf.geekdo-images.com/g36va6ofPCzNZXF-9GEpCg__itemrep/img/V3Cny2dR0eXaJjFkqkOCOoKP9Tg=/fit-in/246x300/filters:strip_icc\(\)/pic7132023.png)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 8 |      14+ | 90-120m |
+
+### Contribute
+
+### [Hadrian's Wall](https://boardgamegeek.com/boardgame/304783/hadrians-wall)
+
+> When visiting the North of Britannia in 122 AD, the Roman Emperor Hadrian Augustus witnessed the aftermath of war between his armies and the savage Picts. In a show of Roman might, he ordered a wall to be built that would separate the Pict tribes from the rest of England. Grand in its design, the wall stretched 80 Roman miles, from coast to coast. Hadrian's Wall stood in service to the Roman Empire for nearly 300 years before its eventual decline. Today, Hadrian's Wall is a UNESCO World Heritage Site and the remains of the forts, towers, and turrets can still be explored.
+>
+> In Hadrian's Wall, players take on the role of a Roman General placed in charge of the construction of a milecastle and bordering wall. Over six years (rounds), players will construct their fort and wall, man the defenses, and attract civilians by building services and providing entertainment — all while defending the honor of the Roman Empire from the warring Picts. The player who can accumulate the most renown, piety, valor and discipline, whilst avoiding disdain, will prove to the Emperor they are the model Roman citizen and be crowned Legatus Legionis!
+
+![Hadrian's Wall](https://cf.geekdo-images.com/4XzRDw3VrgNpNfZlzZl66w__itemrep/img/V1Db0T3MlAicjsL1C_PrOLfm_xY=/fit-in/246x300/filters:strip_icc\(\)/pic5608818.png)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 6 |      12+ | 30-60m |
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
-## [23. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [28. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
+
+*   [\[2310.07127\] An HCI-Centric Survey and Taxonomy of Human-Generative-AI Interactions](https://arxiv.org/abs/2310.07127): "a survey of 154 papers, providing a novel taxonomy and analysis of Human-GenAI Interactions from both human and Gen-AI perspectives".
+
+### Related Awesome Lists / Galleries
+
+*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐8.6k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
+*   [AlexChalakov/awesome-generative-ai-companies (⭐65)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 
 ### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
 
@@ -281,32 +446,46 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
 
+*   [\[2309.02427\] Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427): "we draw on the rich history of cognitive science and symbolic artificial intelligence to propose Cognitive Architectures for Language Agents (CoALA)"
 *   [\[2309.07864\] The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
 *   [\[2310.01444\] Adapting LLM Agents Through Communication](https://arxiv.org/abs/2310.01444)
 *   [\[2309.17288\] AutoAgents: A Framework for Automatic Agent Generation](https://arxiv.org/abs/2309.17288)
 *   [Exploring Multi-Persona Prompting for Better Outputs](https://www.prompthub.us/blog/exploring-multi-persona-prompting-for-better-outputs): "method of prompt engineering that instructs the LLM to summon multiple personas and have them work together to solve a task"
 
+### Inbox: Large Language Models (LLMs) / Retrieval-Augmented Generation (RAG)
+
+*   [dssjon/biblos: biblos.app (⭐124)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
+
+### Papers and References / AI Tools for Research
+
+*   [\[2310.17143\] Supercharging academic writing with generative AI: framework, techniques, and caveats](https://arxiv.org/abs/2310.17143)
+
 ### Discussions and Philosophy / Papers Collections
 
 *   [Can Computers Create Art? by Aaron Hertzmann](https://www.mdpi.com/2076-0752/7/2/18): 2018's essay published on the Arts Journal
+
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [\[2310.13149\] Understanding Generative AI in Art: An Interview Study with Artists on G-AI from an HCI Perspective](https://arxiv.org/abs/2310.13149)
+*   [\[2309.12338\] Artificial Intelligence and Aesthetic Judgment](https://arxiv.org/abs/2309.12338): "as generative AI influences contemporary aesthetic judgment we outline some of the pitfalls and traps in attempting to scrutinize what AI generated media means"
 
 ### Datasets / Generative Adversarial Networks (GANs)
 
 *   [RedPajama-Data-v2 by Together AI](https://together.ai/blog/redpajama-data-v2): an open dataset with 30 trillion tokens for training Large Language Models
 
-## [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
 *   [Servas (⭐371)](https://github.com/beromir/Servas) - A self-hosted bookmark management tool. It allows organization with tags, groups, and a list specifically for later access. It supports multiple users with 2FA. Companion browser extensions are available for Firefox and Chrome. ([Clients (⭐371)](https://github.com/beromir/Servas#browser-extensions)) `GPL-3.0` `Docker/Nodejs/PHP`
 
-## [25. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [30. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [skydio/revup (⭐258)](https://github.com/Skydio/revup#readme) - Project logo. Animated GIF demo + GIFs for major stages of the step-by-step tutorial. Concise explanation, installation instructions, and contribution section.
 
-## [26. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [31. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -318,6 +497,16 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 *   [sdkman (matthieusb) (⭐54)](https://github.com/matthieusb/zsh-sdkman) - Add tab completions for [sdkman](https://sdkman.io/).
 *   [sdkman (yongxingzhao) (⭐0)](https://github.com/yongxingzhao/zsh-sdkman) - Add tab completions for [sdkman](https://sdkman.io/).
+
+## [32. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Data Science
+
+*   [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) - Max Kuhn, Kjell Johnson
+
+### Machine Learning
+
+*   [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) - Christopher M. Bishop (PDF)
 
 ---
 

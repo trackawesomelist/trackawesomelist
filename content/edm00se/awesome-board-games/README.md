@@ -6,6 +6,79 @@ A curated list of awesome and exceptional board games. Please contribute!
 
 [ Daily / [Weekly](/content/edm00se/awesome-board-games/week/README.md) / [Overview](/content/edm00se/awesome-board-games/readme/README.md) ]
 
+## [Nov 01, 2023](/content/2023/11/01/README.md)
+
+### Family
+
+### [Stationfall](https://boardgamegeek.com/boardgame/316624/stationfall)
+
+> A game of blackmail and betrayal, murder and mayhem, danger and destruction.
+> What is Stationfall? Well, imagine a dozen or so random humans, robots, and none-of-the-aboves, each with their own abilities, goals, and secret relationships, have been turned loose on a space station that is going to be incinerated upon its inevitable reentry into Earth's atmosphere. You are one of these characters, and the others are collaborators you have on hand ready to assist you in achieving your goals. But choose them wisely, as any one of them could secretly be another player waiting to betray you!
+>
+> *   Stationfall is a box full of creative solutions, but that box is going to morph, twist, and grow teeth over the course of play. Your best turns will exploit the unique tactical freedom of being a secret conspiracy, as well as deductions about your opponents’ identities and motives. Stationfall is messy, intricate, and full of dangerous variables.
+
+![Stationfall game image](https://cf.geekdo-images.com/eUiju5SqZbkNt8gnEofrTw__itemrep/img/lpTPPEk14XV1RzIhRYVIWNHD0I4=/fit-in/246x300/filters:strip_icc\(\)/pic6035127.png)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 9 |       12 | 90-120m |
+
+### Party
+
+### [The Last Bottle of Rum](https://boardgamegeek.com/boardgame/275557/last-bottle-rum)
+
+> A pirate board game for 2 to 5 players, where you play as a pirate looking to trade its treasures for the very last bottle of rum of the archipelago... Prepare to explore uncharted waters, plunder your enemies and avoid the Kraken! To win the game, a player will have to score the most victory points by digging up hidden treasures.
+
+> On each turn, choose two cards from your hand. The cards you play determines the actions you may take. Cleverly combo actions and effects to overcome obstacles and keep pace with rival captains. Fire your cannons on your opponents to slow down their treasure-hunting. Push your luck at the risk of being cursed and chased by the deadly Kraken! Play one of the unique characters and use your game-changing abilities when it’s least expected!
+
+> The first Captain to collect 10 booty points gets the last bottle of the archipelago and wins the game.
+
+![The Last Bottle of Rum](https://cf.geekdo-images.com/W-28SI7dtFwOM6KYD9egrQ__itemrep/img/UIIbwvNMAHbyDJriFpltV-7nHd4=/fit-in/246x300/filters:strip_icc\(\)/pic5715210.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 5 |      10+ | 45-60m |
+### [Zoo Vadis](https://boardgamegeek.com/boardgame/368061/zoo-vadis)
+
+> What if the animals were the ones who ran the zoo? Presumably, this wild government would be built upon the support of fellow creatures and fueled by the fame, attention, and prestige of wide-eyed visitors. Naturally, the most aspirational beasts would lobby for a position in the star exhibit, and the lead star would be elected Zoo Mascot.In order to join the star exhibit, each species must campaign its way up the hierarchy of enclosures with the majority support of animal voters. And the lead star will be the species that has earned the most laurels from both raving fans and jealous rivals along the way. How does one gain support and earn laurels? Through crafty politicking, clever negotiations, and ruthless schemes. There can only be one Zoo Mascot, after all. Where are you going? That is the ultimate question of Zoo Vadis.
+>
+> Zoo Vadis is an evolution of Reiner Knizia’s classic negotiation game, Quo Vadis? It retains the elegant, political gameplay that fans have come to love while introducing many innovations and improvements by: a) Enhancing the 3-player game and tailoring the board to all player counts through neutral, bribable figures—roaming peacocks, b) Widening the player count with a second game board for 6-7 players, c) Expanding the possibilities for strategic negotiation with asymmetric animal abilities, d) Increasing tactical opportunities with new special laurel tokens, e) Broadening the appeal of the theme and presentation with vibrant zoo art by Kwanchai Moriya and Brigette Indelicato, f) Enlivening the production with chunky animal figures and functional player screens.
+>
+> Like the original design, the game ends immediately when the Star Exhibit is full. Only the animals who have reached the Star Exhibit qualify for victory, and the winner is the player with the most laurels.
+
+![Zoo Vadis](https://cf.geekdo-images.com/Kl3NjtNKpuJNPjdBQtdsow__itemrep/img/mmVsnLtn3T4zkeNbjWpfrWZKS5c=/fit-in/246x300/filters:strip_icc\(\)/pic6988937.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   3 - 7 |      10+ | 20-40m |
+### [Twilight Inscription](https://boardgamegeek.com/boardgame/361545/twilight-inscription)
+
+> Roll your way through the Twilight Imperium universe.
+> The Lazax Empire has burned to ash, rejected by its subjects. The aftermath was tragedy and petty conflict in equal measure, a time of loss and exhaustion. In the ensuing Dark Years, the factions of the galaxy retreated and recovered their strength. Now, they look upon the stars and see an opportunity—a chance to reclaim what was lost. A chance to redefine galactic civilization. A chance to leave their mark upon the stars.
+> Twilight Inscription, an epic roll-and-write game for one to eight players, offers an experience unlike anything Fantasy Flight Games has done before. With a limited pool of resources at your disposal, you’ll need to carefully manage Navigation, Expansion, Industry, and Warfare as you amass victory points and earn your right to the throne on Mecatol Rex. Will your faction become the new rulers of the galaxy? Or will your fledgling empire fade into obscurity? Anything can happen in this strategic, infinitely-replayable game!
+
+![Twilight Inscription](https://cf.geekdo-images.com/g36va6ofPCzNZXF-9GEpCg__itemrep/img/V3Cny2dR0eXaJjFkqkOCOoKP9Tg=/fit-in/246x300/filters:strip_icc\(\)/pic7132023.png)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 8 |      14+ | 90-120m |
+
+### Contribute
+
+### [Hadrian's Wall](https://boardgamegeek.com/boardgame/304783/hadrians-wall)
+
+> When visiting the North of Britannia in 122 AD, the Roman Emperor Hadrian Augustus witnessed the aftermath of war between his armies and the savage Picts. In a show of Roman might, he ordered a wall to be built that would separate the Pict tribes from the rest of England. Grand in its design, the wall stretched 80 Roman miles, from coast to coast. Hadrian's Wall stood in service to the Roman Empire for nearly 300 years before its eventual decline. Today, Hadrian's Wall is a UNESCO World Heritage Site and the remains of the forts, towers, and turrets can still be explored.
+>
+> In Hadrian's Wall, players take on the role of a Roman General placed in charge of the construction of a milecastle and bordering wall. Over six years (rounds), players will construct their fort and wall, man the defenses, and attract civilians by building services and providing entertainment — all while defending the honor of the Roman Empire from the warring Picts. The player who can accumulate the most renown, piety, valor and discipline, whilst avoiding disdain, will prove to the Emperor they are the model Roman citizen and be crowned Legatus Legionis!
+
+![Hadrian's Wall](https://cf.geekdo-images.com/4XzRDw3VrgNpNfZlzZl66w__itemrep/img/V1Db0T3MlAicjsL1C_PrOLfm_xY=/fit-in/246x300/filters:strip_icc\(\)/pic5608818.png)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 6 |      12+ | 30-60m |
+
+Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
+
 ## [Oct 31, 2023](/content/2023/10/31/README.md)
 
 ### Party
@@ -19,9 +92,6 @@ A curated list of awesome and exceptional board games. Please contribute!
 | Players | Min. Age |    Time |
 | ------: | -------: | ------: |
 |   2 - 4 |      14+ | 90-180m |
-
-### Contribute
-
 ### [Saboteur](https://boardgamegeek.com/boardgame/9220/saboteur)
 
 > With the help of Dwarf Cards, the players are assigned their role: either miner or saboteur. The roles are kept secret until the end of the round. As miners, they are hunting for gold. The miners are trying to build an uninterrupted path from the Start Card to a Goal Card, while the saboteurs are trying to prevent this. They shouldn't try to be too obvious about it, however, lest they be immediately discovered.
@@ -37,8 +107,6 @@ A curated list of awesome and exceptional board games. Please contribute!
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |  3 - 10 |       8+ |  30m |
-
-Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
 ## [Oct 30, 2023](/content/2023/10/30/README.md)
 
@@ -659,7 +727,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 > This game is like Clue but for younger kids – and yet still fun for adults too. A fox stole a pot pie, and you have to figure out which fox it was before they escape into the foxhole. My kids regularly play this cooperative whodunnit game independently, and I love watching them work together as a team to solve the mystery. This is a fun little game to build your child’s logic and deductive reasoning skills!
 
-![Outfoxed](https://upload.wikimedia.org/wikipedia/commons/f/f6/Outfoxed.webp)
+![Outfoxed](https://cf.geekdo-images.com/v0FCI-wY8YlPn39XKd3F8w__itemrep/img/KGnNOM0FA8nwFXtKFsamxkx5v2E=/fit-in/246x300/filters:strip_icc\(\)/pic2401324.jpg)
 
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |

@@ -393,6 +393,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [pyro (⭐8.2k)](https://github.com/pyro-ppl/pyro)
 *   [Catalyst (⭐3.2k)](https://github.com/catalyst-team/catalyst)
 *   [pytorch\_tabular (⭐1k)](https://github.com/manujosephv/pytorch_tabular)
+*   [Yolov3 (⭐9.8k)](https://github.com/ultralytics/yolov3)
+*   [Yolov5 (⭐43k)](https://github.com/ultralytics/yolov5)
+*   [Yolov8 (⭐15k)](https://github.com/ultralytics/ultralytics)
 
 #### TensorFlow Ecosystem
 
@@ -1131,7 +1134,7 @@ Some data mining competition platforms
 *   [Awesome Monte Carlo Tree Search (⭐559)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
 *   [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
 *   [100 NLP Papers (⭐3.6k)](https://github.com/mhagiwara/100-nlp-papers)
-*   [Awesome Game Datasets (⭐563)](https://github.com/leomaurodesenv/game-datasets#readme)
+*   [Awesome Game Datasets (⭐569)](https://github.com/leomaurodesenv/game-datasets#readme)
 *   [Data Science Interviews Questions (⭐7.8k)](https://github.com/alexeygrigorev/data-science-interviews)
 *   [Awesome Explainable Graph Reasoning (⭐1.9k)](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 *   [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)

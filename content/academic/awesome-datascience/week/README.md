@@ -29,6 +29,12 @@
 *   [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 *   [CART (Classification and Regression Trees)](https://en.wikipedia.org/wiki/Decision_tree_learning)
 
+### Deep Learning Packages / PyTorch Ecosystem
+
+*   [Yolov3 (⭐9.8k)](https://github.com/ultralytics/yolov3)
+*   [Yolov5 (⭐43k)](https://github.com/ultralytics/yolov5)
+*   [Yolov8 (⭐15k)](https://github.com/ultralytics/ultralytics)
+
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
 ### Tutorials
@@ -972,7 +978,7 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
-*   [Awesome Game Datasets (⭐563)](https://github.com/leomaurodesenv/game-datasets#readme)
+*   [Awesome Game Datasets (⭐569)](https://github.com/leomaurodesenv/game-datasets#readme)
 
 ## [Oct 26 - Nov 01, 2020](/content/2020/43/README.md)
 
