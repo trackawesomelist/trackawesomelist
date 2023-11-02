@@ -15,12 +15,25 @@
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
+### C++ / Non-X86
+
+*   [C++ Programming: Code patterns design](https://en.wikibooks.org/wiki/C%2B%2B_Programming/Code/Design_Patterns) - WikiBooks (HTML)
+
+### HTML and CSS / Spock Framework
+
+*   [The CSS Flexbox Handbook](https://www.freecodecamp.org/news/the-css-flexbox-handbook/) - Benjamin Semah
+
 ### Java / Bootstrap
 
 *   [Hibernate Notes for Professionals](https://books.goalkicker.com/HibernateBook) - Compiled from StackOverflow Documentation (PDF)
 
+### JavaScript / Wicket
+
+*   [Bible of JS](https://sheryians.com/download/bibleofjs_by_sheryians) - Harsh Sharma, Sheryians Coding School
+
 ### Linux / TeX
 
+*   [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/) - Gerard Beekmans, Bruce Dubbs, Ken Moffat, Pierre Labastie, et al.
 *   [Linux Notes for Professionals](https://books.goalkicker.com/LinuxBook) - Compiled from StackOverflow Documentation (PDF)
 
 ### .NET Framework / PicoLisp
@@ -29,7 +42,21 @@
 
 ### Python / Constraint Logic Programming (extended Prolog)
 
+*   [An Introduction to Statistical Learning with Applications in Python](https://hastie.su.domains/ISLP/ISLP_website.pdf.view-in-google.html) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor (PDF)
 *   [Programming Basics with Python](https://python-book.softuni.org) - Svetlin Nakov & Team
+
+### R / Tornado
+
+*   [An Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.view-in-google.html) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani (PDF)
+
+### SQL (implementation agnostic) / Play Scala
+
+*   [The SQL Handbook](https://www.freecodecamp.org/news/a-beginners-guide-to-sql) - Lane Wagner (HTML)
+
+### TypeScript / Vapor
+
+*   [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) - Microsoft
+*   [TypeScript Handbook for React Developers](https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/) - Yazdun Fadali
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
@@ -215,12 +242,6 @@
 
 *   [Programming GPUs with Python: PyOpenCL and PyCUDA](http://homepages.math.uic.edu/~jan/mcs572f16/mcs572notes/lec29.html) - Jan Verschelde, University of Illinois Chicago (HTML)
 *   [PyOpenCl Documentation](https://documen.tician.de/pyopencl/) - Andreas Kloeckner (HTML)
-
-## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [An Introduction to Statistical Learning with Applications in Python](https://hastie.su.domains/ISLP/ISLP_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor (PDF)
 
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
@@ -579,10 +600,6 @@
 ### SQL (implementation agnostic) / Play Scala
 
 *   [Essential SQL](https://www.programming-books.io/essential/sql) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
-
-### TypeScript / Vapor
-
-*   [TypeScript Handbook](https://www.typescriptlang.org/assets/typescript-handbook.pdf) - Microsoft (PDF)
 
 ### YAML / Vulkan
 
@@ -995,7 +1012,6 @@
 ### R / Tornado
 
 *   [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.html) - David M. Smith, William N. Venables
-*   [An Introduction to Statistical Learning with Applications in R](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani (PDF)
 *   [Forecasting: Principles and Practice](https://otexts.com/fpp3/) - Rob J Hyndman, George Athanasopoulos
 *   [Functional Programming](https://dcl-prog.stanford.edu) - Sara Altman, Bill Behrman, Hadley Wickham
 *   [ModernDive](https://ismayc.github.io/moderndiver-book/) - Chester Ismay, Albert Y. Kim
@@ -1464,7 +1480,6 @@
 
 *   [A Practical Introduction to Python Programming](https://www.brianheinold.net/python/) - Brian Heinold (HTML, PDF, Exercises sources)
 *   [Learn to Program Using Python](https://web.archive.org/web/20201224032210/https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) - Cody Jackson (PDF) *(:card\_file\_box: archived)*
-*   [Official NumPy Reference](https://numpy.org/doc/stable/numpy-ref.pdf) - The NumPy Community (PDF)
 *   [Slither into Python: An introduction to Python for beginners](https://web.archive.org/web/20210411065902/https://www.slitherintopython.com/) (3.7) *(:card\_file\_box: archived)*
 
 ### Raspberry Pi / Tornado
@@ -3082,7 +3097,6 @@
 
 ### Swift / Vapor
 
-*   [Vapor 3 Tutorial For Beginners](https://theswiftdev.com/2018/04/09/vapor-3-tutorial-for-beginners) - Tibor Bödecs
 *   [Vapor Official Docs](https://docs.vapor.codes)
 
 ## [Oct 01 - Oct 07, 2018](/content/2018/40/README.md)
@@ -4826,7 +4840,6 @@
 ### Linux / TeX
 
 *   [The Linux Command Line](http://linuxcommand.org/tlcl.php) (PDF)
-*   [Linux from Scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
 *   [The Linux System Administrator's Guide](http://www.tldp.org/LDP/sag/html/index.html)
 *   [Upstart Intro, Cookbook and Best Practises](http://upstart.ubuntu.com/cookbook/)
 *   [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) (PDF)
@@ -4858,7 +4871,6 @@
 *   [EAI Patterns with Actor Model (⭐11)](https://github.com/alexanderfefelov/eai-patterns-with-actor-model) - Vaughn Vernon
 *   [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/) - Phil! Gold
 *   [Scala for Perl 5 Programmers (⭐115)](https://github.com/garu/scala-for-perl5-programmers) - Breno G. de Oliveira
-*   [tetrix in Scala](http://eed3si9n.com/tetrix-in-scala-html5-book)
 
 ### Scala / Play Scala
 

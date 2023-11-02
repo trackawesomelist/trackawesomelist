@@ -8,6 +8,10 @@ Explore a curated selection of AI tools and resources
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
+### Customer Support
+
+*   [Boom AI](https://boom.ai/) - powered voice agents and services built by contact center experts. `#freemium`
+
 ### Design Generator
 
 *   [Book Witch](https://bookwitch.io/) - Use the power of AI to create complete e-books with just one click! `#freemium`
@@ -19,6 +23,7 @@ Explore a curated selection of AI tools and resources
 ### Image Generator
 
 *   [AI Passport Photo](https://aipassportphoto.com/) - Take A Photo with Your Mobile Phone and Get Your Passport Photo in Seconds. `freemium`
+*   [Picsart](https://picsart.com/ai-image-generator/) - Convert words into an image in mere seconds with the Picsart AI Image Generator. `#freemium`
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 

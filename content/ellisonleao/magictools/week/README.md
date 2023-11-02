@@ -6,6 +6,12 @@
 
 [ [Daily](/content/ellisonleao/magictools/README.md) / Weekly / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
+
+### Engines and Frameworks / Voxel Editors
+
+*   :tada: :money\_with\_wings: [Flax Engine](https://flaxengine.com/) - multi-platform 3D game engine
+
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
 ### Engines and Frameworks / Voxel Editors
@@ -183,7 +189,7 @@
 *   :tada: [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing
 *   :free: [Lumberyard](https://aws.amazon.com/lumberyard/) - Amazon Lumberyard is a free AAA game engine deeply integrated
 *   :tada: [nuklear (⭐7.9k)](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library.
-*   :tada: [OpenXRay (⭐2.5k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
+*   :tada: [OpenXRay (⭐2.6k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
 *   :tada: [Pixel Vision 8 (⭐1.6k)](https://github.com/PixelVision8/PixelVision8) - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
 
 ## [Jan 10 - Jan 16, 2022](/content/2022/2/README.md)
@@ -356,7 +362,7 @@
 *   :tada: [Cocos2D (⭐628)](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language
 *   :tada: [Cocos2d-x](http://cocos2d-x.org/) - a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE.
 *   :tada: [Coquette](http://coquette.maryrosecook.com/) - A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
-*   :tada: [Dash (⭐414)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
+*   :tada: [Dash (⭐416)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 *   :tada: [Dear Imgui (⭐51k)](https://github.com/ocornut/imgui/) - A bloat-free immediate mode GUI for C++ with minimal dependencies.
 *   :tada: [DEM Net Elevation API C# (⭐253)](https://github.com/dem-net/DEM.Net) - Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
 *   :tada: [Diligent Engine (⭐3k)](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
@@ -521,7 +527,7 @@
 
 ### Videos/Podcasts / Voxel Editors
 
-*   [awesome-gametalks (⭐994)](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc).
+*   [awesome-gametalks (⭐1k)](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc).
 *   [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch GameDev Streams
 
 ### Game Jams / Voxel Editors

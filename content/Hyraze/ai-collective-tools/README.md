@@ -6,6 +6,16 @@ Explore a curated selection of AI tools and resources
 
 [ Daily / [Weekly](/content/Hyraze/ai-collective-tools/week/README.md) / [Overview](/content/Hyraze/ai-collective-tools/readme/README.md) ]
 
+## [Nov 02, 2023](/content/2023/11/02/README.md)
+
+### Customer Support
+
+*   [Boom AI](https://boom.ai/) - powered voice agents and services built by contact center experts. `#freemium`
+
+### Image Generator
+
+*   [Picsart](https://picsart.com/ai-image-generator/) - Convert words into an image in mere seconds with the Picsart AI Image Generator. `#freemium`
+
 ## [Oct 31, 2023](/content/2023/10/31/README.md)
 
 ### Design Generator

@@ -234,7 +234,7 @@ A curated list of game development resources to make **magic** happen.
 *   :money\_with\_wings: [CopperCube](http://www.ambiera.com/coppercube/) - CopperCube is an all-in-one 3D game engine.Very easy to use.
 *   :tada: [Coquette](http://coquette.maryrosecook.com/) - A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
 *   :tada: [ct.js](https://ctjs.rocks/) — this 2D game engine makes learning programming fun and game development easy by its visual tools, good docs, and flexible, modular library.
-*   :tada: [Dash (⭐414)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
+*   :tada: [Dash (⭐416)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 *   :tada: [Dear Imgui (⭐51k)](https://github.com/ocornut/imgui/) - A bloat-free immediate mode GUI for C++ with minimal dependencies.
 *   :tada: [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing
 *   :tada: [DEM Net Elevation API C# (⭐253)](https://github.com/dem-net/DEM.Net) - Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
@@ -251,6 +251,7 @@ A curated list of game development resources to make **magic** happen.
 *   :tada: [Farseer (⭐632)](https://github.com/VelcroPhysics/VelcroPhysics) - a collision detection system with realistic physics responses.
 *   :tada: [Flame (⭐8.2k)](https://github.com/flame-engine/flame) - a minimalist game engine for Flutter
 *   :tada: [FlashPunk](http://useflashpunk.net/) - free ActionScript 3 library designed for developing 2D Flash games.
+*   :tada: :money\_with\_wings: [Flax Engine](https://flaxengine.com/) - multi-platform 3D game engine
 *   :moneybag: [GameMaker](http://www.yoyogames.com/en/gamemaker) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features.
 *   :tada: [gameplay](http://gameplay3d.io/) - A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
 *   :money\_with\_wings: [GameSalad](https://gamesalad.com/) - Game Creation Engine for Mac and Windows.
@@ -304,7 +305,7 @@ A curated list of game development resources to make **magic** happen.
 *   :tada: [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games.
 *   :tada: [openFrameworks](https://openframeworks.cc/) - An open source and free C++ toolkit for creative coding.
 *   :tada: [OpenRA](http://www.openra.net/) - OpenRA is a Libre/Free Real Time Strategy Game Engine.
-*   :tada: [OpenXRay (⭐2.5k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
+*   :tada: [OpenXRay (⭐2.6k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
 *   :moneybag: [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
 *   :tada: [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
 *   :tada: [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
@@ -468,7 +469,7 @@ A curated list of game development resources to make **magic** happen.
 
 ### Videos/Podcasts
 
-*   [awesome-gametalks (⭐994)](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc).
+*   [awesome-gametalks (⭐1k)](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc).
 *   [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch GameDev Streams
 
 ### Game Jams

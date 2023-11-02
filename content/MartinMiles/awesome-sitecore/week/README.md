@@ -6,6 +6,12 @@ Awesome lists of useful Sitecore tools, extensions and GitHub repositories
 
 [ [Daily](/content/MartinMiles/awesome-sitecore/README.md) / Weekly / [Overview](/content/MartinMiles/awesome-sitecore/readme/README.md) ]
 
+## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
+
+### XM Cloud
+
+*   [FEaaS BYOC Example (⭐0)](https://github.com/Sitecore/feaas-nextjs-example) - A repo that demonstrates an example of BYOC components using best practices.
+
 ## [Sep 25 - Oct 01, 2023](/content/2023/39/README.md)
 
 ### Icons
