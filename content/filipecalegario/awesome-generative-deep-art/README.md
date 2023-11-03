@@ -6,6 +6,30 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Nov 03, 2023](/content/2023/11/03/README.md)
+
+### Human-AI Interaction
+
+*   [Guidelines for Human-AI Interaction - Microsoft Research](https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/): a set of "18 generally applicable design guidelines for human-AI" interaction
+
+### Inbox: Large Language Models (LLMs)
+
+*   \[🔥🔥🔥] [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/): "practical patterns for integrating large language models (LLMs) into systems & products" by Eugene Yan
+
+### AI Engineering
+
+*   [One AI](https://oneai.com/): an NLP-as-a-service platform
+*   [LangSmith](https://www.langchain.com/langsmith): a developer platform for deploying LLM apps
+
+### Text-related Generative Tools
+
+*   [Fable Fiesta](https://fablefiesta.com): Creative AI writing assistant
+
+### Roadmaps, Tracks, Rails / Deforum
+
+*   \[🔥🔥] [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/): introductory 12 lesson course by Microsoft
+*   [Introduction to Generative AI](https://www.linkedin.com/posts/youssef-hosni-b2960b135_if-you-want-to-start-studying-generative-activity-7125908710702350336-vhsm/): series of Medium articles by Youssef Hosni
+
 ## [Nov 02, 2023](/content/2023/11/02/README.md)
 
 ### Generative AI Processes and Artifacts
@@ -19,9 +43,9 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Nov 01, 2023](/content/2023/11/01/README.md)
 
-### About the Generative AI Area: history, maps, and definitions
+### Human-AI Interaction
 
-*   [\[2310.07127\] An HCI-Centric Survey and Taxonomy of Human-Generative-AI Interactions](https://arxiv.org/abs/2310.07127): "a survey of 154 papers, providing a novel taxonomy and analysis of Human-GenAI Interactions from both human and Gen-AI perspectives".
+*   \[🔥🔥🔥] [\[2310.07127\] An HCI-Centric Survey and Taxonomy of Human-Generative-AI Interactions](https://arxiv.org/abs/2310.07127): "a survey of 154 papers, providing a novel taxonomy and analysis of Human-GenAI Interactions from both human and Gen-AI perspectives".
 
 ### Critical Views about Generative AI
 
