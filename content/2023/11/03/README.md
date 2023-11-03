@@ -1,24 +1,55 @@
 # Awesome List Updates on Nov 03, 2023
 
-8 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Compression
+
+*   [zlib-ng (⭐1.4k)](https://github.com/zlib-ng/zlib-ng) - zlib for the "next generation" systems. Drop-In replacement with some serious optimizations. \[zlib]
+
+### Articles
+
+*   [CppCon 2023 Presentation Materials (⭐10)](https://github.com/CppCon/CppCon2023) - CppCon 2023 Presentation Materials.
+*   [CppCon 2022 Presentation Materials (⭐459)](https://github.com/CppCon/CppCon2022) - CppCon 2022 Presentation Materials.
+*   [CppCon 2021 Presentation Materials (⭐66)](https://github.com/CppCon/CppCon2021) - CppCon 2021 Presentation Materials.
+*   [C++Now 2023 Presentations (⭐65)](https://github.com/boostcon/cppnow_presentations_2023) - Presentation materials presented at C++Now 2023.
+*   [C++Now 2022 Presentations (⭐1)](https://github.com/boostcon/cppnow_presentations_2022) - Presentation materials presented at C++Now 2022.
+*   [C++Now 2021 Presentations (⭐2)](https://github.com/boostcon/cppnow_presentations_2021) - Presentation materials presented at C++Now 2021.
+
+## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Forms
+
+*   [checker (⭐5)](https://github.com/cinar/checker) - Checker helps validating user input through rules defined in struct tags or directly through functions.
+
+### Server Applications
+
+*   [etcd (⭐45k)](https://github.com/etcd-io/etcd) - Highly-available key value store for shared configuration and service discovery.
+
+## [3. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+
+### Datasets / Book Deals (Affiliated) 🛍
+
+*   [The Humanitarian Data Exchange](https://data.humdata.org/)
+
+## [4. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Database
 
 *   [karlseguin/pg.zig (⭐18)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL client.
 
-## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Scripting
 
 *   [3body-lang (⭐104)](https://github.com/rustq/3body-lang) - The Three Body Language written in Rust
 
-## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Animations / Other
 
@@ -28,7 +59,7 @@
 
 *   [ECMAScript 6 compatibility table](https://compat-table.github.io/compat-table/es6/) - Compatibility tables for all ECMAScript 6 features on a variety of environments.
 
-## [4. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+## [7. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ### Editors / iOS / macOS
 
@@ -50,7 +81,7 @@
 
 *   [gPodder (⭐1.2k)](https://github.com/gpodder/gpodder) - gPodder is a simple, open source podcast client. ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.")
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Graphics
 
@@ -135,7 +166,7 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Human-AI Interaction
 
@@ -159,13 +190,13 @@
 *   \[🔥🔥] [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/): introductory 12 lesson course by Microsoft
 *   [Introduction to Generative AI](https://www.linkedin.com/posts/youssef-hosni-b2960b135_if-you-want-to-start-studying-generative-activity-7125908710702350336-vhsm/): series of Medium articles by Youssef Hosni
 
-## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [10. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Merge Tools / Ruby
 
 *   [gtfsmerge (⭐2)](https://github.com/now8-org/gtfsmerge) - A Python Script to merge GTFS ZIP archives into one.
 
-## [8. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [11. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Tools / Playground
 

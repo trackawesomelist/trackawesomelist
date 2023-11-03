@@ -196,6 +196,16 @@
 ### Compression
 
 *   [minizip-ng (⭐1.1k)](https://github.com/zlib-ng/minizip-ng) - Fork of the popular zip manipulation library found in the zlib distribution. \[zlib]
+*   [zlib-ng (⭐1.4k)](https://github.com/zlib-ng/zlib-ng) - zlib for the "next generation" systems. Drop-In replacement with some serious optimizations. \[zlib]
+
+### Articles
+
+*   [CppCon 2023 Presentation Materials (⭐10)](https://github.com/CppCon/CppCon2023) - CppCon 2023 Presentation Materials.
+*   [CppCon 2022 Presentation Materials (⭐459)](https://github.com/CppCon/CppCon2022) - CppCon 2022 Presentation Materials.
+*   [CppCon 2021 Presentation Materials (⭐66)](https://github.com/CppCon/CppCon2021) - CppCon 2021 Presentation Materials.
+*   [C++Now 2023 Presentations (⭐65)](https://github.com/boostcon/cppnow_presentations_2023) - Presentation materials presented at C++Now 2023.
+*   [C++Now 2022 Presentations (⭐1)](https://github.com/boostcon/cppnow_presentations_2022) - Presentation materials presented at C++Now 2022.
+*   [C++Now 2021 Presentations (⭐2)](https://github.com/boostcon/cppnow_presentations_2021) - Presentation materials presented at C++Now 2021.
 
 ## [15. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
@@ -288,7 +298,7 @@
 
 ### Concepts / Human Concept Representation
 
-*   [The Database of Cross-Linguistic Colexifications, reproducible analysis of cross-linguistic polysemies](https://www.nature.com/articles/s41597-019-0341-x) - ***Scientific Data***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=4039754406289857135\&hl=en\&as_sdt=0,5)]. \[[Database](https://clics.clld.org/)]. CLICS tackles interconnected interdisciplinary research questions about the colexifcation of words across semantic categories in the world’s languages, and show-cases best practices for preparing data for cross-linguistic research.
+*   [The Database of Cross-Linguistic Colexifications, reproducible analysis of cross-linguistic polysemies](https://www.nature.com/articles/s41597-019-0341-x) - ***Scientific Data***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=4039754406289857135\&hl=en\&as_sdt=0,5)]. \[[Project](https://clics.clld.org/)]. CLICS tackles interconnected interdisciplinary research questions about the colexifcation of words across semantic categories in the world’s languages, and show-cases best practices for preparing data for cross-linguistic research.
 
 ### Meta-Level Considerations / Cognitive Architecture
 
@@ -440,6 +450,10 @@
 *   [Yolov5 (⭐43k)](https://github.com/ultralytics/yolov5)
 *   [Yolov8 (⭐15k)](https://github.com/ultralytics/ultralytics)
 
+### Datasets / Book Deals (Affiliated) 🛍
+
+*   [The Humanitarian Data Exchange](https://data.humdata.org/)
+
 ## [34. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Models
@@ -476,9 +490,17 @@
 
 *   [coherence-go-client (⭐7)](https://github.com/oracle/coherence-go-client) - Full implementation of Oracle Coherence cache API for Go applications using gRPC as network transport.
 
+### Forms
+
+*   [checker (⭐5)](https://github.com/cinar/checker) - Checker helps validating user input through rules defined in struct tags or directly through functions.
+
 ### Security
 
 *   [beelzebub (⭐422)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
+
+### Server Applications
+
+*   [etcd (⭐45k)](https://github.com/etcd-io/etcd) - Highly-available key value store for shared configuration and service discovery.
 
 ## [37. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 

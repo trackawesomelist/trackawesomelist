@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Nov 03, 2023](/content/2023/11/03/README.md)
+
+### Datasets / Book Deals (Affiliated) 🛍
+
+*   [The Humanitarian Data Exchange](https://data.humdata.org/)
+
 ## [Nov 01, 2023](/content/2023/11/01/README.md)
 
 ### Deep Learning Packages / PyTorch Ecosystem
@@ -972,29 +978,29 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [scikit-multilearn (⭐871)](https://github.com/scikit-multilearn/scikit-multilearn)
-*   [sklearn-expertsys (⭐484)](https://github.com/tmadl/sklearn-expertsys)
+*   [scikit-multilearn (⭐875)](https://github.com/scikit-multilearn/scikit-multilearn)
+*   [sklearn-expertsys (⭐485)](https://github.com/tmadl/sklearn-expertsys)
 *   [scikit-feature (⭐1.4k)](https://github.com/jundongl/scikit-feature)
-*   [scikit-rebate (⭐385)](https://github.com/EpistasisLab/scikit-rebate)
-*   [seqlearn (⭐666)](https://github.com/larsmans/seqlearn)
-*   [sklearn-bayes (⭐494)](https://github.com/AmazaspShumik/sklearn-bayes)
+*   [scikit-rebate (⭐387)](https://github.com/EpistasisLab/scikit-rebate)
+*   [seqlearn (⭐667)](https://github.com/larsmans/seqlearn)
+*   [sklearn-bayes (⭐495)](https://github.com/AmazaspShumik/sklearn-bayes)
 *   [sklearn-crfsuite (⭐421)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
-*   [sklearn-deap (⭐739)](https://github.com/rsteca/sklearn-deap)
+*   [sklearn-deap (⭐740)](https://github.com/rsteca/sklearn-deap)
 *   [sklearn-evaluation (⭐2)](https://github.com/edublancas/sklearn-evaluation)
-*   [scikit-image (⭐5.6k)](https://github.com/scikit-image/scikit-image)
+*   [scikit-image (⭐5.7k)](https://github.com/scikit-image/scikit-image)
 *   [scikit-opt (⭐4.5k)](https://github.com/guofei9987/scikit-opt)
-*   [scikit-posthocs (⭐299)](https://github.com/maximtrp/scikit-posthocs)
+*   [scikit-posthocs (⭐300)](https://github.com/maximtrp/scikit-posthocs)
 *   [pystruct (⭐664)](https://github.com/pystruct/pystruct)
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn)
 *   [cuML (⭐3.6k)](https://github.com/rapidsai/cuml)
 *   [causalml (⭐4.3k)](https://github.com/uber/causalml)
 *   [mlpack (⭐4.6k)](https://github.com/mlpack/mlpack)
-*   [MLxtend (⭐4.5k)](https://github.com/rasbt/mlxtend)
+*   [MLxtend (⭐4.6k)](https://github.com/rasbt/mlxtend)
 *   [Sparkit-learn (⭐1.1k)](https://github.com/lensacom/sparkit-learn)
 *   [hyperlearn (⭐1.4k)](https://github.com/danielhanchen/hyperlearn)
 *   [dlib (⭐12k)](https://github.com/davisking/dlib)
 *   [RuleFit (⭐388)](https://github.com/christophM/rulefit)
-*   [pyGAM (⭐809)](https://github.com/dswah/pyGAM)
+*   [pyGAM (⭐813)](https://github.com/dswah/pyGAM)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
@@ -1004,20 +1010,20 @@
 *   [torchaudio (⭐2.2k)](https://github.com/pytorch/audio)
 *   [ignite (⭐4.4k)](https://github.com/pytorch/ignite)
 *   [PyTorchNet (⭐1.6k)](https://github.com/pytorch/tnt)
-*   [PyVarInf (⭐349)](https://github.com/ctallec/pyvarinf)
-*   [GPyTorch (⭐3.2k)](https://github.com/cornellius-gp/gpytorch)
+*   [PyVarInf (⭐350)](https://github.com/ctallec/pyvarinf)
+*   [GPyTorch (⭐3.3k)](https://github.com/cornellius-gp/gpytorch)
 *   [Catalyst (⭐3.2k)](https://github.com/catalyst-team/catalyst)
 
 ### Deep Learning Packages / TensorFlow Ecosystem
 
-*   [TensorFlow (⭐178k)](https://github.com/tensorflow/tensorflow)
+*   [TensorFlow (⭐179k)](https://github.com/tensorflow/tensorflow)
 *   [TFLearn (⭐9.6k)](https://github.com/tflearn/tflearn)
 *   [Sonnet (⭐9.6k)](https://github.com/deepmind/sonnet)
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl)
 *   [Polyaxon (⭐3.4k)](https://github.com/polyaxon/polyaxon)
 *   [NeuPy (⭐740)](https://github.com/itdxer/neupy)
 *   [tfdeploy (⭐352)](https://github.com/riga/tfdeploy)
-*   [tensorflow-upstream (⭐661)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
+*   [tensorflow-upstream (⭐662)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
 *   [TensorFlow Fold (⭐1.8k)](https://github.com/tensorflow/fold)
 *   [tensorlm (⭐61)](https://github.com/batzner/tensorlm)
 *   [TensorLight (⭐10)](https://github.com/bsautermeister/tensorlight)
@@ -1032,7 +1038,7 @@
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas)
 *   [Hera (⭐489)](https://github.com/keplr-io/hera)
 *   [Spektral (⭐2.3k)](https://github.com/danielegrattarola/spektral)
-*   [qkeras (⭐501)](https://github.com/google/qkeras)
+*   [qkeras (⭐505)](https://github.com/google/qkeras)
 *   [keras-rl (⭐5.4k)](https://github.com/keras-rl/keras-rl)
 *   [Talos (⭐1.6k)](https://github.com/autonomio/talos)
 
