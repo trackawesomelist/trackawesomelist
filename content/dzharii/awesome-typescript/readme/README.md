@@ -75,6 +75,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [samchon/backend (⭐582)](https://github.com/samchon/backend) - TypeScript backend template project using the [NestJS](https://nestjs.com) ([nestia (⭐1.4k)](https://github.com/samchon/nestia)) and [TypeORM](https://typeorm.io) ([safe-typeorm (⭐226)](https://github.com/samchon/safe-typeorm)). It helps newbie backend developers through the derived example projects. Also, it even supports the non-distruptive update system in the process level through the [pm2](https://pm2.keymetrics.io/).
 *   :ok\_man: [ts-express-boilerplate (⭐24)](https://github.com/d4rkstar/ts-express-boilerplate) - ExpressJS / Typescript template good to start backend projects, with a focus on simplicity and minimal features :P It has logging and testing configured out of the box. Typeorm is used for data access.
 *   [create-typescript-app (⭐1)](https://github.com/hein-htut-aung/create-typescript-app) - provides a starting point for TypeScript web applications. pnpm, Rollup, Jest, and CSS Modules with SCSS.
+*   [ts-vite-npm-template (⭐2)](https://github.com/kaandesu/ts-vite-npm-template) - An all-in-one solution for crafting TypeScript-based NPM packages with Vite, complete with built-in GitHub Pages live-demo deployment, automated test-and-build workflows, and Vite-powered unit test configuration, including coverage analysis and a README.md template for your package.
 
 ### Books
 
@@ -281,7 +282,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 
 *   :octocat: [Actio (⭐265)](https://github.com/crufters/actio/) - The Node.js framework for monoliths and microservices.
 *   :octocat: [design-first](https://adam-hanna.github.io/design-first-docs/) - A REST Api templating engine for Typescript
-*   :octocat: [Nest (⭐60k)](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: <https://nestjs.com/>)
+*   :octocat: [Nest (⭐61k)](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: <https://nestjs.com/>)
     *   :octocat: [nestia (⭐1.4k)](https://github.com/samchon/nestia) - 20,000x faster validation and 200x faster JSON serialization decorators using `typia`. Enable to utilize pure TypeScript interface type as DTO, and overall server performance improved by about 30x times. Also, it supports SDK (collection of `fetch` functions with type definitions) and Mockup Simulator (backend server simulator embedded in SDK) generation, and even possible to migrate NestJS project only by `swagger.json` file. 🚀 (see also: <https://nestia.io/docs>)
 *   :octocat: [LoopBack 4 (⭐4.7k)](https://github.com/strongloop/loopback-next) - A highly extensible Node.js and TypeScript framework for building APIs and microservices. :rocket: (see also: <https://loopback.io/>)
 *   :octocat: [FoalTS (⭐1.8k)](https://github.com/FoalTS/foal) - A simple, intuitive and complete framework for building enterprise-grade Node.JS applications :boom: :rocket: (see also: <https://foalts.org>)
@@ -319,7 +320,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [TypeORM (⭐32k)](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
     *   :octocat: [Safe-TypeORM (⭐226)](https://github.com/samchon/safe-typeorm) - Enhances `TypeORM` in the compilation level and supports automated performance tuning tools through the application level joining. Furthermore, your raw SQL queries would be ensured safety by type meta programming.
 *   :octocat: [MikroORM (⭐6.6k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
-*   :octocat: [Prisma (⭐34k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
+*   :octocat: [Prisma (⭐35k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
     *   :octocat: [prisma-markdown (⭐119)](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
 *   :octocat: [Neuledge (⭐237)](https://github.com/neuledge/engine-js) - Neuledge is a universal language for databases that provides state-of-the-art tools for data modeling, business logic representation, and schema validation.
 *   :octocat: [Typetta (⭐92)](https://github.com/twinlogix/typetta) - Typescript ORM for Node.js that uses GraphQL as schema definition language | Supports all main SQL databases and MongoDB.

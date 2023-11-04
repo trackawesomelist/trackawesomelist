@@ -8,6 +8,10 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
+### Typescript Project Starters
+
+*   [ts-vite-npm-template (⭐2)](https://github.com/kaandesu/ts-vite-npm-template) - An all-in-one solution for crafting TypeScript-based NPM packages with Vite, complete with built-in GitHub Pages live-demo deployment, automated test-and-build workflows, and Vite-powered unit test configuration, including coverage analysis and a README.md template for your package.
+
 ### Tools / Playground
 
 *   [OXC (⭐3.1k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
@@ -237,7 +241,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Back-end API / Playground
 
-*   :octocat: [Nest (⭐60k)](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: <https://nestjs.com/>)
+*   :octocat: [Nest (⭐61k)](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: <https://nestjs.com/>)
     *   :octocat: [nestia (⭐1.4k)](https://github.com/samchon/nestia) - 20,000x faster validation and 200x faster JSON serialization decorators using `typia`. Enable to utilize pure TypeScript interface type as DTO, and overall server performance improved by about 30x times. Also, it supports SDK (collection of `fetch` functions with type definitions) and Mockup Simulator (backend server simulator embedded in SDK) generation, and even possible to migrate NestJS project only by `swagger.json` file. 🚀 (see also: <https://nestia.io/docs>)
 
 ### Libraries / Chrome Extensions
@@ -472,7 +476,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Prisma (⭐34k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
+*   :octocat: [Prisma (⭐35k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
     *   :octocat: [prisma-markdown (⭐119)](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
 *   :octocat: [tsParticles (⭐5.9k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
 

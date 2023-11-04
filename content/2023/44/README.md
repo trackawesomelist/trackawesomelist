@@ -1,18 +1,71 @@
 # Awesome List Updates on Oct 30 - Nov 05, 2023
 
-43 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [1. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Collaboration Tools / Malware Analysis Books
+
+*   [Hexway Hive](https://hexway.io/hive/) - Commercial collaboration, data aggregation, and reporting framework for red teams with a limited free self-hostable option.
+*   [Reconmap](https://reconmap.com/) - Open-source collaboration platform for InfoSec professionals that streamlines the pentest process.
+
+## [2. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Third-Party Packages / Users
+
+*   [django-allauth-ui (⭐109)](https://github.com/danihodovic/django-allauth-ui/) - Better looking templates for django-allauth.
+
+### Python Packages / Views
+
+*   [python-socketio (⭐3.6k)](https://github.com/miguelgrinberg/python-socketio) - Python implementation of the Socket.IO\_ realtime client and server. [(create Socket.io Django server instance)](https://python-socketio.readthedocs.io/en/latest/server.html?highlight=django#creating-a-server-instance)
+
+### Projects / Boilerplate
+
+*   [sidewinder (⭐112)](https://github.com/stribny/sidewinder/) - A Django starter kit that focuses on good defaults, developer experience, and deployment.
+
+## [3. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+
+### Programming Languages and Programming Language Theory
+
+*   [Syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar) - Syntax that makes the language "sweeter" for human use. Usually a shorthand for common operations that can also be expressed in a more verbose form.
+
+## [4. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+
+### Remote Jobs:
+
+- Website: <https://workremote.cc/>
+
+
+
+### Icons:
+
+- Website: <https://svgmix.com>
+
+
+
+## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+
+### Software / Control Panels
+
+*   [HestiaCP](https://hestiacp.com/) - Web server control panel (fork of VestaCP). ([Demo](https://demo.hestiacp.com:8083/login/), [Source Code (⭐2.7k)](https://github.com/hestiacp/hestiacp)) `GPL-3.0` `PHP/Shell/Other`
+
+## [6. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+
+### Plugins
+
+*   [tmux-timetrap (⭐0)](https://github.com/croxarens/tmux-timetrap) Keep your time tracked directly with TMUX (The plugin is just a wrapper for [timetrap (⭐1.4k)](https://github.com/samg/timetrap))
+
+## [7. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Database
 
 *   [karlseguin/pg.zig (⭐18)](https://github.com/karlseguin/pg.zig) - Native PostgreSQL client.
 
-## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Animations / Other
 
@@ -22,7 +75,7 @@
 
 *   [ECMAScript 6 compatibility table](https://compat-table.github.io/compat-table/es6/) - Compatibility tables for all ECMAScript 6 features on a variety of environments.
 
-## [3. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
+## [9. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
 
 ### Editors / iOS / macOS
 
@@ -44,16 +97,7 @@
 
 *   [gPodder (⭐1.2k)](https://github.com/gpodder/gpodder) - gPodder is a simple, open source podcast client. ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.")
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-
-### Libraries/Frameworks / Data Science
-
-*   [holgerbrandl/krangl (⭐563)](https://github.com/holgerbrandl/krangl) - krangl is a {K}otlin library for data w{rangl}ing.
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Logging
 
@@ -129,37 +173,37 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [11. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Merge Tools / Ruby
 
 *   [gtfsmerge (⭐2)](https://github.com/now8-org/gtfsmerge) - A Python Script to merge GTFS ZIP archives into one.
 
-## [6. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [12. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Tools / Dolby
 
 *   [wangyoucao577/plot-av (⭐0)](https://github.com/wangyoucao577/plot-av)  - Plot Audio/Video streams for better insights.
 
-## [7. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [13. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :tada: :money\_with\_wings: [Flax Engine](https://flaxengine.com/) - multi-platform 3D game engine
 
-## [8. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [14. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
 *   [todoist-box (⭐0)](https://github.com/joshghent/todoist-box) - Update a pinned gist to contain your Todoist productivity stats
 
-## [9. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [15. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### XM Cloud
 
 *   [FEaaS BYOC Example (⭐0)](https://github.com/Sitecore/feaas-nextjs-example) - A repo that demonstrates an example of BYOC components using best practices.
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [16. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### AI
 
@@ -169,13 +213,13 @@
 
 *   [Blazor on .NET 8 - Ten Reasons why Blazor on .NET 8 is a Game Changer](https://www.youtube.com/watch?v=VWwZrDA8om0) - ![duration](https://img.shields.io/badge/Duration:%20-25%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) October 10, 2023 - 10 reasons why the new enhancements and new features about Blazor released with .NET 8 are an absolute game changer.
 
-## [11. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [17. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Chat
 
 *   [ExyteChat (⭐316)](https://github.com/exyte/chat) - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker
 
-## [12. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [18. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### JavaScript Examples / React
 
@@ -185,13 +229,13 @@
 
 *   [GraphQLer (⭐35)](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool
 
-## [13. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [19. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Databases
 
 *   [Things Every Developer Absolutely, Positively Needs To Know About Database Indexing](https://www.youtube.com/watch?v=HubezKbFL7E) by **Kai Sassnowski** \[41:49]
 
-## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compression
 
@@ -207,7 +251,7 @@
 *   [C++Now 2022 Presentations (⭐1)](https://github.com/boostcon/cppnow_presentations_2022) - Presentation materials presented at C++Now 2022.
 *   [C++Now 2021 Presentations (⭐2)](https://github.com/boostcon/cppnow_presentations_2021) - Presentation materials presented at C++Now 2021.
 
-## [15. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [21. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -263,19 +307,19 @@
 *   [NDJSON (⭐592) (⭐590)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐274) (⭐271)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [16. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [22. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Databases
 
 *   [Human Virus Database (HVD)](http://computationalbiology.cn/humanVirusBase/#/) - A database of human viruses, including information on infected tissues. See description and use in a predictive model in [Ye et al. 2022](https://academic.oup.com/bioinformatics/article-abstract/38/11/3087/6569817?redirectedFrom=fulltext)
 
-## [17. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [23. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### State Management / Components
 
 *   [exome (⭐127)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 
-## [18. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
+## [24. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
 
 ### Customer Support
 
@@ -294,7 +338,7 @@
 *   [AI Passport Photo](https://aipassportphoto.com/) - Take A Photo with Your Mobile Phone and Get Your Passport Photo in Seconds. `freemium`
 *   [Picsart](https://picsart.com/ai-image-generator/) - Convert words into an image in mere seconds with the Picsart AI Image Generator. `#freemium`
 
-## [19. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [25. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Human Concept Representation
 
@@ -308,7 +352,7 @@
 
 *   [Single-atom alloy catalysts designed by first-principles calculations and artificial intelligence](https://www.nature.com/articles/s41467-021-22048-9) - ***Nature Communications***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=6593978922251447907\&hl=en\&as_sdt=0,5)].
 
-## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -318,32 +362,36 @@
 
 *   [3body-lang (⭐104)](https://github.com/rustq/3body-lang) - The Three Body Language written in Rust
 
-## [21. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [27. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
 *   🧬 [Htmx (⭐5)](https://github.com/aniftyco/tailwind-htmx) - Adds variants for styling on [htmx](https://htmx.org/reference/#classes) events.
 
-## [22. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [28. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Typescript Project Starters
+
+*   [ts-vite-npm-template (⭐2)](https://github.com/kaandesu/ts-vite-npm-template) - An all-in-one solution for crafting TypeScript-based NPM packages with Vite, complete with built-in GitHub Pages live-demo deployment, automated test-and-build workflows, and Vite-powered unit test configuration, including coverage analysis and a README.md template for your package.
 
 ### Tools / Playground
 
 *   [OXC (⭐3.1k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
 *   [biome (⭐3.1k)](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second
 
-## [23. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [29. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Rust / Git
 
 *   [botan-rs (⭐22)](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
 
-## [24. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [30. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
 *   [polars-business (⭐37)](https://github.com/MarcoGorelli/polars-business) - Polars extension that offers utilities for business day operations with Polars and Python by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
-## [25. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [31. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
@@ -354,7 +402,7 @@
 *   [Langroid (⭐293)](https://github.com/langroid/langroid): an intuitive, lightweight, extensible and principled Python framework to easily build LLM-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langroid/langroid?style=social)
 *   [Langstream (⭐310)](https://github.com/rogeriochaves/langstream): Build robust LLM applications with true composability 🔗 ![GitHub Repo stars](https://img.shields.io/github/stars/rogeriochaves/langstream?style=social)
 
-## [26. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [32. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### IRB
 
@@ -364,13 +412,13 @@
 
 *   [ruby-spellchecker (⭐9)](https://github.com/omohokcoj/ruby-spellchecker) - English spelling and grammar checker that can be used for autocorrection.
 
-## [27. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [33. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Package Manager / Miscellaneous
 
 *   [bun](https://bun.sh) - All-in-one toolkit for JavaScript and TypeScript apps.
 
-## [28. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [34. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Housing
 
@@ -380,19 +428,19 @@
 
 *   [Dash](https://dash.plotly.com/) - Dash is an open source python library for building interactive data visualizations on the web. It enables you to build custom data dashboards using pure Python.
 
-## [29. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [35. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Shadowsworn: Haunts](https://nightsandweekends.itch.io/shadowsworn-haunts) - Frameworks for modern horror games
 
-## [30. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [36. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions / Extension scripts
 
 *   [Directus Hook Library (⭐1)](https://github.com/formfcw/directus-hook-library) - A collection of customizable hooks for Directus.
 
-## [31. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [37. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -405,7 +453,7 @@
 *   Memory safety (e.g., null pointer dereferences) \* User-specified assertions (i.e., assert!(...)) \* The absence of panics (e.g., unwrap() on None values) \* The absence of some types of unexpected behavior (e.g., arithmetic overflows)
 *   [vale](https://vale.sh) — A syntax-aware linter for prose built with speed and extensibility in mind.
 
-## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [38. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -421,7 +469,7 @@
 
 *   [Gymnasium (⭐3.9k)](https://github.com/Farama-Foundation/Gymnasium) - A library for developing and comparing reinforcement learning algorithms (successor of [gym (⭐33k)](https://github.com/openai/gym).
 
-## [33. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [39. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Algorithms / Unsupervised Learning
 
@@ -454,7 +502,7 @@
 
 *   [The Humanitarian Data Exchange](https://data.humdata.org/)
 
-## [34. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [40. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Models
 
@@ -474,7 +522,7 @@
 *   [OpenAI Cookbook (⭐50k)](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 *   [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
 
-## [35. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [41. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs and training materials / Community Chat Rooms
 
@@ -484,7 +532,7 @@
 
 *   [AD9850](https://crates.io/crates/ad9850) - Embedded driver for the AD9850 DDS synthesizer chip - ![crates.io](https://img.shields.io/crates/v/ad9850.svg)
 
-## [36. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [42. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Caches
 
@@ -502,7 +550,7 @@
 
 *   [etcd (⭐45k)](https://github.com/etcd-io/etcd) - Highly-available key value store for shared configuration and service discovery.
 
-## [37. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -520,7 +568,7 @@
 
 *   [miikanissi/modus-themes.nvim (⭐2)](https://github.com/miikanissi/modus-themes.nvim) - Accessible theme, conforming with the highest standard for color contrast (WCAG AAA).
 
-## [38. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [44. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -638,19 +686,36 @@
 
 Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
 
-## [39. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [45. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Human-AI Interaction
 
 *   \[🔥🔥🔥] [\[2310.07127\] An HCI-Centric Survey and Taxonomy of Human-Generative-AI Interactions](https://arxiv.org/abs/2310.07127): "a survey of 154 papers, providing a novel taxonomy and analysis of Human-GenAI Interactions from both human and Gen-AI perspectives".
 *   [Guidelines for Human-AI Interaction - Microsoft Research](https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/): a set of "18 generally applicable design guidelines for human-AI" interaction
 
+### Generative AI history, maps, and definitions
+
+*   [\[2309.07930\] Generative AI](https://arxiv.org/abs/2309.07930): discusses a model-, system-, and application-level view on generative AI.
+
 ### Philosophical questions and Discussions about Generative AI
 
+*   [New Training Method Helps AI Generalize like People Do - Scientific American](https://www.scientificamerican.com/article/new-training-method-helps-ai-generalize-like-people-do/)
+*   [\[2310.01405\] Representation Engineering: A Top-Down Approach to AI Transparency](https://arxiv.org/abs/2310.01405): "an approach to enhancing the transparency of AI systems that draws on insights from cognitive neuroscience"
+*   [Generative AI Resources for Berkeley Law Faculty & Staff - Berkeley Law](https://www.law.berkeley.edu/library/legal-research/chatgpt/)
+*   [Licensing is neither feasible nor effective for addressing AI risks](https://www.aisnakeoil.com/p/licensing-is-neither-feasible-nor)
+*   [Generative AI companies must publish transparency reports](https://www.aisnakeoil.com/p/generative-ai-companies-must-publish)
+*   [Does ChatGPT have a liberal bias?](https://www.aisnakeoil.com/p/does-chatgpt-have-a-liberal-bias)
+*   [More human than human: measuring ChatGPT political bias | Public Choice](https://link.springer.com/article/10.1007/s11127-023-01097-2)
+*   [The Age of AI has begun | Bill Gates](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun)
 *   [Can Computers Create Art? by Aaron Hertzmann](https://www.mdpi.com/2076-0752/7/2/18): 2018's essay published on the Arts Journal
 
 ### Critical Views about Generative AI
 
+*   [AI in Education Group Meeting Notes - Google Docs](https://docs.google.com/document/d/1PPHwa3KmoeRZwaoxjOS568aF2E-kUngOA2oI45G2Iaw/edit)
+*   [Syllabi Policies for AI Generative Tools - Google Docs](https://docs.google.com/document/d/1RMVwzjc1o0Mi8Blw_-JUTcXv02b2WRH86vw7mi16W3U/edit#heading=h.1cykjn2vg2wx)
+*   [Five takeaways from UK’s AI safety summit at Bletchley Park | Artificial intelligence (AI) | The Guardian](https://www.theguardian.com/technology/2023/nov/02/five-takeaways-uk-ai-safety-summit-bletchley-park-rishi-sunak)
+*   [Frontier AI: capabilities and risks – discussion paper - GOV.UK](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper)
+*   [AI Safety Summit Policy Updates | AISS 2023](https://www.aisafetysummit.gov.uk/policy-updates/#company-policies)
 *   [Responsible enterprise decisions with knowledge-enriched generative AI | Deloitte Netherlands](https://www2.deloitte.com/nl/nl/pages/risk/articles/responsible-enterprise-decisions-with-knowledge-enriched-generative-AI.html)
 *   [\[2310.13149\] Understanding Generative AI in Art: An Interview Study with Artists on G-AI from an HCI Perspective](https://arxiv.org/abs/2310.13149)
 *   [\[2309.12338\] Artificial Intelligence and Aesthetic Judgment](https://arxiv.org/abs/2309.12338): "as generative AI influences contemporary aesthetic judgment we outline some of the pitfalls and traps in attempting to scrutinize what AI generated media means"
@@ -664,8 +729,16 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 *   **Generating New Data**: With the model set up, the AI can now produce or 'generate' new data. By giving the AI certain 'input parameters' or guidelines, it returns with 'generated output', which is the newly created content.
 *   **Applications**: The output generated by the AI can be incorporated into a range of applications, be it websites, mobile apps, or other digital platforms. The 'interface' refers to the user-facing portion of these applications, enabling users to interact with and benefit from the AI's capabilities.
 
+### Roadmaps, Tracks, Rails / Deforum
+
+*   \[🔥🔥] [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/): introductory 12 lesson course by Microsoft
+*   [Introduction to Generative AI](https://www.linkedin.com/posts/youssef-hosni-b2960b135_if-you-want-to-start-studying-generative-activity-7125908710702350336-vhsm/): series of Medium articles by Youssef Hosni
+
 ### Inbox: Large Language Models (LLMs)
 
+*   [cpacker/MemGPT (⭐5.5k)](https://github.com/cpacker/MemGPT): teaching LLMs memory management for unbounded context [\[demo page\]](https://memgpt.ai/) [\[arxiv\]](https://arxiv.org/abs/2310.08560)
+*   [\[2307.10169\] Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169): a systematic set of open problems and application successes of LLM area
+*   [Related resources from around the web | OpenAI Cookbook](https://cookbook.openai.com/articles/related_resources): tools and papers for improving outputs from GPT
 *   \[🔥🔥🔥] [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/): "practical patterns for integrating large language models (LLMs) into systems & products" by Eugene Yan
 *   [\[2309.06794\] Cognitive Mirage: A Review of Hallucinations in Large Language Models](https://arxiv.org/abs/2309.06794)
 
@@ -674,18 +747,24 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 *   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐9.1k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
 *   [AlexChalakov/awesome-generative-ai-companies (⭐65)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 
-### Prompt Engineering for Text-to-text
+### Prompt Engineering / Prompt Engineering for Text-to-text
 
-*   \[🔥] [\[2307.05300\] Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration](https://arxiv.org/abs/2307.05300)
 *   \[🔥] [\[2307.11760\] Large Language Models Understand and Can be Enhanced by Emotional Stimuli](https://arxiv.org/abs/2307.11760)
 *   \[🔥] [\[2305.13252\] "According to ..." Prompting Language Models Improves Quoting from Pre-Training Data](https://arxiv.org/abs/2305.13252)
 
-### LLM Multi-agents
+### Autonomous LLM Agents / Multi-agents
 
+*   [\[2307.05300\] Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration](https://arxiv.org/abs/2307.05300)
 *   [\[2308.07201\] ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://arxiv.org/abs/2308.07201)
 *   [\[2308.10848\] AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://arxiv.org/abs/2308.10848)
 
-### Autonomous LLM Agents
+### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
+
+*   [Rerankers and Two-Stage Retrieval | Pinecone](https://www.pinecone.io/learn/series/rag/rerankers/)
+*   [Retrieval Augmented Generation | Pinecone](https://www.pinecone.io/learn/series/rag/)
+*   [dssjon/biblos: biblos.app (⭐124)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
+
+### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
 *   [\[2309.02427\] Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427): "we draw on the rich history of cognitive science and symbolic artificial intelligence to propose Cognitive Architectures for Language Agents (CoALA)"
 *   [\[2309.07864\] The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
@@ -693,58 +772,72 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 *   [\[2309.17288\] AutoAgents: A Framework for Automatic Agent Generation](https://arxiv.org/abs/2309.17288)
 *   [Exploring Multi-Persona Prompting for Better Outputs](https://www.prompthub.us/blog/exploring-multi-persona-prompting-for-better-outputs): "method of prompt engineering that instructs the LLM to summon multiple personas and have them work together to solve a task"
 
-### Retrieval-Augmented Generation (RAG)
+### LLM Evaluation / Multi-agents
 
-*   [dssjon/biblos: biblos.app (⭐124)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
+*   [LLM Evaluation at Scale – Airtrain](https://www.airtrain.ai/): no-code batch compute platform for LLM evaluation and tuning workloads
+*   [How to evaluate a summarization task | OpenAI Cookbook](https://cookbook.openai.com/examples/evaluation/how_to_eval_abstractive_summarization)
+*   [openai/evals (⭐12k)](https://github.com/openai/evals): Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
+*   [Red teaming and model evaluations | Anthropic](https://www.anthropic.com/uk-government-internal-ai-safety-policy-response/red-teaming-and-model-evaluations)
+*   [Challenges in evaluating AI systems | Anthropic](https://www.anthropic.com/index/evaluating-ai-systems)
+*   [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/): talk by Princeton professor Arvind Narayanan
 
-### AI Engineering
+### AI Engineering / Multi-agents
 
+*   [Marvin](https://www.askmarvin.ai/): AI engineering framework for building natural language interfaces
+*   [Instructor](https://jxnl.github.io/instructor/): library for structured LLM extraction in Python
 *   [One AI](https://oneai.com/): an NLP-as-a-service platform
 *   [LangSmith](https://www.langchain.com/langsmith): a developer platform for deploying LLM apps
 
-### Text-related Generative Tools
+### Text-related Generative Tools / Multi-agents
 
 *   [Fable Fiesta](https://fablefiesta.com): Creative AI writing assistant
 
-### Roadmaps, Tracks, Rails / Deforum
-
-*   \[🔥🔥] [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/): introductory 12 lesson course by Microsoft
-*   [Introduction to Generative AI](https://www.linkedin.com/posts/youssef-hosni-b2960b135_if-you-want-to-start-studying-generative-activity-7125908710702350336-vhsm/): series of Medium articles by Youssef Hosni
-
-### AI Tools for Research
+### AI Tools for Research / Multi-agents
 
 *   [\[2310.17143\] Supercharging academic writing with generative AI: framework, techniques, and caveats](https://arxiv.org/abs/2310.17143)
 
-### Datasets / Deforum
+### Multimodal Embedding Space / Deforum
 
+*   [Microsoft KOSMOS-2](https://twitter.com/mervenoyann/status/1720126908384366649): new capabilities of perceiving object descriptions (e.g., bounding boxes) and grounding text to the visual world [\[HF demo\]](https://huggingface.co/spaces/ydshieh/Kosmos-2) [\[arxiv\]](https://arxiv.org/abs/2306.14824)
 *   [RedPajama-Data-v2 by Together AI](https://together.ai/blog/redpajama-data-v2): an open dataset with 30 trillion tokens for training Large Language Models
 
-## [40. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+### Interesting Twitter Accounts / Deforum
+
+*   [Hassan El Mghari (@nutlope) / X](https://twitter.com/nutlope): the creator of [roomgpt](https://roomgpt.io)
+
+## [46. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
 *   [Servas (⭐371)](https://github.com/beromir/Servas) - A self-hosted bookmark management tool. It allows organization with tags, groups, and a list specifically for later access. It supports multiple users with 2FA. Companion browser extensions are available for Firefox and Chrome. ([Clients (⭐371)](https://github.com/beromir/Servas#browser-extensions)) `GPL-3.0` `Docker/Nodejs/PHP`
 
-## [41. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+### Software / Software Development - API Management
+
+*   [Psychic (⭐1.6k)](https://github.com/psychic-api/psychic) - Universal API to connect large language models to dynamic data sources. `GPL-3.0` `Python`
+
+## [47. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [skydio/revup (⭐258)](https://github.com/Skydio/revup#readme) - Project logo. Animated GIF demo + GIFs for major stages of the step-by-step tutorial. Concise explanation, installation instructions, and contribution section.
 
-## [42. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [48. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [asdf (kiurchv) (⭐15)](https://github.com/kiurchv/asdf.plugin.zsh) - Integration and completions for [asdf (⭐19k)](https://github.com/asdf-vm/asdf), the extendable version manager, with support for Ruby, Node.js, Elixir, Erlang and more.
 *   [asdf (zimfw) (⭐5)](https://github.com/zimfw/asdf) - Initializes [asdf (⭐19k)](https://github.com/asdf-vm/asdf), installing it using `git` if not installed yet. Also, bypasses the shims if you're using the [direnv (⭐474)](https://github.com/asdf-community/asdf-direnv) plugin, as suggested by the plugin [pro-tips (⭐474)](https://github.com/asdf-community/asdf-direnv/#pro-tips).
+*   [telepresence (⭐0)](https://github.com/alexgervais/telepresence-ps1) - Add the current [Telepresence](https://www.telepresence.io/) connection status and context to your ZSH prompt.
 *   [zload (⭐14)](https://github.com/mollifier/zload) - Hot Reload for ZSH functions. Enables rapid development.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
+*   [domixgit (⭐0)](https://github.com/tariqdomi/ohmyzsh-domixgit) - Prompt with `git` status and current directory decorators.
+*   [magpie (⭐0)](https://github.com/wdjcodes/magpie) - Includes decorators for user\@host, current directory and `git` status.
 *   [sdkman (matthieusb) (⭐54)](https://github.com/matthieusb/zsh-sdkman) - Add tab completions for [sdkman](https://sdkman.io/).
 *   [sdkman (yongxingzhao) (⭐0)](https://github.com/yongxingzhao/zsh-sdkman) - Add tab completions for [sdkman](https://sdkman.io/).
 
-## [43. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [49. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### C++ / Non-X86
 

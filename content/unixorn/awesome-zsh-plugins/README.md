@@ -6,6 +6,17 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ Daily / [Weekly](/content/unixorn/awesome-zsh-plugins/week/README.md) / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Nov 04, 2023](/content/2023/11/04/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [telepresence (⭐0)](https://github.com/alexgervais/telepresence-ps1) - Add the current [Telepresence](https://www.telepresence.io/) connection status and context to your ZSH prompt.
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [domixgit (⭐0)](https://github.com/tariqdomi/ohmyzsh-domixgit) - Prompt with `git` status and current directory decorators.
+*   [magpie (⭐0)](https://github.com/wdjcodes/magpie) - Includes decorators for user\@host, current directory and `git` status.
+
 ## [Oct 30, 2023](/content/2023/10/30/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -41,7 +52,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [history-sync (vitobotta) (⭐4)](https://github.com/vitobotta/zsh-history-sync/) - Syncs your ZSH history across computers using a `git` private repository. Uses `openssl` to encrypt the history.
+*   [history-sync (vitobotta) (⭐6)](https://github.com/vitobotta/zsh-history-sync/) - Syncs your ZSH history across computers using a `git` private repository. Uses `openssl` to encrypt the history.
 *   [history-sync (wulfgarpro) (⭐212)](https://github.com/wulfgarpro/history-sync) - An [oh-my-zsh](https://ohmyz.sh/) plugin for [GPG](https://www.gnupg.org/) encrypted, Internet synchronized ZSH history using `git`.
 
 ## [Oct 16, 2023](/content/2023/10/16/README.md)
@@ -427,7 +438,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [archlinux (fourdim) (⭐0)](https://github.com/fourdim/zsh-archlinux) - Defines helper functions for `pacman` on Arch Linux.
 *   [archlinux (junker) (⭐8)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
-*   [bob (⭐1)](https://github.com/wintermi/zsh-bob) - Plugin for [bob (⭐895)](https://github.com/MordechaiHadad/bob) a cross-platform and easy-to-use Neovim version manager.
+*   [bob (⭐1)](https://github.com/wintermi/zsh-bob) - Plugin for [bob (⭐926)](https://github.com/MordechaiHadad/bob) a cross-platform and easy-to-use Neovim version manager.
 *   [fnm (dominik-schwabe) (⭐14)](https://github.com/dominik-schwabe/zsh-fnm) - Installs and loads the [Fast Node Manager (fnm) (⭐14k)](https://github.com/Schniz/fnm) if it is missing.
 *   [fnm (wintermi) (⭐2)](https://github.com/wintermi/zsh-fnm) - Helper plugin for the fast and simple Node.js version manager [fnm (⭐14k)](https://github.com/Schniz/fnm).
 *   [vivid (⭐3)](https://github.com/ryanccn/vivid-zsh) - Make it easier to use `LSCOLORS` with [vivid (⭐1.4k)](https://github.com/sharkdp/vivid).
@@ -1558,7 +1569,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [aws\_manager completions (⭐2)](https://github.com/EslamElHusseiny/aws_manager_plugin) - Add completions for the `aws_manager` CLI.
 *   [brew-services (⭐19)](https://github.com/vasyharan/zsh-brew-services) - Completion plugin for [homebrew](https://brew.sh) services.
 *   [cabal (d12frosted) (⭐0)](https://github.com/d12frosted/cabal.plugin.zsh) - Adds autocompletion for cabal.
-*   [carapace (⭐131)](https://github.com/rsteube/carapace) - Completion generator for Bash, Elvish, Fish, Oil, Powershell, Xonsh and ZSH. Note - this does not automatically generate completions as needed, you have to explicitly run it to generate completions for a command.
+*   [carapace (⭐136)](https://github.com/rsteube/carapace) - Completion generator for Bash, Elvish, Fish, Oil, Powershell, Xonsh and ZSH. Note - this does not automatically generate completions as needed, you have to explicitly run it to generate completions for a command.
 *   [cargo (⭐23)](https://github.com/MenkeTechnologies/zsh-cargo-completion) - All the functionality of the original oh-my-zsh cargo completion, with additional support for remote crates via `cargo search` in `cargo add`.
 *   [kubectl-fzf (⭐412)](https://github.com/bonnefoa/kubectl-fzf) - Fast and powerful [fzf (⭐55k)](https://github.com/junegunn/fzf)-powered autocompletion for `kubectl`.
 *   [rancher (⭐9)](https://github.com/go/rancher-zsh-completion) - Add completions for the Rancher CLI.
@@ -2637,7 +2648,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [grep2awk (⭐26)](https://github.com/joepvd/grep2awk) - ZLE widget to transform `grep` command into `awk` command.
 *   [grunt-plugin (⭐7)](https://github.com/clauswitt/zsh-grunt-plugin) - Add autocompletion for `grunt`.
 *   [gsh (⭐0)](https://github.com/cjayross/gsh) - Collection of helper functions for `git`
-*   [gtm-terminal-plugin (⭐15)](https://github.com/git-time-metric/gtm-terminal-plugin) - terminal plugin for [git time metrics (⭐947)](https://github.com/git-time-metric/gtm).
+*   [gtm-terminal-plugin (⭐15)](https://github.com/git-time-metric/gtm-terminal-plugin) - terminal plugin for [git time metrics (⭐949)](https://github.com/git-time-metric/gtm).
 *   [guish (⭐4)](https://github.com/gcarrarom/oh-my-guish) - Collection of utility functions and aliases.
 *   [gumsible (⭐3)](https://github.com/Lowess/gumsible-oh-my-zsh-plugin) - Wrapper plugin for [Molecule](https://molecule.readthedocs.io/).
 *   [gunstage (⭐60)](https://github.com/LucasLarson/gunstage) - There are at least eight ways to unstage files in a `git` repository. This is a command-line shell plugin for undoing `git add`.
@@ -2987,7 +2998,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [better-npm-completion (⭐444)](https://github.com/lukechilds/zsh-better-npm-completion) - Better tab completion for `npm`.
 *   [buidler (⭐3)](https://github.com/gonzalobellino/buidler-zsh) - Adds completion and useful aliases for NomicLabs Buidler tool.
 *   [bw (⭐1)](https://github.com/CupricReki/zsh-bw-completion) - Adds completion for [Bitwarden](https://bitwarden.com/).
-*   [carapace-bin (⭐348)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
+*   [carapace-bin (⭐355)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 *   [carthage (⭐1)](https://github.com/squarefrog/zsh-carthage) - Provides completions and aliases for use with [Carthage (⭐15k)](https://github.com/Carthage/Carthage).
 *   [cf-zsh-autocomplete (⭐33)](https://github.com/norman-abramovitz/cf-zsh-autocomplete-plugin) - Adds autocomplete for all [Cloud Foundry CLI](https://docs.cloudfoundry.org/cf-cli/) commands.
 *   [cod (⭐493)](https://github.com/dim-an/cod) - A completion demon for `bash`/`fish`/`zsh` which creates completion functions on the fly when it sees you run something with `--help`.
@@ -3841,7 +3852,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   Support for lazy-loading
 *   Branch/tag/commit support
 *   Post-update, post-load hooks
-*   Interactive interface ([fzf (⭐55k)](https://github.com/junegunn/fzf), [peco (⭐7.4k)](https://github.com/peco/peco), [zaw (⭐547)](https://github.com/zsh-users/zaw), and so on)
+*   Interactive interface ([fzf (⭐55k)](https://github.com/junegunn/fzf), [peco (⭐7.5k)](https://github.com/peco/peco), [zaw (⭐547)](https://github.com/zsh-users/zaw), and so on)
 *   Cache mechanism for reducing [the startup time (⭐5.6k)](https://github.com/zplug/zplug#vs)
 
 ## [Aug 14, 2017](/content/2017/08/14/README.md)

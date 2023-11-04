@@ -6,6 +6,20 @@ Awesome Web Development Resources.
 
 [ [Daily](/content/markodenic/web-development-resources/README.md) / Weekly / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
 
+## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
+
+### Remote Jobs:
+
+- Website: <https://workremote.cc/>
+
+
+
+### Icons:
+
+- Website: <https://svgmix.com>
+
+
+
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
 ### Angular UI libraries:
@@ -1577,11 +1591,6 @@ Awesome Web Development Resources.
 - Website: [Ayro UI Bootstrap](https://ayroui.com/)
 
   Description: Bootstrap UI components, snippets and sections for modern web apps
-
-
-- Website: [UI Hut](https://www.uihut.com/home)
-
-  Description: Free (and premium) UI compontents or templates for Bootstrap, figma, XD, PSD etc..
 
 
 - Website: [uiverse](https://uiverse.io)

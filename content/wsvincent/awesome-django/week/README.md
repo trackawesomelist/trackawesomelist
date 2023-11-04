@@ -6,6 +6,20 @@ A curated list of awesome things related to Django
 
 [ [Daily](/content/wsvincent/awesome-django/README.md) / Weekly / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
+## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
+
+### Third-Party Packages / Users
+
+*   [django-allauth-ui (⭐109)](https://github.com/danihodovic/django-allauth-ui/) - Better looking templates for django-allauth.
+
+### Python Packages / Views
+
+*   [python-socketio (⭐3.6k)](https://github.com/miguelgrinberg/python-socketio) - Python implementation of the Socket.IO\_ realtime client and server. [(create Socket.io Django server instance)](https://python-socketio.readthedocs.io/en/latest/server.html?highlight=django#creating-a-server-instance)
+
+### Projects / Boilerplate
+
+*   [sidewinder (⭐112)](https://github.com/stribny/sidewinder/) - A Django starter kit that focuses on good defaults, developer experience, and deployment.
+
 ## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
 
 ### Third-Party Packages / Users
@@ -618,7 +632,19 @@ A curated list of awesome things related to Django
 *   [django-storages (⭐2.5k)](https://github.com/jschneier/django-storages) - A single library to support multiple custom storage backends for Django.
 *   [django-compressor (⭐2.7k)](https://github.com/django-compressor/django-compressor/) - Compress JavaScript/CSS into a single cached file.
 *   [easy-thumbnails (⭐1.3k)](https://github.com/SmileyChris/easy-thumbnails) - Image thumbnails for Django.
+
+### Python Packages / Views
+
 *   [whitenoise (⭐2.3k)](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites.
+*   [bleach (⭐2.6k)](https://github.com/mozilla/bleach) - Sanitize your inputs/forms.
+*   [black (⭐35k)](https://github.com/psf/black) - Uncompromising Python code formatter.
+*   [coveragepy (⭐2.7k)](https://github.com/nedbat/coveragepy) - Code coverage measurement.
+*   [huey (⭐4.7k)](https://github.com/coleifer/huey) - A little task queue for Python.
+*   [nplusone (⭐943)](https://github.com/jmcarp/nplusone) - Auto-detect n+1 queries.
+*   [pillow (⭐11k)](https://github.com/python-pillow/Pillow) - Python Imaging Library.
+*   [pytest (⭐11k)](https://github.com/pytest-dev/pytest/) - Testing framework.
+*   [python-slugify (⭐1.4k)](https://github.com/un33k/python-slugify) - Returns unicode slugs.
+*   [sentry-python (⭐1.6k)](https://github.com/getsentry/sentry-python) - Error reporting SDK.
 
 ### Third-Party Packages / Task Queues
 
@@ -656,18 +682,6 @@ A curated list of awesome things related to Django
 *   [django-extra-views (⭐1.3k)](https://github.com/AndrewIngram/django-extra-views) - Extra class-based generic views.
 *   [django-vanilla-views (⭐971)](https://github.com/tomchristie/django-vanilla-views) - Simpler class-based views in Django.
 *   [django-stronghold (⭐391)](https://github.com/mgrouchy/django-stronghold) - Makes all your Django views default login\_required.
-
-### Python Packages / Views
-
-*   [bleach (⭐2.6k)](https://github.com/mozilla/bleach) - Sanitize your inputs/forms.
-*   [black (⭐35k)](https://github.com/psf/black) - Uncompromising Python code formatter.
-*   [coveragepy (⭐2.7k)](https://github.com/nedbat/coveragepy) - Code coverage measurement.
-*   [huey (⭐4.7k)](https://github.com/coleifer/huey) - A little task queue for Python.
-*   [nplusone (⭐943)](https://github.com/jmcarp/nplusone) - Auto-detect n+1 queries.
-*   [pillow (⭐11k)](https://github.com/python-pillow/Pillow) - Python Imaging Library.
-*   [pytest (⭐11k)](https://github.com/pytest-dev/pytest/) - Testing framework.
-*   [python-slugify (⭐1.4k)](https://github.com/un33k/python-slugify) - Returns unicode slugs.
-*   [sentry-python (⭐1.6k)](https://github.com/getsentry/sentry-python) - Error reporting SDK.
 
 ### Resources / Official Resources
 

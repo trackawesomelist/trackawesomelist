@@ -6,6 +6,12 @@ A curated list for when naming things is done right.
 
 [ [Daily](/content/gruhn/awesome-naming/README.md) / Weekly / [Overview](/content/gruhn/awesome-naming/readme/README.md) ]
 
+## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
+
+### Programming Languages and Programming Language Theory
+
+*   [Syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar) - Syntax that makes the language "sweeter" for human use. Usually a shorthand for common operations that can also be expressed in a more verbose form.
+
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
 ### Tools and Applications
@@ -20,13 +26,13 @@ A curated list for when naming things is done right.
 
 ## [Oct 02 - Oct 08, 2023](/content/2023/40/README.md)
 
+### Programming Languages and Programming Language Theory
+
+*   [Choreographic programming](https://en.wikipedia.org/wiki/Choreographic_programming) - A programming paradigm where programs are compositions of interactions among multiple concurrent participants.
+
 ### User Interface Design
 
 *   [Bento layout](https://www.saasframe.io/blog/the-bento-layout-trend) - A grid based layout resembling the compartmentation of bento boxes.
-
-### Other
-
-*   [Choreographic programming](https://en.wikipedia.org/wiki/Choreographic_programming) - A programming paradigm where programs are compositions of interactions among multiple concurrent participants.
 
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 
@@ -107,7 +113,7 @@ A curated list for when naming things is done right.
 
 ## [Aug 30 - Sep 05, 2021](/content/2021/35/README.md)
 
-### Programming Languages
+### Programming Languages and Programming Language Theory
 
 *   [Clojure](https://clojure.org/) - A functional language making extensive use of **closures** but with a **j** because it's running on the Java virtual machine.
 *   [C++](https://en.wikipedia.org/wiki/C%2B%2B#External_links) - Although C was certainly a bad name, C++ was quite clever. The iconic increment operator **++** indicates that **C++** is the successor.
@@ -153,7 +159,7 @@ A curated list for when naming things is done right.
 
 *   [Hill climbing](https://en.wikipedia.org/wiki/Hill_climbing) - Starting somewhere in the hilly "landscape" of solutions you go in the direction of steepest ascent until reaching the top of a hill. You might miss higher hills though.
 
-### Other
+### Programming Languages and Programming Language Theory
 
 *   [Garbage Collector](https://en.m.wikipedia.org/wiki/Garbage_collection_\(computer_science\)) - Part of a program that attempts to find and reclaim garbage pieces of memory not used anymore.
 
@@ -269,7 +275,7 @@ A curated list for when naming things is done right.
 *   [Sandbox](https://en.wikipedia.org/wiki/Sandbox_\(computer_security\)) - A safe and isolated environment to test unverified programs that may contain malicious code.
 *   [Trojan horse](https://en.wikipedia.org/wiki/Trojan_horse_\(computing\)) - Malware which misleads users of its true intent. The term is derived from the Ancient Greek story of the deceptive Trojan Horse.
 
-### Other
+### Programming Languages and Programming Language Theory
 
 *   [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) - An evaluation stategy which suspends evaluation until it's absolutly necessary and then never does it again.
 

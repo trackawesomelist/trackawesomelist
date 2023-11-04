@@ -334,6 +334,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 ### Users
 
 *   [django-allauth (⭐8.4k)](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth.
+*   [django-allauth-ui (⭐109)](https://github.com/danihodovic/django-allauth-ui/) - Better looking templates for django-allauth.
 *   [django-improved-user (⭐132)](https://github.com/jambonsw/django-improved-user) - A custom Django user that authenticates via email. Follows identity and authentication best practices.
 *   [django-organizations (⭐1.2k)](https://github.com/bennylope/django-organizations/) - Multi-user accounts for Django projects.
 *   [django-cas-ng (⭐363)](https://github.com/django-cas-ng/django-cas-ng) - Django-cas-ng is Django CAS (Central Authentication Service) 1.0/2.0/3.0 client library to support SSO (Single Sign On) and Single Logout (SLO).
@@ -361,6 +362,8 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [python-decouple (⭐2.6k)](https://github.com/henriquebastos/python-decouple) - Strict separation of settings from code.
 *   [python-slugify (⭐1.4k)](https://github.com/un33k/python-slugify) - Returns unicode slugs.
 *   [sentry-python (⭐1.6k)](https://github.com/getsentry/sentry-python) - Error reporting SDK.
+*   [python-socketio (⭐3.6k)](https://github.com/miguelgrinberg/python-socketio) - Python implementation of the Socket.IO\_ realtime client and server. [(create Socket.io Django server instance)](https://python-socketio.readthedocs.io/en/latest/server.html?highlight=django#creating-a-server-instance)
+*   [whitenoise (⭐2.3k)](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites.
 
 ## Resources
 
@@ -493,6 +496,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [django-docker-heroku-template (⭐31)](https://github.com/bfirsh/django-docker-heroku-template) - A template with Docker, GitHub Actions, and Heroku set up for dev/test/prod, plus various other best practices.
 *   [cookiecutter-vue-django (⭐148)](https://github.com/ilikerobots/cookiecutter-vue-django) - Django + Vue starter project fusing Vue SFCs & Django Templates.
 *   [launchr (⭐220)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
+*   [sidewinder (⭐112)](https://github.com/stribny/sidewinder/) - A Django starter kit that focuses on good defaults, developer experience, and deployment.
 
 ### Open Source Projects
 

@@ -368,7 +368,7 @@ ZSH package managers are abundant, but most are bloated, slow or have excessive 
 *   Post-update, post-load hooks
 *   Dependencies between packages
 *   Unlike [antigen (⭐7.7k)](https://github.com/zsh-users/antigen), no ZSH plugin files (`*.plugin.zsh`) are required
-*   Interactive interface ([fzf (⭐55k)](https://github.com/junegunn/fzf), [peco (⭐7.4k)](https://github.com/peco/peco), [zaw (⭐547)](https://github.com/zsh-users/zaw), and so on)
+*   Interactive interface ([fzf (⭐55k)](https://github.com/junegunn/fzf), [peco (⭐7.5k)](https://github.com/peco/peco), [zaw (⭐547)](https://github.com/zsh-users/zaw), and so on)
 *   Cache mechanism for reducing [the startup time (⭐5.6k)](https://github.com/zplug/zplug#vs)
 
 ### [zpm (⭐305)](https://github.com/zpm-zsh/zpm)
@@ -645,7 +645,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [bitwarden (game4move78) (⭐18)](https://github.com/Game4Move78/zsh-bitwarden) - Adds functions to manage [bitwarden](https://bitwarden.com/) sessions.
 *   [bitwarden (kalsowerus) (⭐10)](https://github.com/kalsowerus/zsh-bitwarden) - Opens a [fzf (⭐55k)](https://github.com/junegunn/fzf) widget containing your [Bitwarden](https://bitwarden.com/) vault items. Upon selecting an item either the username or password will be either written into the shell or copied into the clipboard. Requires `fzf`, `jq` and `bitwarden`.
 *   [blackbox (⭐6.5k)](https://github.com/StackExchange/blackbox) - [Stack Exchange](https://stackexchange.com)'s toolkit for storing keys/credentials securely in a `git` repository.
-*   [bob (⭐1)](https://github.com/wintermi/zsh-bob) - Plugin for [bob (⭐895)](https://github.com/MordechaiHadad/bob) a cross-platform and easy-to-use Neovim version manager.
+*   [bob (⭐1)](https://github.com/wintermi/zsh-bob) - Plugin for [bob (⭐926)](https://github.com/MordechaiHadad/bob) a cross-platform and easy-to-use Neovim version manager.
 *   [bofh (⭐1)](https://github.com/fundor333/bofh) - Adds functions to display random bofh fortunes.
 *   [bol (⭐6)](https://github.com/ikhurramraza/bol) - Prints a random quote when you open a terminal window.
 *   [boss-docker (⭐1)](https://github.com/bossjones/boss-docker-zsh-plugin) - Manages `docker` on macOS.
@@ -895,7 +895,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [grep2awk (⭐26)](https://github.com/joepvd/grep2awk) - ZLE widget to transform `grep` command into `awk` command.
 *   [grunt-plugin (⭐7)](https://github.com/clauswitt/zsh-grunt-plugin) - Add autocompletion for `grunt`.
 *   [gsh (⭐0)](https://github.com/cjayross/gsh) - Collection of helper functions for `git`
-*   [gtm-terminal-plugin (⭐15)](https://github.com/git-time-metric/gtm-terminal-plugin) - terminal plugin for [git time metrics (⭐947)](https://github.com/git-time-metric/gtm).
+*   [gtm-terminal-plugin (⭐15)](https://github.com/git-time-metric/gtm-terminal-plugin) - terminal plugin for [git time metrics (⭐949)](https://github.com/git-time-metric/gtm).
 *   [gtr (⭐0)](https://github.com/Zocker1999NET/zsh-gtr) - Allows fast tagging of a release in `git` using the tag name \**release-YYYY-MM-DD-HH-MM*- and headline **Release YYYY-MM-DD HH:MM**.
 *   [guish (⭐4)](https://github.com/gcarrarom/oh-my-guish) - Collection of utility functions and aliases.
 *   [gumsible (⭐3)](https://github.com/Lowess/gumsible-oh-my-zsh-plugin) - Wrapper plugin for [Molecule](https://molecule.readthedocs.io/).
@@ -921,7 +921,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [history-popup (⭐0)](https://github.com/lcrespom/oh-my-zsh-history-popup) - Captures the `PageUp` key and uses `dialog` to open a popup menu with the history, so the user can interactively navigate through it and pick the history line to bring back to the prompt.
 *   [history-search-multi-word (⭐67)](https://github.com/zdharma-continuum/history-search-multi-word) - A syntax highlighted, multi-word history searcher for ZSH, bound to Ctrl-R, with advanced functions (e.g. bump of history entry to top of history).
 *   [history-substring-search (⭐2.3k)](https://github.com/zsh-users/zsh-history-substring-search) - Needs to be loaded after `zsh-syntax-highlighting`, or they'll both break. You'll also need to bind keys to its functions, details are in the README.md.
-*   [history-sync (vitobotta) (⭐4)](https://github.com/vitobotta/zsh-history-sync/) - Syncs your ZSH history across computers using a `git` private repository. Uses `openssl` to encrypt the history.
+*   [history-sync (vitobotta) (⭐6)](https://github.com/vitobotta/zsh-history-sync/) - Syncs your ZSH history across computers using a `git` private repository. Uses `openssl` to encrypt the history.
 *   [history-sync (wulfgarpro) (⭐212)](https://github.com/wulfgarpro/history-sync) - An [oh-my-zsh](https://ohmyz.sh/) plugin for [GPG](https://www.gnupg.org/) encrypted, Internet synchronized ZSH history using `git`.
 *   [history (⭐83)](https://github.com/b4b4r07/zsh-history) - Extend history so that it can be queried by SQL.
 *   [hitokoto (⭐13)](https://github.com/derry96/hitokoto) - Displays a random quote from [hitokoto.cn](https://hitokoto.cn/).
@@ -1248,6 +1248,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [tab-title (⭐43)](https://github.com/trystan2k/zsh-tab-title) - Set the terminal tab title according to current directory or running process. Forked from [termsupport.zsh (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/lib/termsupport.zsh)
 *   [tailf (⭐2)](https://github.com/rummik/zsh-tailf) - Adds `tailf` function with prefixed newlines instead of trailing newlines.
 *   [taskbook (⭐3)](https://github.com/mastern2k3/taskbook-zsh-plugin) - Auto-completes task numbers for taskbook.
+*   [telepresence (⭐0)](https://github.com/alexgervais/telepresence-ps1) - Add the current [Telepresence](https://www.telepresence.io/) connection status and context to your ZSH prompt.
 *   [terminal-app (⭐12)](https://github.com/the8/terminal-app.zsh) - A plugin for integrating with the new macOS El Capitan Terminal.app features.
 *   [terminal-title (⭐4)](https://github.com/AnimiVulpis/zsh-terminal-title) - Adds a `set-term-title` function you can use to title terminal windows.
 *   [terminal-workload-report (⭐2)](https://github.com/LockonS/terminal-workload-report) - A plugin that calculates and displays how many commands have been run via terminal.
@@ -1454,8 +1455,8 @@ These plugins add tab completions without adding extra functions or aliases.
 *   [bw (⭐1)](https://github.com/CupricReki/zsh-bw-completion) - Adds completion for [Bitwarden](https://bitwarden.com/).
 *   [cabal (d12frosted) (⭐0)](https://github.com/d12frosted/cabal.plugin.zsh) - Adds autocompletion for cabal.
 *   [cabal (ehamberg) (⭐1)](https://github.com/ehamberg/zsh-cabal-completion) - Add tab completion for cabal.
-*   [carapace-bin (⭐348)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
-*   [carapace (⭐131)](https://github.com/rsteube/carapace) - Completion generator for Bash, Elvish, Fish, Oil, Powershell, Xonsh and ZSH. Note - this does not automatically generate completions as needed, you have to explicitly run it to generate completions for a command.
+*   [carapace-bin (⭐355)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
+*   [carapace (⭐136)](https://github.com/rsteube/carapace) - Completion generator for Bash, Elvish, Fish, Oil, Powershell, Xonsh and ZSH. Note - this does not automatically generate completions as needed, you have to explicitly run it to generate completions for a command.
 *   [cargo (⭐23)](https://github.com/MenkeTechnologies/zsh-cargo-completion) - All the functionality of the original oh-my-zsh cargo completion, with additional support for remote crates via `cargo search` in `cargo add`.
 *   [carthage (⭐1)](https://github.com/squarefrog/zsh-carthage) - Provides completions and aliases for use with [Carthage (⭐15k)](https://github.com/Carthage/Carthage).
 *   [cf-zsh-autocomplete (⭐33)](https://github.com/norman-abramovitz/cf-zsh-autocomplete-plugin) - Adds autocomplete for all [Cloud Foundry CLI](https://docs.cloudfoundry.org/cf-cli/) commands.
@@ -1825,6 +1826,7 @@ If you're using [Antigen (⭐7.7k)](https://github.com/zsh-users/antigen), you c
 *   [djkakaroto (⭐0)](https://github.com/djkakaroto/theme-zsh/) - Includes `git` status decorations, works with all fonts.
 *   [dkniffin (⭐1)](https://github.com/dkniffin/zsh-theme) - Includes `ruby` version and `git` status.
 *   [dmx (⭐1)](https://github.com/domix/dmx.zsh-theme) - Optimized for dark terminal windows.
+*   [domixgit (⭐0)](https://github.com/tariqdomi/ohmyzsh-domixgit) - Prompt with `git` status and current directory decorators.
 *   [doodleshell (⭐3)](https://github.com/cdodd/doodleshell-zsh-theme) - Minimalist theme, includes `git`, `terraform` and `aws` status decorations.
 *   [doom (⭐1)](https://github.com/CMOISDEAD/doom-zsh) - Doom-inspired. Looks similar to powerline. Has customizable segments, decorators for `git` status, `rust`, `Node.js`, `python` and `ruby` versions.
 *   [dp (⭐1)](https://github.com/davidparsson/zsh-dp-theme) - Low contrast theme that shows current git branch, if the repository is dirty and the value of `$PYENV_VERSION`.
@@ -2093,6 +2095,7 @@ If you're using [Antigen (⭐7.7k)](https://github.com/zsh-users/antigen), you c
 *   [magento (⭐0)](https://github.com/cmuench/zsh-magento-cloud/blob/main/zsh-magento-cloud.plugin.zsh) - Add Magento Cloud Command Line Interface ([magento-cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli.html?lang=en)) completions.
 *   [magicmace (⭐3)](https://github.com/zimfw/magicmace) - Inspired by xero's ZSH prompt and [eriner's prompt (⭐16)](https://github.com/zimfw/eriner). Includes status codes for active python `venv`, exit status of last command, shortened working directory, `git` status decorations.
 *   [magico (⭐0)](https://github.com/IOsonoTAN/magico) - IOsonoTAN's magico theme.
+*   [magpie (⭐0)](https://github.com/wdjcodes/magpie) - Includes decorators for user\@host, current directory and `git` status.
 *   [mainnika (⭐0)](https://github.com/mainnika/zsh-theme-mainnika/) - Includes decorators for last command exit status and the 1, 5 and 15 minute load averages.
 *   [maivana (⭐1)](https://github.com/nylo-andry/zsh-themes) - Includes `kubectl` context, `git` status decorations.
 *   [majemoji (⭐1)](https://github.com/metalogica/majemoji) - Adds a random emoji to each session's prompt. Includes `git` status decorations.
