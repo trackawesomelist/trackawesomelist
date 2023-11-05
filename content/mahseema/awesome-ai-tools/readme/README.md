@@ -2,7 +2,7 @@
 
 A curated list of Artificial Intelligence Top Tools
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mahseema/awesome-ai-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) · ⭐ 145 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mahseema/awesome-ai-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) · ⭐ 162 · 🏷️ Computer Science
 
 [ [Daily](/content/mahseema/awesome-ai-tools/README.md) / [Weekly](/content/mahseema/awesome-ai-tools/week/README.md) / Overview ]
 
@@ -60,7 +60,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 
 ### Local search engines
 
-*   [privateGPT (⭐39k)](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs.
+*   [privateGPT (⭐40k)](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs.
 *   [quivr (⭐24k)](https://github.com/StanGirard/quivr) - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
 
 ### Writing assistants
@@ -132,7 +132,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 *   [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 *   [Keploy](https://keploy.io/) - Open source Tool for converting user-traffic to Test Cases and Data Stubs.
 *   [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
-*   [gpt4all (⭐53k)](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
+*   [gpt4all (⭐54k)](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
 *   [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
 *   [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
 *   [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
@@ -150,7 +150,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 *   [Debuild](https://debuild.app/) - AI-powered low-code tool for web apps.
 *   [AI2sql](https://www.ai2sql.io/) - With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
 *   [CodiumAI](https://www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you stay confident when you push.
-*   [PR-Agent (⭐2.4k)](https://github.com/Codium-ai/pr-agent) - AI-powered tool for automated PR analysis, feedback, suggestions and more.
+*   [PR-Agent (⭐2.5k)](https://github.com/Codium-ai/pr-agent) - AI-powered tool for automated PR analysis, feedback, suggestions and more.
 *   [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
 *   [TurboPilot (⭐3.8k)](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone which uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
 *   [GPT-Code UI (⭐3.3k)](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter.
@@ -165,7 +165,8 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 *   [Midjourney](https://www.midjourney.com/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 *   [Imagen](https://imagen.research.google/) - Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
 *   [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.
-*   [DragGAN (⭐33k)](https://github.com/XingangPan/DragGAN) - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
+*   [DragGAN (⭐34k)](https://github.com/XingangPan/DragGAN) - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
+    -[Canva](https://www.canva.com/) - Generate and Edit your Pictures with the help of AI
 
 ### Services
 
@@ -201,6 +202,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 *   [Libraire](https://libraire.ai/) - The largest library of AI-generated images.
 *   [KREA](https://www.krea.ai/) - Explore millions of AI generated images and create collections of prompts. Featuring Stable Diffusion generations.
 *   [OpenArt](https://openart.ai/) - Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E 2.
+*   [Phygital](https://app.phygital.plus/) - Built-in templates for generating or editing any pictures. Moreover, you can create your own design.
 
 ### Model libraries
 
@@ -238,7 +240,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 *   [podcast.ai](https://podcast.ai/) - A podcast that is entirely generated by artificial intelligence, powered by Play.ht text-to-voice AI.
 *   [VALL-E X](https://vallex-demo.github.io/) - A cross-lingual neural codec language model for cross-lingual speech synthesis.
 *   [TorToiSe (⭐9.7k)](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
-*   [Bark (⭐27k)](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
+*   [Bark (⭐28k)](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
 
 ### Music
 
@@ -256,7 +258,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 *   [Clickable](https://www.clickable.so/) - Generate ads in seconds with AI. Beautiful, brand-consistent, and highly converting ads for all marketing channels.
 *   [Scale Spellbook](https://scale.com/spellbook) - Build, compare, and deploy large language model apps with Scale Spellbook.
 *   [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
-*   [Teleprompter (⭐312)](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
+*   [Teleprompter (⭐316)](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 *   [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
 *   [Petals (⭐7.8k)](https://github.com/bigscience-workshop/petals) - BitTorrent style platform for running AI models in a distributed way
 

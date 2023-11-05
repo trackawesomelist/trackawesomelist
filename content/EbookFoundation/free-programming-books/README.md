@@ -13,6 +13,12 @@
 - [Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
 - [Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
 
+## [Nov 05, 2023](/content/2023/11/05/README.md)
+
+### Go / Phoenix
+
+*   [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html) - Dave Cheney (HTML)
+
 ## [Nov 02, 2023](/content/2023/11/02/README.md)
 
 ### C++ / Non-X86

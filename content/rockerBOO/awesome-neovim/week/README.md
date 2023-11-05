@@ -25,9 +25,17 @@ Collections of awesome neovim plugins.
 
 *   [echasnovski/mini.nvim#mini.extra (⭐2.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-extra.md) - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
 
+### Color / Diagnostics
+
+*   [miversen33/sunglasses.nvim (⭐37)](https://github.com/miversen33/sunglasses.nvim) - Dynamic Colorscheme/highlight adjuster on window switching.
+
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [miikanissi/modus-themes.nvim (⭐2)](https://github.com/miikanissi/modus-themes.nvim) - Accessible theme, conforming with the highest standard for color contrast (WCAG AAA).
+
+### Code Runner / Diagnostics
+
+*   [benlubas/molten-nvim (⭐47)](https://github.com/benlubas/molten-nvim) - Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code.
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
@@ -60,7 +68,7 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [vxpm/ferris.nvim (⭐24)](https://github.com/vxpm/ferris.nvim) - Interact with Rust-Analyzer's LSP extensions.
+*   [vxpm/ferris.nvim (⭐44)](https://github.com/vxpm/ferris.nvim) - Interact with Rust-Analyzer's LSP extensions.
 
 ### Fuzzy Finder / Diagnostics
 
@@ -81,7 +89,7 @@ Collections of awesome neovim plugins.
 
 ### Terminal Integration / Diagnostics
 
-*   [niuiic/terminal.nvim (⭐0)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
+*   [niuiic/terminal.nvim (⭐5)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
 
 ### Code Runner / Diagnostics
 
@@ -141,7 +149,7 @@ Collections of awesome neovim plugins.
 
 ### Statusline / Diagnostics
 
-*   [MunifTanjim/nougat.nvim (⭐44)](https://github.com/MunifTanjim/nougat.nvim) - Hyperextensible Statusline / Tabline / Winbar.
+*   [MunifTanjim/nougat.nvim (⭐51)](https://github.com/MunifTanjim/nougat.nvim) - Hyperextensible Statusline / Tabline / Winbar.
 
 ### Utility / Diagnostics
 
@@ -170,7 +178,7 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [Wansmer/symbol-usage.nvim (⭐89)](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols.
+*   [Wansmer/symbol-usage.nvim (⭐94)](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols.
 
 ### (requires Neovim 0.5) / Diagnostics
 
@@ -186,17 +194,17 @@ Collections of awesome neovim plugins.
 
 ### Utility / Diagnostics
 
-*   [sontungexpt/url-open (⭐16)](https://github.com/sontungexpt/url-open) - Open URLs under the cursor and create highlight effects for them.
-*   [luckasRanarison/nvim-devdocs (⭐161)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
+*   [sontungexpt/url-open (⭐18)](https://github.com/sontungexpt/url-open) - Open URLs under the cursor and create highlight effects for them.
+*   [luckasRanarison/nvim-devdocs (⭐167)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
 
 ### Terminal Integration / Diagnostics
 
-*   [willothy/wezterm.nvim (⭐69)](https://github.com/willothy/wezterm.nvim) - Functions for interacting with Wezterm.
+*   [willothy/wezterm.nvim (⭐72)](https://github.com/willothy/wezterm.nvim) - Functions for interacting with Wezterm.
 *   [mikesmithgh/kitty-scrollback.nvim (⭐105)](https://github.com/mikesmithgh/kitty-scrollback.nvim) - Open your Kitty scrollback buffer. Ameowzing.
 
 ### Quickfix / Diagnostics
 
-*   [yorickpeterse/nvim-pqf (⭐35)](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows.
+*   [yorickpeterse/nvim-pqf (⭐39)](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows.
 
 ### Git / Diagnostics
 
@@ -204,19 +212,19 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Diagnostics
 
-*   [chrisgrieser/nvim-puppeteer (⭐43)](https://github.com/chrisgrieser/nvim-puppeteer) - Automatically convert strings to f-strings or template strings and back.
+*   [chrisgrieser/nvim-puppeteer (⭐45)](https://github.com/chrisgrieser/nvim-puppeteer) - Automatically convert strings to f-strings or template strings and back.
 
 ### Session / Diagnostics
 
-*   [coffebar/neovim-project (⭐58)](https://github.com/coffebar/neovim-project) - Declarative project management, automatic saving of sessions, uses Telescope.
+*   [coffebar/neovim-project (⭐64)](https://github.com/coffebar/neovim-project) - Declarative project management, automatic saving of sessions, uses Telescope.
 
 ### Split and Window / Diagnostics
 
-*   [yorickpeterse/nvim-window (⭐20)](https://github.com/yorickpeterse/nvim-window) - Easily jump between Neovim windows.
+*   [yorickpeterse/nvim-window (⭐26)](https://github.com/yorickpeterse/nvim-window) - Easily jump between Neovim windows.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [chrisgrieser/nvim-kickstart-python (⭐46)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
+*   [chrisgrieser/nvim-kickstart-python (⭐49)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
 
 ### OS-specific / Diagnostics
 

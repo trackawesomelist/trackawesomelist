@@ -351,7 +351,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [libconfuse (⭐446)](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. \[ISC]
 *   [simpleini (⭐928)](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. \[MIT]
 *   [toml++ (⭐1.2k)](https://github.com/marzer/tomlplusplus) - Header-only TOML parser and serializer for C++17 and later. \[MIT] [website](https://marzer.github.io/tomlplusplus/)
-*   [toml11 (⭐836)](https://github.com/ToruNiina/toml11) -  a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library. \[MIT]
+*   [toml11 (⭐846)](https://github.com/ToruNiina/toml11) -  a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library. \[MIT]
 
 ## Containers
 
@@ -443,6 +443,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [UnQLite (⭐2k)](https://github.com/symisc/unqlite) - A self-contained, serverless, zero-configuration, transactional NoSQL engine. \[BSD-2-Clause] [website](https://unqlite.org/)
 *   [upscaledb](https://upscaledb.com) - An embedded "typed" key/value store with a built-in query interface. \[GPLv3]
 *   [TigerBeetleDB C++ client (Community) (⭐6)](https://github.com/kassane/tigerbeetle-cpp) - TigerBeetle is a financial accounting database designed for mission critical safety and performance to power the future of financial services. \[BSL-1.0]
+*   [Velox (⭐2.7k)](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. \[Apache-2.0] [website](https://velox-lib.io/)
 
 ## Data visualization
 
@@ -1417,7 +1418,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [AwesomePerfCpp (⭐2.3k)](https://github.com/fenbf/AwesomePerfCpp) - A curated list of awesome C/C++ performance optimization resources.
 *   [free-programming-books (⭐302k)](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 *   [Inqlude](http://inqlude.org/) - The Qt library archive.
-*   [papers-we-love (⭐77k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+*   [papers-we-love (⭐78k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 *   [awesome-algorithms (⭐15k)](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 *   [awesome-hpp (⭐2.9k)](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries.
 *   [awesome-talks (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks.
