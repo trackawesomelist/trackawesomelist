@@ -244,6 +244,7 @@ Use these hashtags in search to filter out the tools
 *   [Sibyl AI](https://sibyls.ai/) - Provide guidance, insights, and support for individuals at different levels of spiritual exploration, from neophytes to adepts and holistic practitioners. `#paid`
 *   [SocratiQ](https://socratiq.ai/) - The Future of Education, Integrated `#paid`
 *   [Textero.ai AI Essay Writer](https://textero.ai/) - Your reliable AI academic assistant for tasks of any scale. `#free`
+*   [Otter.ai](https://otter.ai/) - Ai meeting assistant that records audio, write notes, captures action items, and generates summaries. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 

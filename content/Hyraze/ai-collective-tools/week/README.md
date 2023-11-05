@@ -16,6 +16,10 @@ Explore a curated selection of AI tools and resources
 
 *   [Book Witch](https://bookwitch.io/) - Use the power of AI to create complete e-books with just one click! `#freemium`
 
+### Education
+
+*   [Otter.ai](https://otter.ai/) - Ai meeting assistant that records audio, write notes, captures action items, and generates summaries. `#freemium`
+
 ### Fitness
 
 *   [Alpa AI](https://www.alfa-ai.com/) - To train the right way without depending on anyone but their self-anytime, everywhere. `#freemium`

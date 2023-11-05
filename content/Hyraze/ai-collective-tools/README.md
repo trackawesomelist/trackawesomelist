@@ -6,6 +6,12 @@ Explore a curated selection of AI tools and resources
 
 [ Daily / [Weekly](/content/Hyraze/ai-collective-tools/week/README.md) / [Overview](/content/Hyraze/ai-collective-tools/readme/README.md) ]
 
+## [Nov 05, 2023](/content/2023/11/05/README.md)
+
+### Education
+
+*   [Otter.ai](https://otter.ai/) - Ai meeting assistant that records audio, write notes, captures action items, and generates summaries. `#freemium`
+
 ## [Nov 02, 2023](/content/2023/11/02/README.md)
 
 ### Customer Support

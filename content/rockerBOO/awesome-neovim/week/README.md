@@ -19,6 +19,11 @@ Collections of awesome neovim plugins.
 ### Search / Diagnostics
 
 *   [mangelozzi/rgflow.nvim (⭐21)](https://github.com/mangelozzi/rgflow.nvim) - Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI.
+*   [duane9/nvim-rg (⭐18)](https://github.com/duane9/nvim-rg) - Run RipGrep asynchronously and see results in a quickfix window.
+
+### Fuzzy Finder / Diagnostics
+
+*   [echasnovski/mini.nvim#mini.extra (⭐2.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-extra.md) - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -51,7 +56,7 @@ Collections of awesome neovim plugins.
 
 ### Plugin Manager
 
-*   [abeldekat/lazyflex.nvim (⭐9)](https://github.com/abeldekat/lazyflex.nvim) - An addon for `folke/lazy.nvim`. Facilitates the testing and troubleshooting of a Neovim configuration.
+*   [abeldekat/lazyflex.nvim (⭐15)](https://github.com/abeldekat/lazyflex.nvim) - An addon for `folke/lazy.nvim`. Facilitates the testing and troubleshooting of a Neovim configuration.
 
 ### (requires Neovim 0.5)
 
@@ -64,7 +69,7 @@ Collections of awesome neovim plugins.
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [oxfist/night-owl.nvim (⭐68)](https://github.com/oxfist/night-owl.nvim) - A [Night Owl colorscheme port from VSCode (⭐2.7k)](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens.
-*   [text-to-colorscheme (⭐198)](https://github.com/svermeulen/text-to-colorscheme) - Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT.
+*   [text-to-colorscheme (⭐227)](https://github.com/svermeulen/text-to-colorscheme) - Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT.
 
 ### Statusline / Diagnostics
 
@@ -72,7 +77,7 @@ Collections of awesome neovim plugins.
 
 ### Media / Diagnostics
 
-*   [edluffy/hologram.nvim (⭐1k)](https://github.com/edluffy/hologram.nvim) - A cross platform terminal image viewer. Works on macOS and Linux.
+*   [edluffy/hologram.nvim (⭐1.1k)](https://github.com/edluffy/hologram.nvim) - A cross platform terminal image viewer. Works on macOS and Linux.
 
 ### Terminal Integration / Diagnostics
 
@@ -80,11 +85,11 @@ Collections of awesome neovim plugins.
 
 ### Code Runner / Diagnostics
 
-*   [dasupradyumna/launch.nvim (⭐11)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
+*   [dasupradyumna/launch.nvim (⭐18)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [nvim-lusc (⭐9)](https://github.com/svermeulen/nvim-lusc) - Adds support for Structured Async/Concurrency in Lua.
+*   [nvim-lusc (⭐12)](https://github.com/svermeulen/nvim-lusc) - Adds support for Structured Async/Concurrency in Lua.
 
 ### Motion / Diagnostics
 

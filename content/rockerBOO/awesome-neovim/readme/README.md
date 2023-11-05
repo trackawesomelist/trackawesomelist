@@ -104,7 +104,7 @@ Collections of awesome neovim plugins.
 *   [chiyadev/dep (⭐86)](https://github.com/chiyadev/dep) - An alternative to packer.nvim. It was built to be even better and easier to use. Context can be found [here](https://chiya.dev/posts/2021-11-27-why-package-manager).
 *   [folke/lazy.nvim (⭐7.8k)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤.
 *   [roobert/activate.nvim (⭐53)](https://github.com/roobert/activate.nvim) - A plugin installation system designed to complement `folke/lazy.nvim`.
-*   [abeldekat/lazyflex.nvim (⭐9)](https://github.com/abeldekat/lazyflex.nvim) - An addon for `folke/lazy.nvim`. Facilitates the testing and troubleshooting of a Neovim configuration.
+*   [abeldekat/lazyflex.nvim (⭐15)](https://github.com/abeldekat/lazyflex.nvim) - An addon for `folke/lazy.nvim`. Facilitates the testing and troubleshooting of a Neovim configuration.
 
 ## LSP
 
@@ -304,6 +304,7 @@ Collections of awesome neovim plugins.
 *   [windwp/nvim-spectre (⭐1.3k)](https://github.com/windwp/nvim-spectre) - Search and replace panel.
 *   [nvimdev/hlsearch.nvim (⭐32)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
 *   [mangelozzi/rgflow.nvim (⭐21)](https://github.com/mangelozzi/rgflow.nvim) - Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI.
+*   [duane9/nvim-rg (⭐18)](https://github.com/duane9/nvim-rg) - Run RipGrep asynchronously and see results in a quickfix window.
 
 ## Fuzzy Finder
 
@@ -316,6 +317,7 @@ Collections of awesome neovim plugins.
 *   [axkirillov/easypick.nvim (⭐304)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
 *   [linrongbin16/fzfx.nvim (⭐67)](https://github.com/linrongbin16/fzfx.nvim) - E(x)tended commands missing in fzf.vim, a brand new fzf plugin build from scratch, focused on usability, customization and performance.
 *   [echasnovski/mini.nvim#mini.pick (⭐2.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pick.md) - Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more.
+*   [echasnovski/mini.nvim#mini.extra (⭐2.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-extra.md) - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
 
 ## File Explorer
 
@@ -473,7 +475,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [cryptomilk/nightcity.nvim (⭐23)](https://github.com/cryptomilk/nightcity.nvim) - A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support.
 *   [polirritmico/monokai-nightasty.nvim (⭐26)](https://github.com/polirritmico/monokai-nightasty.nvim) - A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins.
 *   [oxfist/night-owl.nvim (⭐68)](https://github.com/oxfist/night-owl.nvim) - A [Night Owl colorscheme port from VSCode (⭐2.7k)](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens.
-*   [text-to-colorscheme (⭐198)](https://github.com/svermeulen/text-to-colorscheme) - Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT.
+*   [text-to-colorscheme (⭐227)](https://github.com/svermeulen/text-to-colorscheme) - Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT.
 *   [miikanissi/modus-themes.nvim (⭐2)](https://github.com/miikanissi/modus-themes.nvim) - Accessible theme, conforming with the highest standard for color contrast (WCAG AAA).
 
 ### Lua Colorscheme
@@ -575,7 +577,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Media
 
-*   [edluffy/hologram.nvim (⭐1k)](https://github.com/edluffy/hologram.nvim) - A cross platform terminal image viewer. Works on macOS and Linux.
+*   [edluffy/hologram.nvim (⭐1.1k)](https://github.com/edluffy/hologram.nvim) - A cross platform terminal image viewer. Works on macOS and Linux.
 *   [ekickx/clipboard-image.nvim (⭐267)](https://github.com/ekickx/clipboard-image.nvim) - Neovim Lua plugin to paste image from clipboard.
 *   [niuiic/cp-image.nvim (⭐6)](https://github.com/niuiic/cp-image.nvim) - Paste image from clipboard and insert the reference code.
 *   [askfiy/nvim-picgo (⭐51)](https://github.com/askfiy/nvim-picgo) - A picgo-core-based Neovim plugin, written in Lua, that allows you to upload images to the image bed, which means you can view your images from anywhere on the internet.
@@ -748,7 +750,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [google/executor.nvim (⭐81)](https://github.com/google/executor.nvim) - Allows you to run command line tasks in the background and be notified of results.
 *   [Zeioth/compiler.nvim (⭐227)](https://github.com/Zeioth/compiler.nvim) - Compiler for building and running your code without having to configure anything.
 *   [jaytyrrell13/static.nvim (⭐10)](https://github.com/jaytyrrell13/static.nvim) - Run static site generator commands.
-*   [dasupradyumna/launch.nvim (⭐11)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
+*   [dasupradyumna/launch.nvim (⭐18)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
 
 ## Neovim Lua Development
 
@@ -772,7 +774,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [ray-x/guihua.lua (⭐132)](https://github.com/ray-x/guihua.lua) - A Lua UI library. Includes a fzy search bar, list view and tree view modules.
 *   [anuvyklack/animation.nvim (⭐33)](https://github.com/anuvyklack/animation.nvim) - Create animations.
 *   [NFrid/treesitter-utils (⭐6)](https://github.com/NFrid/treesitter-utils) - Some useful Treesitter methods.
-*   [nvim-lusc (⭐9)](https://github.com/svermeulen/nvim-lusc) - Adds support for Structured Async/Concurrency in Lua.
+*   [nvim-lusc (⭐12)](https://github.com/svermeulen/nvim-lusc) - Adds support for Structured Async/Concurrency in Lua.
 
 ## Fennel
 
