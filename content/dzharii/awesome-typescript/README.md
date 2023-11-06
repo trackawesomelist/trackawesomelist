@@ -6,6 +6,12 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ Daily / [Weekly](/content/dzharii/awesome-typescript/week/README.md) / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
+## [Nov 06, 2023](/content/2023/11/06/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [SuperJSON (⭐3.1k)](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more
+
 ## [Nov 04, 2023](/content/2023/11/04/README.md)
 
 ### Typescript Project Starters

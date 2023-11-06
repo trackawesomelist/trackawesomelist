@@ -6,6 +6,22 @@ Awesome Web Development Resources.
 
 [ [Daily](/content/markodenic/web-development-resources/README.md) / Weekly / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
 
+## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
+
+### Hosting:
+
+- Website: <https://fleek.co/>
+
+  Description: **Fleek** makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers.
+
+
+
+### Coding Challenge Platforms:
+
+- Website: <https://dapp-world.com/problems>
+
+
+
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
 ### Remote Jobs:
