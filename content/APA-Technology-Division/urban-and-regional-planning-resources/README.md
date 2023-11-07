@@ -6,6 +6,12 @@ Community list of data & technology resources concerning the built environment a
 
 [ Daily / [Weekly](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md) / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
 
+## [Nov 07, 2023](/content/2023/11/07/README.md)
+
+### Vendor Data Resources / Travel Behavior
+
+*   [AirSage](https://airsage.com/) - AirSage is a well-known provider of location based services and GPS data from cell phones operating in the space since 2000.
+
 ## [Nov 01, 2023](/content/2023/11/01/README.md)
 
 ### Public Data Resources / Housing
@@ -260,7 +266,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Coding Resources / Python
 
-*   [Geemap (⭐2.9k)](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
+*   [Geemap (⭐3k)](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
 *   [Geoplot](https://residentmario.github.io/geoplot/) - Geoplot is a high-level Python geospatial plotting library. It is an extension to cartopy and matplotlib which makes mapping easy: like seaborn for geospatial.
 *   [Urbansprawl (⭐69)](https://github.com/lgervasoni/urbansprawl) - The urbansprawl project provides an open source framework for assessing urban sprawl using open data. It uses OpenStreetMap (OSM) data to calculate its sprawling indices, divided in Accessibility, Land use mix, and Dispersion.
 *   [Xarray-spatial](https://xarray-spatial.org/) - Xarray-Spatial implements common raster analysis functions using Numba and provides an easy-to-install, easy-to-extend codebase for raster analysis.

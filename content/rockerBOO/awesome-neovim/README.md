@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 07, 2023](/content/2023/11/07/README.md)
+
+### Project / Diagnostics
+
+*   [SalOrak/whaler.nvim (⭐13)](https://github.com/SalOrak/whaler.nvim) - Telescope extension to move between directories blazingly fast.
+
 ## [Nov 05, 2023](/content/2023/11/05/README.md)
 
 ### Search / Diagnostics

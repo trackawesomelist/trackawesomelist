@@ -14,6 +14,11 @@ A curated list of awesome Go frameworks, libraries and software
 *   [revive (⭐4.4k)](https://github.com/mgechev/revive) – \~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`.
 *   [testifylint (⭐16)](https://github.com/Antonboom/testifylint) – A linter that checks usage of [github.com/stretchr/testify (⭐21k)](https://github.com/stretchr/testify).
 
+### Meetups / Libraries for creating HTTP middlewares
+
+*   [Bärner Go Meetup - Berne, Switzerland](https://www.meetup.com/berner-go-meetup/)
+*   [Zürich Gophers - Zurich, Switzerland](https://www.meetup.com/zurich-gophers/)
+
 ## [Nov 03, 2023](/content/2023/11/03/README.md)
 
 ### Forms

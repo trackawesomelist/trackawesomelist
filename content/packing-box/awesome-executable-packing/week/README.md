@@ -2,15 +2,28 @@
 
 A curated list of awesome resources related to executable packing
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/packing-box/awesome-executable-packing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 packing-box/awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) · ⭐ 870 · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/packing-box/awesome-executable-packing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 packing-box/awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) · ⭐ 915 · 🏷️ Security
 
 [ [Daily](/content/packing-box/awesome-executable-packing/README.md) / Weekly / [Overview](/content/packing-box/awesome-executable-packing/readme/README.md) ]
 
-## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
+## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
+
+### :bookmark_tabs: Datasets / Scientific Research
+
+*   [The Malware Museum](https://archive.org/details/malwaremuseum) - The Malware Museum is a collection of malware programs, usually viruses, that were distributed in the 1980s and 1990s on home computers.
 
 ### :package: Packers / After 2010
 
-*   [Squishy](https://logicoma.io/squishy/) - Modern packer developed for 64kb demoscene productions, targets 32bit and 64bit executables.
+*   [Squishy](https://logicoma.io/squishy) - Modern packer developed for 64kb demoscene productions, targets 32bit and 64bit executables.
+
+### :package: Packers / Between 2000 and 2010
+
+*   [CryptExec](http://phrack.org/issues/63/13.html) - Next-generation runtime binary encryption using on-demand function extraction.
+
+### :package: Packers / Before 2000
+
+*   [Fire-Pack](http://files.dhs.nu/files_source/axe.zip?fire-pack)
+*   [Pack-Ice](http://files.dhs.nu/files_source/axe.zip?pack-ice)
 
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
@@ -66,8 +79,8 @@ A curated list of awesome resources related to executable packing
 
 ### :wrench: Tools / Before 2000
 
-*   [Capa (⭐3.3k)](https://github.com/mandiant/capa) - Open-source tool to identify capabilities in PE, ELF or .NET executable files.
-*   [Oedipus (⭐7)](https://github.com/tum-i4/Oedipus) - A Python framework that uses machine learning algorithms to implement the metadata recovery attack against obfuscated programs.
+*   [Capa (⭐3.4k)](https://github.com/mandiant/capa) - Open-source tool to identify capabilities in PE, ELF or .NET executable files.
+*   [Oedipus (⭐8)](https://github.com/tum-i4/Oedipus) - A Python framework that uses machine learning algorithms to implement the metadata recovery attack against obfuscated programs.
 
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 
@@ -105,7 +118,7 @@ A curated list of awesome resources related to executable packing
 
 ### :package: Packers / After 2010
 
-*   [SimpleDPack (⭐92)](https://github.com/YuriSizuku/SimpleDpack) - A very simple windows EXE packing tool for learning or investigating PE structure.
+*   [SimpleDPack (⭐95)](https://github.com/YuriSizuku/SimpleDpack) - A very simple windows EXE packing tool for learning or investigating PE structure.
 
 ### :wrench: Tools / Before 2000
 
@@ -129,7 +142,7 @@ A curated list of awesome resources related to executable packing
 
 ### :wrench: Tools / Before 2000
 
-*   [IDR (⭐816)](https://github.com/crypto2011/IDR) - Interactive Delphi Reconstructor.
+*   [IDR (⭐828)](https://github.com/crypto2011/IDR) - Interactive Delphi Reconstructor.
 *   [PEdump](https://pedump.me/) - Dump windows PE files using Ruby.
 
 ## [May 30 - Jun 05, 2022](/content/2022/22/README.md)
@@ -158,7 +171,7 @@ A curated list of awesome resources related to executable packing
 
 *   [BoxedApp Packer](https://www.boxedapp.com/boxedapppacker)
 *   [NPack](http://www.nsdsn.com/english/nspack.zip) - Can compress 32bits and 64bits exe, dll, ocx, scr Windows program.
-*   [VMPROTECT (⭐701)](https://github.com/eaglx/VMPROTECT) - Obfuscation method using virtual machine.
+*   [VMPROTECT (⭐707)](https://github.com/eaglx/VMPROTECT) - Obfuscation method using virtual machine.
 *   [VMProtect](https://vmpsoft.com/products/vmprotect) - VMProtect protects code by executing it on a virtual machine with non-standard architecture that makes it extremely difficult to analyze and crack the software.
 *   [Ward (⭐10)](https://github.com/ex0dus-0x/ward) - Simple implementation of an ELF packer that creates stealthy droppers for loading malicious ELFs in-memory.
 
@@ -203,12 +216,12 @@ A curated list of awesome resources related to executable packing
 
 ### :bookmark_tabs: Datasets / Scientific Research
 
-*   [FFRI Dataset Scripts (⭐8)](https://github.com/FFRI/ffridataset-scripts) - Make datasets like FFRI Dataset.
-*   [RCE Lab (⭐41)](https://github.com/apuromafo/RCE_Lab) - Crackme's, keygenme's, serialme's ; the "tuts4you" folder contains many packed binaries.
+*   [FFRI Dataset Scripts (⭐9)](https://github.com/FFRI/ffridataset-scripts) - Make datasets like FFRI Dataset.
+*   [RCE Lab (⭐42)](https://github.com/apuromafo/RCE_Lab) - Crackme's, keygenme's, serialme's ; the "tuts4you" folder contains many packed binaries.
 
 ### :package: Packers / Before 2000
 
-*   [Morphine (⭐277)](https://github.com/bowlofstew/rootkit.com/blob/master/hf/Morphine27) - Application for PE files encryption.
+*   [Morphine (⭐280)](https://github.com/bowlofstew/rootkit.com/blob/master/hf/Morphine27) - Application for PE files encryption.
 
 ### :wrench: Tools / Before 2000
 
@@ -228,7 +241,7 @@ A curated list of awesome resources related to executable packing
 
 ### :package: Packers / After 2010
 
-*   [ELFCrypt (⭐76)](https://github.com/droberson/ELFcrypt) - Simple ELF crypter using RC4 encryption.
+*   [ELFCrypt (⭐79)](https://github.com/droberson/ELFcrypt) - Simple ELF crypter using RC4 encryption.
 *   [.netshrink](https://www.pelock.com/products/netshrink) - Executable compressor for your Windows or Linux .NET application executable file using LZMA.
 *   [RapidEXE](https://sourceforge.net/projects/rapidexe) - Simple and efficient way to convert a PHP/Python script to a standalone executable.
 
@@ -241,14 +254,14 @@ A curated list of awesome resources related to executable packing
 *   [Binutils](https://www.gnu.org/software/binutils) - The GNU Binutils are a collection of binary tools for Linux (it namely includes Readelf).
 *   [Eureka](https://web.archive.org/web/20150502154942/http://eureka.cyber-ta.org) - Binary static analysis preparation framework implementing a novel binary unpacking strategy based on statistical bigram analysis and coarse-grained execution tracing.
 *   [Lissom](ttp://www.fit.vutbr.cz/research/groups/lissom) - Retargetable decompiler consisting of a preprocessing part and a decompilation core.
-*   [.NET Deobfuscator (⭐978)](https://github.com/NotPrab/.NET-Deobfuscator) - List of .NET Deobfuscators and Unpackers.
+*   [.NET Deobfuscator (⭐1k)](https://github.com/NotPrab/.NET-Deobfuscator) - List of .NET Deobfuscators and Unpackers.
 *   [PackID (⭐8)](https://github.com/mesaleh/PackiD) - Packer identification multiplatform tool/library using the same database syntax as PEiD.
 *   [PExplorer](http://www.heaventools.com/overview.htm) - Most feature-packed program for inspecting the inner workings of your own software, and more importantly, third party Windows applications and libraries for which you do not have source code.
-*   [PortEx (⭐475)](https://github.com/katjahahn/PortEx) - Java library for static malware analysis of PE files with a focus on PE malformation robustness and anomaly detection.
+*   [PortEx (⭐480)](https://github.com/katjahahn/PortEx) - Java library for static malware analysis of PE files with a focus on PE malformation robustness and anomaly detection.
 *   [PROTECTiON iD](https://web.archive.org/web/20210331144912/https://protectionid.net) - PE file signature-based scanner.
 *   [ProTools](http://protools.narod.ru) - Programmer's Tools, a web site dedicated for all kinds of tools and utilities for the true WinBloze programmer, including packers, crypters, etc.
 *   [ResourceHacker](http://angusj.com/resourcehacker) - Resource editor for 32bit and 64bit Windows applications.
-*   [Winbindex (⭐462)](https://github.com/m417z/winbindex) - An index of Windows binaries, including download links for executables such as EXE, DLL and SYS files.
+*   [Winbindex (⭐477)](https://github.com/m417z/winbindex) - An index of Windows binaries, including download links for executables such as EXE, DLL and SYS files.
 
 ## [Apr 18 - Apr 24, 2022](/content/2022/16/README.md)
 
@@ -264,7 +277,7 @@ A curated list of awesome resources related to executable packing
 
 *   [Capstone](https://www.capstone-engine.org) - Lightweight multi-platform, multi-architecture disassembly framework.
 *   [PANDA (⭐2.3k)](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis.
-*   [ShowStopper (⭐153)](https://github.com/CheckPointSW/showstopper) - Tool to help malware researchers explore and test anti-debug techniques or verify debugger plugins or other solutions that clash with standard anti-debug methods.
+*   [ShowStopper (⭐157)](https://github.com/CheckPointSW/showstopper) - Tool to help malware researchers explore and test anti-debug techniques or verify debugger plugins or other solutions that clash with standard anti-debug methods.
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
@@ -274,7 +287,7 @@ A curated list of awesome resources related to executable packing
 *   :earth\_americas: [elf (FreeBSD manual pages)](https://www.freebsd.org/cgi/man.cgi?elf\(5\))
 *   :earth\_americas: [FatELF: Universal binaries for Linux (HALTED)](https://icculus.org/fatelf)
 *   :pushpin: [Mach-O - A look at apple executable files](https://redmaple.tech/blogs/macho-files)
-*   :earth\_americas: [Mach-O file format reference (⭐676)](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
+*   :earth\_americas: [Mach-O file format reference (⭐685)](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
 *   :earth\_americas: [MITRE ATT\&CK | T1027.002 | obfuscated files or information: Software packing](https://attack.mitre.org/techniques/T1027/002)
 *   :pushpin: [Parsing mach-O files](https://lowlevelbits.org/parsing-mach-o-files)
 
@@ -393,15 +406,15 @@ A curated list of awesome resources related to executable packing
 *   [ExeScan](https://defacto2.net/f/ae2c42e) - Executable file analyzer which detects the most famous  EXE/COM Protectors, Packers, Converters and compilers.
 *   [GetTyp](https://www.helger.com/gt/gt.htm) - File format detection program for DOS based on special strings and byte code.
 *   [Language 2000](https://farrokhi.net/language) - Ultimate compiler detection utility.
-*   [LIEF (⭐3.8k)](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats ; Python package for parsing PE, ELF, Mach-O and DEX formats, modifying and rebuilding executables.
+*   [LIEF (⭐3.9k)](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats ; Python package for parsing PE, ELF, Mach-O and DEX formats, modifying and rebuilding executables.
 *   [PCjs](https://www.pcjs.org) - PCjs uses JavaScript to recreate the IBM PC experience, using original ROMs, CPUs running at their original speeds, and early IBM video cards and monitors.
 *   [PEscan](https://tzworks.com/prototype_page.php?proto_id=15) - CLI tool to scan PE files to identify how they were constructed.
-*   [PETools (⭐874)](https://github.com/petoolse/petools) - Old-school reverse engineering tool (with a long history since 2002) for manipulating PE files.
+*   [PETools (⭐890)](https://github.com/petoolse/petools) - Old-school reverse engineering tool (with a long history since 2002) for manipulating PE files.
 *   [RDG Packer Detector](http://www.rdgsoft.net) - Packer detection tool.
 *   [Reko (⭐1.8k)](https://github.com/uxmal/reko) - Free decompiler for machine code binaries.
-*   [RetDec (⭐7.4k)](https://github.com/avast/retdec) - Retargetable machine-code decompiler based on LLVM.
+*   [RetDec (⭐7.5k)](https://github.com/avast/retdec) - Retargetable machine-code decompiler based on LLVM.
 *   [SAFE](https://github.com/packing-box/awesome-executable-packing/blob/main/README.md/mailto:mihai@cs.wisc.edu) - Static Analyzer For Executables (available on demand).
-*   [Triton (⭐3k)](https://github.com/jonathansalwan/Triton) - Dynamic binary analysis library.
+*   [Triton (⭐3.1k)](https://github.com/jonathansalwan/Triton) - Dynamic binary analysis library.
 *   [Tuts 4 You](https://tuts4you.com) - Non-commercial, independent community dedicated to the sharing of knowledge and information on reverse code engineering.
 *   [UnpacMe](https://www.unpac.me) - Automated malware unpacking service.
 
@@ -487,7 +500,7 @@ A curated list of awesome resources related to executable packing
 
 ### :wrench: Tools / Before 2000
 
-*   [PEiD (CLI) (⭐89)](https://github.com/dhondta/peid) - Python implementation of PEiD featuring an additional tool for making new signatures.
+*   [PEiD (CLI) (⭐93)](https://github.com/dhondta/peid) - Python implementation of PEiD featuring an additional tool for making new signatures.
 
 ## [Feb 28 - Mar 06, 2022](/content/2022/9/README.md)
 
@@ -516,7 +529,7 @@ A curated list of awesome resources related to executable packing
 
 ### :wrench: Tools / Before 2000
 
-*   [FUU (⭐42)](https://github.com/crackinglandia/fuu) - Fast Universal Unpacker.
+*   [FUU (⭐43)](https://github.com/crackinglandia/fuu) - Fast Universal Unpacker.
 
 ## [Feb 07 - Feb 13, 2022](/content/2022/6/README.md)
 
@@ -536,7 +549,7 @@ A curated list of awesome resources related to executable packing
 *   [hXOR-Packer (⭐40)](https://github.com/rurararura/hXOR-Packer) - PE packer with Huffman compression and XOR encryption.
 *   [LIAPP](https://liapp.lockincomp.com) - Easiest and most powerful mobile app security solution.
 *   [MPRESS](https://www.autohotkey.com/mpress/mpress_web.htm) - Compresses (using LZMA) and protects PE, .NET or Mach-O programs against reverse engineering.
-*   [Papaw (⭐34)](https://github.com/dimkr/papaw) - Permissively-licensed packer for ELF executables using LZMA Zstandard or Deflate compression.
+*   [Papaw (⭐35)](https://github.com/dimkr/papaw) - Permissively-licensed packer for ELF executables using LZMA Zstandard or Deflate compression.
 *   [ZProtect](http://www.jiami.net) - Renames metadata entities and supports advanced obfuscation methods that harden protection scheme and foil reverse engineering altogether.
 
 ### :package: Packers / Between 2000 and 2010
@@ -561,7 +574,7 @@ A curated list of awesome resources related to executable packing
 
 ### :wrench: Tools / Before 2000
 
-*   [APKiD (⭐1.7k)](https://github.com/rednaga/APKiD) - Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.
+*   [APKiD (⭐1.8k)](https://github.com/rednaga/APKiD) - Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.
 *   [BinUnpack](https://doi.org/10.1145/3243734.3243771) - Unpacking approach free from tedious memory access monitoring, therefore introducing very small runtime overhead.
 
 ## [Jan 31 - Feb 06, 2022](/content/2022/5/README.md)
@@ -641,7 +654,7 @@ A curated list of awesome resources related to executable packing
 *   [Malfease](https://web.archive.org/web/20141221153307/http://malfease.oarci.net) - Dataset of about 5,000 packed malware samples.
 *   [Malheur](https://www.sec.cs.tu-bs.de/data/malheur) - Contains the recorded behavior of malicious software (malware) and has been used for developing methods for classifying and clustering malware behavior (see the JCS article from 2011).
 *   [OARC Malware Dataset](https://www.dns-oarc.net) - Semi-public dataset of 3,467 samples captured in the wild from Sep 2005 to Jan 2006 by mail traps, user submissions, honeypots and other sources aggregated by the OARC, available to qualified academic and industry researchers upon request.
-*   [Packware (⭐77)](https://github.com/ucsb-seclab/packware) - Datasets and codes that are needed to reproduce the experiments in the paper "When Malware is Packing Heat".
+*   [Packware (⭐76)](https://github.com/ucsb-seclab/packware) - Datasets and codes that are needed to reproduce the experiments in the paper "When Malware is Packing Heat".
 *   [Runtime Packers Testset](https://www.researchgate.net/publication/268030543_Runtime_Packers_The_Hidden_Problem) - Dataset of 10 common Malware files, packed with about 40 different runtime packers in over 500 versions and options, with a total of about 5,000 samples.
 *   [ViruSign](https://www.virusign.com) - Another online malware database.
 *   [VXvault](http://vxvault.net/ViriList.php) - Online malware database.
@@ -650,27 +663,27 @@ A curated list of awesome resources related to executable packing
 
 *   [Alienyze](https://alienyze.com) - Advanced software protection and security for Windows 32-bit executables.
 *   [Alternate EXE Packer](https://www.alternate-tools.com/pages/c_exepacker.php) - Compression tool for executable files (type EXE) or DLL's relying on UPX 3.96.
-*   [Amber (⭐986)](https://github.com/EgeBalci/amber/releases) - Position-independent(reflective) PE loader that enables in-memory execution of native PE files(EXE, DLL, SYS).
+*   [Amber (⭐1k)](https://github.com/EgeBalci/amber/releases) - Position-independent(reflective) PE loader that enables in-memory execution of native PE files(EXE, DLL, SYS).
 *   [ASPack](http://www.aspack.com/aspack.html) - Advanced solution created to provide Win32 EXE file packing and to protect them against non-professional reverse engineering.
 *   [ASProtect 32](http://www.aspack.com/asprotect32.html) - Multifunctional EXE packing tool designed for software developers to protect 32-bit applications with in-built application copy protection system.
 *   [ASProtect 64](http://www.aspack.com/asprotect64.html) - Tool for protecting 64-bit applications and .NET applications for Windows against unauthorized use, industrial and home copying, professional hacking and analysis of software products distributed over the Internet and on any physical media.
 *   [AutoIT](https://www.autoitscript.com/site) - Legitimate executable encryption service.
 *   [AxProtector](https://www.wibu.com/us/products/protection-suite/axprotector.html) - Encrypts the complete software you aim to protect, and shields it with a security shell, AxEngine, best-of-breed anti-debugging and anti-disassembly methods are then injected into your software.
-*   [BangCle (⭐354)](https://github.com/woxihuannisja/Bangcle) - Protection tool using the second generation Android Hardening Protection, loading the encrypted DEX file from memory dynamically.
+*   [BangCle (⭐361)](https://github.com/woxihuannisja/Bangcle) - Protection tool using the second generation Android Hardening Protection, loading the encrypted DEX file from memory dynamically.
 *   [Bero](https://blog.rosseaux.net/page/875fbe6549aa072b5ee0ac9cefff4827/BeRoEXEPacker) - Bero EXE Packer (BEP) for 32-bit windows executables.
 *   [Code Virtualizer](https://www.oreans.com/CodeVirtualizer.php) - Code Virtualizer is a powerful code obfuscation system for Windows, Linux and macOS applications that helps developers to protect their sensitive code areas against Reverse Engineering with very strong obfuscation code, based on code virtualization.
-*   [ConfuserEx (⭐1.9k)](https://github.com/mkaring/ConfuserEx) - An open-source, free protector for .NET applications.
-*   [Crinkler (⭐916)](https://github.com/runestubbe/Crinkler) - Compressing linker for Windows, specifically targeted towards executables with a size of just a few kilobytes.
+*   [ConfuserEx (⭐2k)](https://github.com/mkaring/ConfuserEx) - An open-source, free protector for .NET applications.
+*   [Crinkler (⭐927)](https://github.com/runestubbe/Crinkler) - Compressing linker for Windows, specifically targeted towards executables with a size of just a few kilobytes.
 *   [DarkCrypt](https://totalcmd.net/plugring/darkcrypttc.html) - Simply and powerful plugin for Total Commander used for file encryption using 100 algorithms and 5 modes.
 *   [DexGuard](https://www.guardsquare.com/en/products/dexguard) - Android app obfuscation & security protocols for mobile app protection.
 *   [DexProtector](https://dexprotector.com/) - Multi-layered RASP solution that secures your Android and iOS apps against static and dynamic analysis, illegal use and tampering.
 *   [DotNetZ](https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/NETZ.shtml) - Straightforward and lightweight, command-line piece of software written in C that allows you to compress and pack Microsoft .NET Framework executable files.
-*   [Eronona-Packer (⭐40)](https://github.com/Eronana/packer) - This is a packer for exe under win32.
-*   [Ezuri (⭐196)](https://github.com/guitmz/ezuri/blob/master/ezuri.go) - A Simple Linux ELF Runtime Crypter.
+*   [Eronona-Packer (⭐41)](https://github.com/Eronana/packer) - This is a packer for exe under win32.
+*   [Ezuri (⭐199)](https://github.com/guitmz/ezuri/blob/master/ezuri.go) - A Simple Linux ELF Runtime Crypter.
 *   [GzExe](https://git.savannah.gnu.org/cgit/gzip.git) - Utility that allows to compress executables as a shell script.
-*   [NetCrypt (⭐51)](https://github.com/friedkiwi/netcrypt) - A proof-of-concept packer for .NET executables, designed to provide a starting point to explain the basic principles of runtime packing.
-*   [Origami (⭐146)](https://github.com/dr4k0nia/Origami) - Packer compressing .net assemblies, (ab)using the PE format for data storage.
-*   [Pakkero (⭐202)](https://github.com/89luca89/pakkero) - Pakkero is a binary packer written in Go made for fun and educational purpose.
+*   [NetCrypt (⭐52)](https://github.com/friedkiwi/netcrypt) - A proof-of-concept packer for .NET executables, designed to provide a starting point to explain the basic principles of runtime packing.
+*   [Origami (⭐147)](https://github.com/dr4k0nia/Origami) - Packer compressing .net assemblies, (ab)using the PE format for data storage.
+*   [Pakkero (⭐206)](https://github.com/89luca89/pakkero) - Pakkero is a binary packer written in Go made for fun and educational purpose.
 *   [PELock](https://www.pelock.com) - Software protection system for Windows executable files ; protects your applications from tampering and reverse engineering, and provides extensive support for software license key management, including support for time trial periods.
 *   [PePacker (⭐35)](https://github.com/SamLarenN/PePacker) - Simple PE Packer Which Encrypts .text Section I release a simple PE file packer which encrypts the .text section and adds a decryption stub to the end of the last section.
 *   [PEShield](https://webscene.ir/tools/show/PE-SHIELD-0.25) - PE-SHiELD is a program, which encrypts 32-bit Windows EXE files, leaving them still executable.
@@ -718,23 +731,23 @@ A curated list of awesome resources related to executable packing
 ### :wrench: Tools / Before 2000
 
 *   [Assiste (Packer)](https://assiste.com/Packer.html) - Assiste.com's example list of packers.
-*   [AVClass (⭐412)](https://github.com/malicialab/avclass) - Python tools to tag / label malware samples.
+*   [AVClass (⭐419)](https://github.com/malicialab/avclass) - Python tools to tag / label malware samples.
 *   [de4dot (⭐6.5k)](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
-*   [DIE (⭐1.8k)](https://github.com/horsicq/DIE-engine/releases) - Detect It Easy ; Program for determining types of files.
+*   [DIE (⭐1.9k)](https://github.com/horsicq/DIE-engine/releases) - Detect It Easy ; Program for determining types of files.
 *   [Emulator](https://techdocs.broadcom.com/us/en/symantec-security-software/endpoint-security-and-management/endpoint-protection/all/Using-policies-to-manage-security/preventing-and-handling-virus-and-spyware-attacks-v40739565-d49e172/how-does-the-emulator-in-symantec-endpoint-protect-v121004909-d47e230.html) - Symantec Endpoint Protector (from v14) capability to create a virtual machine on the fly to identify, detonate, and eliminate malware hiding inside custom malware packers.
 *   [EtherUnpack](https://ether.gtisc.gatech.edu/web_unpack) - Precision universal automated unpacker (successor of PolyUnpack).
 *   [EXETools](https://forum.exetools.com) - Forum for reverse engineering and executale packing related topics.
 *   [Justin](https://doi.org/10.1007/978-3-540-87403-4_6) - Just-In-Time AV scanning ; generic unpacking solution.
-*   [Malheur (⭐352)](https://github.com/rieck/malheur) - Tool for the automatic analysis of malware behavior (recorded from malicious software in a sandbox environment).
-*   [MalUnpack (⭐555)](https://github.com/hasherezade/mal_unpack) - Dynamic unpacker based on PE-sieve.
+*   [Malheur (⭐353)](https://github.com/rieck/malheur) - Tool for the automatic analysis of malware behavior (recorded from malicious software in a sandbox environment).
+*   [MalUnpack (⭐564)](https://github.com/hasherezade/mal_unpack) - Dynamic unpacker based on PE-sieve.
 *   [OEPdet](https://ieeexplore.ieee.org/abstract/document/7782073) - Automated original-entry-point detector.
 *   [OllyDbg Scripts (⭐6)](https://github.com/xshows/ollydbg-script) - Collection of OllyDbg scripts for unpacking many different packers.
 *   [OmniUnpack](https://doi.org/10.1109/ACSAC.2007.15) - New technique for fast, generic, and safe unpacking of malware by monitoring the execution in real-time and detecting the removed layers of packing.
-*   [PackerID (⭐40)](https://github.com/sooshie/packerid) - Fork of packerid.py using PEid signatures and featuring additional output types, formats, digital signature extraction, and disassembly support.
+*   [PackerID (⭐41)](https://github.com/sooshie/packerid) - Fork of packerid.py using PEid signatures and featuring additional output types, formats, digital signature extraction, and disassembly support.
 *   [Pandora's Bochs](https://0x0badc0.de/gitweb?p=bochs/.git) - Extension to the Bochs PC eumlator to enable it to monitor execution of the unpacking stubs for extracting the original code.
 *   [PE Compression Test](http://pect.atspace.com/) - List of packers tested on a few sample executables for comparing compressed sizes.
 *   [PE Detective](https://ntcore.com/?page_id=367) - This GUI tool can scan single PE files or entire directories (also recursevely) and generate complete reports.
-*   [PE-bear (⭐761)](https://github.com/hasherezade/pe-bear-releases) - Freeware reversing tool for PE files aimed to deliver fast and flexible “first view” for malware analysts, stable and capable to handle malformed PE files.
+*   [PE-bear (⭐766)](https://github.com/hasherezade/pe-bear-releases) - Freeware reversing tool for PE files aimed to deliver fast and flexible “first view” for malware analysts, stable and capable to handle malformed PE files.
 *   [Pefeats (⭐2)](https://github.com/roussieau/masterthesis/tree/master/src/detector/tools/pefeats) - Utility for extracting 119 features from a PE file for use with machine learning algorithms.
 *   [Pefile (⭐1.7k)](https://github.com/erocarrera/pefile) - Multi-platform Python module to parse and work with Portable Executable files.
 *   [REMINDer](https://doi.org/10.1109/CSA.2009.5404211) - Packing detection tool based on the entropy value of the entry point section and the WRITE attribute.
@@ -747,11 +760,11 @@ A curated list of awesome resources related to executable packing
 
 ### :bookmark_tabs: Datasets / Scientific Research
 
-*   [Ember (⭐830)](https://github.com/elastic/ember) - Collection of features from PE files that serve as a benchmark dataset for researchers.
+*   [Ember (⭐846)](https://github.com/elastic/ember) - Collection of features from PE files that serve as a benchmark dataset for researchers.
 *   [MalShare](https://malshare.com) - Free Malware repository providing researchers access to samples, malicious feeds, and Yara results.
 *   [MalwareGallery](https://github.com/BaRRaKudaRain/MalwareGallery) - Yet another malware collection in the Internet.
 *   [PackingData (⭐5)](https://github.com/chesvectain/PackingData) - Original dataset with sample PE files packed with a large variety of packers, including ASPack, BeRoEXEPacker, exe32pack, eXpressor, FSG, JDPack, MEW, Molebox, MPRESS, Neolite, NSPack, Pckman, PECompact, PEtite, RLPack, UPX, WinUpack, Yoda's Crypter and Yoda's Protector.
-*   [SOREL (⭐557)](https://github.com/sophos-ai/SOREL-20M) - Sophos-ReversingLabs 20 Million dataset.
+*   [SOREL (⭐564)](https://github.com/sophos-ai/SOREL-20M) - Sophos-ReversingLabs 20 Million dataset.
 *   [theZoo (⭐10k)](https://github.com/ytisf/theZoo) - Project created to make the possibility of malware analysis open and available to the public.
 *   [WildList](http://www.wildlist.org/CurrentList.txt) - Cooperative listing of malwares reported as being in the wild by security professionals.
 
@@ -764,9 +777,9 @@ A curated list of awesome resources related to executable packing
 *   [m0dern\_p4cker (⭐38)](https://github.com/n4sm/m0dern_p4cker) - Just a modern packer for elf binaries ( works on linux executables only ).
 *   [MidgetPack (⭐187)](https://github.com/arisada/midgetpack) - Midgetpack is a binary packer for ELF binaries, such as burneye, upx or other tools.
 *   [Obsidium](http://www.obsidium.de/show.php?home) - Feature-rich professional software protection and licensing system designed as a cost effective and easy to implement, yet reliable and non-invasive way to protect your 32- and 64-bit Windows software applications and games from reverse engineering.
-*   [PE-Packer (⭐252)](https://github.com/czs108/PE-Packer) - Simple packer for Windows 32-bits PE files.
+*   [PE-Packer (⭐258)](https://github.com/czs108/PE-Packer) - Simple packer for Windows 32-bits PE files.
 *   [PE-Toy (⭐4)](https://github.com/r0ngwe1/petoy) - A PE file packer.
-*   [Silent-Packer (⭐36)](https://github.com/SilentVoid13/Silent_Packer) - Silent Packer is an ELF / PE packer written in pure C.
+*   [Silent-Packer (⭐39)](https://github.com/SilentVoid13/Silent_Packer) - Silent Packer is an ELF / PE packer written in pure C.
 *   [Simple-PE32-Packer (⭐8)](https://github.com/z3r0d4y5/Simple-PE32-Packer) - Simple PE32 Packer with aPLib compression library.
 *   [theArk (⭐41)](https://github.com/aaaddress1/theArk) - Windows x86 PE Packer In C++.
 *   [UPX](https://upx.github.io/) - Ultimate Packer for eXecutables.
@@ -785,25 +798,25 @@ A curated list of awesome resources related to executable packing
 *   [BitBlaze](http://bitblaze.cs.berkeley.edu/release/index.html) - Analysis platform that features a novel fusion of static and dynamic analysis techniques, mixed concrete and symbolic execution, and whole-system emulation and binary instrumentation, all to facilitate state-of-the art research on real security problems.
 *   [Clamscan Unpacker](https://clamunpacker.sourceforge.io/) - Unpacker derived from ClamAV.
 *   [de4js (⭐1.2k)](https://github.com/lelinhtinh/de4js) - JavaScript Deobfuscator and Unpacker.
-*   [EXEInfo-PE (⭐473)](https://github.com/ExeinfoASL/ASL) - Fast detector for executable PE files.
+*   [EXEInfo-PE (⭐491)](https://github.com/ExeinfoASL/ASL) - Fast detector for executable PE files.
 *   [GUnpacker](http://qunpack.ahteam.org/?p=327) - Shell tool that performs OEP positioning and dumps decrypted code.
-*   [Manalyze (⭐934)](https://github.com/JusticeRage/Manalyze) - Robust parser for PE files with a flexible plugin architecture which allows users to statically analyze files in-depth.
-*   [PackerAttacker (⭐257)](https://github.com/BromiumLabs/PackerAttacker) - Tool that uses memory and code hooks to detect packers.
+*   [Manalyze (⭐947)](https://github.com/JusticeRage/Manalyze) - Robust parser for PE files with a flexible plugin architecture which allows users to statically analyze files in-depth.
+*   [PackerAttacker (⭐260)](https://github.com/BromiumLabs/PackerAttacker) - Tool that uses memory and code hooks to detect packers.
 *   [PackerBreaker](https://www.portablefreeware.com/forums/viewtopic.php?t=21555) - Tool for helping unpack, decompress and decrypt most of the programs packed, compressed or encrypted using advanced emulation technology.
 *   [PackerGrind (⭐28)](https://github.com/rewhy/adaptiveunpacker) - Adaptive unpacking tool for tracking packing bahaviors and unpacking Android packed apps.
-*   [Packing-Box (⭐37)](https://github.com/dhondta/docker-packing-box) - Docker image gathering many packing-related tools and for making datasets of packed executables for use with machine learning.
-*   [PEFrame (⭐569)](https://github.com/guelfoweb/peframe) - Tool for performing static analysis on PE malware and generic suspicious files.
+*   [Packing-Box (⭐39)](https://github.com/dhondta/docker-packing-box) - Docker image gathering many packing-related tools and for making datasets of packed executables for use with machine learning.
+*   [PEFrame (⭐576)](https://github.com/guelfoweb/peframe) - Tool for performing static analysis on PE malware and generic suspicious files.
 *   [PEiD](http://www.secretashell.com/codomain/peid/) - Packed Executable iDentifier.
 *   [PEiD (yara) (⭐14)](https://github.com/K-atc/PEiD) - Yet another implementation of PEiD with yara.
 *   [PeLib (⭐61)](https://github.com/avast/pelib) - PE file manipulation library.
-*   [PEPack (⭐0)](https://github.com/merces/pev) - PE file packer detection tool, part of the Unix package "pev".
-*   [PINdemonium (⭐225)](https://github.com/Phat3/PINdemonium) - Unpacker for PE files exploiting the capabilities of PIN.
+*   [PEPack (⭐2)](https://github.com/merces/pev) - PE file packer detection tool, part of the Unix package "pev".
+*   [PINdemonium (⭐224)](https://github.com/Phat3/PINdemonium) - Unpacker for PE files exploiting the capabilities of PIN.
 *   [PolyUnpack (⭐11)](https://github.com/PlatonovIvan/PolyUnpack) - Implemention attempt of the general approach for extracting the original hidden code of PE files without any heuristic assumptions.
 *   [PyPackerDetect (⭐27)](https://github.com/cylance/PyPackerDetect) - Small python script/library to detect whether an executable is packed.
 *   [PyPackerDetect (refactored) (⭐16)](https://github.com/dhondta/PyPackerDetect) - A complete refactoring of the original project to a Python package with a console script to detect whether an executable is packed.
 *   [PyPeid (⭐3)](https://github.com/FFRI/pypeid) - Yet another implementation of PEiD with yara-python.
 *   [Quick Unpack](http://qunpack.ahteam.org/?p=458) - Generic unpacker that facilitates the unpacking process.
-*   [Unipacker (⭐569)](https://github.com/unipacker/unipacker) - Automatic and platform-independent unpacker for Windows binaries based on emulation.
+*   [Unipacker (⭐573)](https://github.com/unipacker/unipacker) - Automatic and platform-independent unpacker for Windows binaries based on emulation.
 *   [Uunp (IDA Pro plugin)](https://www.hex-rays.com/blog/unpacking-mpressed-pe-dlls-with-the-bochs-plugin/) - IDA Pro debugger plug-in module automating the analysis and unpacking of packed binaries.
 *   [VirusTotal](https://www.virustotal.com/gui/) - File analysis Web service for detecting malware.
 *   [VMUnpacker](https://www.leechermods.com/2010/01/vmunpacker-16-latest-version.html) - Unpacker based on the technology of virtual machine.

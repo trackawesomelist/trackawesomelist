@@ -8,10 +8,19 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Nov 07, 2023](/content/2023/11/07/README.md)
 
+### Ethics, Philosophical questions and Discussions about Generative AI
+
+*   [We must stop AI replicating the problems of surveillance capitalism](https://www.ft.com/content/d9063c16-a4d2-4580-b8f6-a4872083d0fa)
+*   [Artificial Intelligence at the Service of Collective Intelligence](https://intlekt.io/2023/10/29/artificial-intelligence-at-the-service-of-collective-intelligence/)
+
 ### Inbox: Large Language Models (LLMs)
 
 *   [How AI chatbots like ChatGPT or Bard work – visual explainer | The Guardian](https://www.theguardian.com/technology/ng-interactive/2023/nov/01/how-ai-chatbots-like-chatgpt-or-bard-work-visual-explainer)
 *   \[🔥🔥] [Ollama](https://ollama.ai/): run Llama 2, Code Llama, and other models locally
+
+### LLM Evaluation / Multi-agents
+
+*   [LLM Comparison/Test](https://www.reddit.com/r/LocalLLaMA/comments/17fhp9k/huge_llm_comparisontest_39_models_tested_7b70b/): 39 models tested (7B-70B + ChatGPT/GPT-4)
 
 ### Image Segmentation / Deforum
 
@@ -23,7 +32,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [\[2309.07930\] Generative AI](https://arxiv.org/abs/2309.07930): discusses a model-, system-, and application-level view on generative AI.
 
-### Philosophical questions and Discussions about Generative AI
+### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [New Training Method Helps AI Generalize like People Do - Scientific American](https://www.scientificamerican.com/article/new-training-method-helps-ai-generalize-like-people-do/)
 *   [\[2310.01405\] Representation Engineering: A Top-Down Approach to AI Transparency](https://arxiv.org/abs/2310.01405): "an approach to enhancing the transparency of AI systems that draws on insights from cognitive neuroscience"
@@ -141,7 +150,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Oct 31, 2023](/content/2023/10/31/README.md)
 
-### Philosophical questions and Discussions about Generative AI
+### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [Can Computers Create Art? by Aaron Hertzmann](https://www.mdpi.com/2076-0752/7/2/18): 2018's essay published on the Arts Journal
 
@@ -190,7 +199,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Oct 16, 2023](/content/2023/10/16/README.md)
 
-### Philosophical questions and Discussions about Generative AI
+### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [Redefining Bias: The Human Prejudice Against AI | Medium](https://johnnosta.medium.com/redefining-bias-the-human-prejudice-against-ai-a1f225b0b2c2)
 
@@ -254,7 +263,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Sep 05, 2023](/content/2023/09/05/README.md)
 
-### Philosophical questions and Discussions about Generative AI
+### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [AI Art and its Impact on Artists](https://dl.acm.org/doi/10.1145/3600211.3604681): paper published in the Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society
 
@@ -276,7 +285,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Aug 28, 2023](/content/2023/08/28/README.md)
 
-### Philosophical questions and Discussions about Generative AI
+### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [The AIKEA Effect](https://piszek.com/2023/08/28/aikea-effect/): by Artur Piszek
 
@@ -355,7 +364,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [The state of AI in 2023: Generative AI’s breakout year | McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year#/)
 
-### Philosophical questions and Discussions about Generative AI
+### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [Ethics of Artificial Intelligence: Case Studies and Options for Addressing Ethical Challenges | SpringerLink](https://link.springer.com/book/10.1007/978-3-031-17040-9)
 
@@ -580,7 +589,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jun 20, 2023](/content/2023/06/20/README.md)
 
-### Philosophical questions and Discussions about Generative AI
+### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [Embracing change and resetting expectations | Microsoft Unlocked](https://unlocked.microsoft.com/ai-anthology/terence-tao/): text by Terence Tao
 
@@ -604,7 +613,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jun 18, 2023](/content/2023/06/18/README.md)
 
-### Philosophical questions and Discussions about Generative AI
+### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [Art and the science of generative AI | Science](https://www.science.org/doi/10.1126/science.adh4451)
 
@@ -693,7 +702,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [May 20, 2023](/content/2023/05/20/README.md)
 
-### Philosophical questions and Discussions about Generative AI
+### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [Where AI evolves from here](https://www.axios.com/2023/05/18/ai-agi-artificial-general-intelligence)
 
@@ -990,7 +999,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [The Generative AI Timeline](https://www.linkedin.com/feed/update/urn:li:activity:7044233450295316480): post in Linkedin by David Foster
 
-### Philosophical questions and Discussions about Generative AI
+### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun): notes by Bill Gates
 
@@ -1000,7 +1009,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Mar 22, 2023](/content/2023/03/22/README.md)
 
-### Philosophical questions and Discussions about Generative AI
+### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130): OpenAI's paper that discusses the possible implications of GPTs on the U.S. labor market
 
@@ -1187,7 +1196,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Feb 11, 2023](/content/2023/02/11/README.md)
 
-### Philosophical questions and Discussions about Generative AI
+### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [Why generative AI scares artists but not content writers](https://www.fastcompany.com/90848228/why-generative-ai-scares-artists-but-not-writers)
 
@@ -1203,7 +1212,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Feb 03, 2023](/content/2023/02/03/README.md)
 
-### Philosophical questions and Discussions about Generative AI
+### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [Cultures in AI/AI in Culture](https://ai-cultures.github.io/): NeurIPS 2022 Workshop webpage
 
@@ -1603,7 +1612,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
-### Philosophical questions and Discussions about Generative AI
+### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [AI Data Laundering - Waxy.org](https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/): How Academic and Nonprofit Researchers Shield Tech Companies from Accountability
 *   \[🔥🔥🔥] [(1232) The End of Art: An Argument Against Image AIs - YouTube](https://www.youtube.com/watch?v=tjSxFAGP9Ss\&t=193s): video essay by Steven Zapata
@@ -1684,7 +1693,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Nov 13, 2022](/content/2022/11/13/README.md)
 
-### Philosophical questions and Discussions about Generative AI
+### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   \[🔥🔥🔥] [Generative AI: A Creative New World | Sequoia Capital US/Europe](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/): report by Sequoia Capital about the possible applications of Generative AI
 *   [Synthetic Creativity - by Cavin - Deep Markets](https://deepmarkets.substack.com/p/synthetic-creativity)
@@ -1815,7 +1824,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Sep 21, 2022](/content/2022/09/21/README.md)
 
-### Philosophical questions and Discussions about Generative AI
+### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [Using AI to create art is NOT art! | Reddit : ArtistLounge](https://www.reddit.com/r/ArtistLounge/comments/xczk89/using_ai_to_create_art_is_not_art/)
 *   [Appreciating the Poetic Misunderstandings of A.I. Art | The New Yorker](https://www.newyorker.com/culture/infinite-scroll/appreciating-the-poetic-misunderstandings-of-ai-art?s=09)
@@ -1897,7 +1906,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Dreamer's Guide to Getting Started w/ Stable Diffusion! | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcq819/dreamers_guide_to_getting_started_w_stable/)
 *   [A collection of sites using Stable Diffusion (and other handy links) | Reddit](https://www.reddit.com/r/StableDiffusion/comments/wzj8kk/a_collection_of_sites_using_stable_diffusion_and/)
 
-### Philosophical questions and Discussions about Generative AI
+### Ethics, Philosophical questions and Discussions about Generative AI
 
 *   [Deep Else](https://dejangrba.github.io/deep-else/): A Critical Framework for AI Art
 *   [How Photography Became An Art Form | Aaron Hertzmann’s blog](https://aaronhertzmann.com/2022/08/29/photography-history.html)

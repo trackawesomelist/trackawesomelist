@@ -353,6 +353,7 @@ Collections of awesome neovim plugins.
 *   [gnikdroy/projections.nvim (⭐185)](https://github.com/gnikdroy/projections.nvim) - Tiny project + session manager.
 *   [nyngwang/suave.lua (⭐49)](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation.
 *   [desdic/telescope-rooter.nvim (⭐17)](https://github.com/desdic/telescope-rooter.nvim) - Makes sure to always start telescope (and only telescope) from the project/root directory.
+*   [SalOrak/whaler.nvim (⭐13)](https://github.com/SalOrak/whaler.nvim) - Telescope extension to move between directories blazingly fast.
 
 ## Color
 

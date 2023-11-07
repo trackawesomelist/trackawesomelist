@@ -182,7 +182,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [NullAway (⭐3.4k)](https://github.com/uber/NullAway) - Eliminates NullPointerExceptions with low build-time overhead.
 *   [PMD (⭐4.5k)](https://github.com/pmd/pmd) - Source code analysis for finding bad coding practices.
 *   [p3c (⭐30k)](https://github.com/alibaba/p3c) - Provides Alibaba's coding guidelines for PMD, IDEA and Eclipse.
-*   [RefactorFirst (⭐308)](https://github.com/jimbethancourt/RefactorFirst) - Identifies and prioritizes God Classes and Highly Coupled classes.
+*   [RefactorFirst (⭐313)](https://github.com/jimbethancourt/RefactorFirst) - Identifies and prioritizes God Classes and Highly Coupled classes.
 *   [SonarJava (⭐1k)](https://github.com/SonarSource/sonar-java) - Static analyzer for SonarQube & SonarLint. (LGPL-3.0-only)
 *   [Spoon (⭐1.6k)](https://github.com/INRIA/spoon) - Library for analyzing and transforming Java source code.
 *   [Spotbugs (⭐3.2k)](https://github.com/spotbugs/spotbugs) - Static analysis of bytecode to find potential bugs. (LGPL-2.1-only)
@@ -473,6 +473,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *Libraries for working with geospatial data and algorithms.*
 
 *   [Apache SIS](https://sis.apache.org) - Library for developing geospatial applications.
+*   [ArcGIS Maps SDK for Java ![c] (⭐102)](https://github.com/Esri/arcgis-maps-sdk-java-samples/) - JavaFX library for adding mapping and GIS functionality to desktop apps.
 *   [Geo (⭐399)](https://github.com/davidmoten/geo) - GeoHash utilities in Java.
 *   [GeoTools](https://geotools.org) - Library that provides tools for geospatial data. (LGPL-2.1-only)
 *   [GraphHopper (⭐4.4k)](https://github.com/graphhopper/graphhopper) - Road-routing engine. Used as a Java library or standalone web service.
@@ -636,6 +637,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [Intelligent java (⭐60)](https://github.com/Barqawiz/IntelliJava) - Seamlessly integrate with remote deep learning and language models programmatically.
 *   [JSAT (⭐772)](https://github.com/EdwardRaff/JSAT) - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution. (GPL-3.0-only)
 *   [m2cgen (⭐2.6k)](https://github.com/BayesWitnesses/m2cgen) - CLI tool to transpile models into native code.
+*   [Neureka (⭐53)](https://github.com/Gleethos/neureka) - A lightweight, platform independent, OpenCL accelerated nd-array/tensor library.
 *   [oj! Algorithms](https://www.ojalgo.org/) - High-performance mathematics, linear algebra and optimisation needed for data science, machine learning and scientific computing.
 *   [Oryx 2 (⭐1.8k)](https://github.com/OryxProject/oryx) - Framework for building real-time, large-scale machine learning applications. Includes end-to-end applications for collaborative filtering, classification, regression, and clustering.
 *   [Siddhi (⭐1.5k)](https://github.com/siddhi-io/siddhi) - Cloud native streaming and complex event processing engine.
@@ -737,7 +739,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [Dropwizard Metrics (⭐7.8k)](https://github.com/dropwizard/metrics) - Expose metrics via JMX or HTTP and send them to a database.
 *   [Failsafe Actuator (⭐52)](https://github.com/zalando/failsafe-actuator) - Out of the box monitoring of Failsafe Circuit Breaker in Spring-Boot environment.
 *   [Glowroot](https://glowroot.org) - Open-source Java APM.
-*   [HertzBeat (⭐3.6k)](https://github.com/dromara/hertzbeat) - Real-time monitoring system with custom-monitor and agentless.
+*   [HertzBeat (⭐3.7k)](https://github.com/dromara/hertzbeat) - Real-time monitoring system with custom-monitor and agentless.
 *   [hippo4j (⭐4.8k)](https://github.com/opengoofy/hippo4j/blob/develop/README-EN.md) - Dynamic and observable thread pool framework.
 *   [inspectIT](https://www.inspectit.rocks) - Captures detailed run-time information via hooks that can be changed on the fly. It supports tracing over multiple systems via the OpenTracing API and can correlate the data with end user monitoring.
 *   [Instrumental ![c]](https://instrumentalapp.com) - Real-time Java application performance monitoring. A commercial service with free development accounts.
@@ -1056,8 +1058,8 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [ConcurrentUnit (⭐412)](https://github.com/jhalterman/concurrentunit) - Toolkit for testing multi-threaded and asynchronous applications.
 *   [GreenMail](https://greenmail-mail-test.github.io/greenmail/) - In-memory email server for integration testing. Supports SMTP, POP3 and IMAP including SSL. (GPL-2.0-only)
 *   [Hoverfly Java (⭐163)](https://github.com/SpectoLabs/hoverfly-java) - Native bindings for Hoverfly, a proxy which allows you to simulate HTTP services.
-*   [Karate (⭐7.4k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
-*   [REST Assured (⭐6.5k)](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
+*   [Karate (⭐7.5k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
+*   [REST Assured (⭐6.6k)](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
 *   [WebTau (⭐345)](https://github.com/testingisdocumenting/webtau) - Test across REST-API, Graph QL, Browser, Database, CLI and Business Logic with consistent set of matchers and concepts.
 
 #### BDD
@@ -1199,7 +1201,7 @@ A curated list of awesome Java frameworks, libraries and software.
 ### Workflow Orchestration Engines
 
 *   [Cadence](https://cadenceworkflow.io) - Stateful code platform from Uber.
-*   [flowable (⭐6.8k)](https://github.com/flowable/flowable-engine) - Compact and efficient workflow and business process management platform.
+*   [flowable (⭐6.9k)](https://github.com/flowable/flowable-engine) - Compact and efficient workflow and business process management platform.
 *   [Temporal](https://temporal.io) - Microservice orchestration platform, forked from Cadence but gRPC based.
 
 ## Resources
@@ -1215,7 +1217,7 @@ A curated list of awesome Java frameworks, libraries and software.
 *   [Awesome JVM (⭐2k)](https://github.com/deephacks/awesome-jvm)
 *   [Awesome Microservices (⭐13k)](https://github.com/mfornos/awesome-microservices)
 *   [Awesome REST (⭐3.5k)](https://github.com/marmelab/awesome-rest)
-*   [Awesome Selenium (⭐945)](https://github.com/christian-bromann/awesome-selenium)
+*   [Awesome Selenium (⭐951)](https://github.com/christian-bromann/awesome-selenium)
 *   [ciandcd (⭐1.7k)](https://github.com/ciandcd/awesome-ciandcd)
 *   [Useful Java Links (⭐5.6k)](https://github.com/Vedenin/useful-java-links)
 *   [Java Concurrency Checklist (⭐1.2k)](https://github.com/code-review-checklists/java-concurrency)

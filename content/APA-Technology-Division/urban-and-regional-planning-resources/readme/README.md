@@ -279,6 +279,7 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 
 ### Travel Behavior
 
+*   [AirSage](https://airsage.com/) - AirSage is a well-known provider of location based services and GPS data from cell phones operating in the space since 2000.
 *   [Replica](https://replicahq.com/platform) - Replica is a data platform providing rich origin-destination, spend, and scenario impact analysis based on an activity based modeling process.
 *   [SafeGraph](https://www.safegraph.com/) - Points of interest (POI) provider providing information on destination locations and their characteristics such as spending rates in the United States.
 *   [WeJo](https://www.wejo.com/) - Wejo has made it simple and secure to share and access connected car data, on a global scale. This data can be used for everything from origin-destination analysis, safety & speed studies, and more.
@@ -351,7 +352,7 @@ Python Libraries & Related Resources.
 *   [StreetTraffic (⭐26)](https://github.com/streettraffic/streettraffic) - StreetTraffic is a Python package that crawls the traffic flow data of your favorite routes, cities by using the API provided by HERE.
 *   [PySAL](https://pysal.org) - The Python Spatial Analysis Library is a collection of algorithms for exploring spatial correlations and other spatial relationships.
 *   [city-seer-api](https://cityseer.benchmarkurbanism.com/) - A package for pedestrian-scale network-based urban analysis: network analysis, urban morphology, land use, accessibility, and statistical aggregations.
-*   [Geemap (⭐2.9k)](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
+*   [Geemap (⭐3k)](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
 *   [Geoplot](https://residentmario.github.io/geoplot/) - Geoplot is a high-level Python geospatial plotting library. It is an extension to cartopy and matplotlib which makes mapping easy: like seaborn for geospatial.
 *   [Gleam (⭐245)](https://github.com/dgrtwo/gleam) - A plotting library inspired by R-Shiny to create interactive plots.
 *   [Urbansprawl (⭐69)](https://github.com/lgervasoni/urbansprawl) - The urbansprawl project provides an open source framework for assessing urban sprawl using open data. It uses OpenStreetMap (OSM) data to calculate its sprawling indices, divided in Accessibility, Land use mix, and Dispersion.

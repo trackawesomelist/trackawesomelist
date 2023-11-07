@@ -6,6 +6,16 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 [ [Daily](/content/akullpp/awesome-java/README.md) / Weekly / [Overview](/content/akullpp/awesome-java/readme/README.md) ]
 
+## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
+
+### Geospatial / Text-Based User Interfaces
+
+*   [ArcGIS Maps SDK for Java ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg) (⭐102)](https://github.com/Esri/arcgis-maps-sdk-java-samples/) - JavaFX library for adding mapping and GIS functionality to desktop apps.
+
+### Machine Learning / Text-Based User Interfaces
+
+*   [Neureka (⭐53)](https://github.com/Gleethos/neureka) - A lightweight, platform independent, OpenCL accelerated nd-array/tensor library.
+
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
 ### CLI / Argument Parsing
@@ -44,7 +54,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Code Analysis / Text-Based User Interfaces
 
-*   [RefactorFirst (⭐308)](https://github.com/jimbethancourt/RefactorFirst) - Identifies and prioritizes God Classes and Highly Coupled classes.
+*   [RefactorFirst (⭐313)](https://github.com/jimbethancourt/RefactorFirst) - Identifies and prioritizes God Classes and Highly Coupled classes.
 
 ### Code Generators / Text-Based User Interfaces
 
@@ -201,7 +211,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Monitoring / Text-Based User Interfaces
 
-*   [HertzBeat (⭐3.6k)](https://github.com/dromara/hertzbeat) - Real-time monitoring system with custom-monitor and agentless.
+*   [HertzBeat (⭐3.7k)](https://github.com/dromara/hertzbeat) - Real-time monitoring system with custom-monitor and agentless.
 
 ### Template Engine / Other
 
@@ -345,7 +355,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Workflow Orchestration Engines / Mocking
 
-*   [flowable (⭐6.8k)](https://github.com/flowable/flowable-engine) - Compact and efficient workflow and business process management platform.
+*   [flowable (⭐6.9k)](https://github.com/flowable/flowable-engine) - Compact and efficient workflow and business process management platform.
 
 ## [Jul 26 - Aug 01, 2021](/content/2021/30/README.md)
 
@@ -661,7 +671,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Testing / Asynchronous
 
-*   [Karate (⭐7.4k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
+*   [Karate (⭐7.5k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
 
 ## [Feb 03 - Feb 09, 2020](/content/2020/5/README.md)
 
@@ -1021,7 +1031,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 ### Testing / Asynchronous
 
 *   [Awaitility (⭐3.6k)](https://github.com/awaitility/awaitility) - DSL for synchronizing asynchronous operations.
-*   [REST Assured (⭐6.5k)](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
+*   [REST Assured (⭐6.6k)](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
 
 ### Testing / BDD
 
@@ -1924,7 +1934,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 *   [Awesome JVM (⭐2k)](https://github.com/deephacks/awesome-jvm)
 *   [Awesome Microservices (⭐13k)](https://github.com/mfornos/awesome-microservices)
 *   [Awesome REST (⭐3.5k)](https://github.com/marmelab/awesome-rest)
-*   [Awesome Selenium (⭐945)](https://github.com/christian-bromann/awesome-selenium)
+*   [Awesome Selenium (⭐951)](https://github.com/christian-bromann/awesome-selenium)
 *   [ciandcd (⭐1.7k)](https://github.com/ciandcd/awesome-ciandcd)
 *   [Useful Java Links (⭐5.6k)](https://github.com/Vedenin/useful-java-links)
 

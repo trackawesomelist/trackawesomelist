@@ -6,6 +6,12 @@ A curated list of Artificial Intelligence Top Tools
 
 [ [Daily](/content/mahseema/awesome-ai-tools/README.md) / Weekly / [Overview](/content/mahseema/awesome-ai-tools/readme/README.md) ]
 
+## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
+
+### Image / Image libraries
+
+*   [Canva](https://www.canva.com/ai-image-generator/) - Generating AI Images.
+
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
 ### Text / Models

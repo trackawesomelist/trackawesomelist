@@ -144,8 +144,10 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 *   [AI-Generated Art](https://www.v7labs.com/blog/ai-generated-art): From Text to Images & Beyond Examples
 *   [1 week of Stable Diffusion | multimodal.art](https://multimodal.art/news/1-week-of-stable-diffusion)
 
-## Philosophical questions and Discussions about Generative AI
+## Ethics, Philosophical questions and Discussions about Generative AI
 
+*   [We must stop AI replicating the problems of surveillance capitalism](https://www.ft.com/content/d9063c16-a4d2-4580-b8f6-a4872083d0fa)
+*   [Artificial Intelligence at the Service of Collective Intelligence](https://intlekt.io/2023/10/29/artificial-intelligence-at-the-service-of-collective-intelligence/)
 *   [New Training Method Helps AI Generalize like People Do - Scientific American](https://www.scientificamerican.com/article/new-training-method-helps-ai-generalize-like-people-do/)
 *   [\[2310.01405\] Representation Engineering: A Top-Down Approach to AI Transparency](https://arxiv.org/abs/2310.01405): "an approach to enhancing the transparency of AI systems that draws on insights from cognitive neuroscience"
 *   [Generative AI Resources for Berkeley Law Faculty & Staff - Berkeley Law](https://www.law.berkeley.edu/library/legal-research/chatgpt/)
@@ -545,6 +547,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+*   [LLM Comparison/Test](https://www.reddit.com/r/LocalLLaMA/comments/17fhp9k/huge_llm_comparisontest_39_models_tested_7b70b/): 39 models tested (7B-70B + ChatGPT/GPT-4)
 *   [LLM Evaluation at Scale – Airtrain](https://www.airtrain.ai/): no-code batch compute platform for LLM evaluation and tuning workloads
 *   [How to evaluate a summarization task | OpenAI Cookbook](https://cookbook.openai.com/examples/evaluation/how_to_eval_abstractive_summarization)
 *   [openai/evals (⭐12k)](https://github.com/openai/evals): Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
