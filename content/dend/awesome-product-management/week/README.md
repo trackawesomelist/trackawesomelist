@@ -6,6 +6,13 @@
 
 [ [Daily](/content/dend/awesome-product-management/README.md) / Weekly / [Overview](/content/dend/awesome-product-management/readme/README.md) ]
 
+## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
+
+### Articles / Obsidian
+
+*   [Don't Give Your Users Shit Work ](https://zachholman.com/posts/shit-work/) - By [Zach Holman](https://zachholman.com/about).
+*   [Mud Rooms, Red Letters, and Real Priorities](https://www.43folders.com/2009/04/28/priorities) - By [Merlin Mann](https://www.43folders.com/about).
+
 ## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
 
 ### Articles / Obsidian
