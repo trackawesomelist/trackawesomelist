@@ -11,6 +11,7 @@ A curated list of Generative AI tools, works, models, and references
 ### Inbox: Large Language Models (LLMs)
 
 *   [The architecture of today's LLM applications - The GitHub Blog](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/)
+*   \[🔥🔥] [State of LLM Apps 2023 · Streamlit](https://state-of-llm.streamlit.app/)
 *   [Demystifying LLMs: How they can do things they weren't trained to do - The GitHub Blog](https://github.blog/2023-10-27-demystifying-llms-how-they-can-do-things-they-werent-trained-to-do/)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI

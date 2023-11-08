@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [SalOrak/whaler.nvim (⭐15)](https://github.com/SalOrak/whaler.nvim) - Telescope extension to move between directories blazingly fast.
 
+### Motion / Diagnostics
+
+*   [xiaoshihou514/squirrel.nvim (⭐1)](https://github.com/xiaoshihou514/squirrel.nvim) - Quickly jump between tree-sitter nodes.
+
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
 ### (requires Neovim 0.5)
@@ -56,11 +60,11 @@ Collections of awesome neovim plugins.
 
 ### Motion / Diagnostics
 
-*   [smoka7/hop.nvim (⭐95)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
+*   [smoka7/hop.nvim (⭐127)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
 
 ### Indent / Diagnostics
 
-*   [VidocqH/auto-indent.nvim (⭐2)](https://github.com/VidocqH/auto-indent.nvim) - Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode.
+*   [VidocqH/auto-indent.nvim (⭐25)](https://github.com/VidocqH/auto-indent.nvim) - Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode.
 
 ### Preconfigured Configuration / Diagnostics
 

@@ -8,6 +8,10 @@ A curated list of Artificial Intelligence Top Tools
 
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
+### Image / Services
+
+*   [VectorArt.ai](https://vectorart.ai) - Create vector images with AI.
+
 ### Image / Image libraries
 
 *   [Canva](https://www.canva.com/ai-image-generator/) - Generating AI Images.

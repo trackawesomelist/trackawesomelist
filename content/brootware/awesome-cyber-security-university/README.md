@@ -2,9 +2,19 @@
 
 🎓 Because Education should be free. Contributions welcome! 🕵️ 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 488 · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 982 · 🏷️ Security
 
 [ Daily / [Weekly](/content/brootware/awesome-cyber-security-university/week/README.md) / [Overview](/content/brootware/awesome-cyber-security-university/readme/README.md) ]
+
+## [Nov 08, 2023](/content/2023/11/08/README.md)
+
+### Free Beginner Red Team Path / Level 2 - Tooling
+
+*   [Nmap,Curl and Netcat](https://echoctf.red/challenge/1) - Get experience with Nmap, Curl and Netcat for network communications.
+
+### Free Beginner Blue Team Path / Level 3 - Beginner Forensics, Threat Intel & Cryptography
+
+*   [Intel101 Challenge](https://cyberdefenders.org/blueteam-ctf-challenges/38) - Medium level Threat Intel challenge.
 
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
@@ -88,7 +98,7 @@
 *   [Investigating Windows](https://tryhackme.com/room/investigatingwindows) - Investigating Windows.
 *   [Squid Game](https://tryhackme.com/room/squidgameroom) - Squid game-themed CTF.
 
-### Free Beginner Blue Team Path / Level 3 - Beginner Forensics & Cryptography
+### Free Beginner Blue Team Path / Level 3 - Beginner Forensics, Threat Intel & Cryptography
 
 *   [The Glory of the Garden](https://play.picoctf.org/practice/challenge/44?category=4\&page=1\&solved=0) - Beginner image analysis challenge.
 *   [Emo](https://app.hackthebox.com/challenges/emo) - Medium level forensics challenge.
@@ -143,7 +153,6 @@
 ### Free Beginner Red Team Path / Level 2 - Tooling
 
 *   [Tmux](https://tryhackme.com/room/rptmux) - Learn to use tmux, one of the most powerful multi-tasking tools on linux.
-*   [Nmap](https://tryhackme.com/room/rpnmap) - Get experience with Nmap, a powerful network scanning tool.
 *   [Web Scanning](https://tryhackme.com/room/rpwebscanning) - Learn the basics of automated web scanning.
 *   [Sublist3r](https://tryhackme.com/room/rpsublist3r) - Learn how to find subdomains with Sublist3r.
 *   [Metasploit](https://tryhackme.com/room/rpmetasploit) - An introduction to the main components of the Metasploit Framework.
@@ -207,7 +216,7 @@
 *   [Splunk Boss of the SOC V2](https://cyberdefenders.org/blueteam-ctf-challenges/16) - Splunk analysis vol 2.
 *   [Splunk Boss of the SOC V3](https://cyberdefenders.org/blueteam-ctf-challenges/8) - Splunk analysis vol 3.
 
-### Free Beginner Blue Team Path / Level 3 - Beginner Forensics & Cryptography
+### Free Beginner Blue Team Path / Level 3 - Beginner Forensics, Threat Intel & Cryptography
 
 *   [Martryohka doll](https://play.picoctf.org/practice/challenge/129?category=4\&page=1\&solved=0) - Beginner file analysis challenge.
 *   [Packets Primer](https://play.picoctf.org/practice/challenge/286?category=4\&page=2\&solved=0) - Beginner packet analysis challenge.
@@ -216,7 +225,6 @@
 *   [Trivial flag transfer protocol](https://play.picoctf.org/practice/challenge/103?category=4\&page=1\&solved=0) - Beginner packet analysis challenge.
 *   [What Lies within](https://play.picoctf.org/practice/challenge/74?category=4\&page=2\&solved=0) - Beginner decoding analysis challenge.
 *   [Illumination](https://app.hackthebox.com/challenges/illumination) - Medium level forensics challenge.
-*   [Bucket - Cloud Security Forensics](https://cyberdefenders.org/blueteam-ctf-challenges/84) - Medium level cloud security challenge.
 *   [Introduction to Cryptohack](https://cryptohack.org/courses/intro/course_details/) - Medium level cryptography challenge.
 
 ### Free Beginner Blue Team Path / Level 4 - Memory & Disk Forensics
