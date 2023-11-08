@@ -6,7 +6,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 [ Daily / [Weekly](/content/akullpp/awesome-java/week/README.md) / [Overview](/content/akullpp/awesome-java/readme/README.md) ]
 
-## [Nov 07, 2023](/content/2023/11/07/README.md)
+## [Nov 08, 2023](/content/2023/11/08/README.md)
 
 ### Geospatial / Text-Based User Interfaces
 

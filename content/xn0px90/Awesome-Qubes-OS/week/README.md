@@ -6,6 +6,16 @@ A curated list of awesome qubes os links
 
 [ [Daily](/content/xn0px90/Awesome-Qubes-OS/README.md) / Weekly / [Overview](/content/xn0px90/Awesome-Qubes-OS/readme/README.md) ]
 
+## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
+
+### Exploitation Tools / Unikernel-like
+
+*   [Hyperdbg (⭐2.4k)](https://github.com/HyperDbg/HyperDbg) - HyperDbg Debugger is an open-source, community-driven, hypervisor-assisted, user-mode, and kernel-mode Windows debugger with a focus on using modern hardware technologies. It is a debugger designed for analyzing, fuzzing, and reversing.
+
+### Optics and Extra Info / Unikernel-like
+
+*   [Hipervisor From Scratch (⭐1.7k)](https://github.com/SinaKarvandi/Hypervisor-From-Scratch)- Source code of a multiple series of tutorials about the hypervisor.
+
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
 ### Optics and Extra Info / Unikernel-like

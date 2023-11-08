@@ -2,7 +2,7 @@
 
 A curated list of awesome resources related to executable packing
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/packing-box/awesome-executable-packing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 packing-box/awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) · ⭐ 915 · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/packing-box/awesome-executable-packing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 packing-box/awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) · ⭐ 916 · 🏷️ Security
 
 [ [Daily](/content/packing-box/awesome-executable-packing/README.md) / Weekly / [Overview](/content/packing-box/awesome-executable-packing/readme/README.md) ]
 
@@ -287,7 +287,7 @@ A curated list of awesome resources related to executable packing
 *   :earth\_americas: [elf (FreeBSD manual pages)](https://www.freebsd.org/cgi/man.cgi?elf\(5\))
 *   :earth\_americas: [FatELF: Universal binaries for Linux (HALTED)](https://icculus.org/fatelf)
 *   :pushpin: [Mach-O - A look at apple executable files](https://redmaple.tech/blogs/macho-files)
-*   :earth\_americas: [Mach-O file format reference (⭐685)](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
+*   :earth\_americas: [Mach-O file format reference (⭐686)](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
 *   :earth\_americas: [MITRE ATT\&CK | T1027.002 | obfuscated files or information: Software packing](https://attack.mitre.org/techniques/T1027/002)
 *   :pushpin: [Parsing mach-O files](https://lowlevelbits.org/parsing-mach-o-files)
 
@@ -409,7 +409,7 @@ A curated list of awesome resources related to executable packing
 *   [LIEF (⭐3.9k)](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats ; Python package for parsing PE, ELF, Mach-O and DEX formats, modifying and rebuilding executables.
 *   [PCjs](https://www.pcjs.org) - PCjs uses JavaScript to recreate the IBM PC experience, using original ROMs, CPUs running at their original speeds, and early IBM video cards and monitors.
 *   [PEscan](https://tzworks.com/prototype_page.php?proto_id=15) - CLI tool to scan PE files to identify how they were constructed.
-*   [PETools (⭐890)](https://github.com/petoolse/petools) - Old-school reverse engineering tool (with a long history since 2002) for manipulating PE files.
+*   [PETools (⭐891)](https://github.com/petoolse/petools) - Old-school reverse engineering tool (with a long history since 2002) for manipulating PE files.
 *   [RDG Packer Detector](http://www.rdgsoft.net) - Packer detection tool.
 *   [Reko (⭐1.8k)](https://github.com/uxmal/reko) - Free decompiler for machine code binaries.
 *   [RetDec (⭐7.5k)](https://github.com/avast/retdec) - Retargetable machine-code decompiler based on LLVM.
@@ -739,7 +739,7 @@ A curated list of awesome resources related to executable packing
 *   [EXETools](https://forum.exetools.com) - Forum for reverse engineering and executale packing related topics.
 *   [Justin](https://doi.org/10.1007/978-3-540-87403-4_6) - Just-In-Time AV scanning ; generic unpacking solution.
 *   [Malheur (⭐353)](https://github.com/rieck/malheur) - Tool for the automatic analysis of malware behavior (recorded from malicious software in a sandbox environment).
-*   [MalUnpack (⭐564)](https://github.com/hasherezade/mal_unpack) - Dynamic unpacker based on PE-sieve.
+*   [MalUnpack (⭐565)](https://github.com/hasherezade/mal_unpack) - Dynamic unpacker based on PE-sieve.
 *   [OEPdet](https://ieeexplore.ieee.org/abstract/document/7782073) - Automated original-entry-point detector.
 *   [OllyDbg Scripts (⭐6)](https://github.com/xshows/ollydbg-script) - Collection of OllyDbg scripts for unpacking many different packers.
 *   [OmniUnpack](https://doi.org/10.1109/ACSAC.2007.15) - New technique for fast, generic, and safe unpacking of malware by monitoring the execution in real-time and detecting the removed layers of packing.
@@ -760,7 +760,7 @@ A curated list of awesome resources related to executable packing
 
 ### :bookmark_tabs: Datasets / Scientific Research
 
-*   [Ember (⭐846)](https://github.com/elastic/ember) - Collection of features from PE files that serve as a benchmark dataset for researchers.
+*   [Ember (⭐847)](https://github.com/elastic/ember) - Collection of features from PE files that serve as a benchmark dataset for researchers.
 *   [MalShare](https://malshare.com) - Free Malware repository providing researchers access to samples, malicious feeds, and Yara results.
 *   [MalwareGallery](https://github.com/BaRRaKudaRain/MalwareGallery) - Yet another malware collection in the Internet.
 *   [PackingData (⭐5)](https://github.com/chesvectain/PackingData) - Original dataset with sample PE files packed with a large variety of packers, including ASPack, BeRoEXEPacker, exe32pack, eXpressor, FSG, JDPack, MEW, Molebox, MPRESS, Neolite, NSPack, Pckman, PECompact, PEtite, RLPack, UPX, WinUpack, Yoda's Crypter and Yoda's Protector.
@@ -798,7 +798,7 @@ A curated list of awesome resources related to executable packing
 *   [BitBlaze](http://bitblaze.cs.berkeley.edu/release/index.html) - Analysis platform that features a novel fusion of static and dynamic analysis techniques, mixed concrete and symbolic execution, and whole-system emulation and binary instrumentation, all to facilitate state-of-the art research on real security problems.
 *   [Clamscan Unpacker](https://clamunpacker.sourceforge.io/) - Unpacker derived from ClamAV.
 *   [de4js (⭐1.2k)](https://github.com/lelinhtinh/de4js) - JavaScript Deobfuscator and Unpacker.
-*   [EXEInfo-PE (⭐491)](https://github.com/ExeinfoASL/ASL) - Fast detector for executable PE files.
+*   [EXEInfo-PE (⭐492)](https://github.com/ExeinfoASL/ASL) - Fast detector for executable PE files.
 *   [GUnpacker](http://qunpack.ahteam.org/?p=327) - Shell tool that performs OEP positioning and dumps decrypted code.
 *   [Manalyze (⭐947)](https://github.com/JusticeRage/Manalyze) - Robust parser for PE files with a flexible plugin architecture which allows users to statically analyze files in-depth.
 *   [PackerAttacker (⭐260)](https://github.com/BromiumLabs/PackerAttacker) - Tool that uses memory and code hooks to detect packers.
@@ -810,7 +810,7 @@ A curated list of awesome resources related to executable packing
 *   [PEiD (yara) (⭐14)](https://github.com/K-atc/PEiD) - Yet another implementation of PEiD with yara.
 *   [PeLib (⭐61)](https://github.com/avast/pelib) - PE file manipulation library.
 *   [PEPack (⭐2)](https://github.com/merces/pev) - PE file packer detection tool, part of the Unix package "pev".
-*   [PINdemonium (⭐224)](https://github.com/Phat3/PINdemonium) - Unpacker for PE files exploiting the capabilities of PIN.
+*   [PINdemonium (⭐223)](https://github.com/Phat3/PINdemonium) - Unpacker for PE files exploiting the capabilities of PIN.
 *   [PolyUnpack (⭐11)](https://github.com/PlatonovIvan/PolyUnpack) - Implemention attempt of the general approach for extracting the original hidden code of PE files without any heuristic assumptions.
 *   [PyPackerDetect (⭐27)](https://github.com/cylance/PyPackerDetect) - Small python script/library to detect whether an executable is packed.
 *   [PyPackerDetect (refactored) (⭐16)](https://github.com/dhondta/PyPackerDetect) - A complete refactoring of the original project to a Python package with a console script to detect whether an executable is packed.

@@ -6,6 +6,13 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Nov 08, 2023](/content/2023/11/08/README.md)
+
+### Meetups / Libraries for creating HTTP middlewares
+
+*   [Bärner Go Meetup - Berne, Switzerland](https://www.meetup.com/berner-go-meetup/)
+*   [Zürich Gophers - Zurich, Switzerland](https://www.meetup.com/zurich-gophers/)
+
 ## [Nov 07, 2023](/content/2023/11/07/README.md)
 
 ### Code Analysis / Libraries for creating HTTP middlewares
@@ -13,11 +20,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [golangci-lint (⭐13k)](https://github.com/golangci/golangci-lint) – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included.
 *   [revive (⭐4.4k)](https://github.com/mgechev/revive) – \~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for `golint`.
 *   [testifylint (⭐16)](https://github.com/Antonboom/testifylint) – A linter that checks usage of [github.com/stretchr/testify (⭐21k)](https://github.com/stretchr/testify).
-
-### Meetups / Libraries for creating HTTP middlewares
-
-*   [Bärner Go Meetup - Berne, Switzerland](https://www.meetup.com/berner-go-meetup/)
-*   [Zürich Gophers - Zurich, Switzerland](https://www.meetup.com/zurich-gophers/)
 
 ## [Nov 03, 2023](/content/2023/11/03/README.md)
 
@@ -1795,7 +1797,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [parseargs-go (⭐10)](https://github.com/nproc/parseargs-go) - string argument parser that understands quotes and backslashes.
 *   [parth (⭐44)](https://github.com/codemodus/parth) - URL path segmentation parsing.
 *   [sdp (⭐112)](https://github.com/gortc/sdp) - SDP: Session Description Protocol \[[RFC 4566](https://tools.ietf.org/html/rfc4566)].
-*   [sh (⭐6.2k)](https://github.com/mvdan/sh) - Shell parser and formatter.
+*   [sh (⭐6.3k)](https://github.com/mvdan/sh) - Shell parser and formatter.
 *   [when (⭐1.3k)](https://github.com/olebedev/when) - Natural EN and RU language date/time parser with pluggable rules.
 *   [xj2go (⭐34)](https://github.com/stackerzzq/xj2go) - Convert xml or json to go struct.
 

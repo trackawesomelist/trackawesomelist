@@ -6,7 +6,7 @@ Community list of data & technology resources concerning the built environment a
 
 [ Daily / [Weekly](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md) / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
 
-## [Nov 07, 2023](/content/2023/11/07/README.md)
+## [Nov 08, 2023](/content/2023/11/08/README.md)
 
 ### Vendor Data Resources / Travel Behavior
 
