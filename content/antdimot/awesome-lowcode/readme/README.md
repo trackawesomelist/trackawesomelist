@@ -2,7 +2,7 @@
 
 A collection of Awesome low-code development platform (LCDP).
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 260 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 268 · 🏷️ Miscellaneous
 
 [ [Daily](/content/antdimot/awesome-lowcode/README.md) / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / Overview ]
 
@@ -61,6 +61,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Hookdeck](https://hookdeck.com/) - Never miss a webhook.
 *   [Ifttt](https://ifttt.com/) - Helps your apps and devices work together in new ways.
 *   [Impira](https://www.impira.com/) - Grab data from any document in seconds with Impira’s no-code platform powered by machine learning.
+*   [IoTCatalyst](https://www.iotcatalyst.com) - A Low Code/No Code IoT Edge Platform that offers IoT DevOps and IoT Device Management tools to make the IoT simpler.
 *   [joonbot](https://joonbot.com/) - Make a chatbot in minutes with our intuitive no-code chatbot builder.
 *   [Kissflow](https://kissflow.com) - The full spectrum of work on one platform.
 *   [Memberstack](https://www.memberstack.com/) - Authentication & payments for companies who love Webflow, Stripe, & React.
@@ -176,7 +177,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Shopify](https://shopify.com/) - Build your business.
 *   [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds.
 *   [Stripe](https://stripe.com) - The new standard in online payments.
-*   [ToolJet (⭐24k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
+*   [ToolJet (⭐25k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
 *   [Vantiq](https://vantiq.com/) - The Only Low Code Platform for Real Time Systems.
 *   [Voiceflow](https://www.voiceflow.com/) - Design, prototype and build voice apps.
 *   [Zendesk](https://www.zendesk.com/) - Build the best customer experiences.

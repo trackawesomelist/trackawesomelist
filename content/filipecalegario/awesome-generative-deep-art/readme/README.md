@@ -105,6 +105,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Generative AI history, maps, and definitions
 
+*   [Emerging Trends in Generative AI Research: A Selection of Recent Papers](https://txt.cohere.com/top-nlp-papers-september-2023/)
 *   [The architecture of today's LLM applications - The GitHub Blog](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/)
 *   \[🔥🔥🔥] [\[2310.07127\] An HCI-Centric Survey and Taxonomy of Human-Generative-AI Interactions](https://arxiv.org/abs/2310.07127): "a survey of 154 papers, providing a novel taxonomy and analysis of Human-GenAI Interactions from both human and Gen-AI perspectives".
 *   [The Building Blocks of Generative AI | by Jonathan Shriftman | Medium](https://shriftman.medium.com/the-building-blocks-of-generative-ai-a75350466a2f)
@@ -919,6 +920,9 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
 
 # Multimodal
+
+*   [NExT-Chat: An LMM for Chat, Detection and Segmentation](https://huggingface.co/papers/2311.04498)
+*   [roboflow/awesome-openai-vision-api-experiments (⭐482)](https://github.com/roboflow/awesome-openai-vision-api-experiments): Examples showing how to use the OpenAI vision API to run inference on images, video files and webcam streams
 
 ## Multimodal Embedding Space
 

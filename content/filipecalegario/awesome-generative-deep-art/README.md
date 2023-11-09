@@ -8,6 +8,10 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Nov 09, 2023](/content/2023/11/09/README.md)
 
+### Generative AI history, maps, and definitions
+
+*   [Emerging Trends in Generative AI Research: A Selection of Recent Papers](https://txt.cohere.com/top-nlp-papers-september-2023/)
+
 ### Inbox: Large Language Models (LLMs)
 
 *   \[🔥🔥] [State of LLM Apps 2023 · Streamlit](https://state-of-llm.streamlit.app/)
@@ -25,6 +29,8 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Vaibhavs10/insanely-fast-whisper (⭐1.1k)](https://github.com/Vaibhavs10/insanely-fast-whisper): accelerates transcription with the combination of OpenAI's Whisper Large v2, HF Transformers, Optimum, and flash attention
 *   [deepseek-ai/DeepSeek-Coder (⭐2k)](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
+*   [NExT-Chat: An LMM for Chat, Detection and Segmentation](https://huggingface.co/papers/2311.04498)
+*   [roboflow/awesome-openai-vision-api-experiments (⭐482)](https://github.com/roboflow/awesome-openai-vision-api-experiments): Examples showing how to use the OpenAI vision API to run inference on images, video files and webcam streams
 
 ## [Nov 08, 2023](/content/2023/11/08/README.md)
 
