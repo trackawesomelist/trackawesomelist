@@ -2,7 +2,7 @@
 
 🎓 Because Education should be free. Contributions welcome! 🕵️ 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 982 · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 984 · 🏷️ Security
 
 [ [Daily](/content/brootware/awesome-cyber-security-university/README.md) / Weekly / [Overview](/content/brootware/awesome-cyber-security-university/readme/README.md) ]
 

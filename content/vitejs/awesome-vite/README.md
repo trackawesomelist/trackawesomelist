@@ -6,11 +6,13 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
-## [Nov 08, 2023](/content/2023/11/08/README.md)
+## [Nov 09, 2023](/content/2023/11/09/README.md)
 
 ### Templates / Vue 3
 
-*   [vue-file-upload (⭐4)](https://github.com/canopas/vue-file-upload) - A file management system built with `Vue3` and `TypeScript` that allows for single and multiple file uploading with a preview feature.
+*   [vue-file-upload (⭐6)](https://github.com/canopas/vue-file-upload) - A file management system built with `Vue3` and `TypeScript` that allows for single and multiple file uploading with a preview feature.
+
+## [Nov 08, 2023](/content/2023/11/08/README.md)
 
 ### Templates / React
 

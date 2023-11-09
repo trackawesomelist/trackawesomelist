@@ -6,11 +6,15 @@
 
 [ Daily / [Weekly](/content/kdeldycke/awesome-falsehood/week/README.md) / [Overview](/content/kdeldycke/awesome-falsehood/readme/README.md) ]
 
-## [Nov 08, 2023](/content/2023/11/08/README.md)
+## [Nov 09, 2023](/content/2023/11/09/README.md)
 
 ### Internationalization
 
 *   [Localization Failure: Temperature is Hard](https://randomascii.wordpress.com/2023/10/17/localization-failure-temperature-is-hard/) - You cannot localize temperature differences as-is.
+
+### Postal Addresses
+
+*   [UK Address Oddities](https://paulplowman.com/stuff/uk-address-oddities/) - Quirks extracted from a list of most residential property sales in England and Wales since 1995.
 
 ## [Jun 14, 2023](/content/2023/06/14/README.md)
 
@@ -137,7 +141,7 @@
 
 ### Phone Numbers
 
-*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐675)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.3k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.3k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐550)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.5k)](https://github.com/giggsey/libphonenumber-for-php).
+*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐676)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.3k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.3k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐550)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.5k)](https://github.com/giggsey/libphonenumber-for-php).
 
 ### Software Engineering
 
@@ -151,7 +155,7 @@
 
 ### Business
 
-*   [CLDR currency definitions (⭐773)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
+*   [CLDR currency definitions (⭐774)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
 
 ## [Nov 14, 2021](/content/2021/11/14/README.md)
 

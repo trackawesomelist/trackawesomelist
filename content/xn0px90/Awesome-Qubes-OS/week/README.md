@@ -8,6 +8,10 @@ A curated list of awesome qubes os links
 
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
+### VM-Hardening
+
+*   [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/) - Updating dom0
+
 ### Exploitation Tools / Unikernel-like
 
 *   [Hyperdbg (⭐2.4k)](https://github.com/HyperDbg/HyperDbg) - HyperDbg Debugger is an open-source, community-driven, hypervisor-assisted, user-mode, and kernel-mode Windows debugger with a focus on using modern hardware technologies. It is a debugger designed for analyzing, fuzzing, and reversing.
@@ -143,7 +147,7 @@ A curated list of awesome qubes os links
 
 ### Templates
 
-*   [USB Qubes](https://www.qubes-os.org/doc/usb-qubes/)
+*   [USB Qubes](https://www.qubes-os.org/doc/usb-qubes/) - A USB qube acts as a secure handler for potentially malicious USB devices, preventing them from coming into contact with dom0 (which could otherwise be fatal to the security of the whole system). I
 
 ### VM-Hardening
 
@@ -349,7 +353,6 @@ A curated list of awesome qubes os links
 *   [Anonymizing your MAC Address (⭐252)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md) - Although the MAC address is not the only metadata broadcast by network hardware, changing your hardware's default MAC Address could be an important step in protecting privacy.
 *   [Data leaks](https://www.qubes-os.org/doc/data-leaks/) - Firewalling in Qubes is not intended to be a leak-prevention mechanism.
 *   [Device handling security](https://www.qubes-os.org/doc/device-handling-security/) - Any additional ability a VM gains is additional attack surface.
-    *   [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/)
 *   [Firewall](https://www.qubes-os.org/doc/firewall/) - Every Qube in Qubes is connected to the network via a FirewallVM, which is used to enforce network-level policies.
 *   [Reducing the fingerprint of the text-based web browser w3m (⭐252)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md) - You can reduce the amount of information w3m gives about itself and the environment it is running in (and, by extension, you).
 *   [Running Tails in Qubes (⭐252)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/tails.md) - Tails stands for The Amnesic Incognito Live System.

@@ -21,13 +21,24 @@ A curated list of Generative AI tools, works, models, and references
 *   [We must stop AI replicating the problems of surveillance capitalism](https://www.ft.com/content/d9063c16-a4d2-4580-b8f6-a4872083d0fa)
 *   [Artificial Intelligence at the Service of Collective Intelligence](https://intlekt.io/2023/10/29/artificial-intelligence-at-the-service-of-collective-intelligence/)
 
+### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
+
+*   [pinecone-io/canopy (⭐57)](https://github.com/pinecone-io/canopy): Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
+*   [Forget RAG, the Future is RAG-Fusion](https://towardsdatascience.com/forget-rag-the-future-is-rag-fusion-1147298d8ad1): post by Adrian H. Raudaschl in Towards Data Science
+
 ### LLM Evaluation / Multi-agents
 
 *   [LLM Comparison/Test](https://www.reddit.com/r/LocalLLaMA/comments/17fhp9k/huge_llm_comparisontest_39_models_tested_7b70b/): 39 models tested (7B-70B + ChatGPT/GPT-4)
 
 ### Image Segmentation / Deforum
 
+*   [AILab-CVC/VideoCrafter (⭐2.9k)](https://github.com/ailab-cvc/videocrafter): Open Diffusion Models for High-Quality Video Generation
 *   [What's Generative Music? - Generative Music AI - YouTube](https://www.youtube.com/watch?v=9QNG56fc_l8\&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D\&index=3)
+
+### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+
+*   [Vaibhavs10/insanely-fast-whisper (⭐1.1k)](https://github.com/Vaibhavs10/insanely-fast-whisper): accelerates transcription with the combination of OpenAI's Whisper Large v2, HF Transformers, Optimum, and flash attention
+*   [deepseek-ai/DeepSeek-Coder (⭐2k)](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 

@@ -6,6 +6,16 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Nov 09, 2023](/content/2023/11/09/README.md)
+
+### Software / Learning and Courses
+
+*   [Digiscreen](https://ladigitale.dev/digiscreen/) - Interactive whiteboard/wallpaper for the classroom, in person or remotely (documentation in French). ([Demo](https://ladigitale.dev/digiscreen/), [Source Code](https://codeberg.org/ladigitale/digiscreen)) `AGPL-3.0` `Nodejs/PHP`
+
+### Software / Self-hosting Solutions
+
+*   [StartOS](https://start9.com) - Browser-based, graphical Operating System (OS) that makes running a personal server as easy as running a personal computer. ([Source Code (⭐542)](https://github.com/Start9Labs/start-os)) `MIT` `Rust`
+
 ## [Nov 08, 2023](/content/2023/11/08/README.md)
 
 ### Software / Document Management

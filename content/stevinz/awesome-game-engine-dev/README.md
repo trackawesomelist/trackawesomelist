@@ -6,6 +6,17 @@ Awesome list of resources for Game Engine Development.
 
 [ Daily / [Weekly](/content/stevinz/awesome-game-engine-dev/week/README.md) / [Overview](/content/stevinz/awesome-game-engine-dev/readme/README.md) ]
 
+## [Nov 09, 2023](/content/2023/11/09/README.md)
+
+### Libraries / C++
+
+*   C++: Audio
+    *   🎉 [Amplitude Audio SDK (⭐8)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - Cross-platform audio engine designed for the needs of games.
+    *   💰 [irrKlang](https://www.ambiera.com/irrklang/) - High level 2D/3D sound engine and audio library.
+    *   💰 [Juce (⭐5.6k)](https://github.com/juce-framework/JUCE) - The leading framework for multi-platform audio apps.
+    *   🔒 [OpenAL Soft (⭐1.9k)](https://github.com/kcat/openal-soft) - Software implementation of the OpenAL 3D audio API.
+    *   🎉 [PortAudio (⭐1.1k)](https://github.com/PortAudio/portaudio) - Cross-platform audio library.
+
 ## [Oct 28, 2023](/content/2023/10/28/README.md)
 
 ### Libraries / C#
@@ -107,7 +118,7 @@ Awesome list of resources for Game Engine Development.
     *   🎉 [Kira (⭐706)](https://github.com/tesselode/kira) - Create expressive audio for games.
 *   Rust: Gui
     *   🔒 [Azul (⭐5.7k)](https://github.com/fschutt/azul) - Desktop gui framework.
-    *   🎉 [Dioxus (⭐14k)](https://github.com/dioxuslabs/dioxus) - Cross-platform, React-like gui library.
+    *   🎉 [Dioxus (⭐15k)](https://github.com/dioxuslabs/dioxus) - Cross-platform, React-like gui library.
     *   🎉 [Druid (⭐9.1k)](https://github.com/linebender/druid) - Data-first gui design toolkit.
     *   🎉 [egui (⭐17k)](https://github.com/emilk/egui) - Easy to use immediate mode gui. Runs on web and native. \[[Demo](https://www.egui.rs/)]
     *   🔒 [Slint (⭐10k)](https://github.com/slint-ui/slint) - Gui toolkit for embedded / desktop. Formerly *SixtyFPS*. \[[Website](https://slint-ui.com/)]
@@ -132,7 +143,7 @@ Awesome list of resources for Game Engine Development.
 
 *   🎉 [Amazon Lumberyard (⭐2k)](https://github.com/aws/lumberyard) - AAA engine integrated with AWS and Twitch. Forked from *CRYENGINE*.
 *   💸 [Flax Engine (⭐5.1k)](https://github.com/FlaxEngine/FlaxEngine) - Modern 3D game engine written in C++ and C#.
-*   🎉 [O3DE (⭐6.7k)](https://github.com/o3de/o3de/) - Multi-platform AAA engine. Cinema-quality 3D. Successor to *Lumberyard*.
+*   🎉 [O3DE (⭐6.9k)](https://github.com/o3de/o3de/) - Multi-platform AAA engine. Cinema-quality 3D. Successor to *Lumberyard*.
 
 ### Game Engines / Commercial
 
@@ -166,22 +177,22 @@ Awesome list of resources for Game Engine Development.
 *   C: App Framework
     *   🎉 [glfw (⭐11k)](https://github.com/glfw/glfw) - Cross-platform API for windowing, graphics contexts, input and events.
     *   🎉 [MiniFB (⭐876)](https://github.com/emoon/minifb) - Creates a cross-platform frame buffer for drawing pixels.
-    *   🎉 [SDL (⭐6.8k)](https://github.com/libsdl-org/SDL) 🔥 - Low level access to audio, keyboard, mouse, joystick, and graphics hardware.
+    *   🎉 [SDL (⭐7k)](https://github.com/libsdl-org/SDL) 🔥 - Low level access to audio, keyboard, mouse, joystick, and graphics hardware.
     *   🎉 [Sokol (⭐5.3k)](https://github.com/floooh/sokol) 🔥 - Single-file libraries for graphics, windowing, file handling, audio and more.
 *   C: Audio
-    *   ⭐ [Miniaudio (⭐3.2k)](https://github.com/mackron/miniaudio) - Single-file audio playback and capture library.
+    *   ⭐ [Miniaudio (⭐3.3k)](https://github.com/mackron/miniaudio) - Single-file audio playback and capture library.
     *   🎉 [SDL\_mixer (⭐310)](https://github.com/libsdl-org/SDL_mixer) - Audio mixer that supports various file formats for SDL.
     *   🎉 [SoLoud (⭐1.6k)](https://github.com/jarikomppa/soloud) 🔥 - Free, easy, portable audio engine for games.
 *   C: File Formats
-    *   🎉 [Assimp (⭐9.6k)](https://github.com/assimp/assimp) - Open Asset Importer Library. Loads 40+ 3D file formats.
+    *   🎉 [Assimp (⭐9.7k)](https://github.com/assimp/assimp) - Open Asset Importer Library. Loads 40+ 3D file formats.
     *   🎉 [cgltf (⭐1.3k)](https://github.com/jkuhlmann/cgltf) - Single-file glTF 2.0 loader and writer in C99.
-    *   ⭐ [dr\_libs (⭐1k)](https://github.com/mackron/dr_libs) - Single-file audio decoding libraries.
+    *   ⭐ [dr\_libs (⭐1.1k)](https://github.com/mackron/dr_libs) - Single-file audio decoding libraries.
     *   🎉 [Libspng (⭐640)](https://github.com/randy408/libspng) - Simple, modern libpng alternative.
     *   🎉 [Miniz (⭐1.9k)](https://github.com/richgel999/miniz) - Single-file drop-in replacement for zlib's most used APIs (libpng and libzip).
     *   🎉 [OBJ GL Loader v2 (⭐9)](https://github.com/karolek471/objgl) - Quite fast wavefront OBJ loader for OpenGL.
     *   🎉 [PL\_MPEG (⭐668)](https://github.com/phoboslab/pl_mpeg) - Single-file library for decoding MPEG1 Video and MP2 Audio.
     *   🎉 [QOI (⭐6.5k)](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression.
-    *   ⭐ [stb\_vorbis (⭐23k)](https://github.com/nothings/stb/blob/master/stb_vorbis.c) - Ogg Vorbis audio decoder.
+    *   ⭐ [stb\_vorbis (⭐24k)](https://github.com/nothings/stb/blob/master/stb_vorbis.c) - Ogg Vorbis audio decoder.
 *   C: Physics
     *   🎉 [Chipmunk (⭐2k)](https://github.com/slembcke/Chipmunk2D) - Fast, lightweight 2D game physics library. \[[Docs](https://chipmunk-physics.net/documentation.php)]
 
@@ -197,26 +208,26 @@ Awesome list of resources for Game Engine Development.
     *   🎉 [Cross Window (⭐489)](https://github.com/alaingalvan/CrossWindow) - Platform library for managing windows and other OS tasks.
     *   🎉 [SFML (⭐9.1k)](https://github.com/SFML/SFML) 🔥 - Cross-platform access to windowing, graphics, audio and networking.
 *   C++: Animation
-    *   🎉 [Ozz-Animation (⭐2.1k)](https://github.com/guillaumeblanc/ozz-animation) - Open source skeletal animation library and toolset.
+    *   🎉 [Ozz-Animation (⭐2.1k)](https://github.com/guillaumeblanc/ozz-animation) - Skeletal animation library and toolset.
     *   🎉 [Tweeny (⭐655)](https://github.com/mobius3/tweeny) - Inbetweening library for complex animations for games / apps.
 *   C++: Cross-Platform
     *   🌎 [emscripten (⭐24k)](https://github.com/emscripten-core/emscripten) - The C/C++ to JavaScript (as WebAssembly) compiler. \[[Website](https://emscripten.org/)]
 *   C++: Fonts
-    *   🎉 [HarfBuzz (⭐3.2k)](https://github.com/harfbuzz/harfbuzz) - Text shaping library. Formatted and positioned glyph output.
+    *   🎉 [HarfBuzz (⭐3.3k)](https://github.com/harfbuzz/harfbuzz) - Text shaping library. Formatted and positioned glyph output.
     *   💰 [Slug](http://sluglibrary.com) - High-quality, resolution-independent text and vector graphics for 3D apps.
 *   C++: Game Engine w/Editor
     *   🎉 [AnKi 3D Engine (⭐1.2k)](https://github.com/godlikepanos/anki-3d-engine) - Vulkan backend, modern renderer, scripting, physics and more.
     *   🎉 [Drop Creator (⭐3)](https://github.com/scidian/drop) - No code, 2.5D game engine built with Qt, OpenGL and Chipmunk Physics.
-    *   🔒 [Enigma (⭐300)](https://github.com/enigma-dev/enigma-dev) - Open source GameMaker compatible 2D engine.
+    *   🔒 [Enigma (⭐300)](https://github.com/enigma-dev/enigma-dev) - GameMaker compatible 2D engine.
     *   🎉 [Esoterica Engine (⭐750)](https://github.com/BobbyAnguelov/Esoterica) - High-performance game engine with editor and AAA quality animation graph.
     *   🎉 [Ethereal Engine (⭐889)](https://github.com/volcoma/EtherealEngine) - Cross-platform game engine and editor.
-    *   🎉 [ezEngine (⭐1k)](https://github.com/ezEngine/ezEngine) - Open source game engine in active development. \[[Editor Info](http://ezengine.net/pages/getting-started/editor-overview.html)]
+    *   🎉 [ezEngine (⭐1k)](https://github.com/ezEngine/ezEngine) - Game engine in active development. \[[Editor Info](http://ezengine.net/pages/getting-started/editor-overview.html)]
     *   🎉 [FIFE (⭐534)](https://github.com/fifengine/fifengine) - Multi-platform isometric game engine.
     *   🎉 [Irrlicht](https://sourceforge.net/projects/irrlicht/) - Cross-platform 3D engine worked on for nearly 2 decades. \[[Website](https://irrlicht.sourceforge.io/)]
     *   🎉 [Limon Engine (⭐574)](https://github.com/enginmanap/limonEngine) - 3D FPS game engine with full dynamic lighting and shadows.
     *   🎉 [Lina Engine (⭐675)](https://github.com/inanevin/LinaEngine) - Modular game engine, aimed to develop 3D desktop games.
     *   🎉 [Lumos (⭐1k)](https://github.com/jmorton06/Lumos) - Cross-platform 2D/3D game engine, supports both OpenGL and Vulkan.
-    *   🎉 [Lumix Engine (⭐3.2k)](https://github.com/nem0/LumixEngine) - Open source 3D game engine with Dear ImGui based editor.
+    *   🎉 [Lumix Engine (⭐3.2k)](https://github.com/nem0/LumixEngine) - A 3D game engine with Dear ImGui based editor.
     *   🎉 [MxEngine (⭐932)](https://github.com/asc-community/MxEngine) - Modern-C++ general-purpose 3D game engine.
     *   🔒 [neoGFX (⭐505)](https://github.com/i42output/neogfx) - Cross-platform app and game engine.
     *   🎉 [ÖbEngine (⭐760)](https://github.com/ObEngine/ObEngine) - 2D engine with Lua scripting built with *SFML*.
@@ -229,7 +240,7 @@ Awesome list of resources for Game Engine Development.
     *   🎉 [Torque 3D (⭐3.3k)](https://github.com/GarageGames/Torque3D) - High-performance 3D engine built on *The Forge*.
     *   🔒 [UPBGE (⭐1.2k)](https://github.com/UPBGE/upbge) - Blender game engine, originally forked from Blender.
 *   C++: Graphics - 2D
-    *   🎉 [Blend2D (⭐1.3k)](https://github.com/blend2d/blend2d) - High-performance 2D vector graphics engine. \[[Website](https://blend2d.com/)]
+    *   🎉 [Blend2D (⭐1.4k)](https://github.com/blend2d/blend2d) - High-performance 2D vector graphics engine. \[[Website](https://blend2d.com/)]
     *   🎉 [C++ Bitmap Library (⭐154)](https://github.com/ArashPartow/bitmap) - Featured bitmap loading and manipulation library.
     *   🎉 [QNanoPainter (⭐345)](https://github.com/QUItCoding/qnanopainter) - OpenGL accelerated vector drawing library for Qt, powered by NanoVG.
     *   🎉 [Skia (⭐8k)](https://github.com/google/skia) - Complete 2D graphics library used in Chrome by *Google*. \[[Website](https://skia.org)]
@@ -247,7 +258,7 @@ Awesome list of resources for Game Engine Development.
     *   📚 [List of Open Source C++ Libraries](https://en.cppreference.com/w/cpp/links/libs) - Comprehensive list of open source C++ libraries.
     *   📚 [NVIDIA GameWorks](https://github.com/NVIDIAGameWorks) - NVIDIA Technologies for game & app developers.
 *   C++: Math
-    *   🎉 [OpenGL Mathematics (⭐8k)](https://github.com/g-truc/glm) - Header-only math library for graphics software.
+    *   🎉 [OpenGL Mathematics (⭐8.1k)](https://github.com/g-truc/glm) - Header-only math library for graphics software.
 *   C++: Physics
     *   🎉 [Box2D (⭐6.8k)](https://github.com/erincatto/box2d) - Battle tested 2D physics for games. \[[Docs](https://box2d.org/documentation/) | [Fixed Time-Step](https://www.unagames.com/blog/daniele/2010/06/fixed-time-step-implementation-box2d) | [Tutorials](http://www.iforce2d.net/b2dtut/introduction)]
     *   🎉 [Bullet Physics (⭐11k)](https://github.com/bulletphysics/bullet3) - Popular 3D physics libary.
@@ -255,16 +266,17 @@ Awesome list of resources for Game Engine Development.
     *   🎉 [Edyn (⭐461)](https://github.com/xissburg/edyn) - Multi-threaded, networked physics engine. Supports large dynamic worlds. \[[Testbed (⭐30)](https://github.com/xissburg/edyn-testbed)]
     *   🎉 [Jolt Physics (⭐4.3k)](https://github.com/jrouwe/JoltPhysics) - Multi-core friendly rigid body 3D physics and collision detection.
     *   🎉 [Liquid Fun (⭐4.6k)](https://github.com/google/liquidfun) - Extension of Box2D, adds particle-based fluid and soft bodies. \[[Demos](http://google.github.io/liquidfun/)]
-    *   🎉 [Newton Dynamics (⭐865)](https://github.com/MADEAPPS/newton-dynamics/) - Real-time simulation of 3D environments.
+    *   🎉 [Newton Dynamics (⭐866)](https://github.com/MADEAPPS/newton-dynamics/) - Real-time simulation of 3D environments.
     *   🎉 [ODE](http://www.ode.org/) - Open Dynamics Engine, 3D rigid body physics.
-    *   🎉 [ReactPhysics3D (⭐1.3k)](https://github.com/DanielChappuis/reactphysics3d) - 3D physics engine.
     *   🎉 [Qu3e (⭐893)](https://github.com/RandyGaul/qu3e) - Fast 3D physics engine, created to be used in games.
+    *   🎉 [ReactPhysics3D (⭐1.3k)](https://github.com/DanielChappuis/reactphysics3d) - 3D physics engine.
+    *   🎉 [Slingshot (⭐12)](https://github.com/Slingshot-Physics/slingshot-community) - Constraint-based physics engine for 3D rigid body dynamics.
 *   C++: Reflection
     *   🎉 [Boost.PFR (⭐1.2k)](https://github.com/boostorg/pfr) - Basic reflection C++14 library, part of the Boost Libraries.
     *   🎉 [Magic Enum (⭐4k)](https://github.com/Neargye/magic_enum) - Header-only C++17, provides static reflection for enums.
-    *   🎉 [Meta (⭐503)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++17.
+    *   🎉 [Meta (⭐505)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++17.
     *   🎉 [Nameof (⭐1.8k)](https://github.com/Neargye/nameof) - Header-only C++17, provides nameof macros to obtain name of a variable.
-    *   🎉 [Ponder (⭐608)](https://github.com/billyquith/ponder) - Expose C++17 classes and objects so they can used as data.
+    *   🎉 [Ponder (⭐609)](https://github.com/billyquith/ponder) - Expose C++17 classes and objects so they can used as data.
     *   🎉 [Reflect (⭐3)](https://github.com/stevinz/reflect) - Small, flexible, single-header library for runtime reflection and meta data in C++11.
     *   🎉 [RTTR (⭐2.8k)](https://github.com/rttrorg/rttr) - Reflection for C++11.
 *   C++: Serialization
@@ -296,7 +308,7 @@ Awesome list of resources for Game Engine Development.
     *   🎉 [Nez (⭐1.6k)](https://github.com/prime31/Nez) - Feature-rich 2D framework built on *MonoGame*.
     *   🎉 [Protogame (⭐175)](https://github.com/RedpointGames/Protogame) - Cross-platform 2D/3D game engine built on *MonoGame*.
 *   C#: Graphics - 3D
-    *   🎉 [OpenTK (⭐2.9k)](https://github.com/opentk/opentk) - Open Toolkit, C# bindings for OpenGL. \[[LearnOpenGL (⭐398)](https://github.com/opentk/LearnOpenTK)]
+    *   🎉 [OpenTK (⭐3k)](https://github.com/opentk/opentk) - Open Toolkit, C# bindings for OpenGL. \[[LearnOpenGL (⭐398)](https://github.com/opentk/LearnOpenTK)]
     *   🎉 [Veldrid (⭐2.3k)](https://github.com/mellinoe/veldrid) - Cross-platform, graphics API-agnostic rendering and compute library for .NET.
 *   C#: Gui
     *   🎉 [Avalonia (⭐20k)](https://github.com/AvaloniaUI/Avalonia) - Cross-platform gui framework for .NET. \[[Website](https://avaloniaui.net/)]
@@ -313,10 +325,10 @@ Awesome list of resources for Game Engine Development.
 ### Libraries / Go
 
 *   Go: Game Engine w/Editor
-    *   🎉 [G3N (⭐2.4k)](https://github.com/g3n/engine) - OpenGL 3D game engine.
+    *   🎉 [G3N (⭐2.5k)](https://github.com/g3n/engine) - OpenGL 3D game engine.
 *   Go: Game Framework
-    *   🎉 [Ebitengine (⭐8.9k)](https://github.com/hajimehoshi/ebiten) - Dead simple 2D game library.
-    *   🎉 [Engo (⭐1.7k)](https://github.com/EngoEngine/engo) - Open source 2D game framework.
+    *   🎉 [Ebitengine (⭐9k)](https://github.com/hajimehoshi/ebiten) - Dead simple 2D game library.
+    *   🎉 [Engo (⭐1.7k)](https://github.com/EngoEngine/engo) - A 2D game framework.
     *   🎉 [Pixel (⭐4.3k)](https://github.com/faiface/pixel) - Hand-crafted 2D game library. \[[Examples (⭐115)](https://github.com/faiface/pixel-examples)]
 
 ### Libraries / Haxe
@@ -398,7 +410,7 @@ Awesome list of resources for Game Engine Development.
     *   🎉 [Aurelia (⭐12k)](https://github.com/aurelia/framework) - Modern, front-end framework for browser, mobile, and desktop apps.
     *   🎉 [Ember (⭐22k)](https://github.com/emberjs/ember.js) - Framework for ambitious web developers.
     *   🎉 [Preact (⭐35k)](https://github.com/preactjs/preact) - Fast 3kB React alternative with the same modern API.
-    *   🎉 [React (⭐214k)](https://github.com/facebook/react/) - Declarative, efficient, and flexible JavaScript library for building user interfaces.
+    *   🎉 [React (⭐215k)](https://github.com/facebook/react/) - Declarative, efficient, and flexible JavaScript library for building user interfaces.
     *   🎉 [Svelte (⭐73k)](https://github.com/sveltejs/svelte) - Takes your declarative components and converts them into efficient JavaScript.
     *   🎉 [Vue (⭐206k)](https://github.com/vuejs/vue) - Progressive JavaScript framework for building UI on the web.
 *   JavaScript: Game Engine w/Editor
@@ -413,7 +425,7 @@ Awesome list of resources for Game Engine Development.
     *   🎉 [microStudio (⭐818)](https://github.com/pmgl/microstudio/) - Online game engine. Learn and practice programming. \[[Website](https://microstudio.dev/)]
     *   🎉 [Pixelbox.js (⭐450)](https://github.com/cstoquer/pixelbox) - Sandbox to fast-prototype 2D tile-based games. \[[Download](https://pixwlk.itch.io/pixelbox)]
     *   🎉 [QICI Engine (⭐848)](https://github.com/qiciengine/qiciengine) - Toolset for making games.
-    *   🎉 [Superpowers](https://github.com/superpowers) - Open source 2D/3D game making for indies. \[[Website](http://superpowers-html5.com/index.en.html)]
+    *   🎉 [Superpowers](https://github.com/superpowers) - Both 2D & 3D game making for indies. \[[Website](http://superpowers-html5.com/index.en.html)]
     *   🎉 [Taro (⭐289)](https://github.com/moddio/taro) - Multiplayer engine with Box2D physics, aka *Moddio*. \[[Website](https://www.modd.io)]
 *   JavaScript: Game Framework
     *   🎉 [Crafty (⭐3.3k)](https://github.com/craftyjs/Crafty) - Create 2D games in a structured way.
@@ -441,7 +453,7 @@ Awesome list of resources for Game Engine Development.
     *   🎉 [ZIM (⭐417)](https://github.com/danzen/zimjs) - Creative canvas framework. \[[Website](https://zimjs.com/)]
 *   JavaScript: Graphics - 3D
     *   🎉 [Babylon.js (⭐22k)](https://github.com/BabylonJS/Babylon.js) 🔥 - Powerful web rendering engine. \[[Extensions (⭐164)](https://github.com/BabylonJS/Extensions) | [Website](https://www.babylonjs.com/)]
-    *   🎉 [CopperLicht](https://ambiera.com/copperlicht/) - Open source 3D library for WebGL. \[[CopperCube Editor](https://ambiera.com/coppercube/index.html)]
+    *   🎉 [CopperLicht](https://ambiera.com/copperlicht/) - A 3D library for WebGL. \[[CopperCube Editor](https://ambiera.com/coppercube/index.html)]
     *   🎉 [Filament for Web (⭐16k)](https://github.com/google/filament/tree/main/web/filament-js) - WebAssembly build of Google's 3D graphics library, Filament. \[[Demos](https://google.github.io/filament/webgl/)]
     *   🎉 [Four (⭐215)](https://github.com/CodyJasonBennett/four) - Minimal three.js alternative.
     *   🎉 [Hilo3d (⭐622)](https://github.com/hiloteam/Hilo3d) - WebGL 3D rendering engine by *Alibaba*.
@@ -505,7 +517,7 @@ Awesome list of resources for Game Engine Development.
     *   🎉 [Frame.js (⭐985)](https://github.com/mrdoob/frame.js/) - JavaScript sequence editor. \[[Examples](https://framejs.app/)]
     *   🎉 [Neo (⭐272)](https://github.com/lo-th/neo) - Timeline for JavaScript. \[[Demo](http://lo-th.github.io/neo/)]
 *   JavaScript: Video
-    *   💸 [Remotion (⭐17k)](https://github.com/remotion-dev/remotion) - Create videos programmatically in React. \[[Website](https://www.remotion.dev/)]
+    *   💸 [Remotion (⭐18k)](https://github.com/remotion-dev/remotion) - Create videos programmatically in React. \[[Website](https://www.remotion.dev/)]
 *   JavaScript: Visual Programming / Nodes
     *   🎉 [Butterfly (⭐3.9k)](https://github.com/alibaba/butterfly) - Diagramming library concentrated on flow and field layout by *Alibaba*.
     *   🎉 [Drawflow (⭐3.7k)](https://github.com/jerosoler/Drawflow) - Simple JavaScript flow library. \[[Demo](https://jerosoler.github.io/Drawflow/)]
@@ -534,7 +546,7 @@ Awesome list of resources for Game Engine Development.
     *   🎉 [Pyglet (⭐1.6k)](https://github.com/pyglet/pyglet) - Windowing and multimedia library intended for game development.
 *   Python: Game Framework
     *   🎉 [Arcade (⭐1.5k)](https://github.com/pythonarcade/arcade) - Easy to use library for creating 2D arcade games.
-    *   🎉 [Panda3D (⭐4k)](https://github.com/panda3d/panda3d) - Powerful, mature game engine, developed by Disney and CMU. \[[Website](https://www.panda3d.org)]
+    *   🎉 [Panda3D (⭐4.1k)](https://github.com/panda3d/panda3d) - Powerful, mature game engine, developed by Disney and CMU. \[[Website](https://www.panda3d.org)]
     *   🔒 [Pygame (⭐6.4k)](https://github.com/pygame/pygame) - Game & multimedia app framework, built on *SDL*.
     *   🎉 [Pygcurse (⭐1)](https://github.com/asweigart/pygcurse) - [Curses-like](https://en.wikipedia.org/wiki/Curses_%28programming_library%29) library for text adventures / roguelikes. \[[Website](http://inventwithpython.com/pygcurse/)]
 *   Python: Gui
@@ -643,7 +655,7 @@ Awesome list of resources for Game Engine Development.
 
 ### Game Engines / Awesome Collections
 
-*   📚 [CoolEngines (⭐36)](https://github.com/JohnClarking/CoolEngines) - Open source graphic & game engines.
+*   📚 [CoolEngines (⭐36)](https://github.com/JohnClarking/CoolEngines) - List of open source graphic & game engines.
 *   📚 [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) - Game engines along with their platforms and licenses.
 
 ### Game Engines / Popular
@@ -673,7 +685,7 @@ Awesome list of resources for Game Engine Development.
 *   💸 [Luxe](https://luxeengine.com/) - 2D first engine, with a 2D/3D renderer.
 *   💸 [MANU](https://manu.co) - Unique animation system helps you create games without coding.
 *   💰 [Phaser Editor 2D](https://phasereditor2d.com) - Commercial, web-based editor for *Phaser*. \[[GitHub (⭐340)](https://github.com/PhaserEditor2D/PhaserEditor2D-v3)]
-*   💸 [PlayCanvas](https://playcanvas.com) - Popular (Flappy Bird), WebGL game engine. \[[Awesome (⭐225)](https://github.com/playcanvas/awesome-playcanvas#readme) | [GitHub (⭐8.7k)](https://github.com/playcanvas/engine)]
+*   💸 [PlayCanvas](https://playcanvas.com) - Popular (Flappy Bird), WebGL game engine. \[[Awesome (⭐227)](https://github.com/playcanvas/awesome-playcanvas#readme) | [GitHub (⭐8.7k)](https://github.com/playcanvas/engine)]
 *   💸 [Roblox](https://www.roblox.com/create) - Create immersive 3D experiences with Lua scripting.
 *   💸 [Simulation Starter Kit](https://benmorris.itch.io/plugin-based-scene-editor) - Create interactive 3D apps across a range of platforms.
 *   💸 [Stencyl](https://www.stencyl.com/) - Quick and easy game making with visual scripting. \[[GitHub (⭐180)](https://github.com/Stencyl/stencyl-engine)]
@@ -681,7 +693,7 @@ Awesome list of resources for Game Engine Development.
 ### Game Engines / Specialty
 
 *   💸 [DopeFish](https://subpixel-studios.itch.io/dopefish) - Doom / Heretic map loading system for *GameMaker*.
-*   🔒 [HARFANG 3D (⭐414)](https://github.com/harfang3d/harfang3d) - 3D visualization library for industry professionals, usable in C++, Python, Lua, Go.
+*   🔒 [HARFANG 3D (⭐416)](https://github.com/harfang3d/harfang3d) - 3D visualization library for industry professionals, usable in C++, Python, Lua, Go.
 *   💰 [Platforming Engine](https://robvansaaze.itch.io/platforming-engine) - Everything you need to create your own platformer in *GameMaker*.
 *   💰 [RPG in a Box](https://www.rpginabox.com) - Turn your stories and ideas into games, built with *Godot*.
 *   💰 [RPG Maker](https://www.rpgmakerweb.com) - Create an original role-playing game without any specialized knowledge.
@@ -778,7 +790,7 @@ Awesome list of resources for Game Engine Development.
     *   🎉 [Font Stash (⭐625)](https://github.com/memononen/fontstash) - Lightweight library that uses stb\_truetype to render fonts to a texture atlas.
     *   🎉 [IconFontCppHeaders (⭐993)](https://github.com/juliettef/IconFontCppHeaders) - C/C++ headers and C# classes for icon fonts.
     *   🎉 [msdf-c (⭐106)](https://github.com/solenum/msdf-c) - Multi-channel signed distance field generator.
-    *   ⭐ [stb\_truetype (⭐23k)](https://github.com/nothings/stb/blob/master/stb_truetype.h) - Single-header file library that processes TrueType font files.
+    *   ⭐ [stb\_truetype (⭐24k)](https://github.com/nothings/stb/blob/master/stb_truetype.h) - Single-header file library that processes TrueType font files.
     *   🎉 [Vertext (⭐24)](https://github.com/kevinmkchin/vertext) - Generates vertices for rendering text, requires stb\_truetype.
 *   C: Game Engine w/Editor
     *   ⭐ [AVA (⭐328)](https://github.com/r-lyeh/AVA) - Tiny, minimalistic 3D game engine.
@@ -816,7 +828,7 @@ Awesome list of resources for Game Engine Development.
     *   ⭐ [Libs (⭐1.4k)](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C++, by [Mattias Gustavsson](https://github.com/mattiasgustavsson).
     *   ⭐ [Pico Headers (⭐144)](https://github.com/empyreanx/pico_headers) - Single-file, cross-platform libraries for game development.
     *   📚 [Single-file Libs (⭐8.3k)](https://github.com/nothings/single_file_libs) - Amazing collection of single-file C/C++ libraries compiled from many authors.
-    *   ⭐ [stb (⭐23k)](https://github.com/nothings/stb) 🔥 - Single-file public domain libraries for C/C++, by [Sean Barrett](https://github.com/nothings).
+    *   ⭐ [stb (⭐24k)](https://github.com/nothings/stb) 🔥 - Single-file public domain libraries for C/C++, by [Sean Barrett](https://github.com/nothings).
 *   C: Lighting
     *   ⭐ [Light Mapper (⭐1.3k)](https://github.com/ands/lightmapper) - Single-file library for lightmap baking by using your existing OpenGL renderer.
 *   C: Math
@@ -835,11 +847,6 @@ Awesome list of resources for Game Engine Development.
 ### Libraries / C++
 
 *   📚 [Awesome C++ (⭐50k)](https://github.com/fffaraz/awesome-cpp#readme) - List of awesome C++ frameworks, libraries, and resources.
-*   C++: Audio
-    *   💰 [irrKlang](https://www.ambiera.com/irrklang/) - High level 2D/3D sound engine and audio library.
-    *   💰 [Juce (⭐5.6k)](https://github.com/juce-framework/JUCE) - The leading framework for multi-platform audio apps.
-    *   🔒 [OpenAL Soft (⭐1.9k)](https://github.com/kcat/openal-soft) - Software implementation of the OpenAL 3D audio API.
-    *   🎉 [PortAudio (⭐1.1k)](https://github.com/PortAudio/portaudio) - Cross-platform, open source, audio library.
 *   C++: Entity Component System
     *   🎉 [EntityX (⭐2.1k)](https://github.com/alecthomas/entityx) - Fast, type-safe C++ entity component system.
     *   🎉 [Entt (⭐8.8k)](https://github.com/skypjack/entt) - Gaming meets modern C++, a fast and reliable entity component system.
@@ -864,7 +871,7 @@ Awesome list of resources for Game Engine Development.
     *   🎉 [Koala Engine (⭐576)](https://github.com/phisko/kengine) - Framework with an ECS architecture, aka *Kengine*.
     *   🎉 [Lumino (⭐195)](https://github.com/LuminoEngine/Lumino) - Framework for building real-time graphics apps.
     *   🎉 [Nazara Engine (⭐585)](https://github.com/NazaraEngine/NazaraEngine) - Custom shaders, ECS, 2D/3D, networking and more.
-    *   🎉 [nCine (⭐904)](https://github.com/nCine/nCine) - Cross-platform 2D game framework.
+    *   🎉 [nCine (⭐912)](https://github.com/nCine/nCine) - Cross-platform 2D game framework.
     *   🎉 [ORX (⭐1.2k)](https://github.com/orx/orx) - 2.5D data-driven game development framework.
     *   🎉 [Oryol (⭐2k)](https://github.com/floooh/oryol) - Small, 3D, portable and extensible coding framework.
     *   ⭐ [Ouzel (⭐966)](https://github.com/elnormous/ouzel) - Public domain, targeted for development of 2D games.
@@ -897,7 +904,7 @@ Awesome list of resources for Game Engine Development.
 *   C++: Graphics - 3D
     *   🎉 [Bgfx (⭐14k)](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, rendering library.
     *   🎉 [Diligent Engine (⭐3k)](https://github.com/DiligentGraphics/DiligentEngine) - Modern cross-platform graphics API abstraction library.
-    *   🎉 [Ember (⭐3)](https://github.com/strah19/Ember) - Open source graphics framework using SDL2 and OpenGL.
+    *   🎉 [Ember (⭐3)](https://github.com/strah19/Ember) - Graphics framework using SDL2 and OpenGL.
     *   🎉 [Filament (⭐16k)](https://github.com/google/filament) - Mobile-first, real-time physically-based renderer by *Google*.
     *   🎉 [Forge (⭐4k)](https://github.com/ConfettiFX/The-Forge) 🔥 - Cross-platform rendering framework supporting all major platforms and consoles.
     *   🎉 [Horde3D (⭐1.4k)](https://github.com/horde3d/Horde3D) - 3D rendering and animation engine. \[[Scene Editor Info](http://horde3d.org/wiki/index.php?title=Horde3D_Scene_Editor)].
@@ -929,7 +936,7 @@ Awesome list of resources for Game Engine Development.
     *   🎉 [Thekla Atlas (⭐421)](https://github.com/Thekla/thekla_atlas) - Atlas generation tool.
     *   🎉 [UVAtlas (⭐754)](https://github.com/Microsoft/UVAtlas) - DirectX library for creating and packing texture atlases.
 *   C++: Network
-    *   🎉 [Cpp-HttpLib (⭐10k)](https://github.com/yhirose/cpp-httplib) - Single-header file HTTP server and client library in C++11.
+    *   🎉 [Cpp-HttpLib (⭐11k)](https://github.com/yhirose/cpp-httplib) - Single-header file HTTP server and client library in C++11.
 *   C++: Scripting
     *   🎉 [AngelScript](http://www.angelcode.com/angelscript/) - Cross-platform scripting library, follows the widely known syntax of C/C++.
     *   🔒 [ArkScript (⭐512)](https://github.com/ArkScript-lang/Ark) - Small, fast, functional and scripting language.
@@ -953,7 +960,7 @@ Awesome list of resources for Game Engine Development.
 *   C#: App Framework
     *   🎉 [ATF (⭐1.9k)](https://github.com/SonyWWS/ATF) - Components for making tools on Windows, started in 2005.
 *   C#: Audio
-    *   🎉 [NAudio (⭐4.9k)](https://github.com/naudio/NAudio) - Audio and MIDI library for .NET.
+    *   🎉 [NAudio (⭐5k)](https://github.com/naudio/NAudio) - Audio and MIDI library for .NET.
 *   C#: Physics
     *   🎉 [Aether Physics (⭐346)](https://github.com/tainicom/Aether.Physics2D) - 2D physics library with continuous collision detection.
     *   🎉 [Velcro Physics (⭐633)](https://github.com/Genbox/VelcroPhysics) - C# port of Box2D. Formerly *Farseer Physics*.
@@ -970,7 +977,7 @@ Awesome list of resources for Game Engine Development.
 
 ### Libraries / Go
 
-*   📚 [Awesome Go (⭐110k)](https://github.com/avelino/awesome-go) - Awesome Go frameworks, libraries and software.
+*   📚 [Awesome Go (⭐111k)](https://github.com/avelino/awesome-go) - Awesome Go frameworks, libraries and software.
 *   Go: Audio
     *   🎉 [Beep (⭐2k)](https://github.com/faiface/beep) - Playback and audio-processing.
 *   Go: Geometry
@@ -1028,8 +1035,8 @@ Awesome list of resources for Game Engine Development.
     *   🎉 [Ejecta (⭐2.8k)](https://github.com/phoboslab/Ejecta) - JavaScript / canvas / audio implementation for iOS. App store compatible.
     *   🎉 [NW.js (⭐40k)](https://github.com/nwjs/nw.js) - Desktop apps with JavaScript. Formerly *Node-Webkit*. \[[Website](https://nwjs.io)]
     *   📚 [Progressive Web Apps](https://web.dev/progressive-web-apps/) - Using web tech in a way that feels like platform-specific apps.
-    *   🎉 [React Native (⭐112k)](https://github.com/facebook/react-native) - Framework for building native apps using React. \[[Website](https://reactnative.dev/)]
-    *   🎉 [Tauri (⭐69k)](https://github.com/tauri-apps/tauri) - Smaller, faster, and more secure desktop applications. \[[Website](https://tauri.app/)]
+    *   🎉 [React Native (⭐113k)](https://github.com/facebook/react-native) - Framework for building native apps using React. \[[Website](https://reactnative.dev/)]
+    *   🎉 [Tauri (⭐70k)](https://github.com/tauri-apps/tauri) - Smaller, faster, and more secure desktop applications. \[[Website](https://tauri.app/)]
     *   💸 [Ultralight](https://ultralig.ht/) - Supports modern HTML5, CSS, and JavaScript. Based on *WebKit*.
     *   🎉 [WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/) - Microsoft Edge control allows you to embed web in native apps. \[[Docs](https://docs.microsoft.com/en-us/microsoft-edge/webview2/)]
     *   🎉 [Window.js (⭐2.3k)](https://github.com/windowjs/windowjs) - JavaScript runtime for desktop graphics programming. \[[Docs](https://windowjs.org/)]
@@ -1097,7 +1104,7 @@ Awesome list of resources for Game Engine Development.
 
 ### Libraries / Python
 
-*   📚 [Awesome Python (⭐184k)](https://github.com/vinta/awesome-python) - List of awesome Python frameworks, libraries, software and more.
+*   📚 [Awesome Python (⭐186k)](https://github.com/vinta/awesome-python) - List of awesome Python frameworks, libraries, software and more.
 *   Python: Cross-Platform
     *   💸 [Anvil](https://anvil.works) - Full stack web apps with nothing but Python.
     *   🎉 [Brython (⭐6.1k)](https://github.com/brython-dev/brython) - Python 3 running in the browser.
@@ -1319,7 +1326,7 @@ Awesome list of resources for Game Engine Development.
 
 *   💰 [Filter Forge](https://www.filterforge.com) - Photo effects, realistic textures, and visual editor.
 *   🆓 [JSplacement](https://windmillart.net/?p=jsplacement) - Cross-platform pseudo-random displacement map generator.
-*   🆓 [Material Maker](https://www.materialmaker.org) - Procedural [physically-based rendering](https://en.wikipedia.org/wiki/Physically_based_rendering) material maker. \[[Source (⭐2.7k)](https://github.com/RodZill4/material-maker)]
+*   🆓 [Material Maker](https://www.materialmaker.org) - Procedural [physically-based rendering](https://en.wikipedia.org/wiki/Physically_based_rendering) material maker. \[[Source (⭐2.8k)](https://github.com/RodZill4/material-maker)]
 *   🆓 [Materialize](http://boundingboxsoftware.com/materialize/) - Tool for creating materials from images to be used in games. \[[Source (⭐1.3k)](https://github.com/BoundingBoxSoftware/Materialize)]
 *   💸 [PixPlant](https://www.pixplant.com/index.php) - Tool to allow simple creation of tiling 3D materials.
 *   🆓 [TexaTool](https://kronbits.itch.io/texatool) - Online tool to generate tileable textures by moving sliders.

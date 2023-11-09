@@ -16,9 +16,17 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Digistorm](https://digistorm.app/) - Create collaborative surveys, quizzes, brainstorms, and word clouds (documentation in French). ([Demo](https://digistorm.app/), [Source Code](https://codeberg.org/ladigitale/digistorm)) `AGPL-3.0` `Nodejs`
 
+### Software / Learning and Courses
+
+*   [Digiscreen](https://ladigitale.dev/digiscreen/) - Interactive whiteboard/wallpaper for the classroom, in person or remotely (documentation in French). ([Demo](https://ladigitale.dev/digiscreen/), [Source Code](https://codeberg.org/ladigitale/digiscreen)) `AGPL-3.0` `Nodejs/PHP`
+
 ### Software / Miscellaneous
 
 *   [Flyimg](https://flyimg.io) `⚠` - Resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system. ([Demo](https://demo.flyimg.io), [Source Code (⭐831)](https://github.com/flyimg/flyimg)) `MIT` `Docker`
+
+### Software / Self-hosting Solutions
+
+*   [StartOS](https://start9.com) - Browser-based, graphical Operating System (OS) that makes running a personal server as easy as running a personal computer. ([Source Code (⭐542)](https://github.com/Start9Labs/start-os)) `MIT` `Rust`
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 

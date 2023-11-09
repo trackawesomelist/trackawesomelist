@@ -491,6 +491,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Retrieval-Augmented Generation (RAG)
 
+*   [pinecone-io/canopy (⭐57)](https://github.com/pinecone-io/canopy): Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
+*   [Forget RAG, the Future is RAG-Fusion](https://towardsdatascience.com/forget-rag-the-future-is-rag-fusion-1147298d8ad1): post by Adrian H. Raudaschl in Towards Data Science
 *   [Rerankers and Two-Stage Retrieval | Pinecone](https://www.pinecone.io/learn/series/rag/rerankers/)
 *   [Retrieval Augmented Generation | Pinecone](https://www.pinecone.io/learn/series/rag/)
 *   [dssjon/biblos: biblos.app (⭐124)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
@@ -821,6 +823,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Video and Animation
 
+*   [AILab-CVC/VideoCrafter (⭐2.9k)](https://github.com/ailab-cvc/videocrafter): Open Diffusion Models for High-Quality Video Generation
 *   [Ssemble](https://www.ssemble.com/): collaborative video editor with a collection of AI plugins
 *   [Transforming 2D Images into 3D with the AdaMPI AI Model](https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/): guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
 *   [Nathan Lands on Twitter: "AI video has started to produce mindblowing results and could eventually disrupt Hollywood / Twitter](https://twitter.com/NathanLands/status/1659195191591596033): Twitter thread with examples of Generative AI tools for video
@@ -885,6 +888,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Inbox: Speech-to-text (STT) and spoken content analysis
 
+*   [Vaibhavs10/insanely-fast-whisper (⭐1.1k)](https://github.com/Vaibhavs10/insanely-fast-whisper): accelerates transcription with the combination of OpenAI's Whisper Large v2, HF Transformers, Optimum, and flash attention
 *   [facebookresearch/seamless\_communication (⭐5.7k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 *   [LeMUR](https://www.assemblyai.com/blog/lemur/): a single API, enabling developers to reason over their spoken data with a few lines of code
 
@@ -895,6 +899,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Code and Programming
 
+*   [deepseek-ai/DeepSeek-Coder (⭐2k)](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
 *   [Cody](https://about.sourcegraph.com/cody): AI coding assistant
 *   [Kombai](https://kombai.com/): generate UI code per component from Figma
 *   [geekan/MetaGPT (⭐30k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo

@@ -10,7 +10,7 @@
 
 ### Templates / Vue 3
 
-*   [vue-file-upload (⭐4)](https://github.com/canopas/vue-file-upload) - A file management system built with `Vue3` and `TypeScript` that allows for single and multiple file uploading with a preview feature.
+*   [vue-file-upload (⭐6)](https://github.com/canopas/vue-file-upload) - A file management system built with `Vue3` and `TypeScript` that allows for single and multiple file uploading with a preview feature.
 
 ### Templates / React
 

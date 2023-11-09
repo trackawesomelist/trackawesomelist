@@ -87,7 +87,7 @@ The *falsehood* articles listed below will have a comprehensive list of those fa
 *   [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/) - Same error as above at Google Ads, or the danger of separating your pennies from your dollars, where $250 internal coupons turned into $25,000. My advice: [get rid of integers and floats for monetary values. Use decimals. Or fallback to strings and parse them, don't validate.](https://twitter.com/kdeldycke/status/1599113889093890049)
 *   [Characters `<` and `>` in company names lead to XSS attacks](https://forum.aws.chdev.org/t/cross-site-scripting-xss-software-attack/3355) - Because [UK allows companies to be registered with special characters](https://www.legislation.gov.uk/uksi/2015/17/schedule/1/made), a hacker leveraged them to register `\"><SCRIPT SRC=MJT.XSS.HT></SCRIPT> LTD`, but also `; DROP TABLE "COMPANIES";-- LTD`, `BETTS &AMP; TWINE LTD` and `SAFDASD & SFSAF \' SFDAASF\" LTD`.
 *   [Minutiae of company names](https://twitter.com/nthnmsmth/status/1587880523124408322) - How the rules of the State of Delaware and the IRS does not intersects.
-*   [CLDR currency definitions (⭐773)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
+*   [CLDR currency definitions (⭐774)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
 *   [`tax`](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management library.
 
 ## Cryptocurrency
@@ -194,13 +194,14 @@ On character encoding, string formatting, unicode and internationalization.
 ## Phone Numbers
 
 *   [Falsehoods about Phone Numbers (⭐16k)](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - Covers phone numbers, their representation and meaning.
-*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐675)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.3k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.3k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐550)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.5k)](https://github.com/giggsey/libphonenumber-for-php).
+*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐676)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.3k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.3k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐550)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.5k)](https://github.com/giggsey/libphonenumber-for-php).
 
 ## Postal Addresses
 
 *   [Falsehoods about Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/) - Covers streets, postal codes, buildings, cities and countries.
 *   [Falsehoods about Residence](https://twitter.com/samphippen/status/813896916534784004) - It's not only about the address itself, but the relationship between a person and its residence.
 *   [Letter Delivered Despite No Name, No Address](https://twitter.com/loriskumo/status/735851511331356672) - Ultimate falsehood about postal addresses: you do not need one.
+*   [UK Address Oddities](https://paulplowman.com/stuff/uk-address-oddities/) - Quirks extracted from a list of most residential property sales in England and Wales since 1995.
 *   [What is the Most Minimal UK Address Possible?](https://microblog.vladh.net/posts/most-minimal-uk-address/) - The trick is to rely on postcodes, which in the UK are pretty specific and “often identify one or a few specific buildings, unlike countries where a postcode represents an entire neighbourhood”.
 *   [The Bear with Its Own ZIP Code](https://kottke.org/19/08/the-bear-with-its-own-zip-code) - Smokey Bear has his own ZIP Code (`20252`) because he gets so much mail.
 *   [Why doesn't Costa Rica use real addresses?](https://www.crcdaily.com/p/why-doesnt-costa-rica-use-real-addresses) - Costa Rican uses an idiosyncratic system of addresses that relies on landmarks, history and quite a bit of guesswork.

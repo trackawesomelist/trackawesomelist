@@ -6,15 +6,17 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 09, 2023](/content/2023/11/09/README.md)
+
+### Motion / Diagnostics
+
+*   [xiaoshihou514/squirrel.nvim (⭐1)](https://github.com/xiaoshihou514/squirrel.nvim) - Quickly jump between tree-sitter nodes.
+
 ## [Nov 08, 2023](/content/2023/11/08/README.md)
 
 ### Project / Diagnostics
 
 *   [SalOrak/whaler.nvim (⭐15)](https://github.com/SalOrak/whaler.nvim) - Telescope extension to move between directories blazingly fast.
-
-### Motion / Diagnostics
-
-*   [xiaoshihou514/squirrel.nvim (⭐1)](https://github.com/xiaoshihou514/squirrel.nvim) - Quickly jump between tree-sitter nodes.
 
 ## [Nov 05, 2023](/content/2023/11/05/README.md)
 
@@ -68,7 +70,7 @@ Collections of awesome neovim plugins.
 
 ### Motion / Diagnostics
 
-*   [smoka7/hop.nvim (⭐127)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
+*   [smoka7/hop.nvim (⭐128)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
 
 ### Indent / Diagnostics
 

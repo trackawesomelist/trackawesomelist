@@ -42,7 +42,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Types / Playground
 
-*   [string-ts (⭐970)](https://github.com/gustavoguichard/string-ts) - Strongly-typed string functions for all
+*   [string-ts (⭐971)](https://github.com/gustavoguichard/string-ts) - Strongly-typed string functions for all
 
 ### Validation / Playground
 
@@ -101,7 +101,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Validation / Playground
 
-*   [fta (⭐42)](https://github.com/sgb-io/fta) - Rust-based static analysis to monitor code quality
+*   [fta (⭐43)](https://github.com/sgb-io/fta) - Rust-based static analysis to monitor code quality
 
 ## [May 15 - May 21, 2023](/content/2023/20/README.md)
 
@@ -133,7 +133,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Web / Playground
 
-*   :octocat: [Treehouse (⭐115)](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
+*   :octocat: [Treehouse (⭐116)](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
 
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
@@ -488,7 +488,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 ### Libraries / Chrome Extensions
 
 *   :octocat: [Prisma (⭐35k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
-    *   :octocat: [prisma-markdown (⭐149)](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
+    *   :octocat: [prisma-markdown (⭐150)](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
 *   :octocat: [tsParticles (⭐5.9k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
 
 ## [Jul 27 - Aug 02, 2020](/content/2020/30/README.md)
@@ -579,7 +579,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Runtime / Playground
 
-*   [type-plus (⭐310)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
+*   [type-plus (⭐311)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
 
 ### Libraries / Chrome Extensions
 

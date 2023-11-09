@@ -6,12 +6,31 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Nov 09, 2023](/content/2023/11/09/README.md)
+
+### Inbox: Large Language Models (LLMs)
+
+*   \[🔥🔥] [State of LLM Apps 2023 · Streamlit](https://state-of-llm.streamlit.app/)
+
+### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
+
+*   [pinecone-io/canopy (⭐57)](https://github.com/pinecone-io/canopy): Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
+*   [Forget RAG, the Future is RAG-Fusion](https://towardsdatascience.com/forget-rag-the-future-is-rag-fusion-1147298d8ad1): post by Adrian H. Raudaschl in Towards Data Science
+
+### Image Segmentation / Deforum
+
+*   [AILab-CVC/VideoCrafter (⭐2.9k)](https://github.com/ailab-cvc/videocrafter): Open Diffusion Models for High-Quality Video Generation
+
+### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+
+*   [Vaibhavs10/insanely-fast-whisper (⭐1.1k)](https://github.com/Vaibhavs10/insanely-fast-whisper): accelerates transcription with the combination of OpenAI's Whisper Large v2, HF Transformers, Optimum, and flash attention
+*   [deepseek-ai/DeepSeek-Coder (⭐2k)](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
+
 ## [Nov 08, 2023](/content/2023/11/08/README.md)
 
 ### Inbox: Large Language Models (LLMs)
 
 *   [The architecture of today's LLM applications - The GitHub Blog](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/)
-*   \[🔥🔥] [State of LLM Apps 2023 · Streamlit](https://state-of-llm.streamlit.app/)
 *   [Demystifying LLMs: How they can do things they weren't trained to do - The GitHub Blog](https://github.blog/2023-10-27-demystifying-llms-how-they-can-do-things-they-werent-trained-to-do/)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI

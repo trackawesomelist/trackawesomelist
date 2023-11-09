@@ -6,11 +6,13 @@ A curated list of Artificial Intelligence Top Tools
 
 [ Daily / [Weekly](/content/mahseema/awesome-ai-tools/week/README.md) / [Overview](/content/mahseema/awesome-ai-tools/readme/README.md) ]
 
-## [Nov 08, 2023](/content/2023/11/08/README.md)
+## [Nov 09, 2023](/content/2023/11/09/README.md)
 
 ### Image / Services
 
 *   [VectorArt.ai](https://vectorart.ai) - Create vector images with AI.
+
+## [Nov 08, 2023](/content/2023/11/08/README.md)
 
 ### Image / Image libraries
 

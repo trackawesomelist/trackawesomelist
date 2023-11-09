@@ -6,7 +6,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ Daily / [Weekly](/content/dzharii/awesome-typescript/week/README.md) / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
-## [Nov 08, 2023](/content/2023/11/08/README.md)
+## [Nov 09, 2023](/content/2023/11/09/README.md)
 
 ### Back-end API / Playground
 
@@ -53,7 +53,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Types / Playground
 
-*   [string-ts (⭐970)](https://github.com/gustavoguichard/string-ts) - Strongly-typed string functions for all
+*   [string-ts (⭐971)](https://github.com/gustavoguichard/string-ts) - Strongly-typed string functions for all
 
 ### Validation / Playground
 
@@ -110,7 +110,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Validation / Playground
 
-*   [fta (⭐42)](https://github.com/sgb-io/fta) - Rust-based static analysis to monitor code quality
+*   [fta (⭐43)](https://github.com/sgb-io/fta) - Rust-based static analysis to monitor code quality
 
 ## [May 25, 2023](/content/2023/05/25/README.md)
 
@@ -148,7 +148,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Web / Playground
 
-*   :octocat: [Treehouse (⭐115)](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
+*   :octocat: [Treehouse (⭐116)](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
 
 ## [Mar 22, 2023](/content/2023/03/22/README.md)
 
@@ -525,7 +525,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 ### Libraries / Chrome Extensions
 
 *   :octocat: [Prisma (⭐35k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
-    *   :octocat: [prisma-markdown (⭐149)](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
+    *   :octocat: [prisma-markdown (⭐150)](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
 
 ## [Jul 23, 2020](/content/2020/07/23/README.md)
 
@@ -623,7 +623,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Runtime / Playground
 
-*   [type-plus (⭐310)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
+*   [type-plus (⭐311)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
 
 ## [Feb 28, 2020](/content/2020/02/28/README.md)
 

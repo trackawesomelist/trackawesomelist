@@ -2,7 +2,7 @@
 
 🎓 Because Education should be free. Contributions welcome! 🕵️ 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 982 · 🏷️ Security
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 984 · 🏷️ Security
 
 [ [Daily](/content/brootware/awesome-cyber-security-university/README.md) / [Weekly](/content/brootware/awesome-cyber-security-university/week/README.md) / Overview ]
 
@@ -59,7 +59,7 @@ As you go through the curriculum, you will find completion badges that are hidde
 
 ## Contributing
 
-Pull requests are welcome with the condition that the resource should be free! Please read the [contribution guide in the wiki (⭐982)](https://github.com/brootware/Cyber-Security-University/wiki) if you wish to add tools or resources.
+Pull requests are welcome with the condition that the resource should be free! Please read the [contribution guide in the wiki (⭐984)](https://github.com/brootware/Cyber-Security-University/wiki) if you wish to add tools or resources.
 
 ## Introduction and Pre-Security
 

@@ -60,7 +60,7 @@ Collections of awesome neovim plugins.
 
 ### Motion / Diagnostics
 
-*   [smoka7/hop.nvim (⭐127)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
+*   [smoka7/hop.nvim (⭐128)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
 
 ### Indent / Diagnostics
 

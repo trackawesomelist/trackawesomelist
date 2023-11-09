@@ -201,13 +201,13 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [@tool-belt/type-predicates (⭐51)](https://github.com/tool-belt/type-predicates) - Type Predicates, Assertion Functions and Utilities.
 *   [getmytypes (⭐11)](https://github.com/halchester/getmytypes) - Install @types files into your devDependencies.
 *   [ts-toolbelt (⭐6.1k)](https://github.com/millsp/ts-toolbelt) - Large collection of type utilities for TypeScript
-*   [string-ts (⭐970)](https://github.com/gustavoguichard/string-ts) - Strongly-typed string functions for all
+*   [string-ts (⭐971)](https://github.com/gustavoguichard/string-ts) - Strongly-typed string functions for all
 
 ### Runtime
 
 *   [json-decoder (⭐75)](https://github.com/venil7/json-decoder) - Typesafe JSON decoder and runtime checker
 *   [typescript-is (⭐943)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
-*   [type-plus (⭐310)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
+*   [type-plus (⭐311)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
 *   [Agent Framework (⭐111)](https://github.com/agentframework/agentframework) Create interceptor for your class and method using decorators
 *   [SunTori (⭐6)](https://github.com/LancerComet/SunTori) - A JSON de/serializer to ensure everything is safe at runtime.
 
@@ -224,7 +224,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [json-schema-to-ts (⭐1.2k)](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
 *   [Yunomix (⭐5)](https://github.com/LancerComet/MyWebLibs/tree/master/Yunomix) - A form validation toolkit which is designed in AOP form.
 *   [typia (⭐3.6k)](https://github.com/samchon/typia) - 20,000x times faster runtime validator using pure TypeScript type. Only one line required like `typia.assert<T>(input)`. Also, supports 200x faster JSON serialization, and Protocol Buffer features. 🚀 (see also <https://typia.io/docs>)
-*   [fta (⭐42)](https://github.com/sgb-io/fta) - Rust-based static analysis to monitor code quality
+*   [fta (⭐43)](https://github.com/sgb-io/fta) - Rust-based static analysis to monitor code quality
 *   [dto-classes (⭐68)](https://github.com/rsinger86/dto-classes) - Developer-friendly parsing, validation & serialization. Static types by default. Uses properties for field schemas, not decorators.
 
 ## Built with TypeScript
@@ -256,7 +256,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [Thin Backend (⭐1.2k)](https://github.com/digitallyinduced/thin-backend) - Realtime Backend for your Single Page Apps, with End-to-End Type Safety thanks to types being derived from the Postgres Schema
 *   :octocat: [Flowbite (⭐6k)](https://github.com/themesberg/flowbite) - Open-source component library built on top of Tailwind CSS featuring interactive UI components built with TypeScript
 *   :octocat: [ILLA Cloud](https://www.illacloud.com/) - Open source low-code platform alternative to Retool and Appsmith for developers to build internal tools in minutes.
-*   :octocat: [Treehouse (⭐115)](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
+*   :octocat: [Treehouse (⭐116)](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
 
 ### Web/ReactJS
 
@@ -324,7 +324,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
     *   :octocat: [Safe-TypeORM (⭐225)](https://github.com/samchon/safe-typeorm) - Enhances `TypeORM` in the compilation level and supports automated performance tuning tools through the application level joining. Furthermore, your raw SQL queries would be ensured safety by type meta programming.
 *   :octocat: [MikroORM (⭐6.6k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
 *   :octocat: [Prisma (⭐35k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
-    *   :octocat: [prisma-markdown (⭐149)](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
+    *   :octocat: [prisma-markdown (⭐150)](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
 *   :octocat: [Neuledge (⭐237)](https://github.com/neuledge/engine-js) - Neuledge is a universal language for databases that provides state-of-the-art tools for data modeling, business logic representation, and schema validation.
 *   :octocat: [Typetta (⭐92)](https://github.com/twinlogix/typetta) - Typescript ORM for Node.js that uses GraphQL as schema definition language | Supports all main SQL databases and MongoDB.
 *   :octocat: [TypeGQL (⭐422)](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
