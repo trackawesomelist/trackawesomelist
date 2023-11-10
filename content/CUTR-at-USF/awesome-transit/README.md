@@ -6,6 +6,12 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 [ Daily / [Weekly](/content/CUTR-at-USF/awesome-transit/week/README.md) / [Overview](/content/CUTR-at-USF/awesome-transit/readme/README.md) ]
 
+## [Nov 10, 2023](/content/2023/11/10/README.md)
+
+### GTFS Libraries / Python
+
+*   [gtfs\_functions (⭐69)](https://github.com/Bondify/gtfs_functions) - Python package with useful functions to create geo-spatial visualizations from GTFS feeds.
+
 ## [Nov 07, 2023](/content/2023/11/07/README.md)
 
 ### Web Apps (open source)

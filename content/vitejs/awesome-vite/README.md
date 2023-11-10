@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Nov 10, 2023](/content/2023/11/10/README.md)
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-auto-origin (⭐0)](https://github.com/s2b/vite-plugin-auto-origin) - Detect origin configuration automatically based on incoming requests to dev server.
+
+### Svelte / Helpers
+
+*   [vite-plugin-kit-routes (⭐318)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-kit-routes) - Generates a file with all the routes, params, actions of your SvelteKit App.
+
 ## [Nov 09, 2023](/content/2023/11/09/README.md)
 
 ### Templates / Vue 3

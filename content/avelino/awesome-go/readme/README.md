@@ -2270,6 +2270,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [Soy (⭐171)](https://github.com/robfig/soy) - Closure templates (aka Soy templates) for Go, following the [official spec](https://developers.google.com/closure/templates/).
 *   [sprig (⭐3.8k)](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 *   [tbd (⭐24)](https://github.com/lucasepe/tbd) - A really simple way to create text templates with placeholders - exposes extra builtin Git repo metadata.
+*   [templ (⭐2k)](https://github.com/a-h/templ) - A HTML templating language that has great developer tooling.
 
 **[⬆ back to top](#contents)**
 
@@ -2470,7 +2471,6 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 ### RSS
 
 *   [podcast (⭐125)](https://github.com/eduncan911/podcast) - iTunes Compliant and RSS 2.0 Podcast Generator in Golang
-*   [syndfeed (⭐11)](https://github.com/zhengchun/syndfeed) - A syndication feed for Atom 1.0 and RSS 2.0.
 
 ### Utility/Miscellaneous
 

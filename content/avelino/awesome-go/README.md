@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Nov 10, 2023](/content/2023/11/10/README.md)
+
+### Template Engines
+
+*   [templ (⭐2k)](https://github.com/a-h/templ) - A HTML templating language that has great developer tooling.
+
 ## [Nov 08, 2023](/content/2023/11/08/README.md)
 
 ### Meetups / Libraries for creating HTTP middlewares
@@ -1826,7 +1832,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### RSS
 
 *   [podcast (⭐125)](https://github.com/eduncan911/podcast) - iTunes Compliant and RSS 2.0 Podcast Generator in Golang
-*   [syndfeed (⭐11)](https://github.com/zhengchun/syndfeed) - A syndication feed for Atom 1.0 and RSS 2.0.
 
 ### Utility/Miscellaneous
 

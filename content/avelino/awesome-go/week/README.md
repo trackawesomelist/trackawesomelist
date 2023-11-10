@@ -8,6 +8,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
+### Template Engines
+
+*   [templ (⭐2k)](https://github.com/a-h/templ) - A HTML templating language that has great developer tooling.
+
 ### Code Analysis / Libraries for creating HTTP middlewares
 
 *   [golangci-lint (⭐13k)](https://github.com/golangci/golangci-lint) – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included.
@@ -1629,7 +1633,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### RSS
 
 *   [podcast (⭐125)](https://github.com/eduncan911/podcast) - iTunes Compliant and RSS 2.0 Podcast Generator in Golang
-*   [syndfeed (⭐11)](https://github.com/zhengchun/syndfeed) - A syndication feed for Atom 1.0 and RSS 2.0.
 
 ### Utility/Miscellaneous
 

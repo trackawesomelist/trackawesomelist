@@ -12,6 +12,10 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 *   Dede - An independent and universal passenger information system (PIS) mapping realtime movement. A message feed with Vehicle Position entities in the GTFS-Realtime format or the [Dede app (⭐1)](https://github.com/dancesWithCycles/dede-android) can be used as data source.
 
+### GTFS Libraries / Python
+
+*   [gtfs\_functions (⭐69)](https://github.com/Bondify/gtfs_functions) - Python package with useful functions to create geo-spatial visualizations from GTFS feeds.
+
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
 ### GTFS Merge Tools / Ruby

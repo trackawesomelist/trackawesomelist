@@ -489,6 +489,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-cli-copy (⭐2)](https://github.com/wChenonly/vite-plugin-cli-copy) - Start the project and automatically copy the terminal's network URL.
 *   [vite-plugin-module-list (⭐2)](https://github.com/davidbonnet/vite-plugin-module-list) - Automatically import the modules found in a specified folder.
 *   [unplugin-info (⭐46)](https://github.com/yjl9903/unplugin-info) - Export build information as a virutal module.
+*   [vite-plugin-auto-origin (⭐0)](https://github.com/s2b/vite-plugin-auto-origin) - Detect origin configuration automatically based on incoming requests to dev server.
 
 #### Testing
 
@@ -626,6 +627,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Integrations
 
 *   [vite-plugin-svelte (⭐745)](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
+
+#### Helpers
+
+*   [vite-plugin-kit-routes (⭐318)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-kit-routes) - Generates a file with all the routes, params, actions of your SvelteKit App.
 
 <hr>
 
