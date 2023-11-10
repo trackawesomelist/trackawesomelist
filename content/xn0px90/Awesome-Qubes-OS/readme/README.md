@@ -8,37 +8,37 @@ A curated list of awesome qubes os links
 
 ---
 
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&G?~^^~?G&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#5!^::^^^^::^!YB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#P7^:::^^^^^^^^^^:::^75#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&G?~:::^^^^^^^^^^^^^^^^^^:::~?P&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&BJ!^::^^^^^^^^^^^^::^^^^^^^^^^^^::^~JG&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@#5!^:::^^^^^^^^^^^:::~77~^::^^^^^^^^^^^^::^!Y#@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@J^::^^^^^^^^^^^:::^7P#@@@@&P?~:::^^^^^^^^^^:::^Y@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!7!!~^^^^^^^::^!Y#@@@@@@@@@@@@#57^::^^^^^^~!?Y5YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777!~~^:~JB&@@@@@@@@@@@@@@@@@@&BY~^^!?J55555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!Y@@@@@@@@@@@@@@@@@@@@@@@@@@PY55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!G@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!?#@@@@@@@@@@@@@@@@@@@@@@@@&P555555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!777777777!!7YB&@@@@@@@@@@@@@@@@@#GP55555555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@#!!7777777777!!!!?5#&@@@@@@@@@&BP5YY555555555555Y#@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@#J!!!!7777777777!!!7JP#&@&BP5YY5555555555555Y5P#@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@&BY?!!!77777777777!!!7Y5Y5555555555555555G#&@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&GJ7!!!77777777777Y55555555555555555P#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#PJ7!!!7777777Y555555555555555555Y5PG#@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&B5?!!!!777Y5555Y55YY555555555555YY5&@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&BY?!!!Y555G#&@#GP555555555555P#@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#GPB#&@@@@@@@@&BP55555PG#&@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\&G?~~^^~~?G&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#5!^::^^^^::^!YB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#P7^:::^^^^^^^^^^:::^75#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\&G?~~:::^^^^^^^^^^^^^^^^^^:::~~?P&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\&BJ!^::^^^^^^^^^^^^::^^^^^^^^^^^^::^~~JG&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@#5!^:::^^^^^^^^^^^:::~~77~~^::^^^^^^^^^^^^::^!Y#@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@J^::^^^^^^^^^^^:::^7P#@@@@\&P?~~:::^^^^^^^^^^:::^Y@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!7!!~~^^^^^^^::^!Y#@@@@@@@@@@@@#57^::^^^^^^~~!?Y5YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!77777!\~\~^:~~JB&@@@@@@@@@@@@@@@@@@\&BY~~^^!?J55555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!Y@@@@@@@@@@@@@@@@@@@@@@@@@@PY55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@\&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@\&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@\&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@\&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@\&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!G@@@@@@@@@@@@@@@@@@@@@@@@@@\&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!?#@@@@@@@@@@@@@@@@@@@@@@@@\&P555555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!777777777!!7YB&@@@@@@@@@@@@@@@@@#GP55555555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@#!!7777777777!!!!?5#&@@@@@@@@@\&BP5YY555555555555Y#@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@#J!!!!7777777777!!!7JP#&@\&BP5YY5555555555555Y5P#@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@\&BY?!!!77777777777!!!7Y5Y5555555555555555G#&@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\&GJ7!!!77777777777Y55555555555555555P#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#PJ7!!!7777777Y555555555555555555Y5PG#@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\&B5?!!!!777Y5555Y55YY555555555555YY5&@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\&BY?!!!Y555G#&@#GP555555555555P#@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#GPB#&@@@@@@@@\&BP55555PG#&@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-                    _                                    ___      __                 ___  ___
-                   /_\__ __ _____ ___ ___ _ __  ___     /   \ _  _| |__  ___ ___    / _ \/ __|
-                  / _ \ V  V / -_|_-</ _ \ '  \/ -_)   | (_) | || | '_ \/ -_|_-<   | (_) \__ \
-                 /_/ \_\_/\_/\___/__/\___/_|_|_\___|    \__\_\\_,_|_.__/\___/__/    \___/|___/
+                _                                    ___      __                 ___  ___
+               /_\__ __ _____ ___ ___ _ __  ___     /   \ _  _| |__  ___ ___    / _ \/ __|
+              / _ \ V  V / -_|_-</ _ \ '  \/ -_)   | (_) | || | '_ \/ -_|_-<   | (_) \__ \
+             /_/ \_\_/\_/\___/__/\___/_|_|_\___|    \__\_\\_,_|_.__/\___/__/    \___/|___/
 
 # Awesome Qubes OS [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -103,8 +103,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Certified Hardware](https://www.qubes-os.org/doc/certified-hardware/) - We aim for these vendors to be as diverse as possible in terms of geography, cost, and availability.
 *   [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/) - Community-recommended computers.
 *   [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/) - The HCL is a compilation of reports generated and submitted by users across various Qubes versions about their hardware’s compatibility with Qubes.
-*   [System Requirements](https://www.qubes-os.org/doc/system-requirements/) - User documentation / Choosing your hardware.
-*   [Security design goals](https://www.qubes-os.org/doc/security-design-goals/) - Qubes makes is that now the attacker doesn’t have access to all the software running in the other domains.
+*   [System Requirements](https://www.qubes-os.org/doc/system-requirements/) - User documentation / Choyhe attacker doesn’t have access to all the software running in the other domains.
 *   [Security-critical code](https://www.qubes-os.org/doc/security-critical-code/) - A list of security-critical (i.e., trusted) code components in Qubes OS.
 *   [Storage pools](https://www.qubes-os.org/doc/storage-pools/) - Qubes OS implements a security-by-isolation (or security-by-compartmentalization) approach by providing the ability to easily create many security domains.
 *   [Secondary storage](https://www.qubes-os.org/doc/secondary-storage/) - hese steps assume you have already created a separate volume group and thin pool (not thin volume) for your HDD.
@@ -132,6 +131,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## How-to guides
 
+*   [How to resize dom0](https://forum.qubes-os.org/t/resize-dom0/10886) - Just in case anyone needs help with this to resize dom0 from say 20G to 50G.
 *   [How to back up, restore, and migrate](https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/) - With Qubes, it’s easy and secure to back up and restore your whole system, as well as to migrate between two physical machines.
 *   [How to copy and move files](https://www.qubes-os.org/doc/how-to-copy-and-move-files/) - This page is about copying and moving files.
 *   [How to copy and paste text](https://www.qubes-os.org/doc/how-to-copy-and-paste-text/) - This page is about copying and pasting plain text.
@@ -151,6 +151,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     *   [PAM distress login for xscreensaver (⭐0)](https://github.com/kennethrrosen/qubes-PAM-distress-login/)
     *   [Automated Arkenfox Qubes browser install (⭐7)](https://github.com/kennethrrosen/journoSEC/tree/main/mozilla/arkenfox)
 *   [How to Implement TPM Boot Verification (⭐1)](https://github.com/kennethrrosen/qubes-boot-verification) - Verify and validate boot process using PCR without Heads or AEM on systems using TPM 2.0
+*   [How to open Urls in other qube](https://forum.qubes-os.org/t/opening-urls-files-in-other-qubes/19026) - This page is about opening URLs and files from one qube in a different qube.
 
 ## Templates
 
@@ -169,7 +170,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Templates](https://www.qubes-os.org/doc/templates/) - In Getting Started, we covered the distinction in Qubes OS between where you install your software and where you run your software.
 *   [Template implementation](https://www.qubes-os.org/doc/template-implementation/) - Describes template implementation.
 *   [Template manager](https://www.qubes-os.org/doc/template-manager/) -  A template manager application.
-*   [Shadow qubegithub.com/vinix (⭐3)](https://github.com/kennethrrosen/qubes-shadow-dvm) - The below script will create a Qube, launch the Tor browser, wait for the browser to close, then remove the qube and its RAM pool.
+*   [Shadow qube (⭐3)](https://github.com/kennethrrosen/qubes-shadow-dvm) - The below script will create a Qube, launch the Tor browser, wait for the browser to close, then remove the qube and its RAM pool.
 *   [USB Qubes](https://www.qubes-os.org/doc/usb-qubes/) - A USB qube acts as a secure handler for potentially malicious USB devices, preventing them from coming into contact with dom0 (which could otherwise be fatal to the security of the whole system). I
 *   [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/) - If you would like to use Xfce (more lightweight compared to GNOME desktop environment) Linux distribution in your Qubes, you can install one of the available Xfce templates for Fedora, CentOS or Gentoo.
 
@@ -236,7 +237,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ### Wireguard
 
-*   [Mullvad VPN (FE38 + WG)](https://mullvad.net/en/help/wireguard-on-qubes-os/) - Privacy-first VPN provider's guide for Qubes OS. This guide bears an optimal method for setting up a WG ProxyVM (i.e `sys-vpn`); you may substitute out Mullvad's WG configuration files in place of your own.
+*   [Mullvad VPN (Fedora38 + WG)](https://mullvad.net/en/help/wireguard-on-qubes-os/) - Privacy-first VPN provider's guide for Qubes OS. This guide bears an optimal method for setting up a WG ProxyVM (i.e `sys-vpn`); you may substitute out Mullvad's WG configuration files in place of your own.
 
 ### OpenVPN
 
@@ -326,21 +327,13 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ### Xen Exploitation
 
 *   [Advanced Exploitation](https://www.youtube.com/watch?v=6Ld5CiInrcI) - Xen Hypervisor VM Escape
-
 *   [Blackhat 2010 ](https://www.youtube.com/watch?v=sTC9x5hYYFo) - Hacking the Hypervisor
-
 *   [Blackhat 2014](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [\[Website Slides\]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf) - Lessons Learned from Eight Years of Breaking Hypervisors
-
 *   [Blackhat 2015](https://www.youtube.com/watch?v=nyW3eTobXAI) - [\[PDF Slides\]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf) - Attacking Hypervisors Using Firmware And Hardware
-
 *   [Ouroboros](https://www.youtube.com/watch?v=kt3kX94kWcM) - Tearing Xen Hypervisor With the Snake
-
 *   [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [\[PDF Slides\]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
-
 *   [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [\[PDF Slides\]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
-
 *   [XenPwn](https://www.youtube.com/watch?v=qxz8MzE3QME) - [\[PDF Slide\]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf) - Breaking Paravirtualized Devices
-
 *   [Hypervisor Vulnerability Research \[PDF\]](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf) - State of the Art
 
 ### Web articles

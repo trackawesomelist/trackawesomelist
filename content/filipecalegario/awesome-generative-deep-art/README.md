@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Nov 10, 2023](/content/2023/11/10/README.md)
+
+### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
+
+*   [imartinez/privateGPT (⭐40k)](https://github.com/imartinez/privateGPT): "Interact with your documents using the power of GPT, 100% privately, no data leaks"
+
 ## [Nov 09, 2023](/content/2023/11/09/README.md)
 
 ### Generative AI history, maps, and definitions
@@ -1682,7 +1688,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Related Awesome Lists / Deforum
 
-*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐3.3k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
+*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐3.4k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 
 ## [Nov 23, 2022](/content/2022/11/23/README.md)
 

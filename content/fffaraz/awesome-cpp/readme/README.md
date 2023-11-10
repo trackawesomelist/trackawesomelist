@@ -176,6 +176,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Audio, Sound, Music, Digitized Voice Libraries*
 
+*   [Amplitude Audio SDK (⭐8)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
 *   [Aubio (⭐3k)](https://github.com/aubio/aubio) - A library for audio and music analysis.\[GPL-3.0] [website](https://aubio.org/)
 *   [AudioFile (⭐830)](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. \[MIT]
 *   [audioFlux (⭐1.9k)](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. \[MIT]
@@ -368,7 +369,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [robin-hood-hashing (⭐1.4k)](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++14. \[MIT]
 *   [robin-map (⭐1.1k)](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. \[MIT]
 *   [sparsepp (⭐1.2k)](https://github.com/greg7mdp/sparsepp) - A fast, memory efficient hash map for C++. \[BSD 3-clause]
-*   [svector (⭐77)](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. \[MIT]
+*   [svector (⭐79)](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. \[MIT]
 *   [unordered\_dense (⭐579)](https://github.com/martinus/unordered_dense) - A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. \[MIT]
 
 ## Cryptography
@@ -520,6 +521,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [FreeType](https://www.freetype.org/) - FreeType is a freely available software library to render fonts. \[FTL & GPLv2]
 *   [otfcc (⭐409)](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. \[Apache-2.0]
 *   [harfbuzz (⭐3.3k)](https://github.com/harfbuzz/harfbuzz) - A text shaping engine. \[Old MIT]
+*   [libschrift (⭐395)](https://github.com/tomolt/libschrift) - A lightweight TrueType font rendering library. \[ISC]
 
 ## Game Engine
 
@@ -1306,8 +1308,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *Fantastic C or C++ related books.*
 
 *   [List of Free C or C++ Books (⭐50k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
-*   [Free C Books (⭐301k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
-*   [Free C++ Books (⭐301k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
+*   [Free C Books (⭐303k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
+*   [Free C++ Books (⭐303k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
 *   [cppbestpractices (⭐7.4k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 
 ## Coding Standards

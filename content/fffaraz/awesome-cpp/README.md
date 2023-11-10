@@ -6,6 +6,16 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Nov 10, 2023](/content/2023/11/10/README.md)
+
+### Audio
+
+*   [Amplitude Audio SDK (⭐8)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
+
+### Font
+
+*   [libschrift (⭐395)](https://github.com/tomolt/libschrift) - A lightweight TrueType font rendering library. \[ISC]
+
 ## [Nov 06, 2023](/content/2023/11/06/README.md)
 
 ### Networking
@@ -64,7 +74,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Containers
 
-*   [svector (⭐77)](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. \[MIT]
+*   [svector (⭐79)](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. \[MIT]
 
 ## [Oct 22, 2023](/content/2023/10/22/README.md)
 
@@ -698,8 +708,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Books
 
-*   [Free C Books (⭐301k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
-*   [Free C++ Books (⭐301k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
+*   [Free C Books (⭐303k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
+*   [Free C++ Books (⭐303k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
 
 ## [Nov 09, 2021](/content/2021/11/09/README.md)
 

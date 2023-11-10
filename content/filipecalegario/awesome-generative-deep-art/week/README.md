@@ -27,6 +27,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
+*   [imartinez/privateGPT (⭐40k)](https://github.com/imartinez/privateGPT): "Interact with your documents using the power of GPT, 100% privately, no data leaks"
 *   [pinecone-io/canopy (⭐57)](https://github.com/pinecone-io/canopy): Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
 *   [Forget RAG, the Future is RAG-Fusion](https://towardsdatascience.com/forget-rag-the-future-is-rag-fusion-1147298d8ad1): post by Adrian H. Raudaschl in Towards Data Science
 
@@ -1325,7 +1326,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Related Awesome Lists / Deforum
 
-*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐3.3k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
+*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐3.4k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 *   [chaosreactor/awesome-generative-ai (⭐26)](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)

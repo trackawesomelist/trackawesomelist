@@ -492,6 +492,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Retrieval-Augmented Generation (RAG)
 
+*   [imartinez/privateGPT (⭐40k)](https://github.com/imartinez/privateGPT): "Interact with your documents using the power of GPT, 100% privately, no data leaks"
 *   [pinecone-io/canopy (⭐57)](https://github.com/pinecone-io/canopy): Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
 *   [Forget RAG, the Future is RAG-Fusion](https://towardsdatascience.com/forget-rag-the-future-is-rag-fusion-1147298d8ad1): post by Adrian H. Raudaschl in Towards Data Science
 *   [Rerankers and Two-Stage Retrieval | Pinecone](https://www.pinecone.io/learn/series/rag/rerankers/)
@@ -999,7 +1000,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [kyrolabs/awesome-langchain (⭐5.4k)](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
 *   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐72)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 *   \[🔥] [amrzv/awesome-colab-notebooks (⭐997)](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
-*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐3.3k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
+*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐3.4k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 *   \[🔥🔥🔥] [jonathandinu/awesome-ai-art (⭐306)](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
 *   [margaretmz/awesome-ai-art-design (⭐24)](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
 *   [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab (⭐270)](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory

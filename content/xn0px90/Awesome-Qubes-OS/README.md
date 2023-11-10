@@ -8,6 +8,11 @@ A curated list of awesome qubes os links
 
 ## [Nov 10, 2023](/content/2023/11/10/README.md)
 
+### How-to guides
+
+*   [How to resize dom0](https://forum.qubes-os.org/t/resize-dom0/10886) - Just in case anyone needs help with this to resize dom0 from say 20G to 50G.
+*   [How to open Urls in other qube](https://forum.qubes-os.org/t/opening-urls-files-in-other-qubes/19026) - This page is about opening URLs and files from one qube in a different qube.
+
 ### Templates
 
 *   [Building a TemplateVM for a new OS](https://forum.qubes-os.org/docs?topic=18972) - If you don’t like using one of the existing templates because of specific administration, package management or other building needs, you can build a TemplateVM for your distribution of choice.
@@ -15,7 +20,7 @@ A curated list of awesome qubes os links
 *   [Multimedia template](https://forum.qubes-os.org/t/configuring-a-multimedia-templatevm/19055) - Configuring a “Multimedia” TemplateVM
 *   [Windows Qubes](https://www.qubes-os.org/doc/windows/) - Like any other unmodified OSes, Windows can be installed in Qubes as an HVM domain.
 *   [Tails OS](https://forum.qubes-os.org/docs?topic=19012) - Tails stands for The Amnesic Incognito Live System. It is a live operating system that aims to preserve your privacy and anonymity.
-*   [Shadow qubegithub.com/vinix (⭐3)](https://github.com/kennethrrosen/qubes-shadow-dvm) - The below script will create a Qube, launch the Tor browser, wait for the browser to close, then remove the qube and its RAM pool.
+*   [Shadow qube (⭐3)](https://github.com/kennethrrosen/qubes-shadow-dvm) - The below script will create a Qube, launch the Tor browser, wait for the browser to close, then remove the qube and its RAM pool.
 
 ### VM-Hardening
 
@@ -30,7 +35,7 @@ A curated list of awesome qubes os links
 
 ### Clearnet & Anonymous Networking / Wireguard
 
-*   [Mullvad VPN (FE38 + WG)](https://mullvad.net/en/help/wireguard-on-qubes-os/) - Privacy-first VPN provider's guide for Qubes OS. This guide bears an optimal method for setting up a WG ProxyVM (i.e `sys-vpn`); you may substitute out Mullvad's WG configuration files in place of your own.
+*   [Mullvad VPN (Fedora38 + WG)](https://mullvad.net/en/help/wireguard-on-qubes-os/) - Privacy-first VPN provider's guide for Qubes OS. This guide bears an optimal method for setting up a WG ProxyVM (i.e `sys-vpn`); you may substitute out Mullvad's WG configuration files in place of your own.
 
 ### Clearnet & Anonymous Networking / Anonymity
 
@@ -417,8 +422,7 @@ A curated list of awesome qubes os links
 *   [Certified Hardware](https://www.qubes-os.org/doc/certified-hardware/) - We aim for these vendors to be as diverse as possible in terms of geography, cost, and availability.
 *   [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/) - Community-recommended computers.
 *   [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/) - The HCL is a compilation of reports generated and submitted by users across various Qubes versions about their hardware’s compatibility with Qubes.
-*   [System Requirements](https://www.qubes-os.org/doc/system-requirements/) - User documentation / Choosing your hardware.
-*   [Security design goals](https://www.qubes-os.org/doc/security-design-goals/) - Qubes makes is that now the attacker doesn’t have access to all the software running in the other domains.
+*   [System Requirements](https://www.qubes-os.org/doc/system-requirements/) - User documentation / Choyhe attacker doesn’t have access to all the software running in the other domains.
 *   [Security-critical code](https://www.qubes-os.org/doc/security-critical-code/) - A list of security-critical (i.e., trusted) code components in Qubes OS.
 *   [Storage pools](https://www.qubes-os.org/doc/storage-pools/) - Qubes OS implements a security-by-isolation (or security-by-compartmentalization) approach by providing the ability to easily create many security domains.
 *   [Secondary storage](https://www.qubes-os.org/doc/secondary-storage/) - hese steps assume you have already created a separate volume group and thin pool (not thin volume) for your HDD.
