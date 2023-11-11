@@ -1,12 +1,34 @@
 # Awesome List Updates on Nov 11, 2023
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [1. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Resources / Community
+
+*   \[VueJS Bangladesh - Facebook Group] (<https://www.facebook.com/groups/764064325433370>)
+
+### Projects Using Vue.js / Open Source
+
+*   [Al Quran App-Vue 3 (⭐0)](https://github.com/monayemislam/Al-Quran-Using-Vue) - Al Quran App that allows you to read surah with english meaning
+
+### Projects Using Vue.js / Apps/Websites
+
+*   [Portfolio Site](https://monayemislam.me) - Monayem Islam, A full-stack web application developer's portfolio site. Made with Love and Vue 3.
+
+### Components & Libraries / UI Components
+
+*   [vue-file-upload (⭐6)](https://github.com/canopas/vue-file-upload) - A file management system that allows for single and multiple file uploading with a preview feature
+
+### Components & Libraries / UI Utilities
+
+*   [vue-exit-intent (⭐4)](https://github.com/nickap/vue-exit-intent) - ✨ Vue Composable to handle user's Exit Intent.
+
+## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### News and Resources
 
@@ -16,7 +38,7 @@
 
 *   [ada-chess (⭐1)](https://github.com/adachess/AdaChess) - Chess engine written in Ada.
 
-## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line utilities
 
@@ -30,7 +52,7 @@
 
 *   [uint8array-extras (⭐131)](https://github.com/sindresorhus/uint8array-extras) - Useful utilities for working with Uint8Array and Buffer.
 
-## [3. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
+## [4. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ### Cars
 
@@ -38,7 +60,7 @@
 
     <img src="https://raw.githubusercontent.com/niklasvieth/polestar-ios-lockscreen-widget/main/images/polestar_lockscreen_widget.jpeg" width="400"/>
 
-## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### AI Engineering / Multi-agents
 
@@ -48,7 +70,7 @@
 
 *   [Recommendations for the advancement of artificial intelligence in Brazil – ABC](https://www.abc.org.br/evento/doc-ia-no-brasil/) \[PT-BR]
 
-## [5. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [6. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### Templates
 
@@ -83,19 +105,19 @@
 
 *   [How to bypass the GFW on Qubes OS when you’re in China](https://forum.qubes-os.org/t/how-to-bypass-the-gfw-on-qubes-os-when-youre-in-china-qubes-os/14957) - The purpose of this article is to provide several feasible ways to bypass the GFW for you to choose.
 
-## [6. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
+## [7. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
 ### Scripts / Google
 
 *   [GoogleGPT](https://googlegpt.kudoai.com/greasemonkey) - Display ChatGPT answers in Google Search sidebar (powered by GPT-4!)
 
-## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Vue / Loaders
 
 *   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-markdown-mermaid (⭐2)](https://github.com/KermanX/vite-plugin-markdown-mermaid) - Load Markdown files, with Mermaid rendering support.
 
-## [8. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
