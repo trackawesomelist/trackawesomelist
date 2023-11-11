@@ -15,7 +15,9 @@ A curated list of awesome qubes os links
 
 ### Templates
 
+*   [archlinux-minimal template](https://forum.qubes-os.org/t/archlinux-minimal-template/19052) - This is a community guide, not an official guide.
 *   [Building a TemplateVM for a new OS](https://forum.qubes-os.org/docs?topic=18972) - If you don’t like using one of the existing templates because of specific administration, package management or other building needs, you can build a TemplateVM for your distribution of choice.
+*   [NetBSD templates](https://forum.qubes-os.org/t/netbsd-qube/19009) - Createa NetBSD template
 *   [Linux HVMs](https://forum.qubes-os.org/docs?topic=19008) - Fixing Linux distro HVMs
 *   [Multimedia template](https://forum.qubes-os.org/t/configuring-a-multimedia-templatevm/19055) - Configuring a “Multimedia” TemplateVM
 *   [Windows Qubes](https://www.qubes-os.org/doc/windows/) - Like any other unmodified OSes, Windows can be installed in Qubes as an HVM domain.
@@ -25,22 +27,38 @@ A curated list of awesome qubes os links
 ### VM-Hardening
 
 *   [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/) - Updating dom0
+*   [nft Firewall](https://forum.qubes-os.org/t/qubes-os-4-2-nftables-nft-firewall-guide/20933) - This is an example for a TCP redirection, for UDP you would have to replace tcp by udp.
 *   [Signal](https://forum.qubes-os.org/t/signal-messenger/19073) - It uses end-to-end encryption to secure all communications.
 *   [Split SSH](https://deniszanin.com/using-split-ssh-gpg-in-qubes-os) - Split SSH implements a concept similar to having a smart card with your private SSH keys, except that the role of the “smart card” is played by another Qubes AppVM.
 
 ### Desktop Customization
 
 *   [Bash completion](https://forum.qubes-os.org/docs?topic=19008) - How to install bash completion for Qubes OS commands.
+*   [DPI scaling](https://forum.qubes-os.org/t/dpi-scaling/19064) - Qubes OS passes on dom0’s screen resolution to VMs (this can be seen in the output of xrandr) but doesn’t pass on dom0’s dpi value.
 *   [PLayback performance](https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube/21946) - This guide will show you how to install the mpv player and use it with maximum performance.
 *   [Wayland agent (⭐8)](https://github.com/DemiMarie/qubes-wayland) - This is a GUI agent for Qubes OS that supports the \[Wayland] display server protocol. Compared to X11, Wayland is vastly simpler and aims to ensure every frame is perfect.
+
+### Troubleshooting
+
+*   [Mounting a qube’s private storage in another qube](https://forum.qubes-os.org/t/mounting-a-qubes-private-storage-in-another-qube/19080) -  Useful for data recovery.
+*   [Traffic Analysis in Qubes OS](https://zrubi.hu/en/2017/traffic-analysis-qubes/) - You can place a ProxyVM between your AppVMs and Your NetVM. This way we can create an ideal topology for traffic analysis.
+*   [Analyze Qubes OS VM  (⭐1)](https://github.com/3hhh/qubes-performance) - Analyze Qubes OS VM startup performance.
+*   [Url redirector (⭐32)](https://github.com/raffaeleflorio/qubes-url-redirector/) - This is a browser extension, aimed to improve surfing security.
+*   [Changing your Time Zone](https://forum.qubes-os.org/t/changing-your-time-zone/18983) - Change the system’s time zone in terminal you can issue the timedatectl command with the option set-timezone.
 
 ### Clearnet & Anonymous Networking / Wireguard
 
 *   [Mullvad VPN (Fedora38 + WG)](https://mullvad.net/en/help/wireguard-on-qubes-os/) - Privacy-first VPN provider's guide for Qubes OS. This guide bears an optimal method for setting up a WG ProxyVM (i.e `sys-vpn`); you may substitute out Mullvad's WG configuration files in place of your own.
+*   [Wireguard setup](https://forum.qubes-os.org/t/wireguard-vpn-setup/19141) - This guide assumes you are using a VPN service that has wireguard support.
+
+### Clearnet & Anonymous Networking / OpenVPN
+
+*   [Mullvad VPN (Dedian 12 + OVPN)](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy-first VPN provider's guide for Qubes OS.
 
 ### Clearnet & Anonymous Networking / Anonymity
 
 *   [Really disposable ram based qubes](https://forum.qubes-os.org/t/really-disposable-ram-based-qubes/21532) - You can use your QubesOS 𝚜𝚝𝚊𝚝𝚎𝚕𝚎𝚜𝚜 just like TailsOS, with persistent storage for VMs. That is pretty simple! It takes 6Gb of extra 𝚁𝙰𝙼 (for store root filesystem files).
+*   [How to bypass the GFW on Qubes OS when you’re in China](https://forum.qubes-os.org/t/how-to-bypass-the-gfw-on-qubes-os-when-youre-in-china-qubes-os/14957) - The purpose of this article is to provide several feasible ways to bypass the GFW for you to choose.
 
 ### Exploitation Tools / Unikernel-like
 
@@ -85,8 +103,8 @@ A curated list of awesome qubes os links
 
 *   [How to persist Tailscale tunnel in QubesOS  (⭐2)](https://github.com/kennethrrosen/tailscale_QubesOS) - Tailscale is a mesh private network that lets you easily manage access to private resources or quickly SSH into devices on your network.
 *   [How to use Qubes for journalists and Humans Rights Defenders (⭐7)](https://github.com/kennethrrosen/journoSEC) - A suite of tools for improving and streamlining the use of Qubes OS for reporters, edtiors, lawyers and aid workers. Work in progress.
-    *   [PAM distress login for xscreensaver (⭐0)](https://github.com/kennethrrosen/qubes-PAM-distress-login/)
-    *   [Automated Arkenfox Qubes browser install (⭐7)](https://github.com/kennethrrosen/journoSEC/tree/main/mozilla/arkenfox)
+    *   [PAM distress login for xscreensaver (⭐0)](https://github.com/kennethrrosen/qubes-PAM-distress-login/) - A simple setup for sending a distress email if forced to login to desktop beyond LUKS passwords.
+    *   [Automated Arkenfox Qubes browser install (⭐7)](https://github.com/kennethrrosen/journoSEC/tree/main/mozilla/arkenfox) - Arkenfox config install for journalists
 
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
@@ -95,10 +113,6 @@ A curated list of awesome qubes os links
 *   [Qubes OS 4.2 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.2 Weekly Build download.
 
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
-
-### Clearnet & Anonymous Networking / OpenVPN
-
-*   [Mullvad VPN (DEB10 + OVPN)](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy-first VPN provider's guide for Qubes OS.
 
 ### Exploitation Tools / Unikernel-like
 

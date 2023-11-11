@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Nov 11, 2023](/content/2023/11/11/README.md)
+
+### Vue / Loaders
+
+*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-markdown-mermaid (⭐2)](https://github.com/KermanX/vite-plugin-markdown-mermaid) - Load Markdown files, with Mermaid rendering support.
+
 ## [Nov 10, 2023](/content/2023/11/10/README.md)
 
 ### Framework-agnostic Plugins / Helpers

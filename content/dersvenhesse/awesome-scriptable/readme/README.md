@@ -2,7 +2,7 @@
 
 A curated list of awesome Scriptable scripts and widgets.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dersvenhesse/awesome-scriptable/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dersvenhesse/awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable) · ⭐ 945 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dersvenhesse/awesome-scriptable/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dersvenhesse/awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable) · ⭐ 953 · 🏷️ Miscellaneous
 
 [ [Daily](/content/dersvenhesse/awesome-scriptable/README.md) / [Weekly](/content/dersvenhesse/awesome-scriptable/week/README.md) / Overview ]
 
@@ -55,7 +55,11 @@ A curated list of awesome Scriptable scripts and widgets.
 
     <img src="https://github.com/dschablowsky/FordPassWidget/raw/master/fp-widget.jpg" width="400"/>
 
-*   [SmarterTankenWidget.js](https://github.com/Martlgap/SmarterTankenWidget) - Price difference of two gas stations in different countries.
+*   [Polestar SoC Lockscreen Widget (⭐7)](https://github.com/niklasvieth/polestar-ios-lockscreen-widget) - Current state of charge of your Polestar 2 as lockscreen widget.
+
+    <img src="https://raw.githubusercontent.com/niklasvieth/polestar-ios-lockscreen-widget/main/images/polestar_lockscreen_widget.jpeg" width="400"/>
+
+*   [SmarterTankenWidget.js (⭐1)](https://github.com/Martlgap/SmarterTankenWidget) - Price difference of two gas stations in different countries.
 
     <img src="https://user-images.githubusercontent.com/20643017/189459347-e66e7ec1-c66a-4467-b6c9-5517bd38ac28.png" width="200"/>
 
@@ -139,7 +143,7 @@ A curated list of awesome Scriptable scripts and widgets.
 
     <img src="https://user-images.githubusercontent.com/8177259/96705591-cb7db480-1395-11eb-8fb3-cff401898bc2.jpg" width="800"/>
 
-*   [VodafoneDE (⭐270)](https://github.com/ThisIsBenny/iOS-Widgets/tree/main/VodafoneDE) - Data consumption based on tariff for Vodafone DE.
+*   [VodafoneDE (⭐269)](https://github.com/ThisIsBenny/iOS-Widgets/tree/main/VodafoneDE) - Data consumption based on tariff for Vodafone DE.
 
     <img src="https://raw.githubusercontent.com/ThisIsBenny/iOS-Widgets/main/VodafoneDE/previewLight.jpeg" width="200"/>
 
@@ -159,7 +163,7 @@ A curated list of awesome Scriptable scripts and widgets.
 
 ## Reading
 
-*   [scriptable-news-Widget.js (⭐108)](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
+*   [scriptable-news-Widget.js (⭐109)](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
 
     <img src="https://raw.githubusercontent.com/Saudumm/scriptable-News-Widget/main/images/widgets.jpg" width="800"/>
 
@@ -177,11 +181,11 @@ A curated list of awesome Scriptable scripts and widgets.
 
 ## Social
 
-*   [conversable-for-scriptable (⭐183)](https://github.com/andyngo/conversable-for-scriptable) - Contact icons to start conversations.
+*   [conversable-for-scriptable (⭐184)](https://github.com/andyngo/conversable-for-scriptable) - Contact icons to start conversations.
 
     <img src="https://github.com/andyngo/conversable-for-scriptable/raw/main/conversable.png" width="400"/>
 
-*   [ig-latest-post.js (⭐193)](https://github.com/supermamon/scriptable-scripts/blob/master/instagram-widgets/ig-latest-post.js) - The latest post from selected Instagram users.
+*   [ig-latest-post.js (⭐196)](https://github.com/supermamon/scriptable-scripts/blob/master/instagram-widgets/ig-latest-post.js) - The latest post from selected Instagram users.
 
 *   [termiWidget.js](https://gist.github.com/spencerwooo/7955aefc4ffa5bc8ae7c83d85d05e7a4) - Terminal-like output of subscriber amount.
 
@@ -189,7 +193,7 @@ A curated list of awesome Scriptable scripts and widgets.
 
 ## Shopping
 
-*   [exchangeRate.js (⭐181)](https://github.com/Juniorchen2012/scriptable/blob/master/exchangeRate.js) - Currency exchange rates.
+*   [exchangeRate.js (⭐182)](https://github.com/Juniorchen2012/scriptable/blob/master/exchangeRate.js) - Currency exchange rates.
 
 *   [dm-toilet-paper.js](https://gist.github.com/marco79cgn/23ce08fd8711ee893a3be12d4543f2d2) - Toilet paper availability in a nearby drugstore.
 
@@ -209,7 +213,7 @@ A curated list of awesome Scriptable scripts and widgets.
 
     <img src="https://raw.githubusercontent.com/bestmacfly/Scriptable-lichess-Widget/main/Screenshot.png" width="400"/>
 
-*   [skiable (⭐16)](https://github.com/p0fi/skiable-for-scriptable) - Skiing information like snow height or the number of open lifts.
+*   [skiable (⭐15)](https://github.com/p0fi/skiable-for-scriptable) - Skiing information like snow height or the number of open lifts.
 
     <img src="https://raw.githubusercontent.com/p0fi/skiable-for-scriptable/main/cover.png" width="400"/>
 
@@ -241,7 +245,7 @@ A curated list of awesome Scriptable scripts and widgets.
 
     <img src="https://user-images.githubusercontent.com/56842969/97914623-76a44b80-1d50-11eb-9273-b35b4b76a3f0.jpeg" width="400"/>
 
-*   [xkcd.js (⭐193)](https://github.com/supermamon/scriptable-scripts/blob/master/xkcd-widget/xkcd.js) - Current or random xkcd comic.
+*   [xkcd.js (⭐196)](https://github.com/supermamon/scriptable-scripts/blob/master/xkcd-widget/xkcd.js) - Current or random xkcd comic.
 
 ## Traveling
 
@@ -255,7 +259,7 @@ A curated list of awesome Scriptable scripts and widgets.
 
 ### Download helper
 
-*   [Import-Script.js (⭐193)](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Script to download code (i.e., from Pastebin, GitHub) into Scriptable.
+*   [Import-Script.js (⭐196)](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Script to download code (i.e., from Pastebin, GitHub) into Scriptable.
 
 *   [scriptdu.de](https://scriptdu.de) - Downloader and updater for scripts.
 
