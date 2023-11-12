@@ -61,6 +61,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
     *   [Security](#security)
     *   [Static Assets](#static-assets)
     *   [Task Queues](#task-queues)
+    *   [Templates](#templates)
     *   [Testing](#testing)
     *   [URLs](#urls)
     *   [Users](#users)
@@ -184,7 +185,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 ### ECommerce
 
-*   [saleor (⭐81)](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform.
+*   [saleor (⭐85)](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform.
 *   [django-shop (⭐3.1k)](https://github.com/awesto/django-shop) - Django-based shop system.
 *   [shuup (⭐2.1k)](https://github.com/shuup/shuup) - Django E-Commerce Platform.
 *   [django-oscar (⭐5.9k)](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django.
@@ -310,6 +311,16 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [celery-exporter (⭐304)](https://github.com/danihodovic/celery-exporter) - Prometheus & Grafana monitoring of Celery tasks.
 *   [django-dramatiq (⭐300)](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability, and performance.
 
+### Templates
+
+*   [curlylint](https://www.curlylint.org/) – Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid.
+*   [django-components (⭐744)](https://github.com/EmilStenstrom/django-components/) – A way to create simple reusable template components in Django.
+*   [django-template-partials (⭐186)](https://github.com/carltongibson/django-template-partials/) – Reusable named inline partials for the Django Template Language.
+*   [djhtml (⭐479)](https://github.com/rtts/djhtml) – Django/Jinja template indenter.
+*   [djlint](https://www.djlint.com/) – Lint & Format HTML Templates.
+*   [slippers](https://mitchel.me/slippers/) – Build reusable components in Django without writing a single line of Python.
+*   [JinjaX](https://jinjax.scaletti.dev/) – Super components powers for your Jinja templates.
+
 ### Testing
 
 *   [django-debug-toolbar (⭐7.7k)](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses.
@@ -323,6 +334,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [drf-openapi-tester (⭐121)](https://github.com/snok/drf-openapi-tester) - Django test utility for validating Swagger 2.0 and OpenAPI 3.0 documentation.
 *   [django-google-optimize (⭐41)](https://github.com/adinhodovic/django-google-optimize) - Django application designed to make running server side Google Optimize A/B tests easy.
 *   [django-pattern-library (⭐298)](https://github.com/torchbox/django-pattern-library) - Pattern library generator for Django templates, to help testing of UI components.
+*   [storybook-django (⭐90)](https://github.com/torchbox/storybook-django) – Develop Django UI components in isolation, with Storybook.
 
 ### URLs
 
@@ -546,10 +558,12 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 <!--lint disable double-link-->
 
-*   [Official Documentation](https://wagtail.io/)
+*   [Official website](https://wagtail.org/)
+*   [Developer documentation](https://docs.wagtail.org/en/stable/)
+*   [User documentation](https://guide.wagtail.org/en-latest/)
 *   [Wagtail Source Code (⭐16k)](https://github.com/wagtail/wagtail/)
 *   [awesome-wagtail (⭐1.8k)](https://github.com/springload/awesome-wagtail)
-*   [This week in Wagtail](https://wagtail.io/this-week-in-wagtail/) - A (most) weekly email with updates from the Wagtail core team.
+*   [This week in Wagtail](https://wagtail.org/this-week-in-wagtail/) - A (most) weekly email with updates from the Wagtail core team.
 *   [Wagtail Space](https://www.wagtail.space/) - Wagtail CMS events around the world.
 
 <!--lint enable double-link-->

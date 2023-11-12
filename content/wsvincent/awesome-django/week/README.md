@@ -6,6 +6,29 @@ A curated list of awesome things related to Django
 
 [ [Daily](/content/wsvincent/awesome-django/README.md) / Weekly / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
+## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
+
+### Third-Party Packages / Templates
+
+*   [curlylint](https://www.curlylint.org/) – Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid.
+*   [django-components (⭐744)](https://github.com/EmilStenstrom/django-components/) – A way to create simple reusable template components in Django.
+*   [django-template-partials (⭐186)](https://github.com/carltongibson/django-template-partials/) – Reusable named inline partials for the Django Template Language.
+*   [djhtml (⭐479)](https://github.com/rtts/djhtml) – Django/Jinja template indenter.
+*   [djlint](https://www.djlint.com/) – Lint & Format HTML Templates.
+*   [slippers](https://mitchel.me/slippers/) – Build reusable components in Django without writing a single line of Python.
+*   [JinjaX](https://jinjax.scaletti.dev/) – Super components powers for your Jinja templates.
+
+### Third-Party Packages / Testing
+
+*   [storybook-django (⭐90)](https://github.com/torchbox/storybook-django) – Develop Django UI components in isolation, with Storybook.
+
+### Wagtail / Wagtail Resources
+
+*   [Official website](https://wagtail.org/)
+*   [Developer documentation](https://docs.wagtail.org/en/stable/)
+*   [User documentation](https://guide.wagtail.org/en-latest/)
+*   [This week in Wagtail](https://wagtail.org/this-week-in-wagtail/) - A (most) weekly email with updates from the Wagtail core team.
+
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
 ### Third-Party Packages / Users
@@ -587,7 +610,7 @@ A curated list of awesome things related to Django
 
 ### Third-Party Packages / ECommerce
 
-*   [saleor (⭐81)](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform.
+*   [saleor (⭐85)](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform.
 *   [django-shop (⭐3.1k)](https://github.com/awesto/django-shop) - Django-based shop system.
 *   [shuup (⭐2.1k)](https://github.com/shuup/shuup) - Django E-Commerce Platform.
 *   [django-oscar (⭐5.9k)](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django.
@@ -707,10 +730,8 @@ A curated list of awesome things related to Django
 
 ### Wagtail / Wagtail Resources
 
-*   [Official Documentation](https://wagtail.io/)
 *   [Wagtail Source Code (⭐16k)](https://github.com/wagtail/wagtail/)
 *   [awesome-wagtail (⭐1.8k)](https://github.com/springload/awesome-wagtail)
-*   [This week in Wagtail](https://wagtail.io/this-week-in-wagtail/) - A (most) weekly email with updates from the Wagtail core team.
 *   [Wagtail Space](https://www.wagtail.space/) - Wagtail CMS events around the world.
 
 ## [Jun 29 - Jul 05, 2020](/content/2020/26/README.md)

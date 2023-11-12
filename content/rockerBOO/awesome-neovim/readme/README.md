@@ -154,10 +154,10 @@ Collections of awesome neovim plugins.
 *   [creativenull/efmls-configs-nvim (⭐193)](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver to work with builtin LSP.
 *   [creativenull/diagnosticls-configs-nvim (⭐89)](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of linters and formatters configured for diagnostic-languageserver to work with builtin LSP.
 *   [hinell/lsp-timeout.nvim (⭐94)](https://github.com/hinell/lsp-timeout.nvim) - Automatically start/stop idle/unused LSP servers; keeps RAM usage low.
-*   [nvimtools/none-ls.nvim (⭐622)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+*   [nvimtools/none-ls.nvim (⭐760)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 *   [vxpm/ferris.nvim (⭐44)](https://github.com/vxpm/ferris.nvim) - Interact with Rust-Analyzer's LSP extensions.
 *   [mrcjkb/rustaceanvim (⭐94)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
-*   [soulis-1256/hoverhints.nvim (⭐3)](https://github.com/soulis-1256/hoverhints.nvim) - Mouse-hover LSP hints.
+*   [soulis-1256/hoverhints.nvim (⭐16)](https://github.com/soulis-1256/hoverhints.nvim) - Mouse-hover LSP hints.
 
 #### LSP Installer
 
@@ -302,7 +302,7 @@ Collections of awesome neovim plugins.
 *   [roobert/search-replace.nvim (⭐181)](https://github.com/roobert/search-replace.nvim) - Builds on the native search and replace experience.
 *   [AckslD/muren.nvim (⭐287)](https://github.com/AckslD/muren.nvim/) - Multiple replacements through interactive UI.
 *   [windwp/nvim-spectre (⭐1.4k)](https://github.com/windwp/nvim-spectre) - Search and replace panel.
-*   [nvimdev/hlsearch.nvim (⭐32)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
+*   [nvimdev/hlsearch.nvim (⭐33)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
 *   [mangelozzi/rgflow.nvim (⭐21)](https://github.com/mangelozzi/rgflow.nvim) - Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI.
 *   [duane9/nvim-rg (⭐18)](https://github.com/duane9/nvim-rg) - Run RipGrep asynchronously and see results in a quickfix window.
 
@@ -315,7 +315,7 @@ Collections of awesome neovim plugins.
 *   [jvgrootveld/telescope-zoxide (⭐225)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐12k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 *   [echasnovski/mini.nvim#mini.fuzzy (⭐2.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-fuzzy.md) - Module of `mini.nvim` with functions to perform fuzzy matching of one string to others along with fast Telescope sorter.
 *   [axkirillov/easypick.nvim (⭐308)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
-*   [linrongbin16/fzfx.nvim (⭐67)](https://github.com/linrongbin16/fzfx.nvim) - E(x)tended commands missing in fzf.vim, a brand new fzf plugin build from scratch, focused on usability, customization and performance.
+*   [linrongbin16/fzfx.nvim (⭐67)](https://github.com/linrongbin16/fzfx.nvim) - E(x)tended commands missing in fzf.vim, a fzf-based fuzzy finder running on the dynamic engine that parsing user query and selection on every keystroke, with friendly features, good performance and maximized customization.
 *   [echasnovski/mini.nvim#mini.pick (⭐2.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pick.md) - Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more.
 *   [echasnovski/mini.nvim#mini.extra (⭐2.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-extra.md) - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
 
@@ -382,7 +382,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [rafamadriz/neon (⭐153)](https://github.com/rafamadriz/neon) - Customizable colorscheme with excellent italic and bold support, dark and light variants. Made to work and look good with Tree-sitter.
 *   [tomasiser/vim-code-dark (⭐874)](https://github.com/tomasiser/vim-code-dark) - A dark color scheme heavily inspired by the look of the Dark+ scheme of Visual Studio Code.
 *   [Mofiqul/vscode.nvim (⭐531)](https://github.com/Mofiqul/vscode.nvim) - A Lua port of vim-code-dark colorscheme with vscode light and dark theme.
-*   [askfiy/visual\_studio\_code (⭐111)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
+*   [askfiy/visual\_studio\_code (⭐112)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
 *   [marko-cerovac/material.nvim (⭐832)](https://github.com/marko-cerovac/material.nvim) - Material.nvim is a highly configurable colorscheme written in Lua and based on the material palette.
 *   [bluz71/vim-nightfly-colors (⭐691)](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight colorscheme with modern Neovim support including Tree-sitter.
 *   [bluz71/vim-moonfly-colors (⭐671)](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal colorscheme with modern Neovim support including Tree-sitter.
@@ -570,6 +570,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [henriquehbr/nvim-startup.lua](https://sr.ht/~henriquehbr/nvim-startup.lua) - Displays Neovim startup time.
 *   [startup-nvim/startup.nvim (⭐332)](https://github.com/startup-nvim/startup.nvim) - The fully customizable greeter for neovim.
 *   [willothy/veil.nvim (⭐104)](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizable startup / dashboard plugin.
+*   [TobinPalmer/Tip.nvim (⭐2)](https://github.com/TobinPalmer/Tip.nvim) - Get a simple tip when you launch Neovim.
 
 ## Icon
 
@@ -678,7 +679,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [LintaoAmons/scratch.nvim (⭐109)](https://github.com/LintaoAmons/scratch.nvim) - Create and manage scratch files.
 *   [luckasRanarison/nvim-devdocs (⭐167)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
 *   [VidocqH/data-viewer.nvim (⭐47)](https://github.com/VidocqH/data-viewer.nvim) - Provide a simple table view to inspect data files such as `csv`, `tsv`.
-*   [JMarkin/gentags.lua (⭐10)](https://github.com/JMarkin/gentags.lua) - Auto generate tag files by ctags.
+*   [JMarkin/gentags.lua (⭐11)](https://github.com/JMarkin/gentags.lua) - Auto generate tag files by ctags.
 
 ## Terminal Integration
 
@@ -722,7 +723,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Deployment
 
-*   [coffebar/transfer.nvim (⭐3)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
+*   [coffebar/transfer.nvim (⭐22)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
 *   [OscarCreator/rsync.nvim (⭐27)](https://github.com/OscarCreator/rsync.nvim) - Automatically sync up/down project to a remote with rsync.
 
 ## Test
@@ -792,7 +793,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 *   [vuki656/package-info.nvim (⭐304)](https://github.com/vuki656/package-info.nvim) - Display latest package version as virtual text in package.json.
 *   [Saecki/crates.nvim (⭐605)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
-*   [piersolenski/telescope-import.nvim (⭐42)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
+*   [piersolenski/telescope-import.nvim (⭐46)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
 
 ## Git
 
