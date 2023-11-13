@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) · ⭐ 302K · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) · ⭐ 303K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/README.md) / [Weekly](/content/EbookFoundation/free-programming-books/week/README.md) / Overview ]
 
@@ -894,6 +894,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Code Guide: Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide/) - Mark Otto
 *   [CSS Animation 101 (⭐4.6k)](https://github.com/cssanimation/css-animation-101)
 *   [CSS Notes for Professionals](http://goalkicker.com/CSSBook) - Compiled from StackOverflow Documentation (PDF)
+*   [CSS Transition vs CSS animation](https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/) - Oluwatobi Sofela
 *   [Dive Into HTML5](http://diveinto.html5doctor.com) - Mark Pilgrim ([PDF](http://mislav.net/2011/10/dive-into-html5/))
 *   [DOM Enlightenment](http://domenlightenment.com) - Cody Lindley (HTML)
 *   [Essential CSS](https://www.programming-books.io/essential/css/) - Krzysztof Kowalczyk, StackOverflow Contributors
@@ -1127,7 +1128,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) - Nicholas C. Zakas (HTML)
 *   [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) - Quil (HTML)
 *   [Understanding the DOM — Document Object Model](https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook) - Tania Rascia (PDF, EPUB)
-*   [You Don't Know JS (⭐172k)](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
+*   [You Don't Know JS (⭐173k)](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
 
 #### AngularJS
 
@@ -1239,7 +1240,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Mixu's Node Book](http://book.mixu.net/node/)
 *   [Node Documentation](https://nodejs.org/en/docs/) (PDF)
 *   [Node: Up and Running](https://www.oreilly.com/library/view/node-up-and/9781449332235/) - Tom Hughes-Croucher
-*   [Node.js Best Practices (⭐93k)](https://github.com/goldbergyoni/nodebestpractices) - Yoni Goldberg, et al.
+*   [Node.js Best Practices (⭐94k)](https://github.com/goldbergyoni/nodebestpractices) - Yoni Goldberg, et al.
 *   [Node.js Design Patterns](https://ia801309.us.archive.org/5/items/HandbookOfNeuralComputingApplicationsPDFStormRG/Node.js%20Design%20Patterns%20-%20Casciaro,%20Mario%20%5BPDF%5D%5BStormRG%5D.pdf) - Mario Casciaro (PDF)
 *   [Node.js Notes for Professionals](http://goalkicker.com/NodeJSBook) - Compiled from StackOverflow Documentation (PDF)
 *   [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)

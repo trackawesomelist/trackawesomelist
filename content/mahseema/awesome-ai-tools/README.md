@@ -6,6 +6,16 @@ A curated list of Artificial Intelligence Top Tools
 
 [ Daily / [Weekly](/content/mahseema/awesome-ai-tools/week/README.md) / [Overview](/content/mahseema/awesome-ai-tools/readme/README.md) ]
 
+## [Nov 13, 2023](/content/2023/11/13/README.md)
+
+### Text / Search engines
+
+*   [Komo AI](https://komo.ai/) - An AI based Search engine which responses quick and short answers.
+
+### Text / ChatGPT extensions
+
+*   [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - One click to curate AI chatbot, including ChatGPT, Google Bard to improve AI responses.
+
 ## [Nov 09, 2023](/content/2023/11/09/README.md)
 
 ### Image / Services

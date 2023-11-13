@@ -771,15 +771,15 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [evalcache (⭐146)](https://github.com/mroth/evalcache) - Caches the output of a binary initialization command like `eval "$(hub alias -s)"`, to help lower shell startup time by loading from cache instead of re-running every new shell session.
 *   [evil-registers (⭐36)](https://github.com/zsh-vi-more/evil-registers) - Extends ZLE `vi` commands to remotely access named registers of the `vim` and `nvim` editors, and system selection and clipboard.
 *   [exa (DarrinTisdale) (⭐106)](https://github.com/DarrinTisdale/zsh-aliases-exa) - Enables a number of aliases extending [exa](https://the.exa.website), the modern replacement for `ls`.
-*   [exa (hermitmaster) (⭐1)](https://github.com/hermitmaster/zsh-exa-plugin) - Adds some aliases for [exa](https://the.exa.website), the modern replacement for `ls`.
 *   [exa (mohamedelashri) (⭐17)](https://github.com/MohamedElashri/exa-zsh) - Adds aliases for [exa](https://the.exa.website), a modern replacement for `ls`.
 *   [exa (ptavares) (⭐10)](https://github.com/ptavares/zsh-exa) - Installs and loads [exa](https://github.com/ogham/exa.git).
 *   [exa (ritchies) (⭐8)](https://github.com/RitchieS/zsh-exa/) - Adds aliases to make using [exa](https://github.com/ogham/exa.git) easier.
 *   [exa (todie) (⭐1)](https://github.com/todie/exa.plugin.zsh) - Integration and completions for [exa](https://the.exa.website/), a modern replacement for `ls`.
-*   [exa (twopizza9621536) (⭐3)](https://github.com/TwoPizza9621536/zsh-exa) - Combines [DarrinTisdale/zsh-aliases-exa (⭐106)](https://github.com/DarrinTisdale/zsh-aliases-exa), [hermitmaster/zsh-exa-plugin (⭐1)](https://github.com/hermitmaster/zsh-exa-plugin), [MohamedElashri/exa-zsh (⭐17)](https://github.com/MohamedElashri/exa-zsh), [ptavares/zsh-exa (⭐10)](https://github.com/ptavares/zsh-exa), [RitchieS/zsh-exa/ (⭐8)](https://github.com/RitchieS/zsh-exa/), [todie/exa.plugin.zsh (⭐1)](https://github.com/todie/exa.plugin.zsh), [zplugin/zsh-exa (⭐0)](https://github.com/zplugin/zsh-exa) and [zsh-exa-ls-plugin (⭐3)](https://github.com/birdhackor/zsh-exa-ls-plugin). It also adds the default `bash` `ls` aliases and changes some aliases to avoid conflicts with other commands that [exa](https://the.exa.website) does not replace.
+*   [exa (zap-zsh) (⭐15)](https://github.com/zap-zsh/exa) - Overrides common commands to use exa instead.
 *   [exa (zplugin) (⭐0)](https://github.com/zplugin/zsh-exa) - replace `ls` with [ogham/exa (⭐23k)](https://github.com/ogham/exa).
 *   [exa (zshell) (⭐14)](https://github.com/z-shell/zsh-exa) - replace `ls` with [ogham/exa (⭐23k)](https://github.com/ogham/exa).
 *   [exa-ls (⭐3)](https://github.com/birdhackor/zsh-exa-ls-plugin) - Adds aliases so that you can use [exa](https://the.exa.website) as a drop-in replacement for `ls` and `tree`.
+*   [exa-ls (zpm-zsh) (⭐82)](https://github.com/zpm-zsh/ls) - Zsh plugin for ls.
 *   [exercism (⭐10)](https://github.com/fabiokiatkowski/exercism.plugin.zsh) - A plugin for [exercism.io](http://exercism.io/).
 *   [expand-ealias (⭐14)](https://github.com/zigius/expand-ealias.plugin.zsh) - Expand specific aliases with space.
 *   [expand (⭐23)](https://github.com/MenkeTechnologies/zsh-expand) - Expands regular aliases, global aliases, incorrect spellings and phrases, globs, history expansion and $parameters with the spacebar key.
@@ -788,6 +788,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [extend-history (⭐9)](https://github.com/xav-b/zsh-extend-history) - Extends command history by adding the exit code for each command in the history.
 *   [ez-cmd (⭐1)](https://github.com/akgarhwal/ez-cmd) - Simplifies and streamlines common command-line tasks by providing easy-to-use shortcuts and aliases.
 *   [eza (clavelm) (⭐0)](https://github.com/clavelm/eza-omz-plugin) - Replaces `ls` with [eza-community/eza (⭐3.5k)](https://github.com/eza-community/eza).
+*   [eza (twopizza9621536) (⭐1)](https://github.com/twopizza9621536/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐3.5k)](https://github.com/eza-community/eza).
 *   [eza (z-shell) (⭐14)](https://github.com/z-shell/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐3.5k)](https://github.com/eza-community/eza).
 *   [f-shortcuts (⭐4)](https://github.com/zpm-zsh/f-shortcuts) - Makes a shortcuts toolbar using `F1` to `F12` keys.
 *   [fancy-ctrl-z (⭐16)](https://github.com/mdumitru/fancy-ctrl-z) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of [oh-my-zsh](https://ohmyz.sh).
@@ -947,7 +948,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [iterm2-tabs (⭐7)](https://github.com/gimbo/iterm2-tabs.zsh) - Set colors and titles of iTerm 2 tabs.
 *   [iterm2 (⭐9)](https://github.com/laggardkernel/zsh-iterm2) - Packs iTerm 2's ZSH integration scripts into a ZSH plugin to avoid polluting your $HOME directory, with a negligible time increase of only 2ms.
 *   [iwd (⭐1)](https://github.com/zshzoo/iwd) - Similar in concept to `$PWD`, this ZSH plugin saves your initial working directory in `$IWD` for easy returns to the starting point of your session.
-*   [jabba (⭐5)](https://github.com/2m/zsh-jabba) - Adds shell integration code and completions for the [jabba (⭐2.7k)](https://github.com/shyiko/jabba) Java version manager.
+*   [jabba (⭐5)](https://github.com/2m/zsh-jabba) - Adds shell integration code and completions for the [jabba (⭐2.8k)](https://github.com/shyiko/jabba) Java version manager.
 *   [java-zsh-plugin (⭐1)](https://github.com/Xetius/java-zsh-plugin) - Adds a `setjdk` command so you can switch easily between different versions of the jdk.
 *   [javaVersions (⭐7)](https://github.com/miguefl/javaVersions) - Change between different java versions with a single command.
 *   [jdk-switch (⭐9)](https://github.com/LockonS/jdk-switch) - Switches between jdk versions. Works on macOS and Linux.
@@ -1153,7 +1154,6 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [q (cal2195) (⭐65)](https://github.com/cal2195/q) - Add `vim`-like macro registers to your ZSH shell.
 *   [q (tomsquest) (⭐0)](https://github.com/tomsquest/q.plugin.zsh) - Tail/remove the temp file for [Q (⭐1.5k)](https://github.com/y0ssar1an/q), the Dirty Debugging Tool.
 *   [qiime2 (⭐2)](https://github.com/misialq/zsh-qiime2) - Adds functions and aliases to make working with [Quiime 2](https://qiime2.org/) easier.
-*   [quer-ps1 (⭐0)](https://github.com/ya0201/qwer-ps1) - A highly extendable manager for your ZSH prompt
 *   [quoter (⭐8)](https://github.com/pxgamer/quoter-zsh) - Display a random quote when opening a new terminal session.
 *   [quotify (⭐7)](https://github.com/dpretet/zsh-quotify) - Displays inspiring coding quotes from our pairs when starting up.
 *   [qwy (⭐0)](https://github.com/Ryooooooga/qwy) - ZSH fuzzy completion plugin.
@@ -1179,6 +1179,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [ripz (⭐24)](https://github.com/jedahan/ripz) - Reminds you of your aliases, so you use them more. Depends on [ripgrep (⭐41k)](https://github.com/BurntSushi/ripgrep).
 *   [robo (⭐2)](https://github.com/shengyou/robo-zsh-plugin) - A ZSH plugin for [Robo (⭐2.6k)](https://github.com/consolidation/robo/).
 *   [rockz (⭐8)](https://github.com/aperezdc/rockz) - Lua + LuaRocks virtual environment manager based upon VirtualZ.
+*   [run-scripts (⭐3)](https://github.com/Aireck2/zsh-run-scripts) - Runs scripts from `package.json`.
 *   [rust (cowboyd) (⭐0)](https://github.com/cowboyd/zsh-rust) - Configure your [rust](https://www.rust-lang.org/) toolchain, installing [rustup](https://rustup.rs) if it is not currently installed already.
 *   [rust (wintermi) (⭐5)](https://github.com/wintermi/zsh-rust) - Plugin for the [rust](https://www.rust-lang.org/) toolchain.
 *   [rvm (⭐2)](https://github.com/johnhamelink/rvm-zsh) - Initiates [rvm (⭐5k)](https://github.com/rvm/rvm) and adds rubygem binaries (like compass) accessible in the user's `$PATH`.
@@ -1615,7 +1616,6 @@ If you're using [Antigen (⭐7.7k)](https://github.com/zsh-users/antigen), you c
 *   [0i0 (⭐12)](https://github.com/0i0/0i0.zsh-theme) - Optimized for dark terminal windows, uses nerdfont `git` status decorations.
 *   [14degree (⭐1)](https://github.com/saims0n/14degree-zsh-theme/) - Includes `git`, `virtualenv` and `rvm` status decorations.
 *   [a (⭐3)](https://github.com/chammanganti/a-zsh-theme) - Simple theme with current directory and `git` status decorations.
-*   [aaron (⭐4)](https://github.com/aaronjamesyoung/aaron-zsh-theme) - Based on the Sorin theme.
 *   [abbr (theme) (⭐1)](https://github.com/PhilsLab/abbr-zsh-theme) - Displays an abbreviated version of the current directory path, shows the Python virtualenv, Rust version, `git` status, and the exit code of last command. Works well on dark backgrounds by default but colors can be easily customized.
 *   [abhiyan (⭐2)](https://github.com/abhiyandhakal/abhiyan.zsh/) - Segmented prompt. Includes decorators for `git` branch, staged file count, unstaged file count & untracked file count, username, current working directory and the time. Requires Powerline-compatible fonts.
 *   [absolute (⭐36)](https://github.com/NelsonBrandao/absolute) - Very clean looking theme with decorators for `git` status, `node` version and the exit code from the last command.
@@ -2087,7 +2087,7 @@ If you're using [Antigen (⭐7.7k)](https://github.com/zsh-users/antigen), you c
 *   [lperezp (⭐1)](https://github.com/lperezp/lperezp-zsh-theme) - Includes decorators for user\@hostname, `git` status, current directory and the exit status of the last command run.
 *   [lpha3cho (⭐38)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters) - Modified version of the [intheloop (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/intheloop.zsh-theme) theme for pentesters which includes the date, time, and IP address for pentest logging.
 *   [luceast (⭐0)](https://github.com/LucEast/luceast-zsh-theme) - Optimized for `git`. Includes decorations for username, host, time & working directory.
-*   [ludvig (⭐0)](https://github.com/daviludvig/ludvig-theme-zsh) - Includes decorators for `git` status, current directory, current time and the last command's exit status.
+*   [ludvig (⭐0)](https://github.com/daviludvig/ludvig-theme-zsh) - Minimalist. Includes decorators for `git` status, current directory, current time and the last command's exit status.
 *   [ludwigws (⭐0)](https://github.com/LudwigWS/my-zsh-theme) - Variant of [lambda-mod (⭐465)](https://github.com/halfo/lambda-mod-zsh-theme) theme. Has `git` decorations, requires a powerline-compatible terminal font.
 *   [luke (⭐0)](https://github.com/xueguangl23/luke_zsh_theme) - Includes `git` decorations. Based on the [frisk (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/frisk.zsh-theme) oh-my-zsh theme.
 *   [lukerandall-extended (⭐1)](https://github.com/mpyw/oh-my-zsh-lukerandall-extended) - Extended version of the [lukerandall (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lukerandall.zsh-theme) theme. Includes decorations for `git` status and the status of the last command run.

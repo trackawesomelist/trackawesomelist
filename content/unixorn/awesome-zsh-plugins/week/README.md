@@ -6,6 +6,15 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ [Daily](/content/unixorn/awesome-zsh-plugins/README.md) / Weekly / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [exa (zap-zsh) (⭐15)](https://github.com/zap-zsh/exa) - Overrides common commands to use exa instead.
+*   [exa-ls (zpm-zsh) (⭐82)](https://github.com/zpm-zsh/ls) - Zsh plugin for ls.
+*   [eza (twopizza9621536) (⭐1)](https://github.com/twopizza9621536/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐3.5k)](https://github.com/eza-community/eza).
+*   [run-scripts (⭐3)](https://github.com/Aireck2/zsh-run-scripts) - Runs scripts from `package.json`.
+
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -19,7 +28,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [hermit (⭐0)](https://github.com/liyangxia/omz-theme-hermit) - Clean and efficient theme with decorators for `git` status, current directory, and exit status of last command run.
-*   [ludvig (⭐0)](https://github.com/daviludvig/ludvig-theme-zsh) - Includes decorators for `git` status, current directory, current time and the last command's exit status.
+*   [ludvig (⭐0)](https://github.com/daviludvig/ludvig-theme-zsh) - Minimalist. Includes decorators for `git` status, current directory, current time and the last command's exit status.
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
@@ -1155,7 +1164,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [exa (twopizza9621536) (⭐3)](https://github.com/TwoPizza9621536/zsh-exa) - Combines [DarrinTisdale/zsh-aliases-exa (⭐106)](https://github.com/DarrinTisdale/zsh-aliases-exa), [hermitmaster/zsh-exa-plugin (⭐1)](https://github.com/hermitmaster/zsh-exa-plugin), [MohamedElashri/exa-zsh (⭐17)](https://github.com/MohamedElashri/exa-zsh), [ptavares/zsh-exa (⭐10)](https://github.com/ptavares/zsh-exa), [RitchieS/zsh-exa/ (⭐8)](https://github.com/RitchieS/zsh-exa/), [todie/exa.plugin.zsh (⭐1)](https://github.com/todie/exa.plugin.zsh), [zplugin/zsh-exa (⭐0)](https://github.com/zplugin/zsh-exa) and [zsh-exa-ls-plugin (⭐3)](https://github.com/birdhackor/zsh-exa-ls-plugin). It also adds the default `bash` `ls` aliases and changes some aliases to avoid conflicts with other commands that [exa](https://the.exa.website) does not replace.
 *   [ls (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-ls) - Adds some more aliases for `ls`.
 *   [ls (zpm-zsh) (⭐82)](https://github.com/zpm-zsh/ls) - Colorizes the output of `ls`.
 *   [sudo (none9632) (⭐5)](https://github.com/none9632/zsh-sudo/) - Adds `sudo` as a prefix to the current command by typing `ESC`-`ESC`.
@@ -1760,7 +1768,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [escape-backtick (⭐1)](https://github.com/bezhermoso/zsh-escape-backtick) - Quickly insert escaped backticks when double-tapping "\`".
 *   [evalcache (⭐146)](https://github.com/mroth/evalcache) - Caches the output of a binary initialization command like `eval "$(hub alias -s)"`, to help lower shell startup time by loading from cache instead of re-running every new shell session.
 *   [exa (DarrinTisdale) (⭐106)](https://github.com/DarrinTisdale/zsh-aliases-exa) - Enables a number of aliases extending [exa](https://the.exa.website), the modern replacement for `ls`.
-*   [exa (hermitmaster) (⭐1)](https://github.com/hermitmaster/zsh-exa-plugin) - Adds some aliases for [exa](https://the.exa.website), the modern replacement for `ls`.
 *   [exa (mohamedelashri) (⭐17)](https://github.com/MohamedElashri/exa-zsh) - Adds aliases for [exa](https://the.exa.website), a modern replacement for `ls`.
 *   [exa (ptavares) (⭐10)](https://github.com/ptavares/zsh-exa) - Installs and loads [exa](https://github.com/ogham/exa.git).
 *   [exa (ritchies) (⭐8)](https://github.com/RitchieS/zsh-exa/) - Adds aliases to make using [exa](https://github.com/ogham/exa.git) easier.
@@ -1862,7 +1869,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [iterm-touchbar (⭐684)](https://github.com/iam4x/zsh-iterm-touchbar) - Display iTerm2 feedback in the MacbookPro TouchBar (Current directory, git branch & status).
 *   [iterm2-colors (⭐4)](https://github.com/shayneholmes/zsh-iterm2colors) - Manage your iTerm 2's color scheme from the command line.
 *   [iterm2-tabs (⭐7)](https://github.com/gimbo/iterm2-tabs.zsh) - Set colors and titles of iTerm 2 tabs.
-*   [jabba (⭐5)](https://github.com/2m/zsh-jabba) - Adds shell integration code and completions for the [jabba (⭐2.7k)](https://github.com/shyiko/jabba) Java version manager.
+*   [jabba (⭐5)](https://github.com/2m/zsh-jabba) - Adds shell integration code and completions for the [jabba (⭐2.8k)](https://github.com/shyiko/jabba) Java version manager.
 *   [java-zsh-plugin (⭐1)](https://github.com/Xetius/java-zsh-plugin) - Adds a `setjdk` command so you can switch easily between different versions of the jdk.
 *   [javaVersions (⭐7)](https://github.com/miguefl/javaVersions) - Change between different java versions with a single command.
 *   [jdk-switch (⭐9)](https://github.com/LockonS/jdk-switch) - Switches between jdk versions. Works on macOS and Linux.
@@ -1995,7 +2002,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [q (cal2195) (⭐65)](https://github.com/cal2195/q) - Add `vim`-like macro registers to your ZSH shell.
 *   [q (tomsquest) (⭐0)](https://github.com/tomsquest/q.plugin.zsh) - Tail/remove the temp file for [Q (⭐1.5k)](https://github.com/y0ssar1an/q), the Dirty Debugging Tool.
 *   [qiime2 (⭐2)](https://github.com/misialq/zsh-qiime2) - Adds functions and aliases to make working with [Quiime 2](https://qiime2.org/) easier.
-*   [quer-ps1 (⭐0)](https://github.com/ya0201/qwer-ps1) - A highly extendable manager for your ZSH prompt
 *   [quoter (⭐8)](https://github.com/pxgamer/quoter-zsh) - Display a random quote when opening a new terminal session.
 *   [randeme (⭐4)](https://github.com/ex-surreal/randeme) - Chooses a random theme for each session. If you not like the chosen theme you can run `randeme_rm` to never show that theme again.
 *   [random-quotes (⭐7)](https://github.com/vkolagotla/zsh-random-quotes) - Displays random quotes or facts.
@@ -2277,7 +2283,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [zero (⭐16)](https://github.com/arlimus/zero.zsh) - Zero's theme & plugin. Has variants for both light and dark terminal backgrounds.
 *   [0i0 (⭐12)](https://github.com/0i0/0i0.zsh-theme) - Optimized for dark terminal windows, uses nerdfont `git` status decorations.
 *   [14degree (⭐1)](https://github.com/saims0n/14degree-zsh-theme/) - Includes `git`, `virtualenv` and `rvm` status decorations.
-*   [aaron (⭐4)](https://github.com/aaronjamesyoung/aaron-zsh-theme) - Based on the Sorin theme.
 *   [abbr (theme) (⭐1)](https://github.com/PhilsLab/abbr-zsh-theme) - Displays an abbreviated version of the current directory path, shows the Python virtualenv, Rust version, `git` status, and the exit code of last command. Works well on dark backgrounds by default but colors can be easily customized.
 *   [adlee (⭐0)](https://github.com/adlee-was-taken/oh-my-zsh-osx/blob/master/adlee.zsh-theme) - macOS theme, requires a Powerline-compatible font.
 *   [af-magic-dynamic (⭐1)](https://github.com/rslavin/af-magic-dynamic) - Modified version of [af-magic (⭐7)](https://github.com/andyfleming/oh-my-zsh/blob/master/themes/af-magic.zsh-theme) with dynamic path shortening.

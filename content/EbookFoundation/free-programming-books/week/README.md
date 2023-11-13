@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) · ⭐ 302K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) · ⭐ 303K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/readme/README.md) ]
 ## Related Files
@@ -12,6 +12,12 @@
 - [Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
 - [Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
 - [Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
+
+## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
+
+### HTML and CSS / Spock Framework
+
+*   [CSS Transition vs CSS animation](https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/) - Oluwatobi Sofela
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
@@ -251,7 +257,7 @@
 
 ### JavaScript / Node.js
 
-*   [Node.js Best Practices (⭐93k)](https://github.com/goldbergyoni/nodebestpractices) - Yoni Goldberg, et al.
+*   [Node.js Best Practices (⭐94k)](https://github.com/goldbergyoni/nodebestpractices) - Yoni Goldberg, et al.
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
@@ -2256,7 +2262,7 @@
 *   [Thinking in JavaScript](https://www.amazon.com/Thinking-JavaScript-Aravind-Shenoy-ebook/dp/B00JUI6LUQ) - Aravind Shenoy (Kindle)
 *   [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) - Nicholas C. Zakas (HTML)
 *   [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) - Quil (HTML)
-*   [You Don't Know JS (⭐172k)](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
+*   [You Don't Know JS (⭐173k)](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
 
 ### JavaScript / jQuery
 

@@ -57,6 +57,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 *   [Metaphor](https://metaphor.systems/) - Language model powered search.
 *   [Phind](https://phind.com/) - AI-based search engine.
 *   [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
+*   [Komo AI](https://komo.ai/) - An AI based Search engine which responses quick and short answers.
 
 ### Local search engines
 
@@ -98,6 +99,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 *   [editGPT](https://www.editgpt.app/) - Easily proofread, edit, and track changes to your content in chatGPT.
 *   [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [Source code (⭐18k)](https://github.com/mckaywrigley/chatbot-ui).
 *   [Forefront](https://www.forefront.ai/) - A Better ChatGPT Experience.
+*   [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - One click to curate AI chatbot, including ChatGPT, Google Bard to improve AI responses.
 
 ### Productivity
 

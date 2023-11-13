@@ -6,6 +6,12 @@
 
 [ [Daily](/content/nix-community/awesome-nix/README.md) / Weekly / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
+
+### Command-Line Tools / Discovery
+
+*   [devenv (⭐2.6k)](https://github.com/cachix/devenv) - A Nix-based tool for creating developer shell environments quickly and reproducibly.
+
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
 ### Development / Discovery

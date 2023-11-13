@@ -6,13 +6,13 @@ A curated list of awesome Scriptable scripts and widgets.
 
 [ [Daily](/content/dersvenhesse/awesome-scriptable/README.md) / Weekly / [Overview](/content/dersvenhesse/awesome-scriptable/readme/README.md) ]
 
-## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
+## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
 
 ### Cars
 
-*   [Polestar SoC Lockscreen Widget (⭐7)](https://github.com/niklasvieth/polestar-ios-lockscreen-widget) - Current state of charge of your Polestar 2 as lockscreen widget.
+*   [Polestar SoC Medium Widget (⭐6)](https://github.com/niklasvieth/polestar-ios-medium-widget) - Current state of charge of your Polestar 2 as medium widget or as simplified [lockscreen widget (⭐7)](https://github.com/niklasvieth/polestar-ios-lockscreen-widget).
 
-    <img src="https://raw.githubusercontent.com/niklasvieth/polestar-ios-lockscreen-widget/main/images/polestar_lockscreen_widget.jpeg" width="400"/>
+    <img src="https://raw.githubusercontent.com/niklasvieth/polestar-ios-medium-widget/main/images/polestar_medium_widget_relative.jpeg" width="400"/>
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 

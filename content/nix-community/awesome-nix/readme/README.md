@@ -115,6 +115,7 @@
 *   [alejandra (⭐497)](https://github.com/kamadorueda/alejandra) - An opinionated Nix code formatter optimized for speed and consistency.
 *   [comma (⭐805)](https://github.com/nix-community/comma) - Quickly run any binary; wraps together `nix run` and `nix-index`.
 *   [deadnix (⭐303)](https://github.com/astro/deadnix) - Scan Nix files for dead code.
+*   [devenv (⭐2.6k)](https://github.com/cachix/devenv) - A Nix-based tool for creating developer shell environments quickly and reproducibly.
 *   [manix (⭐293)](https://github.com/mlvzk/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
 *   [nixfmt (⭐444)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
 *   [nixpkgs-fmt (⭐484)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
