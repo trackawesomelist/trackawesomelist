@@ -50,11 +50,12 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 *   [IPFS-FPS (⭐2)](https://github.com/underscoredLabs/webgl-ipfs-fps) - A completely decentralized first person shooter. Built with Unity, Fleek, Unstoppable Domans and Pinata.
 *   [IPGit (⭐68)](https://github.com/meyer1994/ipgit) - Remote Git repository that mirrors your code to IPFS
 *   [killcord (⭐512)](https://github.com/nomasters/killcord) - A censorship resistant deadman's switch
-*   [Mintter (⭐77)](https://github.com/MintterHypermedia/mintter) - an app for knowledge communities. Powered by the Hypermedia protocol.
+*   [Mintter (⭐77)](https://github.com/MintterHypermedia/mintter) - Mintter Hypermedia is an open system, built on IPFS, that allows communities to collaborate on content that is structured and deeply linked. All content in the system is cryptographically signed, versioned, and made permanent with IPFS.
 *   [orbitchat.dev (⭐18)](https://github.com/cppshane/orbit-chat) - Ultra simple chatrooms on the web.
 *   [Peer Web Site (⭐160)](https://github.com/Weedshaker/PeerWebSite) - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
 *   [Peergos (⭐1.7k)](https://github.com/Peergos/Peergos) - End-to-end encrypted, peer-to-peer file storage and sharing.
 *   [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
+*   [Quiet](https://tryquiet.org/) - Privacy focused, end-to-end encrypted chat app that runs a private IPFS network over Tor connections. Desktop and mobile iOS and Android apps available.
 *   [Skiff (⭐824)](https://github.com/skiff-org/skiff-mail) - Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage.
 
 ## Browsers

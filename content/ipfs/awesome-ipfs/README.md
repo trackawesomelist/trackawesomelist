@@ -6,6 +6,12 @@ Community list of awesome projects, apps, tools, and services related to IPFS.
 
 [ Daily / [Weekly](/content/ipfs/awesome-ipfs/week/README.md) / [Overview](/content/ipfs/awesome-ipfs/readme/README.md) ]
 
+## [Nov 13, 2023](/content/2023/11/13/README.md)
+
+### Apps
+
+*   [Quiet](https://tryquiet.org/) - Privacy focused, end-to-end encrypted chat app that runs a private IPFS network over Tor connections. Desktop and mobile iOS and Android apps available.
+
 ## [Nov 09, 2023](/content/2023/11/09/README.md)
 
 ### Pinning services
@@ -30,7 +36,7 @@ Community list of awesome projects, apps, tools, and services related to IPFS.
 
 *   [Anytype](https://github.com/anyproto) - Anytype is a no-code, modular web builder designed to give ownership back to creators. It's built on our private, local-first, p2p-synced and open Anysync protocol.
 *   [Durin](https://durin.site/) - Mobile app for accessing and uploading content on the IPFS network.
-*   [Mintter (⭐77)](https://github.com/MintterHypermedia/mintter) - an app for knowledge communities. Powered by the Hypermedia protocol.
+*   [Mintter (⭐77)](https://github.com/MintterHypermedia/mintter) - Mintter Hypermedia is an open system, built on IPFS, that allows communities to collaborate on content that is structured and deeply linked. All content in the system is cryptographically signed, versioned, and made permanent with IPFS.
 *   [orbitchat.dev (⭐18)](https://github.com/cppshane/orbit-chat) - Ultra simple chatrooms on the web.
 
 ### Browsers

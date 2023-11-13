@@ -1,12 +1,50 @@
 # Awesome List Updates on Nov 13 - Nov 19, 2023
 
-7 awesome lists updated this week.
+12 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Concepts / AI Concept Representation
+
+*   [Metabolic activity organizes olfactory representations](https://elifesciences.org/articles/82502) - ***eLife***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8857896396450033667\&hl=en\&as_sdt=0,5)]. Odorous compounds with similar POM representations are more likely to co-occur within a substance and be metabolically closely related; metabolic reaction sequences also follow smooth paths in POM despite large jumps in molecular structure.
+
+## [2. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+
+### Utils
+
+*   [ZeroStep (⭐12)](https://github.com/zerostep-ai/zerostep) - AI actions and assertions for Playwright.
+
+## [3. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+
+### Apps
+
+*   [Quiet](https://tryquiet.org/) - Privacy focused, end-to-end encrypted chat app that runs a private IPFS network over Tor connections. Desktop and mobile iOS and Android apps available.
+
+## [4. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / React
+
+*   [vite-react-flow-template (⭐1)](https://github.com/xyflow/vite-react-flow-template) - React Flow starter template.
+
+### Templates / Svelte
+
+*   [vite-svelte-flow-template (⭐0)](https://github.com/xyflow/vite-svelte-flow-template) - Svelte Flow starter template.
+
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### (requires Neovim 0.5)
+
+*   [stevanmilic/nvim-lspimport (⭐17)](https://github.com/stevanmilic/nvim-lspimport) - Automatically resolves imports for undefined terms. Useful with `pyright` language server.
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [Tsuzat/NeoSolarized.nvim (⭐111)](https://github.com/Tsuzat/NeoSolarized.nvim) - NeoSolarized colorscheme with full transparency.
+
+## [6. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Search engines
 
@@ -16,19 +54,19 @@
 
 *   [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - One click to curate AI chatbot, including ChatGPT, Google Bard to improve AI responses.
 
-## [2. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [7. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Trading & Backtesting
 
 *   [hftbacktest (⭐605)](https://github.com/nkaz001/hftbacktest) - A high-frequency trading and market-making backtesting tool accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books.
 
-## [3. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [8. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Command-Line Tools / Discovery
 
 *   [devenv (⭐2.6k)](https://github.com/cachix/devenv) - A Nix-based tool for creating developer shell environments quickly and reproducibly.
 
-## [4. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [9. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Cars
 
@@ -36,7 +74,7 @@
 
     <img src="https://raw.githubusercontent.com/niklasvieth/polestar-ios-medium-widget/main/images/polestar_medium_widget_relative.jpeg" width="400"/>
 
-## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -45,13 +83,13 @@
 *   [eza (twopizza9621536) (⭐1)](https://github.com/twopizza9621536/zsh-eza) - Replaces `ls` with [eza-community/eza (⭐3.5k)](https://github.com/eza-community/eza).
 *   [run-scripts (⭐3)](https://github.com/Aireck2/zsh-run-scripts) - Runs scripts from `package.json`.
 
-## [6. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [11. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / WSL Utilities
 
 *   [WSL-Hello-sudo (⭐1.1k)](https://github.com/nullpo-head/WSL-Hello-sudo) - Use Windows Hello as your credential for `sudo`. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### HTML and CSS / Spock Framework
 

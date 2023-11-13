@@ -6,6 +6,16 @@
 
 [ [Daily](/content/vitejs/awesome-vite/README.md) / Weekly / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
+
+### Templates / React
+
+*   [vite-react-flow-template (⭐1)](https://github.com/xyflow/vite-react-flow-template) - React Flow starter template.
+
+### Templates / Svelte
+
+*   [vite-svelte-flow-template (⭐0)](https://github.com/xyflow/vite-svelte-flow-template) - Svelte Flow starter template.
+
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
 ### Templates / Vue 3
