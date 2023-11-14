@@ -6,6 +6,13 @@ A curated list of awesome qubes os links
 
 [ Daily / [Weekly](/content/xn0px90/Awesome-Qubes-OS/week/README.md) / [Overview](/content/xn0px90/Awesome-Qubes-OS/readme/README.md) ]
 
+## [Nov 14, 2023](/content/2023/11/14/README.md)
+
+### Customization
+
+*   [Bash completion](https://forum.qubes-os.org/docs?topic=13304) - How to install bash completion for Qubes OS commands.
+*   [Qubes-Scripts (⭐5)](https://github.com/Willy-JL/Qubes-Scripts) - Collection of custom scripts for Qubes OS.
+
 ## [Nov 11, 2023](/content/2023/11/11/README.md)
 
 ### Templates
@@ -17,7 +24,7 @@ A curated list of awesome qubes os links
 
 *   [nft Firewall](https://forum.qubes-os.org/t/qubes-os-4-2-nftables-nft-firewall-guide/20933) - This is an example for a TCP redirection, for UDP you would have to replace tcp by udp.
 
-### Desktop Customization
+### Customization
 
 *   [DPI scaling](https://forum.qubes-os.org/t/dpi-scaling/19064) - Qubes OS passes on dom0’s screen resolution to VMs (this can be seen in the output of xrandr) but doesn’t pass on dom0’s dpi value.
 
@@ -62,9 +69,8 @@ A curated list of awesome qubes os links
 *   [Signal](https://forum.qubes-os.org/t/signal-messenger/19073) - It uses end-to-end encryption to secure all communications.
 *   [Split SSH](https://deniszanin.com/using-split-ssh-gpg-in-qubes-os) - Split SSH implements a concept similar to having a smart card with your private SSH keys, except that the role of the “smart card” is played by another Qubes AppVM.
 
-### Desktop Customization
+### Customization
 
-*   [Bash completion](https://forum.qubes-os.org/docs?topic=19008) - How to install bash completion for Qubes OS commands.
 *   [PLayback performance](https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube/21946) - This guide will show you how to install the mpv player and use it with maximum performance.
 *   [Wayland agent (⭐8)](https://github.com/DemiMarie/qubes-wayland) - This is a GUI agent for Qubes OS that supports the \[Wayland] display server protocol. Compared to X11, Wayland is vastly simpler and aims to ensure every frame is perfect.
 
@@ -116,7 +122,7 @@ A curated list of awesome qubes os links
 
 *   [How to Implement TPM Boot Verification (⭐1)](https://github.com/kennethrrosen/qubes-boot-verification) - Verify and validate boot process using PCR without Heads or AEM on systems using TPM 2.0
 
-### Desktop Customization
+### Customization
 
 *   [QubesOS Autostart Menu (⭐0)](https://github.com/kennethrrosen/Qubes-OS-Autostart-Menu/) - Speed up system boot process with a custom launch script
 *   [sys-VPN notification setup (⭐0)](https://github.com/kennethrrosen/qubes_VPN_notifier) - Get VPN stats as a desktop notification
@@ -230,7 +236,7 @@ A curated list of awesome qubes os links
 *   [Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/) - A user who frequently travels with a Qubes laptop holding sensitive data may be at a much higher risk of Evil Maid attacks than a home user with a stationary Qubes desktop.
 *   [SaltStack (management software)](https://www.qubes-os.org/doc/salt/)
 
-### Desktop Customization
+### Customization
 
 *   [Qubes-GUI-Rust (⭐7)](https://github.com/QubesOS/qubes-gui-rust) - Rust libraries for the Qubes OS GUI Protocol
 
@@ -307,7 +313,7 @@ A curated list of awesome qubes os links
 *   [Qcrypt (⭐12)](https://github.com/3hhh/qcrypt) -qcrypt is a multilayer encryption tool for Qubes OS.
 *   [Passwordless root access in Qubes](https://www.qubes-os.org/doc/vm-sudo/) - In Qubes VMs there is no point in isolating the root account from the user account.
 
-### Desktop Customization
+### Customization
 
 *   [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2) - Easy brightness adjustment
 *   [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3) - Place the custom folder icons \~/.local/share/icons is a persistent place to place the custom folder icons and so is /usr/share/icons.
@@ -522,7 +528,7 @@ A curated list of awesome qubes os links
 *   [Qubes memory manager (qmemman)](https://www.qubes-os.org/doc/qmemman/) - Provides automatic balancing of memory across participating PV and HVM domains, based on their memory demand
 *   [YubiKey](https://www.qubes-os.org/doc/yubikey/) - Most use cases for the YubiKey can be achieved exactly as described by the manufacturer or other instructions found online.
 
-### Desktop Customization
+### Customization
 
 *   [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/) - This is an rpm package for awesomewm with the patches for Qubes.
 *   [i3 (window manager)](https://www.qubes-os.org/doc/i3/) - i3 is part of the stable repository (as of Qubes R3.1) and can be installed by using the dom0 update mechanism.

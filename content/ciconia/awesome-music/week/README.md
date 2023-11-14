@@ -6,11 +6,17 @@ Awesome Music Projects
 
 [ [Daily](/content/ciconia/awesome-music/README.md) / Weekly / [Overview](/content/ciconia/awesome-music/readme/README.md) ]
 
+## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
+
+### Music Programming
+
+*   [Topos](https://topos.live) - a web based live coding environment (WebAudio / MIDI)
+
 ## [Oct 02 - Oct 08, 2023](/content/2023/40/README.md)
 
 ### MIDI Tools & Libraries
 
-*   [mido (⭐1.2k)](https://github.com/mido/mido) - Python library for working with MIDI messages and ports.
+*   [mido (⭐1.3k)](https://github.com/mido/mido) - Python library for working with MIDI messages and ports.
 
 ### Music Programming
 
@@ -26,23 +32,17 @@ Awesome Music Projects
 
 *   [mutwo](https://mutwo-org.github.io/) - a Python library for composition that outputs notation, MIDI or audio files and that provides a generalized model to describe time-based structures.
 *   [pyo](https://belangeo.github.io/pyo/) - a Python module to help digital signal processing script creation.
-*   [slippery chicken (⭐53)](https://github.com/mdedwards/slippery-chicken) - a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.
+*   [slippery chicken (⭐55)](https://github.com/mdedwards/slippery-chicken) - a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.
 
 ### Related lists
 
-*   [Awesome Audio DSP (⭐613)](https://github.com/BillyDM/awesome-audio-dsp) - A curated list of audio DSP and plugin development resources.
-
-## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
-
-### Music Programming
-
-*   [Topos](https://topos.raphaelforment.fr) - a web based live coding environment (WebAudio / MIDI)
+*   [Awesome Audio DSP (⭐647)](https://github.com/BillyDM/awesome-audio-dsp) - A curated list of audio DSP and plugin development resources.
 
 ## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
 
 ### MIDI Tools & Libraries
 
-*   [Polyrhythmix (⭐266)](http://github.com/dredozubov/polyrhythmix) - MIDI drums
+*   [Polyrhythmix (⭐267)](http://github.com/dredozubov/polyrhythmix) - MIDI drums
     generator, designed for polyrhythmic parts
 
 ## [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
@@ -53,19 +53,19 @@ Awesome Music Projects
 
 ### Music Programming
 
-*   [tuneflow-py (⭐834)](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
+*   [tuneflow-py (⭐861)](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
 ### Audio Editing
 
-*   [Stargate DAW (⭐492)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
+*   [Stargate DAW (⭐518)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Music Programming
 
-*   [Sardine (⭐141)](https://github.com/Bubobubobubobubo/sardine) - a music live coding library for Python 3.10+ (MIDI/OSC/SuperCollider).
+*   [Sardine (⭐146)](https://github.com/Bubobubobubobubo/sardine) - a music live coding library for Python 3.10+ (MIDI/OSC/SuperCollider).
 
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
@@ -77,7 +77,7 @@ Awesome Music Projects
 
 ### Audio Libraries
 
-*   [chord-mark (⭐31)](https://github.com/no-chris/chord-mark) - reference implementation of ChordMark, a text notation format for lyrics, chords and rhythm.
+*   [chord-mark (⭐32)](https://github.com/no-chris/chord-mark) - reference implementation of ChordMark, a text notation format for lyrics, chords and rhythm.
 
 ### Music Notation
 
@@ -97,7 +97,7 @@ Awesome Music Projects
 
 ### Music Programming
 
-*   [Cane (⭐55)](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
+*   [Cane (⭐56)](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
 *   [Gwion (⭐505)](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
 *   [Tidal](https://tidalcycles.org/) - a language built on Haskell for live coding patterns.
 
@@ -105,13 +105,13 @@ Awesome Music Projects
 
 ### MIDI Tools & Libraries
 
-*   [JJazzLab-X (⭐292)](https://github.com/jjazzboss/JJazzLab-X) - a complete Midi-based framework for automatic backing tracks generation.
+*   [JJazzLab-X (⭐296)](https://github.com/jjazzboss/JJazzLab-X) - a complete Midi-based framework for automatic backing tracks generation.
 
 ## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
 
 ### Music Notation
 
-*   [OpenSheetMusicDisplay (⭐1.2k)](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - Typescript library for rendering MusicXML in the browser.
+*   [OpenSheetMusicDisplay (⭐1.3k)](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - Typescript library for rendering MusicXML in the browser.
 
 ## [May 17 - May 23, 2021](/content/2021/20/README.md)
 
@@ -133,7 +133,7 @@ Awesome Music Projects
 
 ### Audio Tools
 
-*   [cyanrip (⭐156)](https://github.com/atomnuker/cyanrip) - rips and encodes standard audio CDs with the least effort required from user. Cross platform.
+*   [cyanrip (⭐164)](https://github.com/atomnuker/cyanrip) - rips and encodes standard audio CDs with the least effort required from user. Cross platform.
 
 ### Music Programming
 
@@ -143,7 +143,7 @@ Awesome Music Projects
 
 ### Audio Tools
 
-*   [Cecilia (⭐177)](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
+*   [Cecilia (⭐180)](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
 
 ## [Feb 17 - Feb 23, 2020](/content/2020/7/README.md)
 
@@ -155,7 +155,7 @@ Awesome Music Projects
 
 ### Music Programming
 
-*   [Midica (⭐95)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
+*   [Midica (⭐97)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
 
 ## [Dec 16 - Dec 22, 2019](/content/2019/50/README.md)
 
@@ -208,7 +208,7 @@ Awesome Music Projects
 
 *   [fre:ac (⭐1.1k)](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
 *   [Jack (⭐11)](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
-*   [K3b (⭐113)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
+*   [K3b (⭐119)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
 *   [lltag (⭐30)](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
 *   [Rubyripper (⭐110)](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
 *   [split2flac (⭐250)](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
@@ -231,16 +231,16 @@ Awesome Music Projects
 
 ### Related lists
 
-*   [Awesome Audio Visualization (⭐4.3k)](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
+*   [Awesome Audio Visualization (⭐4.4k)](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 *   [Awesome Python for Scientific Audio (⭐1.4k)](https://github.com/faroit/awesome-python-scientific-audio) - A curated list of python software and packages related to scientific research in audio.
-*   [Awesome WebAudio (⭐985)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
+*   [Awesome WebAudio (⭐1k)](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 
 ## [Jan 15 - Jan 21, 2018](/content/2018/3/README.md)
 
 ### Related lists
 
-*   [Awesome Music Listening (⭐105)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
-*   [Awesome sheet music (⭐644)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
+*   [Awesome Music Listening (⭐106)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
+*   [Awesome sheet music (⭐660)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
 
 ## [Jan 01 - Jan 07, 2018](/content/2018/1/README.md)
 
@@ -252,13 +252,13 @@ Awesome Music Projects
 
 ### Audio Libraries
 
-*   [Librosa (⭐6.2k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
+*   [Librosa (⭐6.3k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
 
 ## [Dec 26 - Jan 01, 2016](/content/2016/52/README.md)
 
 ### Music Notation
 
-*   [Lyp (⭐69)](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
+*   [Lyp (⭐70)](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
 
 ## [Sep 05 - Sep 11, 2016](/content/2016/36/README.md)
 
@@ -298,7 +298,7 @@ Awesome Music Projects
 
 ### Music Notation
 
-*   [MusicKit (⭐109)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
+*   [MusicKit (⭐108)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
 
 ## [Mar 21 - Mar 27, 2016](/content/2016/12/README.md)
 
@@ -308,7 +308,7 @@ Awesome Music Projects
 
 ### Related lists
 
-*   [Awesome Music Production (⭐810)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
+*   [Awesome Music Production (⭐831)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
 
 ## [Mar 07 - Mar 13, 2016](/content/2016/10/README.md)
 
@@ -356,12 +356,12 @@ Awesome Music Projects
 
 ### Free Music Scores
 
-*   [cellist/Lilypond-Sheet-Music (⭐118)](https://github.com/cellist/Lilypond-Sheet-Music) - a collection of music typeset with lilypond (mostly chamber music and music for cello).
+*   [cellist/Lilypond-Sheet-Music (⭐120)](https://github.com/cellist/Lilypond-Sheet-Music) - a collection of music typeset with lilypond (mostly chamber music and music for cello).
 *   [ciconia/music (⭐20)](https://github.com/ciconia/music) - a collection of mostly baroque music, lots of sacred works by J. S. Bach, coded in lilypond/ripple.
 *   [CPDL](http://www.cpdl.org/) - the choral public domain library contains more than 20K free scores of vocal music.
 *   [Éditions Nicolas Sceaux (⭐41)](https://github.com/nsceaux/nenuvar) - baroque music scores (mainly French music), typeset using lilypond.
 *   [IMSLP](http://imslp.org/) - the International Music Score Library Project is the largest collection of public domain scores and parts on the web.
-*   [Mutopia (⭐229)](https://github.com/MutopiaProject/MutopiaProject) - sheet music based on editions in the public domain.
+*   [Mutopia (⭐230)](https://github.com/MutopiaProject/MutopiaProject) - sheet music based on editions in the public domain.
 *   [wbsoft/lilymusic (⭐48)](https://github.com/wbsoft/lilymusic) - beautiful LilyPond scores under free licenses.
 
 ### MIDI Tools & Libraries
@@ -371,27 +371,27 @@ Awesome Music Projects
 ### Music Notation
 
 *   [Denemo](http://www.denemo.org/) - a free music notation editor based on Lilypond.
-*   [Frescobaldi (⭐667)](https://github.com/wbsoft/frescobaldi) - a free Lilypond sheet music editor.
+*   [Frescobaldi (⭐674)](https://github.com/wbsoft/frescobaldi) - a free Lilypond sheet music editor.
 *   [Guido](http://guidolib.sourceforge.net/) - a generic, portable library and API for the graphical rendering of musical scores.
-*   [Inknote (⭐153)](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
+*   [Inknote (⭐152)](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
 *   [LibMEI (⭐59)](https://github.com/DDMAL/libmei) - a C++ library for reading and writing MEI files.
 *   [Lilypond](http://lilypond.org/) - free, open-source music engraving program, devoted to producing the highest-quality sheet music possible.
 *   [Lilypond Snippet Repository](http://lsr.di.unimi.it/) - an online database of Lilypond snippets ideas, features and hacks.
 *   [Lydown (⭐23)](https://github.com/ciconia/lydown) - a modern language for music notation, based on Lilypond.
-*   [MuseScore (⭐10k)](https://github.com/musescore/MuseScore) - free open-source music notation and composition software.
+*   [MuseScore (⭐11k)](https://github.com/musescore/MuseScore) - free open-source music notation and composition software.
 *   [Python-ly](https://pypi.python.org/pypi/python-ly) - a tool and library for manipulating LilyPond files.
-*   [Verovio (⭐571)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
-*   [Vexflow (⭐3.6k)](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
+*   [Verovio (⭐576)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
+*   [Vexflow (⭐3.7k)](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
 
 ### Music Programming
 
 *   [Alda (⭐5.4k)](https://github.com/alda-lang/alda) - a music programming language for musicians.
-*   [Chuck (⭐649)](https://github.com/ccrma/chuck) - strongly-timed, concurrent, and on-the-fly music programming language.
+*   [Chuck (⭐664)](https://github.com/ccrma/chuck) - strongly-timed, concurrent, and on-the-fly music programming language.
 *   [CoffeeCollider (⭐216)](https://github.com/mohayonao/CoffeeCollider) - a language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider."
 *   [Common Music](http://commonmusic.sourceforge.net/) - an open source music composition system.
 *   [Csound](http://csound.github.io/) - a user-programmable and user-extensible sound processing language and software synthesizer.
-*   [IanniX (⭐311)](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
-*   [Leipzig (⭐442)](https://github.com/ctford/leipzig) - a composition library for Overtone.
+*   [IanniX (⭐319)](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
+*   [Leipzig (⭐443)](https://github.com/ctford/leipzig) - a composition library for Overtone.
 *   [Music Suite](http://music-suite.github.io/docs/ref/) - a language for generalized music notation and theory, based on Haskell.
 *   [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - a sound synthesis and composition language.
 *   [Overtone (⭐5.7k)](https://github.com/overtone/overtone/) - an Open Source toolkit for designing synthesizers and collaborating with music.
@@ -414,7 +414,7 @@ Awesome Music Projects
 
 ### Music Notation
 
-*   [OpenLilyLib (⭐112)](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
+*   [OpenLilyLib (⭐113)](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
 
 ## [Dec 07 - Dec 13, 2015](/content/2015/49/README.md)
 

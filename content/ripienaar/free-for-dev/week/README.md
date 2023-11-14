@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
+
+### Forms
+
+*   [Qualli](https://usequalli.com) - In App Surveys, designed for mobile. Use Qualli AI to craft the perfect questions. You can try it out on our free plan, up to 500 MAU, create unlimited forms and triggers.
+
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
 ### APIs, Data, and ML

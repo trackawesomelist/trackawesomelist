@@ -61,7 +61,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     *   [How-to guides](#how-to-guides)
     *   [Templates](#templates)
     *   [VM-Hardening](#vm-hardening)
-    *   [Desktop Customization](#desktop-customization)
+    *   [Customization](#desktop-customization)
     *   [GPU](#gpu)
     *   [Clearnet & Anonymous Networking](#clearnet--anonymous-networking)
         *   [Wireguard](#wireguard)
@@ -206,11 +206,11 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [TUFF](https://theupdateframework.io/security/) - We can think of a software update system as “secure” if:
 *   [YubiKey](https://www.qubes-os.org/doc/yubikey/) - Most use cases for the YubiKey can be achieved exactly as described by the manufacturer or other instructions found online.
 
-## Desktop Customization
+## Customization
 
 *   [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/) - This is an rpm package for awesomewm with the patches for Qubes.
 *   [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2) - Easy brightness adjustment
-*   [Bash completion](https://forum.qubes-os.org/docs?topic=19008) - How to install bash completion for Qubes OS commands.
+*   [Bash completion](https://forum.qubes-os.org/docs?topic=13304) - How to install bash completion for Qubes OS commands.
 *   [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3) - Place the custom folder icons \~/.local/share/icons is a persistent place to place the custom folder icons and so is /usr/share/icons.
 *   [DPI scaling](https://forum.qubes-os.org/t/dpi-scaling/19064) - Qubes OS passes on dom0’s screen resolution to VMs (this can be seen in the output of xrandr) but doesn’t pass on dom0’s dpi value.
 *   [i3 (window manager)](https://www.qubes-os.org/doc/i3/) - i3 is part of the stable repository (as of Qubes R3.1) and can be installed by using the dom0 update mechanism.
@@ -218,6 +218,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Qubes-GUI-Rust (⭐7)](https://github.com/QubesOS/qubes-gui-rust) - Rust libraries for the Qubes OS GUI Protocol
 *   [Suckless dwm (⭐9)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
 *   [QubesOS Autostart Menu (⭐0)](https://github.com/kennethrrosen/Qubes-OS-Autostart-Menu/) - Speed up system boot process with a custom launch script
+*   [Qubes-Scripts (⭐5)](https://github.com/Willy-JL/Qubes-Scripts) - Collection of custom scripts for Qubes OS.
 *   [PLayback performance](https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube/21946) - This guide will show you how to install the mpv player and use it with maximum performance.
 *   [sys-VPN notification setup (⭐0)](https://github.com/kennethrrosen/qubes_VPN_notifier) - Get VPN stats as a desktop notification
 *   [Wayland agent (⭐8)](https://github.com/DemiMarie/qubes-wayland) - This is a GUI agent for Qubes OS that supports the \[Wayland] display server protocol. Compared to X11, Wayland is vastly simpler and aims to ensure every frame is perfect.
