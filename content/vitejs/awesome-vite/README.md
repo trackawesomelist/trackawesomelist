@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Nov 15, 2023](/content/2023/11/15/README.md)
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-deadfile (⭐0)](https://github.com/stauren/vite-plugin-deadfile) - Find unused source files in the project.
+
 ## [Nov 13, 2023](/content/2023/11/13/README.md)
 
 ### Templates / React

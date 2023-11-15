@@ -6,6 +6,12 @@ Awesome lists of useful Sitecore tools, extensions and GitHub repositories
 
 [ [Daily](/content/MartinMiles/awesome-sitecore/README.md) / Weekly / [Overview](/content/MartinMiles/awesome-sitecore/readme/README.md) ]
 
+## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
+
+### XM Cloud
+
+*   [Sitecore GraphQL Import (⭐1)](https://github.com/jbluemink/Sitecore-GraphQL-Import) - A console app showcases various capabilities of the Sitecore GraphQL API, such as retrieving Sitecore items, obtaining a list of websites, inserting sample items, and uploading media files.
+
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
 ### XM Cloud
@@ -28,7 +34,7 @@ Awesome lists of useful Sitecore tools, extensions and GitHub repositories
 
 ### Containers
 
-*   [Windows Docker Machine (⭐981)](https://github.com/StefanScherer/windows-docker-machine) - Vagrant environment that creates a "Docker Machine" to work on your MacBook with Windows containers so that you can easily switch between Docker Desktop Linux containers and the Windows containers.
+*   [Windows Docker Machine (⭐986)](https://github.com/StefanScherer/windows-docker-machine) - Vagrant environment that creates a "Docker Machine" to work on your MacBook with Windows containers so that you can easily switch between Docker Desktop Linux containers and the Windows containers.
 
 ## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
 
@@ -51,7 +57,7 @@ Awesome lists of useful Sitecore tools, extensions and GitHub repositories
 
 ### Helix
 
-*   [PLAY Summit Demo (⭐29)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
+*   [PLAY Summit Demo (⭐28)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
 
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
@@ -78,17 +84,17 @@ Awesome lists of useful Sitecore tools, extensions and GitHub repositories
 
 ### XM Cloud
 
-*   [Play Summit (⭐11)](https://github.com/Sitecore/Sitecore.Demo.XmCloud.PlaySummit) - Play Summit demo featuring XM Cloud, Content Hub DAM, CMP, Next.js with Versel hosting, etc.
-*   [XM Cloud Introduction (⭐36)](https://github.com/Sitecore/XM-Cloud-Introduction) - A codebase for a series of XM Cloud sites managed by the Technical Marketing Team at Sitecore: new MVP website along with 3 websites of SUGCON events.
+*   [Play Summit (⭐12)](https://github.com/Sitecore/Sitecore.Demo.XmCloud.PlaySummit) - Play Summit demo featuring XM Cloud, Content Hub DAM, CMP, Next.js with Versel hosting, etc.
+*   [XM Cloud Introduction (⭐39)](https://github.com/Sitecore/XM-Cloud-Introduction) - A codebase for a series of XM Cloud sites managed by the Technical Marketing Team at Sitecore: new MVP website along with 3 websites of SUGCON events.
 
 ### Demo
 
-*   [Developer Portal (⭐21)](https://github.com/Sitecore/developer-portal) - The Sitecore developer portal built with Next.js, Typescript, Tailwind CSS, and hosted on Vercel, uses static site generation to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. With much of the page content written in Markdown and converted to HTML at build time, images are however used managed in Sitecore DAM and
+*   [Developer Portal (⭐22)](https://github.com/Sitecore/developer-portal) - The Sitecore developer portal built with Next.js, Typescript, Tailwind CSS, and hosted on Vercel, uses static site generation to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. With much of the page content written in Markdown and converted to HTML at build time, images are however used managed in Sitecore DAM and
     published to a CDN.
 
 ### Edge
 
-*   [Sitecore Demo Edge (⭐29)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A repository used for the primary Sitecore Edge for Content Hub and Experience Management.
+*   [Sitecore Demo Edge (⭐28)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A repository used for the primary Sitecore Edge for Content Hub and Experience Management.
 
 ### JSS
 
@@ -138,7 +144,7 @@ Awesome lists of useful Sitecore tools, extensions and GitHub repositories
 
 ### Azure
 
-*   [Sitecore Azure Scripts (⭐16)](https://github.com/robhabraken/Sitecore-Azure-Scripts) - Azure related PowerShell scripts and ARM templates to be used as a template or boilerplate for your own scripts and needs.
+*   [Sitecore Azure Scripts (⭐17)](https://github.com/robhabraken/Sitecore-Azure-Scripts) - Azure related PowerShell scripts and ARM templates to be used as a template or boilerplate for your own scripts and needs.
 *   [Sitecore Diagnostics (⭐3)](https://github.com/BasLijten/SitecoreDiagnostics) - Sitecore Diagnostics using Application Insights.
 *   [Application Insights Annotations (⭐2)](https://github.com/BasLijten/sitecore-application-insights-annotations) - Creates App Insinghts annotations.
 
@@ -191,7 +197,7 @@ Awesome lists of useful Sitecore tools, extensions and GitHub repositories
 
 ### Containers
 
-*   [Container Deployment (⭐26)](https://github.com/Sitecore/container-deployment) - Provides examples on how to deploy Sitecore containers using various methods.
+*   [Container Deployment (⭐27)](https://github.com/Sitecore/container-deployment) - Provides examples on how to deploy Sitecore containers using various methods.
 
 ### Content Search
 
@@ -253,8 +259,8 @@ Awesome lists of useful Sitecore tools, extensions and GitHub repositories
 ### Demo
 
 *   [Sitecore.Demo.Headless (⭐21)](https://github.com/Sitecore/Sitecore.Demo.Headless) - Sitecore JSS PWA demo assets and future "Sitecore Headless" related demo assets.
-*   [Sitecore DXP Demo (⭐29)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
-*   [Sitecore Developer Portal (⭐21)](https://github.com/Sitecore/developer-portal) - Sitecore developer portal is built with Next.js, Typescript, Tailwind CSS, and is hosted on Vercel. It uses static site generation (SSG) to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. Many pages are written in Markdown and converted to HTML at build time. Images that are used are managed in Sitecore DAM and are published to a CDN.
+*   [Sitecore DXP Demo (⭐28)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
+*   [Sitecore Developer Portal (⭐22)](https://github.com/Sitecore/developer-portal) - Sitecore developer portal is built with Next.js, Typescript, Tailwind CSS, and is hosted on Vercel. It uses static site generation (SSG) to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. Many pages are written in Markdown and converted to HTML at build time. Images that are used are managed in Sitecore DAM and are published to a CDN.
 
 ### JSS
 
@@ -427,10 +433,10 @@ Awesome lists of useful Sitecore tools, extensions and GitHub repositories
 
 ### Azure
 
-*   [ARM templates for Sitecore (⭐140)](https://github.com/Sitecore/Sitecore-Azure-Quickstart-Templates) - All currently available Azure Resource Manager templates for Sitecore.
+*   [ARM templates for Sitecore (⭐141)](https://github.com/Sitecore/Sitecore-Azure-Quickstart-Templates) - All currently available Azure Resource Manager templates for Sitecore.
 *   [Sitecore Azure Content (⭐18)](https://github.com/olegburov/Sitecore-Azure-Content) - Articles on how to automate a deployment of Sitecore solution to the Microsoft Azure Cloud Platform utilizing Azure services.
 *   [Sitecore Advanced Azure Devops (⭐13)](https://github.com/JeffDarchuk/AdvancedSitecoreAzureDevops) - Expanding Sitecore on azure with flexible and generic scripts (requires a valid powershell Azure session to be connected and available).
-*   [Language Understanding (LUIS) Samples (⭐83)](https://github.com/Azure-Samples/cognitive-services-language-understanding) - Samples for the Language Understanding Intelligent Service (LUIS).
+*   [Language Understanding (LUIS) Samples (⭐84)](https://github.com/Azure-Samples/cognitive-services-language-understanding) - Samples for the Language Understanding Intelligent Service (LUIS).
 *   [Sitecore Media Azure Blob Storage provider (⭐0)](https://github.com/ivansharamok/Sitecore.Media.AzureBlobStorage) - Allows to store Sitecore media library assets in the Azure Blob Storage account.
 *   [CloudMediaLibrary (⭐5)](https://github.com/jammykam/Sitecore-CloudMediaLibrary) - Allow Sitecore Media Library to store and serve from Cloud Storage.
 *   [SitecoreCognitiveServices (⭐0)](https://github.com/smithc/SitecoreCognitiveServices) - SDK integrating Microsoft's Cognitive Services into Sitecore.
@@ -524,7 +530,7 @@ Awesome lists of useful Sitecore tools, extensions and GitHub repositories
 
 ### JSS
 
-*   [JSS (⭐244)](https://github.com/Sitecore/jss) - An official repo of Sitecore JavaScript Services.
+*   [JSS (⭐246)](https://github.com/Sitecore/jss) - An official repo of Sitecore JavaScript Services.
 *   [sugcon-2019-jss-examples (⭐0)](https://github.com/chaturangar/sugcon-2019-jss-examples) - SugCon 2019 jss examples.
 *   [SitecoreQL (⭐15)](https://github.com/kmazzoni/SitecoreQL) - A GraphQL implementation for Sitecore, for example you can query against Sitecore's Content Search API.
 *   [JSS React Starter Application (⭐3)](https://github.com/altola/sitecore-jss-react-basic) - Please follow the primary JSS documentation at <https://jss.sitecore.net> for the latest documentation on JSS.

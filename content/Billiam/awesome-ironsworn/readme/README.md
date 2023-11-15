@@ -2,7 +2,7 @@
 
 An awesome list of awesome Ironsworn projects
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 68 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 70 · 🏷️ Gaming
 
 [ [Daily](/content/Billiam/awesome-ironsworn/README.md) / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / Overview ]
 
@@ -33,7 +33,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 
 ## Tools
 
-*   [Asset Workbench](https://effortlessmountain.github.io/ironsworn-asset-workbench/) - Tool for creating custom assets
+*   [Asset Workbench](https://effortlessmountain.github.io/ironsworn-asset-workbench/) - Tool for creating custom Ironsworn assets
 *   [The Augur](https://the-augur.itch.io/theaugur) - A virtual tabletop for solo RPGs, based on Ironsworn
 *   [Fusake Play Aid](https://docs.google.com/document/d/191sfXfcrxars0CXgLNN54eCoQRsuPmyd5Qe-IS5Vlhg/view) - Microsoft Excel play-aid for solo Ironsworn play
 *   [Iron Fellowship](https://iron-fellowship.scottbenton.dev/) - Synced character sheet and campaign manager for Ironsworn
@@ -48,7 +48,8 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 *   [Ironsworn for Role](https://app.playrole.com/sheet-templates/bbc0c65a-ironsworn-starforged/save) - Ironsworn character sheet for Role
 *   [Ironsworn for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1545126579) - Ironsworn module for Tabletop Simulator
 *   [Ironsworn Numbers Spreadsheet](https://www.dropbox.com/s/m16aazqk3t7ashd/Ironsworn%20-%20Public%20iPad%20v%200-7.numbers?dl=0) - Spreadsheet for Ironsworn solo play
-*   [isscrolls (⭐10)](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
+*   [isscrolls (⭐11)](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
+*   [Starforged Asset Workbench](https://starforged-asset-workbench.vercel.app) - Tool for creating custom assets with Starforged's aesthetic
 *   [Starforged Crew Sheet](https://jaderavens.itch.io/starforged-crew-sheet) - Interactive playkit for group/solo play in Google Sheets
 *   [Starforged Custom Oracles Module for FoundryVTT](https://foundryvtt.com/packages/starforged-custom-oracles) - A FoundryVTT compendium of the fan-created oracles for the Ironsworn: Starforged system
 *   [Starforged Sectors Discord Bot (⭐1)](https://github.com/Ferretsroq/Starforged-Sectors) - Display, create, and explore sectors in Discord
@@ -59,8 +60,8 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 ## Resources
 
 *   [Character-Centric Packs](https://www.drivethrurpg.com/browse/pub/14520/Samuel-Rondn/subcategory/32227_36337/CharacterCentric-Packs-for-the-Ironsworn-System) - Character building card sets for Ironsworn
-*   [DataForged (⭐168)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
-*   [DataSworn (⭐101)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [DataForged (⭐170)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐102)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 *   [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith) - Supplemental oracles, assets, locations, vows and more
 *   [Ironsworn Half-Page Worksheets](https://notofthisworld.itch.io/ironsworn-half-page-worksheets) - Half-page versions of the character, progress, vow and Delve worksheets
 *   [Minimalist Starforged Character Sheet](https://mendercap.itch.io/minimalist-starforged-character-sheet) - Simple character sheet for Starforged and Sundered Isles
@@ -145,5 +146,5 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines (⭐68)](https://github.com/Billiam/awesome-ironsworn/blob/main/contributing.md) first.
+Contributions welcome! Read the [contribution guidelines (⭐70)](https://github.com/Billiam/awesome-ironsworn/blob/main/contributing.md) first.
 

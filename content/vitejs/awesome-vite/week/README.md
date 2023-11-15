@@ -16,6 +16,10 @@
 
 *   [vite-svelte-flow-template (⭐0)](https://github.com/xyflow/vite-svelte-flow-template) - Svelte Flow starter template.
 
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-deadfile (⭐0)](https://github.com/stauren/vite-plugin-deadfile) - Find unused source files in the project.
+
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
 ### Templates / Vue 3

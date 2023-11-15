@@ -2,9 +2,15 @@
 
 An awesome list of awesome Ironsworn projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 68 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 70 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
+
+## [Nov 15, 2023](/content/2023/11/15/README.md)
+
+### Tools / Ironsworn
+
+*   [Starforged Asset Workbench](https://starforged-asset-workbench.vercel.app) - Tool for creating custom assets with Starforged's aesthetic
 
 ## [Oct 31, 2023](/content/2023/10/31/README.md)
 
@@ -271,7 +277,7 @@ An awesome list of awesome Ironsworn projects
 
 ### Tools / Ironsworn
 
-*   [isscrolls (⭐10)](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
+*   [isscrolls (⭐11)](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
 
 ## [Sep 13, 2021](/content/2021/09/13/README.md)
 
@@ -355,7 +361,7 @@ An awesome list of awesome Ironsworn projects
 
 ### Tools / Ironsworn
 
-*   [Asset Workbench](https://effortlessmountain.github.io/ironsworn-asset-workbench/) - Tool for creating custom assets
+*   [Asset Workbench](https://effortlessmountain.github.io/ironsworn-asset-workbench/) - Tool for creating custom Ironsworn assets
 *   [The Augur](https://the-augur.itch.io/theaugur) - A virtual tabletop for solo RPGs, based on Ironsworn
 *   [Ironsworn Companion](https://gcoulby.github.io/IronswornCompanion/) - Digital companion for the tabletop RPG Ironsworn
 *   [Ironsworn Generators by rsek](https://perchance.org/rsek-ironsworn-generators) - Collection of random generators for Ironsworn
@@ -364,8 +370,8 @@ An awesome list of awesome Ironsworn projects
 
 ### Resources / Ironsworn
 
-*   [DataForged (⭐168)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
-*   [DataSworn (⭐101)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [DataForged (⭐170)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐102)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 *   [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith) - Supplemental oracles, assets, locations, vows and more
 
 ### Hacks and homebrew / Ironsworn

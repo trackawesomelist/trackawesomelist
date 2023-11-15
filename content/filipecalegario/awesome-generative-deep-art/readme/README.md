@@ -369,12 +369,13 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Text
 
-## Inbox: Large Language Models (LLMs)
+## Large Language Models (LLMs)
 
+*   [vectara/hallucination-leaderboard (⭐274)](https://github.com/vectara/hallucination-leaderboard): "leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
+*   [\[2311.01555\] Instruction Distillation Makes Large Language Models Efficient Zero-shot Rankers](https://arxiv.org/abs/2311.01555)
 *   \[🔥🔥] [State of LLM Apps 2023 · Streamlit](https://state-of-llm.streamlit.app/)
 *   [The architecture of today's LLM applications - The GitHub Blog](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/)
 *   [Demystifying LLMs: How they can do things they weren't trained to do - The GitHub Blog](https://github.blog/2023-10-27-demystifying-llms-how-they-can-do-things-they-werent-trained-to-do/)
-*   \[🔥🔥] [Ollama](https://ollama.ai/): run Llama 2, Code Llama, and other models locally
 *   [How AI chatbots like ChatGPT or Bard work – visual explainer | The Guardian](https://www.theguardian.com/technology/ng-interactive/2023/nov/01/how-ai-chatbots-like-chatgpt-or-bard-work-visual-explainer)
 *   [cpacker/MemGPT (⭐5.5k)](https://github.com/cpacker/MemGPT): teaching LLMs memory management for unbounded context [\[demo page\]](https://memgpt.ai/) [\[arxiv\]](https://arxiv.org/abs/2310.08560)
 *   [\[2307.10169\] Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169): a systematic set of open problems and application successes of LLM area
@@ -428,6 +429,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 ### Prompt Engineering
 
 *   [\[2311.05661\] Prompt Engineering a Prompt Engineer](https://arxiv.org/abs/2311.05661): this paper deals with the problem of "constructing a meta-prompt that more effectively guides LLMs to perform automatic prompt engineering"
+*   [\[2311.04155\] Black-Box Prompt Optimization: Aligning Large Language Models without Model Training](https://arxiv.org/abs/2311.04155)
 *   \[🔥🔥] [Prompt Engineering Roadmap - roadmap.sh](https://roadmap.sh/prompt-engineering)
 *   \[🔥🔥🔥] [Learn Prompting](https://learnprompting.org/): series of lessons of prompt engineering
 *   \[🔥🔥🔥] [Prompt Engineering | Lil'Log](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/): prompt engineering learning notes by Lilian Weng
@@ -492,6 +494,17 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [\[2206.00169\] Discovering the Hidden Vocabulary of DALLE-2](https://arxiv.org/abs/2206.00169)
 *   [When SD just doesn't understand the prompt no matter how hard I try | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgwcab/when_sd_just_doesnt_understand_the_prompt_no/)
 *   [It's very interesting how some prompts have very defined output but other specific ones are not | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgplii/its_very_interesting_how_some_prompts_have_very/)
+
+### Running LLMs Locally
+
+*   \[🔥🔥] [Ollama](https://ollama.ai/): run Llama 2, Code Llama, and other models locally
+*   [GPT4All](https://gpt4all.io/index.html): A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
+*   [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs
+*   [ggerganov/llama.cpp (⭐43k)](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
+
+### GPTs and Assistant API
+
+*   [AllGPTs](https://allgpts.co/): a directory to find GPTs
 
 ### Retrieval-Augmented Generation (RAG)
 
@@ -905,6 +918,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Code and Programming
 
+*   [tldraw/draw-a-ui (⭐373)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
 *   [deepseek-ai/DeepSeek-Coder (⭐2k)](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
 *   [Cody](https://about.sourcegraph.com/cody): AI coding assistant
 *   [Kombai](https://kombai.com/): generate UI code per component from Figma

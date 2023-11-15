@@ -125,6 +125,7 @@ Collections of awesome neovim plugins.
 *   [jubnzv/virtual-types.nvim (⭐315)](https://github.com/jubnzv/virtual-types.nvim) - Show type annotations as virtual text.
 *   [ray-x/navigator.lua (⭐1.1k)](https://github.com/ray-x/navigator.lua) - Learn existing code quickly and navigate code like a breeze. A swiss army knife makes exploring LSP and 🌲Treesitter symbols a piece of 🍰.
 *   [simrat39/symbols-outline.nvim (⭐1.8k)](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols using the Language Server Protocol. Supports all your favourite languages.
+*   [hedyhli/outline.nvim (⭐47)](https://github.com/hedyhli/outline.nvim) - A significantly enhanced and refactored fork of `symbols-outline.nvim`.
 *   [stevearc/aerial.nvim (⭐1.2k)](https://github.com/stevearc/aerial.nvim) - A code outline window for skimming and quick navigation.
 *   [SmiteshP/nvim-navbuddy (⭐562)](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs like navigation features using LSP.
 *   [tamago324/nlsp-settings.nvim (⭐274)](https://github.com/tamago324/nlsp-settings.nvim) - Setup LSP with JSON or YAML files.
@@ -142,7 +143,7 @@ Collections of awesome neovim plugins.
 *   [roobert/hoversplit.nvim (⭐34)](https://github.com/roobert/hoversplit.nvim) - Automatically updated documentation and information about code symbols in a split window.
 *   [mfussenegger/nvim-jdtls (⭐744)](https://github.com/mfussenegger/nvim-jdtls) - Extensions for the built-in LSP support for eclipse.jdt.ls.
 *   [Kasama/nvim-custom-diagnostic-highlight (⭐55)](https://github.com/Kasama/nvim-custom-diagnostic-highlight) - Inline diagnostics popup-highlight much like coc-nvim but based on `vim.diagnostic`.
-*   [mrcjkb/haskell-tools.nvim (⭐309)](https://github.com/mrcjkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
+*   [mrcjkb/haskell-tools.nvim (⭐310)](https://github.com/mrcjkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
 *   [ranjithshegde/ccls.nvim (⭐54)](https://github.com/ranjithshegde/ccls.nvim) - Use off-spec extensions of ccls LSP and browse AST.
 *   [idanarye/nvim-buffls (⭐9)](https://github.com/idanarye/nvim-buffls) - Add LSP functionality to specific Neovim buffers.
 *   [DNLHC/glance.nvim (⭐515)](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations.
@@ -274,7 +275,7 @@ Collections of awesome neovim plugins.
 *   [dcampos/nvim-snippy (⭐264)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.7k)](https://github.com/honza/vim-snippets).
 *   [ellisonleao/carbon-now.nvim (⭐118)](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from Neovim.
 *   [TobinPalmer/rayso.nvim (⭐59)](https://github.com/TobinPalmer/rayso.nvim) - Create code snippets in Neovim using [ray.so](https://ray.so).
-*   [mrcjkb/haskell-snippets.nvim (⭐9)](https://github.com/mrcjkb/haskell-snippets.nvim) - Haskell snippets for LuaSnip, powered by Tree-sitter and LSP.
+*   [mrcjkb/haskell-snippets.nvim (⭐14)](https://github.com/mrcjkb/haskell-snippets.nvim) - Haskell snippets for LuaSnip, powered by Tree-sitter and LSP.
 
 ## Register
 
@@ -558,7 +559,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 *   [yamatsum/nvim-cursorline (⭐350)](https://github.com/yamatsum/nvim-cursorline) - A plugin that highlights cursor words and lines.
 *   [xiyaowong/nvim-cursorword (⭐120)](https://github.com/xiyaowong/nvim-cursorword) - Part of nvim-cursorline. Highlight the word under the cursor.
-*   [sontungexpt/stcursorword (⭐16)](https://github.com/sontungexpt/stcursorword) - Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
+*   [sontungexpt/stcursorword (⭐26)](https://github.com/sontungexpt/stcursorword) - Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
 *   [RRethy/vim-illuminate (⭐1.8k)](https://github.com/RRethy/vim-illuminate) - Highlight the word under the cursor. Neovim's builtin LSP is available, it can be used to highlight more intelligently.
 *   [echasnovski/mini.nvim#mini.cursorword (⭐2.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-cursorword.md) - Module of `mini.nvim` for automatic highlighting of word under cursor (displayed after customizable delay).
 *   [mawkler/modicator.nvim (⭐207)](https://github.com/mawkler/modicator.nvim) - Cursor line number mode indicator. Changes the `CursorLineNr` highlight based on Vim mode.
@@ -618,7 +619,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [RutaTang/quicknote.nvim (⭐87)](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
 *   [serenevoid/kiwi.nvim (⭐95)](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki with necessary features.
 *   [ada0l/obsidian/ (⭐26)](https://github.com/ada0l/obsidian) - Base Obsidian functionality.
-*   [gsuuon/note.nvim (⭐20)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
+*   [gsuuon/note.nvim (⭐25)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
 
 ## Utility
 
@@ -794,7 +795,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 ## Dependency Management
 
 *   [vuki656/package-info.nvim (⭐304)](https://github.com/vuki656/package-info.nvim) - Display latest package version as virtual text in package.json.
-*   [Saecki/crates.nvim (⭐605)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
+*   [Saecki/crates.nvim (⭐617)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 *   [piersolenski/telescope-import.nvim (⭐46)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
 
 ## Git
@@ -808,7 +809,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [tanvirtin/vgit.nvim (⭐544)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
 *   [sindrets/diffview.nvim (⭐2.8k)](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 *   [kdheepak/lazygit.nvim (⭐882)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
-*   [AckslD/nvim-gfold.lua (⭐33)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐255)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
+*   [AckslD/nvim-gfold.lua (⭐33)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐256)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 *   [akinsho/git-conflict.nvim (⭐638)](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts.
 *   [aaronhallaert/advanced-git-search.nvim (⭐220)](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit content, message and author with Telescope.
 *   [9seconds/repolink.nvim (⭐10)](https://github.com/9seconds/repolink.nvim) - Generate shareable HTTP permalinks for various Git web frontends.
@@ -1017,7 +1018,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [jamestthompson3/nvim-remote-containers (⭐659)](https://github.com/jamestthompson3/nvim-remote-containers) - Develop inside docker containers, just like VSCode.
 *   [esensar/nvim-dev-container (⭐389)](https://github.com/esensar/nvim-dev-container) - Neovim devcontainer.json and general development container support.
 *   [miversen33/netman.nvim (⭐270)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
-*   [niuiic/remote.nvim (⭐21)](https://github.com/niuiic/remote.nvim) - Edit remote files with local configuration.
+*   [niuiic/remote.nvim (⭐23)](https://github.com/niuiic/remote.nvim) - Edit remote files with local configuration.
 
 ## Split and Window
 

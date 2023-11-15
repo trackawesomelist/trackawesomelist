@@ -6,6 +6,31 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Nov 15, 2023](/content/2023/11/15/README.md)
+
+### Large Language Models (LLMs)
+
+*   [vectara/hallucination-leaderboard (⭐274)](https://github.com/vectara/hallucination-leaderboard): "leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
+*   [\[2311.01555\] Instruction Distillation Makes Large Language Models Efficient Zero-shot Rankers](https://arxiv.org/abs/2311.01555)
+
+### Prompt Engineering
+
+*   [\[2311.04155\] Black-Box Prompt Optimization: Aligning Large Language Models without Model Training](https://arxiv.org/abs/2311.04155)
+
+### Running LLMs Locally / Prompt Engineering for Text-to-image
+
+*   [GPT4All](https://gpt4all.io/index.html): A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
+*   [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs
+*   [ggerganov/llama.cpp (⭐43k)](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
+
+### GPTs and Assistant API / Prompt Engineering for Text-to-image
+
+*   [AllGPTs](https://allgpts.co/): a directory to find GPTs
+
+### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+
+*   [tldraw/draw-a-ui (⭐373)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
+
 ## [Nov 14, 2023](/content/2023/11/14/README.md)
 
 ### Prompt Engineering
@@ -34,7 +59,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Emerging Trends in Generative AI Research: A Selection of Recent Papers](https://txt.cohere.com/top-nlp-papers-september-2023/)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   \[🔥🔥] [State of LLM Apps 2023 · Streamlit](https://state-of-llm.streamlit.app/)
 
@@ -56,7 +81,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Nov 08, 2023](/content/2023/11/08/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [The architecture of today's LLM applications - The GitHub Blog](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/)
 *   [Demystifying LLMs: How they can do things they weren't trained to do - The GitHub Blog](https://github.blog/2023-10-27-demystifying-llms-how-they-can-do-things-they-werent-trained-to-do/)
@@ -72,9 +97,12 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Nov 07, 2023](/content/2023/11/07/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [How AI chatbots like ChatGPT or Bard work – visual explainer | The Guardian](https://www.theguardian.com/technology/ng-interactive/2023/nov/01/how-ai-chatbots-like-chatgpt-or-bard-work-visual-explainer)
+
+### Running LLMs Locally / Prompt Engineering for Text-to-image
+
 *   \[🔥🔥] [Ollama](https://ollama.ai/): run Llama 2, Code Llama, and other models locally
 
 ### Image Segmentation / Deforum
@@ -106,7 +134,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Frontier AI: capabilities and risks – discussion paper - GOV.UK](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper)
 *   [AI Safety Summit Policy Updates | AISS 2023](https://www.aisafetysummit.gov.uk/policy-updates/#company-policies)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [cpacker/MemGPT (⭐5.5k)](https://github.com/cpacker/MemGPT): teaching LLMs memory management for unbounded context [\[demo page\]](https://memgpt.ai/) [\[arxiv\]](https://arxiv.org/abs/2310.08560)
 *   [\[2307.10169\] Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169): a systematic set of open problems and application successes of LLM area
@@ -150,7 +178,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Guidelines for Human-AI Interaction - Microsoft Research](https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/): a set of "18 generally applicable design guidelines for human-AI" interaction
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   \[🔥🔥🔥] [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/): "practical patterns for integrating large language models (LLMs) into systems & products" by Eugene Yan
 
@@ -215,7 +243,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Oct 30, 2023](/content/2023/10/30/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [\[2309.06794\] Cognitive Mirage: A Review of Hallucinations in Large Language Models](https://arxiv.org/abs/2309.06794)
 
@@ -383,7 +411,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Deep Learning AI - Learn the fundamentals of generative AI for real-world applications](https://www.deeplearning.ai/courses/generative-ai-with-llms/): created in partnership with AWS, this course presents the fundamentals of how generative AI works and how to deploy it in real-world applications.
 *   [Google Cloud Skills Boost - Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536): an introductory level microlearning course covering Google Tools aimed at explaining what Generative AI is, how it is used, and how it differs from traditional machine learning methods.
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [Generative AI for Strategy & Innovation](https://www.hbritalia.it/userUpload/ebook_Generative_AI_inglese.pdf): an experiment about management theories with ChatGPT by Harvard Business Review Italia
 
@@ -427,7 +455,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Google Cloud Skills Boost: Generative AI learning path](https://www.cloudskillsboost.google/journeys/118): curated content on Generative AI "from the fundamentals of Large Language Models to how to create and deploy generative AI solutions on Google Cloud"
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [The TextFX project](https://textfx.withgoogle.com/): "AI-powered tools for rappers, writers and wordsmiths" (partnership between Lupe Fiasco and Google)
 
@@ -441,7 +469,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Aug 01, 2023](/content/2023/08/01/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [A jargon-free explanation of how AI large language models work | Ars Technica](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/)
 
@@ -467,7 +495,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jul 26, 2023](/content/2023/07/26/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   \[🔥🔥🔥] [What We Know About LLMs (Primer)](https://willthompson.name/what-we-know-about-llms-primer)
 
@@ -481,7 +509,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jul 25, 2023](/content/2023/07/25/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [A simple guide to fine-tuning Llama 2 | Brev docs](https://brev.dev/blog/fine-tuning-llama-2)
 
@@ -499,7 +527,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Why AI Will Save the World | Andreessen Horowitz](https://a16z.com/2023/06/06/ai-will-save-the-world/)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [microsoft/semantic-kernel (⭐14k)](https://github.com/microsoft/semantic-kernel): integrate cutting-edge LLM technology quickly and easily into your apps
 
@@ -515,7 +543,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jul 20, 2023](/content/2023/07/20/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [CoPrompt](https://www.coprompt.io/login): platform for teams to use ChatGPT together
 
@@ -609,7 +637,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [The Next Token of Progress: 4 Unlocks on the Generative AI Horizon | Andreessen Horowitz](https://a16z.com/2023/06/23/the-next-token-of-progress-4-unlocks-on-the-generative-ai-horizon/): critical innovations on the horizon: steering, memory, ability to use tools, and multimodality
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   \[🔥🔥🔥] [Emerging Architectures for LLM Applications | Andreessen Horowitz](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/): "a reference architecture for the emerging LLM app stack"
 
@@ -638,7 +666,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jun 22, 2023](/content/2023/06/22/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [SolidUI (⭐379)](https://github.com/CloudOrc/SolidUI): AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
 
@@ -701,7 +729,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jun 10, 2023](/content/2023/06/10/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [Falcon LLM - Home](https://falconllm.tii.ae/): a foundational large language model (LLM) with 40 billion parameters trained on one trillion tokens shared by Technology Innovation Institute from Abu Dhabi
 
@@ -724,7 +752,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [AI Valley](https://aivalley.ai/): "The Newest AI Tools And Prompts"
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   \[🔥🔥🔥] [The Hugging Face Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): "the 🤗 Open LLM Leaderboard aims to track, rank and evaluate LLMs and chatbots as they are released"
 
@@ -741,7 +769,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Governance of superintelligence by OpenAI](https://openai.com/blog/governance-of-superintelligence)
 *   [AIAAIC - AIAAIC Repository](https://www.aiaaic.org/aiaaic-repository): "The independent, open, public interest resource detailing incidents and controversies driven by and relating to artificial intelligence, algorithms, and automation"
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [google/BIG-bench (⭐2.4k)](https://github.com/google/BIG-bench): "a collaborative benchmark intended to probe large language models and extrapolate their future capabilities"
 
@@ -771,7 +799,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [May 19, 2023](/content/2023/05/19/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [togethercomputer/OpenChatKit (⭐8.9k)](https://github.com/togethercomputer/OpenChatKit): provides an open-source base to create both specialized and general purpose chatbots for various applications
 
@@ -816,7 +844,7 @@ A curated list of Generative AI tools, works, models, and references
 *   **Sections**: Each section represents a different Generative AI-related category (e.g., LLMs, prompt engineering, image synthesis, educational resources, etc.). The Inboxes are the more general references of a category. When a new category emerges, it becomes a specific subsection.
 *   **References within sections**: Inside each section, references are listed in reverse chronological order, with the most recent one at the top. This order signifies the ever-evolving landscape of Generative AI, keeping you up-to-date with the latest developments.
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [Paper Digest - ChatGPT](https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/): Recent Papers on ChatGPT
 
@@ -847,7 +875,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [May 11, 2023](/content/2023/05/11/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [Let Us Show You How GPT Works — Using Jane Austen - The New York Times](https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html)
 
@@ -871,7 +899,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [May 09, 2023](/content/2023/05/09/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [Search-in-the-Chain: Towards Accurate, Credible and Traceable Large Language Models for Knowledge-intensive Tasks | arxiv](https://arxiv.org/abs/2304.14732): "a novel framework called Search-in-the-Chain (SearChain) to improve the accuracy, credibility and traceability of LLM-generated content for multi-hop question answering"
 
@@ -901,7 +929,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   \[🔥🔥🔥] [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): short course taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI) that provide best practices for prompt engineering
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   \[🔥🔥🔥] [Mooler0410/LLMsPracticalGuide (⭐7.1k)](https://github.com/Mooler0410/LLMsPracticalGuide): list of practical guide resources of LLMs based on the paper [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
 *   [hpcaitech/ColossalAI (⭐35k)](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
@@ -923,7 +951,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Apr 21, 2023](/content/2023/04/21/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [Stability AI Launches the First of its StableLM Suite of Language Models — Stability AI](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models?utm_source=bensbites\&utm_medium=newsletter\&utm_campaign=stability-ai-release-their-llm)
 
@@ -939,7 +967,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Apr 13, 2023](/content/2023/04/13/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [Free Dolly | The Databricks Blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm): open source, instruction-following LLM, fine-tuned on a human-generated instruction dataset licensed for research and commercial use
 
@@ -959,13 +987,13 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Apr 11, 2023](/content/2023/04/11/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852): paper with "a comprehensive survey of ChatGPT and GPT-4 and their prospective applications across diverse domains"
 
 ## [Apr 10, 2023](/content/2023/04/10/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [lm-sys/FastChat (⭐29k)](https://github.com/lm-sys/FastChat): The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" \[[demo](https://chat.lmsys.org/)]
 
@@ -1001,7 +1029,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Apr 04, 2023](/content/2023/04/04/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [Haystack (⭐12k)](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
 
@@ -1043,7 +1071,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Mar 24, 2023](/content/2023/03/24/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   \[🔥🔥🔥] [oobabooga/text-generation-webui (⭐27k)](https://github.com/oobabooga/text-generation-webui): a gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion
 *   [Why LLaMa Is A Big Deal | Hackaday](https://hackaday.com/2023/03/22/why-llama-is-a-big-deal/): post that discusses the impact of LLaMa and Alpaca in popularizing LLMs and even using them in small hardware devices
@@ -1080,7 +1108,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Who Owns the Generative AI Platform? | Andreessen Horowitz](https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/): this article discusses the generative AI market and presents an interesting technology stack of the area
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [logspace-ai/langflow (⭐13k)](https://github.com/logspace-ai/langflow): a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows
 
@@ -1125,7 +1153,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Mar 05, 2023](/content/2023/03/05/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models](https://arxiv.org/abs/2302.12173): paper on LLM Security
 
@@ -1157,7 +1185,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Large Language Models and Where to Use Them: Part 2](https://txt.cohere.ai/llm-use-cases-p2/)
 *   [What's the big deal with Generative AI? Is it the future or the present?](https://txt.cohere.ai/generative-ai-future-or-present/): summarization of the area of Generative AI by Cohere AI
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [Cohere AI](https://docs.cohere.ai/): a way to integrate state-of-the-art language models to applications
 
@@ -1182,7 +1210,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Langchain for paper summarization](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [Red-Teaming Large Language Models | Hugging Faces](https://huggingface.co/blog/red-teaming): strategies for testing LLMs against jailbreaks and attacks
 
@@ -1215,7 +1243,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Feb 23, 2023](/content/2023/02/23/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [hwchase17/langchain (⭐68k)](https://github.com/hwchase17/langchain/): "building applications with LLMs through composability"
 *   [Top Large Language Models (LLMs) in 2023 | MarkTechPost](https://www.marktechpost.com/2023/02/22/top-large-language-models-llms-in-2023-from-openai-google-ai-deepmind-anthropic-baidu-huawei-meta-ai-ai21-labs-lg-ai-research-and-nvidia/): list with large language models from diverse companies
@@ -1326,7 +1354,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jan 30, 2023](/content/2023/01/30/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [GPTZero](https://gptzero.me/): "Detect AI Plagiarism. Accurately"
 
@@ -1347,7 +1375,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   \[🔥] [Base11 Research - generative-ai](https://base10.vc/research/generative-ai): report about Generative AI produced by the investment firm Base10
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [GPT-3 Apps](https://gpt-apps.com/): GPT-3 Powered Micro Products (ex: cat namer, poet pocket, summarize)
 
@@ -1978,7 +2006,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [GitHub - johnowhitaker/aiaiart (⭐554)](https://github.com/johnowhitaker/aiaiart): Course content and resources for the AIAIART course
 *   [Implementation/tutorial of stable diffusion with side-by-side notes by labml.ai | Twitter](https://twitter.com/labmlai/status/1571080112459878401)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [Inside language models (from GPT-3 to PaLM) – Dr Alan D. Thompson – Life Architect](https://lifearchitect.ai/models/)
 
@@ -2145,7 +2173,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Apr 05, 2022](/content/2022/04/05/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [Google AI Blog: Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
 
@@ -2199,7 +2227,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Dec 10, 2021](/content/2021/12/10/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [DeepMind says its new language model can beat others 25 times its size | MIT Technology Review](https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/)
 
@@ -2288,7 +2316,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Sep 09, 2021](/content/2021/09/09/README.md)
 
-### Inbox: Large Language Models (LLMs)
+### Large Language Models (LLMs)
 
 *   [Integrated AI: How to talk to AI for free using nine platforms (Megatron, GPT-3, GPT-J, Wudao, J1..) - YouTube](https://www.youtube.com/watch?v=yWM_8QwLyuY\&list=LL\&index=1\&t=17s) by Dr Alan D. Thompson. The following references came from this video description
 

@@ -10,6 +10,7 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
+*   [hedyhli/outline.nvim (⭐47)](https://github.com/hedyhli/outline.nvim) - A significantly enhanced and refactored fork of `symbols-outline.nvim`.
 *   [stevanmilic/nvim-lspimport (⭐17)](https://github.com/stevanmilic/nvim-lspimport) - Automatically resolves imports for undefined terms. Useful with `pyright` language server.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
@@ -34,11 +35,11 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [mrcjkb/haskell-tools.nvim (⭐309)](https://github.com/mrcjkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
+*   [mrcjkb/haskell-tools.nvim (⭐310)](https://github.com/mrcjkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
 
 ### Snippet / Diagnostics
 
-*   [mrcjkb/haskell-snippets.nvim (⭐9)](https://github.com/mrcjkb/haskell-snippets.nvim) - Haskell snippets for LuaSnip, powered by Tree-sitter and LSP.
+*   [mrcjkb/haskell-snippets.nvim (⭐14)](https://github.com/mrcjkb/haskell-snippets.nvim) - Haskell snippets for LuaSnip, powered by Tree-sitter and LSP.
 
 ### Search / Diagnostics
 
@@ -143,7 +144,7 @@ Collections of awesome neovim plugins.
 
 ### Note Taking / Diagnostics
 
-*   [gsuuon/note.nvim (⭐20)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
+*   [gsuuon/note.nvim (⭐25)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
 
 ### Utility / Diagnostics
 
@@ -151,7 +152,7 @@ Collections of awesome neovim plugins.
 
 ### Remote Development / Diagnostics
 
-*   [niuiic/remote.nvim (⭐21)](https://github.com/niuiic/remote.nvim) - Edit remote files with local configuration.
+*   [niuiic/remote.nvim (⭐23)](https://github.com/niuiic/remote.nvim) - Edit remote files with local configuration.
 
 ## [Oct 02 - Oct 08, 2023](/content/2023/40/README.md)
 
@@ -192,7 +193,7 @@ Collections of awesome neovim plugins.
 
 ### Cursorline / Diagnostics
 
-*   [sontungexpt/stcursorword (⭐16)](https://github.com/sontungexpt/stcursorword) - Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
+*   [sontungexpt/stcursorword (⭐26)](https://github.com/sontungexpt/stcursorword) - Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
 
 ### Git / Diagnostics
 
@@ -1704,7 +1705,7 @@ Collections of awesome neovim plugins.
 
 ### Dependency Management / Diagnostics
 
-*   [Saecki/crates.nvim (⭐605)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
+*   [Saecki/crates.nvim (⭐617)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 
 ### Git / Diagnostics
 
@@ -2063,7 +2064,7 @@ Collections of awesome neovim plugins.
 
 ### Git / Diagnostics
 
-*   [AckslD/nvim-gfold.lua (⭐33)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐255)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
+*   [AckslD/nvim-gfold.lua (⭐33)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐256)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 
 ### Preconfigured Configuration / Diagnostics
 
