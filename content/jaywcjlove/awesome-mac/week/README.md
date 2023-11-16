@@ -6,6 +6,13 @@
 
 [ [Daily](/content/jaywcjlove/awesome-mac/README.md) / Weekly / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
+
+### Utilities / Productivity
+
+*   [BoltAI](https://boltai.com) - A beautiful & powerful ChatGPT app for Mac. Stay ahead by integrating AI into your workflow today.
+*   [PDF Pals](https://pdfpals.com) - Chat with PDF app for Mac. No file size limits!
+
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
 ### Developer Tools / API Development and Analysis
@@ -121,7 +128,7 @@
 
 ### Utilities / System Related Tools
 
-*   [stats (⭐18k)](https://github.com/exelban/stats) - free Mac system monitor for the menubar. \[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")]
+*   [stats (⭐19k)](https://github.com/exelban/stats) - free Mac system monitor for the menubar. \[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")]
 
 ## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
 

@@ -1050,6 +1050,8 @@ Any comments, suggestions? [Let us know! (⭐65k)](https://github.com/jaywcjlove
 *   [Parrotflow](https:/parrotflow.com) - Copilot for your Mac. ![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/id6450801102?)
 *   [Pomodoro Cycle (⭐71)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
 *   [Workspaces](https://www.apptorium.com/workspaces) - Workspaces gives you the ability you to quickly switch between different types of tasks. It allows you to select which apps to open and close when selecting a workspace. [![App Store][app-store Icon]](https://apps.apple.com/se/app/workspaces-2/id1540284555?mt=12)
+*   [BoltAI](https://boltai.com) - A beautiful & powerful ChatGPT app for Mac. Stay ahead by integrating AI into your workflow today.
+*   [PDF Pals](https://pdfpals.com) - Chat with PDF app for Mac. No file size limits!
 
 #### Window Management
 
@@ -1140,7 +1142,7 @@ Any comments, suggestions? [Let us know! (⭐65k)](https://github.com/jaywcjlove
 *   [OmniDiskSweeper](https://www.omnigroup.com/more) - Shows you the files on your drive, ordered by size. It can be used to find and remove unused files.  ![Freeware][Freeware Icon]
 *   [OnyX](https://www.titanium-software.fr/en/onyx.html) - Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more. ![Freeware][Freeware Icon]
 *   [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - Read/write access to NTFS in macOS Sierra.
-*   [stats (⭐18k)](https://github.com/exelban/stats) - free Mac system monitor for the menubar. \[![Open-Source Software][OSS Icon]]
+*   [stats (⭐19k)](https://github.com/exelban/stats) - free Mac system monitor for the menubar. \[![Open-Source Software][OSS Icon]]
 *   [Sensei](https://sensei.app/) - Sensei is a multi-tool for Mac performance, with features spanning across both hardware and software.
 *   [Sloth](https://sveinbjorn.org/sloth/) - Shows all open files, directories, sockets, pipes and devices in use by all running processes. [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornt/Sloth/) ![Freeware][Freeware Icon]
 *   [SwiftQuit (⭐161)](https://github.com/onebadidea/swiftquit/) - Enables automatic quitting of macOS apps when closing their windows. [![Open-Source Software][OSS Icon]](https://github.com/onebadidea/swiftquit) ![Freeware][Freeware Icon]

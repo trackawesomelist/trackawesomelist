@@ -12,6 +12,10 @@ Explore a curated selection of AI tools and resources
 
 *   [Diagrammaton](https://www.figma.com/community/plugin/1295127627739218424/diagrammaton) - Diagrammaton converts natural language descriptions into fleshed out diagrams. `#free`
 
+### SQL
+
+*   [dbdiagram.io](https://dbdiagram.io/home) - It's an online AI-Powered database diagram design tool that allows you to visually create and edit database schemas `#free`
+
 ### Testing
 
 *   [Keploy](https://www.keploy.io/) - A  developer-centric backend testing tool which makes backend tests with built-in-mocks faster than unit tests, from user traffic, making it easy to use, powerful, and extensible. `#opensource`

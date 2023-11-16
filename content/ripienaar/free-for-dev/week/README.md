@@ -12,6 +12,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Qualli](https://usequalli.com) - In App Surveys, designed for mobile. Use Qualli AI to craft the perfect questions. You can try it out on our free plan, up to 500 MAU, create unlimited forms and triggers.
 
+### IDE and Code Editing
+
+*   [BBEdit](https://www.barebones.com/) - BBEdit is a popular and extensible editor for macOS. Free Mode provides a [powerful core feature set](https://www.barebones.com/products/bbedit/comparison.html) and an upgrade path to advanced features.
+
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
 ### APIs, Data, and ML

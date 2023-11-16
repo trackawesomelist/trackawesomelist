@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 16, 2023](/content/2023/11/16/README.md)
+
+### Lua Colorscheme / Diagnostics
+
+*   [calind/selenized.nvim (⭐2)](https://github.com/calind/selenized.nvim) - Lua port of Selenized theme with support for Tree-sitter, nvim-cmp, GitSigns and some more.
+
 ## [Nov 15, 2023](/content/2023/11/15/README.md)
 
 ### (requires Neovim 0.5)
@@ -685,7 +691,7 @@ Collections of awesome neovim plugins.
 
 ### Git / Diagnostics
 
-*   [linrongbin16/gitlinker.nvim (⭐24)](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of "ruifm's gitlinker", refactored with lua pattern based rule engine, windows support and other enhancements.
+*   [linrongbin16/gitlinker.nvim (⭐24)](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of "ruifm's gitlinker", refactored with bug fixes, alias-host, `/blame` url support and other enhancements.
 
 ## [Jun 13, 2023](/content/2023/06/13/README.md)
 

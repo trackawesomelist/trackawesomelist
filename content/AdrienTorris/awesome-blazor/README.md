@@ -6,6 +6,13 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Nov 16, 2023](/content/2023/11/16/README.md)
+
+### Videos / Others
+
+*   [.NET Conf: Full stack web UI with Blazor in .NET 8](https://www.youtube.com/watch?v=YwZdtLEtROA) - ![duration](https://img.shields.io/badge/Duration:%20-56%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 15, 2023 - In .NET 8 you can deliver the best web app experiences entirely in Blazor using Blazor's convenient component model. You can build your entire web app in Blazor without the needed for writing JavaScript or mixing web frameworks. In this session you'll see how you can use Blazor's new server-side rendering support to power your web apps from the server for maximum performance and scalability. You'll see how you can easily add advanced capabilities like streaming rendering and enhanced navigation & form handling to further optimize the user experience. Then add rich client-side interactivity wherever it is needed using Blazor Server or Blazor WebAssembly.
+*   [Building Hybrid User Interfaces with Blazor Hybrid \[Pt 4\] | Blazor Hybrid for Beginners](https://www.youtube.com/watch?v=pWDf1AnJ4ds) - ![duration](https://img.shields.io/badge/Duration:%20-19%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 10, 2023 - Let's start to build out a full application with Blazor Hybrid inside of .NET MAUI. Join James as he walks through building out a full to do application with web components.
+
 ## [Nov 14, 2023](/content/2023/11/14/README.md)
 
 ### AI

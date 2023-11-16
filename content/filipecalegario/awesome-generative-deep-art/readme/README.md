@@ -513,7 +513,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [Forget RAG, the Future is RAG-Fusion](https://towardsdatascience.com/forget-rag-the-future-is-rag-fusion-1147298d8ad1): post by Adrian H. Raudaschl in Towards Data Science
 *   [Rerankers and Two-Stage Retrieval | Pinecone](https://www.pinecone.io/learn/series/rag/rerankers/)
 *   [Retrieval Augmented Generation | Pinecone](https://www.pinecone.io/learn/series/rag/)
-*   [dssjon/biblos: biblos.app (⭐124)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
+*   [dssjon/biblos: biblos.app (⭐161)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
 
 ### Embeddings and Semantic Search
 
@@ -571,6 +571,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+*   [\[2305.16938\] Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation](https://arxiv.org/abs/2305.16938)
 *   [LLM Comparison/Test](https://www.reddit.com/r/LocalLLaMA/comments/17fhp9k/huge_llm_comparisontest_39_models_tested_7b70b/): 39 models tested (7B-70B + ChatGPT/GPT-4)
 *   [LLM Evaluation at Scale – Airtrain](https://www.airtrain.ai/): no-code batch compute platform for LLM evaluation and tuning workloads
 *   [How to evaluate a summarization task | OpenAI Cookbook](https://cookbook.openai.com/examples/evaluation/how_to_eval_abstractive_summarization)
@@ -1014,7 +1015,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 ## Related Awesome Lists
 
 *   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐9.1k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
-*   [AlexChalakov/awesome-generative-ai-companies (⭐65)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
+*   [AlexChalakov/awesome-generative-ai-companies (⭐70)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 *   [kyrolabs/awesome-langchain (⭐5.5k)](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
 *   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐78)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 *   \[🔥] [amrzv/awesome-colab-notebooks (⭐1k)](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments

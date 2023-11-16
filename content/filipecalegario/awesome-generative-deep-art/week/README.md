@@ -28,6 +28,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [AllGPTs](https://allgpts.co/): a directory to find GPTs
 
+### LLM Evaluation / Multi-agents
+
+*   [\[2305.16938\] Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation](https://arxiv.org/abs/2305.16938)
+
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [tldraw/draw-a-ui (⭐373)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
@@ -140,7 +144,7 @@ A curated list of Generative AI tools, works, models, and references
 ### Related Awesome Lists / Deforum
 
 *   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐9.1k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
-*   [AlexChalakov/awesome-generative-ai-companies (⭐65)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
+*   [AlexChalakov/awesome-generative-ai-companies (⭐70)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 
 ### Prompt Engineering / Prompt Engineering for Text-to-text
 
@@ -157,7 +161,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Rerankers and Two-Stage Retrieval | Pinecone](https://www.pinecone.io/learn/series/rag/rerankers/)
 *   [Retrieval Augmented Generation | Pinecone](https://www.pinecone.io/learn/series/rag/)
-*   [dssjon/biblos: biblos.app (⭐124)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
+*   [dssjon/biblos: biblos.app (⭐161)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 

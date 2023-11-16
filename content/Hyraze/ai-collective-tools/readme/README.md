@@ -587,6 +587,7 @@ Use these hashtags in search to filter out the tools
 
 *   [Airops](https://www.airops.com/) - Task-specific AI Apps that go beyond Chat-GPT—run NLP, generate-data-informed content, draft/fix/optimize SQL queries, and more `#free`
 *   [QueryCraft](https://www.querycraft.io/) - AI-Powered Data Query Generator `#free`
+*   [dbdiagram.io](https://dbdiagram.io/home) - It's an online AI-Powered database diagram design tool that allows you to visually create and edit database schemas `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 

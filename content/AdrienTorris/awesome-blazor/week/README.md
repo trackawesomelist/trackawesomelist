@@ -39,6 +39,11 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 *   [Cropper.Blazor (⭐71)](https://github.com/CropperBlazor/Cropper.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/CropperBlazor/Cropper.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CropperBlazor/Cropper.Blazor?style=flat-square\&cacheSeconds=86400) <b>Cropper.Blazor</b> is a component that wraps around <a href="https://github.com/fengyuanchen/cropperjs"><b>Cropper.js</b></a> for cropping images in Blazor. Support Blazor Server, Blazor WebAssembly, Blazor Server Hybrid with MVC and MAUI Blazor Hybrid. [Demo](https://cropperblazor.github.io/demo).
 
+### Videos / Others
+
+*   [.NET Conf: Full stack web UI with Blazor in .NET 8](https://www.youtube.com/watch?v=YwZdtLEtROA) - ![duration](https://img.shields.io/badge/Duration:%20-56%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 15, 2023 - In .NET 8 you can deliver the best web app experiences entirely in Blazor using Blazor's convenient component model. You can build your entire web app in Blazor without the needed for writing JavaScript or mixing web frameworks. In this session you'll see how you can use Blazor's new server-side rendering support to power your web apps from the server for maximum performance and scalability. You'll see how you can easily add advanced capabilities like streaming rendering and enhanced navigation & form handling to further optimize the user experience. Then add rich client-side interactivity wherever it is needed using Blazor Server or Blazor WebAssembly.
+*   [Building Hybrid User Interfaces with Blazor Hybrid \[Pt 4\] | Blazor Hybrid for Beginners](https://www.youtube.com/watch?v=pWDf1AnJ4ds) - ![duration](https://img.shields.io/badge/Duration:%20-19%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 10, 2023 - Let's start to build out a full application with Blazor Hybrid inside of .NET MAUI. Join James as he walks through building out a full to do application with web components.
+
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
 ### AI

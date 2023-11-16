@@ -491,6 +491,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [ellisonleao/gruvbox.nvim (⭐1.3k)](https://github.com/ellisonleao/gruvbox.nvim) - Gruvbox community colorscheme Lua port.
 *   [metalelf0/jellybeans-nvim (⭐86)](https://github.com/metalelf0/jellybeans-nvim) - A port of jellybeans colorscheme.
 *   [lalitmee/cobalt2.nvim (⭐77)](https://github.com/lalitmee/cobalt2.nvim) - A port of cobalt2 colorscheme using colorbuddy.
+*   [calind/selenized.nvim (⭐2)](https://github.com/calind/selenized.nvim) - Lua port of Selenized theme with support for Tree-sitter, nvim-cmp, GitSigns and some more.
 
 ### Colorscheme Creation
 
@@ -805,7 +806,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [NeogitOrg/neogit (⭐2.6k)](https://github.com/NeogitOrg/neogit) - A Magit clone that may change some things to fit the Vim philosophy.
 *   [tveskag/nvim-blame-line (⭐174)](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
 *   [ruifm/gitlinker.nvim (⭐419)](https://github.com/ruifm/gitlinker.nvim) - Generate shareable file permalinks for several git hosts. Inspired by tpope/vim-fugitive's :GBrowse.
-*   [linrongbin16/gitlinker.nvim (⭐24)](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of "ruifm's gitlinker", refactored with lua pattern based rule engine, windows support and other enhancements.
+*   [linrongbin16/gitlinker.nvim (⭐24)](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of "ruifm's gitlinker", refactored with bug fixes, alias-host, `/blame` url support and other enhancements.
 *   [tanvirtin/vgit.nvim (⭐544)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
 *   [sindrets/diffview.nvim (⭐2.8k)](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 *   [kdheepak/lazygit.nvim (⭐882)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.

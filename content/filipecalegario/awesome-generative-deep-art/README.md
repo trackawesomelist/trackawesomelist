@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Nov 16, 2023](/content/2023/11/16/README.md)
+
+### LLM Evaluation / Multi-agents
+
+*   [\[2305.16938\] Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation](https://arxiv.org/abs/2305.16938)
+
 ## [Nov 15, 2023](/content/2023/11/15/README.md)
 
 ### Large Language Models (LLMs)
@@ -217,11 +223,11 @@ A curated list of Generative AI tools, works, models, and references
 ### Related Awesome Lists / Deforum
 
 *   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐9.1k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
-*   [AlexChalakov/awesome-generative-ai-companies (⭐65)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
+*   [AlexChalakov/awesome-generative-ai-companies (⭐70)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
-*   [dssjon/biblos: biblos.app (⭐124)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
+*   [dssjon/biblos: biblos.app (⭐161)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 

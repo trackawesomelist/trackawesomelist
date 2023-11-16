@@ -6,6 +6,12 @@ Explore a curated selection of AI tools and resources
 
 [ Daily / [Weekly](/content/Hyraze/ai-collective-tools/week/README.md) / [Overview](/content/Hyraze/ai-collective-tools/readme/README.md) ]
 
+## [Nov 16, 2023](/content/2023/11/16/README.md)
+
+### SQL
+
+*   [dbdiagram.io](https://dbdiagram.io/home) - It's an online AI-Powered database diagram design tool that allows you to visually create and edit database schemas `#free`
+
 ## [Nov 15, 2023](/content/2023/11/15/README.md)
 
 ### Design Assistant

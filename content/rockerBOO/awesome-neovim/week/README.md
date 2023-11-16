@@ -17,6 +17,10 @@ Collections of awesome neovim plugins.
 
 *   [Tsuzat/NeoSolarized.nvim (⭐111)](https://github.com/Tsuzat/NeoSolarized.nvim) - NeoSolarized colorscheme with full transparency.
 
+### Lua Colorscheme / Diagnostics
+
+*   [calind/selenized.nvim (⭐2)](https://github.com/calind/selenized.nvim) - Lua port of Selenized theme with support for Tree-sitter, nvim-cmp, GitSigns and some more.
+
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
 ### Project / Diagnostics
@@ -521,7 +525,7 @@ Collections of awesome neovim plugins.
 
 ### Git / Diagnostics
 
-*   [linrongbin16/gitlinker.nvim (⭐24)](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of "ruifm's gitlinker", refactored with lua pattern based rule engine, windows support and other enhancements.
+*   [linrongbin16/gitlinker.nvim (⭐24)](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of "ruifm's gitlinker", refactored with bug fixes, alias-host, `/blame` url support and other enhancements.
 
 ### Formatting / Diagnostics
 
