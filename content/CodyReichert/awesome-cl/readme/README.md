@@ -210,7 +210,7 @@ sellers who aren't evil for physical resources.
     ancient version of Common Music (version 2.12.0), the presumably last
     version which ran on Common Lisp dating from around 2007-09, before
     work on Common Music shifted to (scheme-based) cm3.
-*   [Slippery Chicken (⭐53)](https://github.com/mdedwards/slippery-chicken/) - Algorithmic composition library which outputs Midi, Common Music Notation, pdf-score via Lilypond and sound via Common Lisp Music. [GPL3][2].
+*   [Slippery Chicken (⭐55)](https://github.com/mdedwards/slippery-chicken/) - Algorithmic composition library which outputs Midi, Common Music Notation, pdf-score via Lilypond and sound via Common Lisp Music. [GPL3][2].
 *   [Common Music Notation](https://ccrma.stanford.edu/software/cmn/) - Common Music Notation (CMN) provides a package of functions to hierarchically describe a musical score. Public domain.
 *   [cm-incudine (⭐8)](https://github.com/ormf/cm-incudine) - extends Common Music 2 with realtime capabilities. GPL2.
 *   [Mégra (⭐66)](https://github.com/the-drunk-coder/megra) - A mini-language to make music with variable-order markov chains and some other stochastic shenanigans. [GPL3][2].
@@ -1458,6 +1458,7 @@ This contains plugins and other goodies for various text editors.
 *   [smug (⭐103)](https://github.com/drewc/smug) - parser combinators for Common Lisp. SMUG makes it simple to create quick extensible recursive descent parsers without funky syntax or impenetrable macrology. [MIT][200].
 *   [parseq (⭐25)](https://github.com/mrossini-ethz/parseq) - a library for parsing sequences such as strings and lists using parsing expression grammars. Inspired by Esrap. GPL2.
 *   [texp (⭐5)](https://github.com/eugeneia/texp/) - A DSL to generate TeX. [AGPL-3.0][agpl3].
+*   [lisp-binary (⭐80)](https://github.com/j3pic/lisp-binary) - A library to easily read and write complex binary formats. [GPL3][2].
 
 # Text Processing
 

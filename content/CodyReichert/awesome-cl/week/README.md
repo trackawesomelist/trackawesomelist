@@ -6,6 +6,12 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ [Daily](/content/CodyReichert/awesome-cl/README.md) / Weekly / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
+
+### Apps / Third-party APIs
+
+*   [lisp-binary (⭐80)](https://github.com/j3pic/lisp-binary) - A library to easily read and write complex binary formats. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
 ### Graph databases
@@ -137,7 +143,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [Lem (⭐1.8k)](https://github.com/lem-project/lem) - a ready to use, Emacs-like, Slime-based
     editor tailored for Common Lisp development out of the box, as well as other programming languages with its built-in LSP client. With ncurses, Electron and SDL2 interfaces. [MIT](https://opensource.org/licenses/MIT).
-    *   [Lem 2.0](https://github.com/lem-project/lem/releases/tag/v2.0.0), released on May, 2023, added the SDL2 frontend, thus mouse support, graphic capabilities and Windows support, among other new features.
+    *   [Lem 2.0 (⭐1.8k)](https://github.com/lem-project/lem/releases/tag/v2.0.0), released on May, 2023, added the SDL2 frontend, thus mouse support, graphic capabilities and Windows support, among other new features.
     *   see also: an [opengl frontend (⭐36)](https://github.com/pupcraft/lem-opengl), [Lem in Docker (⭐4)](https://github.com/40ants/lem-docker), [lem-pareto (⭐31)](https://github.com/40ants/lem-pareto).
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
@@ -175,7 +181,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Date and time / Third-party APIs
 
-*   [stopclock](https://github.com/Gleefre/stopclock) - a library for measuring time using (stop)clocks. It allows you to create a clock, pause it, resume it and change its speed. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [stopclock (⭐12)](https://github.com/Gleefre/stopclock) - a library for measuring time using (stop)clocks. It allows you to create a clock, pause it, resume it and change its speed. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
@@ -255,7 +261,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### JetBrains / Third-party APIs
 
-*   [SLT](https://github.com/Enerccio/SLT) -  an IDE Plugin for Itellij/Jetbrains IDE lineup implementing support for Common Lisp via SBCL and Slime/Swank.
+*   [SLT (⭐172)](https://github.com/Enerccio/SLT) -  an IDE Plugin for Itellij/Jetbrains IDE lineup implementing support for Common Lisp via SBCL and Slime/Swank.
     *   🎉 NEW! Released in Jan, 2023.
 
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
@@ -371,7 +377,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     *   [molecule viewer (⭐0)](https://github.com/yitzchak/jupyterlab-molviewer) - A molecule viewer for JupyterLab using ngl.
     *   [ngl widget (⭐1)](https://github.com/yitzchak/ngl-clj) -  A ngl widget (protein viewer) for common-lisp-jupyter.
     *   [sheet widget (⭐1)](https://github.com/yitzchak/sheet-clj) -  Data grid widget for common-lisp-jupyter.
-*   [cl-jupyter (⭐198)](https://github.com/fredokun/cl-jupyter) - A Common Lisp kernel for Jupyter notebooks [custom licence](https://github.com/fredokun/cl-jupyter/blob/master/LICENSE).
+*   [cl-jupyter (⭐198)](https://github.com/fredokun/cl-jupyter) - A Common Lisp kernel for Jupyter notebooks [custom licence (⭐198)](https://github.com/fredokun/cl-jupyter/blob/master/LICENSE).
 
 ## [Oct 03 - Oct 09, 2022](/content/2022/40/README.md)
 
@@ -420,7 +426,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Apps / Third-party APIs
 
-*   [Resolve](https://github.com/GrammaTech/resolve) - A software for AST-based diff calculation, display, and automated resolution. Written in C++ and CL, you'll find Lisp utilities.
+*   [Resolve (⭐37)](https://github.com/GrammaTech/resolve) - A software for AST-based diff calculation, display, and automated resolution. Written in C++ and CL, you'll find Lisp utilities.
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 
@@ -637,7 +643,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Apps / Third-party APIs
 
 *   ⭐ [esrap (⭐71)](https://github.com/scymtym/esrap) - Packrat parser. [Expat](https://directory.fsf.org/wiki/License:Expat).
-*   ⭐ [FiveAM](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   ⭐ [FiveAM (⭐173)](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
     *   [fiveam-matchers (⭐8)](https://github.com/tdrhq/fiveam-matchers/) -  an extensible, composable matchers library for fiveam. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Caching / Third-party APIs
@@ -1059,7 +1065,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Documentation builders / Third-party APIs
 
-*   [Staple](https://github.com/Shinmera/staple) - a tool to generate documentation pages using an HTML template. Uses the existing README, adds docstrings, crossreferences and links to the CLHS. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [Staple (⭐53)](https://github.com/Shinmera/staple) - a tool to generate documentation pages using an HTML template. Uses the existing README, adds docstrings, crossreferences and links to the CLHS. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Files and directories / Third-party APIs
 
@@ -1295,7 +1301,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### REPLs / Third-party APIs
 
-*   [sbcli](https://github.com/hellerve/sbcli) - a readline REPL for SBCL. With completion, quick commands, optional syntax highlighting (with pygments), and no interactive debugger. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [sbcli (⭐81)](https://github.com/hellerve/sbcli) - a readline REPL for SBCL. With completion, quick commands, optional syntax highlighting (with pygments), and no interactive debugger. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ### Apps / Third-party APIs
 
@@ -1308,7 +1314,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Developer utilities / Third-party APIs
 
-*   [glyphs](https://github.com/ahungry/glyphs/) - A library for cutting down the verboseness of Common Lisp in places. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [glyphs (⭐28)](https://github.com/ahungry/glyphs/) - A library for cutting down the verboseness of Common Lisp in places. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ## [Oct 19 - Oct 25, 2020](/content/2020/42/README.md)
 
@@ -1375,7 +1381,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Apps / Third-party APIs
 
-*   [cl-yacc](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-yacc (⭐55)](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT](https://opensource.org/licenses/MIT).
 *   [cl-shlex (⭐6)](https://github.com/ruricolist/cl-shlex/) - simple lexical analyzer for shell-like syntaxes. [MIT](https://opensource.org/licenses/MIT).
 *   [smug (⭐103)](https://github.com/drewc/smug) - parser combinators for Common Lisp. SMUG makes it simple to create quick extensible recursive descent parsers without funky syntax or impenetrable macrology. [MIT](https://opensource.org/licenses/MIT).
 
@@ -1607,7 +1613,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Developer utilities / Third-party APIs
 
-*   [cl-debug](https://github.com/LowH/cl-debug) - a cross-package debug facility. Provides a unified way to enable or disable debug-specific code. Debugging code can be enabled or disabled relative to program features denoted by either a symbol or a keyword. ISC licence.
+*   [cl-debug (⭐1)](https://github.com/LowH/cl-debug) - a cross-package debug facility. Provides a unified way to enable or disable debug-specific code. Debugging code can be enabled or disabled relative to program features denoted by either a symbol or a keyword. ISC licence.
 *   [supertrace (⭐25)](https://github.com/fukamachi/supertrace) - Superior Common Lisp `trace` functionality for debugging/profiling. Trace many functions at once, use before and after hooks. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ### Security / Third-party APIs
@@ -2331,7 +2337,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Apps / Third-party APIs
 
-*   [lake](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
+*   [lake (⭐82)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
 
 ## [Jan 08 - Jan 14, 2018](/content/2018/2/README.md)
 
@@ -2498,7 +2504,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Notebooks / Third-party APIs
 
-*   [Darkmatter](https://github.com/tamamu/darkmatter) - A
+*   [Darkmatter (⭐352)](https://github.com/tamamu/darkmatter) - A
     notebook-style Common Lisp environment. [MIT](https://opensource.org/licenses/MIT).
 
 ### Apps / Third-party APIs

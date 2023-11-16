@@ -2,19 +2,25 @@
 
 A curated list of awesome cytodata resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/cytodata/awesome-cytodata/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 cytodata/awesome-cytodata](https://github.com/cytodata/awesome-cytodata) · ⭐ 53 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/cytodata/awesome-cytodata/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 cytodata/awesome-cytodata](https://github.com/cytodata/awesome-cytodata) · ⭐ 64 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/cytodata/awesome-cytodata/week/README.md) / [Overview](/content/cytodata/awesome-cytodata/readme/README.md) ]
+
+## [Nov 16, 2023](/content/2023/11/16/README.md)
+
+### Datasets / Raw Images
+
+*   [The Cell Painting Gallery](https://broad.io/CellPaintingGallery) - The Cell Painting Gallery is a collection of image datasets created using the Cell Painting assay (or similar); it is maintained by the Carpenter--Singh lab at the Broad Institute.
 
 ## [Jan 19, 2023](/content/2023/01/19/README.md)
 
 ### Datasets / Chemical Perturbations
 
-*   [Haghighi et al. 2021](https://doi.org/10.1038/s41592-022-01667-0) - Cell painting matched to L1000 profiles in 4 experiments, including compound and genetic screens ([Details on GitHub (⭐31)](https://github.com/carpenterlab/2021_Haghighi_submitted)).
+*   [Haghighi et al. 2021](https://doi.org/10.1038/s41592-022-01667-0) - Cell painting matched to L1000 profiles in 4 experiments, including compound and genetic screens ([Details on GitHub (⭐42)](https://github.com/carpenterlab/2021_Haghighi_submitted)).
 
 ### Software / Genetic Perturbations
 
-*   [histoCAT (⭐57)](https://github.com/BodenmillerGroup/histoCAT) - Toolbox to extract quantitative phenotypic descriptors and contextual information for histology and multiplex imaging.
+*   [histoCAT (⭐0)](https://github.com/BodenmillerGroup/histoCAT) - Toolbox to extract quantitative phenotypic descriptors and contextual information for histology and multiplex imaging.
 
 ### Publications / Reviews
 
@@ -56,9 +62,9 @@ A curated list of awesome cytodata resources
 
 ### Software / Genetic Perturbations
 
-*   [Cytominer (⭐41)](https://github.com/cytomining/cytominer) - Methods for image-based cell profiling in R.
-*   [BioProfiling.jl (⭐12)](https://github.com/menchelab/BioProfiling.jl) - Toolkit for filtering and curation of morphological profiles in Julia.
-*   [PyCytominer (⭐35)](https://github.com/cytomining/pycytominer) - Methods for image-based cell profiling in Python.
+*   [Cytominer (⭐43)](https://github.com/cytomining/cytominer) - Methods for image-based cell profiling in R.
+*   [BioProfiling.jl (⭐13)](https://github.com/menchelab/BioProfiling.jl) - Toolkit for filtering and curation of morphological profiles in Julia.
+*   [PyCytominer (⭐55)](https://github.com/cytomining/pycytominer) - Methods for image-based cell profiling in Python.
 *   [ImJoy](https://imjoy.io) - A platform compiling tool for deep-learning based image analyses with a GUI.
 
 ### Publications / Reviews
@@ -136,7 +142,7 @@ A curated list of awesome cytodata resources
 
 ### Datasets / Genetic Perturbations
 
-*   [Singh et al. 2015](https://doi.org/10.1371/journal.pone.0131370) - 3,072 cell painting profiles from 41 genes knocked down with RNA interference (RNAi) in U2OS cells ([Access from GitHub (⭐17)](https://github.com/carpenterlab/2016_bray_natprot/blob/6dcdcf72cd90bb2dbf238b3ecf94691246d8f104/supplementary_files/profiles.csv.zip)).
+*   [Singh et al. 2015](https://doi.org/10.1371/journal.pone.0131370) - 3,072 cell painting profiles from 41 genes knocked down with RNA interference (RNAi) in U2OS cells ([Access from GitHub (⭐19)](https://github.com/carpenterlab/2016_bray_natprot/blob/6dcdcf72cd90bb2dbf238b3ecf94691246d8f104/supplementary_files/profiles.csv.zip)).
 
 ## [Jul 24, 2019](/content/2019/07/24/README.md)
 
@@ -154,7 +160,7 @@ A curated list of awesome cytodata resources
 
 *   [Rohban et al. 2017](https://doi.org/10.7554/eLife.24060.001) - Cell painting data from 220 overexpressed genes in U2OS cells (Access from public S3 bucket: `s3://cytodata/datasets/TA-ORF-BBBC037-Rohban/profiles_cp/TA-ORF-BBBC037-Rohban/`).
 *   Unpublished - Cell painting profiles of 596 overexpressed alleles from 53 genes in A549 cells (Access from public S3 bucket: `s3://cytodata/datasets/LUAD-BBBC043-Caicedo/profiles_cp/LUAD-BBBC043-Caicedo/`)
-*   Unpublished - 3,456 cell painting profiles from CRISPR experiments knocking down 59 genes in A549, ES2, and HCC44 cells ([Access from GitHub (⭐29)](https://github.com/broadinstitute/cell-health/tree/master/0.generate-profiles/data/profiles)).
+*   Unpublished - 3,456 cell painting profiles from CRISPR experiments knocking down 59 genes in A549, ES2, and HCC44 cells ([Access from GitHub (⭐34)](https://github.com/broadinstitute/cell-health/tree/master/0.generate-profiles/data/profiles)).
 
 ## [Jul 17, 2019](/content/2019/07/17/README.md)
 
@@ -163,7 +169,7 @@ A curated list of awesome cytodata resources
 *   [Advanced Cell Classifier](https://www.cellclassifier.org/) - A software package for exploration, annotation and classification of cells within large datasets using machine learning.
 *   [CellProfiler](http://cellprofiler.org/) - CellProfiler is a free open-source software for measuring and analyzing cell images.
 *   [CellProfiler Analyst](http://cellprofiler.org/cp-analyst/) - Interactive data exploration, analysis, and classification of large biological image sets.
-*   [EBImage (⭐62)](https://github.com/aoles/EBImage) - Image processing toolbox for R.
+*   [EBImage (⭐64)](https://github.com/aoles/EBImage) - Image processing toolbox for R.
 *   [HTSvis](http://htsvis.dkfz.de/HTSvis/) - A web app for exploratory data analysis and visualization of arrayed high-throughput screens.
 
 ### Publications / Reviews

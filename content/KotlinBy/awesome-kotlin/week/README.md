@@ -10,6 +10,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Misc
 
+*   [soywiz/klock (⭐683)](https://github.com/soywiz/klock) - Consistent and portable date and time utilities for multiplatform kotlin (JVM, JS and Common).
+*   [korlibs/kds (⭐49)](https://github.com/korlibs/kds) - Optimized Kotlin Data Structures for JVM, JS and Common
 *   [nsk90/kstatemachine (⭐262)](https://github.com/nsk90/kstatemachine) - KStateMachine is a Kotlin DSL library for creating state machines and statecharts.
 
 ### Libraries/Frameworks / Extensions
@@ -125,8 +127,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [Ashampoo/xmpcore (⭐10)](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK
 *   [Ashampoo/kim (⭐85)](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata
+*   [Ashampoo/xmpcore (⭐10)](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK
 
 ### Libraries/Frameworks / Jetpack-Compose
 
@@ -176,8 +178,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Misc
 
-*   [lpicanco/krate](https://lpicanco.github.io/krate) - Krate is a rate limiter library designed specifically for Kotlin applications. In memory, Redis and Caffeine support.
 *   [kryptokrona/kryptokrona-kotlin-sdk (⭐46)](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
+*   [lpicanco/krate](https://lpicanco.github.io/krate) - Krate is a rate limiter library designed specifically for Kotlin applications. In memory, Redis and Caffeine support.
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
@@ -288,9 +290,9 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Misc
 
+*   [pmwmedia/tinylog (⭐633)](https://github.com/pmwmedia/tinylog) - Lightweight logging framework with native logging API for Kotlin.
 *   [ivanisidrowu/KtRssReader (⭐92)](https://github.com/ivanisidrowu/KtRssReader) - Kotlin library for parsing RSS feeds
 *   [krud-dev/shapeshift (⭐164)](https://github.com/krud-dev/shapeshift) - A Kotlin library for intelligent object mapping and conversion between objects.
-*   [pmwmedia/tinylog (⭐633)](https://github.com/pmwmedia/tinylog) - Lightweight logging framework with native logging API for Kotlin.
 
 ### Libraries/Frameworks / Data Science
 
@@ -663,7 +665,6 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 *   [JetBrains/lets-plot-kotlin (⭐369)](https://github.com/JetBrains/lets-plot-kotlin) - Grammar of graphics visualization for Kotlin
 *   [JetBrains/KotlinDL](https://jetbrains.github.io/KotlinDL/) - High-level Deep Learning Framework written in Kotlin and inspired by Keras.
-*   [Kotlin/kotlin-jupyter (⭐980)](https://github.com/Kotlin/kotlin-jupyter) - Official Kotlin Jupyter kernel
 *   [kyonifer/koma (⭐270)](https://github.com/kyonifer/koma) - A scientific computing library for Kotlin.
 *   [mipt-npm/kmath (⭐573)](https://github.com/mipt-npm/kmath) - A (not so numpy-like) multiplatform mathematical library with higher level abstractions.
 *   [unipu-ict/ksdtoolkit (⭐3)](https://github.com/unipu-ict/ksdtoolkit) - Kotlin System Dynamics Toolkit - for system dynamics modelling and simulation with Kotlin.
@@ -675,6 +676,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [Kotlin/dataframe (⭐586)](https://github.com/Kotlin/dataframe) - A Kotlin library for in-memory data manipulation
 *   [breandan/kaliningraph (⭐93)](https://github.com/breandan/kaliningraph)
 *   [grinisrit/noa-atra (⭐25)](https://github.com/grinisrit/noa-atra) - Analytics for Trading with NOA
+*   [Kotlin/kotlin-jupyter (⭐980)](https://github.com/Kotlin/kotlin-jupyter) - Official Kotlin Jupyter kernel
 
 ### Libraries/Frameworks / API Clients
 
@@ -718,8 +720,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Misc
 
-*   [pearxteam/kasechange (⭐79)](https://github.com/pearxteam/kasechange) - Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case
 *   [insanusmokrassar/TelegramBotAPI (⭐290)](https://github.com/insanusmokrassar/TelegramBotAPI) - Kotlin Multiplatform library for type-safe work with Telegram Bot API
+*   [pearxteam/kasechange (⭐79)](https://github.com/pearxteam/kasechange) - Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case
 
 ### Libraries/Frameworks / Parsers
 
@@ -733,9 +735,9 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Misc
 
+*   [holgerbrandl/kravis (⭐180)](https://github.com/holgerbrandl/kravis) - A Kotlin grammar for scientific data visualization
 *   [saschpe/log4k (⭐13)](https://github.com/saschpe/log4k) - Lightweight logging library for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.
 *   [spoptchev/kotlin-preconditions (⭐19)](https://github.com/spoptchev/kotlin-preconditions) - Precondition error checking in kotlin.
-*   [holgerbrandl/kravis (⭐180)](https://github.com/holgerbrandl/kravis) - A Kotlin grammar for scientific data visualization
 
 ### Libraries/Frameworks / Multiplatform
 
@@ -848,8 +850,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Misc
 
-*   [InsanusMokrassar/KSLog (⭐8)](https://github.com/InsanusMokrassar/KSLog) - Fully customizable and lightweight logging library for Kotlin
 *   [charleskorn/kaml (⭐413)](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization
+*   [InsanusMokrassar/KSLog (⭐8)](https://github.com/InsanusMokrassar/KSLog) - Fully customizable and lightweight logging library for Kotlin
 
 ## [May 30 - Jun 05, 2022](/content/2022/22/README.md)
 
@@ -884,8 +886,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Misc
 
-*   [mobiletoly/urlsome (⭐4)](https://github.com/mobiletoly/urlsome) - URL builder library for Kotlin
 *   [kotlin-telegram-bot/kotlin-telegram-bot (⭐737)](https://github.com/kotlin-telegram-bot/kotlin-telegram-bot) - A wrapper for the Telegram Bot API written in Kotlin.
+*   [mobiletoly/urlsome (⭐4)](https://github.com/mobiletoly/urlsome) - URL builder library for Kotlin
 
 ### Android / Frameworks
 
@@ -1120,8 +1122,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Misc
 
-*   [ssuukk/Qotlin (⭐16)](https://github.com/ssuukk/Qotlin) - IBM Q Experience Kotlin toolkit - Kotlin library to interact and write assembly code for IBM Quantum computers
 *   [vittee/kformula (⭐28)](https://github.com/vittee/kformula) - Mathematical expression engine written in Kotlin, running on JVM.
+*   [ssuukk/Qotlin (⭐16)](https://github.com/ssuukk/Qotlin) - IBM Q Experience Kotlin toolkit - Kotlin library to interact and write assembly code for IBM Quantum computers
 
 ## [Nov 15 - Nov 21, 2021](/content/2021/46/README.md)
 
@@ -1438,15 +1440,15 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 ### Libraries/Frameworks / Misc
 
 *   [themichailov/kache](https://github.com/themichailov/kache) - Kotlin functions caching library, reducing count of function executions.
+*   [pemistahl/lingua (⭐615)](https://github.com/pemistahl/lingua) - A language detection library suitable for long and short text alike
 *   [Lewik/klog (⭐11)](https://github.com/Lewik/klog) - Minimalistic and multiplatform logging for Kotlin
 *   [dotCipher/kase-format (⭐17)](https://github.com/dotCipher/kase-format) - String case conversion and detection library
+*   [oolong-kt/oolong](https://oolong-kt.org) - Elm inspired Model-View-Update (MVU) implementation for Kotlin multiplatform.
 *   [mplatvoet/progress (⭐20)](https://github.com/mplatvoet/progress) - Progress for Kotlin.
 *   [cesarferreira/kotlin-pluralizer (⭐49)](https://github.com/cesarferreira/kotlin-pluralizer) - Kotlin extension to pluralize and singularize strings.
 *   [debop/koda-time (⭐83)](https://github.com/debop/koda-time) - Joda Time Extensions in Kotlin. (From Java 8 use java.time instead)
 *   [just-ai/jaicf-kotlin (⭐234)](https://github.com/just-ai/jaicf-kotlin) - Kotlin framework for conversational voice assistants and chatbots development.
-*   [oolong-kt/oolong](https://oolong-kt.org) - Elm inspired Model-View-Update (MVU) implementation for Kotlin multiplatform.
 *   [hotchemi/khronos (⭐327)](https://github.com/hotchemi/khronos) - An intuitive Date extensions in Kotlin.
-*   [pemistahl/lingua (⭐615)](https://github.com/pemistahl/lingua) - A language detection library suitable for long and short text alike
 *   [mplatvoet/kovenant (⭐656)](https://github.com/mplatvoet/kovenant) - Promises for Kotlin and Android
 *   [MicroUtils/kotlin-logging (⭐2.3k)](https://github.com/MicroUtils/kotlin-logging) - Lightweight logging framework for Kotlin. Used as a wrapper for slf4j with Kotlin extensions.
 *   [ingokegel/jclasslib (⭐2.5k)](https://github.com/ingokegel/jclasslib) - jclasslib bytecode viewer is a tool that visualizes all aspects of compiled Java class files and the contained bytecode.
@@ -1454,16 +1456,16 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Parsers
 
-*   [ParserKt/ParserKt (⭐11)](https://github.com/ParserKt/ParserKt) - Naive one-pass recursive descent, scannerless parser framework for Kotlin
-*   [fork-handles/parser4k (⭐162)](https://github.com/fork-handles/forkhandles/tree/trunk/parser4k) - Recursive descent parser combinator library
+*   [ParserKt/ParserKt (⭐11)](https://github.com/ParserKt/ParserKt)
 *   [h0tk3y/better-parse (⭐396)](https://github.com/h0tk3y/better-parse) - A nice parser combinator library for Kotlin
+*   [fork-handles/parser4k (⭐162)](https://github.com/fork-handles/forkhandles/tree/trunk/parser4k) - Recursive descent parser combinator library
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [DetachHead/kotlinxpath (⭐4)](https://github.com/DetachHead/kotlinxpath) - A typesafe builder for Xpath with several useful helper functions that make Xpath easier to work with
-*   [davidepianca98/KMQTT (⭐99)](https://github.com/davidepianca98/KMQTT) - MQTT Broker library/executables for Kotlin multiplatform.
 *   [ionspin/kotlin-multiplatform-bignum (⭐272)](https://github.com/ionspin/kotlin-multiplatform-bignum) - Pure kotlin multiplatform arbitrary precision arithmetic library.
+*   [davidepianca98/KMQTT (⭐99)](https://github.com/davidepianca98/KMQTT) - MQTT Broker library/executables for Kotlin multiplatform.
 *   [GitLiveApp/firebase-kotlin-sdk (⭐738)](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first Multiplatform SDK for Firebase supporting iOS, Android & Web
+*   [DetachHead/kotlinxpath (⭐4)](https://github.com/DetachHead/kotlinxpath) - A typesafe builder for Xpath with several useful helper functions that make Xpath easier to work with
 
 ### Libraries/Frameworks / Extensions
 

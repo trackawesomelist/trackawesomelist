@@ -2,7 +2,7 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 623 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 648 · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / Overview ]
 
@@ -25,7 +25,7 @@ The definition of developer-first for this repo is:
 + 👀 Watch this repo to get notifications about new products we find
 ```
 
-For the latest additions [click here (⭐623)](https://github.com/agamm/awesome-developer-first/commits/main).
+For the latest additions [click here (⭐646)](https://github.com/agamm/awesome-developer-first/commits/main).
 
 ## Contents
 
@@ -331,7 +331,7 @@ For the latest additions [click here (⭐623)](https://github.com/agamm/awesome-
 
 *Interactions with natural language.*
 
-*   [CometLLM (⭐270)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. ![Comet](https://img.shields.io/github/contributors-anon/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [CometLLM (⭐285)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. ![Comet](https://img.shields.io/github/contributors-anon/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 *   [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google.
 
 ## Orchestration
@@ -348,6 +348,7 @@ For the latest additions [click here (⭐623)](https://github.com/agamm/awesome-
 *   [Braintree](https://www.braintreepayments.com/) - Paypal's take on API-first payments.
 *   [Increase](https://increase.com/) - Bare-metal banking APIs.
 *   [LemonSqueezy](https://www.lemonsqueezy.com/) - SaaS payments - covers more countries and takes care of VAT Tax.
+*   [OpenMeter](https://openmeter.io/) - Open-source usage metering for billing and chargeback.
 *   [Paddle](https://paddle.com/) - Revenue delivery platform for SaaS with broad geographical support (unlike stripe at the moment).
 *   [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers) and get bank information.
 *   [Stigg](https://www.stigg.io) - API-first pricing plans.
@@ -425,5 +426,5 @@ For the latest additions [click here (⭐623)](https://github.com/agamm/awesome-
 
 ## Contributing
 
-See here: [CONTRIBUTING.md (⭐623)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md (⭐646)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
 

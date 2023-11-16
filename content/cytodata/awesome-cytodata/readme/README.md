@@ -2,7 +2,7 @@
 
 A curated list of awesome cytodata resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/cytodata/awesome-cytodata/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 cytodata/awesome-cytodata](https://github.com/cytodata/awesome-cytodata) · ⭐ 53 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/cytodata/awesome-cytodata/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 cytodata/awesome-cytodata](https://github.com/cytodata/awesome-cytodata) · ⭐ 64 · 🏷️ Miscellaneous
 
 [ [Daily](/content/cytodata/awesome-cytodata/README.md) / [Weekly](/content/cytodata/awesome-cytodata/week/README.md) / Overview ]
 
@@ -39,6 +39,7 @@ Annotated datasets, including **raw images** and **processed profiles**, for ima
 
 ### Raw Images
 
+*   [The Cell Painting Gallery](https://broad.io/CellPaintingGallery) - The Cell Painting Gallery is a collection of image datasets created using the Cell Painting assay (or similar); it is maintained by the Carpenter--Singh lab at the Broad Institute.
 *   [Broad Bioimage Benchmark Collection](https://data.broadinstitute.org/bbbc/) - The Broad Bioimage Benchmark Collection (BBBC) is a collection of freely downloadable microscopy image sets. In addition to the images themselves, each set includes a description of the biological application and some type of "ground truth" (expected results).
 *   [Image Data Resource](https://idr.openmicroscopy.org/) - Public repository of image datasets from published scientific studies.
 *   [RxRx1](https://www.rxrx.ai/rxrx1) - RxRx1 is a set of 125,514 high-resolution 512x512 6-channel fluorescence microscopy images of human cells under 1,108 genetic perturbations in 51 experimental batches across four cell types.  The images were produced by Recursion Pharmaceuticals in their labs in Salt Lake City, Utah.  Researchers will use this dataset for studying and benchmarking methods for dealing with biological batch effects, as well as areas in machine learning such as domain adaptation, transfer learning, and k-shot learning.
@@ -50,14 +51,14 @@ Annotated datasets, including **raw images** and **processed profiles**, for ima
 *   [Gustafsdottir et al. 2013](https://doi.org/10.1371/journal.pone.0080999) - Cell painting profiles from 1,600 bioactive compounds in U2OS cells (Access from public S3 bucket: `s3://cytodata/datasets/Bioactives-BBBC022-Gustafsdottir/profiles/Bioactives-BBBC022-Gustafsdottir/`).
 *   [Wawer et al. 2014](https://doi.org/10.1073/pnas.1410933111) - Cell painting profiles from 31,770 compounds in U2OS cells ([Click to download](http://www.broadinstitute.org/mlpcn/data/Broad.PNAS2014.ProfilingData.zip)).
 *   [Bray et al. 2017](https://doi.org/10.1093/gigascience/giw014) - Cell painting profiles from 30,616 compounds in U2OS cells (Center Driven Research Project *CDRP*) ([Download from GigaDB](https://doi.org/10.5524/100351) | Access from public S3 bucket: `s3://cytodata/datasets/CDRPBIO-BBBC036-Bray/profiles_cp/CDRPBIO-BBBC036-Bray/`).
-*   [Haghighi et al. 2021](https://doi.org/10.1038/s41592-022-01667-0) - Cell painting matched to L1000 profiles in 4 experiments, including compound and genetic screens ([Details on GitHub (⭐31)](https://github.com/carpenterlab/2021_Haghighi_submitted)).
+*   [Haghighi et al. 2021](https://doi.org/10.1038/s41592-022-01667-0) - Cell painting matched to L1000 profiles in 4 experiments, including compound and genetic screens ([Details on GitHub (⭐42)](https://github.com/carpenterlab/2021_Haghighi_submitted)).
 
 ### Genetic Perturbations
 
-*   [Singh et al. 2015](https://doi.org/10.1371/journal.pone.0131370) - 3,072 cell painting profiles from 41 genes knocked down with RNA interference (RNAi) in U2OS cells ([Access from GitHub (⭐17)](https://github.com/carpenterlab/2016_bray_natprot/blob/6dcdcf72cd90bb2dbf238b3ecf94691246d8f104/supplementary_files/profiles.csv.zip)).
+*   [Singh et al. 2015](https://doi.org/10.1371/journal.pone.0131370) - 3,072 cell painting profiles from 41 genes knocked down with RNA interference (RNAi) in U2OS cells ([Access from GitHub (⭐19)](https://github.com/carpenterlab/2016_bray_natprot/blob/6dcdcf72cd90bb2dbf238b3ecf94691246d8f104/supplementary_files/profiles.csv.zip)).
 *   [Rohban et al. 2017](https://doi.org/10.7554/eLife.24060.001) - Cell painting data from 220 overexpressed genes in U2OS cells (Access from public S3 bucket: `s3://cytodata/datasets/TA-ORF-BBBC037-Rohban/profiles_cp/TA-ORF-BBBC037-Rohban/`).
 *   Unpublished - Cell painting profiles of 596 overexpressed alleles from 53 genes in A549 cells (Access from public S3 bucket: `s3://cytodata/datasets/LUAD-BBBC043-Caicedo/profiles_cp/LUAD-BBBC043-Caicedo/`)
-*   Unpublished - 3,456 cell painting profiles from CRISPR experiments knocking down 59 genes in A549, ES2, and HCC44 cells ([Access from GitHub (⭐29)](https://github.com/broadinstitute/cell-health/tree/master/0.generate-profiles/data/profiles)).
+*   Unpublished - 3,456 cell painting profiles from CRISPR experiments knocking down 59 genes in A549, ES2, and HCC44 cells ([Access from GitHub (⭐34)](https://github.com/broadinstitute/cell-health/tree/master/0.generate-profiles/data/profiles)).
 
 ## Software
 
@@ -66,13 +67,13 @@ Open source software packages for image-based profiling of biological phenotypes
 *   [Advanced Cell Classifier](https://www.cellclassifier.org/) - A software package for exploration, annotation and classification of cells within large datasets using machine learning.
 *   [CellProfiler](http://cellprofiler.org/) - CellProfiler is a free open-source software for measuring and analyzing cell images.
 *   [CellProfiler Analyst](http://cellprofiler.org/cp-analyst/) - Interactive data exploration, analysis, and classification of large biological image sets.
-*   [Cytominer (⭐41)](https://github.com/cytomining/cytominer) - Methods for image-based cell profiling in R.
-*   [EBImage (⭐62)](https://github.com/aoles/EBImage) - Image processing toolbox for R.
+*   [Cytominer (⭐43)](https://github.com/cytomining/cytominer) - Methods for image-based cell profiling in R.
+*   [EBImage (⭐64)](https://github.com/aoles/EBImage) - Image processing toolbox for R.
 *   [HTSvis](http://htsvis.dkfz.de/HTSvis/) - A web app for exploratory data analysis and visualization of arrayed high-throughput screens.
-*   [BioProfiling.jl (⭐12)](https://github.com/menchelab/BioProfiling.jl) - Toolkit for filtering and curation of morphological profiles in Julia.
-*   [PyCytominer (⭐35)](https://github.com/cytomining/pycytominer) - Methods for image-based cell profiling in Python.
+*   [BioProfiling.jl (⭐13)](https://github.com/menchelab/BioProfiling.jl) - Toolkit for filtering and curation of morphological profiles in Julia.
+*   [PyCytominer (⭐55)](https://github.com/cytomining/pycytominer) - Methods for image-based cell profiling in Python.
 *   [ImJoy](https://imjoy.io) - A platform compiling tool for deep-learning based image analyses with a GUI.
-*   [histoCAT (⭐57)](https://github.com/BodenmillerGroup/histoCAT) - Toolbox to extract quantitative phenotypic descriptors and contextual information for histology and multiplex imaging.
+*   [histoCAT (⭐0)](https://github.com/BodenmillerGroup/histoCAT) - Toolbox to extract quantitative phenotypic descriptors and contextual information for histology and multiplex imaging.
 
 ## Publications
 

@@ -2,7 +2,7 @@
 
 An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/flame-engine/awesome-flame/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 flame-engine/awesome-flame](https://github.com/flame-engine/awesome-flame) · ⭐ 753 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/flame-engine/awesome-flame/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 flame-engine/awesome-flame](https://github.com/flame-engine/awesome-flame) · ⭐ 803 · 🏷️ Gaming
 
 [ [Daily](/content/flame-engine/awesome-flame/README.md) / [Weekly](/content/flame-engine/awesome-flame/week/README.md) / Overview ]
 
@@ -40,8 +40,6 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 *   [Articles & Tutorials](#articles--tutorials)
 *   [Plugins & Libraries](#plugins--libraries)
-    *   [Official](#official)
-    *   [Community](#community)
 *   [Projects](#projects)
     *   [Open Source](#open-source)
     *   [App Releases](#app-releases)
@@ -80,7 +78,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 *   [Killing gnats with Flutter and Flame](https://medium.com/flutter-community/killing-gnats-with-flutter-and-flame-77fa9224ccaa) - Build your first game with ads and i18n. By [Bo Hellgren](https://medium.com/@bo.hellgren)
 
-*   [Flutter Web and Flame (⭐129)](https://github.com/AseemWangoo/experiments_with_web) - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
+*   [Flutter Web and Flame (⭐133)](https://github.com/AseemWangoo/experiments_with_web) - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
 
 *   [Simple Platformer - Flame Game Development Series](https://youtube.com/playlist?list=PLiZZKL9HLmWPyd808sda2ydG-dhexNONV) - 2D platformer without using Forge2d. By [DevKage][1].
 
@@ -90,48 +88,16 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 *   [How to build a real-time multiplayer game with Flutter Flame](https://supabase.com/blog/flutter-real-time-multiplayer-game) - Using Flutter, Flame, and Supabase's real-time features to build a real-time multiplayer shooting game. By [Tyler Shukert](https://twitter.com/dshukertjr).
 
-### Deprecated Articles & Tutorials
-
-The tutorials in this section were written a long time ago and you'll have to do a lot of changes
-to get their code to run with any up-to-date version of Flame.
-
-#### Beginner Tutorial Series by [Alekhin](https://github.com/japalekhin)
-
-*   [Create a Mobile Game with Flutter and Flame - Beginner Tutorial (Introduction)](https://jap.alekhin.io/create-mobile-game-flutter-flame-beginner-tutorial)
-*   [2D Casual Mobile Game Tutorial - Step by Step with Flame and Flutter (Part 1 of 5)](https://jap.alekhin.io/2d-casual-mobile-game-tutorial-flame-flutter-part-1)
-*   [Game Graphics and Animation Tutorial - Step by Step with Flame and Flutter (Part 2 of 5)](https://jap.alekhin.io/game-graphics-and-animation-tutorial-flame-flutter-part-2)
-*   [Views and Dialog Boxes Tutorial - Step by Step with Flame and Flutter (Part 3 of 5)](https://jap.alekhin.io/views-dialog-boxes-tutorial-flame-flutter-part-3)
-*   [Scoring, Storage, and Sound Tutorial - Step by Step with Flame and Flutter (Part 4 of 5)](https://jap.alekhin.io/scoring-storage-sound-tutorial-flame-flutter-part-4)
-*   [Game Finishing and Packaging Tutorial - Step by Step with Flame and Flutter (Part 5 of 5)](https://jap.alekhin.io/game-finishing-packaging-tutorial-flame-flutter-part-5)
-
-<!--lint ignore double-link-->
-
-#### Articles by [Fireslime](https://fireslime.xyz/)
-
-<!--lint ignore double-link-->
-
-*   [Creating a virtual controller with Stack on Flame](https://fireslime.xyz/articles/20190902_Flame_Virtual_Controller_With_Stack.html)
-*   [Basic Camera usage on Flame](https://fireslime.xyz/articles/20190911_Basic_Camera_Usage_In_Flame.html)
-
 ### Examples
 
-*   [Maze generator (⭐12)](https://github.com/Dannark/FlameExamples) - List of algorithm examples to solve problems like Maze generation and more. By [Dannark](https://github.com/Dannark/)
+*   [Maze generator (⭐13)](https://github.com/Dannark/FlameExamples) - List of algorithm examples to solve problems like Maze generation and more. By [Dannark](https://github.com/Dannark/)
 
 ## Plugins & Libraries
 
-### Official
-
-<!--lint ignore double-link-->
-
-*   [flame\_gamepad (⭐46)](https://github.com/flame-engine/flame_gamepad) - Flutter Gamepad Support.
-*   [flame\_geom (⭐4)](https://github.com/flame-engine/flame_geom) - Complement Flame with APIs for handling shapes and geometric operations.
-*   [flame\_scrolling\_sprite (⭐19)](https://github.com/flame-engine/flame_scrolling_sprite) - Easy to use sprites that repeats itself on an area.
-
-### Community
-
-*   [bonfire (⭐958)](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
-*   [flame\_texturepacker (⭐17)](https://github.com/Brixto/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
-*   [leap (⭐12)](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
+*   [First-Party Plugins (⭐8.3k)](https://github.com/flame-engine/flame/tree/main/packages) - First-party plugins included in Flame's monorepo.
+*   [bonfire (⭐1k)](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
+*   [flame\_texturepacker (⭐20)](https://github.com/Brixto/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
+*   [leap (⭐17)](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 
 ## Projects
 
@@ -141,14 +107,14 @@ to get their code to run with any up-to-date version of Flame.
 
 <!--lint ignore double-link-->
 
-*   [Bob Box (⭐39)](https://github.com/fireslime/bounce_box) - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
-*   [Snaake! (⭐72)](https://github.com/lucasnlm/snaake-flutter) - A simple casual snake game. By [lucasnlm](https://github.com/lucasnlm)
-*   [Ghost Rigger (⭐194)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
-*   [Ant Squash (⭐13)](https://github.com/sourabhgupta811/Ant-Squash) - A simple casual bug squashing game that you can play with one finger. Tap to kill, stop ants from eating the sweet! By [Sourabh Gupta](https://www.linkedin.com/in/sourabhgupta811/)
+*   [Bob Box (⭐40)](https://github.com/fireslime/bounce_box) - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
+*   [Snaake! (⭐75)](https://github.com/lucasnlm/snaake-flutter) - A simple casual snake game. By [lucasnlm](https://github.com/lucasnlm)
+*   [Ghost Rigger (⭐198)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
+*   [Ant Squash (⭐14)](https://github.com/sourabhgupta811/Ant-Squash) - A simple casual bug squashing game that you can play with one finger. Tap to kill, stop ants from eating the sweet! By [Sourabh Gupta](https://www.linkedin.com/in/sourabhgupta811/)
 *   [Color Mixer (⭐13)](https://github.com/androideen/color_mixer_flame) - A color mixer game built with Flame 1.0.0-rc8. Tap 2 colors to mix them and help player pass obstacles.
-*   [Flappy Flame (⭐18)](https://github.com/Pierre-Monier/flappy_flame) - A flappy bird clone made with Flame 1.0.0-rc5. By [Pierre-Monier](https://github.com/Pierre-Monier)
-*   [Spacescape (⭐84)](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage][1].
-*   [New Super Jumper (⭐88)](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) - A doodle jump clone made with Flame and Forge2D. By [Yayocode][2].
+*   [Flappy Flame (⭐20)](https://github.com/Pierre-Monier/flappy_flame) - A flappy bird clone made with Flame 1.0.0-rc5. By [Pierre-Monier](https://github.com/Pierre-Monier)
+*   [Spacescape (⭐91)](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage][1].
+*   [New Super Jumper (⭐107)](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) - A doodle jump clone made with Flame and Forge2D. By [Yayocode][2].
 
 #### Endless Runner
 
@@ -156,17 +122,17 @@ to get their code to run with any up-to-date version of Flame.
 
 *   [BGUG (⭐89)](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
 
-*   [Dino Run (⭐156)](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage][1].
+*   [Dino Run (⭐175)](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage][1].
 
 #### Platformer
 
-*   [Flutters (⭐207)](https://github.com/ecklf/flutters) - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
+*   [Flutters (⭐212)](https://github.com/ecklf/flutters) - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
 
-*   [Simple Platformer (⭐30)](https://github.com/ufrshubham/flame_simple_platformer) - A 2D platformer made using Flame engine. By [DevKage][1].
+*   [Simple Platformer (⭐34)](https://github.com/ufrshubham/flame_simple_platformer) - A 2D platformer made using Flame engine. By [DevKage][1].
 
 #### RPG
 
-*   [Darkness Dungeon (⭐285)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+*   [Darkness Dungeon (⭐314)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
 ### App Releases
 
@@ -225,6 +191,8 @@ to get their code to run with any up-to-date version of Flame.
 
 *   Jade Rapids - [Android](https://play.google.com/store/apps/details?id=lalonde.jadepug.jade_rapids_game) - Swim with your pug up Jade Rapids collecting treats and dodging obstacles. By [Philip Lalonde](https://github.com/lalondeph)
 
+*   Escaper: Run - [IOS](https://apps.apple.com/tr/app/escaper-run/id6450519372?platform=iphone) - Dodge the bombs. Test your reflexes! By [A. Can Algan](https://github.com/acalgan)
+
 #### Educational
 
 *   [Sky Academy](https://www.dong.digital/skyacademy/) - [Android](https://play.google.com/store/apps/details?id=digital.dong.skyacademy), [iOS](https://apps.apple.com/us/app/sky-academy/id1571488252) - Learn to recognize all the constellations and brightest stars from a gold medal winner of the International Astronomy Olympiad. By [Dong Digital][3].
@@ -247,7 +215,7 @@ to get their code to run with any up-to-date version of Flame.
 
 <!--lint ignore double-link-->
 
-*   Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game), [GitHub (⭐80)](https://github.com/Shadow60539/club_penguin_game) - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
+*   Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game), [GitHub (⭐85)](https://github.com/Shadow60539/club_penguin_game) - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
 
 #### Puzzle Games
 
@@ -292,12 +260,12 @@ to get their code to run with any up-to-date version of Flame.
 
 ## Non-English Content
 
-*   [Mandarin Chinese (中文) (⭐753)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
-*   [Spanish (Español) (⭐753)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
+*   [Mandarin Chinese (中文) (⭐803)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
+*   [Spanish (Español) (⭐803)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
 
 ## Contributing
 
-[Please read the contribution guidelines (⭐753)](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md)
+[Please read the contribution guidelines (⭐803)](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md)
 
 <!-- Add ref links here -->
 
