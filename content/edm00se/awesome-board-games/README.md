@@ -2,9 +2,23 @@
 
 A curated list of awesome and exceptional board games. Please contribute!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/edm00se/awesome-board-games/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) · ⭐ 248 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/edm00se/awesome-board-games/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) · ⭐ 259 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/edm00se/awesome-board-games/week/README.md) / [Overview](/content/edm00se/awesome-board-games/readme/README.md) ]
+
+## [Nov 17, 2023](/content/2023/11/17/README.md)
+
+### Strategy
+
+### [Call to Adventure](https://www.brotherwisegames.com/all/p/call-to-adventure)
+
+> Call to Adventure is a tabletop game in which players compete to craft the hero with the greatest destiny. Play cards to build your character, cast runes to face challenges, and choose whether to follow a path of heroism or villainy. The core game mode is a 2-4 player competitive game, but Call to Adventure can also be played solo or cooperatively!
+
+![Call to Adventure box image](https://cf.geekdo-images.com/itemrep/img/9s46VFMEDqq9BGZwHDB0ZnDHwhw=/fit-in/246x300/pic4165094.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |       13 | 30-45m |
 
 ## [Nov 01, 2023](/content/2023/11/01/README.md)
 
@@ -2331,20 +2345,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 8 |        6 |  20m |
-
-## [Dec 05, 2019](/content/2019/12/05/README.md)
-
-### Strategy
-
-### [Call to Adventure](https://www.brotherwisegames.com/about-call-to-adventure)
-
-> Call to Adventure is a tabletop game in which players compete to craft the hero with the greatest destiny. Play cards to build your character, cast runes to face challenges, and choose whether to follow a path of heroism or villainy. The core game mode is a 2-4 player competitive game, but Call to Adventure can also be played solo or cooperatively!
-
-![Call to Adventure box image](https://cf.geekdo-images.com/itemrep/img/9s46VFMEDqq9BGZwHDB0ZnDHwhw=/fit-in/246x300/pic4165094.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 4 |       13 | 30-45m |
 
 ## [Oct 24, 2019](/content/2019/10/24/README.md)
 

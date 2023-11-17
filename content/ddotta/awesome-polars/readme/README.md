@@ -79,7 +79,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 *   [Working with Polars and XlsxWriter](https://xlsxwriter.readthedocs.io/working_with_polars.html) - Guide to using the Python [XlsxWriter](https://xlsxwriter.readthedocs.io/index.html) library with Polars to create Excel reports.
 *   [Python package seaborn\_polars (⭐16)](https://github.com/pavelcherepan/seaborn_polars) - Python package to plot Polars DataFrames and LazyFrames with [seaborn](https://seaborn.pydata.org/) by [@pavelcherepan](https://github.com/pavelcherepan).
 *   [Python package functime](https://docs.functime.ai/) - Machine learning Python package built on Polars for time-series predictions by [@neocortexdb](https://github.com/neocortexdb). According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !
-*   [polars-business (⭐37)](https://github.com/MarcoGorelli/polars-business) - Polars extension that offers utilities for business day operations with Polars and Python by [@MarcoGorelli](https://github.com/MarcoGorelli).
+*   [polars-business (⭐53)](https://github.com/MarcoGorelli/polars-business) - Polars extension that offers utilities for business day operations with Polars and Python by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
 ### Rust
 
@@ -91,6 +91,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 
 *   [rpolars for R (⭐318)](https://github.com/pola-rs/r-polars) - [R](https://www.r-project.org/) `rpolars` package to use polars DataFrame from R.
 *   [tidypolars for R (⭐83)](https://github.com/etiennebacher/tidypolars/) `tidypolars` package to use polars with tidyverse syntax.
+*   [polarssql (⭐8)](https://github.com/rpolars/r-polarssql) - `polarssql` experimental package which is a DBI-compliant interface to Polars.
 
 ### Node.js
 
@@ -180,7 +181,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 *   [Partitioning Polars DataFrame on S3 with Apache Arrow](https://medium.com/@matteo.arellano/partitioning-polars-dataframe-on-s3-with-apache-arrow-1fa6518d23f1) - A blog post that explains how to partition large Polars DataFrames in AWS S3 by [Matteo Arellano](https://medium.com/@matteo.arellano).
 *   [Goodbye Spark. Hello Polars + Delta Lake](https://dataengineeringcentral.substack.com/p/goodbye-spark-hello-polars-delta) - An article that presents how to use Polars in addition to Delta Lake by [@danielbeach](https://github.com/danielbeach).
 *   [How to learn Polars with ChatGPT?](https://medium.com/@s.illesinghe/how-to-learn-polars-with-chatgpt-62f67bb0a6f8) - An article that explains how to learn fundamental Polars concepts with ChatGPT by [Suhith Illesinghe](https://medium.com/@s.illesinghe).
-*   [Date and DateTime Manipulation in Polars ](https://www.confessionsofadataguy.com/date-and-datetime-manipulation-in-polar/) - A blog post that shows examples of doing a number of date and datetime manipulations in Polars (Python) by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐0)](https://github.com/danielbeach/PolarsDateTimeManipulation/tree/main).
+*   [Date and DateTime Manipulation in Polars ](https://www.confessionsofadataguy.com/date-and-datetime-manipulation-in-polar/) - A blog post that shows examples of doing a number of date and datetime manipulations in Polars (Python) by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐1)](https://github.com/danielbeach/PolarsDateTimeManipulation/tree/main).
 *   [Pandas2 and Polars for Feature Engineering](https://www.hopsworks.ai/post/pandas2-and-polars-for-feature-engineering) - A blog post that A blog post that compares Pandas2 and Polars for Feature Engineering tasks with Python by [@hopswork (⭐998)](https://github.com/logicalclocks/hopsworks).
 *   [Spark vs Polars. Real-life Test Case. ](https://dataengineeringcentral.substack.com/p/spark-vs-polars-real-life-test-case) - A blog post in which the author tests whether Polars is able to handle "real amounts of data" and "really replace some production Spark workloads." by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐1)](https://github.com/danielbeach/PolarsVsPySpark/tree/main).
 *   [Using Polars Plugins for a 14x Speed Boost with Rust](https://towardsdatascience.com/using-polars-plugins-for-a-14x-speed-boost-with-rust-ce80bcc13d94) - A blog post thats shows the use of Polars plugin system for Rust from some concrete examples by [@ngriffiths13](https://github.com/ngriffiths13).
@@ -210,6 +211,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 *   [Intro to Polars](https://youtube.com/playlist?list=PL6FP7t_F5uo6M-YXwZ5cadqr3EMwPoteP\&si=wc1GLcOGcRZU3Uz1) ⏳ 7 videos - A playlist of 7 videos that introduces the basic concepts of Polars (DataFrames, filtering, splitting...) by [Joram Mutenge](https://www.linkedin.com/in/jorammutenge/).
 *   [Machine Learning with Polars](https://youtube.com/playlist?list=PL6FP7t_F5uo60l16AWCJJHLE6liGPqa7u\&si=uNsH5I7GUojXeJmw) ⏳ 6 videos - A playlist of 6 videos that analyzing and cleaning data using Polars to train machine learning models by [Joram Mutenge](https://www.linkedin.com/in/jorammutenge/).
 *   [Pandas and Polars with Marco Gorelli](https://thebakery.dev/68/) ⏳ `55 min` - A podcast by The Developers' Bakery that compares the performance of Polars to Pandas by [@MarcoGorelli](https://github.com/MarcoGorelli).
+*   [Library of the week 13 : Polars with Python](https://www.youtube.com/watch?v=kv7rqHgX20w) ⏳ 15 min - A video that presents Polars with Python by [@enarroied](https://github.com/enarroied). Article supplied with the video [in this page](https://python.plainenglish.io/library-of-the-week-13-polars-fd1398a8841b).
 
 ## Follow : Official
 

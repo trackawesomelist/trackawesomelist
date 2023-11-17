@@ -2,7 +2,7 @@
 
 A curated list of awesome and exceptional board games. Please contribute!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/edm00se/awesome-board-games/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) · ⭐ 248 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/edm00se/awesome-board-games/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) · ⭐ 259 · 🏷️ Miscellaneous
 
 [ [Daily](/content/edm00se/awesome-board-games/README.md) / [Weekly](/content/edm00se/awesome-board-games/week/README.md) / Overview ]
 
@@ -1093,7 +1093,7 @@ A curated list of awesome and exceptional board games. Please contribute!
 | ------: | -------: | ---: |
 |       2 |        8 |  30m |
 
-### [Call to Adventure](https://www.brotherwisegames.com/about-call-to-adventure)
+### [Call to Adventure](https://www.brotherwisegames.com/all/p/call-to-adventure)
 
 > Call to Adventure is a tabletop game in which players compete to craft the hero with the greatest destiny. Play cards to build your character, cast runes to face challenges, and choose whether to follow a path of heroism or villainy. The core game mode is a 2-4 player competitive game, but Call to Adventure can also be played solo or cooperatively!
 

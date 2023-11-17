@@ -6,6 +6,16 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ [Daily](/content/ddotta/awesome-polars/README.md) / Weekly / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
+
+### Libraries/Packages/Scripts / R
+
+*   [polarssql (⭐8)](https://github.com/rpolars/r-polarssql) - `polarssql` experimental package which is a DBI-compliant interface to Polars.
+
+### Resources / Talks and videos
+
+*   [Library of the week 13 : Polars with Python](https://www.youtube.com/watch?v=kv7rqHgX20w) ⏳ 15 min - A video that presents Polars with Python by [@enarroied](https://github.com/enarroied). Article supplied with the video [in this page](https://python.plainenglish.io/library-of-the-week-13-polars-fd1398a8841b).
+
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
 ### Resources / Blog posts
@@ -18,13 +28,13 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Libraries/Packages/Scripts / Python
 
-*   [polars-business (⭐37)](https://github.com/MarcoGorelli/polars-business) - Polars extension that offers utilities for business day operations with Polars and Python by [@MarcoGorelli](https://github.com/MarcoGorelli).
+*   [polars-business (⭐53)](https://github.com/MarcoGorelli/polars-business) - Polars extension that offers utilities for business day operations with Polars and Python by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
 ### Resources / Blog posts
 
-*   [Date and DateTime Manipulation in Polars ](https://www.confessionsofadataguy.com/date-and-datetime-manipulation-in-polar/) - A blog post that shows examples of doing a number of date and datetime manipulations in Polars (Python) by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐0)](https://github.com/danielbeach/PolarsDateTimeManipulation/tree/main).
+*   [Date and DateTime Manipulation in Polars ](https://www.confessionsofadataguy.com/date-and-datetime-manipulation-in-polar/) - A blog post that shows examples of doing a number of date and datetime manipulations in Polars (Python) by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐1)](https://github.com/danielbeach/PolarsDateTimeManipulation/tree/main).
 
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 

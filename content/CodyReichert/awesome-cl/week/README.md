@@ -8,6 +8,10 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
 
+### Graph databases
+
+*   [restagraph](https://codeberg.org/Equill/restagraph) - an app that dynamically generates REST APIs for a Neo4j database, using a schema defined within the database. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+
 ### Apps / Third-party APIs
 
 *   [lisp-binary (⭐80)](https://github.com/j3pic/lisp-binary) - A library to easily read and write complex binary formats. [GPL3](http://www.gnu.org/copyleft/gpl.html).
@@ -832,10 +836,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ## [Nov 15 - Nov 21, 2021](/content/2021/46/README.md)
 
-### Graph databases
-
-*   [restagraph](https://github.com/equill/restagraph) - an app that dynamically generates REST APIs for a Neo4j database, using a schema defined within the database. [GPL3](http://www.gnu.org/copyleft/gpl.html).
-
 ### Querying HTML/DOM / Isomorphic web frameworks
 
 *   👍 [lquery (⭐81)](https://github.com/Shinmera/lquery) - A jQuery-like HTML/DOM manipulation library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
@@ -1563,6 +1563,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Date and time / Third-party APIs
 
 *   [periods (⭐28)](https://github.com/jwiegley/periods) - manipulating date/time objects at a higher level. With series-compatible data structure. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+    *   with [some documentation](https://lisp-maintainers.github.io/periods/)
 
 ## [Mar 23 - Mar 29, 2020](/content/2020/12/README.md)
 

@@ -163,7 +163,7 @@ sellers who aren't evil for physical resources.
     *   [REPLs](#repls)
     *   [Online editors](#online-editors)
     *   [Apps](#apps)
-*   [Text Parsers](#text-parsers)
+*   [Text and File Parsers](#text-and-file-parsers)
 *   [Text Processing](#text-processing)
 *   [Tools](#tools-1)
 *   [Unit Testing](#unit-testing)
@@ -318,7 +318,7 @@ See also [Clache](#caching), that can save any object on disk.
 
 and also:
 
-*   [restagraph](https://github.com/equill/restagraph) - an app that dynamically generates REST APIs for a Neo4j database, using a schema defined within the database. [GPL3][2].
+*   [restagraph](https://codeberg.org/Equill/restagraph) - an app that dynamically generates REST APIs for a Neo4j database, using a schema defined within the database. [GPL3][2].
 *   [facts](https://github.com/cl-facts/facts) - an in-memory graph database with transactions and rollbacks, logging/replay and dumping/loading to/from disk. BSD-style license (ISC).
 
 ## Wrappers
@@ -1450,7 +1450,7 @@ This contains plugins and other goodies for various text editors.
 
 *   [CodePlayground](https://codeplayground.app/) - an iPhone and iPad app with Lisp support via CCL.
 
-# Text Parsers
+# Text and binary parsers
 
 *   ⭐ [esrap (⭐71)](https://github.com/scymtym/esrap) - Packrat parser. [Expat][14].
 *   [cl-yacc (⭐55)](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT][200].
@@ -1549,6 +1549,7 @@ For more: [Sabra Crolleton's extensive test frameworks comparison](https://sabra
 *   [iso-8601-date](https://gitlab.com/DataLinkDroid/iso-8601-date) - Miscellaneous date routines in Common Lisp, based around the ISO 8601 string representation. [LLGPL][8].
 *   [calendar-date (⭐8)](https://github.com/takagi/calendar-date) - a Gregorian calendar date library. [MIT][200].
 *   [periods (⭐28)](https://github.com/jwiegley/periods) - manipulating date/time objects at a higher level. With series-compatible data structure. [BSD\_3Clause][15].
+    *   with [some documentation](https://lisp-maintainers.github.io/periods/)
 *   [stopclock (⭐12)](https://github.com/Gleefre/stopclock) - a library for measuring time using (stop)clocks. It allows you to create a clock, pause it, resume it and change its speed. [Apache2.0][89].
 
 See also the book [Calendrical calculations](https://www.cambridge.org/us/academic/subjects/computer-science/computing-general-interest/calendrical-calculations-ultimate-edition-4th-edition?format=HB#resources), by Edward M. Reingold, Nachum Dershowitz, Cambridge Press. It provides Lisp sources.
