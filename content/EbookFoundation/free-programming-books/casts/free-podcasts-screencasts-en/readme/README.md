@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md) · ⭐ 302K · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md) · ⭐ 303K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md) / [Weekly](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md) / Overview ]
 
@@ -180,6 +180,7 @@
 
 ### JavaScript
 
+*   [20 Min JS](https://20minjs.com) - Agustinus Theodorus, Chris Bongers, Mark Volkmann, et al. (podcast)
 *   [devMode.fm](https://devmode.fm) - Andrew Welch, Ryan Ire­lan, Patrick Harrington, Jonathan Melville, Michael Rog, Earl John­ston, Mar­i­on Newlevant, Lau­ren Dorman, Matt Stein, Jen­nifer Blumberg (podcast)
 *   [FiveJS](https://fivejs.codeschool.com) - CodeSchool (podcast)
 *   [Front End Happy Hour](https://frontendhappyhour.com) - Ryan Burgess, Jem Young, Stacy London, Augustus Yuan, Mars Jullian, Shirley Wu (podcast)

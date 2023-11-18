@@ -119,7 +119,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 *   [PopSQL](https://popsql.com) - Modern, collaborative SQL editor for your team.
 *   [Postico](https://eggerapps.at/postico) - A Modern PostgreSQL Client for the Mac.
 *   [Robo 3T (⭐9.2k)](https://github.com/Studio3T/robomongo) - Robo 3T (formerly Robomongo) is a shell-centric cross-platform MongoDB management tool.
-*   [Sequel Ace (⭐6k)](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS.
+*   [Sequel Ace (⭐6.1k)](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS.
 *   [Sequel Pro (⭐8.9k)](https://github.com/sequelpro/sequelpro) - Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
 *   [SQLite Expert](http://www.sqliteexpert.com/index.html) - Graphical interface supports all SQLite features.
 *   [sqlite-tui (⭐1.3k)](https://github.com/mathaou/sqlite-tui) - A TUI for viewing sqlite databases, written in Go.
@@ -160,8 +160,8 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 ### Changes
 
 *   [2bass (⭐39)](https://github.com/CourseOrchestra/2bass) - Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.
-*   [Atlas (⭐3.9k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
-*   [Bytebase (⭐7.3k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
+*   [Atlas (⭐4k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
+*   [Bytebase (⭐7.4k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
 *   [flyway (⭐7.5k)](https://github.com/flyway/flyway) - Database migration tool.
 *   [gh-ost (⭐12k)](https://github.com/github/gh-ost) - Online schema migration for MySQL.
 *   [liquibase (⭐4.1k)](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
@@ -175,7 +175,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 *   [Skeema (⭐1.2k)](https://github.com/skeema/skeema) - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools.
 *   [Sqitch (⭐2.6k)](https://github.com/sqitchers/sqitch) - Sensible database-native change management for framework-free development and dependable deployment.
 *   [sqldef (⭐1.7k)](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more.
-*   [yuniql (⭐392)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
+*   [yuniql (⭐394)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
 
 ### Code generation
 
@@ -218,7 +218,7 @@ Building API for your Data
 
 *   [Datasette (⭐8.4k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
 *   [DreamFactory (⭐1.4k)](https://github.com/dreamfactorysoftware/dreamfactory) - A open source REST API backend for mobile, web, and IoT applications.
-*   [Graphweaver (⭐393)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
+*   [Graphweaver (⭐398)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
 *   [Hasura GraphQL Engine (⭐30k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 *   [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - A mid-tier Java application, ORDS maps HTTP(S) verbs (GET, POST, PUT, DELETE, etc.) to database transactions and returns any results formatted using JSON.
 *   [Prisma (⭐17k)](https://github.com/prismagraphql/prisma) -  Prisma turns your database into a realtime GraphQL API.
@@ -294,7 +294,7 @@ Low-code and no-code platforms for application building
 ## Testing
 
 *   [DbFit (⭐225)](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
-*   [pgTAP (⭐866)](https://github.com/theory/pgtap) - Unit Testing for PostgreSQL.
+*   [pgTAP (⭐869)](https://github.com/theory/pgtap) - Unit Testing for PostgreSQL.
 *   [RegreSQL (⭐261)](https://github.com/dimitri/regresql) - Regression Testing your SQL queries.
 *   [SQLancer (⭐1.3k)](https://github.com/sqlancer/sqlancer) - Automatically test DBMS in order to find logic bugs in their implementation.
 
@@ -358,7 +358,7 @@ Low-code and no-code platforms for application building
 *   [SQLCheck (⭐2.3k)](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns.
 *   [SQLFluff (⭐6.7k)](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
 *   [SQLLineage (⭐867)](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
-*   [TSQLLint (⭐193)](https://github.com/tsqllint/tsqllint) - A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.
+*   [TSQLLint (⭐194)](https://github.com/tsqllint/tsqllint) - A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.
 
 ### Extensions
 
@@ -401,6 +401,7 @@ Run SQL queries against anything
 *   [CloudQuery (⭐5.2k)](https://github.com/cloudquery/cloudquery) - Extracts, transforms, and loads your cloud assets into normalized PostgreSQL tables.
 *   [csvq (⭐1.4k)](https://github.com/mithrandie/csvq) - SQL-like query language for CSV.
 *   [dsq (⭐3.4k)](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+*   [MAT Calcite plugin (⭐136)](https://github.com/vlsi/mat-calcite-plugin) - This plugin for Eclipse Memory Analyzer allows to query heap dump via SQL.
 *   [OctoSQL (⭐4.6k)](https://github.com/cube2222/octosql) - Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 *   [osquery (⭐21k)](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 *   [Resmo](https://www.resmo.com) - Audit and evaluate resources using SQL.
@@ -447,7 +448,7 @@ Useful SQL-scripts for various purposes
 
 ## Data
 
-*   [dbt (⭐7.7k)](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
+*   [dbt (⭐7.8k)](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
 *   [QuickTable](https://quicktable.io) - Empowers everyone to access, clean, analyze, transform, and model data with no code.
 
 ### Catalog

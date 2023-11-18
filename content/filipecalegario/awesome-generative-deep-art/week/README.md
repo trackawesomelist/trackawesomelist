@@ -13,6 +13,10 @@ A curated list of Generative AI tools, works, models, and references
 *   [Hito Steyerl, Mean Images, NLR 140/141, March–June 2023](https://newleftreview.org/issues/ii140/articles/hito-steyerl-mean-images)
 *   [The copyright conundrum of AI art - The Verge](https://www.theverge.com/23961021/ai-art-copyright-training-ownership-fair-use)
 
+### Critical Views about Generative AI
+
+*   [The Short-Term Effects of Generative Artificial Intelligence on Employment: Evidence from an Online Labor Market by Xiang Hui, Oren Reshef, Luofeng Zhou :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527336)
+
 ### Generative AI Tools Directories
 
 *   [ainave](https://www.ainave.com): "navigate the world of AI with ease", curated AI Tools and AI News
@@ -36,7 +40,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [GPT4All](https://gpt4all.io/index.html): A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
 *   [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs
-*   [ggerganov/llama.cpp (⭐43k)](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
+*   [ggerganov/llama.cpp (⭐44k)](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
 
 ### GPTs and Assistant API / Prompt Engineering for Text-to-image
 
@@ -48,6 +52,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### LangChain / Multi-agents
 
+*   [LangChain Cheatsheet](https://pub.towardsai.net/langchain-cheatsheet-all-secrets-on-a-single-page-8be26b721cde): All Secrets on a Single Page | by Ivan Reznikov | Nov, 2023 | Towards AI
 *   [LangChain Template: Research Assistant (⭐68k)](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant)
 
 ### Image Segmentation / Deforum

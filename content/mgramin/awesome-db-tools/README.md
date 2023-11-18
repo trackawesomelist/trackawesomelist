@@ -6,6 +6,12 @@ Everything that makes working with databases easier
 
 [ Daily / [Weekly](/content/mgramin/awesome-db-tools/week/README.md) / [Overview](/content/mgramin/awesome-db-tools/readme/README.md) ]
 
+## [Nov 18, 2023](/content/2023/11/18/README.md)
+
+### SQL / Über SQL
+
+*   [MAT Calcite plugin (⭐136)](https://github.com/vlsi/mat-calcite-plugin) - This plugin for Eclipse Memory Analyzer allows to query heap dump via SQL.
+
 ## [Nov 08, 2023](/content/2023/11/08/README.md)
 
 ### IDE
@@ -16,7 +22,7 @@ Everything that makes working with databases easier
 
 ### Testing / Zabbix
 
-*   [pgTAP (⭐866)](https://github.com/theory/pgtap) - Unit Testing for PostgreSQL.
+*   [pgTAP (⭐869)](https://github.com/theory/pgtap) - Unit Testing for PostgreSQL.
 
 ## [Oct 25, 2023](/content/2023/10/25/README.md)
 
@@ -44,7 +50,7 @@ Everything that makes working with databases easier
 
 ### API / Samples
 
-*   [Graphweaver (⭐393)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
+*   [Graphweaver (⭐398)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
 
 ## [Aug 04, 2023](/content/2023/08/04/README.md)
 
@@ -197,7 +203,7 @@ Everything that makes working with databases easier
 
 ### GUI
 
-*   [Sequel Ace (⭐6k)](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS.
+*   [Sequel Ace (⭐6.1k)](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS.
 
 ### Machine Learning / Compare
 
@@ -297,7 +303,7 @@ Everything that makes working with databases easier
 
 ### Schema / Changes
 
-*   [Atlas (⭐3.9k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
+*   [Atlas (⭐4k)](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
 *   [Reshape (⭐1.5k)](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres.
 *   [sqldef (⭐1.7k)](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more.
 
@@ -352,7 +358,7 @@ Everything that makes working with databases easier
 
 ### Data / Scripts
 
-*   [dbt (⭐7.7k)](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
+*   [dbt (⭐7.8k)](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
 
 ### Data / Replication
 
@@ -420,7 +426,7 @@ Everything that makes working with databases easier
 
 *   [SQLCheck (⭐2.3k)](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns.
 *   [SQLFluff (⭐6.7k)](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
-*   [TSQLLint (⭐193)](https://github.com/tsqllint/tsqllint) - A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.
+*   [TSQLLint (⭐194)](https://github.com/tsqllint/tsqllint) - A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.
 
 ### SQL / Extensions
 
@@ -495,7 +501,7 @@ Everything that makes working with databases easier
 
 ### Schema / Changes
 
-*   [Bytebase (⭐7.3k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
+*   [Bytebase (⭐7.4k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
 
 ## [Jul 15, 2021](/content/2021/07/15/README.md)
 
@@ -530,7 +536,7 @@ Everything that makes working with databases easier
 
 ### Schema / Changes
 
-*   [yuniql (⭐392)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
+*   [yuniql (⭐394)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
 
 ## [Mar 22, 2020](/content/2020/03/22/README.md)
 

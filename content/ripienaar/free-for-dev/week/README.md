@@ -8,9 +8,17 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
 
+### Email
+
+*   [validemail.io](https://validemail.io/) - Free Tier with 1000 validations per day.
+
 ### Forms
 
 *   [Qualli](https://usequalli.com) - In App Surveys, designed for mobile. Use Qualli AI to craft the perfect questions. You can try it out on our free plan, up to 500 MAU, create unlimited forms and triggers.
+
+### PaaS
+
+*   [Hop](https://hop.io/) — Web services hosting platform without configs. Free tier with 1x Shared CPU, 512MB RAM and 3GB Storage.
 
 ### IDE and Code Editing
 
@@ -3851,7 +3859,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [crossbrowsertesting.com](https://crossbrowsertesting.com) - Manual, Visual, and Selenium Browser Testing in the cloud - [free for Open Source](https://crossbrowsertesting.com/open-source)
 *   [everystep-automation.com](https://www.everystep-automation.com/) — Records and replays all steps made in a web browser and creates scripts, free with fewer options
 *   [gridlastic.com](https://www.gridlastic.com/) — Selenium Grid testing with a free plan of up to 4 simultaneous selenium nodes/10 grid starts/4,000 test minutes/month
-*   [saucelabs.com](https://saucelabs.com/) — Cross-browser, Selenium, and mobile testing. The free plan includes 2000 credits per week. They also provide free licenses for selected open-source projects, which can be requested [here](https://opensource.saucelabs.com/).
 *   [testingbot.com](https://testingbot.com/) — Selenium Browser and Device Testing, [free for Open Source](https://testingbot.com/open-source)
 *   [tesults.com](https://www.tesults.com) — Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free projects.
 

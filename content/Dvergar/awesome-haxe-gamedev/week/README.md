@@ -2,34 +2,44 @@
 
 Resources for game development on haxe
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Dvergar/awesome-haxe-gamedev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Dvergar/awesome-haxe-gamedev](https://github.com/Dvergar/awesome-haxe-gamedev) · ⭐ 333 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Dvergar/awesome-haxe-gamedev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Dvergar/awesome-haxe-gamedev](https://github.com/Dvergar/awesome-haxe-gamedev) · ⭐ 355 · 🏷️ Gaming
 
 [ [Daily](/content/Dvergar/awesome-haxe-gamedev/README.md) / Weekly / [Overview](/content/Dvergar/awesome-haxe-gamedev/readme/README.md) ]
+
+## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
+
+### Miscellaneous / Dialogues
+
+*   [hxyarn (⭐5)](https://github.com/cxsquared/hxyarn) - Parser and runner for Yarn dialogue files.
+
+### Miscellaneous / Procedural generation
+
+*   [Dungeon builder (⭐64)](https://github.com/julsam/dungeon-builder) - A set of dungeon generation algorithm (works w/ hx4 w/ minor changes).
 
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
 ### Game engines
 
-*   [Armory (Kha) (⭐2.8k)](https://github.com/armory3d/armory) - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
-*   [Away3D (⭐182)](https://github.com/openfl/away3d) - An open source, real-time 3D engine for OpenFL (`Web`, `Mobile`, `Desktop`).
-*   [ceramic (⭐191)](https://github.com/ceramic-engine/ceramic) - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
+*   [Armory (Kha) (⭐2.9k)](https://github.com/armory3d/armory) - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
+*   [Away3D (⭐187)](https://github.com/openfl/away3d) - An open source, real-time 3D engine for OpenFL (`Web`, `Mobile`, `Desktop`).
+*   [ceramic (⭐211)](https://github.com/ceramic-engine/ceramic) - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
 *   [HaxeFlixel (OpenFL) (⭐1.8k)](https://github.com/HaxeFlixel/flixel) - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
-*   [Haxegon (OpenFL) (⭐190)](https://github.com/haxegon/haxegon) - A programming library for beginners. Powered by OpenFL and Starling (`Web`, `Mobile`, `Desktop`, `Consoles`).
-*   [Heaps (⭐2.9k)](https://github.com/HeapsIO/heaps) - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
-*   [hxdefold (⭐163)](https://github.com/hxdefold/hxdefold) - Haxe/Lua externs for Defold game engine (`Web`, `Mobile`, `Desktop`).
+*   [Haxegon (OpenFL) (⭐192)](https://github.com/haxegon/haxegon) - A programming library for beginners. Powered by OpenFL and Starling (`Web`, `Mobile`, `Desktop`, `Consoles`).
+*   [Heaps (⭐3k)](https://github.com/HeapsIO/heaps) - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+*   [hxdefold (⭐177)](https://github.com/hxdefold/hxdefold) - Haxe/Lua externs for Defold game engine (`Web`, `Mobile`, `Desktop`).
 *   [OpenFL (⭐1.8k)](https://github.com/openfl/openfl) - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
-*   [Starling (⭐222)](https://github.com/openfl/starling) - The "Cross-Platform Game Engine", a popular Stage3D framework (`Web`, `Mobile`, `Desktop`).
-*   [Stencyl (OpenFL) (⭐179)](https://github.com/Stencyl/stencyl-engine) - Create Flash, HTML5, iOS, Android, and desktop games with no code (`Mobile`, `Desktop`).
+*   [Starling (⭐230)](https://github.com/openfl/starling) - The "Cross-Platform Game Engine", a popular Stage3D framework (`Web`, `Mobile`, `Desktop`).
+*   [Stencyl (OpenFL) (⭐181)](https://github.com/Stencyl/stencyl-engine) - Create Flash, HTML5, iOS, Android, and desktop games with no code (`Mobile`, `Desktop`).
 *   [unreal.hx (⭐412)](https://github.com/proletariatgames/unreal.hx) - Haxe Integration for Unreal (`Web`, `Mobile`, `Desktop`, `Consoles`).
-*   [HxGodot (Godot 4.0) (⭐156)](https://github.com/HxGodot/hxgodot) - A Haxe GDExtension for Godot 4 (`Web`, `Mobile`, `Desktop`, `Consoles`).
+*   [HxGodot (Godot 4.0) (⭐185)](https://github.com/HxGodot/hxgodot) - A Haxe GDExtension for Godot 4 (`Web`, `Mobile`, `Desktop`, `Consoles`).
 
 ### Low-level Engine
 
 *   [Kha (⭐1.4k)](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
-*   [Lime (⭐704)](https://github.com/openfl/lime) - A flexible, lightweight layer for Haxe cross-platform developers (`Web`, `Mobile`, `Desktop`).
+*   [Lime (⭐722)](https://github.com/openfl/lime) - A flexible, lightweight layer for Haxe cross-platform developers (`Web`, `Mobile`, `Desktop`).
 *   [linc\_glfw (⭐16)](https://github.com/Sunjammer/linc_glfw) - Desktop - GLFW binding (multi-platform library for OpenGL, OpenGL ES and Vulkan) *(Desktop)*.
-*   [NME (⭐466)](https://github.com/haxenme/nme) - A cross-platform native backend (`Web`, `Mobile`, `Desktop`).
-*   [3DSHaxe (⭐11)](https://github.com/Krismowo/3DSHaxe) - Make 3ds homebrew! (`3DS`).
+*   [NME (⭐470)](https://github.com/haxenme/nme) - A cross-platform native backend (`Web`, `Mobile`, `Desktop`).
+*   [3DSHaxe (⭐27)](https://github.com/Krismowo/3DSHaxe) - Make 3ds homebrew! (`3DS`).
 
 ### Physics
 
@@ -39,25 +49,25 @@ Resources for game development on haxe
 
 ### Architecture
 
-*   [awe6 (⭐82)](https://github.com/hypersurge/awe6) - `IoC`, `EC` - The inverted game framework, is a development tool focused on Future Proofing.
-*   [ecx (⭐52)](https://github.com/eliasku/ecx) - `ECS` - An Entity Component System framework.
+*   [awe6 (⭐81)](https://github.com/hypersurge/awe6) - `IoC`, `EC` - The inverted game framework, is a development tool focused on Future Proofing.
+*   [ecx (⭐51)](https://github.com/eliasku/ecx) - `ECS` - An Entity Component System framework.
 *   [hexMachina (⭐7)](https://github.com/DoclerLabs/hexCore) - `MVC` - A powerful multi-modular MVC framework.
-*   [OSIS (⭐43)](https://github.com/Dvergar/OSIS) - `ECS` - Entity Component System architecture with networking support.
+*   [OSIS (⭐42)](https://github.com/Dvergar/OSIS) - `ECS` - Entity Component System architecture with networking support.
 
 ### Networking
 
-*   [Anette (⭐38)](https://github.com/Dvergar/Anette) - Simple network library (no UDP).
-*   [colyseus-hx (⭐66)](https://github.com/colyseus/colyseus-hx) - Multiplayer Game Client.
+*   [Anette (⭐37)](https://github.com/Dvergar/Anette) - Simple network library (no UDP).
+*   [colyseus-hx (⭐69)](https://github.com/colyseus/colyseus-hx) - Multiplayer Game Client.
 *   [haxe-simple-peer (js) (⭐4)](https://github.com/melonin/haxe-simple-peer) - Haxe externs for simple-peer.
-*   [hxWebSockets (⭐73)](https://github.com/ianharrigan/hxWebSockets) - Websockets for all platforms.
+*   [hxWebSockets (⭐77)](https://github.com/ianharrigan/hxWebSockets) - Websockets for all platforms.
 *   Built-in - Heaps, OpenFL (HaxeFlixel & co), Kha (Armory).
 
 ### Serialization and storage
 
-*   [Bits (⭐21)](https://github.com/RealyUniqueName/Bits) - Binary bit flags with unlimited amount of bits.
-*   [CastleDB (⭐494)](https://github.com/ncannasse/castle) - A structured static database easing collaboration.
-*   [hxbit (⭐142)](https://github.com/ncannasse/hxbit) - A binary serialization and network synchronization library.
-*   [PODStream (⭐20)](https://github.com/Dvergar/PODStream) - Plain Old Data serializer.
+*   [Bits (⭐22)](https://github.com/RealyUniqueName/Bits) - Binary bit flags with unlimited amount of bits.
+*   [CastleDB (⭐517)](https://github.com/ncannasse/castle) - A structured static database easing collaboration.
+*   [hxbit (⭐144)](https://github.com/ncannasse/hxbit) - A binary serialization and network synchronization library.
+*   [PODStream (⭐21)](https://github.com/Dvergar/PODStream) - Plain Old Data serializer.
 
 ### Games
 
@@ -88,20 +98,20 @@ Resources for game development on haxe
 
 ### Miscellaneous / 3rd party API
 
-*   [SteamWrap (⭐92)](https://github.com/larsiusprime/SteamWrap) - Native extension for the SteamAPI.
+*   [SteamWrap (⭐96)](https://github.com/larsiusprime/SteamWrap) - Native extension for the SteamAPI.
 *   [newgrounds](https://lib.haxe.org/p/newgrounds) - Newgrounds API.
-*   [hxgamejolt-api (⭐7)](https://github.com/MAJigsaw77/hxgamejolt-api) - Haxe bindings for GameJolt API.
+*   [hxgamejolt-api (⭐11)](https://github.com/MAJigsaw77/hxgamejolt-api) - Haxe bindings for GameJolt API.
 
 ### Miscellaneous / Animation
 
 *   [spine-hx (⭐54)](https://github.com/jeremyfa/spine-hx) - Spine runtime automatically converted from the official Java/libgdx runtime.
 *   HaxeFlixel - Spine parser.
-*   [Heaps-Spine (⭐18)](https://github.com/Beeblerox/Heaps-Spine) - Spine player for heaps.
-*   [heaps-aseprite (⭐23)](https://github.com/AustinEast/heaps-aseprite) - Load and render sprites and animations in Aseprite format.
+*   [Heaps-Spine (⭐17)](https://github.com/Beeblerox/Heaps-Spine) - Spine player for heaps.
+*   [heaps-aseprite (⭐25)](https://github.com/AustinEast/heaps-aseprite) - Load and render sprites and animations in Aseprite format.
 *   [openfl-aseprite (⭐15)](https://github.com/miriti/openfl-aseprite) - Load and render sprites and animations in Aseprite format.
 *   [openfl-spine (⭐16)](https://github.com/rainyt/openfl-spine) - Render Spine animation in the OpenFL engine, rendering processing can be achieved throughSprite and Tilemap.
-*   [ase (⭐14)](https://github.com/miriti/ase) - File format reader/writer for .ase/.aseprite without external dependencies.
-*   [flxgif (⭐8)](https://github.com/MAJigsaw77/flxgif) - Yagp's Gif Player for HaxeFlixel.
+*   [ase (⭐15)](https://github.com/miriti/ase) - File format reader/writer for .ase/.aseprite without external dependencies.
+*   [flxgif (⭐10)](https://github.com/MAJigsaw77/flxgif) - Yagp's Gif Player for HaxeFlixel.
 
 ### Miscellaneous / Audio
 
@@ -113,36 +123,35 @@ Resources for game development on haxe
 
 ### Miscellaneous / Collision
 
-*   [differ (⭐156)](https://github.com/snowkit/differ) - A separation axis theorem collision library.
+*   [differ (⭐158)](https://github.com/snowkit/differ) - A separation axis theorem collision library.
 
 ### Miscellaneous / Computer Vision
 
-*   [Vision (⭐32)](https://github.com/ShaharMS/Vision) - Cross platform computer vision library.
+*   [Vision (⭐34)](https://github.com/ShaharMS/Vision) - Cross platform computer vision library.
 
 ### Miscellaneous / Data structures
 
-*   [polygonal-ds (⭐339)](https://github.com/polygonal/ds) - Data structures for games.
+*   [polygonal-ds (⭐341)](https://github.com/polygonal/ds) - Data structures for games.
 
 ### Miscellaneous / Editor
 
-*   [flixel-studio (⭐92)](https://github.com/Dovyski/flixel-studio) - In-game editor for HaxeFlixel.
+*   [flixel-studio (⭐98)](https://github.com/Dovyski/flixel-studio) - In-game editor for HaxeFlixel.
 
 ### Miscellaneous / Helpers
 
-*   [deepnightLibs (⭐205)](https://github.com/deepnight/deepnightLibs) - General gamedev purpose libs.
-    |Procedural generation|[Dungeon builder (⭐63)](https://github.com/julsam/dungeon-builder) - A set of dungeon generation algorithm (works w/ hx4 w/ minor changes).
+*   [deepnightLibs (⭐215)](https://github.com/deepnight/deepnightLibs) - General gamedev purpose libs.
 
 ### Miscellaneous / Localization
 
-*   [firetongue (⭐140)](https://github.com/larsiusprime/firetongue) - A translation/localization framework.
+*   [firetongue (⭐142)](https://github.com/larsiusprime/firetongue) - A translation/localization framework.
 
 ### Miscellaneous / Map parser
 
 *   [PyxelEdit Map Importer (⭐33)](https://github.com/Dvergar/PyxelEdit-Map-Importer) - Parser for maps generated by the editor PyxelEdit.
 *   Heaps - Built-in parser for Tiled.
 *   HaxeFlixel - Parser for Tiled & Ogmo.
-*   [LEd (⭐81)](https://github.com/deepnight/led-haxe-api) - 2D level editor with a typed compile time loader.
-*   [TiledHX (⭐6)](https://github.com/yanrishatum/tiledhx) - A comprehensive modern Tiled parser.
+*   [LEd (⭐83)](https://github.com/deepnight/led-haxe-api) - 2D level editor with a typed compile time loader.
+*   [TiledHX (⭐8)](https://github.com/yanrishatum/tiledhx) - A comprehensive modern Tiled parser.
 
 ### Miscellaneous / Math helpers
 
@@ -152,7 +161,7 @@ Resources for game development on haxe
 
 ### Miscellaneous / Modding
 
-*   [polymod (⭐138)](https://github.com/larsiusprime/polymod) - An atomic modding framework for games/apps.
+*   [polymod (⭐147)](https://github.com/larsiusprime/polymod) - An atomic modding framework for games/apps.
 
 ### Miscellaneous / Particles
 
@@ -160,7 +169,7 @@ Resources for game development on haxe
 
 ### Miscellaneous / Monetization
 
-*   [extension-iap (⭐8)](https://github.com/charmdev/extension-iap) - Provides an access to in-app purchases (iOS) and in-app billing (Android) for OpenFL projects using a common API. Fork of [this (⭐69)](https://github.com/HaxeExtension/extension-iap).
+*   [extension-iap (⭐8)](https://github.com/charmdev/extension-iap) - Provides an access to in-app purchases (iOS) and in-app billing (Android) for OpenFL projects using a common API. Fork of [this (⭐71)](https://github.com/HaxeExtension/extension-iap).
 
 ### Miscellaneous / Pathfinding
 
@@ -169,7 +178,7 @@ Resources for game development on haxe
 
 ### Miscellaneous / Shaders
 
-*   [HGSL (⭐120)](https://github.com/saharan/HGSL) - Haxe to GL Shading Language.
+*   [HGSL (⭐131)](https://github.com/saharan/HGSL) - Haxe to GL Shading Language.
 *   [parasol (⭐14)](https://github.com/47rooks/parasol) - HaxeFlixel library of shaders.
 
 ### Miscellaneous / Sprite
@@ -178,24 +187,24 @@ Resources for game development on haxe
 
 ### Miscellaneous / Texture Packer
 
-*   [hxpk (⭐45)](https://github.com/bendmorris/hxpk) - Port of the libGDX Texture Packer.
+*   [hxpk (⭐46)](https://github.com/bendmorris/hxpk) - Port of the libGDX Texture Packer.
 
 ### Miscellaneous / Tweening
 
-*   [actuate (⭐148)](https://github.com/jgranick/actuate) - A flexible, fast "tween" library.
+*   [actuate (⭐150)](https://github.com/jgranick/actuate) - A flexible, fast "tween" library.
 *   [YATL (⭐16)](https://github.com/Yanrishatum/yatl) - Yet Another (Haxe) Tweening Library.
 *   [TweenX/TweenXCore (⭐89)](https://github.com/shohei909/tweenx) - Tween library.
 
 ### Miscellaneous / UI
 
-*   [domkit (⭐73)](https://github.com/ncannasse/domkit) - CSS Components based strictly typed UI framework.
-*   [flixel-ui (⭐149)](https://github.com/HaxeFlixel/flixel-ui) - GUI library for HaxeFlixel.
+*   [domkit (⭐77)](https://github.com/ncannasse/domkit) - CSS Components based strictly typed UI framework.
+*   [flixel-ui (⭐158)](https://github.com/HaxeFlixel/flixel-ui) - GUI library for HaxeFlixel.
 *   [HaxeUI](http://haxeui.org/) - UI library with multiple framework backends (HTML5, Kha, OpenFL, PixiJS, WxWidgets, and a number of others as works in progress).
 *   [Feathers UI](https://feathersui.com/) - Cross-platform graphical user interface components for creative frontend projects.
 
 ### Miscellaneous / Video
 
-*   [hxCodec (⭐97)](https://github.com/polybiusproxy/hxCodec) - Adds native video playback on HaxeFlixel and OpenFL.
+*   [hxCodec (⭐104)](https://github.com/polybiusproxy/hxCodec) - Adds native video playback on HaxeFlixel and OpenFL.
 
 ## [Jun 03 - Jun 09, 2019](/content/2019/22/README.md)
 
@@ -205,12 +214,12 @@ Resources for game development on haxe
 *   [HaxeFlixel showcase](https://haxeflixel.com/showcase/)
 *   [itch.io showcase](https://itch.io/games/made-with-haxe)
 *   [HaxePunk showcase](https://haxepunk.com/games/)
-*   [Flambe showcase (⭐740)](https://github.com/aduros/flambe/wiki/Showcase)
+*   [Flambe showcase (⭐739)](https://github.com/aduros/flambe/wiki/Showcase)
 *   [Kha showcase (⭐1.4k)](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha)
 
 ### Other haxe lists / Video
 
-*   [awesome haxe (⭐83)](https://github.com/nadako/awesome-haxe)
+*   [awesome haxe (⭐84)](https://github.com/nadako/awesome-haxe)
 *   [awesome snowkit (⭐118)](https://github.com/anissen/awesome-snowkit)
 *   [awesome haxe js (⭐28)](https://github.com/MatthijsKamstra/awesome-haxe-js)
 
