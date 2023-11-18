@@ -192,26 +192,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [OpenMessaging (⭐282) (⭐281)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
-#### [18. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
-
-##### Customization
-
-*   [Bash completion](https://forum.qubes-os.org/docs?topic=13304) - How to install bash completion for Qubes OS commands.
-*   [Qubes-Scripts (⭐5)](https://github.com/Willy-JL/Qubes-Scripts) - Collection of custom scripts for Qubes OS.
-
-#### [19. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+#### [18. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ##### Payments & Pricing
 
 *   [OpenMeter](https://openmeter.io/) - Open-source usage metering for billing and chargeback.
 
-#### [20. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+#### [19. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ##### Programming Languages / [Other](#other-1)
 
 *   [SonarDelphi (⭐21)](https://github.com/integrated-application-development/sonar-delphi) — Delphi static analyzer for the SonarQube code quality platform.
 
-#### [21. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+#### [20. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ##### Notification
 
@@ -221,7 +214,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [cmdk](https://cmdk.paco.me/) - Fast, composable, unstyled command menu for React.
 
-#### [22. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+#### [21. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ##### Plugins & Libraries
 
@@ -231,13 +224,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   Escaper: Run - [IOS](https://apps.apple.com/tr/app/escaper-run/id6450519372?platform=iphone) - Dodge the bombs. Test your reflexes! By [A. Can Algan](https://github.com/acalgan)
 
-#### [23. Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md)
+#### [22. Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md)
 
 ##### Datasets / Raw Images
 
 *   [The Cell Painting Gallery](https://broad.io/CellPaintingGallery) - The Cell Painting Gallery is a collection of image datasets created using the Cell Painting assay (or similar); it is maintained by the Carpenter--Singh lab at the Broad Institute.
 
-#### [24. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+#### [23. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ##### AI
 
@@ -275,20 +268,20 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [.NET Conf: Full stack web UI with Blazor in .NET 8](https://www.youtube.com/watch?v=YwZdtLEtROA) - ![duration](https://img.shields.io/badge/Duration:%20-56%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 15, 2023 - In .NET 8 you can deliver the best web app experiences entirely in Blazor using Blazor's convenient component model. You can build your entire web app in Blazor without the needed for writing JavaScript or mixing web frameworks. In this session you'll see how you can use Blazor's new server-side rendering support to power your web apps from the server for maximum performance and scalability. You'll see how you can easily add advanced capabilities like streaming rendering and enhanced navigation & form handling to further optimize the user experience. Then add rich client-side interactivity wherever it is needed using Blazor Server or Blazor WebAssembly.
 *   [Building Hybrid User Interfaces with Blazor Hybrid \[Pt 4\] | Blazor Hybrid for Beginners](https://www.youtube.com/watch?v=pWDf1AnJ4ds) - ![duration](https://img.shields.io/badge/Duration:%20-19%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 10, 2023 - Let's start to build out a full application with Blazor Hybrid inside of .NET MAUI. Join James as he walks through building out a full to do application with web components.
 
-#### [25. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [24. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Utilities / Productivity
 
 *   [BoltAI](https://boltai.com) - A beautiful & powerful ChatGPT app for Mac. Stay ahead by integrating AI into your workflow today.
 *   [PDF Pals](https://pdfpals.com) - Chat with PDF app for Mac. No file size limits!
 
-#### [26. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+#### [25. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ##### Projects
 
 *   [TelePi (⭐0)](https://github.com/besoeasy/telepi) - Telepi allows you to monitor and control your Raspberry Pi via Telegram featuring file downloads, system monitoring, network insights, speed tests, and the ability to open web tunnels.
 
-#### [27. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+#### [26. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ##### Design Assistant
 
@@ -302,7 +295,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Keploy](https://www.keploy.io/) - A  developer-centric backend testing tool which makes backend tests with built-in-mocks faster than unit tests, from user traffic, making it easy to use, powerful, and extensible. `#opensource`
 
-#### [28. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+#### [27. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ##### Strategy
 
@@ -316,7 +309,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 | ------: | -------: | -----: |
 |   2 - 4 |       13 | 30-45m |
 
-#### [29. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [28. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### Graph databases
 
@@ -326,7 +319,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [lisp-binary (⭐80)](https://github.com/j3pic/lisp-binary) - A library to easily read and write complex binary formats. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
-#### [30. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+#### [29. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ##### Algorithms and Data Structures
 
@@ -344,13 +337,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [atdgen (⭐279)](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
 
-#### [31. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [30. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Concepts / AI Concept Representation
 
 *   [Metabolic activity organizes olfactory representations](https://elifesciences.org/articles/82502) - ***eLife***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8857896396450033667\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐15)](https://github.com/osmoai/publications/tree/main/qian_et_al_2023)]. Odorous compounds with similar POM representations are more likely to co-occur within a substance and be metabolically closely related; metabolic reaction sequences also follow smooth paths in POM despite large jumps in molecular structure.
 
-#### [32. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [31. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Libraries/Packages/Scripts / R
 
@@ -360,7 +353,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Library of the week 13 : Polars with Python](https://www.youtube.com/watch?v=kv7rqHgX20w) ⏳ 15 min - A video that presents Polars with Python by [@enarroied](https://github.com/enarroied). Article supplied with the video [in this page](https://python.plainenglish.io/library-of-the-week-13-polars-fd1398a8841b).
 
-#### [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [32. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### (requires Neovim 0.5)
 
@@ -379,7 +372,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [jyscao/ventana.nvim (⭐8)](https://github.com/jyscao/ventana.nvim) - Convenient flips & shifts for your windows layout.
 
-#### [34. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+#### [33. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ##### Components
 
@@ -389,7 +382,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [LDRS (⭐1.1k)](https://github.com/GriffinJohnston/ldrs) - Lightweight, customizable loading animations/spinners.
 
-#### [35. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+#### [34. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ##### Component Libraries
 
@@ -403,14 +396,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [@web-types/lit](https://www.npmjs.com/package/@web-types/lit) - Attribute completion for HTML inside of tagged template literals.
 
-#### [36. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+#### [35. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ##### PlayCanvas
 
 *   [SuperSplat](https://playcanvas.com/super-splat) - 3D Gassuian Splat Editor.
 *   [Texture Tool](https://playcanvas.com/texture-tool) - Tool for reprojecting textures.
 
-#### [37. Awesome Django](/content/wsvincent/awesome-django/README.md)
+#### [36. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ##### Resources / Community
 
@@ -423,31 +416,31 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Django Jobs](https://djangojobs.net) - Django jobs posting for hiring Django Python developers.
 *   [Python.org Job Boards](https://www.python.org/jobs/) - While not exclusively for Django, this job board is hosted by the official Python website and features a range of Python and Django-related job opportunities.
 
-#### [38. Awesome V](/content/vlang/awesome-v/README.md)
+#### [37. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Utility
 
 *   [votp (⭐8)](https://github.com/OdaiGH/votp) - TOTP and HOTP implementation in v.
 
-#### [39. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [38. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### Firmware projects / WIP
 
 *   [LuLuu (⭐4)](https://github.com/fu5ha/luluu): Firmware for a custom RP2040-based display controller which streams animated images from a microSD card to a small LCD display.
 
-#### [40. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+#### [39. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
 
 ##### JavaScript
 
 *   [20 Min JS](https://20minjs.com) - Agustinus Theodorus, Chris Bongers, Mark Volkmann, et al. (podcast)
 
-#### [41. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+#### [40. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ##### SQL / Über SQL
 
 *   [MAT Calcite plugin (⭐136)](https://github.com/vlsi/mat-calcite-plugin) - This plugin for Eclipse Memory Analyzer allows to query heap dump via SQL.
 
-#### [42. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [41. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -466,7 +459,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [simpl (⭐0)](https://github.com/MrNeoTr1n0/simplzshell) - Minimalist theme focusing on elegance and simplicity. Decorators for root status, current directory and `git` status.
 *   [zshiggy (⭐0)](https://github.com/malouro/zshiggy) - Includes decorators for `git` status, `node.js` version.
 
-#### [43. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+#### [42. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ##### Video Game Assets / Material Assets
 
@@ -476,7 +469,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   🆓 [Pmndrs Market (⭐242)](https://github.com/pmndrs/market) - Collection of public domain models.
 
-#### [44. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/README.md)
+#### [43. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/README.md)
 
 ##### Miscellaneous / Dialogues
 
@@ -486,7 +479,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Dungeon builder (⭐64)](https://github.com/julsam/dungeon-builder) - A set of dungeon generation algorithm (works w/ hx4 w/ minor changes).
 
-#### [45. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [44. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### Email
 
@@ -504,7 +497,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [BBEdit](https://www.barebones.com/) - BBEdit is a popular and extensible editor for macOS. Free Mode provides a [powerful core feature set](https://www.barebones.com/products/bbedit/comparison.html) and an upgrade path to advanced features.
 
-#### [46. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [45. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Automation
 
@@ -549,64 +542,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Otter Wiki (⭐31)](https://github.com/redimp/otterwiki) - Simple, easy to use wiki software using markdown. `MIT` `Docker`
 
-#### [47. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
-
-##### Ethics, Philosophical questions and Discussions about Generative AI
-
-*   [Hito Steyerl, Mean Images, NLR 140/141, March–June 2023](https://newleftreview.org/issues/ii140/articles/hito-steyerl-mean-images)
-*   [The copyright conundrum of AI art - The Verge](https://www.theverge.com/23961021/ai-art-copyright-training-ownership-fair-use)
-
-##### Critical Views about Generative AI
-
-*   [The Short-Term Effects of Generative Artificial Intelligence on Employment: Evidence from an Online Labor Market by Xiang Hui, Oren Reshef, Luofeng Zhou :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527336)
-
-##### Generative AI Tools Directories
-
-*   [ainave](https://www.ainave.com): "navigate the world of AI with ease", curated AI Tools and AI News
-
-##### Courses and Educational Materials
-
-*   [Book: Understanding Deep Learning](https://udlbook.github.io/udlbook/): website with the book draft and Google Colabs of the book by Simon J.D. Prince
-*   [List of Generative AI Learning resources from AWS and Google](https://www.linkedin.com/posts/aagarwal29_generativeai-learn-aws-activity-7081761811129118720-i128/): list organized as a LinkedIn post by Ankit Agarwal
-
-##### Large Language Models (LLMs)
-
-*   [vectara/hallucination-leaderboard (⭐274)](https://github.com/vectara/hallucination-leaderboard): "leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
-*   [\[2311.01555\] Instruction Distillation Makes Large Language Models Efficient Zero-shot Rankers](https://arxiv.org/abs/2311.01555)
-
-##### Prompt Engineering
-
-*   [\[2311.05661\] Prompt Engineering a Prompt Engineer](https://arxiv.org/abs/2311.05661): this paper deals with the problem of "constructing a meta-prompt that more effectively guides LLMs to perform automatic prompt engineering"
-*   [\[2311.04155\] Black-Box Prompt Optimization: Aligning Large Language Models without Model Training](https://arxiv.org/abs/2311.04155)
-
-##### Running LLMs Locally / Prompt Engineering for Text-to-image
-
-*   [GPT4All](https://gpt4all.io/index.html): A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
-*   [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs
-*   [ggerganov/llama.cpp (⭐44k)](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
-
-##### GPTs and Assistant API / Prompt Engineering for Text-to-image
-
-*   [AllGPTs](https://allgpts.co/): a directory to find GPTs
-
-##### LLM Evaluation / Multi-agents
-
-*   [\[2305.16938\] Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation](https://arxiv.org/abs/2305.16938)
-
-##### LangChain / Multi-agents
-
-*   [LangChain Cheatsheet](https://pub.towardsai.net/langchain-cheatsheet-all-secrets-on-a-single-page-8be26b721cde): All Secrets on a Single Page | by Ivan Reznikov | Nov, 2023 | Towards AI
-*   [LangChain Template: Research Assistant (⭐68k)](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant)
-
-##### Image Segmentation / Deforum
-
-*   [An early look our AI Music experiment - YouTube Blog](https://blog.youtube/inside-youtube/ai-and-music-experiment/)
-
-##### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [tldraw/draw-a-ui (⭐373)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
-
-#### [48. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [46. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Misc
 
@@ -699,7 +635,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-#### [49. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+#### [47. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ##### Stub packages
 
@@ -709,7 +645,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [useful-types (⭐41)](https://github.com/hauntsaninja/useful_types) - Collection of useful protocols and type aliases.
 
-#### [50. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [48. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications
 
@@ -718,6 +654,88 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Applications / System tools
 
 *   [lodosgroup/lpm (⭐51)](https://github.com/lodosgroup/lpm) — An experimental system package manager
+
+#### [49. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+
+##### Server Plugins / Building
+
+*   [LuckPerms](https://luckperms.net/) - Manage permissions.
+*   [CoreProtect (⭐491)](https://github.com/PlayPro/CoreProtect) - Log everything your players do. Literally 1984.
+
+##### Softwares / Utilities
+
+*   [Amulet (⭐1.5k)](https://github.com/Amulet-Team/Amulet-Map-Editor) - Map viewer/editor.
+*   [NBTEditor (⭐66)](https://github.com/Howaner/NBTEditor) - Edit NBT from .dat files.
+
+#### [50. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+
+##### Templates
+
+*   [Pentesting: PTF (⭐4.8k)](https://github.com/trustedsec/ptf) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
+*   [Qvm-Create-Windows-Qube (⭐305)](https://github.com/ElliotKillick/qvm-create-windows-qube) - Qvm-Create-Windows-Qube is a tool for quickly and conveniently installing fresh new Windows qubes with Qubes Windows Tools (QWT) drivers automatically.
+
+##### Customization
+
+*   [Bash completion](https://forum.qubes-os.org/docs?topic=13304) - How to install bash completion for Qubes OS commands.
+*   [Qubes-Scripts (⭐5)](https://github.com/Willy-JL/Qubes-Scripts) - Collection of custom scripts for Qubes OS.
+
+#### [51. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+##### Ethics, Philosophical questions and Discussions about Generative AI
+
+*   [Hito Steyerl, Mean Images, NLR 140/141, March–June 2023](https://newleftreview.org/issues/ii140/articles/hito-steyerl-mean-images)
+*   [The copyright conundrum of AI art - The Verge](https://www.theverge.com/23961021/ai-art-copyright-training-ownership-fair-use)
+
+##### Critical Views about Generative AI
+
+*   [This new data poisoning tool lets artists fight back against generative AI | MIT Technology Review](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/)
+*   [The Short-Term Effects of Generative Artificial Intelligence on Employment: Evidence from an Online Labor Market by Xiang Hui, Oren Reshef, Luofeng Zhou :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527336)
+
+##### Generative AI Tools Directories
+
+*   [ainave](https://www.ainave.com): "navigate the world of AI with ease", curated AI Tools and AI News
+
+##### Courses and Educational Materials
+
+*   [Book: Understanding Deep Learning](https://udlbook.github.io/udlbook/): website with the book draft and Google Colabs of the book by Simon J.D. Prince
+*   [List of Generative AI Learning resources from AWS and Google](https://www.linkedin.com/posts/aagarwal29_generativeai-learn-aws-activity-7081761811129118720-i128/): list organized as a LinkedIn post by Ankit Agarwal
+
+##### Large Language Models (LLMs)
+
+*   [vectara/hallucination-leaderboard (⭐274)](https://github.com/vectara/hallucination-leaderboard): "leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
+*   [\[2311.01555\] Instruction Distillation Makes Large Language Models Efficient Zero-shot Rankers](https://arxiv.org/abs/2311.01555)
+
+##### Prompt Engineering
+
+*   [\[2311.05661\] Prompt Engineering a Prompt Engineer](https://arxiv.org/abs/2311.05661): this paper deals with the problem of "constructing a meta-prompt that more effectively guides LLMs to perform automatic prompt engineering"
+*   [\[2311.04155\] Black-Box Prompt Optimization: Aligning Large Language Models without Model Training](https://arxiv.org/abs/2311.04155)
+
+##### Running LLMs Locally / Prompt Engineering for Text-to-image
+
+*   [GPT4All](https://gpt4all.io/index.html): A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
+*   [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs
+*   [ggerganov/llama.cpp (⭐44k)](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
+
+##### GPTs and Assistant API / Prompt Engineering for Text-to-image
+
+*   [AllGPTs](https://allgpts.co/): a directory to find GPTs
+
+##### LLM Evaluation / Multi-agents
+
+*   [\[2305.16938\] Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation](https://arxiv.org/abs/2305.16938)
+
+##### LangChain / Multi-agents
+
+*   [LangChain Cheatsheet](https://pub.towardsai.net/langchain-cheatsheet-all-secrets-on-a-single-page-8be26b721cde): All Secrets on a Single Page | by Ivan Reznikov | Nov, 2023 | Towards AI
+*   [LangChain Template: Research Assistant (⭐68k)](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant)
+
+##### Image Segmentation / Deforum
+
+*   [An early look our AI Music experiment - YouTube Blog](https://blog.youtube/inside-youtube/ai-and-music-experiment/)
+
+##### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+
+*   [tldraw/draw-a-ui (⭐373)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
 
 ---
 
@@ -1104,7 +1122,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md) - ([Source ⭐ 70, 📝 11&#x2F;15 ](https://github.com/Billiam/awesome-ironsworn)) - An awesome list of awesome Ironsworn projects
 - [Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md) - ([Source ⭐ 772, 📝 07&#x2F;16 ](https://github.com/rafaskb/awesome-libgdx)) - 🎮 📝 A curated list of libGDX resources to help developers make awesome games.
 - [Awesome Love2d](/content/love2d-community/awesome-love2d/README.md) - ([Source ⭐ 2.8K, 📝 09&#x2F;25 ](https://github.com/love2d-community/awesome-love2d)) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
-- [Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md) - ([Source ⭐ 348, 📝 09&#x2F;28 ](https://github.com/bs-community/awesome-minecraft)) - 📝 The curated list of awesome things related to Minecraft.
+- [Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md) - ([Source ⭐ 361, 📝 11&#x2F;18 ](https://github.com/bs-community/awesome-minecraft)) - 📝 The curated list of awesome things related to Minecraft.
 - [Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md) - ([Source ⭐ 958, 📝 07&#x2F;30 ](https://github.com/michelpereira/awesome-open-source-games)) - Collection of Games that have the source code available on GitHub
 - [Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md) - ([Source ⭐ 2.4K, 📝 10&#x2F;16 ](https://github.com/pico-8/awesome-PICO-8)) - A curated list of awesome PICO-8 resources, carts, tools and more
 - [Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md) - ([Source ⭐ 227, 📝 11&#x2F;17 ](https://github.com/playcanvas/awesome-playcanvas)) - A curated list of awesome PlayCanvas assets, resources, and more.
@@ -1263,7 +1281,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md) - ([Source ⭐ 1.4K, 📝 06&#x2F;06 ](https://github.com/roaldnefs/awesome-prometheus)) - A curated list of awesome Prometheus resources, projects and tools.
 - [Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/README.md) - ([Source ⭐ 45, 📝 22&#x2F;07&#x2F;14 ](https://github.com/make-github-pseudonymous-again/awesome-qr-code)) - A curated list of awesome QR code libraries, software and resources
 - [Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md) - ([Source ⭐ 2K, 📝 08&#x2F;18 ](https://github.com/woop/awesome-quantified-self)) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
-- [Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md) - ([Source ⭐ 57, 📝 11&#x2F;14 ](https://github.com/xn0px90/Awesome-Qubes-OS)) - A curated list of awesome qubes os links
+- [Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md) - ([Source ⭐ 57, 📝 11&#x2F;18 ](https://github.com/xn0px90/Awesome-Qubes-OS)) - A curated list of awesome qubes os links
 - [Awesome Radio](/content/kyleterry/awesome-radio/README.md) - ([Source ⭐ 191, 📝 18&#x2F;06&#x2F;01 ](https://github.com/kyleterry/awesome-radio)) - Awesome radio stuff
 - [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 16K, 📝 11&#x2F;05 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
 - [Awesome Research](/content/emptymalei/awesome-research/README.md) - ([Source ⭐ 1.7K, 📝 08&#x2F;15 ](https://github.com/emptymalei/awesome-research)) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]  

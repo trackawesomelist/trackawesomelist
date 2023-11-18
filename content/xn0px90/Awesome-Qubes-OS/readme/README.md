@@ -61,7 +61,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     *   [How-to guides](#how-to-guides)
     *   [Templates](#templates)
     *   [VM-Hardening](#vm-hardening)
-    *   [Customization](#desktop-customization)
+    *   [Customization](#customization)
     *   [GPU](#gpu)
     *   [Clearnet & Anonymous Networking](#clearnet--anonymous-networking)
         *   [Wireguard](#wireguard)
@@ -165,10 +165,11 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Multimedia template](https://forum.qubes-os.org/t/configuring-a-multimedia-templatevm/19055) - Configuring a “Multimedia” TemplateVM
 *   [Pentesting: BlackArch (⭐252)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/blackarch.md) - BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
 *   [Pentesting: Kali (⭐252)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/kali.md) - How to create a Kali Linux VM.
-*   [Pentesting: PTF (⭐252)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/ptf.md) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
+*   [Pentesting: PTF (⭐4.8k)](https://github.com/trustedsec/ptf) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
 *   [Template: Windows (⭐252)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md) - Simple Windows install
 *   [Windows Qubes](https://www.qubes-os.org/doc/windows/) - Like any other unmodified OSes, Windows can be installed in Qubes as an HVM domain.
-*   [Tails OS](https://forum.qubes-os.org/docs?topic=19012) - Tails stands for The Amnesic Incognito Live System. It is a live operating system that aims to preserve your privacy and anonymity.
+*   [Qvm-Create-Windows-Qube (⭐305)](https://github.com/ElliotKillick/qvm-create-windows-qube) - Qvm-Create-Windows-Qube is a tool for quickly and conveniently installing fresh new Windows qubes with Qubes Windows Tools (QWT) drivers automatically.
+*   [Tails OS](https://forum.qubes-os.org/docs?topic=19012) - Tails stands for The Amnesic Incognito Live System. It is a live operating system that aims to preserve your privacy and anonymit.
 *   [Templates](https://www.qubes-os.org/doc/templates/) - In Getting Started, we covered the distinction in Qubes OS between where you install your software and where you run your software.
 *   [Template implementation](https://www.qubes-os.org/doc/template-implementation/) - Describes template implementation.
 *   [Template manager](https://www.qubes-os.org/doc/template-manager/) -  A template manager application.

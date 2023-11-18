@@ -15,6 +15,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Critical Views about Generative AI
 
+*   [This new data poisoning tool lets artists fight back against generative AI | MIT Technology Review](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/)
 *   [The Short-Term Effects of Generative Artificial Intelligence on Employment: Evidence from an Online Labor Market by Xiang Hui, Oren Reshef, Luofeng Zhou :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527336)
 
 ### Generative AI Tools Directories

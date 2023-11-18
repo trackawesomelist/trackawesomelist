@@ -1,12 +1,31 @@
 # Awesome List Updates on Nov 18, 2023
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [1. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+
+### Templates
+
+*   [Pentesting: PTF (⭐4.8k)](https://github.com/trustedsec/ptf) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
+*   [Qvm-Create-Windows-Qube (⭐305)](https://github.com/ElliotKillick/qvm-create-windows-qube) - Qvm-Create-Windows-Qube is a tool for quickly and conveniently installing fresh new Windows qubes with Qubes Windows Tools (QWT) drivers automatically.
+
+## [2. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+
+### Server Plugins / Building
+
+*   [LuckPerms](https://luckperms.net/) - Manage permissions.
+*   [CoreProtect (⭐491)](https://github.com/PlayPro/CoreProtect) - Log everything your players do. Literally 1984.
+
+### Softwares / Utilities
+
+*   [Amulet (⭐1.5k)](https://github.com/Amulet-Team/Amulet-Map-Editor) - Map viewer/editor.
+*   [NBTEditor (⭐66)](https://github.com/Howaner/NBTEditor) - Edit NBT from .dat files.
+
+## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
@@ -16,7 +35,7 @@
 
 *   [lodosgroup/lpm (⭐51)](https://github.com/lodosgroup/lpm) — An experimental system package manager
 
-## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -105,17 +124,18 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Critical Views about Generative AI
 
+*   [This new data poisoning tool lets artists fight back against generative AI | MIT Technology Review](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/)
 *   [The Short-Term Effects of Generative Artificial Intelligence on Employment: Evidence from an Online Labor Market by Xiang Hui, Oren Reshef, Luofeng Zhou :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527336)
 
 ### LangChain / Multi-agents
 
 *   [LangChain Cheatsheet](https://pub.towardsai.net/langchain-cheatsheet-all-secrets-on-a-single-page-8be26b721cde): All Secrets on a Single Page | by Ivan Reznikov | Nov, 2023 | Towards AI
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
@@ -144,7 +164,7 @@
 *   [ESMira](https://esmira.kl.ac.at) - Run longitudinal studies (ESM, AA, EMA) with data collection and communication with participants being completely anonymous. ([Demo](https://demo-esmira.kl.ac.at/#admin,username:demo,password:demodemodemo), [Source Code (⭐4)](https://github.com/KL-Psychological-Methodology/ESMira)) `AGPL-3.0` `PHP`
 *   [LanguageTool](https://languagetool.org/) - Proofread more than 20 languages. It finds many errors that a simple spell checker cannot detect. ([Source Code (⭐10k)](https://github.com/languagetool-org/languagetool), [Clients](https://languagetool.org/insights/post/product-windows-app/)) `LGPL-2.1` `Java/Docker`
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
@@ -154,7 +174,7 @@
 
 *   [Hop](https://hop.io/) — Web services hosting platform without configs. Free tier with 1x Shared CPU, 512MB RAM and 3GB Storage.
 
-## [6. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/README.md)
+## [8. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/README.md)
 
 ### Miscellaneous / Dialogues
 
@@ -164,7 +184,7 @@
 
 *   [Dungeon builder (⭐64)](https://github.com/julsam/dungeon-builder) - A set of dungeon generation algorithm (works w/ hx4 w/ minor changes).
 
-## [7. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+## [9. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
 ### Video Game Assets / Material Assets
 
@@ -174,7 +194,7 @@
 
 *   🆓 [Pmndrs Market (⭐242)](https://github.com/pmndrs/market) - Collection of public domain models.
 
-## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -189,13 +209,13 @@
 *   [simpl (⭐0)](https://github.com/MrNeoTr1n0/simplzshell) - Minimalist theme focusing on elegance and simplicity. Decorators for root status, current directory and `git` status.
 *   [zshiggy (⭐0)](https://github.com/malouro/zshiggy) - Includes decorators for `git` status, `node.js` version.
 
-## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [11. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### SQL / Über SQL
 
 *   [MAT Calcite plugin (⭐136)](https://github.com/vlsi/mat-calcite-plugin) - This plugin for Eclipse Memory Analyzer allows to query heap dump via SQL.
 
-## [10. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+## [12. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
 
 ### JavaScript
 

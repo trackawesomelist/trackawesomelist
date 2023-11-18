@@ -8,6 +8,11 @@ A curated list of awesome qubes os links
 
 ## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
 
+### Templates
+
+*   [Pentesting: PTF (⭐4.8k)](https://github.com/trustedsec/ptf) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
+*   [Qvm-Create-Windows-Qube (⭐305)](https://github.com/ElliotKillick/qvm-create-windows-qube) - Qvm-Create-Windows-Qube is a tool for quickly and conveniently installing fresh new Windows qubes with Qubes Windows Tools (QWT) drivers automatically.
+
 ### Customization
 
 *   [Bash completion](https://forum.qubes-os.org/docs?topic=13304) - How to install bash completion for Qubes OS commands.
@@ -28,7 +33,7 @@ A curated list of awesome qubes os links
 *   [Linux HVMs](https://forum.qubes-os.org/docs?topic=19008) - Fixing Linux distro HVMs
 *   [Multimedia template](https://forum.qubes-os.org/t/configuring-a-multimedia-templatevm/19055) - Configuring a “Multimedia” TemplateVM
 *   [Windows Qubes](https://www.qubes-os.org/doc/windows/) - Like any other unmodified OSes, Windows can be installed in Qubes as an HVM domain.
-*   [Tails OS](https://forum.qubes-os.org/docs?topic=19012) - Tails stands for The Amnesic Incognito Live System. It is a live operating system that aims to preserve your privacy and anonymity.
+*   [Tails OS](https://forum.qubes-os.org/docs?topic=19012) - Tails stands for The Amnesic Incognito Live System. It is a live operating system that aims to preserve your privacy and anonymit.
 *   [Shadow qube (⭐3)](https://github.com/kennethrrosen/qubes-shadow-dvm) - The below script will create a Qube, launch the Tor browser, wait for the browser to close, then remove the qube and its RAM pool.
 
 ### VM-Hardening
@@ -377,7 +382,6 @@ A curated list of awesome qubes os links
 *   [Minimal templates](https://www.qubes-os.org/doc/templates/minimal/) - The minimal templates are lightweight versions of their standard template counterparts.
 *   [Pentesting: BlackArch (⭐252)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/blackarch.md) - BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
 *   [Pentesting: Kali (⭐252)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/kali.md) - How to create a Kali Linux VM.
-*   [Pentesting: PTF (⭐252)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/ptf.md) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
 *   [Template: Windows (⭐252)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md) - Simple Windows install
 *   [Templates](https://www.qubes-os.org/doc/templates/) - In Getting Started, we covered the distinction in Qubes OS between where you install your software and where you run your software.
 *   [Template implementation](https://www.qubes-os.org/doc/template-implementation/) - Describes template implementation.
