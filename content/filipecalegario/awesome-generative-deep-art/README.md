@@ -6,11 +6,20 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
-## [Nov 18, 2023](/content/2023/11/18/README.md)
+## [Nov 19, 2023](/content/2023/11/19/README.md)
+
+### Ethics, Philosophical questions and Discussions about Generative AI
+
+*   [Who is Afraid of Frankenstein? And of Generative AI? | Fast Company Brasil](https://fastcompanybrasil.com/tech/inteligencia-artificial/quem-tem-medo-do-frankenstein-e-da-ia-generativa/) \[PT-BR]
 
 ### Critical Views about Generative AI
 
 *   [This new data poisoning tool lets artists fight back against generative AI | MIT Technology Review](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/)
+
+## [Nov 18, 2023](/content/2023/11/18/README.md)
+
+### Critical Views about Generative AI
+
 *   [The Short-Term Effects of Generative Artificial Intelligence on Employment: Evidence from an Online Labor Market by Xiang Hui, Oren Reshef, Luofeng Zhou :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527336)
 
 ### LangChain / Multi-agents
@@ -177,7 +186,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Large Language Models (LLMs)
 
-*   [cpacker/MemGPT (⭐5.5k)](https://github.com/cpacker/MemGPT): teaching LLMs memory management for unbounded context [\[demo page\]](https://memgpt.ai/) [\[arxiv\]](https://arxiv.org/abs/2310.08560)
+*   [cpacker/MemGPT (⭐6.2k)](https://github.com/cpacker/MemGPT): teaching LLMs memory management for unbounded context [\[demo page\]](https://memgpt.ai/) [\[arxiv\]](https://arxiv.org/abs/2310.08560)
 *   [\[2307.10169\] Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169): a systematic set of open problems and application successes of LLM area
 *   [Related resources from around the web | OpenAI Cookbook](https://cookbook.openai.com/articles/related_resources): tools and papers for improving outputs from GPT
 

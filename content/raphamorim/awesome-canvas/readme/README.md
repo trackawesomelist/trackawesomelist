@@ -2,7 +2,7 @@
 
 A curated list of awesome HTML5 Canvas with examples, related articles and posts.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/raphamorim/awesome-canvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 raphamorim/awesome-canvas](https://github.com/raphamorim/awesome-canvas) · ⭐ 1.3K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/raphamorim/awesome-canvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 raphamorim/awesome-canvas](https://github.com/raphamorim/awesome-canvas) · ⭐ 1.4K · 🏷️ Front-End Development
 
 [ [Daily](/content/raphamorim/awesome-canvas/README.md) / [Weekly](/content/raphamorim/awesome-canvas/week/README.md) / Overview ]
 
@@ -12,11 +12,11 @@ A curated list of awesome HTML5 Canvas with examples, related articles and posts
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python (⭐155k)](https://github.com/vinta/awesome-python).
+A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python (⭐186k)](https://github.com/vinta/awesome-python).
 
 ## Contributing
 
-Please take a quick gander at the [contribution guidelines (⭐1.3k)](https://github.com/raphamorim/awesome-canvas/blob/master/CONTRIBUTING.md) first.
+Please take a quick gander at the [contribution guidelines (⭐1.4k)](https://github.com/raphamorim/awesome-canvas/blob/master/CONTRIBUTING.md) first.
 
 ## Summary
 
@@ -49,13 +49,13 @@ Please take a quick gander at the [contribution guidelines (⭐1.3k)](https://gi
 *   [Canvas Loader](http://cssdeck.com/labs/full/4do6cnjm) \[[show me the code](http://cssdeck.com/labs/4do6cnjm)] • Reference to make loaders using canvas.
 *   [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) \[[show me the code](http://cssdeck.com/labs/zeaklousedit)] • A great example about how to create circular rings using canvas.
 *   [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended) • Thid demo renders a 3d model of Apple iPod with sphere environmental mapping technique.
-*   [Cloth Effect](http://raphamorim.io/canvas-experiments/cloth) \[[show me the code (⭐43)](https://github.com/raphamorim/canvas-experiments)] • A cloth 3D effect fork.
-*   [Colorful Particles](http://raphamorim.io/canvas-experiments/particles) \[[show me the code (⭐43)](https://github.com/raphamorim/canvas-experiments)] • Experiment show how to generates random particles. Very simple code for assimilate.
-*   [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) \[[show me the code (⭐203)](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)] • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.
-*   [Draw Table](http://raphamorim.io/canvas-experiments/draw) - \[[show me the code (⭐43)](https://github.com/raphamorim/canvas-experiments)] • A simple example about events using canvas.
+*   [Cloth Effect](http://raphamorim.io/canvas-experiments/cloth) \[[show me the code (⭐46)](https://github.com/raphamorim/canvas-experiments)] • A cloth 3D effect fork.
+*   [Colorful Particles](http://raphamorim.io/canvas-experiments/particles) \[[show me the code (⭐46)](https://github.com/raphamorim/canvas-experiments)] • Experiment show how to generates random particles. Very simple code for assimilate.
+*   [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) \[[show me the code (⭐205)](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)] • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.
+*   [Draw Table](http://raphamorim.io/canvas-experiments/draw) - \[[show me the code (⭐46)](https://github.com/raphamorim/canvas-experiments)] • A simple example about events using canvas.
 *   [Fibrous Texture](http://cssdeck.com/labs/full/fibrous) \[[show me the code](http://cssdeck.com/labs/fibrous)] • Simple canvas based animation; draws random lines across the field. Makes an interesting papery pattern that becomes increasingly detailed with each iteration.
 *   [Image Nodes](http://cssdeck.com/labs/full/image-nodes) \[[show me the code](http://cssdeck.com/labs/image-nodes)] • Interactive nodes built from image data. Use the mouse to play.
-*   [Inception](http://raphamorim.io/canvas-experiments/inception) \[[show me the code (⭐43)](https://github.com/raphamorim/canvas-experiments)] • Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie
+*   [Inception](http://raphamorim.io/canvas-experiments/inception) \[[show me the code (⭐46)](https://github.com/raphamorim/canvas-experiments)] • Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie
 *   [JS Metaballs](http://cssdeck.com/labs/full/js-metaballs) \[[show me the code](http://cssdeck.com/labs/js-metaballs)] • Experiment for Chrome. Mix of webkit-filter and canvas for a metaballs effect.
 *   [Just Canvas](http://raphamorim.io/just-canvas/) \[[show me the code (⭐13)](https://github.com/raphamorim/just-canvas)]• This is a JavaScript experiment to capture movements. Just Dance Idea + HTML5 Canvas Implementation.
 *   [Linjer](http://lab.hakim.se/linjer/) • Amazing experiment about nodes effects in addition with cloth and animation effect.
@@ -68,13 +68,13 @@ Please take a quick gander at the [contribution guidelines (⭐1.3k)](https://gi
 *   [Particles.js](http://codepen.io/VincentGarreau/full/pnlso/) \[[show me the code](http://codepen.io/VincentGarreau/pen/pnlso)] • Beautiful particles created using canvas.
 *   [Ping Pong Game](http://cssdeck.com/labs/full/ping-pong-game-tutorial-with-html5-canvas-and-sounds) \[[show me the code](http://cssdeck.com/labs/ping-pong-game-tutorial-with-html5-canvas-and-sounds)] • Besides being a good example, it also is a tutorial about game made with canvas.
 *   [Pirates Love Daisies](http://www.pirateslovedaisies.com/) • A entire game created using canvas
-*   [PixelCraft (⭐956)](https://github.com/rgab1508/PixelCraft) • A pixel-art editor made using canvas
-*   [Raining Day](http://raphamorim.io/raining-day/) \[[show me the code (⭐43)](https://github.com/raphamorim/canvas-experiments)] • Raindrops using canvas. It's Neatnait Canvas Rain fork.
+*   [PixelCraft (⭐1.1k)](https://github.com/rgab1508/PixelCraft) • A pixel-art editor made using canvas
+*   [Raining Day](http://raphamorim.io/raining-day/) \[[show me the code (⭐46)](https://github.com/raphamorim/canvas-experiments)] • Raindrops using canvas. It's Neatnait Canvas Rain fork.
 *   [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/) • Amazing example about line movement and animation.
 *   [Star Time Lapse Effect](https://fralonra.github.io/star-time-lapse/demo/) \[[show me the code (⭐6)](https://github.com/fralonra/star-time-lapse)] • An example about creating a star time-lapse sky using canvas.
 *   [Tree in the Breeze](http://cssdeck.com/labs/full/fjqj6ifd) \[[show me the code](http://cssdeck.com/labs/fjqj6ifd)] • Demo about generating 2D trees in canvas.
-*   [Trigonoparty!](https://ramesaliyev.com/trigonoparty) \[[show me the code (⭐480)](https://github.com/ramesaliyev/trigonoparty)] • Simple trigonometry visualisation.
-*   [tsParticles examples](https://codepen.io/tv/DPOage) Collection of [tsParticles (⭐4.8k)](https://github.com/matteobruni/tsparticles) particles animations samples
+*   [Trigonoparty!](https://ramesaliyev.com/trigonoparty) \[[show me the code (⭐488)](https://github.com/ramesaliyev/trigonoparty)] • Simple trigonometry visualisation.
+*   [tsParticles examples](https://codepen.io/tv/DPOage) Collection of [tsParticles (⭐6k)](https://github.com/matteobruni/tsparticles) particles animations samples
 *   [Video Destruction](http://www.craftymind.com/factory/html5video/CanvasVideo.html) • Block based destruction of HTML5 video, best viewed in webkit based browsers.
 *   [Wipers](http://cssdeck.com/labs/full/oluh99m6) \[[show me the code](http://cssdeck.com/labs/oluh99m6)] • Wipers receiving life with canvas.
 *   [3D Lorenz Atractor](http://cssdeck.com/labs/full/3d-lorenz-atractor) \[[show me the code](http://cssdeck.com/labs/3d-lorenz-atractor)] • A simple canvas example showing a Lorenz atractor
@@ -87,16 +87,17 @@ Please take a quick gander at the [contribution guidelines (⭐1.3k)](https://gi
 ### To draw using canvas
 
 *   [Akihabara](http://www.kesiev.com/akihabara/) is HTML5 games library for making pixel based games using Javascript and the canvas tag.
+*   [Chart.js (⭐62k)](https://github.com/chartjs/Chart.js) is a lightweight JavaScript library for creating dynamic and visually appealing charts using the HTML5 Canvas element.
 *   [ChemDoodle](http://web.chemdoodle.com/) is an open source chemistry and chem-informatics toolkit where canvas is being used to solve common chemistry related tasks, displaying the molecules in a variety of different ways.
-*   [d3 (⭐104k)](https://github.com/d3/d3) (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
+*   [d3 (⭐107k)](https://github.com/d3/d3) (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
 *   [EaselJS](https://createjs.com/easeljs) is a JavaScript library that makes working with the HTML5 Canvas element easy. Useful for creating games, generative art, and other highly graphical experiences. EaselJS is part of CreateJS - a modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.
 *   [fabric.js](http://fabricjs.com) provides interactive object model on top of canvas element
     and also has SVG-to-canvas (and canvas-to-SVG) parser
-*   [iio.js (⭐455)](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
+*   [iio.js (⭐457)](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
 *   [isomerjs](http://jdan.github.io/isomer/) - An isometric graphics library for HTML5 canvas
-*   [Javascript-Voronoi (⭐953)](https://github.com/gorhill/Javascript-Voronoi) - A Javascript implementation of Fortune's algorithm to compute Voronoi cells
-*   [Konva (⭐8.7k)](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
-*   [Origami.js (⭐757)](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
+*   [Javascript-Voronoi (⭐981)](https://github.com/gorhill/Javascript-Voronoi) - A Javascript implementation of Fortune's algorithm to compute Voronoi cells
+*   [Konva (⭐10k)](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
+*   [Origami.js (⭐765)](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
 *   [p5.js](https://p5js.org) - p5.js is a JS client-side library for creating graphic and interactive experiences
 *   [Paper.js (⭐14k)](https://github.com/paperjs/paper.js) - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
 *   [Pencil.js](https://pencil.js.org/) - Nice modular Javascript library with clear OOP syntaxe and lots of features.
@@ -104,7 +105,7 @@ Please take a quick gander at the [contribution guidelines (⭐1.3k)](https://gi
 *   [Processingjs](http://ejohn.org/blog/processingjs/) is a data visualization programming language.
     *   [Overview](http://ejohn.org/blog/overview-of-processing/)
     *   [91 basic demos](http://ejohn.org/apps/processing.js/examples/basic/)
-*   [Proton (⭐2.2k)](https://github.com/a-jie/Proton) is a lightweight and powerful javascript particle engine. With it you can easily create countless cool effects
+*   [Proton (⭐2.3k)](https://github.com/a-jie/Proton) is a lightweight and powerful javascript particle engine. With it you can easily create countless cool effects
 *   [Pts.js](https://ptsjs.org) - Pts is a javascript library for visualization and creative-coding.
 *   [Rough.js](https://roughjs.com/) - Rough.js is a graphics library that lets you draw in a sketchy, hand-drawn-like, style
 *   [Scrawl-canvas](https://scrawl-v8.rikweb.org.uk/) - easily add multiple responsive, accessible and interactive \<canvas> elements to a web page
@@ -113,9 +114,10 @@ Please take a quick gander at the [contribution guidelines (⭐1.3k)](https://gi
     *   [Introduction](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene)
     *   [Some amazing examples](http://threejs.org/examples/)
 *   [tsParticles](https://particles.matteobruni.it/) is a lightweight library for creating easily particles animations. It includes ready to use components for the most used Javascript frameworks (ReactJS, VueJS, Angular, etc.)
-*   [Visualize (⭐353)](https://github.com/filamentgroup/jQuery-Visualize) is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
-*   [zDog (⭐9.6k)](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
-*   [zrender (⭐5.5k)](https://github.com/ecomfe/zrender) - A lightweight canvas library which providing 2d draw for Apache ECharts (incubating)
+*   [Visualize (⭐354)](https://github.com/filamentgroup/jQuery-Visualize) is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
+*   [zDog (⭐10k)](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
+*   [ZIM](https://zimjs.com/) - ZIM is a general Canvas Framework with simple, powerful JavaScript that lets everyone, from beginners to professionals, code creativity.
+*   [zrender (⭐5.8k)](https://github.com/ecomfe/zrender) - A lightweight canvas library which providing 2d draw for Apache ECharts (incubating)
 
 ### For other purposes, but still use canvas
 
@@ -144,7 +146,7 @@ Where to discover more about Canvas.
 ### Twitter
 
 *   [@jeresig](https://twitter.com/jeresig) - Creator of [Processing.js (⭐1.7k)](https://github.com/jeresig/processing-js)
-*   [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js (⭐89k)](https://github.com/mrdoob/three.js)
+*   [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js (⭐96k)](https://github.com/mrdoob/three.js)
 *   [@soulwire](https://twitter.com/soulwire) - Creator of [sketch.js (⭐4k)](https://github.com/soulwire/sketch.js) and actively creating and sharing canvas/WebGL experiments
 *   [@spielzeugz](https://twitter.com/spielzeugz) - Actively creating and sharing canvas experiments
 *   [@paul\_irish](https://twitter.com/paul_irish) - Active contributor and write a [reference post about requestAnimationFrame](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)

@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 19, 2023](/content/2023/11/19/README.md)
+
+### Programming Languages Support / Diagnostics
+
+*   [simaxme/java.nvim (⭐2)](https://github.com/simaxme/java.nvim) - Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in nvim-tree).
+
 ## [Nov 17, 2023](/content/2023/11/17/README.md)
 
 ### Split and Window / Diagnostics
