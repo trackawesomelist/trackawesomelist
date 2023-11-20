@@ -8,33 +8,6 @@ A curated list of awesome qubes os links
 
 ---
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\&G?~~^^~~?G&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#5!^::^^^^::^!YB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#P7^:::^^^^^^^^^^:::^75#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\&G?~~:::^^^^^^^^^^^^^^^^^^:::~~?P&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\&BJ!^::^^^^^^^^^^^^::^^^^^^^^^^^^::^~~JG&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@#5!^:::^^^^^^^^^^^:::~~77~~^::^^^^^^^^^^^^::^!Y#@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@J^::^^^^^^^^^^^:::^7P#@@@@\&P?~~:::^^^^^^^^^^:::^Y@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@G!7!!~~^^^^^^^::^!Y#@@@@@@@@@@@@#57^::^^^^^^~~!?Y5YB@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@G!77777!\~\~^:~~JB&@@@@@@@@@@@@@@@@@@\&BY~~^^!?J55555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!Y@@@@@@@@@@@@@@@@@@@@@@@@@@PY55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@\&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@\&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@\&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@\&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@\&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!G@@@@@@@@@@@@@@@@@@@@@@@@@@\&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!?#@@@@@@@@@@@@@@@@@@@@@@@@\&P555555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@G!777777777!!7YB&@@@@@@@@@@@@@@@@@#GP55555555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@#!!7777777777!!!!?5#&@@@@@@@@@\&BP5YY555555555555Y#@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@#J!!!!7777777777!!!7JP#&@\&BP5YY5555555555555Y5P#@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@\&BY?!!!77777777777!!!7Y5Y5555555555555555G#&@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\&GJ7!!!77777777777Y55555555555555555P#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#PJ7!!!7777777Y555555555555555555Y5PG#@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\&B5?!!!!777Y5555Y55YY555555555555YY5&@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\&BY?!!!Y555G#&@#GP555555555555P#@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#GPB#&@@@@@@@@\&BP55555PG#&@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
                 _                                    ___      __                 ___  ___
                /_\__ __ _____ ___ ___ _ __  ___     /   \ _  _| |__  ___ ___    / _ \/ __|
               / _ \ V  V / -_|_-</ _ \ '  \/ -_)   | (_) | || | '_ \/ -_|_-<   | (_) \__ \
@@ -163,9 +136,9 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Linux HVMs](https://forum.qubes-os.org/docs?topic=19008) - Fixing Linux distro HVMs
 *   [Minimal templates](https://www.qubes-os.org/doc/templates/minimal/) - The minimal templates are lightweight versions of their standard template counterparts.
 *   [Multimedia template](https://forum.qubes-os.org/t/configuring-a-multimedia-templatevm/19055) - Configuring a “Multimedia” TemplateVM
-*   [Pentesting: BlackArch (⭐252)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/blackarch.md) - BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
-*   [Pentesting: Kali (⭐252)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/kali.md) - How to create a Kali Linux VM.
-*   [Pentesting: PTF (⭐4.9k)](https://github.com/trustedsec/ptf) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
+*   [Pentesting: BlackArch](https://forum.qubes-os.org/t/blackarch-templatevm/19010) - BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
+*   [Pentesting: Kali](https://forum.qubes-os.org/t/creating-a-kali-linux-templatevm/1907) - How to create a Kali Linux VM.
+*   [Pentesting: PTF](https://forum.qubes-os.org/t/penetration-testers-framework-ptf-templatevm/19011) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
 *   [Template: Windows (⭐252)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md) - Simple Windows install
 *   [Windows Qubes](https://www.qubes-os.org/doc/windows/) - Like any other unmodified OSes, Windows can be installed in Qubes as an HVM domain.
 *   [Qvm-Create-Windows-Qube (⭐306)](https://github.com/ElliotKillick/qvm-create-windows-qube) - Qvm-Create-Windows-Qube is a tool for quickly and conveniently installing fresh new Windows qubes with Qubes Windows Tools (QWT) drivers automatically.

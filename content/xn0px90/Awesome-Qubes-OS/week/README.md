@@ -6,11 +6,18 @@ A curated list of awesome qubes os links
 
 [ [Daily](/content/xn0px90/Awesome-Qubes-OS/README.md) / Weekly / [Overview](/content/xn0px90/Awesome-Qubes-OS/readme/README.md) ]
 
+## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
+
+### Templates
+
+*   [Pentesting: BlackArch](https://forum.qubes-os.org/t/blackarch-templatevm/19010) - BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
+*   [Pentesting: Kali](https://forum.qubes-os.org/t/creating-a-kali-linux-templatevm/1907) - How to create a Kali Linux VM.
+*   [Pentesting: PTF](https://forum.qubes-os.org/t/penetration-testers-framework-ptf-templatevm/19011) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
+
 ## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
 
 ### Templates
 
-*   [Pentesting: PTF (⭐4.9k)](https://github.com/trustedsec/ptf) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
 *   [Qvm-Create-Windows-Qube (⭐306)](https://github.com/ElliotKillick/qvm-create-windows-qube) - Qvm-Create-Windows-Qube is a tool for quickly and conveniently installing fresh new Windows qubes with Qubes Windows Tools (QWT) drivers automatically.
 
 ### Customization
@@ -380,8 +387,6 @@ A curated list of awesome qubes os links
 *   [Debian templates](https://www.qubes-os.org/doc/templates/debian/) - The Debian template is an officially supported template in Qubes OS.
 *   [Fedora templates](https://www.qubes-os.org/doc/templates/fedora/) - The Fedora template is the default template in Qubes OS.
 *   [Minimal templates](https://www.qubes-os.org/doc/templates/minimal/) - The minimal templates are lightweight versions of their standard template counterparts.
-*   [Pentesting: BlackArch (⭐252)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/blackarch.md) - BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
-*   [Pentesting: Kali (⭐252)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/kali.md) - How to create a Kali Linux VM.
 *   [Template: Windows (⭐252)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md) - Simple Windows install
 *   [Templates](https://www.qubes-os.org/doc/templates/) - In Getting Started, we covered the distinction in Qubes OS between where you install your software and where you run your software.
 *   [Template implementation](https://www.qubes-os.org/doc/template-implementation/) - Describes template implementation.

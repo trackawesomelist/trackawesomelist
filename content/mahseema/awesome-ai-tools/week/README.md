@@ -6,6 +6,13 @@ A curated list of Artificial Intelligence Top Tools
 
 [ [Daily](/content/mahseema/awesome-ai-tools/README.md) / Weekly / [Overview](/content/mahseema/awesome-ai-tools/readme/README.md) ]
 
+## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
+
+### Text / Developer tools
+
+*   [Portkey](https://portkey.ai/) - Full-stack LLMOps platform to monitor, manage, and improve LLM-based apps.
+*   [OpenAI Downtime Monitor](https://status.portkey.ai/) - Free tool that tracks API uptime and latencies for various OpenAI models and other LLM providers.
+
 ## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
 
 ### Text / Search engines
@@ -15,11 +22,6 @@ A curated list of Artificial Intelligence Top Tools
 ### Text / ChatGPT extensions
 
 *   [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - One click to curate AI chatbot, including ChatGPT, Google Bard to improve AI responses.
-
-### Text / Developer tools
-
-*   [Portkey](https://portkey.ai/) - Full-stack LLMOps platform to monitor, manage, and improve LLM-based apps.
-*   [OpenAI Downtime Monitor](https://status.portkey.ai/) - Free tool that tracks API uptime and latencies for various OpenAI models and other LLM providers.
 
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 

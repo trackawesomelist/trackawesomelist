@@ -6,7 +6,7 @@ A curated list of Artificial Intelligence Top Tools
 
 [ Daily / [Weekly](/content/mahseema/awesome-ai-tools/week/README.md) / [Overview](/content/mahseema/awesome-ai-tools/readme/README.md) ]
 
-## [Nov 19, 2023](/content/2023/11/19/README.md)
+## [Nov 20, 2023](/content/2023/11/20/README.md)
 
 ### Text / Developer tools
 

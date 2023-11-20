@@ -6,7 +6,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
-## [Nov 19, 2023](/content/2023/11/19/README.md)
+## [Nov 20, 2023](/content/2023/11/20/README.md)
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 

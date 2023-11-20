@@ -2,9 +2,15 @@
 
 A curated list of code katas
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/gamontal/awesome-katas/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) · ⭐ 2.3K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/gamontal/awesome-katas/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) · ⭐ 2.4K · 🏷️ Miscellaneous
 
 [ [Daily](/content/gamontal/awesome-katas/README.md) / Weekly / [Overview](/content/gamontal/awesome-katas/readme/README.md) ]
+
+## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
+
+### Others
+
+*   [Parrot Refactoring Kata (⭐96)](https://github.com/emilybache/Parrot-Refactoring-Kata)
 
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
@@ -17,8 +23,8 @@ A curated list of code katas
 ### Others
 
 *   [Refactoring Golf Kata (⭐48)](https://github.com/daviddenton/refactoring-golf)
-*   [Promotion Text Kata (⭐1)](https://github.com/nealhu/promotion-text-kata)
-*   [Args Kata (⭐0)](https://github.com/nealhu/args-kata)
+*   [Promotion Text Kata (⭐0)](https://github.com/nealhu/promotion-text-kata)
+*   [Args Kata (⭐1)](https://github.com/nealhu/args-kata)
 
 ## [Sep 07 - Sep 13, 2020](/content/2020/36/README.md)
 
@@ -42,17 +48,17 @@ A curated list of code katas
 
 ### Others
 
-*   [Gilded Rose - Many languages (⭐2.8k)](https://github.com/emilybache/GildedRose-Refactoring-Kata)
-*   [Gilded Rose Original - C# (⭐368)](https://github.com/NotMyself/GildedRose)
+*   [Gilded Rose - Many languages (⭐3.3k)](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+*   [Gilded Rose Original - C# (⭐376)](https://github.com/NotMyself/GildedRose)
 
 ## [Oct 28 - Nov 03, 2019](/content/2019/43/README.md)
 
 ### Others
 
-*   [The Goose Game Kata (⭐9)](https://github.com/xpeppers/goose-game-kata)
+*   [The Goose Game Kata (⭐8)](https://github.com/xpeppers/goose-game-kata)
 *   [Salary slip kata (⭐17)](https://github.com/sandromancuso/salaryslipkata)
-*   [RPG Game kata (⭐655)](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md)
-*   [Train Reservation kata (⭐112)](https://github.com/emilybache/KataTrainReservation)
+*   [RPG Game kata (⭐681)](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md)
+*   [Train Reservation kata (⭐111)](https://github.com/emilybache/KataTrainReservation)
 *   [Password-strength Checker TDD Kata (⭐6)](https://github.com/xpepper/PasswordStrengthChecker)
 
 ## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
@@ -66,7 +72,7 @@ A curated list of code katas
 
 ### Others
 
-*   [The Quantum Katas (⭐4.3k)](https://github.com/Microsoft/QuantumKatas)
+*   [The Quantum Katas (⭐4.4k)](https://github.com/Microsoft/QuantumKatas)
 
 ## [Oct 29 - Nov 04, 2018](/content/2018/44/README.md)
 
@@ -78,7 +84,7 @@ A curated list of code katas
 
 ### Others
 
-*   [Opening Hours Kata (⭐9)](https://github.com/christian-fei/opening-hours-kata)
+*   [Opening Hours Kata (⭐7)](https://github.com/christian-fei/opening-hours-kata)
 
 ## [Aug 06 - Aug 12, 2018](/content/2018/32/README.md)
 
@@ -90,26 +96,26 @@ A curated list of code katas
 
 ### Others
 
-*   [Git katas (⭐950)](https://github.com/praqma-training/gitkatas)
+*   [Git katas (⭐1.1k)](https://github.com/praqma-training/gitkatas)
 
 ## [Mar 19 - Mar 25, 2018](/content/2018/12/README.md)
 
 ### Others
 
-*   [CLI Arguments Parser Kata (⭐6)](https://github.com/ivoputzer/cli-args-parser-kata)
+*   [CLI Arguments Parser Kata (⭐5)](https://github.com/ivoputzer/cli-args-parser-kata)
 
 ## [Nov 13 - Nov 19, 2017](/content/2017/46/README.md)
 
 ### Others
 
 *   [Functional Structures Refactoring Kata (⭐31)](https://github.com/matteobaglini/functional-structures-refactoring-kata)
-*   [incremental\_katas (⭐63)](https://github.com/Gianfrancoalongi/incremental_katas)
+*   [incremental\_katas (⭐62)](https://github.com/Gianfrancoalongi/incremental_katas)
 
 ## [Sep 25 - Oct 01, 2017](/content/2017/39/README.md)
 
 ### Others
 
-*   [Tell don't ask kata (⭐26)](https://github.com/gabrieletondi/tell-dont-ask-kata)
+*   [Tell don't ask kata (⭐27)](https://github.com/gabrieletondi/tell-dont-ask-kata)
 
 ## [Sep 18 - Sep 24, 2017](/content/2017/38/README.md)
 
@@ -117,7 +123,7 @@ A curated list of code katas
 
 *   [The OCP Kata](http://matteo.vaccari.name/blog/archives/293)
 *   [The Birthday Greetings Kata](http://matteo.vaccari.name/blog/archives/154)
-*   [Social Networking Kata (⭐33)](https://github.com/sandromancuso/social_networking_kata)
+*   [Social Networking Kata (⭐31)](https://github.com/sandromancuso/social_networking_kata)
 
 ## [Jul 11 - Jul 17, 2016](/content/2016/28/README.md)
 
@@ -133,7 +139,7 @@ A curated list of code katas
 
 ### Others
 
-*   [Racing Car Katas (⭐260)](https://github.com/emilybache/Racing-Car-Katas)
+*   [Racing Car Katas (⭐273)](https://github.com/emilybache/Racing-Car-Katas)
 
 ## [Jan 18 - Jan 24, 2016](/content/2016/3/README.md)
 
@@ -193,31 +199,31 @@ A curated list of code katas
 
 ### [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas)
 
-*   [Alphabet Cipher (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher)
-*   [Card game War (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/card-game-war)
-*   [Doublets (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/doublets)
-*   [Fox Goose Bag of Corn (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn)
-*   [Magic Square (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/magic-square)
-*   [Tiny Maze (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/tiny-maze)
-*   [Wonderland Number (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/wonderland-number)
+*   [Alphabet Cipher (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher)
+*   [Card game War (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/card-game-war)
+*   [Doublets (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/doublets)
+*   [Fox Goose Bag of Corn (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn)
+*   [Magic Square (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/magic-square)
+*   [Tiny Maze (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/tiny-maze)
+*   [Wonderland Number (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/wonderland-number)
 
 ### [Gaurav Arora's TDD Katas Collection](https://github.com/garora/TDD-Katas)
 
-*   [String Sum Kata (⭐707)](https://github.com/garora/TDD-Katas#string-sum-kata)
-*   [String Calculator Kata (⭐707)](https://github.com/garora/TDD-Katas#string-calculator-kata-via-roy-osherove)
-*   [The Bowling Game Kata (⭐707)](https://github.com/garora/TDD-Katas#the-bowling-game-kata-via-uncle-bob)
-*   [The FizzBuzz Kata (⭐707)](https://github.com/garora/TDD-Katas#the-fizzbuzz-kata)
-*   [The OddEven Kata (⭐707)](https://github.com/garora/TDD-Katas#the-oddeven-kata)
-*   [The PrimeFactor Kata (⭐707)](https://github.com/garora/TDD-Katas#the-primefactor-kata-via-uncle-bob)
-*   [Game of Life (⭐707)](https://github.com/garora/TDD-Katas#game-of-life-)
-*   [Harry Potter (⭐707)](https://github.com/garora/TDD-Katas#harry-potter-)
-*   [LCD Digits (⭐707)](https://github.com/garora/TDD-Katas#lcd-digits-)
-*   [Leap Year (⭐707)](https://github.com/garora/TDD-Katas#leap-year-)
-*   [Mine Fields (⭐707)](https://github.com/garora/TDD-Katas#mine-fields-)
-*   [Poker Hands (⭐707)](https://github.com/garora/TDD-Katas#poker-hands)
-*   [Recently Used List (⭐707)](https://github.com/garora/TDD-Katas#recently-used-list-)
-*   [Reversi (⭐707)](https://github.com/garora/TDD-Katas#reversi-)
-*   [Yehtzee (⭐707)](https://github.com/garora/TDD-Katas#yehtzee-)
+*   [String Sum Kata (⭐714)](https://github.com/garora/TDD-Katas#string-sum-kata)
+*   [String Calculator Kata (⭐714)](https://github.com/garora/TDD-Katas#string-calculator-kata-via-roy-osherove)
+*   [The Bowling Game Kata (⭐714)](https://github.com/garora/TDD-Katas#the-bowling-game-kata-via-uncle-bob)
+*   [The FizzBuzz Kata (⭐714)](https://github.com/garora/TDD-Katas#the-fizzbuzz-kata)
+*   [The OddEven Kata (⭐714)](https://github.com/garora/TDD-Katas#the-oddeven-kata)
+*   [The PrimeFactor Kata (⭐714)](https://github.com/garora/TDD-Katas#the-primefactor-kata-via-uncle-bob)
+*   [Game of Life (⭐714)](https://github.com/garora/TDD-Katas#game-of-life-)
+*   [Harry Potter (⭐714)](https://github.com/garora/TDD-Katas#harry-potter-)
+*   [LCD Digits (⭐714)](https://github.com/garora/TDD-Katas#lcd-digits-)
+*   [Leap Year (⭐714)](https://github.com/garora/TDD-Katas#leap-year-)
+*   [Mine Fields (⭐714)](https://github.com/garora/TDD-Katas#mine-fields-)
+*   [Poker Hands (⭐714)](https://github.com/garora/TDD-Katas#poker-hands)
+*   [Recently Used List (⭐714)](https://github.com/garora/TDD-Katas#recently-used-list-)
+*   [Reversi (⭐714)](https://github.com/garora/TDD-Katas#reversi-)
+*   [Yehtzee (⭐714)](https://github.com/garora/TDD-Katas#yehtzee-)
 *   [The Word Wrap Kata](http://codingdojo.org/cgi-bin/wiki.pl?KataWordWrap)
 
 ### Others
