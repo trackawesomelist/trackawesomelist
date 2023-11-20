@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
+
+### Tunneling, WebRTC, Web Socket Servers and Other Routers
+
+*   [Mirna Sockets](https://mirna.cloud/) - Free Socket as a Service Platform that gives you a wss\:// URL when deploying your Web Socket Server code and also allows you to monitor its performance.
+
+### IDE and Code Editing
+
+*   [WebDB](https://webdb.app) - Free Efficient Database IDE. Featuring Server Discovery, ERD, Data Generator, AI, NoSQL Structure Manager, Database Versioning and many more.
+
 ## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
 
 ### Email

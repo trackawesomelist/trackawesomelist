@@ -8,6 +8,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Nov 20, 2023](/content/2023/11/20/README.md)
 
+### Communications / Pragmatics
+
+*   [From Explicit Communication to Tacit Cooperation: A Novel Paradigm for Cooperative MARL](https://arxiv.org/pdf/2304.14656.pdf) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=12114270828108588849\&hl=en\&as_sdt=0,5)].
+
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 
 *   [From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought](https://arxiv.org/abs/2306.12672) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=13778788929096574993\&hl=en\&as_sdt=0,5)]. Rational meaning construction, a computational framework for language-informed thinking that combines neural language models with probabilistic models for rational inference. Linguistic meaning is framed as a context-sensitive mapping from natural language into a probabilistic language of thought (PLoT)--a general-purpose symbolic substrate for generative world modeling.

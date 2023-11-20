@@ -6,6 +6,47 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 
 [ [Daily](/content/cpuu/awesome-fuzzing/README.md) / Weekly / [Overview](/content/cpuu/awesome-fuzzing/readme/README.md) ]
 
+## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
+
+### Papers / ACM Conference on Computer and Communications Security (ACM CCS)
+
+*   [Fuzz on the Beach: Fuzzing Solana Smart Contracts, 2023](https://arxiv.org/pdf/2309.03006.pdf)
+*   [NestFuzz: Enhancing Fuzzing with Comprehensive Understanding of Input Processing Logic, 2023](https://secsys.fudan.edu.cn/_upload/article/files/56/ed/788960544d56a38258aca7d3c8b5/216e599a-d6f6-4308-aa0b-ef45166a8431.pdf)
+*   [Profile-Driven System Optimizations for Accelerated Greybox Fuzzing, 2023](https://users.cs.utah.edu/~snagy/papers/23CCS.pdf)
+*   [Hopper: Interpretative Fuzzing for Libraries, 2023](https://arxiv.org/pdf/2309.03496.pdf)
+*   [Greybox Fuzzing of Distributed Systems, 2023](https://arxiv.org/pdf/2305.02601.pdf)
+
+### Tools / API
+
+*   [IvySyn](https://gitlab.com/brown-ssl/ivysyn) - IvySyn is a fully-automated framework for discovering memory error vulnerabilities in Deep Learning (DL) frameworks.
+*   [MINER (⭐21)](https://github.com/puppet-meteor/MINER) - MINER is a REST API fuzzer that utilizes three data-driven designs working together to guide the sequence generation, improve the request generation quality, and capture the unique errors caused by incorrect parameter usage.
+*   [RestTestGen (⭐27)](https://github.com/SeUniVr/RestTestGen) - RestTestGen is a robust tool and framework designed for automated black-box testing of RESTful web APIs.
+*   [GraphFuzz (⭐7)](https://github.com/ForAllSecure/GraphFuzz) - GraphFuzz is an experimental framework for building structure-aware, library API fuzzers.
+*   [Minerva (⭐25)](https://github.com/ChijinZ/Minerva) - Minerva is a browser fuzzer augmented by API mod-ref relations, aiming to synthesize highly-relevant browser API invocations in each test case.
+*   [FANS (⭐229)](https://github.com/iromise/fans) - FANS is a fuzzing tool for fuzzing Android native system services. It contains four components: interface collector, interface model extractor, dependency inferer, and fuzzer engine.
+
+### Tools / CPU
+
+*   [DifuzzRTL (⭐59)](https://github.com/compsec-snu/difuzz-rtl) - DifuzzRTL is a differential fuzz testing approach for CPU verification.
+*   [MorFuzz (⭐10)](https://github.com/sycuricon/MorFuzz) - MorFuzz is a generic RISC-V processor fuzzing framework that can efficiently detect software triggerable functional bugs.
+*   [SpecFuzz (⭐28)](https://github.com/tudinfse/SpecFuzz) - SpecFuzz is a tool to enable fuzzing for Spectre vulnerabilities
+*   [Transynther (⭐18)](https://github.com/vernamlab/Medusa) - Transynther automatically generates and tests building blocks for Meltdown attacks with various faults and microcode assists.
+
+### Tools / Web
+
+*   [TEFuzz (⭐5)](https://github.com/seclab-fudan/TEFuzz/) - TEFuzz is a tailored fuzzing-based framework to facilitate the detection and exploitation of template escape bugs.
+*   [Witcher (⭐54)](https://github.com/sefcom/Witcher) - Witcher is a web application fuzzer that utilizes mutational fuzzing to explore web applications and fault escalation to detect command and SQL injection vulnerabilities.
+*   [CorbFuzz (⭐3)](https://github.com/shouc/corbfuzz) - CorbFuzz is a state-aware fuzzer for generating as much reponses from a web application as possible without need of setting up database, etc.
+
+### Tools / Blockchain
+
+*   [Fluffy (⭐44)](https://github.com/snuspl/fluffy) - Fluffy is a multi-transaction differential fuzzer for finding consensus bugs in Ethereum.
+*   [LOKI (⭐7)](https://github.com/ConsensusFuzz/LOKI) - LOKI is a blockchain consensus protocol fuzzing framework that detects the consensus memory related and logic bugs.
+
+### Tools / DBMS
+
+*   [Squirrel (⭐166)](https://github.com/s3team/Squirrel) - Squirrel is a fuzzer for database managment systems (DBMSs).
+
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
 ### Tools / File

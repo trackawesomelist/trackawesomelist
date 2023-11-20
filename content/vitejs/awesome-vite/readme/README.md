@@ -493,6 +493,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [unplugin-info (⭐46)](https://github.com/yjl9903/unplugin-info) - Export build information as a virutal module.
 *   [vite-plugin-auto-origin (⭐0)](https://github.com/s2b/vite-plugin-auto-origin) - Detect origin configuration automatically based on incoming requests to dev server.
 *   [vite-plugin-deadfile (⭐0)](https://github.com/stauren/vite-plugin-deadfile) - Find unused source files in the project.
+*   [vite-bundle-analyzer (⭐33)](https://github.com/nonzzz/vite-bundle-analyzer) - Utility that represents bundles as an interactive treemap.
 
 #### Testing
 
@@ -855,6 +856,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### React
 
 *   [CRA migration guide (⭐57)](https://github.com/nordcloud/pat-frontend-template/blob/master/docs/CRA_MIGRATION_GUIDE.md) - A step-by-step guide for migrating a project from Create React App.
+*   [Viject (⭐9)](https://github.com/bhbs/viject) - One-shot migration tool from Create React App.
 
 ## Projects Using Vite.js
 

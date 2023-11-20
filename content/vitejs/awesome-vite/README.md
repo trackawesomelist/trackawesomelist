@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Nov 20, 2023](/content/2023/11/20/README.md)
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-bundle-analyzer (⭐33)](https://github.com/nonzzz/vite-bundle-analyzer) - Utility that represents bundles as an interactive treemap.
+
+### React / Community
+
+*   [Viject (⭐9)](https://github.com/bhbs/viject) - One-shot migration tool from Create React App.
+
 ## [Nov 15, 2023](/content/2023/11/15/README.md)
 
 ### Framework-agnostic Plugins / Helpers

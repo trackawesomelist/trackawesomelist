@@ -6,6 +6,24 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 20, 2023](/content/2023/11/20/README.md)
+
+### AI / Diagnostics
+
+*   [jpmcb/nvim-llama (⭐24)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
+
+### Syntax / Diagnostics
+
+*   [IndianBoy42/tree-sitter-just (⭐72)](https://github.com/IndianBoy42/tree-sitter-just) - Treesitter grammar for [Justfiles (⭐14k)](https://github.com/casey/just).
+
+### Snippet / Diagnostics
+
+*   [rafamadriz/friendly-snippets (⭐1.3k)](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
+
+### Editing Support / Diagnostics
+
+*   [nat-418/boole.nvim (⭐103)](https://github.com/nat-418/boole.nvim) - Toggle booleans and common string values.
+
 ## [Nov 19, 2023](/content/2023/11/19/README.md)
 
 ### Programming Languages Support / Diagnostics
@@ -62,7 +80,7 @@ Collections of awesome neovim plugins.
 
 ### Search / Diagnostics
 
-*   [duane9/nvim-rg (⭐18)](https://github.com/duane9/nvim-rg) - Run RipGrep asynchronously and see results in a quickfix window.
+*   [duane9/nvim-rg (⭐23)](https://github.com/duane9/nvim-rg) - Run RipGrep asynchronously and see results in a quickfix window.
 
 ### Fuzzy Finder / Diagnostics
 
@@ -70,11 +88,11 @@ Collections of awesome neovim plugins.
 
 ### Color / Diagnostics
 
-*   [miversen33/sunglasses.nvim (⭐37)](https://github.com/miversen33/sunglasses.nvim) - Dynamic Colorscheme/highlight adjuster on window switching.
+*   [miversen33/sunglasses.nvim (⭐42)](https://github.com/miversen33/sunglasses.nvim) - Dynamic Colorscheme/highlight adjuster on window switching.
 
 ### Code Runner / Diagnostics
 
-*   [benlubas/molten-nvim (⭐47)](https://github.com/benlubas/molten-nvim) - Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code.
+*   [benlubas/molten-nvim (⭐72)](https://github.com/benlubas/molten-nvim) - Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code.
 
 ## [Nov 02, 2023](/content/2023/11/02/README.md)
 
@@ -130,11 +148,11 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [vxpm/ferris.nvim (⭐44)](https://github.com/vxpm/ferris.nvim) - Interact with Rust-Analyzer's LSP extensions.
+*   [vxpm/ferris.nvim (⭐59)](https://github.com/vxpm/ferris.nvim) - Interact with Rust-Analyzer's LSP extensions.
 
 ### Terminal Integration / Diagnostics
 
-*   [niuiic/terminal.nvim (⭐5)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
+*   [niuiic/terminal.nvim (⭐6)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
 
 ## [Oct 19, 2023](/content/2023/10/19/README.md)
 
@@ -144,21 +162,21 @@ Collections of awesome neovim plugins.
 
 ### Code Runner / Diagnostics
 
-*   [dasupradyumna/launch.nvim (⭐18)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
+*   [dasupradyumna/launch.nvim (⭐32)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
 
 ## [Oct 18, 2023](/content/2023/10/18/README.md)
 
 ### Plugin Manager
 
-*   [abeldekat/lazyflex.nvim (⭐15)](https://github.com/abeldekat/lazyflex.nvim) - An addon for `folke/lazy.nvim`. Facilitates the testing and troubleshooting of a Neovim configuration.
+*   [abeldekat/lazyflex.nvim (⭐25)](https://github.com/abeldekat/lazyflex.nvim) - An addon for `folke/lazy.nvim`. Facilitates the testing and troubleshooting of a Neovim configuration.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [text-to-colorscheme (⭐227)](https://github.com/svermeulen/text-to-colorscheme) - Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT.
+*   [text-to-colorscheme (⭐233)](https://github.com/svermeulen/text-to-colorscheme) - Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [nvim-lusc (⭐12)](https://github.com/svermeulen/nvim-lusc) - Adds support for Structured Async/Concurrency in Lua.
+*   [nvim-lusc (⭐13)](https://github.com/svermeulen/nvim-lusc) - Adds support for Structured Async/Concurrency in Lua.
 
 ### Motion / Diagnostics
 
@@ -228,7 +246,7 @@ Collections of awesome neovim plugins.
 
 ### Statusline / Diagnostics
 
-*   [MunifTanjim/nougat.nvim (⭐51)](https://github.com/MunifTanjim/nougat.nvim) - Hyperextensible Statusline / Tabline / Winbar.
+*   [MunifTanjim/nougat.nvim (⭐117)](https://github.com/MunifTanjim/nougat.nvim) - Hyperextensible Statusline / Tabline / Winbar.
 
 ## [Oct 03, 2023](/content/2023/10/03/README.md)
 
@@ -299,43 +317,43 @@ Collections of awesome neovim plugins.
 
 ### Utility / Diagnostics
 
-*   [sontungexpt/url-open (⭐18)](https://github.com/sontungexpt/url-open) - Open URLs under the cursor and create highlight effects for them.
+*   [sontungexpt/url-open (⭐28)](https://github.com/sontungexpt/url-open) - Open URLs under the cursor and create highlight effects for them.
 
 ### Terminal Integration / Diagnostics
 
-*   [willothy/wezterm.nvim (⭐72)](https://github.com/willothy/wezterm.nvim) - Functions for interacting with Wezterm.
+*   [willothy/wezterm.nvim (⭐77)](https://github.com/willothy/wezterm.nvim) - Functions for interacting with Wezterm.
 
 ## [Sep 19, 2023](/content/2023/09/19/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [Wansmer/symbol-usage.nvim (⭐94)](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols.
+*   [Wansmer/symbol-usage.nvim (⭐111)](https://github.com/Wansmer/symbol-usage.nvim) - Display references, definitions and implementations of document symbols.
 
 ### Utility / Diagnostics
 
-*   [luckasRanarison/nvim-devdocs (⭐167)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
+*   [luckasRanarison/nvim-devdocs (⭐171)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
 
 ### Editing Support / Diagnostics
 
-*   [chrisgrieser/nvim-puppeteer (⭐45)](https://github.com/chrisgrieser/nvim-puppeteer) - Automatically convert strings to f-strings or template strings and back.
+*   [chrisgrieser/nvim-puppeteer (⭐47)](https://github.com/chrisgrieser/nvim-puppeteer) - Automatically convert strings to f-strings or template strings and back.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [chrisgrieser/nvim-kickstart-python (⭐49)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
+*   [chrisgrieser/nvim-kickstart-python (⭐53)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
 
 ## [Sep 18, 2023](/content/2023/09/18/README.md)
 
 ### Quickfix / Diagnostics
 
-*   [yorickpeterse/nvim-pqf (⭐39)](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows.
+*   [yorickpeterse/nvim-pqf (⭐43)](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows.
 
 ### Session / Diagnostics
 
-*   [coffebar/neovim-project (⭐64)](https://github.com/coffebar/neovim-project) - Declarative project management, automatic saving of sessions, uses Telescope.
+*   [coffebar/neovim-project (⭐75)](https://github.com/coffebar/neovim-project) - Declarative project management, automatic saving of sessions, uses Telescope.
 
 ### Split and Window / Diagnostics
 
-*   [yorickpeterse/nvim-window (⭐26)](https://github.com/yorickpeterse/nvim-window) - Easily jump between Neovim windows.
+*   [yorickpeterse/nvim-window (⭐30)](https://github.com/yorickpeterse/nvim-window) - Easily jump between Neovim windows.
 
 ## [Sep 17, 2023](/content/2023/09/17/README.md)
 
