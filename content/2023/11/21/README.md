@@ -1,24 +1,36 @@
 # Awesome List Updates on Nov 21, 2023
 
-7 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+## [1. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+
+### Templates
+
+*   [audio-qubes](https://forum.qubes-os.org/t/audio-qube/20685) - An audio qube acts as a secure handler for potentially malicious audio devices, preventing them from coming into contact with dom0
+
+## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-font-extractor-plugin (⭐0)](https://github.com/a3mitskevich/vite-font-extractor-plugin) - Utility that minification bundle fonts by glyphs.
+
+## [3. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Resources / Blog posts
 
 *   [Working with DateTime data in Polars](https://medium.com/@riellygriffiths/working-with-datetime-data-in-polars-9bb57e7f6304) - A blog post to helps you with the main operations that can be done with datetime data by [Rielly Griffiths](https://medium.com/@riellygriffiths).
 
-## [2. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [4. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Online services
 
 *   [Testomat.io Reporter (⭐81)](https://github.com/testomatio/reporter) - Allows to collect tests to a Test Case Management System (TCMS) like testomat.io and sync manual and automated tests in one place.
 
-## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Misc
 
@@ -28,13 +40,13 @@
 
 *   [FullscreenPopup (⭐21)](https://github.com/Ryu0118/swift-fullscreen-popup) - Present any popup above NavigationBar in SwiftUI
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Extensions
 
 *   [Kotlin/kotlinx.support (⭐54)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
 
-## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Prompt Engineering
 
@@ -64,17 +76,38 @@
 
 *   [(1166) A Hackers' Guide to Language Models - YouTube](https://www.youtube.com/watch?v=jkrNMKz9pWU\&t=21s)
 
-## [6. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
+## [8. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 
 ### Videos
 
 *   [KubeCon + CloudNativeCon 2020 Keynote: Hiding in the Dark](https://www.youtube.com/watch?v=zSdqHxvB0s4) - by **Dan Kohn** \[07:51]
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### AI / Diagnostics
+
+*   [David-Kunz/gen.nvim (⭐286)](https://github.com/David-Kunz/gen.nvim) - Generate text using LLMs (via Ollama) with customizable prompts.
 
 ### Markdown and LaTeX / Diagnostics
 
 *   [ellisonleao/dotenv.nvim (⭐18)](https://github.com/ellisonleao/dotenv.nvim) - Minimalist .env support.
+
+### Fuzzy Finder / Diagnostics
+
+*   [fdschmidt93/telescope-egrepify.nvim (⭐36)](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Telescope plugin for better `rg` flags in `live_grep`.
+
+### Colorscheme Switchers / Diagnostics
+
+*   [linrongbin16/colorbox.nvim (⭐3)](https://github.com/linrongbin16/colorbox.nvim) - Ultra colors all-in-one! It weekly collect and update the most popurlar colorschemes, install them via git submodules instead of copy-paste source code, and allow you do any switches with multiple policies and timings.
+
+### Motion / Diagnostics
+
+*   [ggandor/flit.nvim (⭐300)](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap.
+*   [ggandor/leap-spooky.nvim (⭐239)](https://github.com/ggandor/leap-spooky.nvim) - Spooky (Leap) actions at a distance.
+
+### Editing Support / Diagnostics
+
+*   [cshuaimin/ssr.nvim (⭐741)](https://github.com/cshuaimin/ssr.nvim) - Treesitter-based structural search and replace.
 
 ---
 

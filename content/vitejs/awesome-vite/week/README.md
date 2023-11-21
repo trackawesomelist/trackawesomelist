@@ -11,6 +11,7 @@
 ### Framework-agnostic Plugins / Helpers
 
 *   [vite-bundle-analyzer (⭐33)](https://github.com/nonzzz/vite-bundle-analyzer) - Utility that represents bundles as an interactive treemap.
+*   [vite-font-extractor-plugin (⭐0)](https://github.com/a3mitskevich/vite-font-extractor-plugin) - Utility that minification bundle fonts by glyphs.
 
 ### React / Community
 

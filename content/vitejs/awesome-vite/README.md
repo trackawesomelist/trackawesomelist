@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Nov 21, 2023](/content/2023/11/21/README.md)
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-font-extractor-plugin (⭐0)](https://github.com/a3mitskevich/vite-font-extractor-plugin) - Utility that minification bundle fonts by glyphs.
+
 ## [Nov 20, 2023](/content/2023/11/20/README.md)
 
 ### Framework-agnostic Plugins / Helpers

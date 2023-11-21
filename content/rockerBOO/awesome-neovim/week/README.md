@@ -11,6 +11,7 @@ Collections of awesome neovim plugins.
 ### AI / Diagnostics
 
 *   [jpmcb/nvim-llama (⭐24)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
+*   [David-Kunz/gen.nvim (⭐286)](https://github.com/David-Kunz/gen.nvim) - Generate text using LLMs (via Ollama) with customizable prompts.
 
 ### Markdown and LaTeX / Diagnostics
 
@@ -24,9 +25,23 @@ Collections of awesome neovim plugins.
 
 *   [rafamadriz/friendly-snippets (⭐1.3k)](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 
+### Fuzzy Finder / Diagnostics
+
+*   [fdschmidt93/telescope-egrepify.nvim (⭐36)](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Telescope plugin for better `rg` flags in `live_grep`.
+
+### Colorscheme Switchers / Diagnostics
+
+*   [linrongbin16/colorbox.nvim (⭐3)](https://github.com/linrongbin16/colorbox.nvim) - Ultra colors all-in-one! It weekly collect and update the most popurlar colorschemes, install them via git submodules instead of copy-paste source code, and allow you do any switches with multiple policies and timings.
+
+### Motion / Diagnostics
+
+*   [ggandor/flit.nvim (⭐300)](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap.
+*   [ggandor/leap-spooky.nvim (⭐239)](https://github.com/ggandor/leap-spooky.nvim) - Spooky (Leap) actions at a distance.
+
 ### Editing Support / Diagnostics
 
 *   [nat-418/boole.nvim (⭐103)](https://github.com/nat-418/boole.nvim) - Toggle booleans and common string values.
+*   [cshuaimin/ssr.nvim (⭐741)](https://github.com/cshuaimin/ssr.nvim) - Treesitter-based structural search and replace.
 
 ## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
 
