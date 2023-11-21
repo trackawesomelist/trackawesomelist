@@ -2,7 +2,7 @@
 
 Resources about public speaking
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/matteofigus/awesome-speaking/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 matteofigus/awesome-speaking](https://github.com/matteofigus/awesome-speaking) · ⭐ 1.3K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/matteofigus/awesome-speaking/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 matteofigus/awesome-speaking](https://github.com/matteofigus/awesome-speaking) · ⭐ 1.5K · 🏷️ Learn
 
 [ [Daily](/content/matteofigus/awesome-speaking/README.md) / [Weekly](/content/matteofigus/awesome-speaking/week/README.md) / Overview ]
 
@@ -47,8 +47,8 @@ A collection of awesome resources about public speaking. Please read the [contri
 
 ## Miscellaneous
 
-*   [Awesome (⭐223k)](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
-*   [Awesome Community (⭐212)](https://github.com/peterkokot/awesome-community) - A collection of awesome communities curated by **Peter Kokot**
+*   [Awesome (⭐278k)](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
+*   [Awesome Community (⭐235)](https://github.com/peterkokot/awesome-community) - A collection of awesome communities curated by **Peter Kokot**
 *   [Public Speaking (⭐1.4k)](https://github.com/vmbrasseur/Public_Speaking) - A collection of resources on presenting at technical conferences by **VM Brasseur**
 
 ## Videos
@@ -61,11 +61,12 @@ A collection of awesome resources about public speaking. Please read the [contri
 *   [Bringing Your Full Voice to Life](https://www.youtube.com/watch?v=Ze763kgrWGg) -  by **Barbara McAfee** \[19:07]
 *   [How I Overcame My Fear of Public Speaking](https://www.youtube.com/watch?v=80UVjkcxGmA) -  by **Danish Dhamani** \[08:36]
 *   [How to speak so that people want to listen](https://www.youtube.com/watch?v=eIho2S0ZahI) -  by **Julian Treasure** \[09:58]
+*   [KubeCon + CloudNativeCon 2020 Keynote: Hiding in the Dark](https://www.youtube.com/watch?v=zSdqHxvB0s4) - by **Dan Kohn** \[07:51]
 
 ## Websites
 
 *   [Speaking.io](http://speaking.io) - Tips for preparing your talk and get ready to deliver it
-*   [awesome-talks (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks
+*   [awesome-talks (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks
 *   [We Are All Awesome!](http://weareallaweso.me/) - a collection of interesting posts about speaking, preparing, motivation, etc
 *   [HelpMeAbstract](http://helpmeabstract.com/) - Get feedback from veteran speakers before you submit your talk.
 *   [Irongeek](https://www.irongeek.com/) - A collection of information security talks.

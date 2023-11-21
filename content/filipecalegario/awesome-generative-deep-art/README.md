@@ -6,6 +6,36 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Nov 21, 2023](/content/2023/11/21/README.md)
+
+### Prompt Engineering
+
+*   [\[2310.04438\] A Brief History of Prompt: Leveraging Language Models](https://arxiv.org/abs/2310.04438): the paper presents an exploration of the evolution of prompt engineering. The author, Golam Md Muktadir, extensively used ChatGPT for content generation
+
+### Critical Views about Generative AI
+
+*   [\[2308.03762\] GPT-4 Can't Reason](https://arxiv.org/abs/2308.03762): "despite the genuinely impressive improvement, there are good reasons to be highly skeptical of GPT-4's ability to reason"
+*   [Risk and Harm: Unpacking Ideologies in the AI Discourse | Proceedings of the 5th International Conference on Conversational User Interfaces](https://dl.acm.org/doi/10.1145/3571884.3603751)
+*   [\[2305.18654\] Faith and Fate: Limits of Transformers on Compositionality](https://arxiv.org/abs/2305.18654)
+*   [\[2210.02667\] A Human Rights-Based Approach to Responsible AI](https://arxiv.org/abs/2210.02667)
+*   [On the Dangers of Stochastic Parrots | Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency](https://dl.acm.org/doi/10.1145/3442188.3445922)
+
+### LLM Evaluation / Multi-agents
+
+*   [\[2311.09247\] Comparing Humans, GPT-4, and GPT-4V On Abstraction and Reasoning Tasks](https://arxiv.org/abs/2311.09247)
+
+### Image Segmentation / Deforum
+
+*   \[[Emu Video | Meta](https://emu-video.metademolab.com/) ]\(<https://emu-video.metademolab.com/demo#/demo>): state-of-the-art text-to-video generation
+*   [Mustango](https://huggingface.co/spaces/declare-lab/mustango): "Toward Controllable Text-to-Music Generation"
+*   [Lyria by Google DeepMind](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/): "transforming the future of music creation"
+*   [Suno AI](https://www.suno.ai/): "make any song you can imagine"
+*   [Stable Audio - Generative AI for music & sound fx](https://www.stableaudio.com/)
+
+### Roadmaps, Tracks, Rails / Deforum
+
+*   [(1166) A Hackers' Guide to Language Models - YouTube](https://www.youtube.com/watch?v=jkrNMKz9pWU\&t=21s)
+
 ## [Nov 19, 2023](/content/2023/11/19/README.md)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI
@@ -60,7 +90,6 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Large Language Models (LLMs)
 
-*   [vectara/hallucination-leaderboard (⭐274)](https://github.com/vectara/hallucination-leaderboard): "leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
 *   [\[2311.01555\] Instruction Distillation Makes Large Language Models Efficient Zero-shot Rankers](https://arxiv.org/abs/2311.01555)
 
 ### Prompt Engineering
@@ -76,6 +105,10 @@ A curated list of Generative AI tools, works, models, and references
 ### GPTs and Assistant API / Prompt Engineering for Text-to-image
 
 *   [AllGPTs](https://allgpts.co/): a directory to find GPTs
+
+### LLM Evaluation / Multi-agents
+
+*   [vectara/hallucination-leaderboard (⭐274)](https://github.com/vectara/hallucination-leaderboard): "leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
@@ -101,7 +134,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
-*   [imartinez/privateGPT (⭐40k)](https://github.com/imartinez/privateGPT): "Interact with your documents using the power of GPT, 100% privately, no data leaks"
+*   [imartinez/privateGPT (⭐43k)](https://github.com/imartinez/privateGPT): "Interact with your documents using the power of GPT, 100% privately, no data leaks"
 
 ## [Nov 09, 2023](/content/2023/11/09/README.md)
 
@@ -1694,7 +1727,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Image Segmentation / Deforum
 
-*   \[🔥🔥🔥] [Riffusion](https://www.riffusion.com/): an app for real-time music generation with stable diffusion
+*   [Riffusion](https://www.riffusion.com/): this AI system generates singing voice for literally any text as input
 
 ## [Dec 15, 2022](/content/2022/12/15/README.md)
 

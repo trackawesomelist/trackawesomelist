@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [jpmcb/nvim-llama (⭐24)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
 
+### Markdown and LaTeX / Diagnostics
+
+*   [ellisonleao/dotenv.nvim (⭐18)](https://github.com/ellisonleao/dotenv.nvim) - Minimalist .env support.
+
 ### Syntax / Diagnostics
 
 *   [IndianBoy42/tree-sitter-just (⭐72)](https://github.com/IndianBoy42/tree-sitter-just) - Treesitter grammar for [Justfiles (⭐14k)](https://github.com/casey/just).

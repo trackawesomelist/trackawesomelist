@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 21, 2023](/content/2023/11/21/README.md)
+
+### Markdown and LaTeX / Diagnostics
+
+*   [ellisonleao/dotenv.nvim (⭐18)](https://github.com/ellisonleao/dotenv.nvim) - Minimalist .env support.
+
 ## [Nov 20, 2023](/content/2023/11/20/README.md)
 
 ### AI / Diagnostics

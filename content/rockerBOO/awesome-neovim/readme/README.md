@@ -236,6 +236,7 @@ Collections of awesome neovim plugins.
 ### Markdown and LaTeX
 
 *   [ellisonleao/glow.nvim (⭐1k)](https://github.com/ellisonleao/glow.nvim) - Markdown preview using glow.
+*   [ellisonleao/dotenv.nvim (⭐18)](https://github.com/ellisonleao/dotenv.nvim) - Minimalist .env support.
 *   [iamcco/markdown-preview.nvim (⭐5.4k)](https://github.com/iamcco/markdown-preview.nvim) - Preview markdown on your modern browser with synchronised scrolling and flexible configuration.
 *   [davidgranstrom/nvim-markdown-preview (⭐98)](https://github.com/davidgranstrom/nvim-markdown-preview) - Markdown preview in the browser using pandoc and live-server through Neovim's job-control API.
 *   [jghauser/auto-pandoc.nvim (⭐28)](https://github.com/jghauser/auto-pandoc.nvim) - Easy pandoc conversion leveraging yaml blocks.

@@ -1,12 +1,70 @@
 # Awesome List Updates on Nov 20 - Nov 26, 2023
 
-12 awesome lists updated this week.
+17 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+
+### Resources / Blog posts
+
+*   [Working with DateTime data in Polars](https://medium.com/@riellygriffiths/working-with-datetime-data-in-polars-9bb57e7f6304) - A blog post to helps you with the main operations that can be done with datetime data by [Rielly Griffiths](https://medium.com/@riellygriffiths).
+
+## [2. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+
+### Online services
+
+*   [Testomat.io Reporter (⭐81)](https://github.com/testomatio/reporter) - Allows to collect tests to a Test Case Management System (TCMS) like testomat.io and sync manual and automated tests in one place.
+
+## [3. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+
+### Misc
+
+*   [MemberwiseInit (⭐23)](https://github.com/gohanlon/swift-memberwise-init-macro) - `@MemberwiseInit` is a Swift Macro that can more often provide your intended `init`, while following the same safe-by-default semantics of Swift’s memberwise initializers.
+
+### Alert / Barcode
+
+*   [FullscreenPopup (⭐21)](https://github.com/Ryu0118/swift-fullscreen-popup) - Present any popup above NavigationBar in SwiftUI
+
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### Prompt Engineering
+
+*   [\[2310.04438\] A Brief History of Prompt: Leveraging Language Models](https://arxiv.org/abs/2310.04438): the paper presents an exploration of the evolution of prompt engineering. The author, Golam Md Muktadir, extensively used ChatGPT for content generation
+
+### Critical Views about Generative AI
+
+*   [\[2308.03762\] GPT-4 Can't Reason](https://arxiv.org/abs/2308.03762): "despite the genuinely impressive improvement, there are good reasons to be highly skeptical of GPT-4's ability to reason"
+*   [Risk and Harm: Unpacking Ideologies in the AI Discourse | Proceedings of the 5th International Conference on Conversational User Interfaces](https://dl.acm.org/doi/10.1145/3571884.3603751)
+*   [\[2305.18654\] Faith and Fate: Limits of Transformers on Compositionality](https://arxiv.org/abs/2305.18654)
+*   [\[2210.02667\] A Human Rights-Based Approach to Responsible AI](https://arxiv.org/abs/2210.02667)
+*   [On the Dangers of Stochastic Parrots | Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency](https://dl.acm.org/doi/10.1145/3442188.3445922)
+
+### LLM Evaluation / Multi-agents
+
+*   [\[2311.09247\] Comparing Humans, GPT-4, and GPT-4V On Abstraction and Reasoning Tasks](https://arxiv.org/abs/2311.09247)
+
+### Image Segmentation / Deforum
+
+*   \[[Emu Video | Meta](https://emu-video.metademolab.com/) ]\(<https://emu-video.metademolab.com/demo#/demo>): state-of-the-art text-to-video generation
+*   [Mustango](https://huggingface.co/spaces/declare-lab/mustango): "Toward Controllable Text-to-Music Generation"
+*   [Lyria by Google DeepMind](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/): "transforming the future of music creation"
+*   [Suno AI](https://www.suno.ai/): "make any song you can imagine"
+*   [Stable Audio - Generative AI for music & sound fx](https://www.stableaudio.com/)
+
+### Roadmaps, Tracks, Rails / Deforum
+
+*   [(1166) A Hackers' Guide to Language Models - YouTube](https://www.youtube.com/watch?v=jkrNMKz9pWU\&t=21s)
+
+## [5. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+
+### Videos
+
+*   [KubeCon + CloudNativeCon 2020 Keynote: Hiding in the Dark](https://www.youtube.com/watch?v=zSdqHxvB0s4) - by **Dan Kohn** \[07:51]
+
+## [6. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Papers / ACM Conference on Computer and Communications Security (ACM CCS)
 
@@ -47,7 +105,7 @@
 
 *   [Squirrel (⭐166)](https://github.com/s3team/Squirrel) - Squirrel is a fuzzer for database managment systems (DBMSs).
 
-## [2. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
@@ -57,7 +115,7 @@
 
 *   [WebDB](https://webdb.app) - Free Efficient Database IDE. Featuring Server Discovery, ERD, Data Generator, AI, NoSQL Structure Manager, Database Versioning and many more.
 
-## [3. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -67,11 +125,15 @@
 
 *   [Viject (⭐9)](https://github.com/bhbs/viject) - One-shot migration tool from Create React App.
 
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
 *   [jpmcb/nvim-llama (⭐24)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
+
+### Markdown and LaTeX / Diagnostics
+
+*   [ellisonleao/dotenv.nvim (⭐18)](https://github.com/ellisonleao/dotenv.nvim) - Minimalist .env support.
 
 ### Syntax / Diagnostics
 
@@ -85,26 +147,26 @@
 
 *   [nat-418/boole.nvim (⭐103)](https://github.com/nat-418/boole.nvim) - Toggle booleans and common string values.
 
-## [5. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
+## [10. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
 ### Archive/abandoned projects / macOS
 
 *   [macOS Defaults (⭐1.2k)](https://github.com/kevinSuttle/macOS-Defaults)
 
-## [6. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [11. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Resources / Community
 
 *   [Directus Extensions](https://directusextensions.com) - A searchable index of Directus extensions, themes, OSes, and more.
 
-## [7. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [12. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Developer tools
 
 *   [Portkey](https://portkey.ai/) - Full-stack LLMOps platform to monitor, manage, and improve LLM-based apps.
 *   [OpenAI Downtime Monitor](https://status.portkey.ai/) - Free tool that tracks API uptime and latencies for various OpenAI models and other LLM providers.
 
-## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Communications / Pragmatics
 
@@ -114,7 +176,7 @@
 
 *   [From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought](https://arxiv.org/abs/2306.12672) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=13778788929096574993\&hl=en\&as_sdt=0,5)]. Rational meaning construction, a computational framework for language-informed thinking that combines neural language models with probabilistic models for rational inference. Linguistic meaning is framed as a context-sensitive mapping from natural language into a probabilistic language of thought (PLoT)--a general-purpose symbolic substrate for generative world modeling.
 
-## [9. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [14. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### GUI / Text-Based User Interfaces
 
@@ -136,7 +198,11 @@
 
 *   [EasyMock (⭐800)](https://github.com/easymock/easymock) - EasyMock is a Java library that provides an easy way to use Mock Objects in unit testing.
 
-## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [15. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Libraries/Frameworks / Extensions
+
+*   [Kotlin/kotlinx.support (⭐54)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
 
 ### Libraries/Frameworks / Graphics
 
@@ -221,7 +287,7 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [11. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [16. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### Templates
 
@@ -229,7 +295,7 @@
 *   [Pentesting: Kali](https://forum.qubes-os.org/t/creating-a-kali-linux-templatevm/1907) - How to create a Kali Linux VM.
 *   [Pentesting: PTF](https://forum.qubes-os.org/t/penetration-testers-framework-ptf-templatevm/19011) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
 
-## [12. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [17. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 

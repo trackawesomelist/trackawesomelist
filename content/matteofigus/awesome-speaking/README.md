@@ -2,9 +2,15 @@
 
 Resources about public speaking
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/matteofigus/awesome-speaking/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 matteofigus/awesome-speaking](https://github.com/matteofigus/awesome-speaking) · ⭐ 1.3K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/matteofigus/awesome-speaking/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 matteofigus/awesome-speaking](https://github.com/matteofigus/awesome-speaking) · ⭐ 1.5K · 🏷️ Learn
 
 [ Daily / [Weekly](/content/matteofigus/awesome-speaking/week/README.md) / [Overview](/content/matteofigus/awesome-speaking/readme/README.md) ]
+
+## [Nov 21, 2023](/content/2023/11/21/README.md)
+
+### Videos
+
+*   [KubeCon + CloudNativeCon 2020 Keynote: Hiding in the Dark](https://www.youtube.com/watch?v=zSdqHxvB0s4) - by **Dan Kohn** \[07:51]
 
 ## [Jun 01, 2022](/content/2022/06/01/README.md)
 
@@ -104,7 +110,7 @@ Resources about public speaking
 
 ### Miscellaneous
 
-*   [Awesome (⭐223k)](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
+*   [Awesome (⭐278k)](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
 
 ## [Mar 29, 2017](/content/2017/03/29/README.md)
 
@@ -138,12 +144,12 @@ Resources about public speaking
 
 ### Miscellaneous
 
-*   [Awesome Community (⭐212)](https://github.com/peterkokot/awesome-community) - A collection of awesome communities curated by **Peter Kokot**
+*   [Awesome Community (⭐235)](https://github.com/peterkokot/awesome-community) - A collection of awesome communities curated by **Peter Kokot**
 
 ### Websites
 
 *   [Speaking.io](http://speaking.io) - Tips for preparing your talk and get ready to deliver it
-*   [awesome-talks (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks
+*   [awesome-talks (⭐5.9k)](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks
 *   [We Are All Awesome!](http://weareallaweso.me/) - a collection of interesting posts about speaking, preparing, motivation, etc
 *   [HelpMeAbstract](http://helpmeabstract.com/) - Get feedback from veteran speakers before you submit your talk.
 
