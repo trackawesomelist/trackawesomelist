@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Nov 22, 2023](/content/2023/11/22/README.md)
+
+### Large Language Models (LLMs)
+
+*   [Poe](https://poe.com/): a platform that lets people ask questions, get instant answers, and have back-and-forth conversations with a wide variety of AI-powered bots
+
 ## [Nov 21, 2023](/content/2023/11/21/README.md)
 
 ### Prompt Engineering

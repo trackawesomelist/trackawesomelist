@@ -20,6 +20,10 @@ A curated list of Generative AI tools, works, models, and references
 *   [\[2210.02667\] A Human Rights-Based Approach to Responsible AI](https://arxiv.org/abs/2210.02667)
 *   [On the Dangers of Stochastic Parrots | Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency](https://dl.acm.org/doi/10.1145/3442188.3445922)
 
+### Large Language Models (LLMs)
+
+*   [Poe](https://poe.com/): a platform that lets people ask questions, get instant answers, and have back-and-forth conversations with a wide variety of AI-powered bots
+
 ### LLM Evaluation / Multi-agents
 
 *   [\[2311.09247\] Comparing Humans, GPT-4, and GPT-4V On Abstraction and Reasoning Tasks](https://arxiv.org/abs/2311.09247)

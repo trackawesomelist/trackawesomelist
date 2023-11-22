@@ -2,9 +2,15 @@
 
 A curated list of data engineering tools for software developers
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/igorbarinov/awesome-data-engineering/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) · ⭐ 5.1K · 🏷️ Big Data
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/igorbarinov/awesome-data-engineering/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) · ⭐ 5.4K · 🏷️ Big Data
 
 [ Daily / [Weekly](/content/igorbarinov/awesome-data-engineering/week/README.md) / [Overview](/content/igorbarinov/awesome-data-engineering/readme/README.md) ]
+
+## [Nov 22, 2023](/content/2023/11/22/README.md)
+
+### Prometheus
+
+*   [Grai (⭐241)](https://github.com/grai-io/grai-core/) is a data catalog tool that integrates into your CI system exposing downstream impact testing of data changes. These tests prevent data changes which might break data pipelines or BI dashboards from making it to production.
 
 ## [Feb 13, 2021](/content/2021/02/13/README.md)
 
@@ -50,16 +56,16 @@ A curated list of data engineering tools for software developers
 
 ### Realtime
 
-*   [Eventsim (⭐452)](https://github.com/Interana/eventsim) Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
+*   [Eventsim (⭐471)](https://github.com/Interana/eventsim) Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
 
 ## [Jul 17, 2015](/content/2015/07/17/README.md)
 
 ### Prometheus
 
-*   [HAProxy Exporter (⭐600)](https://github.com/prometheus/haproxy_exporter) Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
+*   [HAProxy Exporter (⭐603)](https://github.com/prometheus/haproxy_exporter) Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
 
 ## [Jul 16, 2015](/content/2015/07/16/README.md)
 
 ### Prometheus
 
-*   [Prometheus.io (⭐49k)](https://github.com/prometheus/prometheus) An open-source service monitoring system and time series database
+*   [Prometheus.io (⭐51k)](https://github.com/prometheus/prometheus) An open-source service monitoring system and time series database
