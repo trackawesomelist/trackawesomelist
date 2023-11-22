@@ -6,6 +6,20 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 22, 2023](/content/2023/11/22/README.md)
+
+### Snippet / Diagnostics
+
+*   [cvigilv/esqueleto.nvim (⭐60)](https://github.com/cvigilv/esqueleto.nvim) - Simple templates to use when creating new files.
+
+### Debugging / Diagnostics
+
+*   [theHamsta/nvim-dap-virtual-text (⭐636)](https://github.com/theHamsta/nvim-dap-virtual-text) - Virtual text support for nvim-dap.
+
+### Code Runner / Diagnostics
+
+*   [bfredl/nvim-ipy (⭐414)](https://github.com/bfredl/nvim-ipy) - Make interfacing with IPython/Jupyter easier.
+
 ## [Nov 21, 2023](/content/2023/11/21/README.md)
 
 ### AI / Diagnostics

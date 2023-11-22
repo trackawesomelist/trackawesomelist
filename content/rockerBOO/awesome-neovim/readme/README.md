@@ -282,6 +282,7 @@ Collections of awesome neovim plugins.
 *   [TobinPalmer/rayso.nvim (⭐59)](https://github.com/TobinPalmer/rayso.nvim) - Create code snippets in Neovim using [ray.so](https://ray.so).
 *   [mrcjkb/haskell-snippets.nvim (⭐14)](https://github.com/mrcjkb/haskell-snippets.nvim) - Haskell snippets for LuaSnip, powered by Tree-sitter and LSP.
 *   [rafamadriz/friendly-snippets (⭐1.3k)](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
+*   [cvigilv/esqueleto.nvim (⭐60)](https://github.com/cvigilv/esqueleto.nvim) - Simple templates to use when creating new files.
 
 ## Register
 
@@ -725,6 +726,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [andrewferrier/debugprint.nvim (⭐171)](https://github.com/andrewferrier/debugprint.nvim) - Debugging the print() way.
 *   [t-troebst/perfanno.nvim (⭐143)](https://github.com/t-troebst/perfanno.nvim) - Annotate your code with callgraph profiling data. Native support for perf, flamegraph and the LuaJit profiler.
 *   [niuiic/dap-utils (⭐27)](https://github.com/niuiic/dap-utils.nvim) - Utilities to provide a better experience for using nvim-dap.
+*   [theHamsta/nvim-dap-virtual-text (⭐636)](https://github.com/theHamsta/nvim-dap-virtual-text) - Virtual text support for nvim-dap.
 
 ### Quickfix
 
@@ -767,6 +769,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [jaytyrrell13/static.nvim (⭐10)](https://github.com/jaytyrrell13/static.nvim) - Run static site generator commands.
 *   [dasupradyumna/launch.nvim (⭐32)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
 *   [benlubas/molten-nvim (⭐72)](https://github.com/benlubas/molten-nvim) - Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code.
+*   [bfredl/nvim-ipy (⭐414)](https://github.com/bfredl/nvim-ipy) - Make interfacing with IPython/Jupyter easier.
 
 ## Neovim Lua Development
 

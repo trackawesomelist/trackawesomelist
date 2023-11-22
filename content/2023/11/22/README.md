@@ -1,12 +1,58 @@
 # Awesome List Updates on Nov 22, 2023
 
-6 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [1. Awesome K6](/content/grafana/awesome-k6/README.md)
+
+### Examples
+
+*   [k6 examples](https://k6.io/docs/examples/) - A list of common examples on the k6 documentation.
+
+### Extensions
+
+*   [k6 Extensions](https://k6.io/docs/extensions/)
+
+### Related
+
+*   [How They Load Test (⭐54)](https://github.com/aliesbelik/how-they-load) - A collection of resources on how companies around the world perform load testing.
+*   [Load Testing Toolkit (⭐117)](https://github.com/aliesbelik/load-testing-toolkit) - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+*   [awesome-http-benchmark (⭐3k)](https://github.com/denji/awesome-http-benchmark) - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
+
+## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Translation Tools / File Sharing
+
+*   [Easydict](http://www.eudic.net/eudic/mac_dictionary.aspx) - Easy to look up words or translate text [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/learn-anything/safari-extensions#readme)
+
+## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-public-typescript (⭐7)](https://github.com/hemengke1997/vite-plugin-public-typescript) - Inject Typescript into `index.html`.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-i18n-detector (⭐5)](https://github.com/hemengke1997/vite-plugin-i18n-detector) - Lazyload i18n locale resources.
+
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Snippet / Diagnostics
+
+*   [cvigilv/esqueleto.nvim (⭐60)](https://github.com/cvigilv/esqueleto.nvim) - Simple templates to use when creating new files.
+
+### Debugging / Diagnostics
+
+*   [theHamsta/nvim-dap-virtual-text (⭐636)](https://github.com/theHamsta/nvim-dap-virtual-text) - Virtual text support for nvim-dap.
+
+### Code Runner / Diagnostics
+
+*   [bfredl/nvim-ipy (⭐414)](https://github.com/bfredl/nvim-ipy) - Make interfacing with IPython/Jupyter easier.
+
+## [5. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### CI / Tools & Plugins
 
@@ -16,7 +62,7 @@
 
 *   [Hamster (⭐9)](https://github.com/QAInsights/hamster) - Swiftly launch your JMeter test plans from Mac menubar.
 
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -67,13 +113,13 @@
 
 *   [NDJSON (⭐598) (⭐593)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 
-## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Large Language Models (LLMs)
 
 *   [Poe](https://poe.com/): a platform that lets people ask questions, get instant answers, and have back-and-forth conversations with a wide variety of AI-powered bots
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Email - Mail Transfer Agents
 
@@ -83,7 +129,7 @@
 
 *   [Digiwall](https://digiwall.app/) - Create multimedia collaborative walls for in-person or remote work (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digiwall)) `AGPL-3.0` `Nodejs`
 
-## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -94,7 +140,7 @@
 
 *   [s1ck3r (⭐0)](https://github.com/pseifer/s1ck3r) - Sleek, transient and space-efficient. Includes decorators for `vi`-mode, elevated permissions, last command exit status, if background jobs are running, working directory and `git` status,
 
-## [6. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+## [10. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Prometheus
 

@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Nov 22, 2023](/content/2023/11/22/README.md)
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-public-typescript (⭐7)](https://github.com/hemengke1997/vite-plugin-public-typescript) - Inject Typescript into `index.html`.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-i18n-detector (⭐5)](https://github.com/hemengke1997/vite-plugin-i18n-detector) - Lazyload i18n locale resources.
+
 ## [Nov 21, 2023](/content/2023/11/21/README.md)
 
 ### Framework-agnostic Plugins / Helpers

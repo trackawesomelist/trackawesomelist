@@ -8,10 +8,15 @@
 
 ## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
 
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-public-typescript (⭐7)](https://github.com/hemengke1997/vite-plugin-public-typescript) - Inject Typescript into `index.html`.
+
 ### Framework-agnostic Plugins / Helpers
 
 *   [vite-bundle-analyzer (⭐33)](https://github.com/nonzzz/vite-bundle-analyzer) - Utility that represents bundles as an interactive treemap.
 *   [vite-font-extractor-plugin (⭐0)](https://github.com/a3mitskevich/vite-font-extractor-plugin) - Utility that minification bundle fonts by glyphs.
+*   [vite-plugin-i18n-detector (⭐5)](https://github.com/hemengke1997/vite-plugin-i18n-detector) - Lazyload i18n locale resources.
 
 ### React / Community
 
