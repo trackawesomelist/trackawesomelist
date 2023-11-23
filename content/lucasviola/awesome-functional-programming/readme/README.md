@@ -2,7 +2,7 @@
 
 :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lucasviola/awesome-functional-programming/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) · ⭐ 848 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lucasviola/awesome-functional-programming/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) · ⭐ 914 · 🏷️ Computer Science
 
 [ [Daily](/content/lucasviola/awesome-functional-programming/README.md) / [Weekly](/content/lucasviola/awesome-functional-programming/week/README.md) / Overview ]
 
@@ -10,7 +10,7 @@
 
 ## Awesome Functional Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Based on the [Awesome (⭐238k)](https://github.com/sindresorhus/awesome/) project
+Based on the [Awesome (⭐278k)](https://github.com/sindresorhus/awesome/) project
 
 ## What is this about?
 
@@ -21,7 +21,7 @@ and for the whole usage of [Moores Law](https://en.wikipedia.org/wiki/Moore%27s_
 This repo gathers some material on Functional Programming such as blog posts, papers, videos,
 tools, etc. and also aims to clarify some of the theoretical subjects behind it.
 
-Want to contribute? Please refer to [this (⭐847)](https://github.com/lucasviola/awesome-functional-programming/blob/master/contributing.md) first.
+Want to contribute? Please refer to [this (⭐914)](https://github.com/lucasviola/awesome-functional-programming/blob/master/contributing.md) first.
 
 ## Table of Contents
 
@@ -116,6 +116,10 @@ Want to contribute? Please refer to [this (⭐847)](https://github.com/lucasviol
 *   [Kotlin for Android & Java Developers](https://www.manning.com/livevideo/kotlin-for-android-and-java-developers) - LiveVideo course about Kotlin: functional programming, object orientation and building an Android app in Kotlin.
 *   [Do we really need OOD and FDD?](https://www.youtube.com/watch?v=KW9U6HMKEgk) - Functional Declarative Design (FDD) opposed to Object-Oriented Design (OOD
 
+<!---->
+
+*   [Functional Programming with TypeScript](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo) - Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist.
+
 ### Lectures
 
 *   [C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals](https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD) - Series of Lectures from one of the creators of Haskell
@@ -133,15 +137,15 @@ Want to contribute? Please refer to [this (⭐847)](https://github.com/lucasviol
 
 ### Repos
 
-*   [Idris Koans (⭐169)](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
+*   [Idris Koans (⭐173)](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
 *   [Functional Javascript Workshop (⭐2k)](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop.
-*   [J-Bob (⭐402)](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
+*   [J-Bob (⭐409)](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
 *   [Haskell Must Watch (⭐1.1k)](https://github.com/olehkuchuk/haskell-must-watch) - A list of videos, talks and courses on Haskell.
 *   [Intro SML](http://www.it.dtu.dk/introSML/) - Code, corrections and info on the book: `Introduction to Programming using SML`
-*   [Functional Programming In JavaScript (⭐302)](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
+*   [Functional Programming In JavaScript (⭐306)](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
 *   [Functional Programming Jargon (⭐18k)](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier.
-*   [Bow (⭐619)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
-*   [Parsing With Haskell Parser Combinators (⭐85)](https://github.com/lettier/parsing-with-haskell-parser-combinators) - A step-by-step guide to parsing using Haskell parser combinators.
+*   [Bow (⭐642)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
+*   [Parsing With Haskell Parser Combinators (⭐86)](https://github.com/lettier/parsing-with-haskell-parser-combinators) - A step-by-step guide to parsing using Haskell parser combinators.
 
 ### People
 

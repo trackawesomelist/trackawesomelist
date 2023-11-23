@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Nov 23, 2023](/content/2023/11/23/README.md)
+
+### LLM Evaluation / Multi-agents
+
+*   [Sharing LangSmith Benchmarks](https://blog.langchain.dev/public-langsmith-benchmarks/)
+
 ## [Nov 22, 2023](/content/2023/11/22/README.md)
 
 ### Large Language Models (LLMs)
