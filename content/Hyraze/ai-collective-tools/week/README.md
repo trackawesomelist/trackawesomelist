@@ -6,6 +6,13 @@ Explore a curated selection of AI tools and resources
 
 [ [Daily](/content/Hyraze/ai-collective-tools/README.md) / Weekly / [Overview](/content/Hyraze/ai-collective-tools/readme/README.md) ]
 
+## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
+
+### Design Generator
+
+*   [Canva](https://www.canva.com/) - Use it to create social media posts, presentations, posters, videos, logos and more. `#freemium`
+*   [Designs AI](https://designs.ai/) - Make a logo, video, social media banner, business card, flyer, mockup and more with AI. `#freemium`
+
 ## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
 
 ### Design Assistant

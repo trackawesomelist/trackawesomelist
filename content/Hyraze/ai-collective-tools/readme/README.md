@@ -15,6 +15,7 @@ Explore a curated selection of AI tools and resources
 We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐53)](https://github.com/Hyraze/ai-collective-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐53)](https://github.com/Hyraze/ai-collective-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Hyraze/ai-collective-tools)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools.svg?type=shield\&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools?ref=badge_shield\&issueType=license)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHyraze%2Fai-collective-tools\&countColor=%2337d67a\&style=flat)
@@ -218,6 +219,8 @@ Use these hashtags in search to filter out the tools
 ## Design Generator
 
 *   [Book Witch](https://bookwitch.io/) - Use the power of AI to create complete e-books with just one click! `#freemium`
+*   [Canva](https://www.canva.com/) - Use it to create social media posts, presentations, posters, videos, logos and more. `#freemium`
+*   [Designs AI](https://designs.ai/) - Make a logo, video, social media banner, business card, flyer, mockup and more with AI. `#freemium`
 
 ## Developer
 

@@ -10,7 +10,7 @@
 
 ### Translation Tools / File Sharing
 
-*   [Easydict](http://www.eudic.net/eudic/mac_dictionary.aspx) - Easy to look up words or translate text [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/learn-anything/safari-extensions#readme)
+*   [Easydict (⭐3.3k)](https://github.com/tisfeng/Easydict) - Easy to look up words or translate text [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tisfeng/Easydict)
 
 ## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
 

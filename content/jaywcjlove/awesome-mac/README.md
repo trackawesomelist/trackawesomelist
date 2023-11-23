@@ -6,11 +6,11 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
-## [Nov 22, 2023](/content/2023/11/22/README.md)
+## [Nov 23, 2023](/content/2023/11/23/README.md)
 
 ### Translation Tools / File Sharing
 
-*   [Easydict](http://www.eudic.net/eudic/mac_dictionary.aspx) - Easy to look up words or translate text [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/learn-anything/safari-extensions#readme)
+*   [Easydict (⭐3.3k)](https://github.com/tisfeng/Easydict) - Easy to look up words or translate text [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tisfeng/Easydict)
 
 ## [Nov 16, 2023](/content/2023/11/16/README.md)
 
