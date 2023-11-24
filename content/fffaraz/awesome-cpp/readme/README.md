@@ -176,7 +176,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Audio, Sound, Music, Digitized Voice Libraries*
 
-*   [Amplitude Audio SDK (⭐8)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
+*   [Amplitude Audio SDK (⭐10)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
 *   [Aubio (⭐3.1k)](https://github.com/aubio/aubio) - A library for audio and music analysis.\[GPL-3.0] [website](https://aubio.org/)
 *   [AudioFile (⭐840)](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. \[MIT]
 *   [audioFlux (⭐1.9k)](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. \[MIT]
@@ -1120,6 +1120,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [mio (⭐1.5k)](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO. \[MIT]
 *   [PEGTL (⭐1.8k)](https://github.com/taocpp/PEGTL) - The Parsing Expression Grammar Template Library. \[MIT]
 *   [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. \[GPL2/Commercial]
+*   [scnlib (⭐841)](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. \[Apache-2.0] [website](https://v1.scnlib.dev/)
 *   [Scintilla](http://scintilla.org/) - A free source code editing component. \[MIT]
 *   [SDS (⭐4.6k)](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. \[BSD]
 *   [semver.c (⭐178)](https://github.com/h2non/semver.c) - A semver parser and render in ANSI C. \[MIT]

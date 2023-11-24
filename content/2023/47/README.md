@@ -30,6 +30,7 @@
 ### Miscellaneous
 
 *   [Libserial (⭐342)](https://github.com/crayzeewulf/libserial) - Serial Port Programming in C++. \[BSD-3-Clause]
+*   [scnlib (⭐841)](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. \[Apache-2.0] [website](https://v1.scnlib.dev/)
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -146,6 +147,7 @@
 ### Resources / Blog posts
 
 *   [Working with DateTime data in Polars](https://medium.com/@riellygriffiths/working-with-datetime-data-in-polars-9bb57e7f6304) - A blog post to helps you with the main operations that can be done with datetime data by [Rielly Griffiths](https://medium.com/@riellygriffiths).
+*   [Revolutionize Your Data Analysis: Polars Outperforms Pandas by Up to 5x in Numerical Filter Operations!](https://medium.com/@riellygriffiths/working-with-datetime-data-in-polars-9bb57e7f6304) - A blog post that compares Polars with Pandas by examining their performance in the real world by [Daniel Builescu](https://medium.com/@danielbuilescu).
 
 ## [13. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 

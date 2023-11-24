@@ -1,31 +1,43 @@
 # Awesome List Updates on Nov 24, 2023
 
-4 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### Resources / Blog posts
+
+*   [Revolutionize Your Data Analysis: Polars Outperforms Pandas by Up to 5x in Numerical Filter Operations!](https://medium.com/@riellygriffiths/working-with-datetime-data-in-polars-9bb57e7f6304) - A blog post that compares Polars with Pandas by examining their performance in the real world by [Daniel Builescu](https://medium.com/@danielbuilescu).
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Miscellaneous
+
+*   [scnlib (⭐841)](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. \[Apache-2.0] [website](https://v1.scnlib.dev/)
+
+## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### System interface / Third-party APIs
 
 *   [machine-state (⭐7)](https://github.com/Shinmera/machine-state/) -  Retrieve machine state information about CPU time, memory usage, thread processing time, etc.
 
-## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### LLM Evaluation / Multi-agents
 
 *   [\[2311.12983\] GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983)
 *   [Sharing LangSmith Benchmarks](https://blog.langchain.dev/public-langsmith-benchmarks/)
 
-## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing Support / Diagnostics
 
 *   [Jxstxs/conceal.nvim (⭐41)](https://github.com/Jxstxs/conceal.nvim) - Use Tree-sitter to conceal common boilerplate code.
 
-## [4. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
+## [6. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
 ### Table of Contents / Videos
 

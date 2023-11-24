@@ -11,12 +11,13 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Miscellaneous
 
 *   [Libserial (⭐342)](https://github.com/crayzeewulf/libserial) - Serial Port Programming in C++. \[BSD-3-Clause]
+*   [scnlib (⭐841)](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. \[Apache-2.0] [website](https://v1.scnlib.dev/)
 
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
 ### Audio
 
-*   [Amplitude Audio SDK (⭐8)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
+*   [Amplitude Audio SDK (⭐10)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
 
 ### Font
 

@@ -132,19 +132,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Testomat.io Reporter (⭐81)](https://github.com/testomatio/reporter) - Allows to collect tests to a Test Case Management System (TCMS) like testomat.io and sync manual and automated tests in one place.
 
-#### [10. Awesome Polars](/content/ddotta/awesome-polars/README.md)
-
-##### Resources / Blog posts
-
-*   [Working with DateTime data in Polars](https://medium.com/@riellygriffiths/working-with-datetime-data-in-polars-9bb57e7f6304) - A blog post to helps you with the main operations that can be done with datetime data by [Rielly Griffiths](https://medium.com/@riellygriffiths).
-
-#### [11. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
+#### [10. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
 
 ##### Archive/abandoned projects / macOS
 
 *   [macOS Defaults (⭐1.2k)](https://github.com/kevinSuttle/macOS-Defaults)
 
-#### [12. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+#### [11. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ##### Templates
 
@@ -153,13 +147,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Pentesting: Kali](https://forum.qubes-os.org/t/creating-a-kali-linux-templatevm/1907) - How to create a Kali Linux VM.
 *   [Pentesting: PTF](https://forum.qubes-os.org/t/penetration-testers-framework-ptf-templatevm/19011) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
 
-#### [13. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+#### [12. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ##### Prometheus
 
 *   [Grai (⭐241)](https://github.com/grai-io/grai-core/) is a data catalog tool that integrates into your CI system exposing downstream impact testing of data changes. These tests prevent data changes which might break data pipelines or BI dashboards from making it to production.
 
-#### [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -170,7 +164,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [s1ck3r (⭐0)](https://github.com/pseifer/s1ck3r) - Sleek, transient and space-efficient. Includes decorators for `vi`-mode, elevated permissions, last command exit status, if background jobs are running, working directory and `git` status,
 
-#### [15. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [14. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -221,7 +215,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [NDJSON (⭐598) (⭐593)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 
-#### [16. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+#### [15. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ##### CI / Tools & Plugins
 
@@ -231,7 +225,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Hamster (⭐9)](https://github.com/QAInsights/hamster) - Swiftly launch your JMeter test plans from Mac menubar.
 
-#### [17. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+#### [16. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ##### Framework-agnostic Plugins / Transformers
 
@@ -247,7 +241,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Viject (⭐9)](https://github.com/bhbs/viject) - One-shot migration tool from Create React App.
 
-#### [18. Awesome K6](/content/grafana/awesome-k6/README.md)
+#### [17. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ##### Examples
 
@@ -263,7 +257,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Load Testing Toolkit (⭐117)](https://github.com/aliesbelik/load-testing-toolkit) - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 *   [awesome-http-benchmark (⭐3k)](https://github.com/denji/awesome-http-benchmark) - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
 
-#### [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Communication - Email - Mail Transfer Agents
 
@@ -273,32 +267,26 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Digiwall](https://digiwall.app/) - Create multimedia collaborative walls for in-person or remote work (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digiwall)) `AGPL-3.0` `Nodejs`
 
-#### [20. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [19. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Translation Tools / File Sharing
 
 *   [Easydict (⭐3.3k)](https://github.com/tisfeng/Easydict) - Easy to look up words or translate text [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/tisfeng/Easydict)
 
-#### [21. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-##### Miscellaneous
-
-*   [Libserial (⭐342)](https://github.com/crayzeewulf/libserial) - Serial Port Programming in C++. \[BSD-3-Clause]
-
-#### [22. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+#### [20. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ##### Design Generator
 
 *   [Canva](https://www.canva.com/) - Use it to create social media posts, presentations, posters, videos, logos and more. `#freemium`
 *   [Designs AI](https://designs.ai/) - Make a logo, video, social media banner, business card, flyer, mockup and more with AI. `#freemium`
 
-#### [23. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
+#### [21. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
 ##### Table of Contents / Videos
 
 *   [Functional Programming with TypeScript](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo) - Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist.
 
-#### [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [22. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### AI / Diagnostics
 
@@ -345,7 +333,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [cshuaimin/ssr.nvim (⭐741)](https://github.com/cshuaimin/ssr.nvim) - Treesitter-based structural search and replace.
 *   [Jxstxs/conceal.nvim (⭐41)](https://github.com/Jxstxs/conceal.nvim) - Use Tree-sitter to conceal common boilerplate code.
 
-#### [25. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [23. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Prompt Engineering
 
@@ -381,7 +369,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [(1166) A Hackers' Guide to Language Models - YouTube](https://www.youtube.com/watch?v=jkrNMKz9pWU\&t=21s)
 
-#### [26. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [24. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Extensions
 
@@ -470,13 +458,20 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-#### [27. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [25. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### System interface / Third-party APIs
 
 *   [machine-state (⭐7)](https://github.com/Shinmera/machine-state/) -  Retrieve machine state information about CPU time, memory usage, thread processing time, etc.
 
-#### [28. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [26. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+##### Miscellaneous
+
+*   [Libserial (⭐342)](https://github.com/crayzeewulf/libserial) - Serial Port Programming in C++. \[BSD-3-Clause]
+*   [scnlib (⭐841)](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. \[Apache-2.0] [website](https://v1.scnlib.dev/)
+
+#### [27. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Communications / Coordination
 
@@ -485,6 +480,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 
 *   [From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought](https://arxiv.org/abs/2306.12672) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=13778788929096574993\&hl=en\&as_sdt=0,5)]. Rational meaning construction, a computational framework for language-informed thinking that combines neural language models with probabilistic models for rational inference. Linguistic meaning is framed as a context-sensitive mapping from natural language into a probabilistic language of thought (PLoT)--a general-purpose symbolic substrate for generative world modeling.
+
+#### [28. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Resources / Blog posts
+
+*   [Working with DateTime data in Polars](https://medium.com/@riellygriffiths/working-with-datetime-data-in-polars-9bb57e7f6304) - A blog post to helps you with the main operations that can be done with datetime data by [Rielly Griffiths](https://medium.com/@riellygriffiths).
+*   [Revolutionize Your Data Analysis: Polars Outperforms Pandas by Up to 5x in Numerical Filter Operations!](https://medium.com/@riellygriffiths/working-with-datetime-data-in-polars-9bb57e7f6304) - A blog post that compares Polars with Pandas by examining their performance in the real world by [Daniel Builescu](https://medium.com/@danielbuilescu).
 
 ---
 
@@ -497,7 +499,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 3. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 277K 📝 11&#x2F;15 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
 4. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 65K 📝 11&#x2F;23 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 76K 📝 11&#x2F;20 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-6. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 50K 📝 11&#x2F;23 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+6. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 50K 📝 11&#x2F;24 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 7. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 111K 📝 11&#x2F;10 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 8. [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source ⭐ 38K 📝 11&#x2F;20 ](https://github.com/akullpp/awesome-java)) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 9. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 39K 📝 11&#x2F;18 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
@@ -1161,7 +1163,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/README.md) - ([Source ⭐ 175, 📝 10&#x2F;17 ](https://github.com/GustavBertram/awesome-common-lisp-learning)) - A curated list of awesome Common Lisp learning resources
 - [Awesome Composer](/content/jakoch/awesome-composer/README.md) - ([Source ⭐ 815, 📝 22&#x2F;07&#x2F;22 ](https://github.com/jakoch/awesome-composer)) -  :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.
 - [Awesome Coq](/content/coq-community/awesome-coq/README.md) - ([Source ⭐ 251, 📝 11&#x2F;09 ](https://github.com/coq-community/awesome-coq)) - A curated list of awesome Coq libraries, plugins, tools, verification projects, and resources [maintainers=@anton-trunov,@palmskog]
-- [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 50K, 📝 11&#x2F;23 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+- [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 50K, 📝 11&#x2F;24 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [Awesome Crystal](/content/veelenga/awesome-crystal/README.md) - ([Source ⭐ 3.2K, 📝 10&#x2F;17 ](https://github.com/veelenga/awesome-crystal)) - :gem: A collection of awesome Crystal libraries, tools, frameworks and software
 - [Awesome D](/content/dlang-community/awesome-d/README.md) - ([Source ⭐ 615, 📝 10&#x2F;17 ](https://github.com/dlang-community/awesome-d)) -   A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.
 - [Awesome Dart](/content/yissachar/awesome-dart/README.md) - ([Source ⭐ 2.2K, 📝 09&#x2F;05 ](https://github.com/yissachar/awesome-dart)) - A curated list of awesome Dart frameworks, libraries, and software
@@ -1194,7 +1196,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md) - ([Source ⭐ 1.5K, 📝 04&#x2F;20 ](https://github.com/Fr0sT-Brutal/awesome-pascal)) - A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!
 - [Awesome Perl](/content/hachiojipm/awesome-perl/README.md) - ([Source ⭐ 621, 📝 21&#x2F;01&#x2F;13 ](https://github.com/hachiojipm/awesome-perl)) - A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 - [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 28K, 📝 22&#x2F;07&#x2F;23 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 415, 📝 11&#x2F;21 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
+- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 420, 📝 11&#x2F;24 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
 - [Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md) - ([Source ⭐ 46, 📝 20&#x2F;08&#x2F;14 ](https://github.com/Richienb/awesome-ponyfills)) - A curated list of awesome ponyfills for writing cross-platform and cross-browser code.
 - [Awesome Promises](/content/wbinnssmith/awesome-promises/README.md) - ([Source ⭐ 1.5K, 📝 16&#x2F;11&#x2F;17 ](https://github.com/wbinnssmith/awesome-promises)) - A curated list of useful resources for JavaScript Promises
 - [Awesome Purescript](/content/passy/awesome-purescript/README.md) - ([Source ⭐ 418, 📝 22&#x2F;02&#x2F;14 ](https://github.com/passy/awesome-purescript)) - A curation of awesome PureScript libraries, resources and shiny things.

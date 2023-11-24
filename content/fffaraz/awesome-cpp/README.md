@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Nov 24, 2023](/content/2023/11/24/README.md)
+
+### Miscellaneous
+
+*   [scnlib (⭐841)](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. \[Apache-2.0] [website](https://v1.scnlib.dev/)
+
 ## [Nov 23, 2023](/content/2023/11/23/README.md)
 
 ### Miscellaneous
@@ -22,7 +28,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Audio
 
-*   [Amplitude Audio SDK (⭐8)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
+*   [Amplitude Audio SDK (⭐10)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
 
 ### Font
 
