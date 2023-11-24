@@ -10,7 +10,7 @@
 
 ### System interface / Third-party APIs
 
-*   [machine-state (⭐6)](https://github.com/Shinmera/machine-state/) -  Retrieve machine state information about CPU time, memory usage, thread processing time, etc.
+*   [machine-state (⭐7)](https://github.com/Shinmera/machine-state/) -  Retrieve machine state information about CPU time, memory usage, thread processing time, etc.
 
 ## [2. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
@@ -183,6 +183,7 @@
 
 ### LLM Evaluation / Multi-agents
 
+*   [\[2311.12983\] GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983)
 *   [Sharing LangSmith Benchmarks](https://blog.langchain.dev/public-langsmith-benchmarks/)
 *   [\[2311.09247\] Comparing Humans, GPT-4, and GPT-4V On Abstraction and Reasoning Tasks](https://arxiv.org/abs/2311.09247)
 

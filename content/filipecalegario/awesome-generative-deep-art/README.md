@@ -6,10 +6,11 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
-## [Nov 23, 2023](/content/2023/11/23/README.md)
+## [Nov 24, 2023](/content/2023/11/24/README.md)
 
 ### LLM Evaluation / Multi-agents
 
+*   [\[2311.12983\] GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983)
 *   [Sharing LangSmith Benchmarks](https://blog.langchain.dev/public-langsmith-benchmarks/)
 
 ## [Nov 22, 2023](/content/2023/11/22/README.md)

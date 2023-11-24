@@ -6,7 +6,7 @@
 
 [ Daily / [Weekly](/content/lucasviola/awesome-functional-programming/week/README.md) / [Overview](/content/lucasviola/awesome-functional-programming/readme/README.md) ]
 
-## [Nov 23, 2023](/content/2023/11/23/README.md)
+## [Nov 24, 2023](/content/2023/11/24/README.md)
 
 ### Table of Contents / Videos
 
