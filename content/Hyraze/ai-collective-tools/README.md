@@ -6,6 +6,13 @@ Explore a curated selection of AI tools and resources
 
 [ Daily / [Weekly](/content/Hyraze/ai-collective-tools/week/README.md) / [Overview](/content/Hyraze/ai-collective-tools/readme/README.md) ]
 
+## [Nov 25, 2023](/content/2023/11/25/README.md)
+
+### Audio Editing
+
+*   [CrystalSound](https://crystalsound.ai/) - Experience noise-free audio with AI.`#freemium`
+*   [Gladia](https://www.gladia.io/) - Speech-to-Text API. `#freemium`
+
 ## [Nov 23, 2023](/content/2023/11/23/README.md)
 
 ### Design Generator

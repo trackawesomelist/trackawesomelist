@@ -8,6 +8,11 @@ Explore a curated selection of AI tools and resources
 
 ## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
 
+### Audio Editing
+
+*   [CrystalSound](https://crystalsound.ai/) - Experience noise-free audio with AI.`#freemium`
+*   [Gladia](https://www.gladia.io/) - Speech-to-Text API. `#freemium`
+
 ### Design Generator
 
 *   [Canva](https://www.canva.com/) - Use it to create social media posts, presentations, posters, videos, logos and more. `#freemium`
