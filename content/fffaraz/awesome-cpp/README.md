@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Nov 25, 2023](/content/2023/11/25/README.md)
+
+### Miscellaneous
+
+*   [Jinja2С++ (⭐434)](https://github.com/jinja2cpp/Jinja2Cpp) - almost full-conformance template engine implementation. [website](https://jinja2cpp.github.io/)
+
 ## [Nov 24, 2023](/content/2023/11/24/README.md)
 
 ### Miscellaneous

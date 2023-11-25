@@ -1,25 +1,37 @@
 # Awesome List Updates on Nov 25, 2023
 
-4 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Miscellaneous
+
+*   [Jinja2С++ (⭐434)](https://github.com/jinja2cpp/Jinja2Cpp) - almost full-conformance template engine implementation. [website](https://jinja2cpp.github.io/)
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### IDE and Code Editing
+
+*   [Wave Terminal](https://waveterm.dev/) - Wave is an open-source, cross-platform terminal for seamless workflows. Render anything inline. Save sessions and history. Powered by open web standards. MacOS and Linux.
+
+## [3. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ### Audio Editing
 
 *   [CrystalSound](https://crystalsound.ai/) - Experience noise-free audio with AI.`#freemium`
 *   [Gladia](https://www.gladia.io/) - Speech-to-Text API. `#freemium`
 
-## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Large Language Models (LLMs)
 
 *   [Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms?)
 
-## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -32,7 +44,7 @@
 *   [ruweird (⭐0)](https://github.com/ruweird/ruweird.zsh-theme) - Minimalist. Has decorators for `git` status and current directory. Shows an umbrella with raindrops and exit code of the last command if non-zero.
 *   [velvet (⭐0)](https://github.com/dor133/velvet-zsh-theme) - Includes decorators for `git` status, username, current directory, exit status of last command, and the time.
 
-## [4. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Data / Generation/Masking/Subsetting
 
