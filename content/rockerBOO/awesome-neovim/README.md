@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 26, 2023](/content/2023/11/26/README.md)
+
+### Completion / Diagnostics
+
+*   [nvimdev/epo.nvim (⭐25)](https://github.com/nvimdev/epo.nvim) - Blazingly fast, minimal LSP auto-completion and snippet engine.
+
+### Formatting / Diagnostics
+
+*   [nvimdev/guard.nvim (⭐371)](https://github.com/nvimdev/guard.nvim) - Minimalist async formatting and linting plugin.
+
 ## [Nov 24, 2023](/content/2023/11/24/README.md)
 
 ### Editing Support / Diagnostics
@@ -115,7 +125,7 @@ Collections of awesome neovim plugins.
 
 ### Motion / Diagnostics
 
-*   [xiaoshihou514/squirrel.nvim (⭐1)](https://github.com/xiaoshihou514/squirrel.nvim) - Quickly jump between tree-sitter nodes.
+*   [xiaoshihou514/squirrel.nvim (⭐3)](https://github.com/xiaoshihou514/squirrel.nvim) - Quickly jump between tree-sitter nodes.
 
 ## [Nov 08, 2023](/content/2023/11/08/README.md)
 
@@ -169,17 +179,17 @@ Collections of awesome neovim plugins.
 
 ### Deployment / Diagnostics
 
-*   [coffebar/transfer.nvim (⭐22)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
+*   [coffebar/transfer.nvim (⭐30)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
 
 ## [Oct 24, 2023](/content/2023/10/24/README.md)
 
 ### Motion / Diagnostics
 
-*   [smoka7/hop.nvim (⭐128)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
+*   [smoka7/hop.nvim (⭐140)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
 
 ### Indent / Diagnostics
 
-*   [VidocqH/auto-indent.nvim (⭐25)](https://github.com/VidocqH/auto-indent.nvim) - Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode.
+*   [VidocqH/auto-indent.nvim (⭐40)](https://github.com/VidocqH/auto-indent.nvim) - Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode.
 
 ## [Oct 23, 2023](/content/2023/10/23/README.md)
 
@@ -265,13 +275,13 @@ Collections of awesome neovim plugins.
 
 ### Search / Diagnostics
 
-*   [nvimdev/hlsearch.nvim (⭐33)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
+*   [nvimdev/hlsearch.nvim (⭐35)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
 
 ## [Oct 09, 2023](/content/2023/10/09/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [nvimtools/none-ls.nvim (⭐760)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+*   [nvimtools/none-ls.nvim (⭐875)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 
 ### Utility / Diagnostics
 
@@ -436,7 +446,7 @@ Collections of awesome neovim plugins.
 
 ### Dependency Management / Diagnostics
 
-*   [piersolenski/telescope-import.nvim (⭐46)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
+*   [piersolenski/telescope-import.nvim (⭐49)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
 
 ## [Sep 07, 2023](/content/2023/09/07/README.md)
 
@@ -492,7 +502,7 @@ Collections of awesome neovim plugins.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [askfiy/visual\_studio\_code (⭐112)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
+*   [askfiy/visual\_studio\_code (⭐114)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
 
 ## [Aug 23, 2023](/content/2023/08/23/README.md)
 
@@ -1388,7 +1398,7 @@ Collections of awesome neovim plugins.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [jonathandion/web-dev.nvim](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
+*   [jonathandion/web-dev.nvim (⭐58)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
 
 ## [Dec 20, 2022](/content/2022/12/20/README.md)
 
@@ -1483,7 +1493,7 @@ Collections of awesome neovim plugins.
 ### Preconfigured Configuration / Diagnostics
 
 *   [otavioschwanck/mood-nvim (⭐74)](https://github.com/otavioschwanck/mood-nvim) - Ready to use configuration for Ruby on Rails, JavaScript and Typescript.
-*   [ldelossa/nvim-ide](https://github.com/ldelossa/nvim-ide) - A full featured IDE layer heavily inspired by VSCode.
+*   [ldelossa/nvim-ide (⭐742)](https://github.com/ldelossa/nvim-ide) - A full featured IDE layer heavily inspired by VSCode.
 
 ## [Nov 14, 2022](/content/2022/11/14/README.md)
 
@@ -2044,7 +2054,7 @@ Collections of awesome neovim plugins.
 
 *   [Vimawesome](https://vimawesome.com/) - Showcases various plugins for Vim and has a [neovim tag](https://vimawesome.com/?q=tag:neovim) for other plugins targeting Neovim.
 *   [awesome-vim (⭐1.9k)](https://github.com/akrawchyk/awesome-vim#tools) - Short list of Vim plugins and helpful guides.
-*   [vim-plugin-list](https://github.com/altermo/vim-plugin-list) - List of Vim and Neovim plugins.
+*   [vim-plugin-list (⭐71)](https://github.com/altermo/vim-plugin-list) - List of Vim and Neovim plugins.
 
 ## [Sep 06, 2022](/content/2022/09/06/README.md)
 
@@ -2110,7 +2120,7 @@ Collections of awesome neovim plugins.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal Neovim configuration.
+*   [nvim-lua/kickstart.nvim (⭐9.4k)](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal Neovim configuration.
 
 ## [Aug 23, 2022](/content/2022/08/23/README.md)
 
@@ -2535,7 +2545,7 @@ Collections of awesome neovim plugins.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
+*   [shaunsingh/nyoom.nvim (⭐1.1k)](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
 
 ## [Mar 25, 2022](/content/2022/03/25/README.md)
 
@@ -2741,7 +2751,7 @@ Collections of awesome neovim plugins.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [shaeinst/roshnivim](https://github.com/shaeinst/roshnivim) - Roshnivim, can be called neovim's distro, is a predefined configs so that you don't need 1000hr to setup neovim as an IDE.
+*   [shaeinst/roshnivim (⭐173)](https://github.com/shaeinst/roshnivim) - Roshnivim, can be called neovim's distro, is a predefined configs so that you don't need 1000hr to setup neovim as an IDE.
 
 ## [Nov 03, 2021](/content/2021/11/03/README.md)
 

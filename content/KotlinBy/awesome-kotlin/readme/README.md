@@ -138,62 +138,67 @@ Here is the awesome badge for your project:
 
 ### <a name="github-trending-monthly"></a>Monthly <sup>[Back ⇈](#github-trending-monthly-subcategory)</sup>
 
-*   [nightscout/AndroidAPS (⭐564)](https://github.com/nightscout/AndroidAPS) - Opensource automated insulin delivery system (closed loop)
-*   [fankes/TSBattery (⭐709)](https://github.com/fankes/TSBattery) - A new way to save your battery avoid cancer apps hacker it.
+*   [KieronQuinn/Smartspacer (⭐627)](https://github.com/KieronQuinn/Smartspacer) - Smartspacer is a customisable widget for Android, but with a difference: It can upgrade the built in At a Glance on Pixels - without root!
 *   [FooIbar/EhViewer (⭐807)](https://github.com/FooIbar/EhViewer) - EhViewer overhauled with Material Design 3 and more, forked from [https://github.com/Ehviewer-Overhauled/Ehviewer (⭐4.6k)](https://github.com/Ehviewer-Overhauled/Ehviewer)
-*   [T8RIN/ImageToolbox (⭐830)](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image toolbox is the app which based on modern tech stack using Clean Architecture. It has features like filters applying, cropping, EXIF editing, quality and output image type picking and tons of another options
-*   [flipperdevices/Flipper-Android-App (⭐991)](https://github.com/flipperdevices/Flipper-Android-App) - Android Mobile app to rule all Flipper's family
+*   [aistra0528/Hail (⭐1k)](https://github.com/aistra0528/Hail) - 冻结 Android 应用 Freeze Android apps
 *   [EhViewer-NekoInverter/EhViewer (⭐1.7k)](https://github.com/EhViewer-NekoInverter/EhViewer) - 🥥 A fork of EhViewer, feature requests are not accepted. Forked from <https://gitlab.com/NekoInverter/EhViewer>
+*   [JetBrains/intellij-platform-plugin-template (⭐2.6k)](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform
+*   [joreilly/PeopleInSpace (⭐2.6k)](https://github.com/joreilly/PeopleInSpace) - Kotlin Multiplatform project with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, Compose for Web and Kotlin/JS + React clients along with Ktor backend.
 *   [ReVanced/revanced-patches (⭐4.7k)](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
+*   [florisboard/florisboard (⭐4.7k)](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
+*   [recloudstream/cloudstream (⭐4.8k)](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 *   [MatsuriDayo/NekoBoxForAndroid (⭐4.5k)](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
 *   [tiann/KernelSU (⭐5.2k)](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 *   [SagerNet/SagerNet (⭐5.5k)](https://github.com/SagerNet/SagerNet) - The universal proxy toolchain for Android
 *   [JunkFood02/Seal (⭐5.5k)](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 *   [RikkaApps/Shizuku (⭐5.5k)](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
-*   [yairm210/Unciv (⭐6.1k)](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 *   [vfsfitvnm/ViMusic (⭐6.1k)](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
-*   [gkd-kit/gkd (⭐5k)](https://github.com/gkd-kit/gkd) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP
+*   [gkd-kit/gkd (⭐6.8k)](https://github.com/gkd-kit/gkd) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP
 *   [ankidroid/Anki-Android (⭐7.2k)](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
-*   [android/sunflower (⭐17k)](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.
 *   [gedoor/legado (⭐19k)](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 *   [CymChad/BaseRecyclerViewAdapterHelper (⭐24k)](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - BRVAH:Powerful and flexible RecyclerAdapter
-*   [tachiyomiorg/tachiyomi (⭐25k)](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 *   [2dust/v2rayNG (⭐26k)](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 *   [bannedbook/fanqiang (⭐33k)](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 *   [shadowsocks/shadowsocks-android (⭐34k)](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
+*   [android/architecture-samples (⭐43k)](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 *   [JetBrains/kotlin (⭐46k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ### <a name="github-trending-weekly"></a>Weekly <sup>[Back ⇈](#github-trending-weekly-subcategory)</sup>
 
-*   [JohnnySC/ZeroToHeroAndroidTDD (⭐59)](https://github.com/JohnnySC/ZeroToHeroAndroidTDD) - Learn Android by solving TDD tasks
-*   [xuhaoyang/ClashForAndroid (⭐23)](https://github.com/xuhaoyang/ClashForAndroid) - A rule-based tunnel for Android.
-*   [aistra0528/Hail (⭐1k)](https://github.com/aistra0528/Hail) - 冻结 Android 应用 Freeze Android apps
-*   [simondankelmann/Bluetooth-LE-Spam (⭐1.6k)](https://github.com/simondankelmann/Bluetooth-LE-Spam)
-*   [celzero/rethink-app (⭐1.9k)](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
-*   [Kotlin/kotlinx.serialization (⭐4.8k)](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization
-*   [InsertKoinIO/koin (⭐8.4k)](https://github.com/InsertKoinIO/koin) - Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
-*   [ktorio/ktor (⭐12k)](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
-*   [android/nowinandroid (⭐14k)](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
-*   [JetBrains/compose-multiplatform (⭐14k)](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+*   [xuhaoyang/ClashForAndroid (⭐84)](https://github.com/xuhaoyang/ClashForAndroid) - A rule-based tunnel for Android.
+*   [Houvven/Guise (⭐338)](https://github.com/Houvven/Guise)
+*   [sunshine0523/Mi-Freeform (⭐411)](https://github.com/sunshine0523/Mi-Freeform) - Mi-Freeform 3 is an Android third-party freeform software that supports Android 8.1-Android 14
+*   [flipperdevices/Flipper-Android-App (⭐991)](https://github.com/flipperdevices/Flipper-Android-App) - Android Mobile app to rule all Flipper's family
+*   [tachiyomiorg/tachiyomi-extensions (⭐2.9k)](https://github.com/tachiyomiorg/tachiyomi-extensions) - Source extensions for the Tachiyomi app.
+*   [CypherpunkArmory/UserLAnd (⭐3.2k)](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
+*   [owncloud/android (⭐3.6k)](https://github.com/owncloud/android) - :phone: The ownCloud Android App
+*   [kizitonwose/Calendar (⭐3.9k)](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android.
+*   [skydoves/android-developer-roadmap (⭐6.5k)](https://github.com/skydoves/android-developer-roadmap) - 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.
+*   [libre-tube/LibreTube (⭐6.7k)](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
+*   [ethereum-lists/chains (⭐7.1k)](https://github.com/ethereum-lists/chains) - provides metadata for chains
+*   [YiiGuxing/TranslationPlugin (⭐10k)](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio.
 *   [android/compose-samples (⭐18k)](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
+*   [android/architecture-components-samples (⭐23k)](https://github.com/android/architecture-components-samples) - Samples for Android Architecture Components.
 
 ### <a name="github-trending-daily"></a>Daily <sup>[Back ⇈](#github-trending-daily-subcategory)</sup>
 
-*   [Houvven/Guise (⭐338)](https://github.com/Houvven/Guise)
-*   [YenalyLiew/Han1meViewer (⭐346)](https://github.com/YenalyLiew/Han1meViewer) - A Hanime1.me Application for Android.
-*   [Skytils/SkytilsMod (⭐711)](https://github.com/Skytils/SkytilsMod) - Skytils is a Hypixel Skyblock mod! Be careful, malicious copies are distributed across GitHub. Confirm on discord.gg/skytils (807302538558308352)
-*   [fumiama/copymanga (⭐836)](https://github.com/fumiama/copymanga) - 拷贝漫画的第三方APP，优化阅读/下载体验
-*   [mozilla-mobile/firefox-android (⭐1.2k)](https://github.com/mozilla-mobile/firefox-android) - This repository hosts the Firefox for Android (Fenix), Focus for Android, and Mozilla Android Components projects.
-*   [MM2-0/Kvaesitso (⭐1.3k)](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
-*   [JetBrains/intellij-platform-plugin-template (⭐2.6k)](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform
-*   [PaperMC/Folia (⭐2.8k)](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
-*   [tachiyomiorg/tachiyomi-extensions (⭐2.9k)](https://github.com/tachiyomiorg/tachiyomi-extensions) - Source extensions for the Tachiyomi app.
-*   [owncloud/android (⭐3.6k)](https://github.com/owncloud/android) - :phone: The ownCloud Android App
-*   [android/user-interface-samples (⭐4.1k)](https://github.com/android/user-interface-samples) - Multiple samples showing the best practices in the user interface on Android.
-*   [libre-tube/LibreTube (⭐6.7k)](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
-*   [ethereum-lists/chains (⭐7.1k)](https://github.com/ethereum-lists/chains) - provides metadata for chains
-*   [yujincheng08/BiliRoaming (⭐7.8k)](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
-*   [Shabinder/SpotiFlyer (⭐9.4k)](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
+*   [vector-im/element-x-android (⭐550)](https://github.com/vector-im/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
+*   [mapbox/mapbox-navigation-android (⭐592)](https://github.com/mapbox/mapbox-navigation-android) - Mapbox Navigation SDK for Android
+*   [android/platform-samples (⭐617)](https://github.com/android/platform-samples) - A collection of samples of different Android OS platform APIs.
+*   [aallam/openai-kotlin (⭐1k)](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
+*   [d4rken-org/sdmaid-se (⭐1.5k)](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
+*   [adrielcafe/voyager (⭐1.6k)](https://github.com/adrielcafe/voyager) - 🛸 A pragmatic navigation library for Jetpack Compose
+*   [Ivy-Apps/ivy-wallet (⭐1.8k)](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.
+*   [gotson/komga (⭐2.8k)](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support
+*   [PierfrancescoSoffritti/android-youtube-player (⭐3.2k)](https://github.com/PierfrancescoSoffritti/android-youtube-player) - YouTube Player library for Android and Chromecast, stable and customizable.
+*   [android/camera-samples (⭐4.6k)](https://github.com/android/camera-samples) - Multiple samples showing the best practices in camera APIs on Android.
+*   [mobile-dev-inc/maestro (⭐4.6k)](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation
+*   [androidx/androidx (⭐4.8k)](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
+*   [detekt/detekt (⭐5.8k)](https://github.com/detekt/detekt) - Static code analysis for Kotlin
+*   [JetBrains/ideavim (⭐8.2k)](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
+*   [pppscn/SmsForwarder (⭐12k)](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+*   [android/nowinandroid (⭐14k)](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
+*   [JetBrains/compose-multiplatform (⭐14k)](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 
 ## <a name="links"></a>Links <sup>[Back ⇈](#links-category)</sup>
 
@@ -296,7 +301,7 @@ Here is the awesome badge for your project:
 *   [moia-dev/lambda-kotlin-request-router (⭐17)](https://github.com/moia-dev/lambda-kotlin-request-router) - A REST request routing layer for AWS lambda handlers written in Kotlin
 *   [darkredz/zeko-restapi-framework (⭐18)](https://github.com/darkredz/zeko-restapi-framework) - Asynchronous web framework for Kotlin. Create REST APIs in Kotlin easily with automatic Swagger/OpenAPI doc generation
 *   [Ahoo-Wang/CoSec (⭐22)](https://github.com/Ahoo-Wang/CoSec) - RBAC-based And Policy-based Multi-Tenant Security Framework.
-*   [Flaxoos/flax-ktor-plugins (⭐15)](https://github.com/Flaxoos/flax-ktor-plugins) - A Ktor plugins repository for servers and clients, including a kafka client plugin, circuit breaker and more
+*   [Flaxoos/flax-ktor-plugins (⭐23)](https://github.com/Flaxoos/flax-ktor-plugins) - A Ktor plugins repository for servers and clients, including a kafka client plugin, circuit breaker and more
 *   [celtric/kotlin-html (⭐24)](https://github.com/celtric/kotlin-html) - A library to generate HTML in Kotlin.
 *   [sepatel/tekniq (⭐37)](https://github.com/sepatel/tekniq) - Full-feature HTTP DSL Framework, HTTP Client, JDBC DSL, Loading Cache and Configuration
 *   [danneu/kog (⭐43)](https://github.com/danneu/kog) - A web framework focused on simplicity, middleware, and functional composition
@@ -479,17 +484,17 @@ Here is the awesome badge for your project:
 *   [kohesive/keplin (⭐25)](https://github.com/kohesive/keplin) - Secure Kotlin scripting and binary lambda-scripts.
 *   [mkohm/detekt-hint (⭐77)](https://github.com/mkohm/detekt-hint) - Detection of design principle violations as a plugin to detekt.
 *   [s1monw1/KtsRunner (⭐203)](https://github.com/s1monw1/KtsRunner) - Library for executing .kts files from regular Kotlin code using Java Scripting Engines API
-*   [krzema12/github-actions-kotlin-dsl (⭐417)](https://github.com/krzema12/github-actions-kotlin-dsl) - Authoring GitHub Actions workflows in Kotlin.
+*   [typesafegithub/github-workflows-kt (⭐422)](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
 *   [saveourtool/diktat (⭐460)](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting and autofixing code smells.
-*   [SonarSource/sonarlint-intellij (⭐564)](https://github.com/SonarSource/sonarlint-intellij) - An IDE extension that helps you detect and fix quality issues as you write code.
 *   [Kotlin/kotlin-interactive-shell (⭐566)](https://github.com/Kotlin/kotlin-interactive-shell) - Kotlin Language Interactive Shell
+*   [SonarSource/sonarlint-intellij (⭐564)](https://github.com/SonarSource/sonarlint-intellij) - An IDE extension that helps you detect and fix quality issues as you write code.
 *   [facebookincubator/ktfmt (⭐725)](https://github.com/facebookincubator/ktfmt) - Kotlin code formatter that reflows lines and always produces the same result.
 *   [Kotlin/kotlinx-kover (⭐1.1k)](https://github.com/Kotlin/kotlinx-kover) - Gradle plugin for Kotlin code coverage agents.
 *   [jmfayard/refreshVersions (⭐1.6k)](https://github.com/jmfayard/refreshVersions) - Better Gradle dependencies management inside the IDE. Search for available updates.
 *   [holgerbrandl/kscript (⭐2k)](https://github.com/holgerbrandl/kscript) - Scripting utils for Kotlin.
 *   [Kotlin/dokka (⭐3.1k)](https://github.com/Kotlin/dokka) - Documentation Engine for Kotlin.
-*   [detekt/detekt (⭐5.8k)](https://github.com/detekt/detekt) - Static code analysis for Kotlin.
 *   [pinterest/ktlint (⭐5.8k)](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter.
+*   [detekt/detekt (⭐5.8k)](https://github.com/detekt/detekt) - Static code analysis for Kotlin.
 
 ### <a name="libraries-frameworks-compiler-plugins"></a>Compiler Plugins <sup>[Back ⇈](#libraries-frameworks-compiler-plugins-subcategory)</sup>
 
@@ -560,13 +565,13 @@ Here is the awesome badge for your project:
 *   [d-max/dsl-logger (⭐3)](https://github.com/d-max/dsl-logger) - Simple DSL for logging with logger abstraction layer
 *   [mobiletoly/urlsome (⭐4)](https://github.com/mobiletoly/urlsome) - URL builder library for Kotlin
 *   [Ahoo-Wang/CoCache (⭐4)](https://github.com/Ahoo-Wang/CoCache) - Level 2 Distributed Coherence Cache Framework
-*   [InsanusMokrassar/KSLog (⭐8)](https://github.com/InsanusMokrassar/KSLog) - Fully customizable and lightweight logging library for Kotlin
 *   [JoelW-S/groothy (⭐8)](https://github.com/JoelW-S/groothy) - Kotlin implementation of Groovy Truth.
 *   [sandjelkovic/kxjtime (⭐8)](https://github.com/sandjelkovic/kxjtime) - Lightweight Kotlin extensions for java.time API
+*   [InsanusMokrassar/KSLog (⭐8)](https://github.com/InsanusMokrassar/KSLog) - Fully customizable and lightweight logging library for Kotlin
 *   [pearxteam/kpastebin (⭐10)](https://github.com/pearxteam/kpastebin) - Multiplatform Kotlin library to interact with the pastebin.com API
-*   [Ahoo-Wang/Simba (⭐10)](https://github.com/Ahoo-Wang/Simba) - Distributed lock service
 *   [DragonKnightOfBreeze/breeze-framework (⭐11)](https://github.com/DragonKnightOfBreeze/breeze-framework) - Integrated code framework base on Kotlin, provide many useful extensions for standard library and some frameworks.
 *   [Lewik/klog (⭐11)](https://github.com/Lewik/klog) - Minimalistic and multiplatform logging for Kotlin
+*   [Ahoo-Wang/Simba (⭐10)](https://github.com/Ahoo-Wang/Simba) - Distributed lock service
 *   [RationalityFrontline/kevent (⭐12)](https://github.com/RationalityFrontline/kevent) - A powerful in-process event dispatcher based on Kotlin and Coroutines.
 *   [saschpe/log4k (⭐13)](https://github.com/saschpe/log4k) - Lightweight logging library for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.
 *   [nickhristov/krakdown (⭐13)](https://github.com/nickhristov/krakdown) - A native markdown parser written in Kotlin.
@@ -633,11 +638,11 @@ Here is the awesome badge for your project:
 
 ### <a name="libraries-frameworks-parsers"></a>Parsers <sup>[Back ⇈](#libraries-frameworks-parsers-subcategory)</sup>
 
-*   [ParserKt/ParserKt (⭐11)](https://github.com/ParserKt/ParserKt)
-*   [sargunster/CakeParse (⭐26)](https://github.com/sargunster/CakeParse) - Simple parser combinator library for Kotlin.
-*   [h0tk3y/better-parse (⭐396)](https://github.com/h0tk3y/better-parse) - A nice parser combinator library for Kotlin
-*   [fork-handles/parser4k (⭐162)](https://github.com/fork-handles/forkhandles/tree/trunk/parser4k) - Recursive descent parser combinator library
+*   [ParserKt/ParserKt (⭐11)](https://github.com/ParserKt/ParserKt) - Naive one-pass recursive descent, scannerless parser framework for Kotlin
 *   [asm0dey/staks (⭐12)](https://github.com/asm0dey/staks) - Extensible XML parser DSL, based on StAX
+*   [sargunster/CakeParse (⭐26)](https://github.com/sargunster/CakeParse) - Simple parser combinator library for Kotlin.
+*   [fork-handles/parser4k (⭐162)](https://github.com/fork-handles/forkhandles/tree/trunk/parser4k) - Recursive descent parser combinator library
+*   [h0tk3y/better-parse (⭐396)](https://github.com/h0tk3y/better-parse) - A nice parser combinator library for Kotlin
 
 ### <a name="libraries-frameworks-raspberry-pi"></a>Raspberry Pi <sup>[Back ⇈](#libraries-frameworks-raspberry-pi-subcategory)</sup>
 
@@ -645,42 +650,41 @@ Here is the awesome badge for your project:
 
 ### <a name="libraries-frameworks-multiplatform"></a>Multiplatform <sup>[Back ⇈](#libraries-frameworks-multiplatform-subcategory)</sup>
 
-*   [ionspin/kotlin-multiplatform-bignum (⭐272)](https://github.com/ionspin/kotlin-multiplatform-bignum) - Pure kotlin multiplatform arbitrary precision arithmetic library.
-*   [davidepianca98/KMQTT (⭐99)](https://github.com/davidepianca98/KMQTT) - MQTT Broker library/executables for Kotlin multiplatform.
-*   [GitLiveApp/firebase-kotlin-sdk (⭐738)](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first Multiplatform SDK for Firebase supporting iOS, Android & Web
 *   [DetachHead/kotlinxpath (⭐4)](https://github.com/DetachHead/kotlinxpath) - A typesafe builder for Xpath with several useful helper functions that make Xpath easier to work with
-*   [ionspin/kotlin-multiplatform-libsodium (⭐67)](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Kotlin multiplatform wrapper for Libsodium cryptographic library.
-*   [petertrr/kotlin-multiplatform-diff (⭐56)](https://github.com/petertrr/kotlin-multiplatform-diff) - Multiplatform kotlin library for calculating text differences. Based on java-diff-utils.
-*   [nacular/measured (⭐109)](https://github.com/nacular/measured) - Type-safe, intuitive units of measure
-*   [ctripcorp/mmkv-kotlin (⭐98)](https://github.com/ctripcorp/mmkv-kotlin) - The Kotlin Multiplatform wrapper for MMKV
-*   [Ashampoo/kim (⭐85)](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata
 *   [Ashampoo/xmpcore (⭐10)](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK
+*   [petertrr/kotlin-multiplatform-diff (⭐56)](https://github.com/petertrr/kotlin-multiplatform-diff) - Multiplatform kotlin library for calculating text differences. Based on java-diff-utils.
+*   [ionspin/kotlin-multiplatform-libsodium (⭐67)](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Kotlin multiplatform wrapper for Libsodium cryptographic library.
+*   [Ashampoo/kim (⭐85)](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata
+*   [ctripcorp/mmkv-kotlin (⭐98)](https://github.com/ctripcorp/mmkv-kotlin) - The Kotlin Multiplatform wrapper for MMKV
+*   [davidepianca98/KMQTT (⭐99)](https://github.com/davidepianca98/KMQTT) - MQTT Broker library/executables for Kotlin multiplatform.
+*   [nacular/measured (⭐109)](https://github.com/nacular/measured) - Type-safe, intuitive units of measure
+*   [ionspin/kotlin-multiplatform-bignum (⭐272)](https://github.com/ionspin/kotlin-multiplatform-bignum) - Pure kotlin multiplatform arbitrary precision arithmetic library.
+*   [GitLiveApp/firebase-kotlin-sdk (⭐738)](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first Multiplatform SDK for Firebase supporting iOS, Android & Web
 
 ### <a name="libraries-frameworks-dsl"></a>DSL <sup>[Back ⇈](#libraries-frameworks-dsl-subcategory)</sup>
 
-*   [h0tk3y/regex-dsl (⭐86)](https://github.com/h0tk3y/regex-dsl) - A Kotlin DSL for regular expressions
 *   [bipokot/Kabu (⭐29)](https://github.com/bipokot/Kabu) - The fastest way to create complex Kotlin DSL
+*   [h0tk3y/regex-dsl (⭐86)](https://github.com/h0tk3y/regex-dsl) - A Kotlin DSL for regular expressions
 
 ### <a name="libraries-frameworks-extensions"></a>Extensions <sup>[Back ⇈](#libraries-frameworks-extensions-subcategory)</sup>
 
-*   [Kotlin/kotlinx.support (⭐54)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
-*   [vanshg/KrazyKotlin (⭐83)](https://github.com/vanshg/KrazyKotlin) - A collection of useful Kotlin Extension
 *   [hankdavidson/ktime (⭐25)](https://github.com/hankdavidson/ktime) - Extensions to the java8 time library
 *   [LukasForst/katlib (⭐76)](https://github.com/LukasForst/katlib) - A collection of Kotlin extension functions and utilities.
+*   [vanshg/KrazyKotlin (⭐83)](https://github.com/vanshg/KrazyKotlin) - A collection of useful Kotlin Extension
 
 ### <a name="libraries-frameworks-configuration"></a>Configuration <sup>[Back ⇈](#libraries-frameworks-configuration-subcategory)</sup>
 
-*   [npryce/konfig (⭐275)](https://github.com/npryce/konfig) - A Type Safe Configuration API for Kotlin
-*   [mariomac/kaconf (⭐58)](https://github.com/mariomac/kaconf) - KickAss Configuration. An annotation-based configuration system for Java and Kotlin
-*   [config4k/config4k (⭐257)](https://github.com/config4k/config4k) - A Kotlin wrapper for Typesafe Config
-*   [jdiazcano/cfg4k (⭐81)](https://github.com/jdiazcano/cfg4k) - Flexible and easy to use config library written in kotlin.
 *   [daviddenton/configur8 (⭐11)](https://github.com/daviddenton/configur8) - A Kotlin port of Configur8 - A Type Safe Configuration API for Kotlin, extendable to user-defined types.
-*   [ufoscout/properlty (⭐26)](https://github.com/ufoscout/properlty) - Simple configuration library with placeholders resolution and zero magic!
-*   [uchuhimo/konf (⭐303)](https://github.com/uchuhimo/konf) - A type-safe cascading configuration library for Kotlin/Java, supporting most configuration formats
-*   [sksamuel/hoplite (⭐804)](https://github.com/sksamuel/hoplite) - A library for loading configuration files into typesafe Kotlin data classes in a boilerplate-free way
 *   [Nohus/AutoKonfig](https://autokonfig.nohus.dev/) - A Kotlin configuration library with batteries included. Type-safe, zero lines of setup.
-*   [cdimascio/dotenv-kotlin (⭐443)](https://github.com/cdimascio/dotenv-kotlin) - A zero-dependency module that loads environment variables from a .env file
 *   [davidohana/kofiko-kotlin (⭐22)](https://github.com/davidohana/kofiko-kotlin) - Kofiko: Code-First configuration library. Lightweight, simple and minimal boilerplate.
+*   [ufoscout/properlty (⭐26)](https://github.com/ufoscout/properlty) - Simple configuration library with placeholders resolution and zero magic!
+*   [mariomac/kaconf (⭐58)](https://github.com/mariomac/kaconf) - KickAss Configuration. An annotation-based configuration system for Java and Kotlin
+*   [jdiazcano/cfg4k (⭐81)](https://github.com/jdiazcano/cfg4k) - Flexible and easy to use config library written in kotlin.
+*   [config4k/config4k (⭐257)](https://github.com/config4k/config4k) - A Kotlin wrapper for Typesafe Config
+*   [npryce/konfig (⭐275)](https://github.com/npryce/konfig) - A Type Safe Configuration API for Kotlin
+*   [uchuhimo/konf (⭐303)](https://github.com/uchuhimo/konf) - A type-safe cascading configuration library for Kotlin/Java, supporting most configuration formats
+*   [cdimascio/dotenv-kotlin (⭐443)](https://github.com/cdimascio/dotenv-kotlin) - A zero-dependency module that loads environment variables from a .env file
+*   [sksamuel/hoplite (⭐804)](https://github.com/sksamuel/hoplite) - A library for loading configuration files into typesafe Kotlin data classes in a boilerplate-free way
 
 ### <a name="libraries-frameworks-graphics"></a>Graphics <sup>[Back ⇈](#libraries-frameworks-graphics-subcategory)</sup>
 
@@ -884,10 +888,10 @@ Here is the awesome badge for your project:
 *   [roger-yh99/AwesomeKotlinPlugin (⭐11)](https://github.com/roger-yh99/AwesomeKotlinPlugin) - <a href="https://plugins.jetbrains.com/plugin/11357-awesome-kotlin">AwesomeKotlin</a> plugin for IntelliJ IDEs
 *   [emedinaa/kotlin-mvvm (⭐510)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
 *   [emedinaa/kotlin-mvp-volley (⭐9)](https://github.com/emedinaa/kotlin-mvp-volley) - Example of Android project in Kotlin using MVP(Model View Presenter) pattern and volley library
+*   [emedinaa/android-recyclerview (⭐2)](https://github.com/emedinaa/android-recyclerview) - Some samples about the RecyclerView and Adapters using kotlin
 *   [emedinaa/kotlin-viewmodel (⭐3)](https://github.com/emedinaa/kotlin-viewmodel) - Basic samples about ViewModel component
 *   [wuseal/JsonToKotlinClass (⭐2.9k)](https://github.com/wuseal/JsonToKotlinClass) - Plugin for IntelliJ IDEs to generate Kotlin data class code from JSON text
 *   [csense-oss/idea-kotlin-checked-exceptions (⭐17)](https://github.com/csense-oss/idea-kotlin-checked-exceptions) - Plugin to help integrate with java and exceptions (highlights, warns when not catching exceptions and a lot more)
-*   [emedinaa/android-recyclerview (⭐2)](https://github.com/emedinaa/android-recyclerview) - Some samples about the RecyclerView and Adapters using kotlin
 
 ### <a name="projects-playground"></a>Playground <sup>[Back ⇈](#projects-playground-subcategory)</sup>
 

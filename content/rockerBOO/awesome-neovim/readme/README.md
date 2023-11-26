@@ -155,7 +155,7 @@ Collections of awesome neovim plugins.
 *   [creativenull/efmls-configs-nvim (⭐199)](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver to work with builtin LSP.
 *   [creativenull/diagnosticls-configs-nvim (⭐89)](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of linters and formatters configured for diagnostic-languageserver to work with builtin LSP.
 *   [hinell/lsp-timeout.nvim (⭐114)](https://github.com/hinell/lsp-timeout.nvim) - Automatically start/stop idle/unused LSP servers; keeps RAM usage low.
-*   [nvimtools/none-ls.nvim (⭐760)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+*   [nvimtools/none-ls.nvim (⭐875)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 *   [vxpm/ferris.nvim (⭐59)](https://github.com/vxpm/ferris.nvim) - Interact with Rust-Analyzer's LSP extensions.
 *   [mrcjkb/rustaceanvim (⭐139)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
 *   [soulis-1256/hoverhints.nvim (⭐16)](https://github.com/soulis-1256/hoverhints.nvim) - Mouse-hover LSP hints.
@@ -184,6 +184,7 @@ Collections of awesome neovim plugins.
     *   [lukas-reineke/cmp-under-comparator (⭐143)](https://github.com/lukas-reineke/cmp-under-comparator) - A nvim-cmp function for better sorting.
 *   [echasnovski/mini.nvim#mini.completion (⭐3k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-completion.md) - Module of `mini.nvim` for asynchronous two-stage completion. Supports showing completion item info and independent function signature.
 *   [vigoux/complementree.nvim (⭐42)](https://github.com/vigoux/complementree.nvim) - Light and synchronous completion plugin based on tree-sitter and with a functional-programming interface.
+*   [nvimdev/epo.nvim (⭐25)](https://github.com/nvimdev/epo.nvim) - Blazingly fast, minimal LSP auto-completion and snippet engine.
 *   [simrat39/rust-tools.nvim (⭐2.1k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in Rust using Neovim's builtin LSP.
 *   [zbirenbaum/copilot.lua (⭐1.6k)](https://github.com/zbirenbaum/copilot.lua) - Fully featured Lua replacement for [GitHub/copilot.vim (⭐6.5k)](https://github.com/github/copilot.vim).
 
@@ -311,7 +312,7 @@ Collections of awesome neovim plugins.
 *   [roobert/search-replace.nvim (⭐184)](https://github.com/roobert/search-replace.nvim) - Builds on the native search and replace experience.
 *   [AckslD/muren.nvim (⭐292)](https://github.com/AckslD/muren.nvim/) - Multiple replacements through interactive UI.
 *   [windwp/nvim-spectre (⭐1.4k)](https://github.com/windwp/nvim-spectre) - Search and replace panel.
-*   [nvimdev/hlsearch.nvim (⭐33)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
+*   [nvimdev/hlsearch.nvim (⭐35)](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
 *   [mangelozzi/rgflow.nvim (⭐41)](https://github.com/mangelozzi/rgflow.nvim) - Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI.
 *   [duane9/nvim-rg (⭐23)](https://github.com/duane9/nvim-rg) - Run RipGrep asynchronously and see results in a quickfix window.
 
@@ -392,7 +393,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [rafamadriz/neon (⭐154)](https://github.com/rafamadriz/neon) - Customizable colorscheme with excellent italic and bold support, dark and light variants. Made to work and look good with Tree-sitter.
 *   [tomasiser/vim-code-dark (⭐877)](https://github.com/tomasiser/vim-code-dark) - A dark color scheme heavily inspired by the look of the Dark+ scheme of Visual Studio Code.
 *   [Mofiqul/vscode.nvim (⭐538)](https://github.com/Mofiqul/vscode.nvim) - A Lua port of vim-code-dark colorscheme with vscode light and dark theme.
-*   [askfiy/visual\_studio\_code (⭐112)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
+*   [askfiy/visual\_studio\_code (⭐114)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
 *   [marko-cerovac/material.nvim (⭐843)](https://github.com/marko-cerovac/material.nvim) - Material.nvim is a highly configurable colorscheme written in Lua and based on the material palette.
 *   [bluz71/vim-nightfly-colors (⭐698)](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight colorscheme with modern Neovim support including Tree-sitter.
 *   [bluz71/vim-moonfly-colors (⭐682)](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal colorscheme with modern Neovim support including Tree-sitter.
@@ -737,7 +738,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Deployment
 
-*   [coffebar/transfer.nvim (⭐22)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
+*   [coffebar/transfer.nvim (⭐30)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
 *   [OscarCreator/rsync.nvim (⭐31)](https://github.com/OscarCreator/rsync.nvim) - Automatically sync up/down project to a remote with rsync.
 
 ## Test
@@ -808,7 +809,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 *   [vuki656/package-info.nvim (⭐374)](https://github.com/vuki656/package-info.nvim) - Display latest package version as virtual text in package.json.
 *   [Saecki/crates.nvim (⭐617)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
-*   [piersolenski/telescope-import.nvim (⭐46)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
+*   [piersolenski/telescope-import.nvim (⭐49)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
 
 ## Git
 
@@ -837,7 +838,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Motion
 
-*   [smoka7/hop.nvim (⭐128)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
+*   [smoka7/hop.nvim (⭐140)](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
 *   [ggandor/lightspeed.nvim (⭐1.6k)](https://github.com/ggandor/lightspeed.nvim) - A Sneak-like plugin offering unparalleled navigation speed via ahead-of-time displayed labels, that eliminate the pause between entering the search pattern and selecting the target.
 *   [ggandor/leap.nvim (⭐3.5k)](https://github.com/ggandor/leap.nvim) - A refined successor of Lightspeed, aiming to establish a widely accepted standard interface extension for moving around in Vim-like editors.
 *   [ggandor/flit.nvim (⭐300)](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap.
@@ -846,7 +847,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [echasnovski/mini.nvim#mini.jump (⭐3k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-jump.md) - Module of `mini.nvim` for smarter jumping to a single character.
 *   [echasnovski/mini.nvim#mini.jump2d (⭐3k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-jump2d.md) - Module of `mini.nvim` for smarter jumping within visible lines via iterative label filtering. Supports custom jump targets (spots), labels, hooks, allowed windows and lines, and more.
 *   [rlane/pounce.nvim (⭐310)](https://github.com/rlane/pounce.nvim) - An EasyMotion-like plugin for quick cursor movement using fuzzy search.
-*   [xiaoshihou514/squirrel.nvim (⭐1)](https://github.com/xiaoshihou514/squirrel.nvim) - Quickly jump between tree-sitter nodes.
+*   [xiaoshihou514/squirrel.nvim (⭐3)](https://github.com/xiaoshihou514/squirrel.nvim) - Quickly jump between tree-sitter nodes.
 *   [gen740/SmoothCursor.nvim (⭐285)](https://github.com/gen740/SmoothCursor.nvim) - Add fancy sub-cursor to signcolumn to show your scroll or jump direction.
 *   [edluffy/specs.nvim (⭐409)](https://github.com/edluffy/specs.nvim) - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
 *   [abecodes/tabout.nvim (⭐612)](https://github.com/abecodes/tabout.nvim) - Jump out of brackets, quotes, objects, etc.
@@ -998,6 +999,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [niuiic/format.nvim (⭐37)](https://github.com/niuiic/format.nvim) - An asynchronous, multitasking, and highly configurable formatting plugin.
 *   [elentok/format-on-save.nvim (⭐117)](https://github.com/elentok/format-on-save.nvim) - A synchronous formatter that combines LSP and non-LSP formatting (e.g. shfmt, stylua, prettier), focused specifically on format-on-save.
 *   [stevearc/conform.nvim (⭐1.1k)](https://github.com/stevearc/conform.nvim) - A lightweight formatting engine that plays nice with LSP.
+*   [nvimdev/guard.nvim (⭐371)](https://github.com/nvimdev/guard.nvim) - Minimalist async formatting and linting plugin.
 
 ### Indent
 
@@ -1010,7 +1012,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [Abstract-IDE/penvim (⭐45)](https://github.com/Abstract-IDE/penvim) - Project's root directory and documents Indentation detector with project based config loader.
 *   [yaocccc/nvim-hlchunk (⭐43)](https://github.com/yaocccc/nvim-hlchunk) - Highlight a `{}` chunk.
 *   [shellRaining/hlchunk.nvim (⭐185)](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
-*   [VidocqH/auto-indent.nvim (⭐25)](https://github.com/VidocqH/auto-indent.nvim) - Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode.
+*   [VidocqH/auto-indent.nvim (⭐40)](https://github.com/VidocqH/auto-indent.nvim) - Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode.
 
 ## Command Line
 
