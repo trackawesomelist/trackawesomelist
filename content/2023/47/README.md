@@ -338,7 +338,11 @@
 
 ### Colorscheme Switchers / Diagnostics
 
-*   [linrongbin16/colorbox.nvim (⭐3)](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into your Neovim player! It collect all the most popurlar colorschemes, install and allow you to play them with multiple playback settings.
+*   [linrongbin16/colorbox.nvim (⭐3)](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into your Neovim player! It collects all the most popular colorschemes, installs them, and allows you to play them with multiple playback settings.
+
+### Utility / Diagnostics
+
+*   [`yutkat/confirm-quit.nvim`](https://github.com/yutkat/confirm-quit.nvim) - Confirm before quitting Neovim.
 
 ### Debugging / Diagnostics
 

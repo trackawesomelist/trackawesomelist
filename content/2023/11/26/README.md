@@ -36,6 +36,10 @@
 
 *   [nvimdev/epo.nvim (⭐25)](https://github.com/nvimdev/epo.nvim) - Blazingly fast, minimal LSP auto-completion and snippet engine.
 
+### Utility / Diagnostics
+
+*   [`yutkat/confirm-quit.nvim`](https://github.com/yutkat/confirm-quit.nvim) - Confirm before quitting Neovim.
+
 ### Formatting / Diagnostics
 
 *   [nvimdev/guard.nvim (⭐371)](https://github.com/nvimdev/guard.nvim) - Minimalist async formatting and linting plugin.

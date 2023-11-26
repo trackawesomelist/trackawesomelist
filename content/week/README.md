@@ -352,68 +352,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Wave Terminal](https://waveterm.dev/) - Wave is an open-source, cross-platform terminal for seamless workflows. Render anything inline. Save sessions and history. Powered by open web standards. MacOS and Linux.
 *   [WebDB](https://webdb.app) - Free Efficient Database IDE. Featuring Server Discovery, ERD, Data Generator, AI, NoSQL Structure Manager, Database Versioning and many more.
 
-#### [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Completion / Diagnostics
-
-*   [nvimdev/epo.nvim (⭐25)](https://github.com/nvimdev/epo.nvim) - Blazingly fast, minimal LSP auto-completion and snippet engine.
-
-##### AI / Diagnostics
-
-*   [jpmcb/nvim-llama (⭐24)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
-*   [David-Kunz/gen.nvim (⭐286)](https://github.com/David-Kunz/gen.nvim) - Generate text using LLMs (via Ollama) with customizable prompts.
-
-##### Markdown and LaTeX / Diagnostics
-
-*   [ellisonleao/dotenv.nvim (⭐18)](https://github.com/ellisonleao/dotenv.nvim) - Minimalist .env support.
-
-##### Syntax / Diagnostics
-
-*   [IndianBoy42/tree-sitter-just (⭐72)](https://github.com/IndianBoy42/tree-sitter-just) - Treesitter grammar for [Justfiles (⭐14k)](https://github.com/casey/just).
-
-##### Snippet / Diagnostics
-
-*   [rafamadriz/friendly-snippets (⭐1.3k)](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
-*   [cvigilv/esqueleto.nvim (⭐60)](https://github.com/cvigilv/esqueleto.nvim) - Simple templates to use when creating new files.
-
-##### Fuzzy Finder / Diagnostics
-
-*   [fdschmidt93/telescope-egrepify.nvim (⭐36)](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Telescope plugin for better `rg` flags in `live_grep`.
-
-##### Colorscheme Switchers / Diagnostics
-
-*   [linrongbin16/colorbox.nvim (⭐3)](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into your Neovim player! It collect all the most popurlar colorschemes, install and allow you to play them with multiple playback settings.
-
-##### Debugging / Diagnostics
-
-*   [theHamsta/nvim-dap-virtual-text (⭐636)](https://github.com/theHamsta/nvim-dap-virtual-text) - Virtual text support for nvim-dap.
-
-##### Code Runner / Diagnostics
-
-*   [bfredl/nvim-ipy (⭐414)](https://github.com/bfredl/nvim-ipy) - Make interfacing with IPython/Jupyter easier.
-
-##### Motion / Diagnostics
-
-*   [ggandor/flit.nvim (⭐300)](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap.
-*   [ggandor/leap-spooky.nvim (⭐239)](https://github.com/ggandor/leap-spooky.nvim) - Spooky (Leap) actions at a distance.
-
-##### Editing Support / Diagnostics
-
-*   [nat-418/boole.nvim (⭐103)](https://github.com/nat-418/boole.nvim) - Toggle booleans and common string values.
-*   [cshuaimin/ssr.nvim (⭐741)](https://github.com/cshuaimin/ssr.nvim) - Treesitter-based structural search and replace.
-*   [Jxstxs/conceal.nvim (⭐41)](https://github.com/Jxstxs/conceal.nvim) - Use Tree-sitter to conceal common boilerplate code.
-
-##### Formatting / Diagnostics
-
-*   [nvimdev/guard.nvim (⭐371)](https://github.com/nvimdev/guard.nvim) - Minimalist async formatting and linting plugin.
-
-#### [27. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+#### [26. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ##### Libraries / Chrome Extensions
 
 *   :octocat: [DrizzleORM](https://orm.drizzle.team/) - Lightweight TypeScript ORM, SQL-like library for flexible data access, serverless-ready, with zero dependencies.
 
-#### [28. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [27. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Tools
 
@@ -502,7 +447,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-#### [29. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [28. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### GUI
 
@@ -514,13 +459,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Libserial (⭐342)](https://github.com/crayzeewulf/libserial) - Serial Port Programming in C++. \[BSD-3-Clause]
 *   [scnlib (⭐841)](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. \[Apache-2.0] [website](https://v1.scnlib.dev/)
 
-#### [30. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+#### [29. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ##### Frameworks / Apache License
 
 *   [adamant (⭐5)](https://github.com/lasp/adamant) - A component-based, model-driven framework for constructing reliable and reusable real-time software.
 
-#### [31. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [30. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Communications / Coordination
 
@@ -529,6 +474,65 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 
 *   [From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought](https://arxiv.org/abs/2306.12672) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=13778788929096574993\&hl=en\&as_sdt=0,5)]. Rational meaning construction, a computational framework for language-informed thinking that combines neural language models with probabilistic models for rational inference. Linguistic meaning is framed as a context-sensitive mapping from natural language into a probabilistic language of thought (PLoT)--a general-purpose symbolic substrate for generative world modeling.
+
+#### [31. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Completion / Diagnostics
+
+*   [nvimdev/epo.nvim (⭐25)](https://github.com/nvimdev/epo.nvim) - Blazingly fast, minimal LSP auto-completion and snippet engine.
+
+##### AI / Diagnostics
+
+*   [jpmcb/nvim-llama (⭐24)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
+*   [David-Kunz/gen.nvim (⭐286)](https://github.com/David-Kunz/gen.nvim) - Generate text using LLMs (via Ollama) with customizable prompts.
+
+##### Markdown and LaTeX / Diagnostics
+
+*   [ellisonleao/dotenv.nvim (⭐18)](https://github.com/ellisonleao/dotenv.nvim) - Minimalist .env support.
+
+##### Syntax / Diagnostics
+
+*   [IndianBoy42/tree-sitter-just (⭐72)](https://github.com/IndianBoy42/tree-sitter-just) - Treesitter grammar for [Justfiles (⭐14k)](https://github.com/casey/just).
+
+##### Snippet / Diagnostics
+
+*   [rafamadriz/friendly-snippets (⭐1.3k)](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
+*   [cvigilv/esqueleto.nvim (⭐60)](https://github.com/cvigilv/esqueleto.nvim) - Simple templates to use when creating new files.
+
+##### Fuzzy Finder / Diagnostics
+
+*   [fdschmidt93/telescope-egrepify.nvim (⭐36)](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Telescope plugin for better `rg` flags in `live_grep`.
+
+##### Colorscheme Switchers / Diagnostics
+
+*   [linrongbin16/colorbox.nvim (⭐3)](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into your Neovim player! It collects all the most popular colorschemes, installs them, and allows you to play them with multiple playback settings.
+
+##### Utility / Diagnostics
+
+*   [`yutkat/confirm-quit.nvim`](https://github.com/yutkat/confirm-quit.nvim) - Confirm before quitting Neovim.
+
+##### Debugging / Diagnostics
+
+*   [theHamsta/nvim-dap-virtual-text (⭐636)](https://github.com/theHamsta/nvim-dap-virtual-text) - Virtual text support for nvim-dap.
+
+##### Code Runner / Diagnostics
+
+*   [bfredl/nvim-ipy (⭐414)](https://github.com/bfredl/nvim-ipy) - Make interfacing with IPython/Jupyter easier.
+
+##### Motion / Diagnostics
+
+*   [ggandor/flit.nvim (⭐300)](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap.
+*   [ggandor/leap-spooky.nvim (⭐239)](https://github.com/ggandor/leap-spooky.nvim) - Spooky (Leap) actions at a distance.
+
+##### Editing Support / Diagnostics
+
+*   [nat-418/boole.nvim (⭐103)](https://github.com/nat-418/boole.nvim) - Toggle booleans and common string values.
+*   [cshuaimin/ssr.nvim (⭐741)](https://github.com/cshuaimin/ssr.nvim) - Treesitter-based structural search and replace.
+*   [Jxstxs/conceal.nvim (⭐41)](https://github.com/Jxstxs/conceal.nvim) - Use Tree-sitter to conceal common boilerplate code.
+
+##### Formatting / Diagnostics
+
+*   [nvimdev/guard.nvim (⭐371)](https://github.com/nvimdev/guard.nvim) - Minimalist async formatting and linting plugin.
 
 ---
 
@@ -548,8 +552,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 10. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 70K 📝 11&#x2F;11 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 11. [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source ⭐ 24K 📝 11&#x2F;21 ](https://github.com/matteocrippa/awesome-swift)) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 12. [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 38K 📝 11&#x2F;16 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
-13. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 14K 📝 11&#x2F;25 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
-14. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 12K 📝 11&#x2F;26 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+13. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 12K 📝 11&#x2F;26 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+14. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 14K 📝 11&#x2F;25 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
 15. [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source ⭐ 53K 📝 11&#x2F;11 ](https://github.com/sindresorhus/awesome-nodejs)) - :zap: Delightful Node.js packages and resources
 16. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K 📝 11&#x2F;26 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
 17. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 12K 📝 11&#x2F;22 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js

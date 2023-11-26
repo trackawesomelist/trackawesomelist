@@ -369,7 +369,6 @@ Collections of awesome neovim plugins.
 ## Color
 
 *   [NvChad/nvim-colorizer.lua (⭐522)](https://github.com/NvChad/nvim-colorizer.lua) - A high-performance color highlighter which has no external dependencies!.
-*   [sunjon/Shade.nvim (⭐456)](https://github.com/sunjon/Shade.nvim) - Shade is a Neovim plugin that dims your inactive windows, making it easier to see the active window at a glance.
 *   [winston0410/range-highlight.nvim (⭐185)](https://github.com/winston0410/range-highlight.nvim) - An extremely lightweight plugin (\~ 120loc) that highlights ranges you have entered in commandline.
 *   [xiyaowong/nvim-transparent (⭐579)](https://github.com/xiyaowong/nvim-transparent) - Make your Neovim transparent.
 *   [folke/twilight.nvim (⭐997)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
@@ -519,7 +518,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [4e554c4c/darkman.nvim (⭐16)](https://github.com/4e554c4c/darkman.nvim) - Follow the system dark-mode setting on Linux.
 *   [f-person/auto-dark-mode.nvim (⭐164)](https://github.com/f-person/auto-dark-mode.nvim) - Follow the system appearance on macOS.
 *   [zaldih/themery.nvim (⭐78)](https://github.com/zaldih/themery.nvim) - A new way to change the colorscheme on the fly like in vscode.
-*   [linrongbin16/colorbox.nvim (⭐3)](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into your Neovim player! It collect all the most popurlar colorschemes, install and allow you to play them with multiple playback settings.
+*   [linrongbin16/colorbox.nvim (⭐3)](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into your Neovim player! It collects all the most popular colorschemes, installs them, and allows you to play them with multiple playback settings.
 
 ## Bars and Lines
 
@@ -694,6 +693,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [luckasRanarison/nvim-devdocs (⭐171)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
 *   [VidocqH/data-viewer.nvim (⭐51)](https://github.com/VidocqH/data-viewer.nvim) - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 *   [JMarkin/gentags.lua (⭐11)](https://github.com/JMarkin/gentags.lua) - Auto generate tag files by ctags.
+*   [`yutkat/confirm-quit.nvim`](https://github.com/yutkat/confirm-quit.nvim) - Confirm before quitting Neovim.
 
 ## Terminal Integration
 
