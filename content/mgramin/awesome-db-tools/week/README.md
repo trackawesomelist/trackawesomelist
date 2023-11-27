@@ -6,6 +6,16 @@ Everything that makes working with databases easier
 
 [ [Daily](/content/mgramin/awesome-db-tools/README.md) / Weekly / [Overview](/content/mgramin/awesome-db-tools/readme/README.md) ]
 
+## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
+
+### Schema / Diagrams
+
+*   [QuickDBD](https://www.quickdatabasediagrams.com/) - Simple online tool to quickly draw database diagrams.
+
+### Data / Compare
+
+*   [KS DB Merge Tools](https://ksdbmerge.tools) - GUI to compare and sync DB schema and data. For Oracle Database, MySQL, MariaDB, SQL Server, PostgreSQL, SQLite, MS Access and Cross-DBMS.
+
 ## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
 
 ### Data / Generation/Masking/Subsetting
