@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 28, 2023](/content/2023/11/28/README.md)
+
+### Utility / Diagnostics
+
+*   [`bgaillard/readonly.nvim`](https://github.com/bgaillard/readonly.nvim) - Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
+
 ## [Nov 26, 2023](/content/2023/11/26/README.md)
 
 ### Completion / Diagnostics
@@ -113,17 +119,17 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [stevanmilic/nvim-lspimport (⭐17)](https://github.com/stevanmilic/nvim-lspimport) - Automatically resolves imports for undefined terms. Useful with `pyright` language server.
+*   [stevanmilic/nvim-lspimport (⭐22)](https://github.com/stevanmilic/nvim-lspimport) - Automatically resolves imports for undefined terms. Useful with `pyright` language server.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Tsuzat/NeoSolarized.nvim (⭐111)](https://github.com/Tsuzat/NeoSolarized.nvim) - NeoSolarized colorscheme with full transparency.
+*   [Tsuzat/NeoSolarized.nvim (⭐113)](https://github.com/Tsuzat/NeoSolarized.nvim) - NeoSolarized colorscheme with full transparency.
 
 ## [Nov 12, 2023](/content/2023/11/12/README.md)
 
 ### Startup / Diagnostics
 
-*   [TobinPalmer/Tip.nvim (⭐2)](https://github.com/TobinPalmer/Tip.nvim) - Get a simple tip when you launch Neovim.
+*   [TobinPalmer/Tip.nvim (⭐9)](https://github.com/TobinPalmer/Tip.nvim) - Get a simple tip when you launch Neovim.
 
 ## [Nov 09, 2023](/content/2023/11/09/README.md)
 
@@ -179,7 +185,7 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [soulis-1256/hoverhints.nvim (⭐16)](https://github.com/soulis-1256/hoverhints.nvim) - Mouse-hover LSP hints.
+*   [soulis-1256/hoverhints.nvim (⭐38)](https://github.com/soulis-1256/hoverhints.nvim) - Mouse-hover LSP hints.
 
 ### Deployment / Diagnostics
 

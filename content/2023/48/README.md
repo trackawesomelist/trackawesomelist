@@ -1,18 +1,48 @@
 # Awesome List Updates on Nov 27 - Dec 03, 2023
 
-9 awesome lists updated this week.
+14 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+
+### Internationalization
+
+*   [simdutf (⭐844)](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON, AVX-512. \[Apache-2/MIT]
+
+## [2. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+
+### Pinning services
+
+*   [QuickNode](https://www.quicknode.com/ipfs) - IPFS gateways and pinning
+
+## [3. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / React
+
+*   [react-vite-template (⭐0)](https://github.com/Mirazex/react-vite-template) - Frontend template for building web apps (React, TypeScript, Vite, Mantine, Million, Husky, Prettier, Import Sorter, Lint-staged and others features).
+
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Utility / Diagnostics
+
+*   [`bgaillard/readonly.nvim`](https://github.com/bgaillard/readonly.nvim) - Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
+
+## [5. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+
+### Terminal / Terminal UI
+
+*   [oxker (⭐297)](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers. Written in [Rust](https://www.rust-lang.org/), making heavy use of [ratatui (⭐4.4k)](https://github.com/tui-rs-revival/ratatui) & [Bollard (⭐601)](https://github.com/fussybeaver/bollard), by [@mrjackwills](https://github.com/mrjackwills)
+
+## [6. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Global Connectivity Indexes
 
 *   Network Readiness Index - ([2023](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2023.pdf)) ([2022](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2022.pdf)) ([2021](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2021.pdf)) ([2020](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf)) ([2019](https://networkreadinessindex.org/2019/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf)) Network Readiness Index covering 121 economies from Portulans Institute
 
-## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Large Language Models (LLMs)
 
@@ -22,7 +52,7 @@
 
 *   [\[2311.05020\] First Tragedy, then Parse: History Repeats Itself in the New Era of Large Language Models](https://arxiv.org/abs/2311.05020): "that meaningful evaluation informed by actual use is still an open problem"
 
-## [3. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
@@ -32,25 +62,25 @@
 
 *   [Overtone](https://overtone.github.io/) - An open source audio environment designed to explore new musical ideas from synthesis and instrument building to live-coding.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Layout
 
 *   [vue-virtual-waterfall (⭐13)](https://github.com/lhlyu/vue-virtual-waterfall) - A virtual waterfall component for Vue 3.x.
 
-## [5. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### CLI and REPL
 
 *   [Taze (⭐1.9k)](https://github.com/antfu/taze) A modern cli tool that keeps your dependencies fresh
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CDN and Protection
 
 *   [CacheFly](https://portal.cachefly.com/signup/free2023) - Up to 5 TB per month of Free CDN traffic, 19 Core PoPs , 1 Domain and Universal SSL.
 
-## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [12. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Diagrams
 
@@ -60,7 +90,7 @@
 
 *   [KS DB Merge Tools](https://ksdbmerge.tools) - GUI to compare and sync DB schema and data. For Oracle Database, MySQL, MariaDB, SQL Server, PostgreSQL, SQLite, MS Access and Cross-DBMS.
 
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
@@ -92,7 +122,7 @@
 
 *   [formation-res/kt-fullstack-demo (⭐3)](https://github.com/formation-res/kt-fullstack-demo) - This demo kotlin-js project implements a UI and server for a little recipe search engine to demonstrate fritz2, kotlin-js, localization with mozilla fluent, use of koin in a webapp.
 
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Email - Mail Delivery Agents
 

@@ -158,8 +158,8 @@ Collections of awesome neovim plugins.
 *   [nvimtools/none-ls.nvim (⭐875)](https://github.com/nvimtools/none-ls.nvim) - Null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 *   [vxpm/ferris.nvim (⭐59)](https://github.com/vxpm/ferris.nvim) - Interact with Rust-Analyzer's LSP extensions.
 *   [mrcjkb/rustaceanvim (⭐139)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
-*   [soulis-1256/hoverhints.nvim (⭐16)](https://github.com/soulis-1256/hoverhints.nvim) - Mouse-hover LSP hints.
-*   [stevanmilic/nvim-lspimport (⭐17)](https://github.com/stevanmilic/nvim-lspimport) - Automatically resolves imports for undefined terms. Useful with `pyright` language server.
+*   [soulis-1256/hoverhints.nvim (⭐38)](https://github.com/soulis-1256/hoverhints.nvim) - Mouse-hover LSP hints.
+*   [stevanmilic/nvim-lspimport (⭐22)](https://github.com/stevanmilic/nvim-lspimport) - Automatically resolves imports for undefined terms. Useful with `pyright` language server.
 
 #### LSP Installer
 
@@ -424,7 +424,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [andersevenrud/nordic.nvim (⭐165)](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme.
 *   [AlexvZyl/nordic.nvim (⭐435)](https://github.com/AlexvZyl/nordic.nvim) - Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.
 *   [shaunsingh/nord.nvim (⭐692)](https://github.com/shaunsingh/nord.nvim) - Neovim theme based off of the Nord Color Palette.
-*   [Tsuzat/NeoSolarized.nvim (⭐111)](https://github.com/Tsuzat/NeoSolarized.nvim) - NeoSolarized colorscheme with full transparency.
+*   [Tsuzat/NeoSolarized.nvim (⭐113)](https://github.com/Tsuzat/NeoSolarized.nvim) - NeoSolarized colorscheme with full transparency.
 *   [svrana/neosolarized.nvim (⭐138)](https://github.com/svrana/neosolarized.nvim) - Dark solarized colorscheme using colorbuddy for easy customization.
 *   [ishan9299/nvim-solarized-lua (⭐159)](https://github.com/ishan9299/nvim-solarized-lua) - Solarized colorscheme in Lua (Neovim >= 0.5).
 *   [shaunsingh/moonlight.nvim (⭐164)](https://github.com/shaunsingh/moonlight.nvim) - Port of VSCode's Moonlight colorscheme, written in Lua with built-in support for native LSP, Tree-sitter and many more plugins.
@@ -583,7 +583,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [henriquehbr/nvim-startup.lua](https://sr.ht/~henriquehbr/nvim-startup.lua) - Displays Neovim startup time.
 *   [startup-nvim/startup.nvim (⭐340)](https://github.com/startup-nvim/startup.nvim) - The fully customizable greeter for neovim.
 *   [willothy/veil.nvim (⭐107)](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizable startup / dashboard plugin.
-*   [TobinPalmer/Tip.nvim (⭐2)](https://github.com/TobinPalmer/Tip.nvim) - Get a simple tip when you launch Neovim.
+*   [TobinPalmer/Tip.nvim (⭐9)](https://github.com/TobinPalmer/Tip.nvim) - Get a simple tip when you launch Neovim.
 
 ## Icon
 
@@ -694,6 +694,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [VidocqH/data-viewer.nvim (⭐51)](https://github.com/VidocqH/data-viewer.nvim) - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 *   [JMarkin/gentags.lua (⭐11)](https://github.com/JMarkin/gentags.lua) - Auto generate tag files by ctags.
 *   [`yutkat/confirm-quit.nvim`](https://github.com/yutkat/confirm-quit.nvim) - Confirm before quitting Neovim.
+*   [`bgaillard/readonly.nvim`](https://github.com/bgaillard/readonly.nvim) - Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
 
 ## Terminal Integration
 

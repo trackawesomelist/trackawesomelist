@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
+
+### Utility / Diagnostics
+
+*   [`bgaillard/readonly.nvim`](https://github.com/bgaillard/readonly.nvim) - Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
+
 ## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
 
 ### Completion / Diagnostics
@@ -70,7 +76,7 @@ Collections of awesome neovim plugins.
 ### (requires Neovim 0.5)
 
 *   [hedyhli/outline.nvim (⭐47)](https://github.com/hedyhli/outline.nvim) - A significantly enhanced and refactored fork of `symbols-outline.nvim`.
-*   [stevanmilic/nvim-lspimport (⭐17)](https://github.com/stevanmilic/nvim-lspimport) - Automatically resolves imports for undefined terms. Useful with `pyright` language server.
+*   [stevanmilic/nvim-lspimport (⭐22)](https://github.com/stevanmilic/nvim-lspimport) - Automatically resolves imports for undefined terms. Useful with `pyright` language server.
 
 ### Programming Languages Support / Diagnostics
 
@@ -78,7 +84,7 @@ Collections of awesome neovim plugins.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Tsuzat/NeoSolarized.nvim (⭐111)](https://github.com/Tsuzat/NeoSolarized.nvim) - NeoSolarized colorscheme with full transparency.
+*   [Tsuzat/NeoSolarized.nvim (⭐113)](https://github.com/Tsuzat/NeoSolarized.nvim) - NeoSolarized colorscheme with full transparency.
 
 ### Lua Colorscheme / Diagnostics
 
@@ -96,7 +102,7 @@ Collections of awesome neovim plugins.
 
 ### Startup / Diagnostics
 
-*   [TobinPalmer/Tip.nvim (⭐2)](https://github.com/TobinPalmer/Tip.nvim) - Get a simple tip when you launch Neovim.
+*   [TobinPalmer/Tip.nvim (⭐9)](https://github.com/TobinPalmer/Tip.nvim) - Get a simple tip when you launch Neovim.
 
 ### Motion / Diagnostics
 
@@ -138,7 +144,7 @@ Collections of awesome neovim plugins.
 ### (requires Neovim 0.5)
 
 *   [mrcjkb/rustaceanvim (⭐139)](https://github.com/mrcjkb/rustaceanvim) - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
-*   [soulis-1256/hoverhints.nvim (⭐16)](https://github.com/soulis-1256/hoverhints.nvim) - Mouse-hover LSP hints.
+*   [soulis-1256/hoverhints.nvim (⭐38)](https://github.com/soulis-1256/hoverhints.nvim) - Mouse-hover LSP hints.
 
 ### Deployment / Diagnostics
 

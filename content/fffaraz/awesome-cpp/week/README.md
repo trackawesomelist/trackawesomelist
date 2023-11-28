@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ [Daily](/content/fffaraz/awesome-cpp/README.md) / Weekly / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
+
+### Internationalization
+
+*   [simdutf (⭐844)](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON, AVX-512. \[Apache-2/MIT]
+
 ## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
 
 ### GUI
@@ -30,7 +36,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Graphics
 
-*   [ThorVG (⭐364)](https://github.com/thorvg/thorvg) - a platform-independent portable library that allows for drawing vector-based scenes and animations, including SVG and Lottie. \[MIT] [website](https://www.thorvg.org/)
+*   [ThorVG (⭐373)](https://github.com/thorvg/thorvg) - a platform-independent portable library that allows for drawing vector-based scenes and animations, including SVG and Lottie. \[MIT] [website](https://www.thorvg.org/)
 
 ### Networking
 
@@ -65,7 +71,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Logging
 
-*   [haclog (⭐63)](https://github.com/MuggleWei/haclog) - An extremely fast plain C logging library. \[MIT]
+*   [haclog (⭐64)](https://github.com/MuggleWei/haclog) - An extremely fast plain C logging library. \[MIT]
 
 ### PDF
 
@@ -73,7 +79,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Miscellaneous
 
-*   [faker-cxx (⭐117)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
+*   [faker-cxx (⭐132)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
 *   [inja (⭐1.4k)](https://github.com/pantor/inja) - A Template Engine for Modern C++. \[MIT]
 
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
@@ -197,7 +203,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Frameworks
 
-*   [Qt](https://github.com/qt) :zap: - A cross-platform application and UI framework. \[GPL/LGPL/Commercial] [website](https://www.qt.io)
+*   [Qt](https://github.com/qt) :zap: - A cross-platform application and UI framework. \[GPL/LGPL/Proprietary] [website](https://www.qt.io)
 
 ### Compression
 
@@ -243,8 +249,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [doxygen (⭐5.1k)](https://github.com/doxygen/doxygen) :zap: - The de facto standard tool for generating documentation from annotated C++ sources. \[GPL2] [website](https://www.doxygen.org)
 *   [doxyrest (⭐303)](https://github.com/vovkos/doxyrest) - A compiler from Doxygen XML to reStructuredText for Sphinx. \[MIT]
-*   [hdoc (⭐267)](https://github.com/hdoc/hdoc) - The modern documentation tool for C++. \[AGPL/Commercial] [website](https://hdoc.io)
-*   [Natural Docs (⭐179)](https://github.com/NaturalDocs/NaturalDocs) - Natural Docs is an open source documentation generator for multiple programming languages. \[AGPL/Commercial] [website](https://www.naturaldocs.org)
+*   [hdoc (⭐267)](https://github.com/hdoc/hdoc) - The modern documentation tool for C++. \[AGPL/Proprietary] [website](https://hdoc.io)
+*   [Natural Docs (⭐179)](https://github.com/NaturalDocs/NaturalDocs) - Natural Docs is an open source documentation generator for multiple programming languages. \[AGPL/Proprietary] [website](https://www.naturaldocs.org)
 *   [Sphinx (⭐5.8k)](https://github.com/sphinx-doc/sphinx) - Sphinx makes it easy to create intelligent and beautiful documentation. \[BSD-2-Clause] [website](https://www.sphinx-doc.org)
 
 ### Websites
@@ -555,7 +561,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Graphics
 
-*   [Harfang 3D (⭐425)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. \[GPLv3/LGPLv3/Commercial] [website](https://www.harfang3d.com)
+*   [Harfang 3D (⭐425)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. \[GPLv3/LGPLv3/Proprietary] [website](https://www.harfang3d.com)
 
 ## [May 23 - May 29, 2022](/content/2022/21/README.md)
 
@@ -609,7 +615,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### GUI
 
-*   [Slint (⭐11k)](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. \[GPL/Free/Commercial] [website](https://slint.dev/)
+*   [Slint (⭐11k)](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. \[GPL/Free/Proprietary] [website](https://slint.dev/)
 
 ## [Feb 14 - Feb 20, 2022](/content/2022/7/README.md)
 
@@ -1339,7 +1345,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### GUI
 
-*   [Boden (⭐1.6k)](https://github.com/AshampooSystems/boden) - Native, mobile, cross-platform GUI Framework. \[GPL/LGPL/Commercial] [website](https://www.boden.io)
+*   [Boden (⭐1.6k)](https://github.com/AshampooSystems/boden) - Native, mobile, cross-platform GUI Framework. \[GPL/LGPL/Proprietary] [website](https://www.boden.io)
 
 ### JSON
 
@@ -1913,7 +1919,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Memory Allocation
 
-*   [Hoard (⭐1k)](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. \[GPL, commercial] [website](http://hoard.org/)
+*   [Hoard (⭐1k)](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. \[Apache-2.0] [website](http://hoard.org/)
 *   [jemalloc (⭐8.6k)](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
 
 ### PDF
@@ -2362,7 +2368,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [CppVerbalExpressions (⭐374)](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. \[MIT]
 *   [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. \[BSD]
 *   [RE2 (⭐8.3k)](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. \[BSD-3-Clause]
-*   [SLRE (⭐512)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. \[GPLv2/Commercial]
+*   [SLRE (⭐512)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. \[GPLv2/Proprietary]
 
 ## [Nov 06 - Nov 12, 2017](/content/2017/45/README.md)
 
@@ -2402,7 +2408,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### PDF
 
 *   [libharu (⭐1.6k)](https://github.com/libharu/libharu) - A free, cross platform, open-sourced software library for generating PDF. \[zlib]
-*   [MuPDF](https://mupdf.com/) - A lightweight PDF, XPS, and E-book viewer. \[AGPL/Commercial]
+*   [MuPDF](https://mupdf.com/) - A lightweight PDF, XPS, and E-book viewer. \[AGPL/Proprietary]
 
 ## [Oct 16 - Oct 22, 2017](/content/2017/42/README.md)
 
@@ -2677,7 +2683,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Audio
 
-*   [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, FFT, FIR/IIR filters, Sample Rate Conversion. \[GPL/Commercial]
+*   [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, FFT, FIR/IIR filters, Sample Rate Conversion. \[GPL/Proprietary]
 
 ### Build Systems
 
@@ -3293,7 +3299,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### GUI
 
-*   [FLTK](http://www.fltk.org/index.php) - Fast, light, cross-platform C++ GUI toolkit. \[GPL2]
+*   [FLTK](http://www.fltk.org/index.php) - Fast, light, cross-platform C++ GUI toolkit. \[LGPL2]
 
 ### Graphics
 
@@ -3334,7 +3340,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Miscellaneous
 
 *   [Better String](http://bstring.sourceforge.net) - An alternative to the string library for C which is more functional and does not have buffer overflow overrun problems. Also includes a C++ wrapper. \[BSD, GPL2]
-*   [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. \[GPL2/Commercial]
+*   [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. \[GPL2/Proprietary]
 *   [Stage (⭐378)](https://github.com/rtv/Stage) - Mobile robot simulator. \[GPL2]
 *   [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. \[LGPL2]
 
@@ -3731,7 +3737,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [ASL](http://stlab.adobe.com/) - Adobe Source Libraries provides peer-reviewed and portable C++ source libraries. \[MIT]
 *   [ffead-cpp (⭐646)](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development. \[Apache2]
 *   [Folly (⭐26k)](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook. \[Apache2]
-*   [JUCE (⭐5.6k)](https://github.com/julianstorer/JUCE) - An all-encompassing C++ class library for developing cross-platform software. \[Core-Module: ISC, Rest: GPL2/GPL3/Commercial] [website](http://www.juce.com/)
+*   [JUCE (⭐5.6k)](https://github.com/julianstorer/JUCE) - An all-encompassing C++ class library for developing cross-platform software. \[Core-Module: ISC, Rest: GPL2/GPL3/Proprietary] [website](http://www.juce.com/)
 *   [libPhenom (⭐1.7k)](https://github.com/facebook/libphenom) - libPhenom is an eventing framework for building high performance and high scalability systems in C. \[Apache2]
 *   [LibSourcey (⭐1.3k)](https://github.com/sourcey/libsourcey) - C++11 evented IO for real-time video streaming and high performance networking applications. \[LGPL]
 *   [LibU (⭐420)](https://github.com/koanlogic/libu) - A multiplatform utility library written in C. \[BSD]
@@ -3754,7 +3760,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [FMOD](http://www.fmod.org/) - An easy to use crossplatform audio engine and audio content creation tool for games. \[Free for non-commercial/Commercial]
 *   [Maximilian (⭐1.5k)](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library. \[MIT]
-*   [OpenAL](http://www.openal.org/) - Open Audio Library - A crossplatform audio API. \[BSD/LGPL/Commercial]
+*   [OpenAL](http://www.openal.org/) - Open Audio Library - A crossplatform audio API. \[BSD/LGPL/Proprietary]
 *   [Opus](http://opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec. \[BSD]
 *   [Speex](http://www.speex.org/) - A free codec for free speech. Obsoleted by Opus. \[BSD]
 *   [Tonic (⭐500)](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++. \[Unlicense]
@@ -3802,7 +3808,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Kore](https://kore.io/) - ultra fast and flexible web server / framework for web applications developed in C. \[ISC]
 *   [libOnion](http://www.coralbits.com/libonion/) - lightweight library to help you create webservers in C programming language. \[LGPLv3]
 *   [QDjango (⭐258)](https://github.com/jlaine/qdjango/) - A web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name. \[LGPL]
-*   [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications. \[GPL/Commercial]
+*   [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications. \[GPL/Proprietary]
 
 ## [Aug 11 - Aug 17, 2014](/content/2014/32/README.md)
 
