@@ -102,6 +102,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 
 ### CLI and REPL
 
+*   [Taze (⭐1.9k)](https://github.com/antfu/taze) A modern cli tool that keeps your dependencies fresh
 *   Use [ts-node (⭐12k)](https://github.com/TypeStrong/ts-node) to run scripts or REPL
 *   How to make executable typescript scripts:
     1.  Make sure you have `npx` (shipped with `npm >= 5.2`) and `typescript` package is installed

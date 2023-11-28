@@ -6,6 +6,12 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ Daily / [Weekly](/content/dzharii/awesome-typescript/week/README.md) / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
+## [Nov 28, 2023](/content/2023/11/28/README.md)
+
+### CLI and REPL
+
+*   [Taze (⭐1.9k)](https://github.com/antfu/taze) A modern cli tool that keeps your dependencies fresh
+
 ## [Nov 26, 2023](/content/2023/11/26/README.md)
 
 ### Libraries / Chrome Extensions
