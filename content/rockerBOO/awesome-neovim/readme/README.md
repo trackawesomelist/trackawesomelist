@@ -254,6 +254,7 @@ Collections of awesome neovim plugins.
 *   [kiran94/edit-markdown-table.nvim (⭐24)](https://github.com/kiran94/edit-markdown-table.nvim) - Edit Markdown Tables using Tree-sitter.
 *   [richardbizik/nvim-toc (⭐20)](https://github.com/richardbizik/nvim-toc) - Easily generate table of contents for markdown files.
 *   [Zeioth/markmap.nvim (⭐94)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
+*   [tadmccorkle/markdown.nvim (⭐2)](https://github.com/tadmccorkle/markdown.nvim) - Configurable tools for markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more.
 
 ## Language
 
@@ -693,8 +694,8 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [luckasRanarison/nvim-devdocs (⭐171)](https://github.com/luckasRanarison/nvim-devdocs) - Preview devdocs.io documentations directly in Markdown format.
 *   [VidocqH/data-viewer.nvim (⭐51)](https://github.com/VidocqH/data-viewer.nvim) - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 *   [JMarkin/gentags.lua (⭐11)](https://github.com/JMarkin/gentags.lua) - Auto generate tag files by ctags.
-*   [`yutkat/confirm-quit.nvim`](https://github.com/yutkat/confirm-quit.nvim) - Confirm before quitting Neovim.
-*   [`bgaillard/readonly.nvim`](https://github.com/bgaillard/readonly.nvim) - Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
+*   [yutkat/confirm-quit.nvim (⭐13)](https://github.com/yutkat/confirm-quit.nvim) - Confirm before quitting Neovim.
+*   [bgaillard/readonly.nvim (⭐3)](https://github.com/bgaillard/readonly.nvim) - Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
 
 ## Terminal Integration
 
