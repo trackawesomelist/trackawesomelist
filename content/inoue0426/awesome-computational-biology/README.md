@@ -2,9 +2,26 @@
 
 Awesome list of computational biology.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/inoue0426/awesome-computational-biology/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 inoue0426/awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology) · ⭐ 35 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/inoue0426/awesome-computational-biology/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 inoue0426/awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology) · ⭐ 43 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/inoue0426/awesome-computational-biology/week/README.md) / [Overview](/content/inoue0426/awesome-computational-biology/readme/README.md) ]
+
+## [Nov 29, 2023](/content/2023/11/29/README.md)
+
+### Databases / Compound
+
+*   [Drug Repurposing Hub](https://repo-hub.broadinstitute.org/repurposing#download-data) - Collections of drug repurposing data containing drug, moa, target etc.
+
+### Databases / Protein
+
+*   [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/api-docs) - Database of 3D protein structures.
+
+### Databases / Interaction
+
+*   Protein-Protein Interaction
+    *   [STRING](https://string-db.org/) - Protein-Protein Interaction Networks for several organisms.
+    *   [BioGRID](https://thebiogrid.org/) - Database of Protein, Genetic and Chemical Interactions.
+    *   [HIPPIE](http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/) - Human Protein-Protein Interaction database.
 
 ## [Sep 07, 2023](/content/2023/09/07/README.md)
 
@@ -94,21 +111,21 @@ Awesome list of computational biology.
 
 ### Preprocess / Interaction
 
-*   [Chemistry Development Kit (⭐428)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
-*   [RDKit (⭐2.2k)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
+*   [Chemistry Development Kit (⭐445)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
+*   [RDKit (⭐2.3k)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
 
 ### Machine Learning Tasks and Models / Drug Repurposing
 
-*   [DeepPurpose (⭐800)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on.
+*   [DeepPurpose (⭐835)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on.
 
 ### Machine Learning Tasks and Models / Drug Target Interaction
 
-*   [NeoDTI (⭐66)](https://github.com/FangpingWan/NeoDTI) - A library for Drug Target Interaction.
+*   [NeoDTI (⭐69)](https://github.com/FangpingWan/NeoDTI) - A library for Drug Target Interaction.
 
 ### Machine Learning Tasks and Models / Compound Protein Interaction
 
 *   [MCPINN (⭐3)](https://github.com/mhlee0903/multi_channels_PINN) - A library for drug discovery using Compound Protein Interaction and Machine Learning.
-*   [TransformerCPI (⭐117)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
+*   [TransformerCPI (⭐125)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
 
 ## [Feb 22, 2022](/content/2022/02/22/README.md)
 
@@ -130,4 +147,4 @@ Awesome list of computational biology.
 
 ### Machine Learning Tasks and Models / Drug Repurposing
 
-*   [DRKG (⭐503)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
+*   [DRKG (⭐519)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.

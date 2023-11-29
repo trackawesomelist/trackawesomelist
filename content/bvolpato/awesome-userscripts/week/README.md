@@ -6,6 +6,17 @@
 
 [ [Daily](/content/bvolpato/awesome-userscripts/README.md) / Weekly / [Overview](/content/bvolpato/awesome-userscripts/readme/README.md) ]
 
+## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
+
+### Scripts / GitHub
+
+*   [GitHub Commit Diff (⭐326)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
+*   [GitHub News Feed Filter (⭐326)](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
+*   [GitHub Pages Linker (⭐326)](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
+*   [GitHub Pull Request From Link (⭐326)](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
+*   [GitHub Reply Comments (⭐326)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
+*   [GitHub Skip Delete Repo Verification](https://greasyfork.org/en/scripts/411790-skip-delete-repo-verification) - Skips the verification step when deleting a repository.
+
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
 ### Scripts / Google
@@ -66,7 +77,7 @@
 
 ### Scripts / Ads
 
-*   [AntiAdware (⭐192)](https://github.com/handyuserscripts/antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
+*   [AntiAdware (⭐193)](https://github.com/handyuserscripts/antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 
 ## [Mar 28 - Apr 03, 2022](/content/2022/13/README.md)
 
@@ -79,12 +90,6 @@
 ### Scripts / GitHub
 
 *   [GitHub collapse markdown (⭐1.6k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-markdown) - Toggle markdown headers.
-
-## [Oct 05 - Oct 11, 2020](/content/2020/40/README.md)
-
-### Scripts / GitHub
-
-*   [Github Skip Delete Repo Verification](https://greasyfork.org/en/scripts/411790-skip-delete-repo-verification) - Skips the verification step when deleting a repository.
 
 ## [May 25 - May 31, 2020](/content/2020/21/README.md)
 
@@ -134,7 +139,7 @@
 *   [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) -  Load more results automatically and endlessly.
 *   [Google Images direct link](https://greasyfork.org/scripts/3187-google-images-direct-link) - Adds direct links to images and pages in google image search.
 *   [Google Translate Keyboard Shortcut (⭐7)](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
-*   [Reddit Search On Google (⭐75)](https://github.com/marioortizmanero/reddit-search-on-google) - Adds a button to your Google searches to show only Reddit posts.
+*   [Reddit Search On Google (⭐76)](https://github.com/marioortizmanero/reddit-search-on-google) - Adds a button to your Google searches to show only Reddit posts.
 
 ### Scripts / Media
 
@@ -155,14 +160,9 @@
 
 ### Scripts / GitHub
 
-*   [GitHub Commit Whitespace (⭐324)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - Adds button to hide whitespace diffs from commits.
-*   [GitHub Image Viewer (⭐324)](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
-*   [GitHub User Info (⭐324)](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
-*   [Github Commit Diff (⭐324)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
-*   [Github News Feed Filter (⭐324)](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
-*   [Github Pages Linker (⭐324)](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
-*   [Github Pull Request From Link (⭐324)](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
-*   [Github Reply Comments (⭐324)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
+*   [GitHub Commit Whitespace (⭐326)](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - Adds button to hide whitespace diffs from commits.
+*   [GitHub Image Viewer (⭐326)](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
+*   [GitHub User Info (⭐326)](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
 
 ## [May 15 - May 21, 2017](/content/2017/20/README.md)
 
@@ -207,7 +207,7 @@
 
 ### Scripts / YouTube
 
-*   [YouTube Subtitle Download (⭐689)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
+*   [YouTube Subtitle Download (⭐692)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
 
 ## [Jul 25 - Jul 31, 2016](/content/2016/30/README.md)
 

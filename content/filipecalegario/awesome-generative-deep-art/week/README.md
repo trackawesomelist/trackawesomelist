@@ -8,8 +8,15 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
 
+### Human-AI Interaction
+
+*   [UX for AI: How to Power Human Experiences with AI - Design Tool Tuesday - YouTube](https://www.youtube.com/watch?v=50Of7_lubN4)
+*   [Behind-the-Design: Meet Copilot by Microsoft Design](https://medium.com/microsoft-design/behind-the-design-meet-copilot-2c68182a0e70)
+
 ### Large Language Models (LLMs)
 
+*   [Automatic Hallucination detection with SelfCheckGPT NLI](https://huggingface.co/blog/dhuynh95/automatic-hallucination-detection)
+*   [StreamingLLM gives language models unlimited context](https://bdtechtalks.com/2023/11/27/streamingllm/): giving language models unlimited context
 *   [iusztinpaul/hands-on-llms (⭐533)](https://github.com/iusztinpaul/hands-on-llms): learn about LLMs, LLMOps, and vector DBs for free by designing, training, and deploying a real-time financial advisor LLM system \~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴
 
 ### LLM Evaluation / Multi-agents

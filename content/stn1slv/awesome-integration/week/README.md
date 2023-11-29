@@ -2,46 +2,80 @@
 
 A curated list of awesome system integration software and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stn1slv/awesome-integration/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stn1slv/awesome-integration](https://github.com/stn1slv/awesome-integration) · ⭐ 263 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stn1slv/awesome-integration/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stn1slv/awesome-integration](https://github.com/stn1slv/awesome-integration) · ⭐ 269 · 🏷️ Platforms
 
 [ [Daily](/content/stn1slv/awesome-integration/README.md) / Weekly / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
-## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
+## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
 
 ### Projects / API Management
 
-*   [Gravitee.io API Management (⭐84) (⭐81)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐777) (⭐774)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
+*   [Gravitee.io API Management (⭐88) (⭐88)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
+*   [WSO2 API Manager (⭐778) (⭐778)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
+
+### Projects / API Design
+
+*   [OpenAPI Diff (⭐693) (⭐693)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+*   [Spectral (⭐2.1k) (⭐2.1k)](https://github.com/stoplightio/spectral) - Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.
+*   [Zally (⭐857) (⭐857)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
+
+### Projects / API Documentation
+
+*   [DapperDox (⭐390) (⭐390)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
+*   [OpenAPI Explorer (⭐236) (⭐236)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
+
+### Projects / API Testing
+
+*   MQ clients
+    *   [JMSToolBox (⭐184) (⭐184)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
+    *   [kcat (⭐5k) (⭐5.1k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
+    *   [MQTT Explorer (⭐2.5k) (⭐2.6k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
+    *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
+    *   [Service Bus Explorer (⭐1.8k) (⭐1.9k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
+
+### Projects / ESB
+
+*   [WSO2 Enterprise Integrator (⭐357) (⭐357)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
+
+### Projects / Messaging
+
+*   [Eclipse Mosquitto (⭐7.9k) (⭐7.9k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
+
+### Projects / Workflow engine
+
+*   [Elsa Core (⭐5.2k) (⭐5.2k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
+*   [Temporal (⭐8.5k) (⭐8.6k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
+
+### Resources / API Specification
+
+*   [AsyncAPI (⭐3.5k) (⭐3.5k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
+
+### Resources / Data Formats
+
+*   [NDJSON (⭐601) (⭐601)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+*   [Protocol Buffers (⭐62k) (⭐62k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
+*   [YAML (⭐276) (⭐276)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+
+### Resources / Protocols
+
+*   [OpenMessaging (⭐283) (⭐283)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
+
+## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
 
 ### Projects / API Design
 
 *   [OpenAPI-GUI (⭐1.3k) (⭐1.3k)](https://github.com/Mermade/openapi-gui) - Create and validate OpenAPI specs with ease using this intuitive graphical user interface.
-*   [OpenAPI Diff (⭐692) (⭐681)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [OpenAPI Style Validator (⭐183) (⭐181)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
-*   [Zally (⭐856) (⭐852)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
+*   [OpenAPI Style Validator (⭐183) (⭐183)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
 
 ### Projects / API Gateway
 
 *   [Gloo Edge (⭐3.9k) (⭐3.9k)](https://github.com/solo-io/gloo) - An Envoy Proxy-based API Gateway that provides advanced traffic management, security, and observability features for modern microservices architectures.
 *   [Tyk API Gateway (⭐8.9k) (⭐8.9k)](https://github.com/TykTechnologies/tyk) - An open source Enterprise API Gateway that supports REST, GraphQL, TCP, and gRPC protocols. It provides advanced API management features such as rate limiting, access control, and analytics.
 
-### Projects / API Testing
-
-*   MQ clients
-    *   [JMSToolBox (⭐183) (⭐182)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
-    *   [kcat (⭐5k) (⭐5k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
-    *   [MQTT Explorer (⭐2.5k) (⭐2.5k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
-    *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
-    *   [Service Bus Explorer (⭐1.8k) (⭐1.9k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
-
 ### Projects / Data Mapping Solution
 
-*   [AltasMap (⭐170) (⭐168)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
-*   [JSLT (⭐580) (⭐577)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
-
-### Projects / ESB
-
-*   [WSO2 Enterprise Integrator (⭐355) (⭐353)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
+*   [AltasMap (⭐170) (⭐170)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
+*   [JSLT (⭐580) (⭐580)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
 
 ### Projects / Messaging
 
@@ -53,15 +87,7 @@ A curated list of awesome system integration software and resources.
 
 *   [Camunda (⭐3.6k) (⭐3.6k)](https://github.com/camunda/camunda-bpm-platform) - An open-source workflow and decision automation platform that helps you automate business processes and decisions in a flexible and scalable way.
 
-### Resources / Data Formats
-
-*   [NDJSON (⭐598) (⭐593)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-
 ## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
-
-### Projects / API Documentation
-
-*   [DapperDox (⭐389) (⭐387)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
 
 ### Projects / API Gateway
 
@@ -72,7 +98,7 @@ A curated list of awesome system integration software and resources.
 *   Testing tools and frameworks
     *   [Apache JMeter (⭐7.5k) (⭐7.5k)](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
     *   [Gatling (⭐6.1k) (⭐6.1k)](https://github.com/gatling/gatling) - An open-source load testing tool that allows users to write and run load tests as code, providing detailed performance reports to optimize system performance.
-    *   [Karate (⭐7.4k) (⭐7.5k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
+    *   [Karate (⭐7.5k) (⭐7.5k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
     *   [Pyresttest (⭐1.1k) (⭐1.1k)](https://github.com/svanoort/pyresttest) - Java DSL for easy testing of REST services.
     *   [REST Assured (⭐6.5k) (⭐6.6k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
     *   [Schemathesis (⭐1.9k) (⭐1.9k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
@@ -80,35 +106,22 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / BRE
 
-*   [OpenL Tablets (⭐133) (⭐132)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
+*   [OpenL Tablets (⭐133) (⭐133)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
 
 ### Projects / Messaging
 
-*   [Redpanda (⭐8k) (⭐8k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
+*   [Redpanda (⭐8k) (⭐8.1k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
 
 ### Projects / Workflow engine
 
-*   [Cadence (⭐7.4k) (⭐7.4k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
+*   [Cadence (⭐7.4k) (⭐7.5k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
 *   [Flowable (⭐6.9k) (⭐6.9k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
-*   [Temporal (⭐8.4k) (⭐8.4k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
-
-### Resources / Data Formats
-
-*   [YAML (⭐275) (⭐274)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
-
-### Resources / Protocols
-
-*   [OpenMessaging (⭐282) (⭐281)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
 ### Projects / API Design
 
 *   [OpenAPI Generator (⭐18k) (⭐18k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
-
-### Projects / API Documentation
-
-*   [OpenAPI Explorer (⭐235) (⭐235)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
 
 ### Projects / API Gateway
 
@@ -124,7 +137,7 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / Workflow engine
 
-*   [StackStorm (⭐5.7k) (⭐5.7k)](https://github.com/StackStorm/st2) - A robust automation engine that provides sensors, triggers, rules, workflows, and actions to help you automate and orchestrate complex workflows and applications.
+*   [StackStorm (⭐5.7k) (⭐5.8k)](https://github.com/StackStorm/st2) - A robust automation engine that provides sensors, triggers, rules, workflows, and actions to help you automate and orchestrate complex workflows and applications.
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
@@ -138,16 +151,15 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / ETL
 
-*   [Pentaho Data Integration (⭐7k) (⭐7k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
+*   [Pentaho Data Integration (⭐7k) (⭐7.1k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
 
 ### Projects / Messaging
 
 *   [Apache Qpid (⭐55) (⭐55)](https://github.com/apache/qpid-broker-j) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
-*   [Eclipse Mosquitto (⭐7.8k) (⭐7.8k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
 
 ### Projects / Workflow engine
 
-*   [Conductor (⭐12k) (⭐12k)](https://github.com/Netflix/conductor) - A cloud-based orchestration engine designed to run and manage workflows in a microservices architecture.
+*   [Conductor (⭐12k) (⭐13k)](https://github.com/Netflix/conductor) - A cloud-based orchestration engine designed to run and manage workflows in a microservices architecture.
 
 ### Resources / Data Formats
 
@@ -157,7 +169,7 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / API Gateway
 
-*   [KrakenD API Gateway (⭐1.5k) (⭐1.5k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance API Gateway that leverages middlewares for fast and efficient API management.
+*   [KrakenD API Gateway (⭐1.5k) (⭐1.6k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance API Gateway that leverages middlewares for fast and efficient API management.
 
 ### Projects / API Testing
 
@@ -168,7 +180,7 @@ A curated list of awesome system integration software and resources.
     *   [MockServer (⭐4.3k) (⭐4.3k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
     *   [Mocky (⭐1.9k) (⭐2k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
     *   [Prism (⭐3.8k) (⭐3.8k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
-    *   [WireMock (⭐5.8k) (⭐5.8k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
+    *   [WireMock (⭐5.8k) (⭐5.9k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
 
 ### Projects / Integration Frameworks
 
@@ -177,7 +189,6 @@ A curated list of awesome system integration software and resources.
 ### Projects / Workflow engine
 
 *   [Bonita (⭐139) (⭐139)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
-*   [Elsa Core (⭐5.1k) (⭐5.1k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
 
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
@@ -194,7 +205,7 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / BRE
 
-*   [Drools (⭐5.5k) (⭐5.5k)](https://github.com/apache/incubator-kie-drools) - Open-source tool that supports Decision Model and Notation (DMN) models at Conformance level 3 with an Eclipse IDE plugin for core development.
+*   [Drools (⭐5.5k) (⭐5.6k)](https://github.com/apache/incubator-kie-drools) - Open-source tool that supports Decision Model and Notation (DMN) models at Conformance level 3 with an Eclipse IDE plugin for core development.
 
 ### Projects / ETL
 
@@ -213,19 +224,11 @@ A curated list of awesome system integration software and resources.
 
 *   [Apache Airflow (⭐32k) (⭐32k)](https://github.com/apache/airflow) - A platform that allows you to create, schedule, and monitor workflows programmatically, making it easier to manage and automate complex data pipelines.
 
-### Resources / API Specification
-
-*   [AsyncAPI (⭐3.4k) (⭐3.5k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
-
-### Resources / Data Formats
-
-*   [Protocol Buffers (⭐61k) (⭐62k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
-
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 
 ### Projects / API Documentation
 
-*   [RapiDoc (⭐1.4k) (⭐1.4k)](https://github.com/rapi-doc/RapiDoc) - A tool that generates customizable, interactive API documentation from OpenAPI Specification, with a range of design options.
+*   [RapiDoc (⭐1.4k) (⭐1.5k)](https://github.com/rapi-doc/RapiDoc) - A tool that generates customizable, interactive API documentation from OpenAPI Specification, with a range of design options.
 
 ## [Sep 11 - Sep 17, 2023](/content/2023/37/README.md)
 
@@ -258,7 +261,6 @@ A curated list of awesome system integration software and resources.
 ### Projects / API Design
 
 *   [Dredd (⭐4k) (⭐4.1k)](https://github.com/apiaryio/dredd) - Validate API description docs against backend implementation using this language-agnostic CLI tool.
-*   [Spectral (⭐2k) (⭐2.1k)](https://github.com/stoplightio/spectral) - Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.
 
 ### Projects / Messaging
 
@@ -266,7 +268,7 @@ A curated list of awesome system integration software and resources.
 
 ### Resources / API Specification
 
-*   [RAML (⭐3.8k) (⭐3.8k)](https://github.com/raml-org/raml-spec) - A RESTful API Modeling Language that allows software engineers to design and create efficient APIs by modeling resources, endpoints, and interactions.
+*   [RAML (⭐3.8k) (⭐3.9k)](https://github.com/raml-org/raml-spec) - A RESTful API Modeling Language that allows software engineers to design and create efficient APIs by modeling resources, endpoints, and interactions.
 
 ### Resources / Data Formats
 
@@ -294,7 +296,7 @@ A curated list of awesome system integration software and resources.
 ### Projects / API Testing
 
 *   API clients
-    *   [Advanced REST Client (⭐1.3k) (⭐1.3k)](https://github.com/advanced-rest-client/arc-electron) - An open-source API tool designed for testing and debugging RESTful web services.
+    *   [Advanced REST Client (⭐1.3k) (⭐1.4k)](https://github.com/advanced-rest-client/arc-electron) - An open-source API tool designed for testing and debugging RESTful web services.
     *   [curl (⭐32k) (⭐32k)](https://github.com/curl/curl) - Command-line tool for transferring data with URLs over various protocols.
     *   [curlie (⭐2.4k) (⭐2.5k)](https://github.com/rs/curlie) - Frontend to curl with the ease of use of httpie without compromising on performance and features.
     *   [HTTPie (⭐30k) (⭐30k)](https://github.com/httpie/httpie) - User-friendly command-line HTTP client that simplifies HTTP request/response inspection and manipulation.
@@ -314,7 +316,7 @@ A curated list of awesome system integration software and resources.
 ### Projects / Messaging
 
 *   [Apache Pulsar (⭐13k) (⭐13k)](https://github.com/apache/pulsar) - A distributed pub/sub-messaging system that supports both traditional messaging and streaming use cases. Offers a scalable and flexible architecture and supports multiple messaging protocols.
-*   [EMQX (⭐12k) (⭐12k)](https://github.com/emqx/emqx) - A high-performance, scalable, and reliable open-source MQTT broker for IoT, IIoT, and connected vehicles.
+*   [EMQX (⭐12k) (⭐13k)](https://github.com/emqx/emqx) - A high-performance, scalable, and reliable open-source MQTT broker for IoT, IIoT, and connected vehicles.
 *   [NATS (⭐13k) (⭐14k)](https://github.com/nats-io/gnatsd) - A lightweight and high-performance messaging system designed for microservices, IoT, and cloud-native systems. Offers efficient and reliable message delivery and supports multiple messaging protocols.
 
 ### Projects / Workflow engine
@@ -592,11 +594,11 @@ A curated list of awesome system integration software and resources.
 
 ### Integration Patterns / Integration Architecture Patterns
 
-*   [API-led Connectivity pattern (⭐3.1k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/API-led-Connectivity-Pattern.md) - Use APIs to connect different systems and applications.
-*   [Anti Corruption Layer Pattern (⭐3.1k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Anti-Corruption-Layer-Pattern.md) - Add a layer to isolate and transform data between systems.
-*   [Change Data Capture Pattern (⭐3.1k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Introduction-to-Change-Data-Capture.md) - Capture and propagate changes made to a database or data source in real-time.
-*   [Hybrid API Management pattern (⭐3.1k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Hybrid-API-Management-Pattern.md) - Manage APIs that span both cloud and on-premises environments using a central control plane.
-*   [Hybrid Integration pattern (⭐3.1k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Hybrid-Integration-Pattern.md) - Integrate systems and applications that are deployed both on-premises and in the cloud using a combination of integration technologies.
+*   [API-led Connectivity pattern (⭐3.2k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/API-led-Connectivity-Pattern.md) - Use APIs to connect different systems and applications.
+*   [Anti Corruption Layer Pattern (⭐3.2k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Anti-Corruption-Layer-Pattern.md) - Add a layer to isolate and transform data between systems.
+*   [Change Data Capture Pattern (⭐3.2k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Introduction-to-Change-Data-Capture.md) - Capture and propagate changes made to a database or data source in real-time.
+*   [Hybrid API Management pattern (⭐3.2k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Hybrid-API-Management-Pattern.md) - Manage APIs that span both cloud and on-premises environments using a central control plane.
+*   [Hybrid Integration pattern (⭐3.2k)](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Hybrid-Integration-Pattern.md) - Integrate systems and applications that are deployed both on-premises and in the cloud using a combination of integration technologies.
 
 ### Resources / Certifications
 

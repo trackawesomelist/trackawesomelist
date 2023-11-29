@@ -2,7 +2,7 @@
 
 Awesome list of computational biology.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/inoue0426/awesome-computational-biology/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 inoue0426/awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology) · ⭐ 35 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/inoue0426/awesome-computational-biology/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 inoue0426/awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology) · ⭐ 43 · 🏷️ Miscellaneous
 
 [ [Daily](/content/inoue0426/awesome-computational-biology/README.md) / [Weekly](/content/inoue0426/awesome-computational-biology/week/README.md) / Overview ]
 
@@ -50,6 +50,7 @@ A knowledge collection of databases, software and papers related to computationa
 *   [KEGG COMPOUND](https://www.genome.jp/kegg/compound/) - Collection of small molecules and biopolymers.
 *   [LIPID MAPS](https://www.lipidmaps.org/databases/lmsd/overview) - Database of lipids.
 *   [Rhea](https://www.rhea-db.org/) - Database of chemical reactions.
+*   [Drug Repurposing Hub](https://repo-hub.broadinstitute.org/repurposing#download-data) - Collections of drug repurposing data containing drug, moa, target etc.
 
 ### Pathway
 
@@ -67,6 +68,7 @@ A knowledge collection of databases, software and papers related to computationa
 *   [THE HUMAN PROTEIN ATLAS](https://www.proteinatlas.org/) - One of the biggest human protein database contained cells, tissues, and organs.
 *   [PROTEIN DATA BANK](https://www.rcsb.org/) - Database of the 3D shapes of proteins, nucleic acids, and complex assemblies.
 *   [UniProt](https://www.uniprot.org/) - The collection of functional information on proteins.
+*   [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/api-docs) - Database of 3D protein structures.
 
 ### Genome
 
@@ -95,11 +97,15 @@ A knowledge collection of databases, software and papers related to computationa
 *   Chemical Protein Interaction
     *   [STITCH](http://stitch.embl.de/) - A database of Chemical Protein Interaction.
     *   [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp) - A database of compounds and targes.
+*   Protein-Protein Interaction
+    *   [STRING](https://string-db.org/) - Protein-Protein Interaction Networks for several organisms.
+    *   [BioGRID](https://thebiogrid.org/) - Database of Protein, Genetic and Chemical Interactions.
+    *   [HIPPIE](http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/) - Human Protein-Protein Interaction database.
 
 ## Preprocess
 
-*   [Chemistry Development Kit (⭐428)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
-*   [RDKit (⭐2.2k)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
+*   [Chemistry Development Kit (⭐445)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
+*   [RDKit (⭐2.3k)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
 *   [Scanpy](https://scanpy.readthedocs.io/en/stable/) - scRNA analysis library in Python.
 *   [Seurat](https://satijalab.org/seurat/) - scRNA analysis library in R.
 
@@ -107,15 +113,15 @@ A knowledge collection of databases, software and papers related to computationa
 
 ### Drug Repurposing
 
-*   [DeepPurpose (⭐800)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on.
-*   [DRKG (⭐503)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
+*   [DeepPurpose (⭐835)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on.
+*   [DRKG (⭐519)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
 
 ### Drug Target Interaction
 
-*   [NeoDTI (⭐66)](https://github.com/FangpingWan/NeoDTI) - A library for Drug Target Interaction.
+*   [NeoDTI (⭐69)](https://github.com/FangpingWan/NeoDTI) - A library for Drug Target Interaction.
 
 ### Compound Protein Interaction
 
 *   [MCPINN (⭐3)](https://github.com/mhlee0903/multi_channels_PINN) - A library for drug discovery using Compound Protein Interaction and Machine Learning.
-*   [TransformerCPI (⭐117)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
+*   [TransformerCPI (⭐125)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
 
