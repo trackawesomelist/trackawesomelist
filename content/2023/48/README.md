@@ -1,31 +1,62 @@
 # Awesome List Updates on Nov 27 - Dec 03, 2023
 
-24 awesome lists updated this week.
+27 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [1. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+
+### Development / Discovery
+
+*   [templates (⭐11)](https://github.com/nix-community/templates) - Project templates for many languages using Nix flakes.
+
+## [2. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+
+### Software / Monitoring
+
+*   [openITCOCKPIT Community Edition](https://openitcockpit.io/) - Monitoring Suite featuring seamless integrations with Naemon, Checkmk, Grafana and more. ([Demo](https://demo.openitcockpit.io/), [Source Code (⭐230)](https://github.com/it-novum/openITCOCKPIT)) `GPL-3.0` `deb/Docker`
+
+## [3. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Graphics Programming
+
+*   [Computer Graphics from scratch](http://gabrielgambetta.com/computer-graphics-from-scratch) - Gabriel Gambetta *(:construction: in process)*
+*   [DirectX manual](http://user.xmission.com/~legalize/book/download/index.html) (draft)
+
+## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Methodologies for Experiments / Virtual Reality
 
 *   [Towards an Understanding of Distributed Asymmetric Collaborative Visualization on Problem-solving](https://ieeexplore.ieee.org/document/10108427) - ***VR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11228377215337222005\&hl=en\&as_sdt=0,5)].
 
-## [2. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [5. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+
+### Platforms
+
+*   [Kalix (c)](https://www.kalix.io/) - Platform as a Service that abstracts away the complexity of event-driven microservices.
 
 ### Frameworks / Runtimes
 
 *   [Bun](https://bun.sh/) - Fast all-in-one JavaScript runtime.
 *   [Gleam](https://gleam.run/) - A friendly language for building type-safe, scalable systems.
 
+### C++
+
+*   [C++ Micro Services (⭐771)](https://github.com/CppMicroServices/CppMicroServices) - An OSGi-like C++ dynamic module system and service registry.
+
 ### Go / Erlang
 
+*   [Chi (⭐16k)](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 *   [GoFr (⭐575)](https://github.com/gofr-dev/gofr) - An opinionated microservice development framework emphasizing scalability and robustness. Designed to simplify the development of microservices.
+*   [Lura (⭐5.8k)](https://github.com/luraproject/lura) - Framework to build ultra performance API Gateways with middlewares.
+*   [Negroni (⭐7.4k)](https://github.com/urfave/negroni) - Idiomatic HTTP middleware for Golang.
 
 ### Java VM / Java
 
 *   [Conjure (⭐78)](https://github.com/palantir/conjure-java-runtime) - Opinionated set of libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.
+*   [Jersey (⭐664)](https://github.com/eclipse-ee4j/jersey) - RESTful services in Java. JAX-RS reference implementation.
 
 ### Node.js / Scala
 
@@ -33,9 +64,21 @@
 *   [Hono](https://hono.dev/) - Small, simple, and ultrafast web framework for the Edges. It works on any JavaScript runtime.
 *   [NestJS](https://docs.nestjs.com/) - A Node.js framework for building efficient and scalable server-side applications with a built-in microservices support.
 
+### Python / Scala
+
+*   [Aiohttp (⭐14k)](https://github.com/aio-libs/aiohttp) - HTTP client/server for asyncio.
+*   [Sanic (⭐17k)](https://github.com/sanic-org/sanic) - Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
+*   [Twisted](https://twisted.org/) - Event-driven network programming engine.
+
 ### Rust / Scala
 
 *   [Tower (⭐3k)](https://github.com/tower-rs/tower) - Library of modular and reusable components for building robust networking clients and servers.
+
+### API Gateways / Edge Services / Scala
+
+*   [Ambassador (c)](https://www.getambassador.io) - Kubernetes-native API gateway for microservices built on Envoy.
+*   [Bunker Web (⭐3.2k)](https://github.com/bunkerity/bunkerweb) - Web app hosting and reverse proxy secure by default.
+*   [Kong (⭐36k)](https://github.com/kong/kong) - Open source management layer for APIs.
 
 ### Coordination & Governance / Scala
 
@@ -43,7 +86,46 @@
 
 ### Elasticity / Scala
 
+*   [Serf](https://www.serf.io/) - Decentralized solution for cluster membership, failure detection and orchestration.
 *   [Zenoh](https://zenoh.io/) - Pub/sub/query protocol unifying data in motion, data at rest and computations. Efficiently blends traditional pub/sub with geo distributed storage, queries and computations.
+
+### Job Schedulers / Workload Automation / Scala
+
+*   [Faktory (⭐5.3k)](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server.
+*   [Rundeck (c)](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
+*   [Schedulix (⭐116)](https://github.com/schedulix/schedulix) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
+
+### Logging / Scala
+
+*   [Logstash](https://www.elastic.co/logstash) - Tool for managing events and logs.
+*   [Loki (⭐21k)](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+
+### Monitoring & Debugging / Scala
+
+*   [Beats](https://www.elastic.co/beats/) - Lightweight shippers for Elasticsearch & Logstash.
+*   [OpenTelemetry](https://opentelemetry.io/) - High-quality, ubiquitous, and portable telemetry to enable effective observability.
+
+### Reactivity / Scala
+
+*   [Reactor.io](https://github.com/reactor) - A second-generation Reactive library for building non-blocking applications on the JVM based on the Reactive Streams Specification.
+*   [RSocket](https://rsocket.io/) - Application protocol providing Reactive Streams semantics.
+
+### Security / Scala
+
+*   [OpenID Connect](https://openid.net/certified-open-id-developer-tools/) - Libraries, products, and tools implementing current OpenID specifications and related specs.
+*   [SCIM](https://simplecloud.info/) - System for Cross-domain Identity Management.
+
+### Storage / Scala
+
+*   [Alluxio (⭐6.5k)](https://github.com/Alluxio/alluxio) - Virtual distributed storage system.
+*   [Elasticsearch](https://www.elastic.co/elasticsearch) - Open source distributed, scalable, and highly available search server.
+*   [Trino](https://trino.io/) - Fast distributed SQL query engine for big data analytics that helps you explore your data universe.
+
+### REST / Scala
+
+*   [OpenAPI](https://www.openapis.org/) - The OpenAPI Specification (OAS) provides a consistent means to carry information through each stage of the API lifecycle.
+*   [ReDoc (⭐21k)](https://github.com/Redocly/redoc) - OpenAPI/Swagger-generated API Documentation.
+*   [Slate (⭐36k)](https://github.com/slatedocs/slate) - Beautiful static documentation for your API.
 
 ### Self-sovereignty & Decentralisation / Scala
 
@@ -61,19 +143,19 @@
 
 *   [Autonomy, Hyperconnectivity, and Residual Causality](https://doi.org/10.3390/philosophies6040081) - Philosophical introduction to the design of adaptive hyperliminal systems through complexity science theories.
 
-## [3. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [6. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Emulator Development / Misc
 
 *   [Emulation of Nintendo Game Boy (⭐4.1k)](https://github.com/Baekalfen/PyBoy/blob/master/extras/PyBoy.pdf) - Overview of the Game Boy hardware with the perspective of building an emulator.
 
-## [4. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [7. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :tada: [mach](https://machengine.org/) - game engine & graphics toolkit build in zig.
 
-## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
@@ -83,8 +165,9 @@
 
 *   [yutkat/confirm-quit.nvim (⭐13)](https://github.com/yutkat/confirm-quit.nvim) - Confirm before quitting Neovim.
 *   [bgaillard/readonly.nvim (⭐3)](https://github.com/bgaillard/readonly.nvim) - Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
+*   [GCBallesteros/jupytext.nvim (⭐14)](https://github.com/GCBallesteros/jupytext.nvim) - Edit jupyter notebooks without leaving Neovim.
 
-## [6. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [9. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -138,7 +221,7 @@
 
 *   [OpenMessaging (⭐283) (⭐283)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
-## [7. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [10. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### Databases / Compound
 
@@ -155,7 +238,7 @@
     *   [BioGRID](https://thebiogrid.org/) - Database of Protein, Genetic and Chemical Interactions.
     *   [HIPPIE](http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/) - Human Protein-Protein Interaction database.
 
-## [8. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [11. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / GitHub
 
@@ -166,19 +249,19 @@
 *   [GitHub Reply Comments (⭐326)](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
 *   [GitHub Skip Delete Repo Verification](https://greasyfork.org/en/scripts/411790-skip-delete-repo-verification) - Skips the verification step when deleting a repository.
 
-## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [12. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Land Use and Land Cover
 
 *   [National Zoning & Land Use Database (⭐26)](https://github.com/mtmleczko/nzlud/tree/main) - This github project catalogs major metros municipal zoning ordinances in plain text. It can be a useful reference for comparing ordinances or perhaps fine tuning language models.
 
-## [10. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [13. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Action
 
 *   [TR1X (⭐332)](https://github.com/LostArtefacts/TR1X) - Open source implementation of the classic Tomb Raider I game.
 
-## [11. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [14. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
 - Name: [Pipelight (⭐134)](https://github.com/pipelight/pipelight)
 
@@ -196,7 +279,7 @@
 
 
 
-## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Internationalization
 
@@ -206,31 +289,35 @@
 
 *   [PDFium](https://pdfium.googlesource.com/pdfium/) - PDF generation and rendering library. \[BSD-3-Clause]
 
-## [13. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [16. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Pinning services
 
 *   [QuickNode](https://www.quicknode.com/ipfs) - IPFS gateways and pinning
 
-## [14. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [17. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
 *   [react-vite-template (⭐0)](https://github.com/Mirazex/react-vite-template) - Frontend template for building web apps (React, TypeScript, Vite, Mantine, Million, Husky, Prettier, Import Sorter, Lint-staged and others features).
 
-## [15. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [18. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Terminal / Terminal UI
 
 *   [oxker (⭐297)](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers. Written in [Rust](https://www.rust-lang.org/), making heavy use of [ratatui (⭐4.4k)](https://github.com/tui-rs-revival/ratatui) & [Bollard (⭐601)](https://github.com/fussybeaver/bollard), by [@mrjackwills](https://github.com/mrjackwills)
 
-## [16. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [19. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Global Connectivity Indexes
 
 *   Network Readiness Index - ([2023](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2023.pdf)) ([2022](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2022.pdf)) ([2021](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2021.pdf)) ([2020](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf)) ([2019](https://networkreadinessindex.org/2019/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf)) Network Readiness Index covering 121 economies from Portulans Institute
 
-## [17. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [20. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### Courses and Educational Materials
+
+*   [udlbook/udlbook (⭐3.5k)](https://github.com/udlbook/udlbook?utm_source=alphasignalai.beehiiv.com\&utm_medium=newsletter\&utm_campaign=the-most-powerful-rag-chatbot): Understanding Deep Learning by Professor Simon J.D. Prince
 
 ### Human-AI Interaction
 
@@ -243,12 +330,17 @@
 *   [StreamingLLM gives language models unlimited context](https://bdtechtalks.com/2023/11/27/streamingllm/): giving language models unlimited context
 *   [iusztinpaul/hands-on-llms (⭐533)](https://github.com/iusztinpaul/hands-on-llms): learn about LLMs, LLMOps, and vector DBs for free by designing, training, and deploying a real-time financial advisor LLM system \~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴
 
+### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
+
+*   [weaviate/Verba (⭐1.2k)](https://github.com/weaviate/Verba): Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
+
 ### LLM Evaluation / Multi-agents
 
 *   [\[2311.05020\] First Tragedy, then Parse: History Repeats Itself in the New Era of Large Language Models](https://arxiv.org/abs/2311.05020): "that meaningful evaluation informed by actual use is still an open problem"
 
 ### Attacks on LLMs / Multi-agents
 
+*   [MITRE ATLAS™](https://atlas.mitre.org/): knowledge base of adversary tactics and techniques based on real-world attack observations and realistic demonstrations from AI red teams and security groups, modeled after the MITRE ATT\&CK® framework.
 *   [OWASP Top 10 for Large Language Model Applications](https://llmtop10.com/): the Open Worldwide Application Security Project's list related to LLMs [\[Youtube video\]](https://www.youtube.com/watch?v=engR9tYSsug)
 *   [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035): extracting training data from ChatGPT [\[webpage\]](https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html)
 *   [The Emerging Attacks on Large Language Models (LLMs)](https://www.linkedin.com/pulse/emerging-attacks-large-language-models-llms-soumak-roy/): "key attack vectors that threat actors can exploit to compromise or manipulate LLMs".
@@ -258,7 +350,7 @@
 *   [corca-ai/awesome-llm-security (⭐338)](https://github.com/corca-ai/awesome-llm-security): A curation of awesome tools, documents and projects about LLM Security.
 *   [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial): a list of adversarial prompts attacks by Prompt Engineering Guide
 
-## [18. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [21. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
@@ -268,25 +360,25 @@
 
 *   [Overtone](https://overtone.github.io/) - An open source audio environment designed to explore new musical ideas from synthesis and instrument building to live-coding.
 
-## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Layout
 
 *   [vue-virtual-waterfall (⭐13)](https://github.com/lhlyu/vue-virtual-waterfall) - A virtual waterfall component for Vue 3.x.
 
-## [20. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [23. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### CLI and REPL
 
 *   [Taze (⭐1.9k)](https://github.com/antfu/taze) A modern cli tool that keeps your dependencies fresh
 
-## [21. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CDN and Protection
 
 *   [CacheFly](https://portal.cachefly.com/signup/free2023) - Up to 5 TB per month of Free CDN traffic, 19 Core PoPs , 1 Domain and Universal SSL.
 
-## [22. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [25. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Diagrams
 
@@ -296,7 +388,7 @@
 
 *   [KS DB Merge Tools](https://ksdbmerge.tools) - GUI to compare and sync DB schema and data. For Oracle Database, MySQL, MariaDB, SQL Server, PostgreSQL, SQLite, MS Access and Cross-DBMS.
 
-## [23. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [26. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
@@ -328,7 +420,7 @@
 
 *   [formation-res/kt-fullstack-demo (⭐3)](https://github.com/formation-res/kt-fullstack-demo) - This demo kotlin-js project implements a UI and server for a little recipe search engine to demonstrate fritz2, kotlin-js, localization with mozilla fluent, use of koin in a webapp.
 
-## [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Email - Mail Delivery Agents
 

@@ -6,6 +6,20 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Nov 30, 2023](/content/2023/11/30/README.md)
+
+### Courses and Educational Materials
+
+*   [udlbook/udlbook (⭐3.5k)](https://github.com/udlbook/udlbook?utm_source=alphasignalai.beehiiv.com\&utm_medium=newsletter\&utm_campaign=the-most-powerful-rag-chatbot): Understanding Deep Learning by Professor Simon J.D. Prince
+
+### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
+
+*   [weaviate/Verba (⭐1.2k)](https://github.com/weaviate/Verba): Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
+
+### Attacks on LLMs / Multi-agents
+
+*   [MITRE ATLAS™](https://atlas.mitre.org/): knowledge base of adversary tactics and techniques based on real-world attack observations and realistic demonstrations from AI red teams and security groups, modeled after the MITRE ATT\&CK® framework.
+
 ## [Nov 29, 2023](/content/2023/11/29/README.md)
 
 ### Human-AI Interaction
@@ -160,11 +174,11 @@ A curated list of Generative AI tools, works, models, and references
 
 ### LLM Evaluation / Multi-agents
 
-*   [vectara/hallucination-leaderboard (⭐274)](https://github.com/vectara/hallucination-leaderboard): "leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
+*   [vectara/hallucination-leaderboard (⭐748)](https://github.com/vectara/hallucination-leaderboard): "leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [tldraw/draw-a-ui (⭐373)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
+*   [tldraw/draw-a-ui (⭐3.5k)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
 
 ## [Nov 14, 2023](/content/2023/11/14/README.md)
 

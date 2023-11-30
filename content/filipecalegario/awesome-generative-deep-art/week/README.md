@@ -8,6 +8,10 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
 
+### Courses and Educational Materials
+
+*   [udlbook/udlbook (⭐3.5k)](https://github.com/udlbook/udlbook?utm_source=alphasignalai.beehiiv.com\&utm_medium=newsletter\&utm_campaign=the-most-powerful-rag-chatbot): Understanding Deep Learning by Professor Simon J.D. Prince
+
 ### Human-AI Interaction
 
 *   [UX for AI: How to Power Human Experiences with AI - Design Tool Tuesday - YouTube](https://www.youtube.com/watch?v=50Of7_lubN4)
@@ -19,12 +23,17 @@ A curated list of Generative AI tools, works, models, and references
 *   [StreamingLLM gives language models unlimited context](https://bdtechtalks.com/2023/11/27/streamingllm/): giving language models unlimited context
 *   [iusztinpaul/hands-on-llms (⭐533)](https://github.com/iusztinpaul/hands-on-llms): learn about LLMs, LLMOps, and vector DBs for free by designing, training, and deploying a real-time financial advisor LLM system \~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴
 
+### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
+
+*   [weaviate/Verba (⭐1.2k)](https://github.com/weaviate/Verba): Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
+
 ### LLM Evaluation / Multi-agents
 
 *   [\[2311.05020\] First Tragedy, then Parse: History Repeats Itself in the New Era of Large Language Models](https://arxiv.org/abs/2311.05020): "that meaningful evaluation informed by actual use is still an open problem"
 
 ### Attacks on LLMs / Multi-agents
 
+*   [MITRE ATLAS™](https://atlas.mitre.org/): knowledge base of adversary tactics and techniques based on real-world attack observations and realistic demonstrations from AI red teams and security groups, modeled after the MITRE ATT\&CK® framework.
 *   [OWASP Top 10 for Large Language Model Applications](https://llmtop10.com/): the Open Worldwide Application Security Project's list related to LLMs [\[Youtube video\]](https://www.youtube.com/watch?v=engR9tYSsug)
 *   [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035): extracting training data from ChatGPT [\[webpage\]](https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html)
 *   [The Emerging Attacks on Large Language Models (LLMs)](https://www.linkedin.com/pulse/emerging-attacks-large-language-models-llms-soumak-roy/): "key attack vectors that threat actors can exploit to compromise or manipulate LLMs".
@@ -114,7 +123,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### LLM Evaluation / Multi-agents
 
-*   [vectara/hallucination-leaderboard (⭐274)](https://github.com/vectara/hallucination-leaderboard): "leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
+*   [vectara/hallucination-leaderboard (⭐748)](https://github.com/vectara/hallucination-leaderboard): "leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
 *   [\[2305.16938\] Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation](https://arxiv.org/abs/2305.16938)
 
 ### LangChain / Multi-agents
@@ -128,7 +137,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [tldraw/draw-a-ui (⭐373)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
+*   [tldraw/draw-a-ui (⭐3.5k)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
 
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 

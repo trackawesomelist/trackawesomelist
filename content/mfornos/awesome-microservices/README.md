@@ -6,6 +6,80 @@ A curated list of Microservice Architecture related principles and technologies.
 
 [ Daily / [Weekly](/content/mfornos/awesome-microservices/week/README.md) / [Overview](/content/mfornos/awesome-microservices/readme/README.md) ]
 
+## [Nov 30, 2023](/content/2023/11/30/README.md)
+
+### Platforms
+
+*   [Kalix (c)](https://www.kalix.io/) - Platform as a Service that abstracts away the complexity of event-driven microservices.
+
+### C++
+
+*   [C++ Micro Services (⭐771)](https://github.com/CppMicroServices/CppMicroServices) - An OSGi-like C++ dynamic module system and service registry.
+
+### Go / Erlang
+
+*   [Chi (⭐16k)](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
+*   [Lura (⭐5.8k)](https://github.com/luraproject/lura) - Framework to build ultra performance API Gateways with middlewares.
+*   [Negroni (⭐7.4k)](https://github.com/urfave/negroni) - Idiomatic HTTP middleware for Golang.
+
+### Java VM / Java
+
+*   [Jersey (⭐664)](https://github.com/eclipse-ee4j/jersey) - RESTful services in Java. JAX-RS reference implementation.
+
+### Python / Scala
+
+*   [Aiohttp (⭐14k)](https://github.com/aio-libs/aiohttp) - HTTP client/server for asyncio.
+*   [Sanic (⭐17k)](https://github.com/sanic-org/sanic) - Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
+*   [Twisted](https://twisted.org/) - Event-driven network programming engine.
+
+### API Gateways / Edge Services / Scala
+
+*   [Ambassador (c)](https://www.getambassador.io) - Kubernetes-native API gateway for microservices built on Envoy.
+*   [Bunker Web (⭐3.2k)](https://github.com/bunkerity/bunkerweb) - Web app hosting and reverse proxy secure by default.
+*   [Kong (⭐36k)](https://github.com/kong/kong) - Open source management layer for APIs.
+
+### Elasticity / Scala
+
+*   [Serf](https://www.serf.io/) - Decentralized solution for cluster membership, failure detection and orchestration.
+
+### Job Schedulers / Workload Automation / Scala
+
+*   [Faktory (⭐5.3k)](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server.
+*   [Rundeck (c)](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
+*   [Schedulix (⭐116)](https://github.com/schedulix/schedulix) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
+
+### Logging / Scala
+
+*   [Logstash](https://www.elastic.co/logstash) - Tool for managing events and logs.
+*   [Loki (⭐21k)](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+
+### Monitoring & Debugging / Scala
+
+*   [Beats](https://www.elastic.co/beats/) - Lightweight shippers for Elasticsearch & Logstash.
+*   [OpenTelemetry](https://opentelemetry.io/) - High-quality, ubiquitous, and portable telemetry to enable effective observability.
+
+### Reactivity / Scala
+
+*   [Reactor.io](https://github.com/reactor) - A second-generation Reactive library for building non-blocking applications on the JVM based on the Reactive Streams Specification.
+*   [RSocket](https://rsocket.io/) - Application protocol providing Reactive Streams semantics.
+
+### Security / Scala
+
+*   [OpenID Connect](https://openid.net/certified-open-id-developer-tools/) - Libraries, products, and tools implementing current OpenID specifications and related specs.
+*   [SCIM](https://simplecloud.info/) - System for Cross-domain Identity Management.
+
+### Storage / Scala
+
+*   [Alluxio (⭐6.5k)](https://github.com/Alluxio/alluxio) - Virtual distributed storage system.
+*   [Elasticsearch](https://www.elastic.co/elasticsearch) - Open source distributed, scalable, and highly available search server.
+*   [Trino](https://trino.io/) - Fast distributed SQL query engine for big data analytics that helps you explore your data universe.
+
+### REST / Scala
+
+*   [OpenAPI](https://www.openapis.org/) - The OpenAPI Specification (OAS) provides a consistent means to carry information through each stage of the API lifecycle.
+*   [ReDoc (⭐21k)](https://github.com/Redocly/redoc) - OpenAPI/Swagger-generated API Documentation.
+*   [Slate (⭐36k)](https://github.com/slatedocs/slate) - Beautiful static documentation for your API.
+
 ## [Nov 29, 2023](/content/2023/11/29/README.md)
 
 ### Frameworks / Runtimes
@@ -75,10 +149,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 *   [Seneca (⭐3.9k)](https://github.com/senecajs/seneca) - A microservices toolkit for Node.js
 
-### Python / Scala
-
-*   [Twisted](https://twistedmatrix.com) - Event-driven network programming engine.
-
 ### Testing / Scala
 
 *   [RestQA (⭐76)](https://github.com/restqa/restqa) - A tool to manage microservices mocking, unit and performance testing locally with best in class developer experience.
@@ -139,7 +209,6 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Coordination & Governance / Scala
 
 *   [AWS Step Functions (c)](https://aws.amazon.com/step-functions/) - Coordinate the components of distributed applications and microservices using visual workflows.
-*   [Azuqua (c)](https://azuqua.com/) - Orchestration and governance platform for distributed applications.
 
 ### Logging / Scala
 
@@ -154,8 +223,6 @@ A curated list of Microservice Architecture related principles and technologies.
 *   [Aerospike (c)](http://www.aerospike.com/) - High performance NoSQL database delivering speed at scale.
 *   [CockroachDB (c)](https://www.cockroachlabs.com/) - A cloud-native SQL database modelled after Google Spanner.
 *   [Crate (c)](https://crate.io/) - Scalable SQL database with the NoSQL goodies.
-*   [MemSQL (c)](http://www.memsql.com/) - High-performance, in-memory database that combines the horizontal scalability of distributed systems with the familiarity of SQL.
-*   [VoltDB (c)](https://www.voltdb.com/) - In-Memory ACID compliant distributed database.
 
 ### Self-sovereignty & Decentralisation / Scala
 
@@ -220,10 +287,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 *   [Temporal (⭐8.6k)](https://github.com/temporalio/temporal) - Open source microservices orchestration platform for running mission critical code at any scale.
 
-### Storage / Scala
-
-*   [Parquet (⭐1.5k)](https://github.com/apache/parquet-format) - Columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
-
 ## [Feb 09, 2021](/content/2021/02/09/README.md)
 
 ### CSharp
@@ -266,12 +329,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 *   [Electrode](https://github.com/electrode-io) - Universal React/Node.js application platform.
 *   [MiniApp White Paper](https://w3c.github.io/miniapp/white-paper/) - MiniApp standardization white paper.
-
-## [Dec 31, 2020](/content/2020/12/31/README.md)
-
-### API Gateways / Edge Services / Scala
-
-*   [Bunkerized-nginx (⭐3.2k)](https://github.com/bunkerity/bunkerized-nginx) - Web app hosting and reverse proxy secure by default.
 
 ## [Dec 04, 2020](/content/2020/12/04/README.md)
 
@@ -325,12 +382,6 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Java VM / Java
 
 *   [ActiveRPC](https://rpc.activej.io) - Lightweight and fast library for complex high-load distributed applications and Memcached-like solutions.
-
-## [Jul 16, 2020](/content/2020/07/16/README.md)
-
-### CSharp
-
-*   [Tye (⭐5.3k)](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
 
 ## [Jul 05, 2020](/content/2020/07/05/README.md)
 
@@ -387,7 +438,6 @@ A curated list of Microservice Architecture related principles and technologies.
 ### API Gateways / Edge Services / Scala
 
 *   [APIcast (⭐288)](https://github.com/3scale/APIcast) - APIcast is an API gateway built on top of NGINX. It is part of the Red Hat 3scale API Management Platform.
-*   [Gravitee (⭐6)](https://github.com/gravitee-io/gravitee-gateway) - The gateway is able to apply policies (ie. rules) to both HTTP requests and responses according to your needs, meaning that you can enhance requests and responses processing by adding transformation, security, and many other crazy features!
 
 ## [Apr 22, 2020](/content/2020/04/22/README.md)
 
@@ -419,7 +469,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 *   [Beanstalk](https://beanstalkd.github.io/) - Simple, fast work queue.
 *   [Bull (⭐15k)](https://github.com/OptimalBits/bull) - Fast and reliable Redis-based queue for Node.
-*   [Nanomsg-NG](https://nng.nanomsg.org/) - Lightweight brokerless messaging.
 
 ### Security / Scala
 
@@ -464,10 +513,6 @@ A curated list of Microservice Architecture related principles and technologies.
 *   [Eclipse Microprofile](https://microprofile.io/) - An open forum to optimize Enterprise Java for a microservices architecture by innovating across multiple implementations and collaborating on common areas of interest with a goal of standardization.
 *   [Open Liberty](https://openliberty.io/) - A lightweight open framework for building fast and efficient cloud-native Java microservices.
 *   [SmallRye](https://smallrye.io/) - APIs and implementations tailored for cloud development, including Eclipse MicroProfile.
-
-### Monitoring & Debugging / Scala
-
-*   [OpenTracing](https://opentracing.io/) - Vendor-neutral APIs and instrumentation for distributed tracing.
 
 ### Web APIs / Scala
 
@@ -525,12 +570,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 *   [Hoverfly (⭐2.3k)](https://github.com/spectolabs/hoverfly) - Lightweight service virtualization/API simulation tool for developers and testers.
 
-## [Jul 21, 2019](/content/2019/07/21/README.md)
-
-### API Gateways / Edge Services / Scala
-
-*   [Express Gateway](https://www.express-gateway.io/) - A microservices API gateway built on Express.js.
-
 ## [Jul 20, 2019](/content/2019/07/20/README.md)
 
 ### Java VM / Kotlin
@@ -570,10 +609,6 @@ A curated list of Microservice Architecture related principles and technologies.
 *   [Bottle](https://bottlepy.org) - Fast, simple and lightweight WSGI micro web-framework for Python.
 *   [Falcon](https://falconframework.org/) - Bare-metal Python web API framework for building very fast app backends and microservices.
 
-### REST / Scala
-
-*   [ReDoc (⭐22k)](https://github.com/Rebilly/ReDoc) - OpenAPI/Swagger-generated API Documentation.
-
 ### Enterprise & Verticals / Scala
 
 *   [Flamingo](https://www.flamingo.me/) - Framework to build flexible and modern e-commerce applications.
@@ -588,24 +623,6 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Messaging / Scala
 
 *   [Pulsar](https://pulsar.apache.org/) - Distributed pub-sub messaging system.
-
-## [Apr 17, 2019](/content/2019/04/17/README.md)
-
-### Messaging / Scala
-
-*   [Eventuate](http://eventuate.io/) - A platform for developing asynchronous microservices solving the distributed data management problems.
-
-## [Mar 15, 2019](/content/2019/03/15/README.md)
-
-### Testing / Scala
-
-*   [Hikaku (⭐191)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
-
-## [Feb 15, 2019](/content/2019/02/15/README.md)
-
-### Security / Scala
-
-*   [Identity Server (⭐9.1k)](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core.
 
 ## [Jan 30, 2019](/content/2019/01/30/README.md)
 
@@ -633,10 +650,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## [Oct 02, 2018](/content/2018/10/02/README.md)
 
-### Java VM / Scala
-
-*   [Scalatra](http://scalatra.org/) - Simple, accessible and free web micro-framework.
-
 ### Monitoring & Debugging / Scala
 
 *   [Jaeger](https://www.jaegertracing.io/) - An open source, end-to-end distributed tracing
@@ -649,40 +662,13 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### CSharp
 
-*   [Microdot (⭐1.5k)](https://github.com/gigya/microdot) - Open source .NET microservices framework.
 *   [Orleans](https://dotnet.github.io/orleans/) - Provides a straightforward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns.
 
 ### PHP / Scala
 
 *   [Symfony](https://symfony.com/) - Micro-framework based on the Symfony components.
 
-### API Gateways / Edge Services / Scala
-
-*   [Ambassador](https://www.getambassador.io) - Kubernetes-native API gateway for microservices built on Envoy.
-
-## [Apr 11, 2018](/content/2018/04/11/README.md)
-
-### Go / Erlang
-
-*   [go-api-boilerplate (⭐847)](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices, DDD, CQRS, ES, gRPC
-
-## [Mar 23, 2018](/content/2018/03/23/README.md)
-
-### Monitoring & Debugging / Scala
-
-*   [Microservice Graph Explorer (⭐73)](https://github.com/hootsuite/microservice-graph-explorer) - Navigate and explore all of the microservices in your application in real time using the real application connections.
-
-## [Feb 16, 2018](/content/2018/02/16/README.md)
-
-### Go / Erlang
-
-*   [Enduro/X ASG (⭐37)](https://github.com/endurox-dev/endurox-go) - Enduro/X bindings for Go allows to effectively write XATMI based microservices in Go language. Uses Unix kernel IPC (queues) for fast process communications.
-
 ## [Jan 29, 2018](/content/2018/01/29/README.md)
-
-### Go / Erlang
-
-*   [KrakenD (⭐5.8k)](https://github.com/devopsfaith/krakend) - Framework to build ultra performance API Gateways with middlewares.
 
 ### API Gateways / Edge Services / Scala
 
@@ -720,7 +706,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Java VM / Scala
 
-*   [Akka HTTP](http://doc.akka.io/docs/akka-http/current/scala.html) - Open source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
 *   [Squbs](http://paypal.github.io/squbs/) - A suite of components enabling standardization and operationalization of Akka and Akka HTTP applications/services in a large scale, managed, cloud environment.
 
 ### Perl / Scala
@@ -731,22 +716,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 *   [Traffic Server (⭐1.7k)](https://github.com/apache/trafficserver) - High-performance building block for cloud services.
 
-### Coordination & Governance / Scala
-
-*   [Fission Workflows (⭐354)](https://github.com/fission/fission-workflows) - Workflow-based, reliable function composition for serverless functions.
-
-## [Aug 31, 2017](/content/2017/08/31/README.md)
-
-### PHP / Scala
-
-*   [Fat-Free](https://fatfreeframework.com/) - A powerful yet easy-to-use PHP micro-framework.
-
-## [Aug 20, 2017](/content/2017/08/20/README.md)
-
-### PHP / Scala
-
-*   [Upswarm (⭐80)](https://github.com/Zizaco/upswarm) - Multi-processed, async, fault-tolerant micro-framework for writing service-oriented applications.
-
 ## [Aug 19, 2017](/content/2017/08/19/README.md)
 
 ### API Gateways / Edge Services / Scala
@@ -756,18 +725,6 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Testing / Scala
 
 *   [Goreplay (⭐18k)](https://github.com/buger/goreplay) - A tool for capturing and replaying live HTTP traffic into a test environment.
-
-## [Aug 03, 2017](/content/2017/08/03/README.md)
-
-### Python / Scala
-
-*   [Aiohttp](http://aiohttp.readthedocs.io/en/stable/) - HTTP client/server for asyncio.
-
-## [Jul 19, 2017](/content/2017/07/19/README.md)
-
-### C++
-
-*   [Restbed (⭐1.9k)](https://github.com/Corvusoft/restbed) - Brings asynchronous RESTful functionality to C++11 applications.
 
 ## [Jun 28, 2017](/content/2017/06/28/README.md)
 
@@ -781,52 +738,32 @@ A curated list of Microservice Architecture related principles and technologies.
 
 *   [Conductor (⭐13k)](https://github.com/Netflix/conductor) - A microservices orchestration engine.
 
-### Job Schedulers / Workload Automation / Scala
-
-*   [Chronos (⭐4.4k)](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
-*   [Fenzo (⭐702)](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
-*   [JobScheduler](http://www.sos-berlin.com/jobscheduler) - Open Source solution for enterprise-level workload automation. It is used to launch executable files and shell scripts and to run database procedures automatically.
-*   [Rundeck](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
-*   [Schedulix](http://www.schedulix.org/en) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
-
 ### Logging / Scala
 
-*   [Bunyan (⭐7.1k)](https://github.com/trentm/node-bunyan) - Simple and fast JSON logging library for Node.js services.
 *   [Fluentd](http://www.fluentd.org/) - Open source data collector for unified logging layer.
 *   [Graylog](https://www.graylog.org/) - Fully integrated open source log management platform.
 *   [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
-*   [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
-*   [Suro (⭐787)](https://github.com/Netflix/suro/wiki) - Distributed data pipeline which enables services for moving, aggregating, routing, storing data.
 
 ### Monitoring & Debugging / Scala
 
-*   [Beats](https://www.elastic.co/products/beats) - Lightweight shippers for Elasticsearch & Logstash.
-*   [Collectd](https://collectd.org/) - The system statistics collection daemon.
 *   [Elastalert (⭐7.9k)](https://github.com/yelp/elastalert) - Easy & flexible alerting for Elasticsearch.
 *   [Ganglia](http://ganglia.info/) - A scalable distributed monitoring system for high-performance computing systems such as clusters and grids.
 *   [Grafana](http://grafana.org/) - An open source, feature rich metrics dashboard and graph editor for Graphite, InfluxDB & OpenTSDB.
 *   [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
-*   [Parallec (⭐809)](https://github.com/eBay/parallec) - Fast parallel asynchronous HTTP/SSH/TCP/Ping client Java library.
 *   [Prometheus](http://prometheus.io/) - An open source service monitoring system and time series database.
-*   [REST Commander (⭐899)](https://github.com/eBay/restcommander) - Fast parallel asynchronous HTTP client as a service to monitor and manage HTTP endpoints.
 *   [Riemann](http://riemann.io/) - Monitors distributed systems.
 *   [Sensu](https://github.com/sensu) - Monitoring for today's infrastructure.
-*   [Trace (⭐472)](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
-*   [Watcher](https://www.elastic.co/products/watcher) - Alerting for Elasticsearch.
 *   [Zabbix](http://www.zabbix.com/) - Open source enterprise-class monitoring solution.
 *   [Zipkin](http://zipkin.io) - Distributed tracing system.
 
 ### Reactivity / Scala
 
-*   [Reactor.io](http://projectreactor.io) - A second-generation Reactive library for building non-blocking applications on the JVM based on the Reactive Streams Specification.
 *   [Reactive Kafka (⭐1.4k)](https://github.com/softwaremill/reactive-kafka) - Reactive Streams API for Apache Kafka.
 *   [ReactiveX](http://reactivex.io/) - API for asynchronous programming with observable streams. Available for idiomatic Java, Scala, C#, C++, Clojure, JavaScript, Python, Groovy, JRuby, and others.
-*   [Simple React (⭐1.3k)](https://github.com/aol/simple-react) - Powerful future streams & asynchronous data structures for Java 8.
 
 ### Resilience / Scala
 
 *   [Hystrix (⭐24k)](https://github.com/Netflix/Hystrix) - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
-*   [Pathod](http://pathod.net/) - Crafted malice for tormenting HTTP clients and servers.
 *   [Raft Consensus](http://raftconsensus.github.io/) - Consensus algorithm that is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance.
 *   [Resilient HTTP](http://resilient-http.github.io/) - A smart HTTP client with super powers like fault tolerance, dynamic server discovery, auto balancing and reactive recovery, designed for distributed systems.
 
@@ -837,15 +774,7 @@ A curated list of Microservice Architecture related principles and technologies.
 *   [Keycloak (⭐18k)](https://github.com/keycloak/keycloak) - Full-featured and extensible auth service. OpenID Connect provider and third-party OAuth 2.0 delegation.
 *   [Light OAuth2 (⭐306)](https://github.com/networknt/light-oauth2) - A fast, lightweight and cloud native OAuth 2.0 authorization microservices based on light-java.
 *   [OAuth](http://oauth.net/2/) - Provides specific authorization flows for web applications, desktop applications, mobile phones, and living room devices. Many implementations.
-*   [OpenID Connect](http://openid.net/developers/libraries/) - Libraries, products, and tools implementing current OpenID specifications and related specs.
-*   [SCIM](http://www.simplecloud.info/) - System for Cross-domain Identity Management.
 *   [Vault](https://www.vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
-
-## [Jun 19, 2017](/content/2017/06/19/README.md)
-
-### Java VM / Java
-
-*   [Jersey](https://jersey.github.io/) - RESTful services in Java. JAX-RS reference implementation.
 
 ## [May 25, 2017](/content/2017/05/25/README.md)
 
@@ -855,48 +784,21 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Storage / Scala
 
-*   [Apache Hive](https://hive.apache.org/) - Data warehouse infrastructure built on top of Hadoop.
 *   [Apache Cassandra](http://cassandra.apache.org) - Column-oriented and providing high availability with no single point of failure.
-*   [Apache HBase](http://hbase.apache.org) - Hadoop database for big data.
 *   [Infinispan](http://infinispan.org/) - Highly concurrent key/value datastore used for caching.
 *   [InfluxDB (⭐27k)](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
 *   [OpenTSDB](http://opentsdb.net) - Scalable and distributed time series database written on top of Apache HBase.
-*   [Voldemort (⭐2.6k)](https://github.com/voldemort/voldemort) - Open source clone of Amazon DynamoDB
 
 ## [May 23, 2017](/content/2017/05/23/README.md)
 
-### PHP / Scala
-
-*   [Flight (⭐2.6k)](https://github.com/mikecao/flight) - An extensible micro-framework.
-
 ### Ruby / Scala
 
-*   [Rails API](http://edgeguides.rubyonrails.org/api_app.html) - Rails as an API only.
 *   [Sinatra](http://www.sinatrarb.com/) - Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort.
-
-## [May 19, 2017](/content/2017/05/19/README.md)
-
-### Python / Scala
-
-*   [Zappa (⭐12k)](https://github.com/Miserlou/Zappa) - Framework for building and deploying server-less Python event-driven and web applications.
-
-## [May 01, 2017](/content/2017/05/01/README.md)
-
-### API Gateways / Edge Services / Scala
-
-*   [Annon (⭐330)](https://github.com/nebo15/annon.api) - Open source API gateway with built-in API management, authentication and status pages written in Elixir.
-
-## [Apr 09, 2017](/content/2017/04/09/README.md)
-
-### Python / Scala
-
-*   [Sanic (⭐17k)](https://github.com/channelcat/sanic) - Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
 
 ## [Mar 11, 2017](/content/2017/03/11/README.md)
 
 ### API Gateways / Edge Services / Scala
 
-*   [Amalgam8](https://github.com/amalgam8) - Content-based routing fabric for polyglot microservices.
 *   [Envoy (⭐23k)](https://github.com/lyft/envoy) - Open source edge and service proxy, from the developers at Lyft.
 
 ### Web APIs / Scala
@@ -924,30 +826,15 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## [Jan 14, 2017](/content/2017/01/14/README.md)
 
-### CSharp
-
-*   [Nancy](http://nancyfx.org/) - Lightweight web framework.
-
 ### API Gateways / Edge Services / Scala
 
 *   [Linkerd](https://linkerd.io/) - Resilient service mesh for cloud native apps.
-
-### Configuration & Discovery / Scala
-
-*   [Microphone (⭐464)](https://github.com/rogeralsing/Microphone) - Lightweight .NET framework to run self hosting REST services using Web Api or NancyFx on top of a Consul or Etcd cluster.
-*   [Registrator (⭐4.7k)](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker. Supports pluggable service registries, which currently includes Consul, Etcd and SkyDNS 2.
 
 ## [Jan 12, 2017](/content/2017/01/12/README.md)
 
 ### CSharp
 
 *   [Akka.NET](http://getakka.net/) - Toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
-
-## [Jan 07, 2017](/content/2017/01/07/README.md)
-
-### Go / Erlang
-
-*   [Nano (⭐44)](https://github.com/pasztorpisti/nano) - A minimalistic, transport-agnostic and testing-friendly microservice framework.
 
 ## [Dec 11, 2016](/content/2016/12/11/README.md)
 
@@ -966,13 +853,11 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Go / Erlang
 
-*   [Gizmo (⭐3.7k)](https://github.com/nytimes/gizmo) - Microservices toolkit.
 *   [RPCX (⭐7.8k)](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
 
 ### Java VM / Java
 
 *   [Disruptor (⭐17k)](https://github.com/LMAX-Exchange/disruptor) - High-performance inter-thread messaging library.
-*   [Spark](http://sparkjava.com/) - A micro-framework for creating web applications in Java 8 with minimal effort.
 
 ### Python / Scala
 
@@ -1000,10 +885,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 *   [Keepalived](http://www.keepalived.org/) - Simple and robust facilities for loadbalancing and high-availability to Linux system and Linux based infrastructures.
 
-### Configuration & Discovery / Scala
-
-*   [ContainerPilot (⭐1.1k)](https://github.com/joyent/containerpilot) - Service for autodiscovery and configuration of applications running in containers.
-
 ### Sites & Organizations / Scala
 
 *   [Microservice Antipatterns and Pitfalls](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservice mostly known antipatterns and pitfalls.
@@ -1021,10 +902,6 @@ A curated list of Microservice Architecture related principles and technologies.
 *   [BSON](http://bsonspec.org/) - Binary JSON (BSON).
 
 ## [Aug 12, 2016](/content/2016/08/12/README.md)
-
-### Java VM / Clojure
-
-*   [Friboo (⭐117)](https://github.com/zalando/friboo) - Utility library for writing microservices in Clojure, with support for Swagger and OAuth.
 
 ### PHP / Scala
 
@@ -1044,9 +921,6 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Go / Erlang
 
 *   [Echo](https://echo.labstack.com/) - Fast and unfancy HTTP server framework for Go. Up to 10x faster than the rest.
-*   [Gopencils (⭐450)](https://github.com/bndr/gopencils) - Easily consume REST APIs with Go.
-*   [Neutrino (⭐135)](https://github.com/neutrinoapp/neutrino) - Realtime/REST backend service.
-*   [Sleepy (⭐677)](https://github.com/dougblack/sleepy) - REST for go.
 
 ### Haskell / Erlang
 
@@ -1068,7 +942,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### API Gateways / Edge Services / Scala
 
-*   [Fabio (⭐7.2k)](https://github.com/eBay/fabio) - A fast, modern, zero-conf load balancing HTTP/S router for deploying microservices managed by Consul.
 *   [Neutrino (⭐304)](https://github.com/eBay/Neutrino) - Extensible software load balancer.
 
 ## [Apr 23, 2016](/content/2016/04/23/README.md)
@@ -1096,13 +969,11 @@ A curated list of Microservice Architecture related principles and technologies.
 
 *   [Pistache (⭐3k)](https://github.com/oktal/pistache) - A high-performance REST toolkit written in C++.
 *   [Poco](http://pocoproject.org/) - C++ class libraries for building network-based applications and servers.
-*   [Served (⭐710)](https://github.com/datasift/served) - C++ library for building high-performance RESTful web servers.
 
 ## [Apr 09, 2016](/content/2016/04/09/README.md)
 
 ### API Gateways / Edge Services / Scala
 
-*   [Kong](https://getkong.org/) - Open source management layer for APIs.
 *   [Tyk](https://tyk.io/) - Open source, fast and scalable API gateway, portal and API management platform.
 
 ### Configuration & Discovery / Scala
@@ -1124,33 +995,14 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Storage / Scala
 
 *   [ArangoDB](https://www.arangodb.com/) - A distributed free and open source database with a flexible data model for documents, graphs, and key-values.
-*   [Elasticsearch](https://www.elastic.co/products/elasticsearch) - Open source distributed, scalable, and highly available search server.
 *   [Geode](http://geode.incubator.apache.org/) - Open source, distributed, in-memory database for scale-out applications.
 *   [RethinkDB](http://rethinkdb.com/) - Open source, scalable database that makes building realtime apps easier.
-
-## [Mar 30, 2016](/content/2016/03/30/README.md)
-
-### Frameworks / Runtimes
-
-*   [Lagom (⭐2.6k)](https://github.com/lagom/lagom) - Reactive microservices for the JVM.
 
 ## [Mar 12, 2016](/content/2016/03/12/README.md)
 
 ### Python / Scala
 
 *   [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
-
-### Configuration & Discovery / Scala
-
-*   [Shaman (⭐448)](https://github.com/nanopack/shaman) - Small, lightweight, api-driven DNS server.
-
-### Elasticity / Scala
-
-*   [Serf](https://www.serfdom.io/) - Decentralized solution for cluster membership, failure detection and orchestration.
-
-### Messaging / Scala
-
-*   [Mist (⭐661)](https://github.com/nanopack/mist) - A distributed, tag-based pub/sub service.
 
 ## [Feb 28, 2016](/content/2016/02/28/README.md)
 
@@ -1189,10 +1041,6 @@ A curated list of Microservice Architecture related principles and technologies.
 *   [Praxis (⭐299)](https://github.com/rightscale/praxis) - Framework for both designing and implementing APIs.
 *   [Scorched (⭐276)](https://github.com/wardrop/Scorched) - Light-weight web framework for Ruby.
 
-### Configuration & Discovery / Scala
-
-*   [Doozer (⭐3.3k)](https://github.com/ha/doozerd) - Highly-available, completely consistent store for small amounts of data. When the data changes, it can notify connected clients immediately.
-
 ## [Jan 23, 2016](/content/2016/01/23/README.md)
 
 ### Frameworks / Runtimes
@@ -1203,13 +1051,8 @@ A curated list of Microservice Architecture related principles and technologies.
 
 *   [Lwan](http://lwan.ws/) - High-performance and scalable web server.
 
-### C++
-
-*   [ULib (⭐949)](https://github.com/stefanocasazza/ULib) - Highly optimized class framework for writing C++ applications.
-
 ### Go / Erlang
 
-*   [Goji](https://goji.io/) - Minimalistic and flexible request multiplexer for Go.
 *   [Gorilla](http://www.gorillatoolkit.org/) - Web toolkit for the Go programming language.
 
 ### Node.js / Scala
@@ -1220,10 +1063,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 *   [Nameko (⭐4.6k)](https://github.com/onefinestay/nameko) - Python framework for building microservices.
 *   [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
-
-### REST / Scala
-
-*   [Aglio (⭐4.7k)](https://github.com/danielgtaylor/aglio) - API Blueprint renderer with theme support that outputs static HTML.
 
 ## [Jan 20, 2016](/content/2016/01/20/README.md)
 
@@ -1287,19 +1126,11 @@ A curated list of Microservice Architecture related principles and technologies.
 *   [Libasyncd (⭐175)](https://github.com/wolkykim/libasyncd/) - Embeddable event-based asynchronous HTTP server library for C.
 *   [Onion (⭐2k)](https://github.com/davidmoreno/onion) - C library to create simple HTTP servers and web applications.
 
-### C++
-
-*   [Pion (⭐299)](https://github.com/splunk/pion) - C++ framework for building lightweight HTTP interfaces.
-
 ## [Dec 31, 2015](/content/2015/12/31/README.md)
 
 ### Messaging / Scala
 
 *   [Malamute (⭐311)](https://github.com/zeromq/malamute) - ZeroMQ enterprise messaging broker.
-
-### REST / Scala
-
-*   [Slate (⭐36k)](https://github.com/tripit/slate) - Beautiful static documentation for your API.
 
 ## [Dec 19, 2015](/content/2015/12/19/README.md)
 
@@ -1313,12 +1144,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 *   [Libslack](http://libslack.org/) -  Provides a generic agent oriented programming model, run time selection of locking strategies, functions that make writing daemons trivial and simplify the implementation of network servers and clients, \&c.
 
-## [Nov 10, 2015](/content/2015/11/10/README.md)
-
-### Go / Erlang
-
-*   [Libchan (⭐2.5k)](https://github.com/docker/libchan) - Ultra-lightweight networking library which lets network services communicate in the same way that goroutines communicate using channels.
-
 ## [Nov 04, 2015](/content/2015/11/04/README.md)
 
 ### Articles & Papers / Scala
@@ -1326,10 +1151,6 @@ A curated list of Microservice Architecture related principles and technologies.
 *   [Service Discovery in a Microservice Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/) - Overview of discovery and registration patterns.
 
 ## [Nov 01, 2015](/content/2015/11/01/README.md)
-
-### Configuration & Discovery / Scala
-
-*   [SmartStack (⭐244)](https://github.com/airbnb/smartstack-cookbook) - Airbnb's automated service discovery and registration framework.
 
 ### Testing / Scala
 
@@ -1373,10 +1194,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## [Oct 03, 2015](/content/2015/10/03/README.md)
 
-### Elasticity / Scala
-
-*   [Onyx (⭐2k)](https://github.com/onyx-platform/onyx) - Distributed, masterless, high performance, fault tolerant data processing for Clojure.
-
 ### Storage / Scala
 
 *   [Datomic](http://www.datomic.com/) - Fully transactional, cloud-ready, distributed database.
@@ -1400,10 +1217,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Go / Erlang
 
-*   [Gocraft (⭐1.5k)](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
 *   [Go kit (⭐26k)](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
-*   [Kite (⭐3.2k)](https://github.com/koding/kite) - Microservices framework in Go.
-*   [Negroni (⭐7.4k)](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
 
 ### Haskell / Erlang
 
@@ -1414,8 +1228,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 *   [Compojure (⭐4k)](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure.
 *   [Duct (⭐1.1k)](https://github.com/weavejester/duct) - Minimal framework for building web applications in Clojure, with a strong emphasis on simplicity.
-*   [Liberator](http://clojure-liberator.github.io/liberator/) - Library that helps you expose your data as resources while automatically complying with all the relevant requirements of the HTTP specification.
-*   [Modularity](https://modularity.org/) - JUXT's Clojure-based modular system.
 *   [System (⭐603)](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
 *   [Tesla (⭐188)](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
 
@@ -1423,15 +1235,12 @@ A curated list of Microservice Architecture related principles and technologies.
 
 *   [Airlift (⭐550)](https://github.com/airlift/airlift) - Framework for building REST services in Java.
 *   [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
-*   [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
 *   [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
 
 ### Java VM / Scala
 
-*   [Colossus (⭐1.1k)](https://github.com/tumblr/colossus) - I/O and microservice library for Scala.
 *   [Finatra](http://twitter.github.io/finatra/) - Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
 *   [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
-*   [Skinny Micro (⭐57)](https://github.com/skinny-framework/skinny-micro) - Micro-web framework to build servlet applications in Scala.
 
 ### Node.js / Scala
 
@@ -1446,8 +1255,6 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Storage / Scala
 
 *   [Couchbase](http://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
-*   [Reborn (⭐898)](https://github.com/reborndb/reborn) - Distributed database fully compatible with redis protocol.
-*   [Tachyon](http://tachyon-project.org/) - Memory-centric distributed storage system, enabling reliable data sharing at memory-speed across cluster frameworks.
 
 ## [Sep 24, 2015](/content/2015/09/24/README.md)
 
@@ -1459,11 +1266,6 @@ A curated list of Microservice Architecture related principles and technologies.
 ### C
 
 *   [Kore](https://kore.io/) - Easy to use web application framework for writing scalable web APIs in C.
-
-### C++
-
-*   [AnyRPC (⭐62)](https://github.com/sgieseking/anyrpc) - Provides a common system to work with a number of different remote procedure call standards, including: JSON-RPC, XML-RPC, MessagePack-RPC.
-*   [C++ Micro Services](http://cppmicroservices.org/) - An OSGi-like C++ dynamic module system and service registry.
 
 ### D
 
@@ -1479,7 +1281,6 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Configuration & Discovery / Scala
 
-*   [Denominator (⭐574)](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash.
 *   [Etcd (⭐45k)](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
 *   [Eureka (⭐12k)](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) - REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
 *   [SkyDNS (⭐2.2k)](https://github.com/skynetservices/skydns) - Distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
@@ -1487,9 +1288,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Elasticity / Scala
 
-*   [Marathon](https://mesosphere.github.io/marathon/) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 *   [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
-*   [Ordasity (⭐343)](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
 *   [Redisson (⭐22k)](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
 
 ### Serialization / Scala
@@ -1516,12 +1315,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Messaging / Scala
 
-*   [Ascoltatori (⭐526)](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
 *   [STOMP](https://stomp.github.io/) - Simple Text Oriented Messaging Protocol.
-
-### REST / Scala
-
-*   [Apidoc (⭐551)](https://github.com/mbryzek/apidoc) - Beautiful documentation for REST services.
 
 ### Articles & Papers / Scala
 
@@ -1617,8 +1411,4 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Messaging / Scala
 
 *   [ØMQ](http://zeromq.org/) - Brokerless intelligent transport layer.
-*   [Apollo](http://activemq.apache.org/apollo/) - Faster, more reliable, easier to maintain messaging broker built from the foundations of the original ActiveMQ.
-*   [Disque (⭐8k)](https://github.com/antirez/disque) - Distributed message broker.
 *   [Kafka](http://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
-*   [Nanomsg](http://nanomsg.org/) - Socket library that provides several common communication patterns for building distributed systems.
-*   [Qpid](https://qpid.apache.org/) - Cross-platform messaging components built on AMQP.

@@ -309,6 +309,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Courses and Educational Materials
 
+*   [udlbook/udlbook (⭐3.5k)](https://github.com/udlbook/udlbook?utm_source=alphasignalai.beehiiv.com\&utm_medium=newsletter\&utm_campaign=the-most-powerful-rag-chatbot): Understanding Deep Learning by Professor Simon J.D. Prince
 *   [Book: Understanding Deep Learning](https://udlbook.github.io/udlbook/): website with the book draft and Google Colabs of the book by Simon J.D. Prince
 *   [List of Generative AI Learning resources from AWS and Google](https://www.linkedin.com/posts/aagarwal29_generativeai-learn-aws-activity-7081761811129118720-i128/): list organized as a LinkedIn post by Ankit Agarwal
 *   [How AI chatbots like ChatGPT or Bard work – visual explainer | The Guardian](https://www.theguardian.com/technology/ng-interactive/2023/nov/01/how-ai-chatbots-like-chatgpt-or-bard-work-visual-explainer)
@@ -531,6 +532,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Retrieval-Augmented Generation (RAG)
 
+*   [weaviate/Verba (⭐1.2k)](https://github.com/weaviate/Verba): Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 *   [imartinez/privateGPT (⭐43k)](https://github.com/imartinez/privateGPT): "Interact with your documents using the power of GPT, 100% privately, no data leaks"
 *   [pinecone-io/canopy (⭐355)](https://github.com/pinecone-io/canopy): Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
 *   [Forget RAG, the Future is RAG-Fusion](https://towardsdatascience.com/forget-rag-the-future-is-rag-fusion-1147298d8ad1): post by Adrian H. Raudaschl in Towards Data Science
@@ -598,7 +600,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [\[2311.12983\] GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983)
 *   [Sharing LangSmith Benchmarks](https://blog.langchain.dev/public-langsmith-benchmarks/)
 *   [\[2311.09247\] Comparing Humans, GPT-4, and GPT-4V On Abstraction and Reasoning Tasks](https://arxiv.org/abs/2311.09247)
-*   [vectara/hallucination-leaderboard (⭐274)](https://github.com/vectara/hallucination-leaderboard): "leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
+*   [vectara/hallucination-leaderboard (⭐748)](https://github.com/vectara/hallucination-leaderboard): "leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
 *   [\[2305.16938\] Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation](https://arxiv.org/abs/2305.16938)
 *   [LLM Comparison/Test](https://www.reddit.com/r/LocalLLaMA/comments/17fhp9k/huge_llm_comparisontest_39_models_tested_7b70b/): 39 models tested (7B-70B + ChatGPT/GPT-4)
 *   [LLM Evaluation at Scale – Airtrain](https://www.airtrain.ai/): no-code batch compute platform for LLM evaluation and tuning workloads
@@ -624,6 +626,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Attacks on LLMs
 
+*   [MITRE ATLAS™](https://atlas.mitre.org/): knowledge base of adversary tactics and techniques based on real-world attack observations and realistic demonstrations from AI red teams and security groups, modeled after the MITRE ATT\&CK® framework.
 *   [OWASP Top 10 for Large Language Model Applications](https://llmtop10.com/): the Open Worldwide Application Security Project's list related to LLMs [\[Youtube video\]](https://www.youtube.com/watch?v=engR9tYSsug)
 *   [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035): extracting training data from ChatGPT [\[webpage\]](https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html)
 *   [The Emerging Attacks on Large Language Models (LLMs)](https://www.linkedin.com/pulse/emerging-attacks-large-language-models-llms-soumak-roy/): "key attack vectors that threat actors can exploit to compromise or manipulate LLMs".
@@ -966,7 +969,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Code and Programming
 
-*   [tldraw/draw-a-ui (⭐373)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
+*   [tldraw/draw-a-ui (⭐3.5k)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
 *   [deepseek-ai/DeepSeek-Coder (⭐2.8k)](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
 *   [Cody](https://about.sourcegraph.com/cody): AI coding assistant
 *   [Kombai](https://kombai.com/): generate UI code per component from Figma
