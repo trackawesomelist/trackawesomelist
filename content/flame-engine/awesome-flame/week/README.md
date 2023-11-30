@@ -6,6 +6,12 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 [ [Daily](/content/flame-engine/awesome-flame/README.md) / Weekly / [Overview](/content/flame-engine/awesome-flame/readme/README.md) ]
 
+## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
+
+### App Releases / Casual
+
+*   Cosmic Merge - [Android](https://play.google.com/store/apps/details?id=es.antonborri.merge_game), [iOS](https://apps.apple.com/app/cosmic-merge/id6471924647) - Merge Planets, Moons and more with the goal to reach galaxies far away or possibly even further? By [ABausG](https://twitter.com/abausg)
+
 ## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
 
 ### Plugins & Libraries
@@ -134,7 +140,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Non-English Content / Simulation
 
-*   [Spanish (Español) (⭐803)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
+*   [Spanish (Español) (⭐817)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
 
 ## [Sep 12 - Sep 18, 2022](/content/2022/37/README.md)
 
@@ -272,7 +278,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Non-English Content / Simulation
 
-*   [Mandarin Chinese (中文) (⭐803)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
+*   [Mandarin Chinese (中文) (⭐817)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
 
 ## [Jul 13 - Jul 19, 2020](/content/2020/28/README.md)
 

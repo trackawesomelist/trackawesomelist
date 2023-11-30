@@ -12,6 +12,10 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 *   [Taze (⭐1.9k)](https://github.com/antfu/taze) A modern cli tool that keeps your dependencies fresh
 
+### Build Systems / Playground
+
+*   [Nx (⭐20k)](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
+
 ## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
 
 ### Libraries / Chrome Extensions
@@ -43,7 +47,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Tools / Playground
 
-*   [OXC (⭐3.7k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
+*   [OXC (⭐4.1k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
 *   [biome (⭐4.1k)](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)

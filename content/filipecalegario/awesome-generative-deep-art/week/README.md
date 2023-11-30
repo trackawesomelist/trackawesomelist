@@ -29,6 +29,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### LLM Evaluation / Multi-agents
 
+*   [Amazon will offer human benchmarking teams to test AI models - The Verge](https://www.theverge.com/2023/11/29/23981129/amazon-aws-ai-model-evaluation-bias-toxicity)
 *   [\[2311.05020\] First Tragedy, then Parse: History Repeats Itself in the New Era of Large Language Models](https://arxiv.org/abs/2311.05020): "that meaningful evaluation informed by actual use is still an open problem"
 
 ### Attacks on LLMs / Multi-agents

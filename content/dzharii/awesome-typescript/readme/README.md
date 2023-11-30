@@ -151,6 +151,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [Grunt](http://gruntjs.com/) tasks:
     *   [grunt-ts](https://www.npmjs.com/package/grunt-ts) - Grunt-ts is an npm package that handles TypeScript compilation work in GruntJS build scripts
 *   [Zwitterion (⭐563)](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
+*   [Nx (⭐20k)](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 
 ## Cloud Data Warehousing
 
@@ -175,7 +176,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [sqlx-ts (⭐108)](https://github.com/JasonShin/sqlx-ts) - SQLx-ts is a CLI application featuring compile-time checked queries without a DSL and generates types against SQLs to keep your code type-safe
 *   [bun](https://bun.sh/) - Bun is a fast JavaScript runtime, package manager, bundler, test runner
 *   [deno](https://deno.land/) - A secure runtime for JavaScript and TypeScript
-*   [OXC (⭐3.7k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
+*   [OXC (⭐4.1k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
 *   [biome (⭐4.1k)](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second
 *   [SweetIQ/schemats (⭐1k)](https://github.com/SweetIQ/schemats) Generate typescript interface definitions from SQL database schema
 *   [TypeDoc](http://typedoc.org/) - A documentation generator for TypeScript projects

@@ -8,12 +8,21 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
 
+### Game Engine
+
+*   [JNGL (⭐185)](https://github.com/jhasse/jngl/) - 2D library for Linux, Windows, macOS, Android, iOS, Xbox, the Nintendo Switch and the Web. \[zlib] [website](https://bixense.com/jngl/)
+
 ### Internationalization
 
 *   [simdutf (⭐844)](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON, AVX-512. \[Apache-2/MIT]
 
+### JSON
+
+*   [Sonic-Cpp (⭐687)](https://github.com/bytedance/sonic-cpp) - A fast JSON serializing & deserializing library, accelerated by SIMD. \[Apache-2.0]
+
 ### PDF
 
+*   [pdfio (⭐109)](https://github.com/michaelrsweet/pdfio) - A simple C library for reading and writing PDF files. \[Apache-2] [website](https://www.msweet.org/pdfio/)
 *   [PDFium](https://pdfium.googlesource.com/pdfium/) - PDF generation and rendering library. \[BSD-3-Clause]
 
 ## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)

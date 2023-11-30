@@ -6,6 +6,12 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ Daily / [Weekly](/content/dzharii/awesome-typescript/week/README.md) / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
+## [Nov 30, 2023](/content/2023/11/30/README.md)
+
+### Build Systems / Playground
+
+*   [Nx (⭐20k)](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
+
 ## [Nov 28, 2023](/content/2023/11/28/README.md)
 
 ### CLI and REPL
@@ -53,7 +59,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Tools / Playground
 
-*   [OXC (⭐3.7k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
+*   [OXC (⭐4.1k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
 
 ## [Oct 24, 2023](/content/2023/10/24/README.md)
 

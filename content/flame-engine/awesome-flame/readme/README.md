@@ -193,6 +193,8 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 *   Escaper: Run - [IOS](https://apps.apple.com/tr/app/escaper-run/id6450519372?platform=iphone) - Dodge the bombs. Test your reflexes! By [A. Can Algan](https://github.com/acalgan)
 
+*   Cosmic Merge - [Android](https://play.google.com/store/apps/details?id=es.antonborri.merge_game), [iOS](https://apps.apple.com/app/cosmic-merge/id6471924647) - Merge Planets, Moons and more with the goal to reach galaxies far away or possibly even further? By [ABausG](https://twitter.com/abausg)
+
 #### Educational
 
 *   [Sky Academy](https://www.dong.digital/skyacademy/) - [Android](https://play.google.com/store/apps/details?id=digital.dong.skyacademy), [iOS](https://apps.apple.com/us/app/sky-academy/id1571488252) - Learn to recognize all the constellations and brightest stars from a gold medal winner of the International Astronomy Olympiad. By [Dong Digital][3].
@@ -260,12 +262,12 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ## Non-English Content
 
-*   [Mandarin Chinese (中文) (⭐803)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
-*   [Spanish (Español) (⭐803)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
+*   [Mandarin Chinese (中文) (⭐817)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
+*   [Spanish (Español) (⭐817)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
 
 ## Contributing
 
-[Please read the contribution guidelines (⭐803)](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md)
+[Please read the contribution guidelines (⭐817)](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md)
 
 <!-- Add ref links here -->
 

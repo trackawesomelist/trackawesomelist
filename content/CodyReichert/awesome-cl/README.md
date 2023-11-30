@@ -6,6 +6,12 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Nov 30, 2023](/content/2023/11/30/README.md)
+
+### C, C++
+
+*   [vacietis (⭐286)](https://github.com/vsedach/Vacietis) -  C to Common Lisp compiler. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+
 ## [Nov 24, 2023](/content/2023/11/24/README.md)
 
 ### System interface / Third-party APIs

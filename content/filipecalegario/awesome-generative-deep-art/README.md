@@ -16,6 +16,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [weaviate/Verba (⭐1.2k)](https://github.com/weaviate/Verba): Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 
+### LLM Evaluation / Multi-agents
+
+*   [Amazon will offer human benchmarking teams to test AI models - The Verge](https://www.theverge.com/2023/11/29/23981129/amazon-aws-ai-model-evaluation-bias-toxicity)
+
 ### Attacks on LLMs / Multi-agents
 
 *   [MITRE ATLAS™](https://atlas.mitre.org/): knowledge base of adversary tactics and techniques based on real-world attack observations and realistic demonstrations from AI red teams and security groups, modeled after the MITRE ATT\&CK® framework.

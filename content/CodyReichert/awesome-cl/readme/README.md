@@ -211,7 +211,7 @@ sellers who aren't evil for physical resources.
     ancient version of Common Music (version 2.12.0), the presumably last
     version which ran on Common Lisp dating from around 2007-09, before
     work on Common Music shifted to (scheme-based) cm3.
-*   [Slippery Chicken (⭐55)](https://github.com/mdedwards/slippery-chicken/) - Algorithmic composition library which outputs Midi, Common Music Notation, pdf-score via Lilypond and sound via Common Lisp Music. [GPL3][2].
+*   [Slippery Chicken (⭐56)](https://github.com/mdedwards/slippery-chicken/) - Algorithmic composition library which outputs Midi, Common Music Notation, pdf-score via Lilypond and sound via Common Lisp Music. [GPL3][2].
 *   [Common Music Notation](https://ccrma.stanford.edu/software/cmn/) - Common Music Notation (CMN) provides a package of functions to hierarchically describe a musical score. Public domain.
 *   [cm-incudine (⭐8)](https://github.com/ormf/cm-incudine) - extends Common Music 2 with realtime capabilities. GPL2.
 *   [Mégra (⭐66)](https://github.com/the-drunk-coder/megra) - A mini-language to make music with variable-order markov chains and some other stochastic shenanigans. [GPL3][2].
@@ -250,6 +250,7 @@ See also:
 *   [with-c-syntax (⭐129)](https://github.com/y2q-actionman/with-c-syntax) - a fun package which introduces the C language syntax into Common Lisp. (Yes, this package is not for practical coding, I think.) WTFPL Licence.
 *   [ecrepl](https://gitlab.common-lisp.net/ecl/ecrepl) - an interactive REPL for the C language. [BSD\_2Clause][17].
 *   [Software-Evolution-Library (⭐158)](https://github.com/GrammaTech/sel) - The SEL enables the programmatic modification and evaluation of software (C/C++ support using Clang, compiled assembler, and linked ELF binaries). [GPL3][2].
+*   [vacietis (⭐286)](https://github.com/vsedach/Vacietis) -  C to Common Lisp compiler. [LGPL3][9].
 
 # Cryptography
 

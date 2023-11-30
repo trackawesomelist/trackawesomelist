@@ -6,11 +6,18 @@ Curated list: Resources for machine learning in Ruby
 
 [ Daily / [Weekly](/content/arbox/machine-learning-with-ruby/week/README.md) / [Overview](/content/arbox/machine-learning-with-ruby/readme/README.md) ]
 
+## [Nov 30, 2023](/content/2023/11/30/README.md)
+
+### Community / Vector search
+
+*   [X Ruby AI group](https://twitter.com/i/communities/1709211359039078677)
+*   [Mastodon Ruby AI and Data group](https://ruby.social/@Ruby_AI_and_Data@chirp.social)
+
 ## [Oct 22, 2023](/content/2023/10/22/README.md)
 
 ### Machine Learning Libraries / Frameworks
 
-*   [ruby-openai (⭐1.8k)](https://github.com/alexrudall/ruby-openai) - OpenAI API wrapper
+*   [ruby-openai (⭐2k)](https://github.com/alexrudall/ruby-openai) - OpenAI API wrapper
 
 ### Community / Vector search
 
@@ -27,21 +34,21 @@ Curated list: Resources for machine learning in Ruby
 
 ### Machine Learning Libraries / Clustering
 
-*   [kmeans-clusterer (⭐92)](https://github.com/gbuesing/kmeans-clusterer) -
+*   [kmeans-clusterer (⭐93)](https://github.com/gbuesing/kmeans-clusterer) -
     k-means clustering in Ruby.
 *   [k\_means (⭐115)](https://github.com/reddavis/K-Means) -
     Attempting to build a fast, memory efficient K-Means program.
-*   [knn (⭐36)](https://github.com/reddavis/knn) -
+*   [knn (⭐37)](https://github.com/reddavis/knn) -
     Simple K Nearest Neighbour Algorithm.
 
 ### Machine Learning Libraries / Vector search
 
 *   [flann (⭐2.1k)](https://github.com/mariusmuja/flann) -
     Ruby bindings for the [FLANN (⭐2.1k)](https://github.com/flann-lib/flann) (Fast Library for Approximate Nearest Neighbors). <sup>\[[flann](#flann)]</sup>
-*   [annoy-rb (⭐27)](https://github.com/yoshoku/annoy.rb) -
+*   [annoy-rb (⭐28)](https://github.com/yoshoku/annoy.rb) -
     Ruby bindings for the [Annoy (⭐12k)](https://github.com/spotify/annoy) (Approximate Nearest Neighbors Oh Yeah).
 *   [hnswlib.rb (⭐12)](https://github.com/yoshoku/hnswlib.rb) -
-    Ruby bindings for the [Hnswlib (⭐3.5k)](https://github.com/nmslib/hnswlib) that implements approximate nearest neighbor search with Hierarchical Navigable Small World graphs.
+    Ruby bindings for the [Hnswlib (⭐3.7k)](https://github.com/nmslib/hnswlib) that implements approximate nearest neighbor search with Hierarchical Navigable Small World graphs.
 *   [ngt-ruby (⭐44)](https://github.com/ankane/ngt-ruby) -
     Ruby bindings for the [NGT (⭐1.1k)](https://github.com/yahoojapan/NGT) (Neighborhood Graph and Tree for Indexing High-dimensional data).
 
@@ -49,7 +56,7 @@ Curated list: Resources for machine learning in Ruby
 
 ### Machine Learning Libraries / Frameworks
 
-*   [LangChain.rb (⭐620)](https://github.com/andreibondarev/langchainrb) -
+*   [LangChain.rb (⭐714)](https://github.com/andreibondarev/langchainrb) -
     Build ML/AI-supercharged applications with Ruby's LangChain.
 
 ## [Apr 23, 2023](/content/2023/04/23/README.md)
@@ -63,11 +70,11 @@ Curated list: Resources for machine learning in Ruby
 
 ### Machine Learning Libraries / Vector search
 
-*   [pinecone (⭐46)](https://github.com/ScotterC/pinecone) —
+*   [pinecone (⭐50)](https://github.com/ScotterC/pinecone) —
     Ruby client for Pinecone Vector DB.
-*   [qdrant-ruby (⭐25)](https://github.com/andreibondarev/qdrant-ruby) —
+*   [qdrant-ruby (⭐26)](https://github.com/andreibondarev/qdrant-ruby) —
     Ruby wrapper for the Qdrant vector search database API.
-*   [weaviate-ruby (⭐34)](https://github.com/andreibondarev/weaviate-ruby) —
+*   [weaviate-ruby (⭐36)](https://github.com/andreibondarev/weaviate-ruby) —
     Ruby wrapper for the Weaviate vector search database API.
 
 ## [Mar 07, 2021](/content/2021/03/07/README.md)
@@ -87,27 +94,27 @@ Curated list: Resources for machine learning in Ruby
 
 ### Related Resources / Vector search
 
-*   [iRuby (⭐790)](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formerly IPython).
+*   [iRuby (⭐801)](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formerly IPython).
 
 ## [Jul 28, 2020](/content/2020/07/28/README.md)
 
 ### Machine Learning Libraries / Deep learning
 
-*   [red-chainer (⭐102)](https://github.com/red-data-tools/red-chainer) - Deep learning framework for Ruby.
+*   [red-chainer (⭐101)](https://github.com/red-data-tools/red-chainer) - Deep learning framework for Ruby.
 *   [mxnet (⭐48)](https://github.com/mrkn/mxnet.rb) - Ruby bindings for [mxnet](https://mxnet.apache.org/).
 
 ## [Dec 07, 2019](/content/2019/12/07/README.md)
 
 ### Machine Learning Libraries / Deep learning
 
-*   [torch-rb (⭐579)](https://github.com/ankane/torch-rb) - Ruby bindings for [LibTorch (⭐72k)](https://github.com/pytorch/pytorch)
-    using [rice (⭐353)](https://github.com/jasonroelofs/rice).
+*   [torch-rb (⭐595)](https://github.com/ankane/torch-rb) - Ruby bindings for [LibTorch (⭐73k)](https://github.com/pytorch/pytorch)
+    using [rice (⭐355)](https://github.com/jasonroelofs/rice).
 
 ## [Aug 26, 2019](/content/2019/08/26/README.md)
 
 ### Machine Learning Libraries / Deep learning
 
-*   [ruby-dnn (⭐41)](https://github.com/unagiootoro/ruby-dnn) - Simple deep learning for Ruby.
+*   [ruby-dnn (⭐43)](https://github.com/unagiootoro/ruby-dnn) - Simple deep learning for Ruby.
 
 ## [Aug 21, 2019](/content/2019/08/21/README.md)
 
@@ -122,21 +129,21 @@ Curated list: Resources for machine learning in Ruby
 
 ### Machine Learning Libraries / Frameworks
 
-*   [eps (⭐629)](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
+*   [eps (⭐631)](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
     using [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend using [GSL](https://www.gnu.org/software/gsl/).
 
 ## [Jun 01, 2019](/content/2019/06/01/README.md)
 
 ### Machine Learning Libraries / Frameworks
 
-*   [rumale (⭐700)](https://github.com/yoshoku/rumale) -
+*   [rumale (⭐714)](https://github.com/yoshoku/rumale) -
     Machine Learninig toolkit in Ruby with wide range of implemented algorithms
     (SVM, Logistic Regression, Linear Regression, Random Forest etc.) and
     interfaces similar to [Scikit-Learn](https://scikit-learn.org/stable/index.html) in Python.
 
 ### Machine Learning Libraries / Deep learning
 
-*   [tensorflow (⭐824)](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/).
+*   [tensorflow (⭐823)](https://github.com/somaticio/tensorflow.rb) - Ruby bindings for [TensorFlow](https://www.tensorflow.org/).
 
 ### Related Resources / Vector search
 
@@ -172,7 +179,7 @@ Curated list: Resources for machine learning in Ruby
 
 ### Machine Learning Libraries / Deep learning
 
-*   [tensor\_stream (⭐508)](https://github.com/jedld/tensor_stream) -
+*   [tensor\_stream (⭐509)](https://github.com/jedld/tensor_stream) -
     Ground-up and standalone reimplementation of TensorFlow for Ruby.
 
 ### Articles, Posts, Talks, and Presentations / Vector search
@@ -197,13 +204,13 @@ Curated list: Resources for machine learning in Ruby
 
 *   [machine\_learning\_workbench (⭐19)](https://github.com/giuse/machine_learning_workbench) -
     Growing machine learning framework written in pure Ruby, high performance computing using
-    [Numo](https://github.com/ruby-numo/), CUDA bindings through [Cumo (⭐92)](https://github.com/sonots/cumo).
+    [Numo](https://github.com/ruby-numo/), CUDA bindings through [Cumo (⭐91)](https://github.com/sonots/cumo).
     Currently implementating neural networks, evolutionary strategies, vector quantization, and plenty of
     examples and utilities.
-*   [Deep NeuroEvolution (⭐126)](https://github.com/giuse/DNE) -
+*   [Deep NeuroEvolution (⭐124)](https://github.com/giuse/DNE) -
     Experimental setup based on the [machine\_learning\_workbench (⭐19)](https://github.com/giuse/machine_learning_workbench)
     towards searching for deep neural networks (rather than training) using evolutionary algorithms. Applications to the
-    [OpenAI Gym (⭐33k)](https://github.com/openai/gym) using [PyCall (⭐996)](https://github.com/mrkn/pycall.rb).
+    [OpenAI Gym (⭐33k)](https://github.com/openai/gym) using [PyCall (⭐1k)](https://github.com/mrkn/pycall.rb).
 
 ### Machine Learning Libraries / Neural networks
 
@@ -354,7 +361,7 @@ Curated list: Resources for machine learning in Ruby
 
 ### Projects and Code Examples / Vector search
 
-*   [simple\_ga (⭐8)](https://github.com/giuse/simple_ga) -
+*   [simple\_ga (⭐9)](https://github.com/giuse/simple_ga) -
     Basic (working) demo of Genetic Algorithms in Ruby.
 
 ## [May 17, 2017](/content/2017/05/17/README.md)
@@ -368,18 +375,18 @@ Curated list: Resources for machine learning in Ruby
 
 ### Machine Learning Libraries / Frameworks
 
-*   [weka (⭐65)](https://github.com/paulgoetze/weka-jruby) -
+*   [weka (⭐64)](https://github.com/paulgoetze/weka-jruby) -
     JRuby bindings for Weka, different ML algorithms implemented through Weka.
-*   [ai4r (⭐712)](https://github.com/SergioFierens/ai4r) -
+*   [ai4r (⭐711)](https://github.com/SergioFierens/ai4r) -
     Artificial Intelligence for Ruby.
-*   [classifier-reborn (⭐540)](https://github.com/jekyll/classifier-reborn) -
+*   [classifier-reborn (⭐541)](https://github.com/jekyll/classifier-reborn) -
     General classifier module to allow Bayesian and other types of classifications. <sup>\[[dep: GLS](#gls)]</sup>
 
 ### Machine Learning Libraries / Neural networks
 
-*   [neural-net-ruby (⭐125)](https://github.com/gbuesing/neural-net-ruby) -
+*   [neural-net-ruby (⭐127)](https://github.com/gbuesing/neural-net-ruby) -
     Neural network written in Ruby.
-*   [ruby-fann (⭐459)](https://github.com/tangledpath/ruby-fann) -
+*   [ruby-fann (⭐465)](https://github.com/tangledpath/ruby-fann) -
     Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
 *   [cerebrum (⭐35)](https://github.com/irfansharif/cerebrum) -
     Experimental implementation for Artificial Neural Networks in Ruby.
@@ -393,7 +400,7 @@ Curated list: Resources for machine learning in Ruby
 
 *   [linnaeus (⭐37)](https://github.com/djcp/linnaeus) -
     Redis-backed Bayesian classifier.
-*   [naive\_bayes (⭐46)](https://github.com/reddavis/Naive-Bayes) -
+*   [naive\_bayes (⭐47)](https://github.com/reddavis/Naive-Bayes) -
     Simple Naive Bayes classifier.
 *   [nbayes (⭐152)](https://github.com/oasic/nbayes) -
     Full-featured, Ruby implementation of Naive Bayes.
@@ -459,7 +466,7 @@ Curated list: Resources for machine learning in Ruby
     Linear Algebra, Visualization and Scientific Computing for Ruby.
 *   [Kiba (⭐1.7k)](https://github.com/thbar/kiba) -
     Lightweight [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (Extract, Transform, Load) pipeline.
-*   [Awesome OCR (⭐2.4k)](https://github.com/kba/awesome-ocr) -
+*   [Awesome OCR (⭐2.5k)](https://github.com/kba/awesome-ocr) -
     Multitude of OCR (Optical Character Recognition) resources.
 *   [Awesome TensorFlow (⭐17k)](https://github.com/jtoy/awesome-tensorflow) -
     Machine Learning with TensorFlow libraries.

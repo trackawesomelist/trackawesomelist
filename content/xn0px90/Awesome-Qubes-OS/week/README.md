@@ -6,6 +6,16 @@ A curated list of awesome qubes os links
 
 [ [Daily](/content/xn0px90/Awesome-Qubes-OS/README.md) / Weekly / [Overview](/content/xn0px90/Awesome-Qubes-OS/readme/README.md) ]
 
+## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
+
+### Templates
+
+*   [Auto Minimal Debian Template Creation](https://svensemmler.org/notes/deb-min-templates) - This page summarizes how to automate debian-minimal based template creation.
+
+### Qubes OS Server / Web articles
+
+*   [Qubes-os port forwarding](https://gist.github.com/fepitre/941d7161ae1150d90e15f778027e3248) - Qubes-os port forwarding to allow external connections
+
 ## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
 
 ### Templates
@@ -24,7 +34,7 @@ A curated list of awesome qubes os links
 ### Customization
 
 *   [Bash completion](https://forum.qubes-os.org/docs?topic=13304) - How to install bash completion for Qubes OS commands.
-*   [Qubes-Scripts (⭐5)](https://github.com/Willy-JL/Qubes-Scripts) - Collection of custom scripts for Qubes OS.
+*   [Qubes-Scripts (⭐6)](https://github.com/Willy-JL/Qubes-Scripts) - Collection of custom scripts for Qubes OS.
 
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
@@ -85,7 +95,7 @@ A curated list of awesome qubes os links
 
 ### Optics and Extra Info / Unikernel-like
 
-*   [Hipervisor From Scratch (⭐1.7k)](https://github.com/SinaKarvandi/Hypervisor-From-Scratch)- Source code of a multiple series of tutorials about the hypervisor.
+*   [Hipervisor From Scratch (⭐1.8k)](https://github.com/SinaKarvandi/Hypervisor-From-Scratch)- Source code of a multiple series of tutorials about the hypervisor.
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
