@@ -2,7 +2,7 @@
 
 A curated list of awesome resources to choose your next color scheme
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Siddharth11/Colorful/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Siddharth11/Colorful](https://github.com/Siddharth11/Colorful) · ⭐ 960 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Siddharth11/Colorful/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Siddharth11/Colorful](https://github.com/Siddharth11/Colorful) · ⭐ 996 · 🏷️ Miscellaneous
 
 [ [Daily](/content/Siddharth11/Colorful/README.md) / [Weekly](/content/Siddharth11/Colorful/week/README.md) / Overview ]
 
@@ -15,7 +15,7 @@ A curated list of awesome resources to choose your next color scheme
 # Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **A curated list of awesome resources to choose your next color scheme.**
-Inspired by the **[awesome (⭐268k)](https://github.com/sindresorhus/awesome)** list. Please read the **[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/readme.md/contributing.md)** before contributing.
+Inspired by the **[awesome (⭐283k)](https://github.com/sindresorhus/awesome)** list. Please read the **[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/readme.md/contributing.md)** before contributing.
 
 ## Table of Contents
 
@@ -37,15 +37,15 @@ Inspired by the **[awesome (⭐268k)](https://github.com/sindresorhus/awesome)**
 *   [Coloor (⭐332)](https://github.com/krasimir/coloor) - Image preloading utility.
 *   [Color Thief (⭐12k)](https://github.com/lokesh/color-thief) - Grab color palette from an image.
 *   [Colorify.js (⭐810)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
-*   [Colofilter.css (⭐621)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
+*   [Colofilter.css (⭐619)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
 *   [Polychrome (⭐288)](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
-*   [Palettable (⭐702)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+*   [Palettable (⭐719)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 *   [picocli](http://picocli.info/) - Small library for creating Java command line applications with ANSI colors and styles.
 *   [granim.js (⭐5.2k)](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations.
-*   [tinygradient (⭐183)](https://github.com/mistic100/tinygradient) - Fast and small gradients manipulation.
-*   [TinyColor (⭐4.8k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
+*   [tinygradient (⭐185)](https://github.com/mistic100/tinygradient) - Fast and small gradients manipulation.
+*   [TinyColor (⭐4.9k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 *   [Distinct Colors (⭐116)](https://github.com/internalfx/distinct-colors) - Generate a palette of visually distinct colors.
-*   [color2k (⭐557)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
+*   [color2k (⭐573)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
 
 #### Web App
 
@@ -115,6 +115,7 @@ Inspired by the **[awesome (⭐268k)](https://github.com/sindresorhus/awesome)**
 *   [WebGradients](https://webgradients.com/) - A free collection of 180 linear gradients.
 *   [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) - Resources for the cubehelix family of colour schemes.
 *   [Color Name List (⭐2.2k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
+*   [Realtime Colors](https://www.realtimecolors.com) - Visualize Your Colors & Fonts On a Real Site.
 
 ## Articles
 

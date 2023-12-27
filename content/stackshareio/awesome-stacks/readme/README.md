@@ -2,7 +2,7 @@
 
 A curated list of tech stacks for building different applications & features
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/stackshareio/awesome-stacks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) · ⭐ 3K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/stackshareio/awesome-stacks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) · ⭐ 3.2K · 🏷️ Miscellaneous
 
 [ [Daily](/content/stackshareio/awesome-stacks/README.md) / [Weekly](/content/stackshareio/awesome-stacks/week/README.md) / Overview ]
 
@@ -48,26 +48,26 @@ Stacks can be browsed in two places—on the README and on [awesomestacks.dev](h
 
 A basis for reducing the configuration of your projects with Next.js, best development practices and popular libraries in the developer community.
 
-*   [Next.js](https://nextjs.org/) - [🛠](https://stackshare.io/next-js) - [🐙 (⭐100k)](https://github.com/zeit/next.js) - The React Framework for server rendering, static websites, PWAs.
-*   [React Testing Library](https://testing-library.com/docs/react-testing-library/intro) - [🛠](https://stackshare.io/react-testing-library) - [🐙 (⭐17k)](https://github.com/testing-library/react-testing-library) - react-testing-library is a tool in the Testing Frameworks category of a tech stack.
-*   [Emotion](https://emotion.sh/) - [🛠](https://stackshare.io/emotion) - [🐙 (⭐16k)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition.
-*   [I18next](https://www.i18next.com/) - [🐙 (⭐6.6k)](https://github.com/i18next/i18next) - I18next is an internationalization-framework written in and for JavaScript. But it's much more than that.
-*   [Redux Saga](https://redux-saga.js.org/) - [🐙 (⭐22k)](https://github.com/redux-saga/redux-saga) - is a library that aims to make application side effects (i.e. asynchronous things like data fetching and impure things like accessing the browser cache) easier to manage, more efficient to execute, easy to test, and better at handling failures.
+*   [Next.js](https://nextjs.org/) - [🛠](https://stackshare.io/next-js) - [🐙 (⭐116k)](https://github.com/zeit/next.js) - The React Framework for server rendering, static websites, PWAs.
+*   [React Testing Library](https://testing-library.com/docs/react-testing-library/intro) - [🛠](https://stackshare.io/react-testing-library) - [🐙 (⭐18k)](https://github.com/testing-library/react-testing-library) - react-testing-library is a tool in the Testing Frameworks category of a tech stack.
+*   [Emotion](https://emotion.sh/) - [🛠](https://stackshare.io/emotion) - [🐙 (⭐17k)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition.
+*   [I18next](https://www.i18next.com/) - [🐙 (⭐7.2k)](https://github.com/i18next/i18next) - I18next is an internationalization-framework written in and for JavaScript. But it's much more than that.
+*   [Redux Saga](https://redux-saga.js.org/) - [🐙 (⭐23k)](https://github.com/redux-saga/redux-saga) - is a library that aims to make application side effects (i.e. asynchronous things like data fetching and impure things like accessing the browser cache) easier to manage, more efficient to execute, easy to test, and better at handling failures.
 
 ##### Resources
 
-*   [react-next-boilerplate (⭐303)](https://github.com/react-next-boilerplate/react-next-boilerplate)
+*   [react-next-boilerplate (⭐333)](https://github.com/react-next-boilerplate/react-next-boilerplate)
 
 ### React starter kit [↗](https://awesomestacks.dev/react-starter-kit)
 
 React Starter Kit is an opinionated boilerplate for web development built on top of Node.js, Express, GraphQL and React, containing modern web development tools such as Webpack, Babel and Browsersync.
 
-*   [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 (⭐201k)](https://github.com/facebook/react) - React components can be used on the client and server side.
-*   [Webpack](https://webpack.js.org/) - [🛠️](https://stackshare.io/webpack) - [🐙 (⭐62k)](https://github.com/webpack/webpack) - A static module bundler for modern JavaScript applications.
-*   [GraphQL](https://graphql.org/) - [🛠](https://stackshare.io/graphql) - [🐙 (⭐19k)](https://github.com/graphql/graphql-js) - A query language for APIs and a runtime for fulfilling those queries with your existing data.
-*   [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙 (⭐42k)](https://github.com/babel/babel) - A JavaScript compiler; use next generation JavaScript, today.
-*   [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙 (⭐60k)](https://github.com/expressjs/express) - A minimal and flexible Node.js web application framework.
-*   [Node.js](https://nodejs.org/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐93k)](https://github.com/nodejs/node) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 (⭐217k)](https://github.com/facebook/react) - React components can be used on the client and server side.
+*   [Webpack](https://webpack.js.org/) - [🛠️](https://stackshare.io/webpack) - [🐙 (⭐64k)](https://github.com/webpack/webpack) - A static module bundler for modern JavaScript applications.
+*   [GraphQL](https://graphql.org/) - [🛠](https://stackshare.io/graphql) - [🐙 (⭐20k)](https://github.com/graphql/graphql-js) - A query language for APIs and a runtime for fulfilling those queries with your existing data.
+*   [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙 (⭐43k)](https://github.com/babel/babel) - A JavaScript compiler; use next generation JavaScript, today.
+*   [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙 (⭐63k)](https://github.com/expressjs/express) - A minimal and flexible Node.js web application framework.
+*   [Node.js](https://nodejs.org/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐101k)](https://github.com/nodejs/node) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ##### Resources
 
@@ -78,23 +78,23 @@ React Starter Kit is an opinionated boilerplate for web development built on top
 React Starter Kit for Firebase is a popular project template (aka, boilerplate) for building modern, scalable web applications with React, Relay, and GraphQL using serverless infrastructure provided by Google Cloud (Cloud SQL, Cloud Functions, CDN hosting, and file storage).
 
 *   [Firebase](https://firebase.google.com/) - [🛠️](https://stackshare.io/firebase) - A cloud-hosted NoSQL database that lets you store and sync data between your users in real-time.
-*   [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 (⭐99k)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
-*   [Material UI](https://material-ui.com/) - [🛠️](https://stackshare.io/material-ui) - [🐙 (⭐84k)](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design.
+*   [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 (⭐101k)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+*   [Material UI](https://material-ui.com/) - [🛠️](https://stackshare.io/material-ui) - [🐙 (⭐90k)](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design.
 *   [Relay](https://facebook.github.io/relay/) - [🛠️](https://stackshare.io/relay) - [🐙 (⭐18k)](https://github.com/facebook/relay) - A JavaScript framework for building data-driven React applications.
-*   [GraphQL](https://graphql.org/) - [🛠](https://stackshare.io/graphql) - [🐙 (⭐19k)](https://github.com/graphql/graphql-js) - A query language for APIs and a runtime for fulfilling those queries with your existing data.
+*   [GraphQL](https://graphql.org/) - [🛠](https://stackshare.io/graphql) - [🐙 (⭐20k)](https://github.com/graphql/graphql-js) - A query language for APIs and a runtime for fulfilling those queries with your existing data.
 
 ##### Resources
 
-*   [react-firebase-starter (⭐4.4k)](https://github.com/kriasoft/react-firebase-starter)
+*   [react-firebase-starter (⭐4.5k)](https://github.com/kriasoft/react-firebase-starter)
 
 ### vue-starter [↗](https://awesomestacks.dev/vue-starter)
 
 The most complete boilerplate for production-ready PWAs. With focus on performance, development speed, and best practices.
 
-*   [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙 (⭐202k)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
-*   [TypeScript](https://www.typescriptlang.org/) - [🛠️](https://stackshare.io/typescript) - [🐙 (⭐88k)](https://github.com/Microsoft/TypeScript) - A typed superset of JavaScript that compiles to plain JavaScript.
-*   [Jest](https://jestjs.io/) - [🛠️](https://stackshare.io/jest) - [🐙 (⭐41k)](https://github.com/facebook/jest) - A comprehensive, delightful JavaScript testing solution.
-*   [Prettier](https://prettier.io/) - [🛠️](https://stackshare.io/prettier) - [🐙 (⭐45k)](https://github.com/prettier/prettier) - An opinionated code formatter.
+*   [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙 (⭐206k)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
+*   [TypeScript](https://www.typescriptlang.org/) - [🛠️](https://stackshare.io/typescript) - [🐙 (⭐96k)](https://github.com/Microsoft/TypeScript) - A typed superset of JavaScript that compiles to plain JavaScript.
+*   [Jest](https://jestjs.io/) - [🛠️](https://stackshare.io/jest) - [🐙 (⭐43k)](https://github.com/facebook/jest) - A comprehensive, delightful JavaScript testing solution.
+*   [Prettier](https://prettier.io/) - [🛠️](https://stackshare.io/prettier) - [🐙 (⭐48k)](https://github.com/prettier/prettier) - An opinionated code formatter.
 *   [Vuex](https://vuex.vuejs.org/) - [🐙 (⭐28k)](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js.
 *   [Vue Router](https://router.vuejs.org/) - [🐙 (⭐19k)](https://github.com/vuejs/vue-router) - Vue Router is the official router for Vue.js.
 
@@ -106,25 +106,25 @@ The most complete boilerplate for production-ready PWAs. With focus on performan
 
 An ever-evolving and opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
 
-*   [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙 (⭐202k)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
+*   [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙 (⭐206k)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
 *   [Vuex](https://vuex.vuejs.org/) - [🐙 (⭐28k)](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js.
 *   [Vue Router](https://router.vuejs.org/) - [🐙 (⭐19k)](https://github.com/vuejs/vue-router) - Vue Router is the official router for Vue.js.
 *   [Vue CLI](https://cli.vuejs.org/) - [🐙 (⭐30k)](https://github.com/vuejs/vue-cli) - An approachable core library that focuses on the view layer only.
-*   [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙 (⭐42k)](https://github.com/babel/babel) - compiler for writing next generation JavaScript; Babel will turn your ES6+ code into ES5 friendly code, so you can start using it right now without waiting for browser support.
-*   [Sass](https://sass-lang.com) - [🛠️](https://stackshare.io/sass) - [🐙 (⭐14k)](https://github.com/sass/sass) - Sass is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
+*   [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙 (⭐43k)](https://github.com/babel/babel) - compiler for writing next generation JavaScript; Babel will turn your ES6+ code into ES5 friendly code, so you can start using it right now without waiting for browser support.
+*   [Sass](https://sass-lang.com) - [🛠️](https://stackshare.io/sass) - [🐙 (⭐15k)](https://github.com/sass/sass) - Sass is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
 
 ##### Resources
 
-*   [vue-enterprise-boilerplate (⭐7.6k)](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
+*   [vue-enterprise-boilerplate (⭐7.7k)](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
 
 ### Progressive Web App with Gatsby [↗](https://awesomestacks.dev/progressive-web-app-with-gatsby)
 
 Build a simple polling progressive web application with some great modern tech.
 
-*   [Gatsby](https://gatsbyjs.org/) - [🛠](https://stackshare.io/gatsbyjs) - [🐙 (⭐54k)](https://github.com/gatsbyjs/gatsby) - Gatsby is a blazing fast modern site generator for React.
+*   [Gatsby](https://gatsbyjs.org/) - [🛠](https://stackshare.io/gatsbyjs) - [🐙 (⭐55k)](https://github.com/gatsbyjs/gatsby) - Gatsby is a blazing fast modern site generator for React.
 *   [Cloud Firestore](https://firebase.google.com/docs/firestore/) - [🛠️](https://stackshare.io/cloud-firestore) - A noSQL cloud database that exposes event listeners for real-time updates.
 *   [Netlify](https://netlify.com/) - [🛠️](https://stackshare.io/netlify) - Netlify is a global CDN that makes continuous deployments as simple as a few clicks.
-*   [styled components](https://www.styled-components.com/) - [🛠](https://stackshare.io/styled-components) - [🐙 (⭐38k)](https://github.com/styled-components/styled-components) - A react-specific css-in-js solution.
+*   [styled components](https://www.styled-components.com/) - [🛠](https://stackshare.io/styled-components) - [🐙 (⭐40k)](https://github.com/styled-components/styled-components) - A react-specific css-in-js solution.
 *   [Contentful](https://www.contentful.com/) - [🛠](https://stackshare.io/contentful) - [🐙](https://github.com/contentful) - Contentful is a flexible and future-friendly content platform that helps editors to manage and developers to serve content into mobile or web applications. Last but not least a powerhouse when worked with Gatsby.
 
 ##### Resources
@@ -136,10 +136,10 @@ Build a simple polling progressive web application with some great modern tech.
 
 A Hugo boilerplate for creating truly epic websites. This is a boilerplate for using Hugo as a static site generator and Webpack as your asset pipeline.
 
-*   [Hugo](https://gohugo.io/) - [🛠](https://stackshare.io/hugo_2)- [🐙 (⭐65k)](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-*   [Webpack](https://webpack.js.org/) - [🛠️](https://stackshare.io/webpack) - [🐙 (⭐62k)](https://github.com/webpack/webpack) - A static module bundler for modern JavaScript applications.
-*   [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙 (⭐42k)](https://github.com/babel/babel) - A JavaScript compiler; use next generation JavaScript, today.
-*   [PostCSS](https://postcss.org/) - [🛠](https://stackshare.io/postcss) - [🐙 (⭐27k)](https://github.com/postcss/postcss) - A tool for transforming CSS with JavaScript.
+*   [Hugo](https://gohugo.io/) - [🛠](https://stackshare.io/hugo_2)- [🐙 (⭐71k)](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+*   [Webpack](https://webpack.js.org/) - [🛠️](https://stackshare.io/webpack) - [🐙 (⭐64k)](https://github.com/webpack/webpack) - A static module bundler for modern JavaScript applications.
+*   [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙 (⭐43k)](https://github.com/babel/babel) - A JavaScript compiler; use next generation JavaScript, today.
+*   [PostCSS](https://postcss.org/) - [🛠](https://stackshare.io/postcss) - [🐙 (⭐28k)](https://github.com/postcss/postcss) - A tool for transforming CSS with JavaScript.
 
 ##### Resources
 
@@ -151,33 +151,33 @@ Bleeding edge vue template focused on code quality and developer happiness.
 
 Offers a complete setup for both small and enterprise-scale apps.
 
-*   [Nuxt](https://nuxtjs.org/) - [🛠](https://stackshare.io/nuxt) - [🐙 (⭐43k)](https://github.com/nuxt/nuxt.js) - Vue.js Meta Framework to create complex, fast & universal web applications quickly.
-*   [TypeScript](https://www.typescriptlang.org/) - [🛠️](https://stackshare.io/typescript) - [🐙 (⭐88k)](https://github.com/Microsoft/TypeScript) - A typed superset of JavaScript that compiles to plain JavaScript.
-*   [Sass](https://sass-lang.com) - [🛠️](https://stackshare.io/sass) - [🐙 (⭐14k)](https://github.com/sass/sass) - Sass is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
-*   [Jest](https://jestjs.io/) - [🛠️](https://stackshare.io/jest) - [🐙 (⭐41k)](https://github.com/facebook/jest) - A comprehensive, delightful JavaScript testing solution.
-*   [eslint](https://eslint.org/) - [🛠️](https://stackshare.io/eslint) - [🐙 (⭐22k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript and JSX.
-*   [stylelint](https://stylelint.io/) - [🛠️](https://stackshare.io/stylelint) - [🐙 (⭐10k)](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
-*   [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙 (⭐65k)](https://github.com/docker/docker) A tool to create, deploy and run applications inside containers.
+*   [Nuxt](https://nuxtjs.org/) - [🛠](https://stackshare.io/nuxt) - [🐙 (⭐49k)](https://github.com/nuxt/nuxt.js) - Vue.js Meta Framework to create complex, fast & universal web applications quickly.
+*   [TypeScript](https://www.typescriptlang.org/) - [🛠️](https://stackshare.io/typescript) - [🐙 (⭐96k)](https://github.com/Microsoft/TypeScript) - A typed superset of JavaScript that compiles to plain JavaScript.
+*   [Sass](https://sass-lang.com) - [🛠️](https://stackshare.io/sass) - [🐙 (⭐15k)](https://github.com/sass/sass) - Sass is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
+*   [Jest](https://jestjs.io/) - [🛠️](https://stackshare.io/jest) - [🐙 (⭐43k)](https://github.com/facebook/jest) - A comprehensive, delightful JavaScript testing solution.
+*   [eslint](https://eslint.org/) - [🛠️](https://stackshare.io/eslint) - [🐙 (⭐24k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript and JSX.
+*   [stylelint](https://stylelint.io/) - [🛠️](https://stackshare.io/stylelint) - [🐙 (⭐11k)](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
+*   [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙 (⭐67k)](https://github.com/docker/docker) A tool to create, deploy and run applications inside containers.
 
 ##### Resources
 
-*   [wemake-vue-template (⭐724)](https://github.com/wemake-services/wemake-vue-template)
+*   [wemake-vue-template (⭐731)](https://github.com/wemake-services/wemake-vue-template)
 
 ### Nextjs Blog Starter [↗](https://awesomestacks.dev/nextjs-blog-starter)
 
 A Nextjs Boilerplate code for creating a blog. The perfect solution to start a blog in React and use Tailwind CSS for styling.
 
-*   [Next.js](https://nextjs.org/) - [🛠](https://stackshare.io/next-js) - [🐙 (⭐100k)](https://github.com/zeit/next.js) - The React Framework for server rendering, static websites, PWAs.
-*   [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 (⭐201k)](https://github.com/facebook/react) - React components can be used on the client and server side.
-*   [TypeScript](https://www.typescriptlang.org/) - [🛠️](https://stackshare.io/typescript) - [🐙 (⭐88k)](https://github.com/Microsoft/TypeScript) - A typed superset of JavaScript that compiles to plain JavaScript.
-*   [eslint](https://eslint.org/) - [🛠️](https://stackshare.io/eslint) - [🐙 (⭐22k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript and JSX.
-*   [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙 (⭐42k)](https://github.com/babel/babel) - A JavaScript compiler; use next generation JavaScript, today.
-*   [PostCSS](https://postcss.org/) - [🛠](https://stackshare.io/postcss) - [🐙 (⭐27k)](https://github.com/postcss/postcss) - A tool for transforming CSS with JavaScript.
+*   [Next.js](https://nextjs.org/) - [🛠](https://stackshare.io/next-js) - [🐙 (⭐116k)](https://github.com/zeit/next.js) - The React Framework for server rendering, static websites, PWAs.
+*   [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 (⭐217k)](https://github.com/facebook/react) - React components can be used on the client and server side.
+*   [TypeScript](https://www.typescriptlang.org/) - [🛠️](https://stackshare.io/typescript) - [🐙 (⭐96k)](https://github.com/Microsoft/TypeScript) - A typed superset of JavaScript that compiles to plain JavaScript.
+*   [eslint](https://eslint.org/) - [🛠️](https://stackshare.io/eslint) - [🐙 (⭐24k)](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript and JSX.
+*   [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙 (⭐43k)](https://github.com/babel/babel) - A JavaScript compiler; use next generation JavaScript, today.
+*   [PostCSS](https://postcss.org/) - [🛠](https://stackshare.io/postcss) - [🐙 (⭐28k)](https://github.com/postcss/postcss) - A tool for transforming CSS with JavaScript.
 *   [Netlify](https://netlify.com/) - [🛠️](https://stackshare.io/netlify) - Netlify is a global CDN that makes continuous deployments as simple as a few clicks.
 
 ##### Resources
 
-*   [Nextjs Blog Starter (⭐511)](https://github.com/ixartz/Next-js-Blog-Boilerplate)
+*   [Nextjs Blog Starter (⭐590)](https://github.com/ixartz/Next-js-Blog-Boilerplate)
 *   [Nextjs Blog Starter Demo](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/)
 
 ## Full stack
@@ -186,10 +186,10 @@ A Nextjs Boilerplate code for creating a blog. The perfect solution to start a b
 
 MERN stands for MongoDB, Express, React, Node. The four key technologies that make up the stack.
 
-*   [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 (⭐201k)](https://github.com/facebook/react) - React components can be used on the client and server side.
-*   [MongoDB](https://www.mongodb.com/) - [🛠️](https://stackshare.io/mongodb) - [🐙 (⭐23k)](https://github.com/mongodb/mongo) - A document and JSON-oriented database.
-*   [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙 (⭐60k)](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for Node.js.
-*   [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐93k)](https://github.com/nodejs/node) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 (⭐217k)](https://github.com/facebook/react) - React components can be used on the client and server side.
+*   [MongoDB](https://www.mongodb.com/) - [🛠️](https://stackshare.io/mongodb) - [🐙 (⭐25k)](https://github.com/mongodb/mongo) - A document and JSON-oriented database.
+*   [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙 (⭐63k)](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for Node.js.
+*   [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐101k)](https://github.com/nodejs/node) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ##### Resources
 
@@ -200,19 +200,19 @@ MERN stands for MongoDB, Express, React, Node. The four key technologies that ma
 Lightning fast starter for bloggers, content creators, and really anyone who wants to break free from WordPress.
 
 *   [GraphCMS](https://graphcms.com/) - [🛠️](https://stackshare.io/graphcms) - GraphCMS providing a backend to your app, giving you the tools to manage content.
-*   [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 (⭐99k)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
-*   [Apollo](https://www.apollographql.com/) - [🛠️](https://stackshare.io/apollo) - [🐙 (⭐18k)](https://github.com/apollographql/apollo-client) - Apollo Client is the best way to use GraphQL to build client applications.
+*   [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 (⭐101k)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+*   [Apollo](https://www.apollographql.com/) - [🛠️](https://stackshare.io/apollo) - [🐙 (⭐19k)](https://github.com/apollographql/apollo-client) - Apollo Client is the best way to use GraphQL to build client applications.
 
 ##### Resources
 
-*   [GraphCMS starter blog with React & Apollo Client (⭐524)](https://github.com/GraphCMS/graphcms-examples/tree/master/with-reactjs)
+*   [GraphCMS starter blog with React & Apollo Client (⭐584)](https://github.com/GraphCMS/graphcms-examples/tree/master/with-reactjs)
 
 ### Strapi CMS with Gatsby [↗](https://awesomestacks.dev/strapi-cms-with-gatsby)
 
 Use Strapi CMS to maintain and manage your Gatsby static site. Deploy to Heroku.
 
-*   [Strapi CMS](https://strapi.io) - [🐙 (⭐51k)](https://github.com/strapi/strapi) - Strapi is the Headless CMS developers love.
-*   [Gatsby](https://gatsbyjs.org/) - [🛠](https://stackshare.io/gatsbyjs) - [🐙 (⭐54k)](https://github.com/gatsbyjs/gatsby) - Gatsby is a blazing fast modern site generator for React.
+*   [Strapi CMS](https://strapi.io) - [🐙 (⭐58k)](https://github.com/strapi/strapi) - Strapi is the Headless CMS developers love.
+*   [Gatsby](https://gatsbyjs.org/) - [🛠](https://stackshare.io/gatsbyjs) - [🐙 (⭐55k)](https://github.com/gatsbyjs/gatsby) - Gatsby is a blazing fast modern site generator for React.
 *   [Heroku](https://www.heroku.com/) - [🛠️](https://stackshare.io/heroku) - Heroku is a powerful platform for deploying your apps.
 
 ##### Resources
@@ -226,10 +226,10 @@ Use Strapi CMS to maintain and manage your Gatsby static site. Deploy to Heroku.
 Add search to your JAMStack website, through a static site integration or by crawling the content.
 
 *   [Algolia](https://algolia.com/) - [🛠](https://stackshare.io/algolia) - Hosted search API, free up to 10,000 records.
-*   [DocSearch](https://community.algolia.com/docsearch) - [🐙 (⭐264)](https://github.com/algolia/docsearch-scraper) - Crawls a website and uploads it to an index.
-*   [gatsby-plugin-algolia](https://www.gatsbyjs.org/packages/gatsby-plugin-algolia/) - [🐙 (⭐176)](https://github.com/algolia/gatsby-plugin-algolia) - Use GraphQL to specify Gatsby object to index with Algolia (beta).
-*   [hugo-algolia (⭐45)](https://github.com/replicatedhq/hugo-algolia) - [🐙 (⭐45)](https://github.com/replicatedhq/hugo-algolia) - Generate and send indices from Hugo static sites for use with Algolia.
-*   [instantsearch.js](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) - [🐙 (⭐3.1k)](https://github.com/algolia/instantsearch.js) - JavaScript library for building performant and instant search experiences.
+*   [DocSearch](https://community.algolia.com/docsearch) - [🐙 (⭐290)](https://github.com/algolia/docsearch-scraper) - Crawls a website and uploads it to an index.
+*   [gatsby-plugin-algolia](https://www.gatsbyjs.org/packages/gatsby-plugin-algolia/) - [🐙 (⭐179)](https://github.com/algolia/gatsby-plugin-algolia) - Use GraphQL to specify Gatsby object to index with Algolia (beta).
+*   [hugo-algolia (⭐46)](https://github.com/replicatedhq/hugo-algolia) - [🐙 (⭐46)](https://github.com/replicatedhq/hugo-algolia) - Generate and send indices from Hugo static sites for use with Algolia.
+*   [instantsearch.js](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) - [🐙 (⭐3.4k)](https://github.com/algolia/instantsearch.js) - JavaScript library for building performant and instant search experiences.
 
 ##### Resources
 
@@ -239,10 +239,10 @@ Add search to your JAMStack website, through a static site integration or by cra
 
 This is a full stack web app boilerplate project with VueJS + ExpressJS + MongoDB.
 
-*   [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙 (⭐202k)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
-*   [MongoDB](https://www.mongodb.com/) - [🛠️](https://stackshare.io/mongodb) - [🐙 (⭐23k)](https://github.com/mongodb/mongo) - A document and JSON-oriented database.
-*   [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙 (⭐60k)](https://github.com/expressjs/express) - A minimal and flexible Node.js web application framework.
-*   [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐93k)](https://github.com/nodejs/node) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙 (⭐206k)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
+*   [MongoDB](https://www.mongodb.com/) - [🛠️](https://stackshare.io/mongodb) - [🐙 (⭐25k)](https://github.com/mongodb/mongo) - A document and JSON-oriented database.
+*   [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙 (⭐63k)](https://github.com/expressjs/express) - A minimal and flexible Node.js web application framework.
+*   [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐101k)](https://github.com/nodejs/node) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ##### Resources
 
@@ -252,11 +252,12 @@ This is a full stack web app boilerplate project with VueJS + ExpressJS + MongoD
 
 A Rails/JavaScript-based stack with modern/developer friendly technologies
 
-*   [Rails](https://rubyonrails.org/) - [🛠](https://stackshare.io/rails) - [🐙 (⭐52k)](https://github.com/rails/rails) - An established web app framework with a focus on simplicity and productivity.
-*   [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 (⭐201k)](https://github.com/facebook/react) - React components can be used on the client and server side.
-*   [GraphQL Ruby](https://graphql-ruby.org/) - [🛠](https://stackshare.io/graphql-ruby) - [🐙 (⭐5.2k)](https://github.com/rmosolgo/graphql-ruby) - Ruby server implementation of the GraphQL specification.
-*   [Apollo Client](https://dev.apollodata.com/) - [🛠](https://stackshare.io/apollo) - [🐙 (⭐18k)](https://github.com/apollographql/apollo-client) - A powerfully extensible GraphQL JavaScript client.
+*   [Rails](https://rubyonrails.org/) - [🛠](https://stackshare.io/rails) - [🐙 (⭐54k)](https://github.com/rails/rails) - An established web app framework with a focus on simplicity and productivity.
+*   [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 (⭐217k)](https://github.com/facebook/react) - React components can be used on the client and server side.
+*   [GraphQL Ruby](https://graphql-ruby.org/) - [🛠](https://stackshare.io/graphql-ruby) - [🐙 (⭐5.3k)](https://github.com/rmosolgo/graphql-ruby) - Ruby server implementation of the GraphQL specification.
+*   [Apollo Client](https://dev.apollodata.com/) - [🛠](https://stackshare.io/apollo) - [🐙 (⭐19k)](https://github.com/apollographql/apollo-client) - A powerfully extensible GraphQL JavaScript client.
 *   [Heroku](https://heroku.com) - [🛠️](https://stackshare.io/heroku) Developer friendly web app infrastructure provider with seamless Ruby/Rails support.
+*   [Cloud 66](https://www.cloud66.com/) - [🛠️](https://stackshare.io/cloud-66) Cloud 66 gives you everything you need to build, deploy, and manage your Rails applications on any cloud without the headache of the “server stuff”.
 
 ##### Resources
 
@@ -266,14 +267,14 @@ A Rails/JavaScript-based stack with modern/developer friendly technologies
 
 Learn how to build a full-stack production ready note taking app using Serverless and React on AWS from serverless-stack.com. Step-by-step open-source tutorials with screenshots and code samples included.
 
-*   [Serverless Framework](https://serverless.com/) - [🛠️](https://stackshare.io/serverless) - [🐙 (⭐44k)](https://github.com/serverless/serverless) - A toolkit for building serverless applications.
+*   [Serverless Framework](https://serverless.com/) - [🛠️](https://stackshare.io/serverless) - [🐙 (⭐46k)](https://github.com/serverless/serverless) - A toolkit for building serverless applications.
 *   [AWS Lambda](https://aws.amazon.com/lambda) - [🛠️](https://stackshare.io/aws-lambda) - A compute service that runs your code in response to events.
 *   [DynamoDB](http://aws.amazon.com/dynamodb/) - [🛠️](https://stackshare.io/amazon-dynamodb) - Fully managed NoSQL database service.
 *   [Amazon Cognito](https://aws.amazon.com/cognito/) - [🛠️](https://stackshare.io/amazon-cognito) - Securely manage and synchronize app data for your users across their mobile devices.
 *   [Amazon S3](https://aws.amazon.com/s3/) - [🛠️](https://stackshare.io/amazon-s3) - Store and retrieve any amount of data, at any time, from anywhere on the web.
 *   [AWS Amplify](https://aws-amplify.github.io/) - [🛠️](https://stackshare.io/aws-amplify) - JavaScript Open Source Library with React, React Native Extensions.
 *   [Amazon CloudFront](https://aws.amazon.com/cloudfront/) - [🛠️](https://stackshare.io/amazon-cloudfront) - Content delivery with low latency and high data transfer speeds.
-*   [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 (⭐99k)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+*   [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 (⭐101k)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 
 ##### Resources
 
@@ -283,9 +284,9 @@ Learn how to build a full-stack production ready note taking app using Serverles
 
 A foundation for scalable cross-platform desktop apps all the way from development to distributing your app.
 
-*   [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙 (⭐106k)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
-*   [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 (⭐201k)](https://github.com/facebook/react) - React components can be used on the client and server side.
-*   [Redux](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 (⭐59k)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
+*   [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙 (⭐110k)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+*   [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 (⭐217k)](https://github.com/facebook/react) - React components can be used on the client and server side.
+*   [Redux](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 (⭐60k)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
 *   [electron-builder](https://www.electron.build) - [🐙 (⭐13k)](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box.
 
 ##### Resources
@@ -296,9 +297,9 @@ A foundation for scalable cross-platform desktop apps all the way from developme
 
 A foundation for scalable cross-platform desktop apps all the way from development to distributing your app using Vue and Electron.
 
-*   [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙 (⭐106k)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
-*   [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙 (⭐202k)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
-*   [Vuex](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 (⭐59k)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
+*   [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙 (⭐110k)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+*   [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙 (⭐206k)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
+*   [Vuex](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 (⭐60k)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
 *   [Vue Router](https://router.vuejs.org/) - [🐙 (⭐19k)](https://github.com/vuejs/vue-router) - Vue Router is the official router for Vue.js.
 *   [Vue CLI](https://cli.vuejs.org/) - [🐙 (⭐30k)](https://github.com/vuejs/vue-cli) - An approachable core library that focuses on the view layer only.
 *   [electron-builder](https://www.electron.build) - [🐙 (⭐13k)](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box.
@@ -327,12 +328,12 @@ Quickest way to get started with CI and Code Coverage.
 
 The best way to create a versatile and scalable PHP Web Application! It sure will make you fall in love with PHP (if not, Laravel). Laravel team has an official collaboration with the Vue, so Vue, Babel and Sass is already integrated before you even started!
 
-*   [PHP 7](https://php.net) - [🛠](https://stackshare.io/php) - [🐙 (⭐35k)](https://github.com/php/php-src) - A popular general-purpose scripting language that is especially suited for web development.
-*   [Laravel](https://laravel.com/) - [🛠](https://stackshare.io/laravel)  - [🐙 (⭐72k)](https://github.com/laravel/laravel) - One of the most popular Object Oriented MVC PHP Framework with elegant syntax and golden standard software patterns.
-*   [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙 (⭐202k)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
+*   [PHP 7](https://php.net) - [🛠](https://stackshare.io/php) - [🐙 (⭐37k)](https://github.com/php/php-src) - A popular general-purpose scripting language that is especially suited for web development.
+*   [Laravel](https://laravel.com/) - [🛠](https://stackshare.io/laravel)  - [🐙 (⭐76k)](https://github.com/laravel/laravel) - One of the most popular Object Oriented MVC PHP Framework with elegant syntax and golden standard software patterns.
+*   [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙 (⭐206k)](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
 *   [Laravel Mix](https://laravel.com/docs/5.8/mix) - [🐙 (⭐5.2k)](https://github.com/JeffreyWay/laravel-mix) - A build tool built on top of webpack, to easily compile any front end assets. (secret: works with or without Laravel)
-*   [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙 (⭐42k)](https://github.com/babel/babel) - compiler for writing next generation JavaScript; Babel will turn your ES6+ code into ES5 friendly code, so you can start using it right now without waiting for browser support.
-*   [Sass](https://sass-lang.com) - [🛠️](https://stackshare.io/sass) - [🐙 (⭐14k)](https://github.com/sass/sass) - Sass is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
+*   [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙 (⭐43k)](https://github.com/babel/babel) - compiler for writing next generation JavaScript; Babel will turn your ES6+ code into ES5 friendly code, so you can start using it right now without waiting for browser support.
+*   [Sass](https://sass-lang.com) - [🛠️](https://stackshare.io/sass) - [🐙 (⭐15k)](https://github.com/sass/sass) - Sass is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
 
 ##### Resources
 
@@ -343,10 +344,10 @@ The best way to create a versatile and scalable PHP Web Application! It sure wil
 
 FReMP stack is a highly scalable full stack framework, which can be used to build robust and modern web apps using Flask, ReactJS, MongoDB and Python.
 
-*   [Flask](https://flask.palletsprojects.com/) - [🛠️](https://stackshare.io/flask) - [🐙 (⭐62k)](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-*   [ReactJS](https://reactjs.org/) - [🛠️](https://stackshare.io/react) - [🐙 (⭐201k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-*   [MongoDB](https://www.mongodb.com/) - [🛠️](https://stackshare.io/mongodb) - [🐙 (⭐23k)](https://github.com/mongodb/mongo) - A document and JSON-oriented database.
-*   [Python](https://www.python.org/) - [🛠️](https://stackshare.io/python) - [🐙 (⭐50k)](https://github.com/python/cpython) - A programming language that lets you work quickly.
+*   [Flask](https://flask.palletsprojects.com/) - [🛠️](https://stackshare.io/flask) - [🐙 (⭐65k)](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+*   [ReactJS](https://reactjs.org/) - [🛠️](https://stackshare.io/react) - [🐙 (⭐217k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+*   [MongoDB](https://www.mongodb.com/) - [🛠️](https://stackshare.io/mongodb) - [🐙 (⭐25k)](https://github.com/mongodb/mongo) - A document and JSON-oriented database.
+*   [Python](https://www.python.org/) - [🛠️](https://stackshare.io/python) - [🐙 (⭐58k)](https://github.com/python/cpython) - A programming language that lets you work quickly.
 
 ##### Resources
 
@@ -355,7 +356,7 @@ FReMP stack is a highly scalable full stack framework, which can be used to buil
 *   [How to deploy the app to Heroku?](https://medium.com/@akhilmaulloo/the-fremp-stack-deploying-to-heroku-163254c3ca4d)
 *   [Official Website](https://fremp.github.io)
 *   [Github](https://github.com/FReMP)
-*   [Boilerplate (⭐13)](https://github.com/FReMP/fremp)
+*   [Boilerplate (⭐12)](https://github.com/FReMP/fremp)
 
 ## Back-end
 
@@ -364,20 +365,20 @@ FReMP stack is a highly scalable full stack framework, which can be used to buil
 Stack used to deploy and manage a cluster of Docker containerized applications using Google Cloud services.
 
 *   [GKE](https://cloud.google.com/kubernetes-engine/) - [🛠](https://stackshare.io/google-kubernetes-engine) - Kubernetes cluster managed by Google.
-*   [Kubernetes](https://kubernetes.io/) - [🐙 (⭐95k)](https://github.com/kubernetes/kubernetes) - [🛠](https://stackshare.io/kubernetes) - Production-Grade Container Scheduling and Management.
-*   [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙 (⭐65k)](https://github.com/docker/docker) - A tool to create, deploy and run applications inside containers.
+*   [Kubernetes](https://kubernetes.io/) - [🐙 (⭐104k)](https://github.com/kubernetes/kubernetes) - [🛠](https://stackshare.io/kubernetes) - Production-Grade Container Scheduling and Management.
+*   [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙 (⭐67k)](https://github.com/docker/docker) - A tool to create, deploy and run applications inside containers.
 *   [Stackdriver](https://cloud.google.com/stackdriver/) - [🛠️](https://stackshare.io/stackdriver) - Stackdriver Logging allows you to store, search, analyze, monitor, and alert on log data and events.
 
 ### Ethereum DApp [↗](https://awesomestacks.dev/ethereum-d-app)
 
 A collection of tools for building decentralized applications on the Ethereum blockchain.
 
-*   [Solidity](https://solidity.readthedocs.io) - [🐙 (⭐19k)](https://github.com/ethereum/solidity) - Solidity is an object-oriented, high-level language for implementing smart contracts.
-*   [web3.js](https://web3js.readthedocs.io) - [🐙 (⭐17k)](https://github.com/ethereum/web3.js) - Ethereum JavaScript API.
-*   [db3.js](https://docs.db3.network/) - [🐙 (⭐6)](https://github.com/dbpunk-labs/db3.js) - db3.js is the db3 network(Ethereum layer2) javascript API to write and query JSON documents
+*   [Solidity](https://solidity.readthedocs.io) - [🐙 (⭐21k)](https://github.com/ethereum/solidity) - Solidity is an object-oriented, high-level language for implementing smart contracts.
+*   [web3.js](https://web3js.readthedocs.io) - [🐙 (⭐18k)](https://github.com/ethereum/web3.js) - Ethereum JavaScript API.
+*   [db3.js](https://docs.db3.network/) - [🐙 (⭐13)](https://github.com/dbpunk-labs/db3.js) - db3.js is the db3 network(Ethereum layer2) javascript API to write and query JSON documents
 *   [Truffle](https://truffleframework.com/truffle) - [🐙 (⭐14k)](https://github.com/trufflesuite/truffle) - A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM).
-*   [Ganache](https://truffleframework.com/ganache) - [🐙 (⭐2.2k)](https://github.com/trufflesuite/ganache) - Personal blockchain for Ethereum development.
-*   [drizzle](https://truffleframework.com/drizzle) - [🐙 (⭐892)](https://github.com/trufflesuite/drizzle) - A collection of front-end libraries that make writing dapp user interfaces easier and more predictable.
+*   [Ganache](https://truffleframework.com/ganache) - [🐙 (⭐2.6k)](https://github.com/trufflesuite/ganache) - Personal blockchain for Ethereum development.
+*   [drizzle](https://truffleframework.com/drizzle) - [🐙 (⭐911)](https://github.com/trufflesuite/drizzle) - A collection of front-end libraries that make writing dapp user interfaces easier and more predictable.
 
 ### Rails Monitoring Stack [↗](https://awesomestacks.dev/rails-monitoring-stack)
 
@@ -385,7 +386,7 @@ Tools to use to monitor your Rails app in production.
 
 *   [Skylight](https://www.skylight.io) - [🛠](https://stackshare.io/skylight) - The smart profiler for your Rails apps.
 *   [New Relic](https://newrelic.com) - [🛠](https://stackshare.io/new-relic) - SaaS Application Performance Management for Ruby, PHP, .Net, Java, Python, and Node.js Apps.
-*   [rack-mini-profiler (⭐3.5k)](https://github.com/MiniProfiler/rack-mini-profiler) - [🐙 (⭐3.5k)](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps.
+*   [rack-mini-profiler (⭐3.6k)](https://github.com/MiniProfiler/rack-mini-profiler) - [🐙 (⭐3.6k)](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps.
 *   [Sqreen](https://www.sqreen.com/) - [🛠](https://stackshare.io/sqreen) - Security monitoring and protection for Ruby, PHP, Java, Go, Python, and Node.js Apps.
 
 ### User Behavior Analytics via Segment [↗](https://awesomestacks.dev/user-behavior-analytics-via-segment)
@@ -401,13 +402,13 @@ Hosted tools to use to analyze user behavior for a web app.
 
 The Kafka-Spark-Cassandra pipeline for processing a firehose of incoming events.
 
-*   [Kafka](http://kafka.apache.org/) - [🛠](https://stackshare.io/kafka) - [🐙 (⭐24k)](https://github.com/apache/kafka) - Distributed, fault tolerant, high throughput pub-sub messaging system.
-*   [Apache Spark](https://spark.apache.org) - [🛠](https://stackshare.io/spark) - [🐙 (⭐35k)](https://github.com/apache/spark) - Fast and general engine for large-scale data processing.
-*   [Cassandra](http://cassandra.apache.org) - [🛠](https://stackshare.io/cassandra) - [🐙 (⭐7.8k)](https://github.com/apache/cassandra) - Highly-scalable partitioned row store.
+*   [Kafka](http://kafka.apache.org/) - [🛠](https://stackshare.io/kafka) - [🐙 (⭐26k)](https://github.com/apache/kafka) - Distributed, fault tolerant, high throughput pub-sub messaging system.
+*   [Apache Spark](https://spark.apache.org) - [🛠](https://stackshare.io/spark) - [🐙 (⭐37k)](https://github.com/apache/spark) - Fast and general engine for large-scale data processing.
+*   [Cassandra](http://cassandra.apache.org) - [🛠](https://stackshare.io/cassandra) - [🐙 (⭐8.3k)](https://github.com/apache/cassandra) - Highly-scalable partitioned row store.
 
 ##### Resources
 
-*   [kafka-sparkstreaming-cassandra (⭐94)](https://github.com/Yannael/kafka-sparkstreaming-cassandra)
+*   [kafka-sparkstreaming-cassandra (⭐96)](https://github.com/Yannael/kafka-sparkstreaming-cassandra)
 *   [Applying the Lambda Architecture with Spark, Kafka, and Cassandra](https://www.pluralsight.com/courses/spark-kafka-cassandra-applying-lambda-architecture)
 *   [Streaming Analytics with Spark, Kafka, Cassandra, and Akka](https://databricks.com/session/streaming-analytics-with-spark-kafka-cassandra-and-akka)
 
@@ -416,11 +417,11 @@ The Kafka-Spark-Cassandra pipeline for processing a firehose of incoming events.
 Self-hosted open source devops and collaboration tools, suitable for enterprise.
 
 *   [GitLab](https://about.gitlab.com/) - [🛠](https://stackshare.io/gitlab) - [🐙 (⭐23k)](https://github.com/gitlabhq/gitlabhq) - Open source self-hosted Git management software.
-*   [Zulip](https://zulipchat.com) - [🛠](https://stackshare.io/zulip) - [🐙 (⭐17k)](https://github.com/zulip/zulip) - Powerful open source team chat.
+*   [Zulip](https://zulipchat.com) - [🛠](https://stackshare.io/zulip) - [🐙 (⭐19k)](https://github.com/zulip/zulip) - Powerful open source team chat.
 *   [Hubot](https://hubot.github.com) - [🛠](https://stackshare.io/hubot) - [🐙 (⭐16k)](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
-*   [Sentry](https://sentry.io) - [🛠](https://stackshare.io/sentry) - [🐙 (⭐33k)](https://github.com/getsentry/sentry) - Cross-platform application monitoring, with a focus on error reporting.
+*   [Sentry](https://sentry.io) - [🛠](https://stackshare.io/sentry) - [🐙 (⭐36k)](https://github.com/getsentry/sentry) - Cross-platform application monitoring, with a focus on error reporting.
 *   [Taiga.io](https://taiga.io) - [🛠](https://stackshare.io/taiga) - [🐙](https://github.com/taigaio) - Project management web application with scrum in mind.
-*   [Metabase](https://www.metabase.com/) - [🛠](https://stackshare.io/metabase) - [🐙 (⭐31k)](https://github.com/metabase/metabase) - An open-source business intelligence tool.
+*   [Metabase](https://www.metabase.com/) - [🛠](https://stackshare.io/metabase) - [🐙 (⭐35k)](https://github.com/metabase/metabase) - An open-source business intelligence tool.
 
 ### Production Ready Django + Docker [↗](https://awesomestacks.dev/production-ready-django-docker)
 
@@ -428,22 +429,22 @@ Bleeding edge Django template focused on code quality and security.
 
 Build, test, and deploy pipelines are configured by default.
 
-*   [Python 3](https://www.python.org/) - [🛠](https://stackshare.io/python) - [🐙 (⭐50k)](https://github.com/python/cpython) - A programming language that lets you work quickly.
-*   [Django](https://www.djangoproject.com/) - [🛠](https://stackshare.io/django) - [🐙 (⭐68k)](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-*   [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙 (⭐65k)](https://github.com/docker/docker) - A tool to create, deploy and run applications inside containers.
+*   [Python 3](https://www.python.org/) - [🛠](https://stackshare.io/python) - [🐙 (⭐58k)](https://github.com/python/cpython) - A programming language that lets you work quickly.
+*   [Django](https://www.djangoproject.com/) - [🛠](https://stackshare.io/django) - [🐙 (⭐75k)](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+*   [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙 (⭐67k)](https://github.com/docker/docker) - A tool to create, deploy and run applications inside containers.
 *   [GitLab](https://about.gitlab.com/) - [🛠](https://stackshare.io/gitlab) - [🐙 (⭐23k)](https://github.com/gitlabhq/gitlabhq) - Open source self-hosted Git management software.
-*   [Caddy](https://caddyserver.com/) - [🛠](https://stackshare.io/caddy) - [🐙 (⭐45k)](https://github.com/mholt/caddy) - The HTTP/2 Web Server with Automatic HTTPS.
+*   [Caddy](https://caddyserver.com/) - [🛠](https://stackshare.io/caddy) - [🐙 (⭐51k)](https://github.com/mholt/caddy) - The HTTP/2 Web Server with Automatic HTTPS.
 
 ##### Resources
 
-*   [wemake-django-template (⭐1.7k)](https://github.com/wemake-services/wemake-django-template)
+*   [wemake-django-template (⭐1.9k)](https://github.com/wemake-services/wemake-django-template)
 
 ### RESTful API with Java and Spring Boot [↗](https://awesomestacks.dev/res-tful-api-with-java-and-spring-boot)
 
 Build a simple and robust RESTful API.
 
-*   [Spring Boot](https://spring.io/projects/spring-boot) - [🛠](https://stackshare.io/spring-boot) - [🐙 (⭐65k)](https://github.com/spring-projects/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
-*   [Gradle](https://gradle.org/) - [🛠️](https://stackshare.io/gradle) - [🐙 (⭐14k)](https://github.com/gradle/gradle)- A build tool with a focus on build automation and support for multi-language development.
+*   [Spring Boot](https://spring.io/projects/spring-boot) - [🛠](https://stackshare.io/spring-boot) - [🐙 (⭐71k)](https://github.com/spring-projects/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
+*   [Gradle](https://gradle.org/) - [🛠️](https://stackshare.io/gradle) - [🐙 (⭐16k)](https://github.com/gradle/gradle)- A build tool with a focus on build automation and support for multi-language development.
 *   [Java](https://docs.oracle.com/javase/specs/index.html) - [🛠️](https://stackshare.io/java) - Java is an Object-Oriented and one of the most used programming languages in the world.
 
 #### Resources
@@ -456,9 +457,9 @@ Build a simple and robust RESTful API.
 
 Hasura is an open source GraphQL engine that deploys instant, real-time GraphQL APIs on any Postgres database. This React Native stack uses Hasura droplets hosted on Digital Ocean.
 
-*   [Hasura](https://hasura.io/) - [🛠️](https://stackshare.io/hasura) - [🐙 (⭐29k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant real-time GraphQL APIs on Postgres with fine grained access control.
-*   [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙 (⭐107k)](https://github.com/facebook/react-native) - Build native mobile apps using JavaScript and React.
-*   [Expo](https://expo.io/) - [🛠️](https://stackshare.io/expo) - [🐙 (⭐19k)](https://github.com/expo/expo) - Build, deploy, and quickly iterate on native iOS and Android apps from the same JavaScript codebase.
+*   [Hasura](https://hasura.io/) - [🛠️](https://stackshare.io/hasura) - [🐙 (⭐31k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant real-time GraphQL APIs on Postgres with fine grained access control.
+*   [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙 (⭐113k)](https://github.com/facebook/react-native) - Build native mobile apps using JavaScript and React.
+*   [Expo](https://expo.io/) - [🛠️](https://stackshare.io/expo) - [🐙 (⭐25k)](https://github.com/expo/expo) - Build, deploy, and quickly iterate on native iOS and Android apps from the same JavaScript codebase.
 *   [Digital Ocean](https://www.digitalocean.com/) - [🛠️](https://stackshare.io/digitalocean) - [🐙](https://github.com/digitalocean/) - Deploy an SSD cloud server in less than 55 seconds with a dedicated IP and root access.
 *   [Auth0](https://auth0.com/) - [🛠️](https://stackshare.io/auth0) - A universal authentication & authorization platform for web, mobile and legacy applications.
 
@@ -472,7 +473,7 @@ Hasura is an open source GraphQL engine that deploys instant, real-time GraphQL 
 
 Unity is a game engine that connects to Plastic SCM to keep version control and large asset and huge repo management clean and frictionless.
 
-*   [Unity](https://unity.com/) - [🛠](https://stackshare.io/unity-3d) - [🐙 (⭐10k)](https://github.com/Unity-Technologies/UnityCsReference) - The C# part of the Unity engine and editor source code. May be used for reference purposes only.
+*   [Unity](https://unity.com/) - [🛠](https://stackshare.io/unity-3d) - [🐙 (⭐11k)](https://github.com/Unity-Technologies/UnityCsReference) - The C# part of the Unity engine and editor source code. May be used for reference purposes only.
 *   [Plastic SCM](https://www.plasticscm.com/) - [🛠️](https://stackshare.io/plastic-scm) - [🐙 (⭐5)](https://github.com/PlasticSCM/plastic-docker) - PlasticSCM Docker image.
 *   [TeamCity](https://www.jetbrains.com/teamcity/) - [🛠](https://stackshare.io/teamcity) - A Java-based build management and continuous integration server from JetBrains.
 
@@ -485,7 +486,7 @@ Unity is a game engine that connects to Plastic SCM to keep version control and 
 
 Boost your Productivity with GitHub, Jira and Jenkins.
 
-*   [Jenkins](https://jenkins.io/) - [🛠️](https://stackshare.io/jenkins) - [🐙 (⭐20k)](https://github.com/jenkinsci/jenkins) - Open source automation server for CI/CD.
+*   [Jenkins](https://jenkins.io/) - [🛠️](https://stackshare.io/jenkins) - [🐙 (⭐22k)](https://github.com/jenkinsci/jenkins) - Open source automation server for CI/CD.
 *   [GitHub](https://github.com/) - [🛠](https://stackshare.io/github) - The site to keep your code and open it to world.
 *   [Jira](https://es.atlassian.com/software/jira) - [🛠️](https://stackshare.io/jira) - Agile software development.
 *   [Slack](https://slack.com) - [🛠️](https://stackshare.io/slack) - Where work flows.

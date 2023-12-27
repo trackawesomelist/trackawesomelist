@@ -2,9 +2,15 @@
 
 :neckbeard: Awesome list GitHub Wikis
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 131 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 144 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/MyHoneyBadger/awesome-github-wiki/week/README.md) / [Overview](/content/MyHoneyBadger/awesome-github-wiki/readme/README.md) ]
+
+## [Dec 27, 2023](/content/2023/12/27/README.md)
+
+### Useful links with tips & tricks
+
+*   [GitHub Wiki Action. Keep your dev docs in sync with your code](https://github.com/marketplace/actions/github-wiki-action)
 
 ## [Oct 21, 2023](/content/2023/10/21/README.md)
 
@@ -16,7 +22,7 @@
 
 ### Examples
 
-*   [internetarchive/openlibrary (⭐4.5k)](https://github.com/internetarchive/openlibrary/wiki)
+*   [internetarchive/openlibrary (⭐4.6k)](https://github.com/internetarchive/openlibrary/wiki)
 
 ## [Oct 01, 2023](/content/2023/10/01/README.md)
 
@@ -28,13 +34,13 @@
 
 ### Examples
 
-*   [hyperledger/cacti (⭐286)](https://github.com/hyperledger/cacti/wiki)
+*   [hyperledger/cacti (⭐294)](https://github.com/hyperledger/cacti/wiki)
 
 ## [Jul 05, 2023](/content/2023/07/05/README.md)
 
 ### Useful links with tips & tricks
 
-*   [Search wiki of the repository on GitHub (⭐190)](https://github.com/linyows/github-wiki-search)
+*   [Search wiki of the repository on GitHub (⭐189)](https://github.com/linyows/github-wiki-search)
 
 ## [Jun 10, 2023](/content/2023/06/10/README.md)
 
@@ -52,7 +58,7 @@
 
 ### Examples
 
-*   [golang/go (⭐115k)](https://github.com/golang/go/wiki)
+*   [golang/go (⭐117k)](https://github.com/golang/go/wiki)
 
 ## [Mar 13, 2023](/content/2023/03/13/README.md)
 
@@ -124,7 +130,7 @@
 
 ### Examples
 
-*   [aws/aws-parallelcluster (⭐785)](https://github.com/aws/aws-parallelcluster/wiki)
+*   [aws/aws-parallelcluster (⭐799)](https://github.com/aws/aws-parallelcluster/wiki)
 
 ## [Oct 22, 2022](/content/2022/10/22/README.md)
 
@@ -136,7 +142,7 @@
 
 ### Examples
 
-*   [uber/NullAway (⭐3.4k)](https://github.com/uber/NullAway/wiki)
+*   [uber/NullAway (⭐3.5k)](https://github.com/uber/NullAway/wiki)
 
 ## [Oct 08, 2022](/content/2022/10/08/README.md)
 
@@ -153,7 +159,7 @@
 
 ### Examples
 
-*   [FortAwesome/Font-Awesome (⭐72k)](https://github.com/FortAwesome/Font-Awesome/wiki)
+*   [FortAwesome/Font-Awesome (⭐73k)](https://github.com/FortAwesome/Font-Awesome/wiki)
 
 ### Useful links with tips & tricks
 
@@ -163,7 +169,7 @@
 
 ### Examples
 
-*   [facebook/react-native (⭐112k)](https://github.com/facebook/react-native/wiki)
+*   [facebook/react-native (⭐113k)](https://github.com/facebook/react-native/wiki)
 
 ## [Sep 24, 2022](/content/2022/09/24/README.md)
 

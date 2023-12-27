@@ -2,7 +2,7 @@
 
 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/moimikey/awesome-devtools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) · ⭐ 350 · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/moimikey/awesome-devtools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) · ⭐ 366 · 🏷️ Development Environment
 
 [ [Daily](/content/moimikey/awesome-devtools/README.md) / [Weekly](/content/moimikey/awesome-devtools/week/README.md) / Overview ]
 
@@ -12,12 +12,12 @@
 
 > A curated list of in-browser [bookmarklets](#bookmarklets), [tools](#tools), and [resources](#resources) for modern full-stack software engineers.
 
-Inspired by the [awesome (⭐272k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐283k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Bookmarklets
 
 *   [artoo.js](https://medialab.github.io/artoo/) - Client-side scraping utility for the currently loaded uri.
-*   [CSS Stress Test (⭐870)](https://github.com/andyedinborough/stress-css) - JavaScript to test each CSS class on a page and report which are hindering performance.
+*   [CSS Stress Test (⭐872)](https://github.com/andyedinborough/stress-css) - JavaScript to test each CSS class on a page and report which are hindering performance.
 *   [deCSS3 (⭐312)](https://github.com/davatron5000/deCSS3/) - A lil' bookmarklet that will strip out your CSS3 rules and show you how gracefully you're degrading.
 *   [DOM Monster](http://mir.aculo.us/dom-monster/) - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on.
 *   [Make Bookmarklets](https://make-bookmarklets.com) - Online tool to turn JavaScript into a bookmarklet.
@@ -115,6 +115,7 @@ Inspired by the [awesome (⭐272k)](https://github.com/sindresorhus/awesome) lis
 *   [RegExplained](http://leaverou.github.io/regexplained/) - JavaScript regex matching.
 *   [Regexr](http://www.regexr.com/) - JavaScript regex matching.
 *   [Regulex](https://jex.im/regulex) - JavaScript Regular Expression Visualizer.
+*   [Softwium](https://softwium.com/regex-explainer/) - Regular Expression Visualizer.
 
 ### Scripting & Copy/Paste
 

@@ -8,9 +8,13 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 ## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
 
+### Books
+
+*   [Building Reactive Microservices in Java](https://www.oreilly.com/library/view/building-reactive-microservices/9781491986295/) by Clément Escoffier
+
 ### Microservices
 
-*   [SmallRye Fault Tolerance](https://smallrye.io/docs/smallrye-fault-tolerance/6.2.6), [GitHub (⭐74)](https://github.com/smallrye/smallrye-fault-tolerance) - SmallRye Fault Tolerance is an implementation of Eclipse MicroProfile Fault Tolerance with additional features not defined by the specification. Native support of [Vert.x](https://smallrye.io/docs/smallrye-fault-tolerance/6.2.6/integration/event-loop.html) and [Mutiny](https://smallrye.io/docs/smallrye-fault-tolerance/6.2.6/reference/asynchronous.html#async-types)
+*   [SmallRye Fault Tolerance (⭐74)](https://github.com/smallrye/smallrye-fault-tolerance) - SmallRye Fault Tolerance is an implementation of Eclipse MicroProfile Fault Tolerance with additional features not defined by the specification. Native support of [Vert.x](https://smallrye.io/docs/smallrye-fault-tolerance/6.2.6/integration/event-loop.html) and [Mutiny](https://smallrye.io/docs/smallrye-fault-tolerance/6.2.6/reference/asynchronous.html#async-types).
 
 ## [May 15 - May 21, 2023](/content/2023/20/README.md)
 
@@ -107,14 +111,7 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 ### Articles
 
 *   [Going reactive with Eclipse Vert.x and RX Java](https://blogs.oracle.com/javamagazine/going-reactive-with-eclipse-vertx-and-rxjava)
-*   [First Steps With Vert.x and Infinispan - Part 2: PUSH API](https://dzone.com/articles/first-steps-with-vertx-and-infinispan-push-api-par)
-*   [First Steps With Vert.x and Infinispan - Part 1: REST API](https://dzone.com/articles/first-steps-with-vertx-and-infinispan-rest-api)
-*   [Location Transparency With Vert.x](https://dzone.com/articles/location-transparency-with-vertx)
-*   [Reactive Microservices and Service Discovery with Vert.x](https://dzone.com/articles/reactive-microservices-and-service-discovery-with)
-*   <https://dzone.com/articles/vertx-330-development-automation>
 *   [Vert.x 3.3.0 Features Enhanced Networking Microservices, Testing and More](https://www.infoq.com/news/2016/06/Vert.x-3.3.0-release-features)
-*   [Launching Vert.x Dynamically](https://dzone.com/articles/vertx-launcher)
-*   [Secure Your Vertx 3 App With Pac4j](https://dzone.com/articles/secure-your-vertx)
 *   [Interview with Tim Fox About Vert.x 3, the Original Reactive, Microservice Toolkit for the JVM](http://www.infoq.com/articles/vertx-3-tim-fox)
 
 ### Tutorials
@@ -343,10 +340,6 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 
 *   [Elixir (⭐14)](https://github.com/PharosProduction/ExVertx) - Event bus support for Elixir apps using TCP socket.
 
-### Template Engines
-
-*   [KorTE Template Engine](https://github.com/korlibs/korte) - Kotlin Template Engine similar to Twig/Django/Liquid supporting calling Kotlin suspend methods.
-
 ## [Mar 04 - Mar 10, 2019](/content/2019/9/README.md)
 
 ### Cluster Managers
@@ -518,12 +511,6 @@ A curated list of awesome Vert.x resources, libraries, and other nice things.
 ### Examples
 
 *   [Crabzilla (⭐68)](https://github.com/crabzilla/crabzilla) - Yet another Event Sourcing experiment. A project exploring Vert.x to develop Event Sourcing / CQRS applications.
-
-## [Jun 26 - Jul 02, 2017](/content/2017/26/README.md)
-
-### Books
-
-*   [Building Reactive Microservices in Java](https://developers.redhat.com/promotions/building-reactive-microservices-in-java/) by Clément Escoffier
 
 ## [Jun 12 - Jun 18, 2017](/content/2017/24/README.md)
 

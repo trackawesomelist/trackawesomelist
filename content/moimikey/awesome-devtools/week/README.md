@@ -2,9 +2,15 @@
 
 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/moimikey/awesome-devtools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) · ⭐ 350 · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/moimikey/awesome-devtools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) · ⭐ 366 · 🏷️ Development Environment
 
 [ [Daily](/content/moimikey/awesome-devtools/README.md) / Weekly / [Overview](/content/moimikey/awesome-devtools/readme/README.md) ]
+
+## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
+
+### Tools / Regex
+
+*   [Softwium](https://softwium.com/regex-explainer/) - Regular Expression Visualizer.
 
 ## [Oct 09 - Oct 15, 2023](/content/2023/41/README.md)
 
@@ -137,7 +143,7 @@
 ### Bookmarklets
 
 *   [artoo.js](https://medialab.github.io/artoo/) - Client-side scraping utility for the currently loaded uri.
-*   [CSS Stress Test (⭐870)](https://github.com/andyedinborough/stress-css) - JavaScript to test each CSS class on a page and report which are hindering performance.
+*   [CSS Stress Test (⭐872)](https://github.com/andyedinborough/stress-css) - JavaScript to test each CSS class on a page and report which are hindering performance.
 *   [deCSS3 (⭐312)](https://github.com/davatron5000/deCSS3/) - A lil' bookmarklet that will strip out your CSS3 rules and show you how gracefully you're degrading.
 *   [DOM Monster](http://mir.aculo.us/dom-monster/) - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on.
 *   [Ramda (⭐23k)](https://github.com/ramda/ramda/blob/master/BOOKMARKLET.md) - Add Ramda to any page!

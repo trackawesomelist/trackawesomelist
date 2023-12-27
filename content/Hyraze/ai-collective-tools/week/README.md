@@ -2,9 +2,86 @@
 
 Explore a curated selection of AI tools and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 53 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 63 · 🏷️ Computer Science
 
 [ [Daily](/content/Hyraze/ai-collective-tools/README.md) / Weekly / [Overview](/content/Hyraze/ai-collective-tools/readme/README.md) ]
+
+## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
+
+### Agriculture
+
+*   [Cybertiks](https://cybertiks.com/) - Revolutionizing Agriculture and Environmental Monitoring with AI `#paid`
+*   [GreenThumb](https://www.messengerx.io/) - Unlock the World of Gardening with Your AI Companion `#free`
+*   [Vinetribe](https://vinetribe.co/concierge) - Fosters an inclusive wine community through guided at-home tastings `#free`
+
+### Audio Editing
+
+*   [AI Sound Copilot](https://www.waanda.org/) - Effortless Sound Effects Creation for Videos and Games `#free`
+
+### Chatbots
+
+*   [Phind](https://www.phind.com/) - An AI-powered coding and technical assistant, making complex tasks simpler. `#freemium`
+
+### Design Generator
+
+*   [Stream Slides](https://streamslide.io/) - YouTube Video to Slides Converter. `#free`
+
+### E-Commerce
+
+*   [Hulk](https://hulkhelper-ai.webflow.io/) - Personalized Shopping Experience `#free`
+
+### Education
+
+*   [PagePundit](https://pagepundit.com/) - Discover Tailored Book Suggestions Effortlessly `#free`
+
+### Fun Tools
+
+*   [Convenient Hairstyle](https://hairstyle.cvhtechnology.com/) - Transform Your Look with Personalized Hairstyle Exploration `#free`
+
+### HealthCare
+
+*   [MIRI](https://www.miri.health/) - Comprehensive Wellness Platform That Puts Experts in Your Pocket 24/7 `#free`
+
+### Image Generator
+
+*   [ImageCreator](https://imagecreator.alkaidvision.com/) - A Professional PS plug-in powered by AI `#free`
+*   [removebg](https://remove.bg/) - Remove any Image Background `#free`
+*   [Stable Diffusion Online](https://stablediffusionweb.com/#ai-image-generator) - text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds. `#opensource`
+*   [Zoo](https://zoo.replicate.dev/) - Text-to-Image Playground `#free`
+
+### Productivity
+
+*   [Posylanki](https://www.posylanki.live/) - Streamline Web Content Management & Enhance Browsing Experience `#free`
+
+### Search Engine
+
+*   [Andi](https://andisearch.com/) - Andi is a generative AI-powered search engine `#free`
+
+### SEO
+
+*   [AutoBlogging Pro](https://autoblogging.pro/) - AI-Powered Content Automation for WordPress Blogs `#freemium`
+
+### Summarizer
+
+*   [Earkind](https://www.earkind.com/) - AI-Generated Podcasts on AI Topics `#free`
+*   [LeaseLens](https://leaselens.ai/) - Automate the extraction of crucial data points from real estate and commercial lease documents `#free`
+
+### Text to Image
+
+*   [FollowFox](https://followfox.ai/) - Open-source text-to-image generator with impressive features and capabilities. `#free`
+
+### Transcriber
+
+*   [VideoToBlog](https://www.videotoblog.ai/) - Convert YouTube videos to blog content in one click `#free`
+
+### Video Generator
+
+*   [Chromox](https://chromox.alkaidvision.com/) - Transforming Ideas into Visual Stories. `#free`
+*   [D-ID](https://www.d-id.com/) - D-ID is a platform to generate videos. `#freemium`
+
+### Writing Generator
+
+*   [Bidlytics](https://www.bidlytics.co/) - Master the Art of Government Contracting `#freemium`
 
 ## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
 
@@ -112,7 +189,7 @@ Explore a curated selection of AI tools and resources
 *   [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. `#opensource` `#free`
 *   [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. `#opensource` `#free`
 *   [OPT](https://opt.alpa.ai/) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. `#opensource` `#free`
-*   [Qwen (⭐6k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
+*   [Qwen (⭐7.7k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
 
 ### Productivity
 
@@ -265,7 +342,6 @@ Explore a curated selection of AI tools and resources
 ### Finance
 
 *   [BeeBee AI](https://www.beebee.ai/) - Financial reports and earnings calls become easily understandable with key insights for everyday investors. `#free`
-*   [Coachify](https://coachify.ai/) - Your Personalized Fitness Coach Powered by AI `#paid`
 *   [Coinfeeds](https://chat.coinfeeds.io/) - Your Crypto Chatbot Companion, ask it anything! `#free`
 *   [Durable](https://durable.co/) - Build a website in 30 seconds with AI, leveraging AI-powered design and marketing tools to boost traffic and increase revenue. `#freemium`
 *   [EarningsEdge](https://www.earningsedge.ai/) - Gain the Edge in Competitive Investing `#freemium`
@@ -278,6 +354,7 @@ Explore a curated selection of AI tools and resources
 *   [PPLEGPT](https://pplegpt.vercel.app/) - Your next exercise in seconds `#free`
 *   [Sista.AI](https://sista.ai/fitness-coach) - Personalized workout plans, goal setting, nutrition coaching, injury prevention, mind-body connection, and ongoing support to help you achieve your fitness goals. `#paid`
 *   [Zing Coach](https://zing.body.scan.zingproduction.com/) - AI-powered fitness tool, streamlines the process of evaluating fitness levels `#free`
+*   [Coachify](https://coachify.ai/) - Your Personalized Fitness Coach Powered by AI `#paid`
 
 ### Fun Tools
 
@@ -294,8 +371,11 @@ Explore a curated selection of AI tools and resources
 ### General Writing
 
 *   [AIEpics](https://aiepics.com/) - Generates unique and copyright-free poems based on user-entered prompts. #opensource `#free`
-*   [Free Essay Generator](https://academichelp.net/free-essay-generator/) - Assists students and writers in creating high-quality essays effortlessly. `#free`
 *   [Incribo](https://incribo.com/) - Your AI Writing Companion. `#paid`
+
+### Writing Generator
+
+*   [Free Essay Generator](https://academichelp.net/free-essay-generator/) - Assists students and writers in creating high-quality essays effortlessly. `#free`
 
 ### Gift Ideas
 
@@ -350,7 +430,7 @@ Explore a curated selection of AI tools and resources
 
 ### Image Generator
 
-*   [Ideaogram](https://ideogram.ai/t/trending) - This tool helps us to generate text in a image `#free`
+*   [Ideaogram](https://ideogram.ai/t/trending) - This tool helps us to generate text in an image `#free`
 *   [Kaiber](https://kaiber.ai/) - Tell stories like never before with our advanced AI generation engine `#freemium`
 *   [MergeML](https://mergeml.com/) - Lightning Fast Image Generation `#free`
 *   [Novita.ai](https://novita.ai/) - Novita is your go-to solution for fast and affordable AI image generation. `#paid`

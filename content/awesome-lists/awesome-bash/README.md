@@ -2,15 +2,25 @@
 
 A curated list of delightful Bash scripts and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/awesome-lists/awesome-bash/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) · ⭐ 6.7K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/awesome-lists/awesome-bash/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) · ⭐ 6.8K · 🏷️ Development Environment
 
 [ Daily / [Weekly](/content/awesome-lists/awesome-bash/week/README.md) / [Overview](/content/awesome-lists/awesome-bash/readme/README.md) ]
+
+## [Dec 26, 2023](/content/2023/12/26/README.md)
+
+### Books and Resources
+
+*   [Safe ways to do things in bash (⭐4.5k)](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md) - How to do things safely in Bash.
+
+### Shell Script Development
+
+*   [shellharden (⭐4.5k)](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter.
 
 ## [Nov 19, 2023](/content/2023/11/19/README.md)
 
 ### Downloading and Serving
 
-*   [sherver (⭐331)](https://github.com/remileduc/sherver) - Pure Bash lightweight web server.
+*   [sherver (⭐332)](https://github.com/remileduc/sherver) - Pure Bash lightweight web server.
 
 ## [Oct 19, 2023](/content/2023/10/19/README.md)
 
@@ -28,15 +38,15 @@ A curated list of delightful Bash scripts and resources.
 
 ### Shell Script Development
 
-*   [bashunit (⭐167)](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts.
+*   [bashunit (⭐185)](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts.
 
 ## [Oct 12, 2023](/content/2023/10/12/README.md)
 
 ### Shell Script Development
 
-*   [bats (⭐4.3k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+*   [bats (⭐4.4k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 *   [bunit (⭐192)](https://github.com/rafritts/bunit) - A unit testing framework for Bash scripts.
-*   [modernish (⭐704)](https://github.com/modernish/modernish) - Library with various features for shell scripting.
+*   [modernish (⭐707)](https://github.com/modernish/modernish) - Library with various features for shell scripting.
 
 ## [Sep 01, 2023](/content/2023/09/01/README.md)
 
@@ -50,7 +60,7 @@ A curated list of delightful Bash scripts and resources.
 
 ### Command-Line Productivity
 
-*   [ble.sh (⭐1.6k)](https://github.com/akinomyoga/ble.sh) - User-friendly and feature rich readline replacement, with syntax highlighting, better command completion, and improved multi-line editing.
+*   [ble.sh (⭐1.7k)](https://github.com/akinomyoga/ble.sh) - User-friendly and feature rich readline replacement, with syntax highlighting, better command completion, and improved multi-line editing.
 
 ## [Jun 20, 2023](/content/2023/06/20/README.md)
 
@@ -63,13 +73,13 @@ A curated list of delightful Bash scripts and resources.
 
 ### Customization
 
-*   [aphrodite-terminal-theme (⭐105)](https://github.com/win0err/aphrodite-terminal-theme) - Minimalistic theme (prompt) for sexy terminals.
+*   [aphrodite-terminal-theme (⭐109)](https://github.com/win0err/aphrodite-terminal-theme) - Minimalistic theme (prompt) for sexy terminals.
 
 ## [Nov 11, 2022](/content/2022/11/11/README.md)
 
 ### Shell Script Development
 
-*   [Bashmatic (⭐106)](https://github.com/kigster/bashmatic) - An easy to use DSL library for building BASH-based tooling & installers (900+ functions).
+*   [Bashmatic (⭐105)](https://github.com/kigster/bashmatic) - An easy to use DSL library for building BASH-based tooling & installers (900+ functions).
 
 ## [Oct 10, 2022](/content/2022/10/10/README.md)
 
@@ -81,7 +91,7 @@ A curated list of delightful Bash scripts and resources.
 
 ### Shell Script Development
 
-*   [DevOps-Bash-tools (⭐2k)](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment.
+*   [DevOps-Bash-tools (⭐2.1k)](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment.
 
 ## [Mar 19, 2022](/content/2022/03/19/README.md)
 
@@ -99,26 +109,26 @@ A curated list of delightful Bash scripts and resources.
 
 ### Command-Line Productivity
 
-*   [bashhub-server (⭐289)](https://github.com/nicksherron/bashhub-server) - Privately hosted open source bashhub server.
+*   [bashhub-server (⭐291)](https://github.com/nicksherron/bashhub-server) - Privately hosted open source bashhub server.
 
 ## [Dec 05, 2021](/content/2021/12/05/README.md)
 
 ### Shell Script Development
 
-*   [bash-modules (⭐118)](https://github.com/vlisivka/bash-modules) - A collection of modules for unofficial strict mode.
+*   [bash-modules (⭐117)](https://github.com/vlisivka/bash-modules) - A collection of modules for unofficial strict mode.
 
 ## [Nov 30, 2021](/content/2021/11/30/README.md)
 
 ### Command-Line Productivity
 
-*   [sshrc (⭐171)](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH.
-*   [zoxide (⭐12k)](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
+*   [sshrc (⭐175)](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH.
+*   [zoxide (⭐13k)](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 
 ## [Nov 29, 2021](/content/2021/11/29/README.md)
 
 ### Shell Script Development
 
-*   [bashly (⭐1.7k)](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator.
+*   [bashly (⭐1.8k)](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator.
 
 ## [Mar 29, 2021](/content/2021/03/29/README.md)
 
@@ -140,20 +150,20 @@ A curated list of delightful Bash scripts and resources.
 
 ### Shell Script Development
 
-*   [ansi (⭐536)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more.
+*   [ansi (⭐546)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more.
 *   [argbash (⭐1.3k)](https://github.com/matejak/argbash) - Bash argument parsing code generator.
-*   [assert.sh (⭐477)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework.
-*   [async-bash (⭐130)](https://github.com/zombieleet/async-bash) - Implementation of async functions in bash.
+*   [assert.sh (⭐479)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework.
+*   [async-bash (⭐133)](https://github.com/zombieleet/async-bash) - Implementation of async functions in bash.
 *   [bash3boilerplate (⭐2k)](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts.
-*   [bashful (⭐587)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts.
-*   [bashify (⭐98)](https://github.com/zombieleet/bashify) - Few helper functions in bash (especially string manipulation functions).
-*   [bashing (⭐72)](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools.
-*   [bashmanager (⭐88)](https://github.com/lingtalfi/bashmanager) - Mini bash framework for creating command line tools.
+*   [bashful (⭐590)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts.
+*   [bashify (⭐97)](https://github.com/zombieleet/bashify) - Few helper functions in bash (especially string manipulation functions).
+*   [bashing (⭐73)](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools.
+*   [bashmanager (⭐90)](https://github.com/lingtalfi/bashmanager) - Mini bash framework for creating command line tools.
 *   [Bash Infinity (⭐5.5k)](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash.
-*   [bash\_unit (⭐551)](https://github.com/pgrange/bash_unit) -  Bash unit testing enterprise edition framework for professionals.
-*   [mo (⭐522)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash.
+*   [bash\_unit (⭐557)](https://github.com/pgrange/bash_unit) -  Bash unit testing enterprise edition framework for professionals.
+*   [mo (⭐526)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash.
 *   [semver\_bash (⭐238)](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash.
-*   [shfmt (⭐6.3k)](https://github.com/mvdan/sh) - Format bash programs.
+*   [shfmt (⭐6.4k)](https://github.com/mvdan/sh) - Format bash programs.
 *   [shunit2 (⭐1.5k)](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 
 ## [May 23, 2019](/content/2019/05/23/README.md)
@@ -172,44 +182,44 @@ A curated list of delightful Bash scripts and resources.
 *   [Sobell's Book](http://www.sobell.com/CR3/index.html) - A practical guide to commands, editors, and shell programming.
 *   [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 *   [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
-*   [learnyoubash (⭐711)](https://github.com/denysdovhan/learnyoubash) - An interactive workshopper which will teach you how to use the terminal and write your the first Bash script.
+*   [learnyoubash (⭐713)](https://github.com/denysdovhan/learnyoubash) - An interactive workshopper which will teach you how to use the terminal and write your the first Bash script.
 
 ### Command-Line Productivity
 
-*   [aliases (⭐499)](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.
+*   [aliases (⭐502)](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.
 *   [bashhub (⭐1.2k)](https://github.com/rcaloras/bashhub-client) - Bash history in the cloud. Indexed and searchable :cloud:.
 *   [bashmarks (⭐1.8k)](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell.
-*   [commacd (⭐354)](https://github.com/shyiko/commacd) - A faster way to move around in Bash.
-*   [has (⭐563)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path.
-*   [hstr (⭐3.7k)](https://github.com/dvorka/hstr) - Bash History Suggest Box.
-*   [qfc (⭐566)](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh.
+*   [commacd (⭐357)](https://github.com/shyiko/commacd) - A faster way to move around in Bash.
+*   [has (⭐581)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path.
+*   [hstr (⭐3.8k)](https://github.com/dvorka/hstr) - Bash History Suggest Box.
+*   [qfc (⭐570)](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh.
 
 ### Customization
 
-*   [bash-git-prompt (⭐6.5k)](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy Bash prompt for Git users.
-*   [bash-powerline (⭐868)](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
+*   [bash-git-prompt (⭐6.6k)](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy Bash prompt for Git users.
+*   [bash-powerline (⭐873)](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
 *   [bashstrap (⭐1.6k)](https://github.com/barryclark/bashstrap) - A quick way to spruce up macOS terminal.
 *   [git-prompt (⭐326)](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules.
-*   [gittify (⭐67)](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases.
-*   [liquidprompt (⭐4.3k)](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
+*   [gittify (⭐68)](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases.
+*   [liquidprompt (⭐4.4k)](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
 *   [mysql-colorize (⭐95)](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client.
 *   [oh-my-git (⭐3.6k)](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh.
-*   [progress-bar.sh (⭐221)](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progressbar for `bash`, give it a duration and it will do the rest.
+*   [progress-bar.sh (⭐222)](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progressbar for `bash`, give it a duration and it will do the rest.
 *   [sexy-bash-prompt (⭐1.1k)](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
 *   [bash-sensible (⭐2k)](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults.
 
 ### Data
 
-*   [BigBash (⭐280)](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary.
+*   [BigBash (⭐282)](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary.
 
 ### For Developers
 
 *   [bocker (⭐11k)](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash.
-*   [git-sh (⭐729)](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
+*   [git-sh (⭐731)](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
 
 ### Downloading and Serving
 
-*   [balls (⭐845)](https://github.com/jneen/balls) - Bash on Balls.
+*   [balls (⭐852)](https://github.com/jneen/balls) - Bash on Balls.
 *   [bashttpd (⭐1.5k)](https://github.com/avleen/bashttpd) - A web server written in Bash.
 *   [Dropbox-Uploader (⭐6.5k)](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox.
 *   [ngincat (⭐170)](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat.
@@ -224,12 +234,12 @@ A curated list of delightful Bash scripts and resources.
 
 ### Games
 
-*   [bash2048 (⭐882)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game.
+*   [bash2048 (⭐884)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game.
 *   [minesweeper (⭐54)](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper.
 
 ### Website
 
-*   [Bash One-Liners](http://www.bashoneliners.com/) -  A collection of practical or just pure awesome bash one-liners ([repos (⭐203)](https://github.com/janosgyerik/bashoneliners) by @[janosgyerik](https://github.com/janosgyerik)).
+*   [Bash One-Liners](http://www.bashoneliners.com/) -  A collection of practical or just pure awesome bash one-liners ([repos (⭐202)](https://github.com/janosgyerik/bashoneliners) by @[janosgyerik](https://github.com/janosgyerik)).
 *   [commandlinefu](http://www.commandlinefu.com/) -  A repository for the most elegant and useful UNIX commands.
 
 ### Shell Package Management

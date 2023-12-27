@@ -2,7 +2,7 @@
 
 :neckbeard: Awesome list GitHub Wikis
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 131 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 144 · 🏷️ Miscellaneous
 
 [ [Daily](/content/MyHoneyBadger/awesome-github-wiki/README.md) / [Weekly](/content/MyHoneyBadger/awesome-github-wiki/week/README.md) / Overview ]
 
@@ -24,26 +24,26 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 
 Wiki should be detail, up to date and well structured. It should be easy to find required information and navigate through the pages. Use rich possibilities of Markdown in Wiki formatting. Wiki doesn't fully repeat information which is already presented at README. The following list of examples represents mentioned good practices:
 
-*   [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki)
-*   [aws/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki)
-*   [facebook/hhvm](https://github.com/facebook/hhvm/wiki)
-*   [thinkaurelius/titan](https://github.com/thinkaurelius/titan/wiki)
-*   [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
-*   [apple/foundationdb](https://github.com/apple/foundationdb/wiki)
-*   [google/guava](https://github.com/google/guava/wiki)
-*   [hyperledger/cacti](https://github.com/hyperledger/cacti/wiki)
-*   [facebook/react-native](https://github.com/facebook/react-native/wiki)
-*   [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome/wiki)
-*   [golang/go](https://github.com/golang/go/wiki)
-*   [uber/NullAway](https://github.com/uber/NullAway/wiki)
-*   [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki)
+*   [Netflix/Hystrix (⭐24k)](https://github.com/Netflix/Hystrix/wiki)
+*   [aws/aws-parallelcluster (⭐799)](https://github.com/aws/aws-parallelcluster/wiki)
+*   [facebook/hhvm (⭐18k)](https://github.com/facebook/hhvm/wiki)
+*   [thinkaurelius/titan (⭐5.2k)](https://github.com/thinkaurelius/titan/wiki)
+*   [guard/guard (⭐6.2k)](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
+*   [apple/foundationdb (⭐13k)](https://github.com/apple/foundationdb/wiki)
+*   [google/guava (⭐49k)](https://github.com/google/guava/wiki)
+*   [hyperledger/cacti (⭐294)](https://github.com/hyperledger/cacti/wiki)
+*   [facebook/react-native (⭐113k)](https://github.com/facebook/react-native/wiki)
+*   [FortAwesome/Font-Awesome (⭐73k)](https://github.com/FortAwesome/Font-Awesome/wiki)
+*   [golang/go (⭐117k)](https://github.com/golang/go/wiki)
+*   [uber/NullAway (⭐3.5k)](https://github.com/uber/NullAway/wiki)
+*   [internetarchive/openlibrary (⭐4.6k)](https://github.com/internetarchive/openlibrary/wiki)
 
 ## Useful links with tips & tricks
 
 *   [Learning GitHub - Making Wikis](https://www.youtube.com/watch?v=bnMl0d-RcPQ)
 *   [Creating a GitHub Wiki documentation for your repository](https://carldesouza.com/creating-a-github-wiki-documentation-for-your-repository/)
 *   [Git Tutorial - 24 - GitHub Wiki](https://www.youtube.com/watch?v=4B0XNThjO0E)
-*   [Search wiki of the repository on GitHub](https://github.com/linyows/github-wiki-search)
+*   [Search wiki of the repository on GitHub (⭐189)](https://github.com/linyows/github-wiki-search)
 *   [How To Add Images To A GitHub Wiki](http://mikehadlow.blogspot.com/2014/03/how-to-add-images-to-github-wiki.html)
 *   [GitHub Wiki Markdown tips and examples](https://medium.com/@apcoyne100/github-wiki-markdown-tips-and-examples-1bab1f0c0d25)
 *   [GitHub Projects, Teams, Fork & Wiki For Documenting Projects](https://www.softwaretestinghelp.com/github-projects-teams-fork-wiki)
@@ -55,6 +55,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 *   [Git And GitHub Course - Master Git And GitHub - GitHub Wiki](https://www.learnvern.com/git-and-github-tutorial/wiki)
 *   [How to Use GitHub as a Wiki: Examples & Templates](https://almanac.io/blog/github-wiki-examples-templates)
 *   [How To Use GitHub Wikis For Collaborative Documentation](https://labs.inn.org/2014/05/19/applying-git-to-github-wikis/)
+*   [GitHub Wiki Action. Keep your dev docs in sync with your code](https://github.com/marketplace/actions/github-wiki-action)
 
 ## Useful Stack Overflow questions & answers
 

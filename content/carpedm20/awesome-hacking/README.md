@@ -6,6 +6,16 @@ A curated list of awesome Hacking tutorials, tools and resources
 
 [ Daily / [Weekly](/content/carpedm20/awesome-hacking/week/README.md) / [Overview](/content/carpedm20/awesome-hacking/readme/README.md) ]
 
+## [Dec 27, 2023](/content/2023/12/27/README.md)
+
+### Tools / Other
+
+*   [PETEP (⭐97)](https://github.com/Warxim/petep) - Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.
+
+### tools / Other
+
+*   [The Cyberclopaedia](https://cr0mll.github.io/cyberclopaedia/) - The open-source encyclopedia of cybersecurity. [GitHub Repository (⭐150)](https://github.com/cr0mll/cyberclopaedia)
+
 ## [Sep 25, 2023](/content/2023/09/25/README.md)
 
 ### Tutorials
@@ -36,8 +46,8 @@ A curated list of awesome Hacking tutorials, tools and resources
 
 *   [Shodan](https://www.shodan.io/) - A web-crawling search engine that lets users search for various types of servers connected to the internet.
 *   [masscan (⭐22k)](https://github.com/robertdavidgraham/masscan) - Internet scale portscanner.
-*   [Keyscope (⭐362)](https://github.com/SpectralOps/keyscope) - an extensible key and secret validation tool for auditing active secrets against multiple SaaS vendors
-*   [CyLR (⭐563)](https://github.com/orlikoski/CyLR) - NTFS forensic image collector
+*   [Keyscope (⭐369)](https://github.com/SpectralOps/keyscope) - an extensible key and secret validation tool for auditing active secrets against multiple SaaS vendors
+*   [CyLR (⭐579)](https://github.com/orlikoski/CyLR) - NTFS forensic image collector
 *   [CAINE](https://www.caine-live.net/)- CAINE is a Ubuntu-based app that offers a complete forensic environment that provides a graphical interface. This tool can be integrated into existing software tools as a module. It automatically extracts a timeline from RAM.
 
 ## [Feb 28, 2022](/content/2022/02/28/README.md)
@@ -66,7 +76,7 @@ A curated list of awesome Hacking tutorials, tools and resources
 
 ### Tools / Other
 
-*   [Netz (⭐355)](https://github.com/spectralops/netz) - Discover internet-wide misconfigurations, using zgrab2 and others.
+*   [Netz (⭐360)](https://github.com/spectralops/netz) - Discover internet-wide misconfigurations, using zgrab2 and others.
 
 ## [Feb 16, 2021](/content/2021/02/16/README.md)
 
@@ -106,13 +116,13 @@ A curated list of awesome Hacking tutorials, tools and resources
 
 ### Tools / Other
 
-*   [Git-Scanner (⭐301)](https://github.com/HightechSec/git-scanner) - A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
+*   [Git-Scanner (⭐320)](https://github.com/HightechSec/git-scanner) - A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
 
 ## [Sep 30, 2020](/content/2020/09/30/README.md)
 
 ### Binary files examination and editing / Other
 
-*   [Kaitai Struct (⭐3.6k)](https://github.com/kaitai-io/kaitai_struct) - a DSL for creating parsers in a variety of programming languages. The Web IDE is particularly useful for reverse-engineering.
+*   [Kaitai Struct (⭐3.7k)](https://github.com/kaitai-io/kaitai_struct) - a DSL for creating parsers in a variety of programming languages. The Web IDE is particularly useful for reverse-engineering.
 
 ### Competition / Other
 
@@ -122,13 +132,13 @@ A curated list of awesome Hacking tutorials, tools and resources
 
 ### Tools / Other
 
-*   [PhpSploit (⭐2k)](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner
+*   [PhpSploit (⭐2.1k)](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner
 
 ## [Aug 04, 2020](/content/2020/08/04/README.md)
 
 ### Tools / Other
 
-*   [Ciphey (⭐14k)](https://github.com/ciphey/ciphey) - Automated decryption tool using artificial intelligence & natural language processing.
+*   [Ciphey (⭐15k)](https://github.com/ciphey/ciphey) - Automated decryption tool using artificial intelligence & natural language processing.
 
 ## [Jul 31, 2020](/content/2020/07/31/README.md)
 
@@ -158,7 +168,7 @@ A curated list of awesome Hacking tutorials, tools and resources
 
 ### Tools / Other
 
-*   [Scapy (⭐146)](https://github.com/secdev/awesome-scapy) - A Python tool and library for low level packet creation and manipulation
+*   [Scapy (⭐167)](https://github.com/secdev/awesome-scapy) - A Python tool and library for low level packet creation and manipulation
 
 ## [Nov 14, 2019](/content/2019/11/14/README.md)
 
@@ -175,7 +185,7 @@ A curated list of awesome Hacking tutorials, tools and resources
 
 ### tools / Other
 
-*   [ebowla (⭐709)](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
+*   [ebowla (⭐717)](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
 
 ## [Oct 11, 2019](/content/2019/10/11/README.md)
 
@@ -215,7 +225,7 @@ A curated list of awesome Hacking tutorials, tools and resources
 
 *   [JD-GUI (⭐13k)](https://github.com/java-decompiler/jd-gui)
 *   Python
-    *   [uncompyle6 (⭐3.3k)](https://github.com/rocky/python-uncompyle6) - decompiler for the over 20 releases and 20 years of CPython.
+    *   [uncompyle6 (⭐3.4k)](https://github.com/rocky/python-uncompyle6) - decompiler for the over 20 releases and 20 years of CPython.
 
 ### Binary files examination and editing / Hex editors
 
@@ -229,14 +239,14 @@ A curated list of awesome Hacking tutorials, tools and resources
 
 ### General / Other
 
-*   [Strong node.js (⭐486)](https://github.com/jesusprubio/strong-node) - An exhaustive checklist to assist in the source code security analysis of a node.js web service.
+*   [Strong node.js (⭐490)](https://github.com/jesusprubio/strong-node) - An exhaustive checklist to assist in the source code security analysis of a node.js web service.
 
 ## [Nov 13, 2018](/content/2018/11/13/README.md)
 
 ### Tools / Other
 
-*   [badtouch (⭐363)](https://github.com/kpcyrd/badtouch) - Scriptable network authentication cracker
-*   [sniffglue (⭐968)](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer
+*   [badtouch (⭐371)](https://github.com/kpcyrd/badtouch) - Scriptable network authentication cracker
+*   [sniffglue (⭐997)](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer
 
 ## [Oct 29, 2018](/content/2018/10/29/README.md)
 
@@ -250,66 +260,66 @@ A curated list of awesome Hacking tutorials, tools and resources
 ### Disassemblers and debuggers
 
 *   [x64dbg (⭐42k)](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for Windows
-*   [Capstone (⭐6.6k)](https://github.com/aquynh/capstone)
+*   [Capstone (⭐6.8k)](https://github.com/aquynh/capstone)
 
 ### Decompilers
 
 *   JVM-based languages
-*   [Krakatau (⭐1.8k)](https://github.com/Storyyeller/Krakatau) - the best decompiler I have used. Is able to decompile apps written in Scala and Kotlin into Java code. JD-GUI and Luyten have failed to do it fully.
+*   [Krakatau (⭐1.9k)](https://github.com/Storyyeller/Krakatau) - the best decompiler I have used. Is able to decompile apps written in Scala and Kotlin into Java code. JD-GUI and Luyten have failed to do it fully.
 *   [procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler)
-    *   [Luyten (⭐4.8k)](https://github.com/deathmarine/Luyten) - one of the best, though a bit slow, hangs on some binaries and not very well maintained.
+    *   [Luyten (⭐4.9k)](https://github.com/deathmarine/Luyten) - one of the best, though a bit slow, hangs on some binaries and not very well maintained.
 *   [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler (closed-source, unmaintained)
-*   [JADX (⭐36k)](https://github.com/skylot/jadx) - a decompiler for Android apps. Not related to JAD.
+*   [JADX (⭐38k)](https://github.com/skylot/jadx) - a decompiler for Android apps. Not related to JAD.
 *   .net-based languages
     *   [dotPeek](https://www.jetbrains.com/decompiler/) - a free-of-charge .NET decompiler from JetBrains
     *   [ILSpy (⭐19k)](https://github.com/icsharpcode/ILSpy/) - an open-source .NET assembly browser and decompiler
-    *   [dnSpy (⭐24k)](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger
+    *   [dnSpy (⭐25k)](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger
 *   native code
     *   [Hopper](https://www.hopperapp.com) - A OS X and Linux Disassembler/Decompiler for 32/64-bit Windows/Mac/Linux/iOS executables.
     *   [cutter](https://github.com/radareorg/cutter) - a decompiler based on radare2.
-    *   [retdec (⭐7.5k)](https://github.com/avast-tl/retdec)
+    *   [retdec (⭐7.6k)](https://github.com/avast-tl/retdec)
     *   [snowman (⭐2.3k)](https://github.com/yegord/snowman)
     *   [Hex-Rays](https://www.hex-rays.com/products/decompiler/)
 
 ### Deobfuscators
 
-*   [de4dot (⭐6.5k)](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
+*   [de4dot (⭐6.6k)](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
 *   [JS Beautifier (⭐8.3k)](https://github.com/beautify-web/js-beautify)
 *   [JS Nice](http://jsnice.org/) - a web service guessing JS variables names and types based on the model derived from open source.
 
 ### Other
 
-*   [nudge4j (⭐153)](https://github.com/lorenzoongithub/nudge4j) - Java tool to let the browser talk to the JVM
-*   [dex2jar (⭐11k)](https://github.com/pxb1988/dex2jar) - Tools to work with Android .dex and Java .class files
+*   [nudge4j (⭐154)](https://github.com/lorenzoongithub/nudge4j) - Java tool to let the browser talk to the JVM
+*   [dex2jar (⭐12k)](https://github.com/pxb1988/dex2jar) - Tools to work with Android .dex and Java .class files
 *   [androguard](https://code.google.com/p/androguard/) - Reverse engineering, malware and goodware analysis of Android applications
-*   [antinet (⭐284)](https://github.com/0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code
+*   [antinet (⭐289)](https://github.com/0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code
 *   [UPX](http://upx.sourceforge.net/) - the Ultimate Packer (and unpacker) for eXecutables
 
 ### Execution logging and tracing
 
 *   [Wireshark](https://www.wireshark.org/) - A free and open-source packet analyzer
 *   [tcpdump](http://www.tcpdump.org/) - A powerful command-line packet analyzer; and libpcap, a portable C/C++ library for network traffic capture
-*   [mitmproxy (⭐32k)](https://github.com/mitmproxy/mitmproxy) - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface
+*   [mitmproxy (⭐33k)](https://github.com/mitmproxy/mitmproxy) - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface
 *   [Charles Proxy](https://charlesproxy.com) - A cross-platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic
 *   [usbmon](https://www.kernel.org/doc/Documentation/usb/usbmon.txt) - USB capture for Linux.
-*   [USBPcap (⭐810)](https://github.com/desowin/usbpcap) - USB capture for Windows.
-*   [dynStruct (⭐304)](https://github.com/ampotos/dynStruct) - structures recovery via dynamic instrumentation.
-*   [drltrace (⭐357)](https://github.com/mxmssh/drltrace) - shared library calls tracing.
+*   [USBPcap (⭐840)](https://github.com/desowin/usbpcap) - USB capture for Windows.
+*   [dynStruct (⭐309)](https://github.com/ampotos/dynStruct) - structures recovery via dynamic instrumentation.
+*   [drltrace (⭐365)](https://github.com/mxmssh/drltrace) - shared library calls tracing.
 
 ### Binary files examination and editing / Hex editors
 
 *   [HxD](http://mh-nexus.de/en/hxd/) - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size
 *   [WinHex](http://www.winhex.com/winhex/) - A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security
-*   [wxHexEditor (⭐498)](https://github.com/EUA/wxHexEditor)
+*   [wxHexEditor (⭐515)](https://github.com/EUA/wxHexEditor)
 
 ### Binary files examination and editing / Other
 
-*   [Binwalk (⭐9.6k)](https://github.com/ReFirmLabs/binwalk) -  Detects signatures, unpacks archives, visualizes entropy.
+*   [Binwalk (⭐9.9k)](https://github.com/ReFirmLabs/binwalk) -  Detects signatures, unpacks archives, visualizes entropy.
 *   [Veles (⭐1k)](https://github.com/codilime/veles) - a visualizer for statistical properties of blobs.
-*   [Protobuf inspector (⭐840)](https://github.com/jmendeth/protobuf-inspector)
-*   [DarunGrim (⭐358)](https://github.com/ohjeongwook/DarunGrim) - executable differ.
-*   [DBeaver (⭐34k)](https://github.com/dbeaver/dbeaver) - a DB editor.
-*   [Dependencies (⭐6.9k)](https://github.com/lucasg/Dependencies) - a FOSS replacement to Dependency Walker.
+*   [Protobuf inspector (⭐862)](https://github.com/jmendeth/protobuf-inspector)
+*   [DarunGrim (⭐359)](https://github.com/ohjeongwook/DarunGrim) - executable differ.
+*   [DBeaver (⭐35k)](https://github.com/dbeaver/dbeaver) - a DB editor.
+*   [Dependencies (⭐7.6k)](https://github.com/lucasg/Dependencies) - a FOSS replacement to Dependency Walker.
 *   [PEview](http://wjradburn.com/software/) - A quick and easy way to view the structure and content of 32-bit Portable Executable (PE) and Component Object File Format (COFF) files
 *   [BinText](https://web.archive.org/web/http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx) - A small, very fast and powerful text extractor that will be of particular interest to programmers.
 
@@ -317,7 +327,7 @@ A curated list of awesome Hacking tutorials, tools and resources
 
 ### tools / Other
 
-*   [empire (⭐7.1k)](https://github.com/EmpireProject/Empire) - A post exploitation framework for powershell and python.
+*   [empire (⭐7.2k)](https://github.com/EmpireProject/Empire) - A post exploitation framework for powershell and python.
 *   [silenttrinity (⭐2.1k)](https://github.com/byt3bl33d3r/SILENTTRINITY) - A post exploitation tool that uses iron python to get past powershell restrictions.
 
 ## [Oct 07, 2018](/content/2018/10/07/README.md)
@@ -330,21 +340,21 @@ A curated list of awesome Hacking tutorials, tools and resources
 
 ### Tools / Other
 
-*   [Nipe (⭐1.7k)](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway.
+*   [Nipe (⭐1.8k)](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway.
 
 ## [Jul 26, 2018](/content/2018/07/26/README.md)
 
 ### Tools / Other
 
-*   [Amass (⭐10k)](https://github.com/OWASP/Amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
+*   [Amass (⭐11k)](https://github.com/OWASP/Amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
 
 ## [Jun 25, 2018](/content/2018/06/25/README.md)
 
 ### Tools / Other
 
-*   [NoSQLMap (⭐2.5k)](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
+*   [NoSQLMap (⭐2.7k)](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
 *   [VHostScan (⭐1.1k)](https://github.com/codingo/VHostScan) - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
-*   [SubFinder (⭐8.3k)](https://github.com/subfinder/subfinder) - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
+*   [SubFinder (⭐8.7k)](https://github.com/subfinder/subfinder) - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
 
 ## [Jun 23, 2018](/content/2018/06/23/README.md)
 
@@ -357,7 +367,7 @@ A curated list of awesome Hacking tutorials, tools and resources
 
 ### Tools / Other
 
-*   [ssh-mitm (⭐1.5k)](https://github.com/jtesta/ssh-mitm) - An SSH/SFTP man-in-the-middle tool that logs interactive sessions and passwords.
+*   [ssh-mitm (⭐1.6k)](https://github.com/jtesta/ssh-mitm) - An SSH/SFTP man-in-the-middle tool that logs interactive sessions and passwords.
 
 ## [May 30, 2018](/content/2018/05/30/README.md)
 
@@ -374,11 +384,11 @@ A curated list of awesome Hacking tutorials, tools and resources
 
 ### Bug bounty / Other
 
-*   [Awesome bug bounty resources by EdOverflow (⭐5.2k)](https://github.com/EdOverflow/bugbounty-cheatsheet)
+*   [Awesome bug bounty resources by EdOverflow (⭐5.4k)](https://github.com/EdOverflow/bugbounty-cheatsheet)
 
 ### General / Other
 
-*   [Movies For Hackers (⭐9.8k)](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
+*   [Movies For Hackers (⭐10k)](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
 
 ## [May 01, 2018](/content/2018/05/01/README.md)
 
@@ -403,7 +413,7 @@ A curated list of awesome Hacking tutorials, tools and resources
 
 ### Tools / Other
 
-*   [Habu (⭐818)](https://github.com/portantier/habu) - Python Network Hacking Toolkit
+*   [Habu (⭐836)](https://github.com/portantier/habu) - Python Network Hacking Toolkit
 
 ## [May 23, 2017](/content/2017/05/23/README.md)
 
@@ -416,7 +426,7 @@ A curated list of awesome Hacking tutorials, tools and resources
 ### Tools / Other
 
 *   [Paros](http://sourceforge.net/projects/paros/) - A Java-based HTTP/HTTPS proxy for assessing web application vulnerability
-*   [mitmsocks4j (⭐30)](https://github.com/Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java
+*   [mitmsocks4j (⭐31)](https://github.com/Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java
 *   [sleuthkit (⭐2.4k)](https://github.com/sleuthkit/sleuthkit) - A library and collection of command-line digital forensics tools
 *   [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - The shared technology within a suite of digital investigations products by Guidance Software
 *   [xortool (⭐1.3k)](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
@@ -425,7 +435,7 @@ A curated list of awesome Hacking tutorials, tools and resources
 
 ### General / Other
 
-*   [Pentest Cheat Sheets (⭐3.5k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
+*   [Pentest Cheat Sheets (⭐3.6k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
 
 ## [Feb 15, 2017](/content/2017/02/15/README.md)
 
@@ -438,13 +448,13 @@ A curated list of awesome Hacking tutorials, tools and resources
 
 ### Disassemblers and debuggers
 
-*   [ScratchABit (⭐387)](https://github.com/pfalcon/ScratchABit) - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API
+*   [ScratchABit (⭐390)](https://github.com/pfalcon/ScratchABit) - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API
 
 ## [Jan 02, 2017](/content/2017/01/02/README.md)
 
 ### Docker Images for Penetration Testing & Security
 
-*   `docker pull owasp/zap2docker-stable` - [official OWASP ZAP (⭐11k)](https://github.com/zaproxy/zaproxy)
+*   `docker pull owasp/zap2docker-stable` - [official OWASP ZAP (⭐12k)](https://github.com/zaproxy/zaproxy)
 *   `docker pull wpscanteam/wpscan` - [official WPScan](https://hub.docker.com/r/wpscanteam/wpscan/)
 *   `docker pull citizenstig/dvwa` - [Damn Vulnerable Web Application (DVWA)](https://hub.docker.com/r/citizenstig/dvwa/)
 *   `docker pull wpscanteam/vulnerablewordpress` - [Vulnerable WordPress Installation](https://hub.docker.com/r/wpscanteam/vulnerablewordpress/)
@@ -455,7 +465,7 @@ A curated list of awesome Hacking tutorials, tools and resources
 *   `docker pull ismisepaul/securityshepherd` - [OWASP Security Shepherd](https://hub.docker.com/r/ismisepaul/securityshepherd/)
 *   `docker pull danmx/docker-owasp-webgoat` - [OWASP WebGoat Project docker image](https://hub.docker.com/r/danmx/docker-owasp-webgoat/)
 *   `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
-*   `docker pull bkimminich/juice-shop` - [OWASP Juice Shop (⭐8.7k)](https://github.com/bkimminich/juice-shop#docker-container--)
+*   `docker pull bkimminich/juice-shop` - [OWASP Juice Shop (⭐9k)](https://github.com/bkimminich/juice-shop#docker-container--)
 
 ## [Nov 01, 2016](/content/2016/11/01/README.md)
 
@@ -479,7 +489,7 @@ A curated list of awesome Hacking tutorials, tools and resources
 
 ### Tools / Other
 
-*   [pig (⭐449)](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool
+*   [pig (⭐452)](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool
 
 ## [Nov 14, 2015](/content/2015/11/14/README.md)
 
@@ -518,7 +528,7 @@ A curated list of awesome Hacking tutorials, tools and resources
 
 ### Tools
 
-*   [Metasploit (⭐31k)](https://github.com/rapid7/metasploit-framework) A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
+*   [Metasploit (⭐32k)](https://github.com/rapid7/metasploit-framework) A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
 *   [mimikatz (⭐18k)](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 
 ### Disassemblers and debuggers
@@ -534,7 +544,7 @@ A curated list of awesome Hacking tutorials, tools and resources
 
 ### Tools / Other
 
-*   [sqlmap (⭐28k)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
+*   [sqlmap (⭐29k)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 *   [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program
 *   [malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
 *   [John the Ripper](http://www.openwall.com/john/) - A fast password cracker

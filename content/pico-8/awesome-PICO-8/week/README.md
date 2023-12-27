@@ -6,11 +6,17 @@ A curated list of awesome PICO-8 resources, carts, tools and more
 
 [ [Daily](/content/pico-8/awesome-PICO-8/README.md) / Weekly / [Overview](/content/pico-8/awesome-PICO-8/readme/README.md) ]
 
+## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
+
+### Contents / Clones
+
+*   [Pikuseru (⭐36)](https://github.com/PikuseruConsole/pikuseru) - Open Source Fantasy Console in pure Rust \[Core].
+
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
 ### Contents / Tools
 
-*   [parens-8 (⭐6)](https://github.com/Siapran/parens-8) - Bypass the Lua token limit with a tiny lisp interpreter/compiler.
+*   [parens-8 (⭐10)](https://github.com/Siapran/parens-8) - Bypass the Lua token limit with a tiny lisp interpreter/compiler.
 
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
@@ -38,23 +44,23 @@ A curated list of awesome PICO-8 resources, carts, tools and more
 
 ### Contents / Tools
 
-*   [Shrinko8 (⭐55)](https://github.com/thisismypassport/shrinko8) - A minifier that aggressively shrinks Pico-8 code size. Also includes a linter and other tools.
+*   [Shrinko8 (⭐66)](https://github.com/thisismypassport/shrinko8) - A minifier that aggressively shrinks Pico-8 code size. Also includes a linter and other tools.
 
 ## [Jun 06 - Jun 12, 2022](/content/2022/23/README.md)
 
 ### Contents / Tools
 
-*   [TS-PICO-8 (⭐31)](https://github.com/tmountain/pico-8-typescript) - Create PICO-8 games using TypeScript.
+*   [TS-PICO-8 (⭐34)](https://github.com/tmountain/pico-8-typescript) - Create PICO-8 games using TypeScript.
 
 ### Contents / Text Editors Language Support
 
-*   Visual Studio Code: [pico8-ls (⭐46)](https://github.com/japhib/pico8-ls) - PICO-8 Language Server, providing full language support for the PICO-8 dialect of Lua.
+*   Visual Studio Code: [pico8-ls (⭐51)](https://github.com/japhib/pico8-ls) - PICO-8 Language Server, providing full language support for the PICO-8 dialect of Lua.
 
 ## [Aug 16 - Aug 22, 2021](/content/2021/33/README.md)
 
 ### Contents / Clones
 
-*   [PicoLove (⭐679)](https://github.com/picolove/picolove) - Pico-8 Reimplementation in LÖVE.
+*   [PicoLove (⭐693)](https://github.com/picolove/picolove) - Pico-8 Reimplementation in LÖVE.
 
 ## [Jun 28 - Jul 04, 2021](/content/2021/26/README.md)
 
@@ -72,7 +78,7 @@ A curated list of awesome PICO-8 resources, carts, tools and more
 
 ### Contents / Tools
 
-*   [pico8-deploy (⭐25)](https://github.com/tducasse/pico8-deploy) - An easy way to export and deploy PICO-8 projects to itch.io
+*   [pico8-deploy (⭐26)](https://github.com/tducasse/pico8-deploy) - An easy way to export and deploy PICO-8 projects to itch.io
 
 ## [Mar 15 - Mar 21, 2021](/content/2021/11/README.md)
 
@@ -99,7 +105,7 @@ A curated list of awesome PICO-8 resources, carts, tools and more
 
 ### Contents / Text Editors Language Support
 
-*   Emacs: [pico8-mode (⭐21)](https://github.com/Kaali/pico8-mode)
+*   Emacs: [pico8-mode (⭐25)](https://github.com/Kaali/pico8-mode)
 
 ## [Dec 14 - Dec 20, 2020](/content/2020/50/README.md)
 
@@ -148,7 +154,7 @@ A curated list of awesome PICO-8 resources, carts, tools and more
 
 ### Contents / Tools
 
-*   [picoDeploy (⭐209)](https://github.com/torch2424/picoDeploy) - Deploy Pico-8 carts as standalone applications on desktop (Electron) and mobile (Ionic).
+*   [picoDeploy (⭐214)](https://github.com/torch2424/picoDeploy) - Deploy Pico-8 carts as standalone applications on desktop (Electron) and mobile (Ionic).
 *   [Fillp Tool](https://seansleblanc.itch.io/pico-8-fillp-tool) - A simple helper tool for generating fillp patterns.
 
 ### Contents / Clones
@@ -206,14 +212,14 @@ A curated list of awesome PICO-8 resources, carts, tools and more
 
 ### Contents / Tools
 
-*   [MIDI to PICO-8 (⭐59)](https://github.com/andmatand/midi-to-pico8) - A tool to convert MIDI files to PICO-8 music.
+*   [MIDI to PICO-8 (⭐60)](https://github.com/andmatand/midi-to-pico8) - A tool to convert MIDI files to PICO-8 music.
 
 ## [Apr 09 - Apr 15, 2018](/content/2018/15/README.md)
 
 ### Contents / Tools
 
-*   [PICO-EC (⭐45)](https://github.com/JoebRogers/PICO-EC) - A tiny scene-entity-component library created for the PICO-8 fantasty console.
-*   [PICO-Tween (⭐71)](https://github.com/JoebRogers/PICO-Tween) - A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions.
+*   [PICO-EC (⭐47)](https://github.com/JoebRogers/PICO-EC) - A tiny scene-entity-component library created for the PICO-8 fantasty console.
+*   [PICO-Tween (⭐73)](https://github.com/JoebRogers/PICO-Tween) - A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions.
 *   [p8 (⭐44)](https://github.com/jozanza/p8) - A dependency manager and build tool. Lets you share code/sprites, `require()` dependencies, and auto-reload carts on save. Works with any external code editor and supports [MoonScript](https://moonscript.org/).
 
 ## [Mar 19 - Mar 25, 2018](/content/2018/12/README.md)
@@ -226,7 +232,7 @@ A curated list of awesome PICO-8 resources, carts, tools and more
 
 ### Contents / Tools
 
-*   [Pico-Kit (⭐68)](https://github.com/outkine/pico-kit) - An opinionated collection of Pico-8 helpers that make it easier to get going.  Adds OOP, better debugging, and physics.
+*   [Pico-Kit (⭐69)](https://github.com/outkine/pico-kit) - An opinionated collection of Pico-8 helpers that make it easier to get going.  Adds OOP, better debugging, and physics.
 *   [pico8Grunt (⭐12)](https://github.com/TeamNoComplyGames/pico8Grunt) - A build system for pico8 games, using gruntjs.
 
 ## [May 29 - Jun 04, 2017](/content/2017/22/README.md)
@@ -245,18 +251,12 @@ A curated list of awesome PICO-8 resources, carts, tools and more
 
 *   [Cheat Sheet (wallpaper)](https://www.lexaloffle.com/bbs/?tid=28207) - An enhancement of the printable cheat sheet for use as a desktop wallpaper.
 
-## [Apr 17 - Apr 23, 2017](/content/2017/16/README.md)
-
-### Contents / Clones
-
-*   [PX8 (⭐906)](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
-
 ## [Mar 27 - Apr 02, 2017](/content/2017/13/README.md)
 
 ### Contents / Tools
 
 *   [p8dl - Carts Downloader - Python (⭐9)](https://github.com/franciscod/p8dl) - Downloads cartridges into the correct folder (looks at your config.txt).
-*   [Pico-8 Carts Downloader - Bash  (⭐18)](https://github.com/kikookoubis/pico-8-carts-bash-downloader) - Downloads cartridge from the BBS (single cart, whole index or dump your favourited entries) & rename them according to their metadata.
+*   [Pico-8 Carts Downloader - Bash  (⭐17)](https://github.com/kikookoubis/pico-8-carts-bash-downloader) - Downloads cartridge from the BBS (single cart, whole index or dump your favourited entries) & rename them according to their metadata.
 
 ## [Mar 13 - Mar 19, 2017](/content/2017/11/README.md)
 
@@ -294,8 +294,8 @@ A curated list of awesome PICO-8 resources, carts, tools and more
 
 ### Contents / Tools
 
-*   [pico-test (⭐37)](https://github.com/jozanza/pico-test) - PICO-8 testing framework.
-*   [Lib-Pico8 (⭐165)](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
+*   [pico-test (⭐38)](https://github.com/jozanza/pico-test) - PICO-8 testing framework.
+*   [Lib-Pico8 (⭐168)](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
 *   [pico8-missing-builtins (⭐21)](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
 
 ### Contents / Hacks - undocumented PICO-8 features
@@ -313,13 +313,13 @@ A curated list of awesome PICO-8 resources, carts, tools and more
 ### Contents / Tools
 
 *   [pico2png (⭐22)](https://github.com/briacp/pico2png) - Spritesheet extraction written in perl.
-*   [Pico8Utils (⭐50)](https://github.com/josefnpat/pico8utils) - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
+*   [Pico8Utils (⭐51)](https://github.com/josefnpat/pico8utils) - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
 
 ## [Nov 09 - Nov 15, 2015](/content/2015/45/README.md)
 
 ### Contents / Tools
 
-*   [picotool (⭐345)](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
+*   [picotool (⭐353)](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
 
 ## [Nov 02 - Nov 08, 2015](/content/2015/44/README.md)
 

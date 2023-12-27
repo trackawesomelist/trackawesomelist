@@ -2,9 +2,51 @@
 
 A curated list of awesome resources for electronic engineers and hobbyists
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kitspace/awesome-electronics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) · ⭐ 5.1K · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kitspace/awesome-electronics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) · ⭐ 5.2K · 🏷️ Hardware
 
 [ Daily / [Weekly](/content/kitspace/awesome-electronics/week/README.md) / [Overview](/content/kitspace/awesome-electronics/readme/README.md) ]
+
+## [Dec 26, 2023](/content/2023/12/26/README.md)
+
+### Learning / Courses
+
+*   [NEETS (Navy Electricity and Electronics Training Series)](https://www.fcctests.com/neets/Neets.htm) - U.S. Navy Non-Resident Training Course Material.
+*   [NPTEL](https://nptel.ac.in/course.html) - Has all free engineering courses including electronics, electrical and communcation engineering.
+*   [Udemy courses related to Electronics](https://www.udemy.com/topic/electronics/) - Top paid courses available on Udemy.
+*   [Coursera courses related to Electronics](https://www.coursera.org/courses?query=electronics) - Includes some free courses that provide e-certificates on completion.
+
+### Learning / Theory
+
+*   [Basic Electronics PPT](http://engineering.nyu.edu/gk12/amps-cbri/pdf/Basic%20Electronics.pdf) - Contains conceptual explaination of diode, BJT, J/MOS-FET, LED, 7 seg display, photo-resistor/diode/transistor
+*   [Electronics textbook](https://upload.wikimedia.org/wikipedia/commons/e/ee/Electronics.pdf) - Text covers design and function of electronic circuits and components, DC analysis, and AC analysis.
+*   [Student Handbook](http://cbseacademic.nic.in/web_material/Curriculum/Vocational/2018/Basic_Electronics_XI.pdf) - Language used in this book easily understandable covers evolution, fundamentals, diode, rectifiers, transistors and its applications, SCR, DIAC and TRIAC.
+*   [Electronics circuits and systems](http://aems.edu.sd/wp-content/uploads/2019/02/Electronics-Circuits-and-Systems-Fourth-Edition-PDFDrive.com-.pdf) - Quality free e-book covering all topics under circuits and systems, highly recommended for conceptual understanding.
+
+### Paid EDA Packages / Installable
+
+*   [Proteus](https://www.labcenter.com/) - PCB Design and Circuit Simulator Software.
+*   [Altium](https://www.altium.com/) - PCB Design Software & Tools.
+
+### Gerber Viewers / Installable
+
+*   [ZofZPCB](https://www.zofzpcb.com/) - FREE 3D Gerber Viewer.
+
+### CAD Specific / KiCad
+
+*   [KiBot (⭐459)](https://github.com/INTI-CMNB/KiBot) - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
+
+### CAD Specific / Altium
+
+*   [Altium Designer Libraries](https://www.altium.com/documentation/other_installers#!libraries) - `.IntLib` and `.PcbLib` of electronic components from different manufacturers.
+
+### Part Search Engines / Altium
+
+*   [Electronic Component Search Engine](https://componentsearchengine.com/) - Free access to schematic symbols, PCB footprints and 3D models.
+
+### Miscellaneous Software Projects / Altium
+
+*   [NinjaCalc](https://gbmhunter.github.io/NinjaCalc/) - An embedded engineering calculator toolbox for doing calculations in a breeze.
+*   [Saturn PCB Design Toolkit](https://saturnpcb.com/saturn-pcb-toolkit/) - The Saturn PCB Toolkit is the best freeware resource for PCB related calculations you can find.
 
 ## [Nov 14, 2023](/content/2023/11/14/README.md)
 
@@ -45,7 +87,7 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 *   [EasyEDA](https://easyeda.com/) - Easy to use with both browser based and cross platform app versions. Integrates [LCSC](https://www.lcsc.com/products) and [JLCPCB](https://jlcpcb.com/parts) component catalogs with 3D models.
 
-### PCB Batching Services / Eagle
+### PCB Batching Services / Altium
 
 *   [PCBWay](https://www.pcbway.com/) - Low cost PCB batching service with PCBA, CNC and 3D-Printing services.
 
@@ -53,15 +95,15 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ### Other Lists / Help
 
-*   [upb-lea/awesome-open-source-power-electronics (⭐102)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
+*   [upb-lea/awesome-open-source-power-electronics (⭐109)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
 
 ## [Jul 08, 2022](/content/2022/07/08/README.md)
 
-### Project Sharing Platforms / Eagle
+### Project Sharing Platforms / Altium
 
 *   [Eyrie](https://eyrie.io) - For viewing Eagle and KiCad designs online.
 
-### Miscellaneous Software Projects / Eagle
+### Miscellaneous Software Projects / Altium
 
 *   [Language PCB (⭐18)](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
 
@@ -69,19 +111,19 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ### Other Lists / Help
 
-*   [delftopenhardware/awesome-open-hardware (⭐296)](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
+*   [delftopenhardware/awesome-open-hardware (⭐312)](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
 
 ## [Jan 05, 2022](/content/2022/01/05/README.md)
 
 ### Simulators / Analog and Mixed Signal Circuit Simulators
 
-*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐38)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
+*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐42)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
 
 ## [Dec 17, 2021](/content/2021/12/17/README.md)
 
 ### Documentation / University Course Archives
 
-*   [Inkscape Electric Symbols (⭐210)](https://github.com/upb-lea/Inkscape_electric_Symbols) - Circuit Drawing Symbols for Inkscape
+*   [Inkscape Electric Symbols (⭐218)](https://github.com/upb-lea/Inkscape_electric_Symbols) - Circuit Drawing Symbols for Inkscape
 
 ## [Nov 07, 2021](/content/2021/11/07/README.md)
 
@@ -93,14 +135,8 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ### Other Lists / Help
 
-*   [Awesome Lattice FPGAs (⭐262)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
-*   [TM90/awesome-hwd-tools (⭐52)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
-
-## [Jun 23, 2021](/content/2021/06/23/README.md)
-
-### Learning / Theory and Courses
-
-*   [NEETS (Navy Electricity and Electronics Training Series)](https://maritime.org/doc/#neets) ([alternative link](https://github.com/thinkitdata/neets/tree/master/modules))- U.S. Navy Non-Resident Training Course Material.
+*   [Awesome Lattice FPGAs (⭐272)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
+*   [TM90/awesome-hwd-tools (⭐56)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
 
 ## [Mar 05, 2021](/content/2021/03/05/README.md)
 
@@ -114,15 +150,9 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 *   [How to design a motherboard for your electronics project](https://www.staycaffeinated.com/2021/02/21/how-to-design-a-motherboard-for-your-project-part-1) - Introductory tutorial on Schematic & PCB design
 
-## [Nov 30, 2020](/content/2020/11/30/README.md)
-
-### CAD Specific / KiCad
-
-*   [kicad-exports (⭐74)](https://github.com/nerdyscout/kicad-exports) - Auto generate files (schematics, gerbers, BoM, plots, 3D model) for any KiCAD project. Run it locally or on every `git push` with a CI like Github Actions.
-
 ## [Oct 03, 2020](/content/2020/10/03/README.md)
 
-### Blogs / Eagle
+### Blogs / Altium
 
 *   [N-O-D-E](https://n-o-d-e.net/) - Blog about DIY electronics, hardware, and technology.
 
@@ -135,21 +165,21 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ## [May 21, 2020](/content/2020/05/21/README.md)
 
-### PCB Batching Services / Eagle
+### PCB Batching Services / Altium
 
 *   [PCBShopper](https://pcbshopper.com/) - Comparison service for quite a lot of different PCB batching and assembly services.
 
-### Project Sharing Platforms / Eagle
+### Project Sharing Platforms / Altium
 
 *   [Kitspace](https://kitspace.org) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
 *   [CADLAB](https://cadlab.io/) - Another Git-based project hosting and collaboration platform for hardware development.
 
-### Inventory Management and Purchasing / Eagle
+### Inventory Management and Purchasing / Altium
 
 *   [PartsBox](https://partsbox.io) - Web service to manage your part inventory with a nice user interface and Octopart integration.
 *   [PartKeepr](https://partkeepr.org) - Open source web service for managing your part inventory with parametric search and automatic datasheet import.
 
-### Miscellaneous Software Projects / Eagle
+### Miscellaneous Software Projects / Altium
 
 *   [SnapEDA](https://www.snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCad, Altium, OrCad, Allegro, etc.)
 
@@ -160,11 +190,14 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ## [May 18, 2020](/content/2020/05/18/README.md)
 
-### Learning / Theory and Courses
+### Learning / Courses
+
+*   [Khan Academy - Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering) - Non-profit learning platform with a full course on electrical engineering and related topics.
+
+### Learning / Theory
 
 *   [Lessons In Electric Circuits](https://www.ibiblio.org/kuphaldt/electricCircuits/) - Free high quality textbooks and worksheets with emphasis on theory, simulation, and the socratic method.
 *   [Ultimate Electronics: Practical Circuit Design and Analysis](https://ultimateelectronicsbook.com/) - Free online book with interactive schematics & simulations by CircuitLab (under development).
-*   [Khan Academy - Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering) - Non-profit learning platform with a full course on electrical engineering and related topics.
 
 ### Simulators / Analog and Mixed Signal Circuit Simulators
 
@@ -179,16 +212,16 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ### CAD Specific / KiCad
 
-*   [Xesscorp's list of KiCad 3rd party tools (⭐690)](https://github.com/xesscorp/kicad-3rd-party-tools)
+*   [Xesscorp's list of KiCad 3rd party tools (⭐699)](https://github.com/xesscorp/kicad-3rd-party-tools)
 *   [KiCad.info Forums](https://forum.kicad.info) - User discussion and help forum.
-*   [Footprint Collection (⭐294)](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
+*   [Footprint Collection (⭐299)](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
 
-### Project Sharing Platforms / Eagle
+### Project Sharing Platforms / Altium
 
 *   [Hackster.io](https://www.hackster.io/) - Another social site for sharing projects. Is well organised by platform, topic and product.
 *   [InventHub](https://inventhub.io/) - Git-based project hosting and collaboration platform for hardware development.
 
-### Blogs / Eagle
+### Blogs / Altium
 
 *   [Hackster.io](https://www.hackster.io/news) - Another blog covering electronics.
 
@@ -211,11 +244,11 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ### Other Lists / Help
 
-*   [PwnKitteh/InsanelyCheapElectronics (⭐315)](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
-*   [intajay/open-electronics (⭐462)](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
-*   [Vitorian/awesome-fpga (⭐286)](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources.
-*   [cajt/list\_of\_robot\_electronics (⭐277)](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
-*   [embedded-boston/awesome-embedded-systems (⭐683)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
+*   [PwnKitteh/InsanelyCheapElectronics (⭐322)](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
+*   [intajay/open-electronics (⭐474)](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
+*   [Vitorian/awesome-fpga (⭐293)](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources.
+*   [cajt/list\_of\_robot\_electronics (⭐279)](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
+*   [embedded-boston/awesome-embedded-systems (⭐698)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
 
 ## [May 12, 2020](/content/2020/05/12/README.md)
 
@@ -265,7 +298,7 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 *   [List of ULPs everyone should know](https://www.element14.com/community/community/eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
 
-### Inventory Management and Purchasing / Eagle
+### Inventory Management and Purchasing / Altium
 
 *   [1-click BOM](https://kitspace.org/1-click-bom/) - Browser extensions that automates purchasing and part searching.
 
@@ -284,17 +317,17 @@ A curated list of awesome resources for electronic engineers and hobbyists
 ### Free EDA Packages / Installable
 
 *   [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (board size restricted) free version.
-*   [Horizon EDA (⭐965)](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
+*   [Horizon EDA (⭐980)](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
 
 ### CAD Specific / KiCad
 
-*   [InteractiveHtmlBom (⭐3.3k)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
+*   [InteractiveHtmlBom (⭐3.4k)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
 
-### PCB Batching Services / Eagle
+### PCB Batching Services / Altium
 
 *   [JLCPCB](https://jlcpcb.com/) - Low cost PCB batching service with inhouse low cost SMT service.
 
-### Blogs / Eagle
+### Blogs / Altium
 
 *   [Dangerous Prototypes](http://dangerousprototypes.com/blog/) - Blog about open source hardware projects and interesting app notes.
 
@@ -326,22 +359,22 @@ A curated list of awesome resources for electronic engineers and hobbyists
 *   [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
 *   [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial.
 
-### PCB Batching Services / Eagle
+### PCB Batching Services / Altium
 
 *   [Dirty PCBs](http://dirtypcbs.com/store/pcbs) - Low cost PCB batching service that prides itself on its "dirty" quality.
 
-### Part Search Engines / Eagle
+### Part Search Engines / Altium
 
 *   [Findchips](https://www.findchips.com/) - Part search from Supply Frame.
 
-### Development Board Retailers / Eagle
+### Development Board Retailers / Altium
 
 *   [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
 *   [Adafruit](https://www.adafruit.com/) - Another retailer and designer with excellent selection and tutorials.
 
 ### Forums / Discussion
 
-*   [EEVBlog forum](https://www.eevblog.com/forum/) - Probably the largest and most active forum to discuss electronic engineering topics.
+*   [EEVBlog forum](https://www.eevblog.com/forum/) - Probably the largest and most active forum to discuss Electronic Engineering topics.
 *   [/r/electronics](https://www.reddit.com/r/electronics/) and [/r/ECE](https://www.reddit.com/r/ECE/) are the two most active sub-reddits for EE topics.
 
 ### Videos / Help
@@ -360,19 +393,19 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ## [Feb 07, 2018](/content/2018/02/07/README.md)
 
-### Inventory Management and Purchasing / Eagle
+### Inventory Management and Purchasing / Altium
 
 *   [Part-DB (⭐160)](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
 
 ## [Nov 13, 2017](/content/2017/11/13/README.md)
 
-### PCB Batching Services / Eagle
+### PCB Batching Services / Altium
 
 *   [Aisler](https://aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
 
 ## [May 31, 2017](/content/2017/05/31/README.md)
 
-### Blogs / Eagle
+### Blogs / Altium
 
 *   [Hackaday](https://hackaday.com) - Probably the most popular blog covering electronics and hardware hacking with a whole staff of writers.
 *   [Bald Engineer](https://www.baldengineer.com) - Project logs, tutorials and articles about electronics and embedded software by James Lewis.
@@ -386,18 +419,18 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ## [Feb 10, 2017](/content/2017/02/10/README.md)
 
-### Part Search Engines / Eagle
+### Part Search Engines / Altium
 
 *   [Octopart](https://octopart.com) - Probably the most well known part search engine.
 *   [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts.
 
-### Development Board Retailers / Eagle
+### Development Board Retailers / Altium
 
 *   [Tindie](https://www.tindie.com) - Marketplace for electronics makers to sell low volume batches of their own designs.
 
 ## [Feb 06, 2017](/content/2017/02/06/README.md)
 
-### Project Sharing Platforms / Eagle
+### Project Sharing Platforms / Altium
 
 *   [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
 
@@ -422,7 +455,7 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ## [Jan 30, 2017](/content/2017/01/30/README.md)
 
-### PCB Batching Services / Eagle
+### PCB Batching Services / Altium
 
 *   [OSH Park](https://oshpark.com) - Low cost PCB batching service with high quality boards with a signature purple silkscreen.
 
@@ -450,7 +483,7 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 *   [Keyboard PCB Guide (⭐4k)](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
 
-### Blogs / Eagle
+### Blogs / Altium
 
 *   [bunniestudios.com](https://www.bunniestudios.com) - Andrew 'Bunnie' Huang covers hardware hacking, open hardware, manufacturing and more.
 

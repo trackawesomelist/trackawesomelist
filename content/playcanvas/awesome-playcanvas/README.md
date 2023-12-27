@@ -6,6 +6,13 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ Daily / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Dec 26, 2023](/content/2023/12/26/README.md)
+
+### Browser Games
+
+*   [Continental Marble Adventure](https://portfolio.redox-interactive.com/en/projects/continental-marble-adventure) - Marble game for Continental's 150 year anniversary.
+*   [Jungle Friends](https://poki.com/en/g/jungle-friends) - Earn coins by helping your animal friends.
+
 ## [Nov 17, 2023](/content/2023/11/17/README.md)
 
 ### PlayCanvas
@@ -132,12 +139,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ### Product Configurators
 
 *   [WFI](https://configurator.wfi.se/#/?lang=en) - Workstation configurator.
-
-## [Feb 06, 2022](/content/2022/02/06/README.md)
-
-### Browser Games
-
-*   [Continental Marble Adventure](https://marble-adventure.continental.com/) - Marble game for Continental's 150 year anniversary.
 
 ## [Jan 19, 2022](/content/2022/01/19/README.md)
 
@@ -315,7 +316,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### PlayCanvas
 
-*   [Engine (⭐8.7k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
+*   [Engine (⭐8.8k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
 *   [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 *   [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
 

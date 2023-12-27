@@ -2,7 +2,7 @@
 
 Explore a curated selection of AI tools and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 53 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 63 · 🏷️ Computer Science
 
 [ [Daily](/content/Hyraze/ai-collective-tools/README.md) / [Weekly](/content/Hyraze/ai-collective-tools/week/README.md) / Overview ]
 
@@ -12,7 +12,7 @@ Explore a curated selection of AI tools and resources
 
 > Explore a curated selection of AI tools and resources.
 
-We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐53)](https://github.com/Hyraze/ai-collective-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐53)](https://github.com/Hyraze/ai-collective-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
+We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐63)](https://github.com/Hyraze/ai-collective-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐63)](https://github.com/Hyraze/ai-collective-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Hyraze/ai-collective-tools)
@@ -39,6 +39,7 @@ Use these hashtags in search to filter out the tools
 # Table of Contents
 
 *   [3D](#3d)
+*   [Agriculture](#agriculture)
 *   [Art](#art)
 *   [Audio Editing](#audio-editing)
 *   [Avatars](#avatars)
@@ -94,11 +95,13 @@ Use these hashtags in search to filter out the tools
 *   [Summarizer](#summarizer)
 *   [Testing](#testing)
 *   [Text to Speech](#text-to-speech)
+*   [Text to Image](#text-to-image)
 *   [Transcriber](#transcriber)
 *   [Travel](#travel)
 *   [Video Editing](#video-editing)
 *   [Video Generator](#video-generator)
 *   [Weather](#weather)
+*   [Writing Generator](#writing-generator)
 *   [Other Resources](#other-resources)
 
 ## 3D
@@ -121,6 +124,14 @@ Use these hashtags in search to filter out the tools
 
 **[⬆️ Back to Top](#table-of-contents)**
 
+## Agriculture
+
+*   [Cybertiks](https://cybertiks.com/) - Revolutionizing Agriculture and Environmental Monitoring with AI `#paid`
+*   [GreenThumb](https://www.messengerx.io/) - Unlock the World of Gardening with Your AI Companion `#free`
+*   [Vinetribe](https://vinetribe.co/concierge) - Fosters an inclusive wine community through guided at-home tastings `#free`
+
+**[⬆️ Back to Top](#table-of-contents)**
+
 ## Art
 
 *   [BlueWillow](https://www.bluewillow.ai) - Prompt based AI image generating tool for logos, characters, digital artwork, etc. `#free`
@@ -134,6 +145,7 @@ Use these hashtags in search to filter out the tools
 
 ## Audio Editing
 
+*   [AI Sound Copilot](https://www.waanda.org/) - Effortless Sound Effects Creation for Videos and Games `#free`
 *   [Audiogen](https://www.audiogen.co/) - Elevate Your Creations with AI-Generated Sounds `#freemium`
 *   [CrystalSound](https://crystalsound.ai/) - Experience noise-free audio with AI.`#freemium`
 *   [Gladia](https://www.gladia.io/) - Speech-to-Text API. `#freemium`
@@ -159,6 +171,7 @@ Use these hashtags in search to filter out the tools
 *   [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF. `#free`
 *   [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation. `#freemium`
 *   [MediSearch](https://medisearch.io) - This tool is a medical AI chatbot which gives you direct science-based answers to medical questions `#free`
+*   [Phind](https://www.phind.com/) - An AI-powered coding and technical assistant, making complex tasks simpler. `#freemium`
 *   [Smitty](https://www.smitty.ai/) - Streamlining processes and providing agile, efficient responses to your unique business needs. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -223,6 +236,7 @@ Use these hashtags in search to filter out the tools
 *   [Book Witch](https://bookwitch.io/) - Use the power of AI to create complete e-books with just one click! `#freemium`
 *   [Canva](https://www.canva.com/) - Use it to create social media posts, presentations, posters, videos, logos and more. `#freemium`
 *   [Designs AI](https://designs.ai/) - Make a logo, video, social media banner, business card, flyer, mockup and more with AI. `#freemium`
+*   [Stream Slides](https://streamslide.io/) - YouTube Video to Slides Converter. `#free`
 
 ## Developer
 
@@ -233,6 +247,7 @@ Use these hashtags in search to filter out the tools
 ## E-Commerce
 
 *   [Aidaptive](https://aidaptive.com/request-demo) - Predictive personalization engines for eCommerce and Hospitality `#paid`
+*   [Hulk](https://hulkhelper-ai.webflow.io/) - Personalized Shopping Experience `#free`
 *   [Lumiere 3D](https://www.lumiere3d.ai/) - This tool is verified because it is either an established company or has good social media presence `#paid`
 *   [Sellesta](https://sellesta.com/marketplace/) - Revamp your Amazon business with Sellesta AI tools! Keyword Research, Listing Optimization, and Keyword Tracking. `#freemium`
 
@@ -246,6 +261,7 @@ Use these hashtags in search to filter out the tools
 *   [Formative AI](https://www.formative.com/ai-powered) - AI tool that assists teachers in assessing their students’ work. `#free`
 *   [Gradescope](https://www.gradescope.com/) - AI-powered grading and assessment tool. `#freemium`
 *   [Huxli.ai](https://huxli.ai/) - Elevate Your Writing, Supercharge Your Productivity `#freemium`
+*   [PagePundit](https://pagepundit.com/) - Discover Tailored Book Suggestions Effortlessly `#free`
 *   [QuillBot](https://quillbot.com/) - AI-powered paraphrasing tool. `#freemium`
 *   [SlidesAI.io](https://www.slidesai.io/) - powerful AI tool that can help teachers create visually appealing and engaging presentations for their classroom teaching instantly. `#freemium`
 *   [Sibyl AI](https://sibyls.ai/) - Provide guidance, insights, and support for individuals at different levels of spiritual exploration, from neophytes to adepts and holistic practitioners. `#paid`
@@ -278,7 +294,6 @@ Use these hashtags in search to filter out the tools
 ## Finance
 
 *   [BeeBee AI](https://www.beebee.ai/) - Financial reports and earnings calls become easily understandable with key insights for everyday investors. `#free`
-*   [Coachify](https://coachify.ai/) - Your Personalized Fitness Coach Powered by AI `#paid`
 *   [Coinfeeds](https://chat.coinfeeds.io/) - Your Crypto Chatbot Companion, ask it anything! `#free`
 *   [Durable](https://durable.co/) - Build a website in 30 seconds with AI, leveraging AI-powered design and marketing tools to boost traffic and increase revenue. `#freemium`
 *   [EarningsEdge](https://www.earningsedge.ai/) - Gain the Edge in Competitive Investing `#freemium`
@@ -294,6 +309,7 @@ Use these hashtags in search to filter out the tools
 *   [PPLEGPT](https://pplegpt.vercel.app/) - Your next exercise in seconds `#free`
 *   [Sista.AI](https://sista.ai/fitness-coach) - Personalized workout plans, goal setting, nutrition coaching, injury prevention, mind-body connection, and ongoing support to help you achieve your fitness goals. `#paid`
 *   [Zing Coach](https://zing.body.scan.zingproduction.com/) - AI-powered fitness tool, streamlines the process of evaluating fitness levels `#free`
+*   [Coachify](https://coachify.ai/) - Your Personalized Fitness Coach Powered by AI `#paid`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -301,6 +317,7 @@ Use these hashtags in search to filter out the tools
 
 *   [BabbleBox](https://babblebox.ai/) - AI tool that enhances conversational experiences by emulating human-like conversations `#free`
 *   [ComicifyAI](https://comicify-ai.vercel.app/) - Turn Text into Captivating Comics with ComicifyAI `#free`
+*   [Convenient Hairstyle](https://hairstyle.cvhtechnology.com/) - Transform Your Look with Personalized Hairstyle Exploration `#free`
 *   [Dream Interpreter](https://dreaminterpreter.ai/) - Dream interpreter using GPT-3 `#free`
 *   [GreenThumb](https://www.messengerx.io/greenthumb) - Unlock the World of Gardening with Your AI Companion `#free`
 *   [SomniAI](https://somniai.com/) - Offers accurate and personalized interpretations of dreams in seconds. `#free`
@@ -360,6 +377,7 @@ Use these hashtags in search to filter out the tools
 ## HealthCare
 
 *   [Enlitic ](https://enlitic.com/) - an AI-driven application that lets you transform big data into relevant insights that can help you make more accurate, strategic, and timely decisions. `#paid`
+*   [MIRI](https://www.miri.health/) - Comprehensive Wellness Platform That Puts Experts in Your Pocket 24/7 `#free`
 *   [Viz.AI](https://www.viz.ai/) - Offers a wide range of features to help healthcare professionals run their operations more efficiently and accurately. `#paid`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -387,22 +405,18 @@ Use these hashtags in search to filter out the tools
 ## Image Generator
 
 *   [AI Passport Photo](https://aipassportphoto.com/) - Take A Photo with Your Mobile Phone and Get Your Passport Photo in Seconds. `freemium`
-
-*   [Ideaogram](https://ideogram.ai/t/trending) - This tool helps us to generate text in a image `#free`
-
+*   [Ideaogram](https://ideogram.ai/t/trending) - This tool helps us to generate text in an image `#free`
+*   [ImageCreator](https://imagecreator.alkaidvision.com/) - A Professional PS plug-in powered by AI `#free`
 *   [Imagine](https://www.imagine.art) - Text to image with AI Art Generator `#freemium`
-
 *   [Kaiber](https://kaiber.ai/) - Tell stories like never before with our advanced AI generation engine `#freemium`
-
 *   [MergeML](https://mergeml.com/) - Lightning Fast Image Generation `#free`
-
 *   [Midjourney AI](https://www.midjourneyai.ai/) - Just enter your prompt and click the generate button.No code required to generate your image!
-
 *   [Novita.ai](https://novita.ai/) - Novita is your go-to solution for fast and affordable AI image generation. `#paid`
-
+*   [removebg](https://remove.bg/) - Remove any Image Background `#free`
+*   [Stable Diffusion Online](https://stablediffusionweb.com/#ai-image-generator) - text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds. `#opensource`
 *   [Picsart](https://picsart.com/ai-image-generator/) - Convert words into an image in mere seconds with the Picsart AI Image Generator. `#freemium`
-
 *   [Wepik AI](https://wepik.com/ai) - Text to Image Converter `#free`
+*   [Zoo](https://zoo.replicate.dev/) - Text-to-Image Playground `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -448,7 +462,7 @@ Use these hashtags in search to filter out the tools
 *   [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. `#opensource` `#free`
 *   [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code. `#freemium`
 *   [OPT](https://opt.alpa.ai/) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. `#opensource` `#free`
-*   [Qwen (⭐6k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
+*   [Qwen (⭐7.7k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
 *   [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -483,6 +497,7 @@ Use these hashtags in search to filter out the tools
 *   [DigestDiff](https://www.digestdiff.com/) - Codebase Insights Without Code Access with DigestDiff `#free`
 *   [Message AI](https://apps.apple.com/us/app/message-ai-gpt-tts/id6448740961) - Transform Text to Speech with Natural Accuracy `#paid`
 *   [Notion](https://www.notion.so/product/ai/) - Access the limitless power of AI, right inside Notion. Work faster. Write better. Think bigger. `#paid`
+*   [Posylanki](https://www.posylanki.live/) - Streamline Web Content Management & Enhance Browsing Experience `#free`
 *   [Releases Notes](https://www.releasesnotes.dev/) - Effortless Release Notes with Automation. `#free`
 *   [Scribot](https://play.google.com/store/apps/details?id=com.scribot.app) - Efficient Note-Taking with AI `#free`
 *   [Supermanage AI](https://supermanage.ai/) - Effortless prep for your 1-on-1 `#free`
@@ -545,6 +560,7 @@ Use these hashtags in search to filter out the tools
 
 ## Search Engine
 
+*   [Andi](https://andisearch.com/) - Andi is a generative AI-powered search engine `#free`
 *   [Anse](https://anse.app/) - Your Elegant AI Answer Companion `#paid`
 *   [GPTGO](https://googpt.ai/) - ChatGPT combined with Google search `#free`
 *   [Hai News](https://hai.news/) - Search with generative AI - Hai News `#free`
@@ -554,6 +570,7 @@ Use these hashtags in search to filter out the tools
 ## SEO
 
 *   [Adaptify](https://www.adaptify.ai/) - Empower Business Success with AI-Powered ChatGPT `#paid`
+*   [AutoBlogging Pro](https://autoblogging.pro/) - AI-Powered Content Automation for WordPress Blogs `#freemium`
 *   [Frase](https://www.frase.io/) - Content optimization tool that helps businesses create SEO-friendly content quickly and easily. `#paid`
 *   [Surfer SEO](https://surferseo.com/) - SEO tool that helps users optimize their content for better search engine rankings. `#paid`
 *   [GrowthBar](https://www.growthbarseo.com/) - SEO tool designed to help marketers, bloggers, and content teams create SEO-friendly content. `#paid`
@@ -620,6 +637,8 @@ Use these hashtags in search to filter out the tools
 ## Summarizer
 
 *   [ChatGPT Summary Assistant](https://chrome.google.com/webstore/detail/chatgpt-summary-assistant/nnjcoododbeemlmmhbfmmkbneniepaog) - Free AI-Powered Chrome Extension for Instant Article Summaries `#free`
+*   [Earkind](https://www.earkind.com/) - AI-Generated Podcasts on AI Topics `#free`
+*   [LeaseLens](https://leaselens.ai/) - Automate the extraction of crucial data points from real estate and commercial lease documents `#free`
 *   [Neural Times](https://www.neuraltimes.org/) - Your Unbiased AI-Powered News Source `#free`
 *   [Quill](https://apps.apple.com/us/app/quill-news-digest/id1669557131) - The AI Way to Stay Informed `#free`
 *   [Recall](https://www.recall.wiki/) - Summarize YouTube videos, blog posts, PDFs, articles or any other online content. `#freemium`
@@ -640,10 +659,17 @@ Use these hashtags in search to filter out the tools
 
 **[⬆️ Back to Top](#table-of-contents)**
 
+## Text to Image
+
+*   [FollowFox](https://followfox.ai/) - Open-source text-to-image generator with impressive features and capabilities. `#free`
+
+**[⬆️ Back to Top](#table-of-contents)**
+
 ## Transcriber
 
 *   [HappySRT](https://www.happysrt.com/) - Generate SRT Files for youtube using AI Technology `#freemium`
 *   [PodPilot](https://www.podpilot.ai/) - PodPilot is an AI tool designed to simplify the process of creating high-quality podcast series for organizations `#paid`
+*   [VideoToBlog](https://www.videotoblog.ai/) - Convert YouTube videos to blog content in one click `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -663,11 +689,20 @@ Use these hashtags in search to filter out the tools
 
 ## Video Generator
 
+*   [Chromox](https://chromox.alkaidvision.com/) - Transforming Ideas into Visual Stories. `#free`
+*   [D-ID](https://www.d-id.com/) - D-ID is a platform to generate videos. `#freemium`
 *   [Heygen](https://www.heygen.com/) - Create videos from text in minutes with AI-generated avatars and voices. `#freemium`
 *   [Invideo](https://invideo.io/) - InVideo simplifies video creation with ready-made templates. `#freemium`
 *   [Pictory AI](https://pictory.ai/) - Pictory AI is a video creation tool that makes it effortless to produce short videos from your long-form content like scripts, posts `#paid`
 *   [Quickads](https://www.quickads.ai/) - AI Ad Creation Platform for all your Ad Campaigns. `#freemium`
 *   [Vidnoz](https://www.vidnoz.com/) - Use Vidnoz AI and Vidnoz Flex to make winning videos! `#freemium`
+
+**[⬆️ Back to Top](#table-of-contents)**
+
+## Writing Generator
+
+*   [Bidlytics](https://www.bidlytics.co/) - Master the Art of Government Contracting `#freemium`
+*   [Free Essay Generator](https://academichelp.net/free-essay-generator/) - Assists students and writers in creating high-quality essays effortlessly. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
