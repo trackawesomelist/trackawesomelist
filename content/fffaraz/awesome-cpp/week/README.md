@@ -29,6 +29,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [Cpptrace (⭐251)](https://github.com/jeremy-rifkin/cpptrace) - A simple, portable, and self-contained C++ stacktrace library supporting C++11 and greater. \[MIT]
 
+### GUI
+
+*   [TGUI (⭐713)](https://github.com/texus/TGUI) - Cross-platform modern c++ GUI. \[Zlib] [website](https://tgui.eu/)
+
 ### Graphics
 
 *   [LunaSVG (⭐711)](https://github.com/sammycage/lunasvg) - a standalone SVG rendering library in C++. \[MIT]

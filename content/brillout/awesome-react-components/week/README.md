@@ -8,6 +8,10 @@ Curated List of React Components & Libraries.
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
+### Form Components / Date / Time picker
+
+*   [schedule-x (⭐5)](https://github.com/schedule-x/schedule-x) - Material design event calendar and date picker components. Demo site: <https://schedule-x.dev/>
+
 ### Databases / Lazy Load
 
 *   [BCMS (⭐156)](https://github.com/bcms/cms) - API-based, open-source, self-hostable content management system for Gatsby, Nuxt and Next.
@@ -965,10 +969,6 @@ Curated List of React Components & Libraries.
 
 ## [Jan 27 - Feb 02, 2020](/content/2020/4/README.md)
 
-### Form Components / Date / Time picker
-
-*   [react-nice-dates (⭐1.1k)](https://github.com/hernansartorio/react-nice-dates) - [demo/docs](https://reactnicedates.hernansartorio.com/) A responsive, touch-friendly, and modular date picker library.
-
 ### Form Components / Input Types
 
 *   [react-input-mask (⭐2.2k)](https://github.com/sanniassin/react-input-mask) - [demo](http://sanniassin.github.io/react-input-mask/demo.html) - Yet another react component for input masking.
@@ -1091,10 +1091,6 @@ Curated List of React Components & Libraries.
 *   [rut (⭐16)](https://github.com/milesj/rut) - React testing made easy with `react-test-renderer`. Supports DOM and custom renderers.
 
 ## [Dec 30 - Jan 05, 2019](/content/2019/52/README.md)
-
-### Form Components / Date / Time picker
-
-*   [react-datepicker2 (⭐230)](https://github.com/mberneti/react-datepicker2) - [demo](https://mberneti.github.io/react-datepicker2/) - [docs](https://mberneti.github.io/react-datepicker2/) A simple and reusable datepicker component (with persian jalali calendar support).
 
 ### Data Store / Mouse Events
 
@@ -1410,13 +1406,10 @@ Curated List of React Components & Libraries.
 ### Form Components / Date / Time picker
 
 *   [react-big-calendar (⭐7.1k)](https://github.com/intljusticemission/react-big-calendar) - Gcal/outlook like calendar component.
-*   [react-date-range (⭐2.5k)](https://github.com/Adphorus/react-date-range) - A React component for choosing dates and date ranges.
 *   [react-datepicker (⭐7.6k)](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React.
-*   [react-datetime (⭐2k)](https://github.com/YouCanBookMe/react-datetime) - A lightweight but complete datetime picker react component.
 *   [react-day-picker (⭐5.5k)](https://github.com/gpbl/react-day-picker) - Flexible date picker for React.
 *   [react-flatpickr (⭐582)](https://github.com/coderhaoxin/react-flatpickr) - Flatpickr for React.
 *   [react-simple-timefield (⭐94)](https://github.com/antonfisher/react-simple-timefield) - [demo](https://antonfisher.com/react-simple-timefield/) - Simple time input field.
-*   [react-yearly-calendar (⭐554)](https://github.com/BelkaLab/react-yearly-calendar) - React.js Yearly Calendar Component.
 
 ### Form Components / Input Types
 

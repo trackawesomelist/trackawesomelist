@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Dec 28, 2023](/content/2023/12/28/README.md)
+
+### Software / Internet of Things (IoT)
+
+*   [Tasmota](https://tasmota.com) - Open source firmware for ESP devices. Total local control with quick setup and updates. Control using MQTT, Web UI, HTTP or serial. Automate using timers, rules or scripts. Integration with home automation solutions. ([Source Code (⭐21k)](https://github.com/arendst/Tasmota)) `GPL-3.0` `C/C++`
+
 ## [Dec 26, 2023](/content/2023/12/26/README.md)
 
 ### Software / Communication - Email - Complete Solutions

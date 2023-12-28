@@ -6,6 +6,12 @@ Curated List of React Components & Libraries.
 
 [ Daily / [Weekly](/content/brillout/awesome-react-components/week/README.md) / [Overview](/content/brillout/awesome-react-components/readme/README.md) ]
 
+## [Dec 28, 2023](/content/2023/12/28/README.md)
+
+### Form Components / Date / Time picker
+
+*   [schedule-x (⭐5)](https://github.com/schedule-x/schedule-x) - Material design event calendar and date picker components. Demo site: <https://schedule-x.dev/>
+
 ## [Dec 26, 2023](/content/2023/12/26/README.md)
 
 ### Databases / Lazy Load
@@ -1082,12 +1088,6 @@ Curated List of React Components & Libraries.
 
 *   [primereact (⭐5k)](https://github.com/primefaces/primereact) - A complete UI Framework with 50+ components featuring material, bootstrap and custom themes.
 
-## [Jan 22, 2020](/content/2020/01/22/README.md)
-
-### Form Components / Date / Time picker
-
-*   [react-nice-dates (⭐1.1k)](https://github.com/hernansartorio/react-nice-dates) - [demo/docs](https://reactnicedates.hernansartorio.com/) A responsive, touch-friendly, and modular date picker library.
-
 ## [Jan 20, 2020](/content/2020/01/20/README.md)
 
 ### Form Components / Input Types
@@ -1213,12 +1213,6 @@ Curated List of React Components & Libraries.
 ### Test / Lazy Load
 
 *   [rut (⭐16)](https://github.com/milesj/rut) - React testing made easy with `react-test-renderer`. Supports DOM and custom renderers.
-
-## [Dec 28, 2019](/content/2019/12/28/README.md)
-
-### Form Components / Date / Time picker
-
-*   [react-datepicker2 (⭐230)](https://github.com/mberneti/react-datepicker2) - [demo](https://mberneti.github.io/react-datepicker2/) - [docs](https://mberneti.github.io/react-datepicker2/) A simple and reusable datepicker component (with persian jalali calendar support).
 
 ## [Dec 23, 2019](/content/2019/12/23/README.md)
 
@@ -1664,12 +1658,9 @@ Curated List of React Components & Libraries.
 ### Form Components / Date / Time picker
 
 *   [react-big-calendar (⭐7.1k)](https://github.com/intljusticemission/react-big-calendar) - Gcal/outlook like calendar component.
-*   [react-date-range (⭐2.5k)](https://github.com/Adphorus/react-date-range) - A React component for choosing dates and date ranges.
 *   [react-datepicker (⭐7.6k)](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React.
-*   [react-datetime (⭐2k)](https://github.com/YouCanBookMe/react-datetime) - A lightweight but complete datetime picker react component.
 *   [react-day-picker (⭐5.5k)](https://github.com/gpbl/react-day-picker) - Flexible date picker for React.
 *   [react-flatpickr (⭐582)](https://github.com/coderhaoxin/react-flatpickr) - Flatpickr for React.
-*   [react-yearly-calendar (⭐554)](https://github.com/BelkaLab/react-yearly-calendar) - React.js Yearly Calendar Component.
 
 ### Form Components / Input Types
 

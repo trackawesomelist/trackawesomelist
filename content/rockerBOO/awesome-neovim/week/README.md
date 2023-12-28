@@ -37,6 +37,10 @@ Collections of awesome neovim plugins.
 
 *   [rolv-apneseth/tfm.nvim (⭐19)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi (⭐4.5k)](https://github.com/sxyazi/yazi)).
 
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [scottmckendry/cyberdream.nvim (⭐39)](https://github.com/scottmckendry/cyberdream.nvim) - A high-contrast, futuristic & vibrant coloursheme.
+
 ### Icon / Diagnostics
 
 *   [2KAbhishek/nerdy.nvim (⭐58)](https://github.com/2KAbhishek/nerdy.nvim/) - Find and insert the latest nerd font glyphs.
