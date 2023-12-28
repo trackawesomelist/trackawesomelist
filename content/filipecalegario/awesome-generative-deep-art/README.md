@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Dec 28, 2023](/content/2023/12/28/README.md)
+
+### Auxiliary tools and concepts / Deforum
+
+*   [FairyTailAI](https://fairytailai.com/): Personalized bedtime story generator
+
 ## [Dec 26, 2023](/content/2023/12/26/README.md)
 
 ### Generative AI history, maps, and definitions

@@ -47,6 +47,7 @@ Use these hashtags in search to filter out the tools
 *   [Code Assistant](#code-assistant)
 *   [Cooking](#cooking)
 *   [Copywriting](#copywriting)
+*   [Crypto](#crypto)
 *   [Customer Support](#customer-support)
 *   [Dating](#dating)
 *   [Design Assistant](#design-assistant)
@@ -75,6 +76,7 @@ Use these hashtags in search to filter out the tools
 *   [Models](#models)
 *   [Music](#music)
 *   [Paraphraser](#paraphraser)
+*   [Personal Assistant](#personal-assistant)
 *   [Presentations](#presentations)
 *   [Productivity](#productivity)
 *   [Prompt Generator](#prompt-generator)
@@ -193,6 +195,7 @@ Use these hashtags in search to filter out the tools
 ## Cooking
 
 *   [dishgen](https://www.dishgen.com/) - DishGen is a smart recipe assistant that can simplify healthy cooking for you. `#freemium`
+*   [Mr. Cook](https://www.mrcook.app/en/tools/recipe-generator) - Your AI-Powered Recipe Generator `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -200,6 +203,12 @@ Use these hashtags in search to filter out the tools
 
 *   [Heroguide](https://www.heroguide.ai/) - Craft your unique brand message effortlessly with the Heroguide. `#free`
 *   [SmartBird](https://smartbird.ai/) - SmartBird: Your AI Assistant for Effortless Communication `#paid`
+
+**[⬆️ Back to Top](#table-of-contents)**
+
+## Crypto
+
+*   [Coinfeeds](https://chat.coinfeeds.io/)- Your Crypto Chatbot Companion, ask it anything! `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -398,6 +407,8 @@ Use these hashtags in search to filter out the tools
 
 ## Image Editing
 
+*   [AIPhotoeditor](https://photoeditor.ai/) - AIPhotoeditor is a free photo editor that allows users to remove unwanted objects, people, blemishes, or text from their images in seconds. `#free`
+*   [Image Candy](https://imgcandy.com/) - Online Image Editor - Image Candy `#free`
 *   [Photostockeditor](https://photostockeditor.com/tools/socialmedia-resize) - Intelligence Image Crop/Resize: Perfectly Tailored Social Media Images `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -408,13 +419,15 @@ Use these hashtags in search to filter out the tools
 *   [Ideaogram](https://ideogram.ai/t/trending) - This tool helps us to generate text in an image `#free`
 *   [ImageCreator](https://imagecreator.alkaidvision.com/) - A Professional PS plug-in powered by AI `#free`
 *   [Imagine](https://www.imagine.art) - Text to image with AI Art Generator `#freemium`
+*   [Ipic.ai](https://www.ipic.ai/) - Ipic.ai is a free AI image generator that can effortlessly create unique AI art. `#free`
 *   [Kaiber](https://kaiber.ai/) - Tell stories like never before with our advanced AI generation engine `#freemium`
 *   [MergeML](https://mergeml.com/) - Lightning Fast Image Generation `#free`
 *   [Midjourney AI](https://www.midjourneyai.ai/) - Just enter your prompt and click the generate button.No code required to generate your image!
 *   [Novita.ai](https://novita.ai/) - Novita is your go-to solution for fast and affordable AI image generation. `#paid`
+*   [Picsart](https://picsart.com/ai-image-generator/) - Convert words into an image in mere seconds with the Picsart AI Image Generator. `#freemium`
 *   [removebg](https://remove.bg/) - Remove any Image Background `#free`
 *   [Stable Diffusion Online](https://stablediffusionweb.com/#ai-image-generator) - text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds. `#opensource`
-*   [Picsart](https://picsart.com/ai-image-generator/) - Convert words into an image in mere seconds with the Picsart AI Image Generator. `#freemium`
+*   [Top VS Best](https://topvsbest.com/aiimagecreator/) - Effortlessly craft mesmerizing and exclusive images through our AI-powered image generation. `#free`
 *   [Wepik AI](https://wepik.com/ai) - Text to Image Converter `#free`
 *   [Zoo](https://zoo.replicate.dev/) - Text-to-Image Playground `#free`
 
@@ -484,6 +497,13 @@ Use these hashtags in search to filter out the tools
 
 **[⬆️ Back to Top](#table-of-contents)**
 
+## Personal Assistant
+
+*   [ChatGPT Sidebar](https://chatgpt-sidebar.com/) - AI & you work side by side on any page `#free`
+*   [Pathfinder](https://www.summit.im/pathfinder/) - Pathfinder, brought to you by Summit, is an innovative AI-driven tool designed to assist individuals in creating personalized plans and strategies to achieve their goals. `#free`
+
+**[⬆️ Back to Top](#table-of-contents)**
+
 ## Presentations
 
 *   [Journey.io](https://journey.io/) - Journey.io is a storytelling platform that enables users to create interactive presentations, combining videos, slides, text, and embeds to captivate their audience. `#freemium`
@@ -495,6 +515,7 @@ Use these hashtags in search to filter out the tools
 *   [40h](https://40h.io/) - Map your career path and unlock your potential with the guidance of 40h. `#paid`
 *   [Accountabilabuddy](https://www.summit.im/accountabilabuddy) - Sends simple text reminders to help you stay on track and achieve your objectives. `#free`
 *   [DigestDiff](https://www.digestdiff.com/) - Codebase Insights Without Code Access with DigestDiff `#free`
+*   [Glimpse](https://glimpse.surf/) - Seamless browsing experience with conversation, writing, and editing assistance `#free`
 *   [Message AI](https://apps.apple.com/us/app/message-ai-gpt-tts/id6448740961) - Transform Text to Speech with Natural Accuracy `#paid`
 *   [Notion](https://www.notion.so/product/ai/) - Access the limitless power of AI, right inside Notion. Work faster. Write better. Think bigger. `#paid`
 *   [Posylanki](https://www.posylanki.live/) - Streamline Web Content Management & Enhance Browsing Experience `#free`
@@ -507,6 +528,7 @@ Use these hashtags in search to filter out the tools
 
 ## Prompt Generator
 
+*   [Geniea](https://geniea.com/) - Generated prompts for personal journeys. `#free`
 *   [PromptFolder](https://promptfolder.com/) - Allows users to create, save, and explore innovative prompts with features like variables, organization, and sharing. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -549,6 +571,7 @@ Use these hashtags in search to filter out the tools
 
 *   [LoopCV](https://www.loopcv.pro/) - Upload your CV, Select the type of Job You Want, and Press Start! Loopcv will Mass Apply on your behalf Every Single Day `#freemium`
 *   [resumA.I.](https://www.resumai.com/) - resumA.I. is a next generation intelligent resume builder for enabling more effective job applications `#freemium`
+*   [Resume AI Scanner](https://pdf.ai/tools/resume-ai-scanner) - Assists in assessing candidates by scanning their resumes, extracting relevant information, and generating questions to evaluate their suitability for a position. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -564,6 +587,7 @@ Use these hashtags in search to filter out the tools
 *   [Anse](https://anse.app/) - Your Elegant AI Answer Companion `#paid`
 *   [GPTGO](https://googpt.ai/) - ChatGPT combined with Google search `#free`
 *   [Hai News](https://hai.news/) - Search with generative AI - Hai News `#free`
+*   [Opera One Browser](https://www.opera.com/one) - Opera One offers a liquid navigation experience with a focus on modular design and AI-powered web services. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -616,6 +640,7 @@ Use these hashtags in search to filter out the tools
 ## Startup Tools
 
 *   [ClickUp](https://clickup.com/) - All of your work in one place: Tasks, Docs, Chat, Goals, & more. `#free`
+*   [Cookup.ai](https://cookup.ai/) - AI apps for every usecase `#free`
 *   [DeskDay](https://deskday.ai/) - Revolutionizing IT Support for MSPs `#paid`
 *   [Jasper AI](https://www.jasper.ai/) - Jasper is an AI copilot for enterprise marketing teams. `#paid`
 *   [Namelix](https://namelix.com/) - Generate short, brandable business names & domain names. `#free`
@@ -667,6 +692,7 @@ Use these hashtags in search to filter out the tools
 
 ## Transcriber
 
+*   [AI Transcription by Riverside](https://riverside.fm/transcription) - Video and audio transcription `#free`
 *   [HappySRT](https://www.happysrt.com/) - Generate SRT Files for youtube using AI Technology `#freemium`
 *   [PodPilot](https://www.podpilot.ai/) - PodPilot is an AI tool designed to simplify the process of creating high-quality podcast series for organizations `#paid`
 *   [VideoToBlog](https://www.videotoblog.ai/) - Convert YouTube videos to blog content in one click `#free`
@@ -676,6 +702,7 @@ Use these hashtags in search to filter out the tools
 ## Travel
 
 *   [PLAN by Ixigo](https://www.ixigo.com/) - Your AI-Powered Travel Planning Companion `#free`
+*   [Roam Around](https://www.roamaround.io/) - Find interesting and fun places to visit `#free`
 *   [Travelnaut](https://travelnaut.com/) - Find travel information on attractions, food, culture, and more in one place to prepare the next trip of your dreams `#free`
 *   [WanderGenie](https://www.wandergenie.app/) - Transform the way you explore the world. `#free`
 
@@ -684,6 +711,7 @@ Use these hashtags in search to filter out the tools
 ## Video Editing
 
 *   [FineShare FineCam](https://www.fineshare.com/finecam/) - Transform your video calls and recordings with FineShare FineCam's advanced capabilities `#paid`
+*   [Thumbnail Ai](https://thumbnail-ai.ybouane.com/) - Will provide reviews of youtube thumbnails using AI `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 

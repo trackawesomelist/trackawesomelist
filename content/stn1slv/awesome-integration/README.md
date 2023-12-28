@@ -6,6 +6,30 @@ A curated list of awesome system integration software and resources.
 
 [ Daily / [Weekly](/content/stn1slv/awesome-integration/week/README.md) / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
+## [Dec 28, 2023](/content/2023/12/28/README.md)
+
+### Projects / API Design
+
+*   [OpenAPI Diff (⭐704) (⭐702)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+
+### Projects / API Gateway
+
+*   [KrakenD API Gateway (⭐1.6k) (⭐1.6k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance API Gateway that leverages middlewares for fast and efficient API management.
+
+### Projects / Integration Frameworks
+
+*   [Frank!Framework (⭐86) (⭐86)](https://github.com/frankframework/frankframework) - A Low-Code Java-based messaging framework to connect your system and application data, that is completely configurable through XML configurations.
+
+### Projects / Messaging
+
+*   [Eclipse Mosquitto (⭐8k) (⭐8k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
+*   [Redpanda (⭐8.2k) (⭐8.2k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
+
+### Resources / Data Formats
+
+*   [NDJSON (⭐608) (⭐607)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+*   [YAML (⭐280) (⭐280)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+
 ## [Dec 27, 2023](/content/2023/12/27/README.md)
 
 ### Projects / API Management
@@ -15,7 +39,6 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / API Design
 
-*   [OpenAPI Diff (⭐701) (⭐702)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
 *   [Zally (⭐860) (⭐860)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
 
 ### Projects / API Documentation
@@ -90,11 +113,6 @@ A curated list of awesome system integration software and resources.
 *   [Flowable (⭐7k) (⭐7k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
 *   [Temporal (⭐8.7k) (⭐8.8k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
 
-### Resources / Data Formats
-
-*   [NDJSON (⭐607) (⭐607)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-*   [YAML (⭐279) (⭐280)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
-
 ### Resources / Protocols
 
 *   [OpenMessaging (⭐285) (⭐285)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
@@ -105,10 +123,6 @@ A curated list of awesome system integration software and resources.
 
 *   [Red Hat Fuse](https://developers.redhat.com/products/fuse/overview) - A cloud-native integration platform that supports distributed integration capabilities.
 
-### Projects / Messaging
-
-*   [Redpanda (⭐8.1k) (⭐8.2k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
-
 ## [Nov 29, 2023](/content/2023/11/29/README.md)
 
 ### Projects / API Design
@@ -118,10 +132,6 @@ A curated list of awesome system integration software and resources.
 ### Projects / API Documentation
 
 *   [DapperDox (⭐390) (⭐390)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
-
-### Projects / Messaging
-
-*   [Eclipse Mosquitto (⭐7.9k) (⭐8k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
 
 ### Resources / API Specification
 
@@ -198,12 +208,6 @@ A curated list of awesome system integration software and resources.
 ### Resources / Data Formats
 
 *   [Apache Avro (⭐2.6k) (⭐2.7k)](https://github.com/apache/avro) - Data serialization system that provides compact, fast, and efficient serialization of structured data. It supports schema evolution, allows for efficient data compression, and is designed to work well with big data processing frameworks.
-
-## [Oct 25, 2023](/content/2023/10/25/README.md)
-
-### Projects / API Gateway
-
-*   [KrakenD API Gateway (⭐1.5k) (⭐1.6k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance API Gateway that leverages middlewares for fast and efficient API management.
 
 ## [Oct 24, 2023](/content/2023/10/24/README.md)
 

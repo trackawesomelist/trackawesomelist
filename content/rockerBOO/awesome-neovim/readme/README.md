@@ -713,6 +713,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [ariel-frischer/bmessages.nvim (⭐8)](https://github.com/ariel-frischer/bmessages.nvim) - Replace the default :messages window with a configurable, auto-updating buffer.
 *   [LintaoAmons/easy-commands.nvim (⭐32)](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands.
 *   [backdround/tabscope.nvim (⭐27)](https://github.com/backdround/tabscope.nvim) - Make tab-local buffers.
+*   [linrongbin16/gentags.nvim (⭐2)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
 
 ## Terminal Integration
 

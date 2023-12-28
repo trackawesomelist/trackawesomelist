@@ -502,171 +502,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ClaraCrazy (⭐30)](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
 
-#### [39. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
-
-##### Generative AI history, maps, and definitions
-
-*   [GenAI Prism Infographic by Brian Solis](https://briansolis.com/2023/12/introducing-the-genai-prism-infographic-a-framework-for-colalborating-with-generative-ai/): A Framework for Collaborating with Generative AI
-
-##### Large Language Models (LLMs)
-
-*   [LLM Visualization](https://bbycroft.net/llm)
-*   [GoogleCloudPlatform/generative-ai (⭐3.7k)](https://github.com/GoogleCloudPlatform/generative-ai): Sample code and notebooks for Generative AI on Google Cloud
-
-##### Ethics, Philosophical questions and Discussions about Generative AI
-
-*   [Will AI’s Next Wave of Super Intelligence Replace Human Ingenuity? It’s Complicated - Grit Daily News](https://gritdaily.com/will-ais-super-intelligence-replace-human-ingenuity/)
-
-##### Generative AI Tools Directories
-
-*   [AiSuperSmart Ai Tool Directory](https://aisupersmart.com/ai-tools-directory/): Find Ai Tools According to your Use Cases!
-
-##### Courses and Educational Materials
-
-*   [Introduction to Generative AI | SqillPlan](https://sqillplan.com/course?hash=-4862018582618510846): introduction to Generative AI, including models such as GANs, Variational Autoencoders, Autoregressive Models, and their applications, evaluation, ethics, and challenges
-
-##### Prompt Engineering
-
-*   [Prompt engineering - OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering): OpenAI's document with strategies and tactics for getting better results from large language models
-
-##### Prompt Engineering / Prompt Engineering for Text-to-text
-
-*   [ChatGPT for designers](https://tibidavid.gumroad.com/l/ChatGPT-Cheat-Sheet-V2?ref=filipecalegario-awesome-generative-ai): ChatGPT Cheat Sheet V2 to craft better prompts
-
-##### Mamba / Prompt Engineering for Text-to-image
-
-*   [\[2312.00752\] Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752): alternative to Transformer architecture.
-*   [Mamba: A shallow dive into a new architecture for LLMs | by Geronimo (@geronimo7) | Dec, 2023 | Medium](https://medium.com/@geronimo7/mamba-a-shallow-dive-into-a-new-architecture-for-llms-54c70ade5957)
-*   [Mamba-Chat (⭐401)](https://github.com/havenhq/mamba-chat): A chat LLM based on the state-space model architecture
-
-##### Running LLMs Locally / Prompt Engineering for Text-to-image
-
-*   [PowerInfer (⭐5.4k)](https://github.com/SJTU-IPADS/PowerInfer): a high-speed inference engine for deploying LLMs locally
-
-##### Function Calling / Prompt Engineering for Text-to-image
-
-*   [Nexusflow/NexusRaven-V2-13B · Hugging Face](https://huggingface.co/Nexusflow/NexusRaven-V2-13B): "surpassing GPT-4 for Zero-shot Function Calling"
-
-##### GPTs and Assistant API / Prompt Engineering for Text-to-image
-
-*   [Featured GPTs](https://www.featuredgpts.com/):  curated custom GPTs list for daily tasks
-
-##### Autonomous LLM Agents / Prompt Engineering for Text-to-image
-
-*   [Practices for Governing Agentic AI Systems](https://openai.com/research/practices-for-governing-agentic-ai-systems): paper by OpenAI that offers a set of practices for keeping agents’ operations safe and accountable.
-*   [\[2312.05230\] Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning](https://arxiv.org/abs/2312.05230)
-
-##### LLM Evaluation / Multi-agents
-
-*   [LLM Testing Guide](https://go.kolena.com/llm-testing-guide): Comprehensive Strategies for Testing and Behavior Analysis by Kolena
-*   [Chatbot Arena](https://chat.lmsys.org/?arena): benchmarking LLMs through pairwise confrontation and evaluation
-*   [\[2311.12022\] GPQA: A Graduate-Level Google-Proof Q\&A Benchmark](https://arxiv.org/abs/2311.12022)
-
-##### Attacks on LLMs / Multi-agents
-
-*   [\[2310.04451\] AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](https://arxiv.org/abs/2310.04451)
-
-##### Text-related Generative Tools / Multi-agents
-
-*   [AICamp](https://aicamp.so/): ChatGPT for Teams
-*   [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=filipecalegario-awesome-generative-ai): Forget about frustrating formulas in Google Sheets.
-*   [Elephas](https://elephas.app/?ref=filipecalegario-awesome-generative-ai): Personal AI writing assistant for the Mac.
-*   [Lemmy](https://lemmy.co/?ref=filipecalegario-awesome-generative-ai): Autonomous AI Assistant for Work.
-
-##### AI Tools for Research / Multi-agents
-
-*   [GummySearch](https://gummysearch.com/?ref=filipecalegario-awesome-generative-ai): AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
-
-##### Image Synthesis / Multi-agents
-
-*   [OutfitAnyone - a Hugging Face Space by HumanAIGC](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone): Ultra-high quality virtual try-on for Any Clothing and Any Person
-*   [StockPhotoAI.net](https://www.stockphotoai.net/?ref=filipecalegario-awesome-generative-ai): Great stock photos, made for you.
-
-##### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
-
-*   [InteriorAIDesigns](https://interioraidesigns.com/): a platform which allows the easy redesign of rooms.
-*   [PhotoAIStudio](https://photoaistudio.com/): a AI-powered photoshot platform with multiple styles
-
-##### Image Segmentation / Deforum
-
-*   [SDV (Stable Diffusion Image To Video)](https://twitter.com/stevemills/status/1727898404787986873?s=46\&t=CQsRDjHr9sNtph3xC84hXQ): generates 3 seconds of video in about 30 seconds using an A100 GPU on Colab+.
-*   [StemGen: A music generation model that listens](https://julian-parker.github.io/stemgen/)
-
-##### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [shashikg/WhisperS2T (⭐44)](https://github.com/shashikg/WhisperS2T): An Optimized Speech-to-Text Pipeline for the Whisper Model
-*   [CostGPT: Software Development Cost Calculator](https://costgpt.ai/): "find the cost, time and the best tech stack for any kind of software, tools that you want to build using the power of AI"
-*   [codefuse-ai/Awesome-Code-LLM (⭐344)](https://github.com/codefuse-ai/Awesome-Code-LLM): a curated list of language modeling researches for code and related datasets.
-
-##### Multimodal Embedding Space / Deforum
-
-*   [Ego-Exo4D](https://ai.meta.com/blog/ego-exo4d-video-learning-perception/): a foundational dataset by Meta for research on video learning and multimodal perception [Dataset Download](https://ego-exo4d-data.org/)
-*   [Carolina](https://sites.usp.br/corpuscarolina/corpus/): General Corpus of Contemporary Brazilian Portuguese with provenance and typology information - Corpus Geral do Português Brasileiro Contemporâneo
-*   [gabolsgabs/DALI (⭐319)](https://github.com/gabolsgabs/DALI): a large Dataset of synchronised Audio, LyrIcs and vocal notes
-
-##### Interesting GitHub Repositories / Deforum
-
-*   \[🔥] [Structured State Space for Sequence Modeling (S4) (⭐1.6k)](https://github.com/state-spaces/s4): Stole generation from the gods
-
-##### Auxiliary tools and concepts / Deforum
-
-*   [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=filipecalegario-awesome-generative-ai): Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
-*   [Aispect](https://aispect.io/?ref=filipecalegario-awesome-generative-ai): New way to experience events.
-*   [SiteGPT](https://sitegpt.ai/?ref=filipecalegario-awesome-generative-ai): Make AI your expert customer support agent.
-*   [PressPulse AI](https://www.presspulse.ai/?ref=filipecalegario-awesome-generative-ai): Get personalized media coverage leads every morning.
-*   [GPTHelp.ai](https://gpthelp.ai/?ref=filipecalegario-awesome-generative-ai): ChatGPT for your website / AI customer support chatbot.
-*   [Taplio](https://taplio.com/?ref=filipecalegario-awesome-generative-ai): The all-in-one, AI-powered LinkedIn tool.
-
-##### Dimension reduction techniques / Deforum
-
-*   [Why you should use Topological Data Analysis over t-SNE or UMAP?](https://datarefiner.com/feed/why-tda)
-*   [YingfanWang/PaCMAP: PaCMAP: Large-scale Dimension Reduction Technique Preserving Both Global and Local Structure (⭐344)](https://github.com/YingfanWang/PaCMAP)
-*   [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction](https://arxiv.org/abs/1802.03426)
-*   [Visualizing Data using t-SNE](https://jmlr.org/papers/v9/vandermaaten08a.html)
-
-#### [40. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
-
-##### Text / Writing assistants
-
-*   [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics
-
-##### Other / Music
-
-*   [PromptPal](https://promptpal.net) - Search for prompts and bots, then use them with your favourite AI. All in one place.
-*   [Shotstack Workflows](https://shotstack.io/product/workflows/) - No-code, automation workflow tool for building Generative AI media applications.
-*   [Aispect](https://aispect.io/?ref=mahseema-awesome-ai-tools) - New way to experience events.
-*   [PressPulse AI](https://www.presspulse.ai/?ref=mahseema-awesome-ai-tools) - Get personalized media coverage leads every morning.
-*   [GummySearch](https://gummysearch.com/?ref=mahseema-awesome-ai-tools) - AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
-*   [Taplio](https://taplio.com/?ref=mahseema-awesome-ai-tools) - The all-in-one, AI-powered LinkedIn tool.
-
-##### Text / Chatbots
-
-*   [Tiledesk](https://tiledesk.com/) - Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.
-
-##### Text / Productivity
-
-*   [Elephas](https://elephas.app/?ref=mahseema-awesome-ai-tools) - Personal AI writing assistant for the Mac.
-*   [Lemmy](https://lemmy.co/?ref=mahseema-awesome-ai-tools) - Autonomous AI Assistant for Work.
-*   [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=mahseema-awesome-ai-tools) - Forget about frustrating formulas in Google Sheets.
-
-##### Text / Customer Support
-
-*   [SiteGPT](https://sitegpt.ai/?ref=mahseema-awesome-ai-tools) - Make AI your expert customer support agent.
-*   [GPTHelp.ai](https://gpthelp.ai/?ref=mahseema-awesome-ai-tools) - ChatGPT for your website / AI customer support chatbot.
-
-##### Text / Other text generators
-
-*   [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=mahseema-awesome-ai-tools) - Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
-
-##### Text / Developer tools
-
-*   [ChatWithCloud](https://chatwithcloud.ai/) - CLI allowing you to interact with AWS Cloud using human language inside your Terminal.
-
-##### Image / Services
-
-*   [StockPhotoAI.net](https://www.stockphotoai.net/?ref=mahseema-awesome-ai-tools) - Great stock photos, made for you.
-
-#### [41. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
+#### [39. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ##### Tutorials
 
@@ -676,19 +512,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Practical Services Monitoring with Prometheus and Docker](https://web.archive.org/web/20221206045124/https://airtame.engineering/practical-services-monitoring-with-prometheus-and-docker-30abd3cf9603?gi=b81b1156b4d9) - Practical services monitoring with Prometheus and Docker by Simon KP.
 
-#### [42. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
+#### [40. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
 ##### Rock Solid Modern Rails [↗](https://awesomestacks.dev/rock-solid-modern-rails) / Resources
 
 *   [Cloud 66](https://www.cloud66.com/) - [🛠️](https://stackshare.io/cloud-66) Cloud 66 gives you everything you need to build, deploy, and manage your Rails applications on any cloud without the headache of the “server stuff”.
 
-#### [43. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+#### [41. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ##### Tools & Software / Utilities
 
 *   [Internet Archive Library (⭐1.4k)](https://github.com/jjjake/internetarchive) - A command line tool and Python library for interacting directly with [archive.org](https://archive.org). (Python). *(Stable)*
 
-#### [44. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+#### [42. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ##### Development / Engines
 
@@ -698,13 +534,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JSAR-DOM (⭐14)](https://github.com/M-CreativeLab/jsar-dom) A TypeScript re-implementation of WHATWG DOM, CSSOM and WebXR for XR applications built on top of Babylon.js.
 
-#### [45. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+#### [43. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ##### Contents / Shopping
 
 *   [Flutterzon (⭐15)](https://github.com/tejasbadone/flutterzon_bloc) - Designed as an Amazon clone, leveraging Flutter, Node.js, MongoDB, and Bloc for state management. Additionally, it features an Admin Panel for advanced control and management by [Tejas Badone](https://github.com/tejasbadone)
 
-#### [46. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+#### [44. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ##### Scheme / Git
 
@@ -713,7 +549,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [guile-gnutls](https://gitlab.com/gnutls/guile/) - GnuTLS bindings for GNU Guile.
 *   [guile-ssh (⭐54)](https://github.com/artyom-poptsov/guile-ssh) - libssh bindings for GNU Guile.
 
-#### [47. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+#### [45. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ##### Projects Using Vue.js / Interactive Experiences
 
@@ -731,7 +567,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Dolphin Admin (⭐50)](https://github.com/bit-ocean-studio/dolphin-admin-vue) - An open source, free, lightweight, out-of-the-box, internationalized admin template based on Vue 3 + Vite + Naive UI + TypeScript + TailwindCSS. [Live demo](https://dolphin-admin-vue.bit-ocean.studio/)
 
-#### [48. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+#### [46. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ##### Examples / Hardware Offload
 
@@ -741,7 +577,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [PcapPlusPlus](https://pcapplusplus.github.io/) - An open-source C++ library for capturing, parsing and crafting network packets. It features a C++ interface for creating AF\_XDP sockets, making it easy to [send and receive packets through them](https://pcapplusplus.github.io/docs/next/features#af_xdp-support-beta).
 
-#### [49. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [47. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Communication / File Sharing
 
@@ -751,7 +587,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [PaletteBrain](https://palettebrain.com) - Access the power of ChatGPT across all your Mac applications with the press of a shortcut.
 
-#### [50. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+#### [48. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ##### Tools
 
@@ -761,13 +597,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Matters.town](https://matters.town/) - Decentralized content publication ecosystem.
 
-#### [51. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+#### [49. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ##### OS Images
 
 *   [NextCloudPi (⭐2.2k)](https://github.com/nextcloud/nextcloudpi) - Nextcloud ready image based on Raspbian. Features Nextcloud 11 running on Raspbian 8, with PHP 7 and HTTP2 enabled Apache server.
 
-#### [52. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+#### [50. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ##### Internet and Networking
 
@@ -791,125 +627,32 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Kooha (⭐1.9k)](https://github.com/SeaDve/Kooha) - Elegantly record your screen.
 
-#### [53. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
+#### [51. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
 
 ##### Apps / Productivity
 
 *   [Planify (⭐2.5k)](https://github.com/alainm23/planify) - Task manager with Todoist support designed for GNU/Linux.
 
-#### [54. Awesome Deno](/content/denolib/awesome-deno/README.md)
+#### [52. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ##### Modules / Automation
 
 *   [swissknife (⭐3)](https://github.com/fakoua/SwissKnife) - SwissKnife - Deno Swiss Knife tools for Windows.
 
-#### [55. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+#### [53. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ##### Development / Discovery
 
 *   [flakelight (⭐72)](https://github.com/nix-community/flakelight) - A modular flake framework aiming to minimize boilerplate.
 *   [services-flake (⭐54)](https://github.com/juspay/services-flake) - A NixOS-like service configuration framework for Nix flakes.
 
-#### [56. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-##### Projects / API Management
-
-*   [Gravitee.io API Management (⭐97) (⭐97)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐785) (⭐785)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
-
-##### Projects / API Design
-
-*   [OpenAPI Diff (⭐701) (⭐702)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [Zally (⭐860) (⭐860)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
-
-##### Projects / API Documentation
-
-*   [OpenAPI Explorer (⭐250) (⭐250)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
-*   [Stoplight Elements (⭐1.3k) (⭐1.3k)](https://github.com/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown. Use these UI components to create API reference documentation, or more complete documentation with Markdown articles covering tutorials, how-to guides, etc.
-
-##### Projects / API Gateway
-
-*   [Apache APISIX (⭐13k) (⭐13k)](https://github.com/apache/apisix) - A dynamic, real-time, and high-performance API Gateway that leverages Apache plugins for enhanced functionality.
-
-##### Projects / API Testing
-
-*   MQ clients
-    *   [JMSToolBox (⭐185) (⭐185)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
-    *   [kcat (⭐5k) (⭐5.1k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
-    *   [MQTT Explorer (⭐2.6k) (⭐2.6k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
-    *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
-    *   [Service Bus Explorer (⭐1.8k) (⭐1.9k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
-*   Mocking tools
-    *   [Imposter (⭐324) (⭐324)](https://github.com/outofcoffee/imposter) - Mock server for REST APIs, OpenAPI (and Swagger) specifications, SOAP web services (and WSDL files), Salesforce and HBase APIs.
-    *   [Microcks (⭐1k) (⭐1.1k)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
-    *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
-    *   [Mockoon (⭐5.5k) (⭐5.6k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
-    *   [MockServer (⭐4.3k) (⭐4.4k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
-    *   [Mocky (⭐1.9k) (⭐2k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
-    *   [Prism (⭐3.8k) (⭐3.8k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
-    *   [WireMock (⭐5.9k) (⭐5.9k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
-*   Testing tools and frameworks
-    *   [Apache JMeter (⭐7.6k) (⭐7.6k)](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
-    *   [Gatling (⭐6.1k) (⭐6.1k)](https://github.com/gatling/gatling) - An open-source load testing tool that allows users to write and run load tests as code, providing detailed performance reports to optimize system performance.
-    *   [Karate (⭐7.5k) (⭐7.6k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
-    *   [Pyresttest (⭐1.1k) (⭐1.1k)](https://github.com/svanoort/pyresttest) - Java DSL for easy testing of REST services.
-    *   [REST Assured (⭐6.5k) (⭐6.6k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
-    *   [Schemathesis (⭐1.9k) (⭐2k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
-    *   [Taurus (⭐1.9k) (⭐1.9k)](https://github.com/Blazemeter/taurus) - An open-source framework for continuous testing that simplifies test execution and management through a user-friendly interface and integrates with various testing tools and frameworks.
-
-##### Projects / BRE
-
-*   [OpenL Tablets (⭐136) (⭐136)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
-
-##### Projects / Data Mapping Solution
-
-*   [AltasMap (⭐171) (⭐171)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
-*   [JSLT (⭐587) (⭐587)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
-
-##### Projects / ESB
-
-*   [WSO2 Enterprise Integrator (⭐358) (⭐358)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
-
-##### Projects / ETL
-
-*   [Apache NiFi (⭐4.1k) (⭐4.1k)](https://github.com/apache/nifi) - An automated data integration platform that efficiently moves data between disparate systems.
-*   [Pentaho Data Integration (⭐7.1k) (⭐7.1k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
-
-##### Projects / Integration Frameworks
-
-*   [Ballerina (⭐3.5k) (⭐3.5k)](https://github.com/ballerina-platform/ballerina-lang) - An open-source programming language that simplifies the creation, usage, and combination of network services.
-
-##### Projects / Messaging
-
-*   [NATS (⭐14k) (⭐14k)](https://github.com/nats-io/gnatsd) - A lightweight and high-performance messaging system designed for microservices, IoT, and cloud-native systems. Offers efficient and reliable message delivery and supports multiple messaging protocols.
-*   [VerneMQ (⭐3.1k) (⭐3.1k)](https://github.com/vernemq/vernemq) - A high-performance distributed MQTT message broker designed for scalability and reliability. Offers efficient and reliable message delivery and supports multiple messaging protocols and patterns.
-
-##### Projects / Workflow engine
-
-*   [Activiti (⭐9.7k) (⭐9.7k)](https://github.com/Activiti/Activiti) - A lightweight and Java-centric open-source engine for executing BPMN (Business Process Model and Notation) workflows.
-*   [Bonita (⭐138) (⭐138)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
-*   [Cadence (⭐7.5k) (⭐7.5k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
-*   [Conductor (⭐13k) (⭐13k)](https://github.com/Netflix/conductor) - A cloud-based orchestration engine designed to run and manage workflows in a microservices architecture.
-*   [Elsa Core (⭐5.3k) (⭐5.3k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
-*   [Flowable (⭐7k) (⭐7k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
-*   [Temporal (⭐8.7k) (⭐8.8k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
-
-##### Resources / Data Formats
-
-*   [NDJSON (⭐607) (⭐607)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-*   [YAML (⭐279) (⭐280)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
-
-##### Resources / Protocols
-
-*   [OpenMessaging (⭐285) (⭐285)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
-
-#### [57. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+#### [54. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ##### Other plugins
 
 *   [Safe Area (⭐37)](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS
 
-#### [58. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
+#### [55. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 
 ##### ArcGIS location services
 
@@ -921,7 +664,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [snippets client side raster functions](https://ubatsukh.github.io/arcgis-js-api-demos/clientside-rasterfunctions/index.html) - The client-side raster functions are operations that apply processing directly to the source image pixels.
 
-#### [59. Awesome Django](/content/wsvincent/awesome-django/README.md)
+#### [56. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ##### Third-Party Packages / General
 
@@ -931,7 +674,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [django-elasticsearch-dsl (⭐987)](https://github.com/django-es/django-elasticsearch-dsl) - Elasticsearch DSL integration for Django.
 
-#### [60. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+#### [57. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ##### Communications / Radio
 
@@ -941,7 +684,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Sun and Moon (⭐387)](https://github.com/peterhinch/micropython-samples/blob/master/astronomy/README.md) - Determine Sun and Moon rise and set times, Moon phases.
 
-#### [61. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [58. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Artificial Intelligence
 
@@ -985,13 +728,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [yai (⭐444)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
-#### [62. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+#### [59. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ##### DevOps Tools
 
 *   [Kamal (⭐8.1k)](https://github.com/basecamp/kamal) - Kamal offers zero-downtime deploys, rolling restarts, asset bridging, remote builds, accessory service management, and everything else you need to deploy and manage your web app in production with Docker.
 
-#### [63. Awesome R](/content/qinwf/awesome-R/README.md)
+#### [60. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ##### 2023
 
@@ -1001,7 +744,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [targets](https://docs.ropensci.org/targets/) - Make-like pipeline tool for organizing and running data science workflows, automatically skipping steps that have already been done. Supported by [rOpenSci](https://ropensci.org/).
 
-#### [64. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [61. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### Graph databases
 
@@ -1023,7 +766,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [jsonrpc (⭐62)](https://github.com/cxxxr/jsonrpc) -  JSON-RPC 2.0 server/client for Common Lisp. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-#### [65. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+#### [62. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ##### Algorithms and Data structures
 
@@ -1032,13 +775,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [SPAKE2+ (⭐1)](https://github.com/spider-gazelle/SPAKE2_plus) - Password Authenticated Key Exchange (PAKE) protocol, comparable to SRP-6a
 *   [verhoeff (⭐0)](https://github.com/spider-gazelle/verhoeff) - Implementation of the Verhoeff checksum algorithm
 
-#### [66. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+#### [63. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ##### Graphical User Interface / Apache License
 
 *   [imgui-ada (⭐4)](https://github.com/Cre8or/ImGui-Ada) - Ada binding of the ImGui library.
 
-#### [67. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [64. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### Books, blogs, and training materials / Community Chat Rooms
 
@@ -1061,13 +804,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [MS5637](https://crates.io/crates/ms5637) - no\_std I2C driver for the MS5637 temperature and pressure sensor ![crates.io](https://img.shields.io/crates/v/ms5637.svg)
 *   [HX711 (⭐1)](https://github.com/DaneSlattery/hx711) - GPIO - An interrupt-based driver for the HX711 Load Cell Amplifier IC. no-std.
 
-#### [68. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+#### [65. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ##### Intentionally Vulnerable Systems / Zealandia
 
 *   [Pentest-Ground](https://pentest-ground.com/).
 
-#### [69. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+#### [66. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ##### Tools / Other
 
@@ -1077,7 +820,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [The Cyberclopaedia](https://cr0mll.github.io/cyberclopaedia/) - The open-source encyclopedia of cybersecurity. [GitHub Repository (⭐150)](https://github.com/cr0mll/cyberclopaedia)
 
-#### [70. Awesome Honeypots](/content/paralax/awesome-honeypots/README.md)
+#### [67. Awesome Honeypots](/content/paralax/awesome-honeypots/README.md)
 
 ##### Honeypots
 
@@ -1090,13 +833,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   [honeyfs (⭐0)](https://github.com/referefref/honeyfs) - Tool to create artificial file systems for medium/high interaction honeypots.
     *   [Modern Honeynet Network](http://threatstream.github.io/mhn/) - Streamlines deployment and management of secure honeypots.
 
-#### [71. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+#### [68. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ##### Tools / IDE Integration
 
 *   [Using a Load Generator in NetBeans IDE](https://netbeans.apache.org/tutorial/main/kb/docs/java/profile-loadgenerator/)
 
-#### [72. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+#### [69. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ##### Integrations
 
@@ -1119,7 +862,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [theheadless.dev](https://www.checklyhq.com/learn/headless/) - Practical guides and runnable examples on Playwright (and Puppeteer).
 *   [serenity-js.org](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/) - Learn how to write acceptance tests in business language using Playwright and the Serenity/JS Screenplay Pattern.
 
-#### [73. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [70. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Concepts / Theory of Concepts
 
@@ -1151,7 +894,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11962817646389491592\&hl=en\&as_sdt=0,5)]. A review article that examines breakthroughs over the past decade that include self-supervised learning, which allows models to be trained on vast amounts of unlabelled data, and geometric deep learning, which leverages knowledge about the structure of scientific data to enhance model accuracy and efficiency.
 *   [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5962372610489019326\&hl=en\&as_sdt=0,5)].
 
-#### [74. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+#### [71. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ##### Tools / Services
 
@@ -1168,13 +911,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [MicroAgent (⭐565)](https://github.com/aymenfurter/microagents): Agents Capable of Self-Editing Their Prompts / Python Code ![GitHub Repo stars](https://img.shields.io/github/stars/aymenfurter/microagents?style=social)
 *   *   [Casibase (⭐1.5k)](https://github.com/casibase/casibase?utm_source=tldrwebdev):
 
-#### [75. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [72. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Resources / Blog posts
 
 *   [Time series Analysis with Polars](https://dev.to/gaborschulz/time-series-analysis-with-polars-3dfg) - A short blog post that explains how to deal with temporal datasets by [@gaborschulz](https://github.com/gaborschulz). Full helpful notebook available [here (⭐0)](https://github.com/gaborschulz/learning-polars/blob/main/01-time-series-analysis/time-series-analysis.ipynb).
 
-#### [76. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+#### [73. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ##### Python / Trading & Backtesting
 
@@ -1190,102 +933,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [QuantFinanceTraining (⭐2)](https://github.com/JoaoJungblut/QuantFinanceTraining) - This repository contains codes that were executed during my training in the CQF (Certificate in Quantitative Finance). The codes are organized by class, facilitating navigation and reference.
 
-#### [77. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
-
-##### Agriculture
-
-*   [Cybertiks](https://cybertiks.com/) - Revolutionizing Agriculture and Environmental Monitoring with AI `#paid`
-*   [GreenThumb](https://www.messengerx.io/) - Unlock the World of Gardening with Your AI Companion `#free`
-*   [Vinetribe](https://vinetribe.co/concierge) - Fosters an inclusive wine community through guided at-home tastings `#free`
-
-##### Audio Editing
-
-*   [AI Sound Copilot](https://www.waanda.org/) - Effortless Sound Effects Creation for Videos and Games `#free`
-
-##### Chatbots
-
-*   [Phind](https://www.phind.com/) - An AI-powered coding and technical assistant, making complex tasks simpler. `#freemium`
-
-##### Design Generator
-
-*   [Stream Slides](https://streamslide.io/) - YouTube Video to Slides Converter. `#free`
-
-##### E-Commerce
-
-*   [Hulk](https://hulkhelper-ai.webflow.io/) - Personalized Shopping Experience `#free`
-
-##### Education
-
-*   [PagePundit](https://pagepundit.com/) - Discover Tailored Book Suggestions Effortlessly `#free`
-
-##### Fun Tools
-
-*   [Convenient Hairstyle](https://hairstyle.cvhtechnology.com/) - Transform Your Look with Personalized Hairstyle Exploration `#free`
-
-##### HealthCare
-
-*   [MIRI](https://www.miri.health/) - Comprehensive Wellness Platform That Puts Experts in Your Pocket 24/7 `#free`
-
-##### Image Generator
-
-*   [ImageCreator](https://imagecreator.alkaidvision.com/) - A Professional PS plug-in powered by AI `#free`
-*   [removebg](https://remove.bg/) - Remove any Image Background `#free`
-*   [Stable Diffusion Online](https://stablediffusionweb.com/#ai-image-generator) - text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds. `#opensource`
-*   [Zoo](https://zoo.replicate.dev/) - Text-to-Image Playground `#free`
-
-##### Productivity
-
-*   [Posylanki](https://www.posylanki.live/) - Streamline Web Content Management & Enhance Browsing Experience `#free`
-
-##### Search Engine
-
-*   [Andi](https://andisearch.com/) - Andi is a generative AI-powered search engine `#free`
-
-##### SEO
-
-*   [AutoBlogging Pro](https://autoblogging.pro/) - AI-Powered Content Automation for WordPress Blogs `#freemium`
-
-##### Summarizer
-
-*   [Earkind](https://www.earkind.com/) - AI-Generated Podcasts on AI Topics `#free`
-*   [LeaseLens](https://leaselens.ai/) - Automate the extraction of crucial data points from real estate and commercial lease documents `#free`
-
-##### Text to Image
-
-*   [FollowFox](https://followfox.ai/) - Open-source text-to-image generator with impressive features and capabilities. `#free`
-
-##### Transcriber
-
-*   [VideoToBlog](https://www.videotoblog.ai/) - Convert YouTube videos to blog content in one click `#free`
-
-##### Video Generator
-
-*   [Chromox](https://chromox.alkaidvision.com/) - Transforming Ideas into Visual Stories. `#free`
-*   [D-ID](https://www.d-id.com/) - D-ID is a platform to generate videos. `#freemium`
-
-##### Writing Generator
-
-*   [Bidlytics](https://www.bidlytics.co/) - Master the Art of Government Contracting `#freemium`
-
-#### [78. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+#### [74. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 
 ##### Useful links with tips & tricks
 
 *   [GitHub Wiki Action. Keep your dev docs in sync with your code](https://github.com/marketplace/actions/github-wiki-action)
 
-#### [79. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+#### [75. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ##### Open Source Rails Apps / Other external resources
 
 *   [obl.ong (⭐9)](https://github.com/obl-ong/admin) - A multi-tenant subdomain control panel (using Rails 7.1) - [🌍](https://obl.ong)
 
-#### [80. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+#### [76. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ##### Mathematics
 
 *   [Linear Algebra Done Right](https://linear.axler.net) - Sheldon Axler
 
-#### [81. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [77. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### zinit
 
@@ -1318,75 +984,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [parrot-htb (⭐0)](https://github.com/Lloyd-Leo/parrot-htb-zsh-theme) - Includes decorators for current directory, `git` status and username\@hostname.
 *   [zenith (⭐0)](https://github.com/waki285/Zenith) - Minimalist. Includes decorators for username, current directory and `git` status.
 
-#### [82. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Plugin Manager
-
-*   [nvim-neorocks/rocks.nvim (⭐68)](https://github.com/nvim-neorocks/rocks.nvim) - A modern approach to plugin management using Luarocks, inspired by Cargo.
-
-##### (requires Neovim 0.5)
-
-*   [jmbuhr/otter.nvim (⭐236)](https://github.com/jmbuhr/otter.nvim) - Provides LSP features and a nvim-cmp completion source for languages embedded in other documents.
-
-##### Completion / Diagnostics
-
-*   [Exafunction/codeium.nvim (⭐349)](https://github.com/Exafunction/codeium.nvim) - Free, ultrafast Copilot alternative.
-
-##### Programming Languages Support / Diagnostics
-
-*   [quarto-dev/quarto-nvim (⭐206)](https://github.com/quarto-dev/quarto-nvim) - Tools for working with [Quarto](https://quarto.org/) documents.
-
-##### Markdown and LaTeX / Diagnostics
-
-*   [mpas/marp-nvim (⭐2)](https://github.com/mpas/marp-nvim) - Present using markdown with [Marp](https://marp.app/).
-
-##### Search / Diagnostics
-
-*   [FabianWirth/search.nvim (⭐67)](https://github.com/FabianWirth/search.nvim) - Tabs for different Telescope pickers.
-*   [backdround/improved-search.nvim (⭐32)](https://github.com/backdround/improved-search.nvim) - Add search abilities.
-
-##### File Explorer / Diagnostics
-
-*   [rolv-apneseth/tfm.nvim (⭐19)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi (⭐4.5k)](https://github.com/sxyazi/yazi)).
-
-##### Tree-sitter Supported Colorscheme / Diagnostics
-
-*   [scottmckendry/cyberdream.nvim (⭐39)](https://github.com/scottmckendry/cyberdream.nvim) - A high-contrast, futuristic & vibrant coloursheme.
-
-##### Icon / Diagnostics
-
-*   [2KAbhishek/nerdy.nvim (⭐58)](https://github.com/2KAbhishek/nerdy.nvim/) - Find and insert the latest nerd font glyphs.
-
-##### Utility / Diagnostics
-
-*   [mateuszwieloch/automkdir.nvim (⭐5)](https://github.com/mateuszwieloch/automkdir.nvim) - Automatically create non-existent parent directories when writing a file.
-*   [ragnarok22/whereami.nvim (⭐7)](https://github.com/ragnarok22/whereami.nvim) - Test your VPN by getting you current location.
-*   [ariel-frischer/bmessages.nvim (⭐8)](https://github.com/ariel-frischer/bmessages.nvim) - Replace the default :messages window with a configurable, auto-updating buffer.
-*   [LintaoAmons/easy-commands.nvim (⭐32)](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands.
-*   [backdround/tabscope.nvim (⭐27)](https://github.com/backdround/tabscope.nvim) - Make tab-local buffers.
-
-##### Git / Diagnostics
-
-*   [2KAbhishek/co-author.nvim (⭐13)](https://github.com/2KAbhishek/co-author.nvim) - Quickly add co-authors to commits.
-
-##### Motion / Diagnostics
-
-*   [backdround/neowords.nvim (⭐15)](https://github.com/backdround/neowords.nvim) - Hops by any type of words. It gives fine control over `w`, `e`, `b`, `ge` movements.
-*   [backdround/improved-ft.nvim (⭐18)](https://github.com/backdround/improved-ft.nvim) - Improve default `f`/`t` abilities.
-
-##### Keybinding / Diagnostics
-
-*   [FeiyouG/commander.nvim (⭐303)](https://github.com/FeiyouG/commander.nvim) - Create and manage keybindings and commands in a more organized manner and search them quickly through Telescope.
-
-##### Editing Support / Diagnostics
-
-*   [hiberabyss/bzlops.vim (⭐3)](https://github.com/hiberabyss/bzlops.vim) - Help to manage your bazel build rule.
-
-##### Split and Window / Diagnostics
-
-*   [altermo/nxwm (⭐126)](https://github.com/altermo/nxwm) - X11 window manager.
-
-#### [83. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+#### [78. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ##### Form Components / Date / Time picker
 
@@ -1396,7 +994,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [BCMS (⭐156)](https://github.com/bcms/cms) - API-based, open-source, self-hostable content management system for Gatsby, Nuxt and Next.
 
-#### [84. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+#### [79. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ##### Learning / Courses
 
@@ -1438,7 +1036,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [NinjaCalc](https://gbmhunter.github.io/NinjaCalc/) - An embedded engineering calculator toolbox for doing calculations in a breeze.
 *   [Saturn PCB Design Toolkit](https://saturnpcb.com/saturn-pcb-toolkit/) - The Saturn PCB Toolkit is the best freeware resource for PCB related calculations you can find.
 
-#### [85. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [80. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Communication - Email - Complete Solutions
 
@@ -1461,7 +1059,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Digiwords](https://ladigitale.dev/digiwords/) - A simple online application for creating word clouds (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digiwords)) `AGPL-3.0` `Nodejs/PHP`
 
-#### [86. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+#### [81. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ##### Public Data Resources / Land Use and Land Cover
 
@@ -1475,7 +1073,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Enscape](https://enscape3d.com/) - Enscape is an easy-to-use rendering software that produces quick, realistic and customizable rendering images for urban design and architectural visualization. The tool integrates well with commonly used 3D modeling softwares such as Rhino, SketchUp, etc.
 
-#### [87. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [82. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Tools
 
@@ -1498,7 +1096,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Kotlin/Wasm Examples (⭐376)](https://github.com/Kotlin/kotlin-wasm-examples) - Explore a variety of Kotlin/Wasm example projects, showcasing applications like Compose Multiplatform, browser DOM API, Node.js, and WASI integration.
 
-#### [88. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [83. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Frameworks
 
@@ -1578,7 +1176,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [emio (⭐115)](https://github.com/Viatorus/emio) - A safe and fast high-level and low-level character input/output library. \[MIT]
 *   [hedley (⭐726)](https://github.com/nemequ/hedley) - A C/C++ header file designed to smooth over some platform-specific annoyances. [website](https://nemequ.github.io/hedley/)
 
-#### [89. Awesome Security](/content/sbilly/awesome-security/README.md)
+#### [84. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ##### Web / Web Application Firewall
 
@@ -1587,6 +1185,459 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### EBooks / Online resources
 
 *   [Node.js Secure Coding: Prevention and Exploitation of Path Traversal Vulnerabilities](https://www.nodejs-security.com/book/path-traversal) - Master secure coding in Node.js with real-world vulnerable dependencies and experience firsthand secure coding techniques against Path Traversal vulnerabilities.
+
+#### [85. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+
+##### Table of Contents / Streaming SQL
+
+*   [Proton (⭐347)](https://github.com/timeplus-io/proton) \[C++] - A unified streaming and historical data analytics database in a single binary, powered by ClickHouse.
+
+#### [86. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Plugin Manager
+
+*   [nvim-neorocks/rocks.nvim (⭐68)](https://github.com/nvim-neorocks/rocks.nvim) - A modern approach to plugin management using Luarocks, inspired by Cargo.
+
+##### (requires Neovim 0.5)
+
+*   [jmbuhr/otter.nvim (⭐236)](https://github.com/jmbuhr/otter.nvim) - Provides LSP features and a nvim-cmp completion source for languages embedded in other documents.
+
+##### Completion / Diagnostics
+
+*   [Exafunction/codeium.nvim (⭐349)](https://github.com/Exafunction/codeium.nvim) - Free, ultrafast Copilot alternative.
+
+##### Programming Languages Support / Diagnostics
+
+*   [quarto-dev/quarto-nvim (⭐206)](https://github.com/quarto-dev/quarto-nvim) - Tools for working with [Quarto](https://quarto.org/) documents.
+
+##### Markdown and LaTeX / Diagnostics
+
+*   [mpas/marp-nvim (⭐2)](https://github.com/mpas/marp-nvim) - Present using markdown with [Marp](https://marp.app/).
+
+##### Search / Diagnostics
+
+*   [FabianWirth/search.nvim (⭐67)](https://github.com/FabianWirth/search.nvim) - Tabs for different Telescope pickers.
+*   [backdround/improved-search.nvim (⭐32)](https://github.com/backdround/improved-search.nvim) - Add search abilities.
+
+##### File Explorer / Diagnostics
+
+*   [rolv-apneseth/tfm.nvim (⭐19)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi (⭐4.5k)](https://github.com/sxyazi/yazi)).
+
+##### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [scottmckendry/cyberdream.nvim (⭐39)](https://github.com/scottmckendry/cyberdream.nvim) - A high-contrast, futuristic & vibrant coloursheme.
+
+##### Icon / Diagnostics
+
+*   [2KAbhishek/nerdy.nvim (⭐58)](https://github.com/2KAbhishek/nerdy.nvim/) - Find and insert the latest nerd font glyphs.
+
+##### Utility / Diagnostics
+
+*   [mateuszwieloch/automkdir.nvim (⭐5)](https://github.com/mateuszwieloch/automkdir.nvim) - Automatically create non-existent parent directories when writing a file.
+*   [ragnarok22/whereami.nvim (⭐7)](https://github.com/ragnarok22/whereami.nvim) - Test your VPN by getting you current location.
+*   [ariel-frischer/bmessages.nvim (⭐8)](https://github.com/ariel-frischer/bmessages.nvim) - Replace the default :messages window with a configurable, auto-updating buffer.
+*   [LintaoAmons/easy-commands.nvim (⭐32)](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands.
+*   [backdround/tabscope.nvim (⭐27)](https://github.com/backdround/tabscope.nvim) - Make tab-local buffers.
+*   [linrongbin16/gentags.nvim (⭐2)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
+
+##### Git / Diagnostics
+
+*   [2KAbhishek/co-author.nvim (⭐13)](https://github.com/2KAbhishek/co-author.nvim) - Quickly add co-authors to commits.
+
+##### Motion / Diagnostics
+
+*   [backdround/neowords.nvim (⭐15)](https://github.com/backdround/neowords.nvim) - Hops by any type of words. It gives fine control over `w`, `e`, `b`, `ge` movements.
+*   [backdround/improved-ft.nvim (⭐18)](https://github.com/backdround/improved-ft.nvim) - Improve default `f`/`t` abilities.
+
+##### Keybinding / Diagnostics
+
+*   [FeiyouG/commander.nvim (⭐303)](https://github.com/FeiyouG/commander.nvim) - Create and manage keybindings and commands in a more organized manner and search them quickly through Telescope.
+
+##### Editing Support / Diagnostics
+
+*   [hiberabyss/bzlops.vim (⭐3)](https://github.com/hiberabyss/bzlops.vim) - Help to manage your bazel build rule.
+
+##### Split and Window / Diagnostics
+
+*   [altermo/nxwm (⭐126)](https://github.com/altermo/nxwm) - X11 window manager.
+
+#### [87. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+##### Generative AI history, maps, and definitions
+
+*   [GenAI Prism Infographic by Brian Solis](https://briansolis.com/2023/12/introducing-the-genai-prism-infographic-a-framework-for-colalborating-with-generative-ai/): A Framework for Collaborating with Generative AI
+
+##### Large Language Models (LLMs)
+
+*   [LLM Visualization](https://bbycroft.net/llm)
+*   [GoogleCloudPlatform/generative-ai (⭐3.7k)](https://github.com/GoogleCloudPlatform/generative-ai): Sample code and notebooks for Generative AI on Google Cloud
+
+##### Ethics, Philosophical questions and Discussions about Generative AI
+
+*   [Will AI’s Next Wave of Super Intelligence Replace Human Ingenuity? It’s Complicated - Grit Daily News](https://gritdaily.com/will-ais-super-intelligence-replace-human-ingenuity/)
+
+##### Generative AI Tools Directories
+
+*   [AiSuperSmart Ai Tool Directory](https://aisupersmart.com/ai-tools-directory/): Find Ai Tools According to your Use Cases!
+
+##### Courses and Educational Materials
+
+*   [Introduction to Generative AI | SqillPlan](https://sqillplan.com/course?hash=-4862018582618510846): introduction to Generative AI, including models such as GANs, Variational Autoencoders, Autoregressive Models, and their applications, evaluation, ethics, and challenges
+
+##### Prompt Engineering
+
+*   [Prompt engineering - OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering): OpenAI's document with strategies and tactics for getting better results from large language models
+
+##### Prompt Engineering / Prompt Engineering for Text-to-text
+
+*   [ChatGPT for designers](https://tibidavid.gumroad.com/l/ChatGPT-Cheat-Sheet-V2?ref=filipecalegario-awesome-generative-ai): ChatGPT Cheat Sheet V2 to craft better prompts
+
+##### Mamba / Prompt Engineering for Text-to-image
+
+*   [\[2312.00752\] Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752): alternative to Transformer architecture.
+*   [Mamba: A shallow dive into a new architecture for LLMs | by Geronimo (@geronimo7) | Dec, 2023 | Medium](https://medium.com/@geronimo7/mamba-a-shallow-dive-into-a-new-architecture-for-llms-54c70ade5957)
+*   [Mamba-Chat (⭐401)](https://github.com/havenhq/mamba-chat): A chat LLM based on the state-space model architecture
+
+##### Running LLMs Locally / Prompt Engineering for Text-to-image
+
+*   [PowerInfer (⭐5.4k)](https://github.com/SJTU-IPADS/PowerInfer): a high-speed inference engine for deploying LLMs locally
+
+##### Function Calling / Prompt Engineering for Text-to-image
+
+*   [Nexusflow/NexusRaven-V2-13B · Hugging Face](https://huggingface.co/Nexusflow/NexusRaven-V2-13B): "surpassing GPT-4 for Zero-shot Function Calling"
+
+##### GPTs and Assistant API / Prompt Engineering for Text-to-image
+
+*   [Featured GPTs](https://www.featuredgpts.com/):  curated custom GPTs list for daily tasks
+
+##### Autonomous LLM Agents / Prompt Engineering for Text-to-image
+
+*   [Practices for Governing Agentic AI Systems](https://openai.com/research/practices-for-governing-agentic-ai-systems): paper by OpenAI that offers a set of practices for keeping agents’ operations safe and accountable.
+*   [\[2312.05230\] Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning](https://arxiv.org/abs/2312.05230)
+
+##### LLM Evaluation / Multi-agents
+
+*   [LLM Testing Guide](https://go.kolena.com/llm-testing-guide): Comprehensive Strategies for Testing and Behavior Analysis by Kolena
+*   [Chatbot Arena](https://chat.lmsys.org/?arena): benchmarking LLMs through pairwise confrontation and evaluation
+*   [\[2311.12022\] GPQA: A Graduate-Level Google-Proof Q\&A Benchmark](https://arxiv.org/abs/2311.12022)
+
+##### Attacks on LLMs / Multi-agents
+
+*   [\[2310.04451\] AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](https://arxiv.org/abs/2310.04451)
+
+##### Text-related Generative Tools / Multi-agents
+
+*   [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=filipecalegario-awesome-generative-ai): Forget about frustrating formulas in Google Sheets.
+*   [Elephas](https://elephas.app/?ref=filipecalegario-awesome-generative-ai): Personal AI writing assistant for the Mac.
+*   [Lemmy](https://lemmy.co/?ref=filipecalegario-awesome-generative-ai): Autonomous AI Assistant for Work.
+
+##### AI Tools for Research / Multi-agents
+
+*   [GummySearch](https://gummysearch.com/?ref=filipecalegario-awesome-generative-ai): AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
+
+##### Image Synthesis / Multi-agents
+
+*   [OutfitAnyone - a Hugging Face Space by HumanAIGC](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone): Ultra-high quality virtual try-on for Any Clothing and Any Person
+*   [StockPhotoAI.net](https://www.stockphotoai.net/?ref=filipecalegario-awesome-generative-ai): Great stock photos, made for you.
+
+##### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
+
+*   [InteriorAIDesigns](https://interioraidesigns.com/): a platform which allows the easy redesign of rooms.
+*   [PhotoAIStudio](https://photoaistudio.com/): a AI-powered photoshot platform with multiple styles
+
+##### Image Segmentation / Deforum
+
+*   [SDV (Stable Diffusion Image To Video)](https://twitter.com/stevemills/status/1727898404787986873?s=46\&t=CQsRDjHr9sNtph3xC84hXQ): generates 3 seconds of video in about 30 seconds using an A100 GPU on Colab+.
+*   [StemGen: A music generation model that listens](https://julian-parker.github.io/stemgen/)
+
+##### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+
+*   [shashikg/WhisperS2T (⭐44)](https://github.com/shashikg/WhisperS2T): An Optimized Speech-to-Text Pipeline for the Whisper Model
+*   [CostGPT: Software Development Cost Calculator](https://costgpt.ai/): "find the cost, time and the best tech stack for any kind of software, tools that you want to build using the power of AI"
+*   [codefuse-ai/Awesome-Code-LLM (⭐344)](https://github.com/codefuse-ai/Awesome-Code-LLM): a curated list of language modeling researches for code and related datasets.
+
+##### Multimodal Embedding Space / Deforum
+
+*   [Ego-Exo4D](https://ai.meta.com/blog/ego-exo4d-video-learning-perception/): a foundational dataset by Meta for research on video learning and multimodal perception [Dataset Download](https://ego-exo4d-data.org/)
+*   [Carolina](https://sites.usp.br/corpuscarolina/corpus/): General Corpus of Contemporary Brazilian Portuguese with provenance and typology information - Corpus Geral do Português Brasileiro Contemporâneo
+*   [gabolsgabs/DALI (⭐319)](https://github.com/gabolsgabs/DALI): a large Dataset of synchronised Audio, LyrIcs and vocal notes
+
+##### Interesting GitHub Repositories / Deforum
+
+*   \[🔥] [Structured State Space for Sequence Modeling (S4) (⭐1.6k)](https://github.com/state-spaces/s4): Stole generation from the gods
+
+##### Auxiliary tools and concepts / Deforum
+
+*   [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=filipecalegario-awesome-generative-ai): Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
+*   [Aispect](https://aispect.io/?ref=filipecalegario-awesome-generative-ai): New way to experience events.
+*   [SiteGPT](https://sitegpt.ai/?ref=filipecalegario-awesome-generative-ai): Make AI your expert customer support agent.
+*   [PressPulse AI](https://www.presspulse.ai/?ref=filipecalegario-awesome-generative-ai): Get personalized media coverage leads every morning.
+*   [GPTHelp.ai](https://gpthelp.ai/?ref=filipecalegario-awesome-generative-ai): ChatGPT for your website / AI customer support chatbot.
+*   [Taplio](https://taplio.com/?ref=filipecalegario-awesome-generative-ai): The all-in-one, AI-powered LinkedIn tool.
+
+##### Dimension reduction techniques / Deforum
+
+*   [Why you should use Topological Data Analysis over t-SNE or UMAP?](https://datarefiner.com/feed/why-tda)
+*   [YingfanWang/PaCMAP: PaCMAP: Large-scale Dimension Reduction Technique Preserving Both Global and Local Structure (⭐344)](https://github.com/YingfanWang/PaCMAP)
+*   [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction](https://arxiv.org/abs/1802.03426)
+*   [Visualizing Data using t-SNE](https://jmlr.org/papers/v9/vandermaaten08a.html)
+
+#### [88. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
+
+##### Text / Chatbots
+
+*   [AICamp](https://aicamp.so/) - ChatGPT for Teams
+*   [Tiledesk](https://tiledesk.com/) - Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.
+
+##### Text / Writing assistants
+
+*   [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics
+
+##### Other / Music
+
+*   [FairyTailAI](https://fairytailai.com/) - Personalized bedtime story generator
+*   [PromptPal](https://promptpal.net) - Search for prompts and bots, then use them with your favourite AI. All in one place.
+*   [Shotstack Workflows](https://shotstack.io/product/workflows/) - No-code, automation workflow tool for building Generative AI media applications.
+*   [Aispect](https://aispect.io/?ref=mahseema-awesome-ai-tools) - New way to experience events.
+*   [PressPulse AI](https://www.presspulse.ai/?ref=mahseema-awesome-ai-tools) - Get personalized media coverage leads every morning.
+*   [GummySearch](https://gummysearch.com/?ref=mahseema-awesome-ai-tools) - AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
+*   [Taplio](https://taplio.com/?ref=mahseema-awesome-ai-tools) - The all-in-one, AI-powered LinkedIn tool.
+
+##### Text / Productivity
+
+*   [Elephas](https://elephas.app/?ref=mahseema-awesome-ai-tools) - Personal AI writing assistant for the Mac.
+*   [Lemmy](https://lemmy.co/?ref=mahseema-awesome-ai-tools) - Autonomous AI Assistant for Work.
+*   [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=mahseema-awesome-ai-tools) - Forget about frustrating formulas in Google Sheets.
+
+##### Text / Customer Support
+
+*   [SiteGPT](https://sitegpt.ai/?ref=mahseema-awesome-ai-tools) - Make AI your expert customer support agent.
+*   [GPTHelp.ai](https://gpthelp.ai/?ref=mahseema-awesome-ai-tools) - ChatGPT for your website / AI customer support chatbot.
+
+##### Text / Other text generators
+
+*   [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=mahseema-awesome-ai-tools) - Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
+
+##### Text / Developer tools
+
+*   [ChatWithCloud](https://chatwithcloud.ai/) - CLI allowing you to interact with AWS Cloud using human language inside your Terminal.
+
+##### Image / Services
+
+*   [StockPhotoAI.net](https://www.stockphotoai.net/?ref=mahseema-awesome-ai-tools) - Great stock photos, made for you.
+
+#### [89. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+
+##### Projects / API Management
+
+*   [Gravitee.io API Management (⭐97) (⭐97)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
+*   [WSO2 API Manager (⭐785) (⭐785)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
+
+##### Projects / API Design
+
+*   [OpenAPI Diff (⭐704) (⭐702)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+*   [Zally (⭐860) (⭐860)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
+
+##### Projects / API Documentation
+
+*   [OpenAPI Explorer (⭐250) (⭐250)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
+*   [Stoplight Elements (⭐1.3k) (⭐1.3k)](https://github.com/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown. Use these UI components to create API reference documentation, or more complete documentation with Markdown articles covering tutorials, how-to guides, etc.
+
+##### Projects / API Gateway
+
+*   [Apache APISIX (⭐13k) (⭐13k)](https://github.com/apache/apisix) - A dynamic, real-time, and high-performance API Gateway that leverages Apache plugins for enhanced functionality.
+*   [KrakenD API Gateway (⭐1.6k) (⭐1.6k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance API Gateway that leverages middlewares for fast and efficient API management.
+
+##### Projects / API Testing
+
+*   MQ clients
+    *   [JMSToolBox (⭐185) (⭐185)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
+    *   [kcat (⭐5k) (⭐5.1k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
+    *   [MQTT Explorer (⭐2.6k) (⭐2.6k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
+    *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
+    *   [Service Bus Explorer (⭐1.8k) (⭐1.9k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
+*   Mocking tools
+    *   [Imposter (⭐324) (⭐324)](https://github.com/outofcoffee/imposter) - Mock server for REST APIs, OpenAPI (and Swagger) specifications, SOAP web services (and WSDL files), Salesforce and HBase APIs.
+    *   [Microcks (⭐1k) (⭐1.1k)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
+    *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
+    *   [Mockoon (⭐5.5k) (⭐5.6k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
+    *   [MockServer (⭐4.3k) (⭐4.4k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
+    *   [Mocky (⭐1.9k) (⭐2k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
+    *   [Prism (⭐3.8k) (⭐3.8k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
+    *   [WireMock (⭐5.9k) (⭐5.9k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
+*   Testing tools and frameworks
+    *   [Apache JMeter (⭐7.6k) (⭐7.6k)](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
+    *   [Gatling (⭐6.1k) (⭐6.1k)](https://github.com/gatling/gatling) - An open-source load testing tool that allows users to write and run load tests as code, providing detailed performance reports to optimize system performance.
+    *   [Karate (⭐7.5k) (⭐7.6k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
+    *   [Pyresttest (⭐1.1k) (⭐1.1k)](https://github.com/svanoort/pyresttest) - Java DSL for easy testing of REST services.
+    *   [REST Assured (⭐6.5k) (⭐6.6k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
+    *   [Schemathesis (⭐1.9k) (⭐2k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
+    *   [Taurus (⭐1.9k) (⭐1.9k)](https://github.com/Blazemeter/taurus) - An open-source framework for continuous testing that simplifies test execution and management through a user-friendly interface and integrates with various testing tools and frameworks.
+
+##### Projects / BRE
+
+*   [OpenL Tablets (⭐136) (⭐136)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
+
+##### Projects / Data Mapping Solution
+
+*   [AltasMap (⭐171) (⭐171)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
+*   [JSLT (⭐587) (⭐587)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
+
+##### Projects / ESB
+
+*   [WSO2 Enterprise Integrator (⭐358) (⭐358)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
+
+##### Projects / ETL
+
+*   [Apache NiFi (⭐4.1k) (⭐4.1k)](https://github.com/apache/nifi) - An automated data integration platform that efficiently moves data between disparate systems.
+*   [Pentaho Data Integration (⭐7.1k) (⭐7.1k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
+
+##### Projects / Integration Frameworks
+
+*   [Ballerina (⭐3.5k) (⭐3.5k)](https://github.com/ballerina-platform/ballerina-lang) - An open-source programming language that simplifies the creation, usage, and combination of network services.
+*   [Frank!Framework (⭐86) (⭐86)](https://github.com/frankframework/frankframework) - A Low-Code Java-based messaging framework to connect your system and application data, that is completely configurable through XML configurations.
+
+##### Projects / Messaging
+
+*   [Eclipse Mosquitto (⭐8k) (⭐8k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
+*   [NATS (⭐14k) (⭐14k)](https://github.com/nats-io/gnatsd) - A lightweight and high-performance messaging system designed for microservices, IoT, and cloud-native systems. Offers efficient and reliable message delivery and supports multiple messaging protocols.
+*   [Redpanda (⭐8.2k) (⭐8.2k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
+*   [VerneMQ (⭐3.1k) (⭐3.1k)](https://github.com/vernemq/vernemq) - A high-performance distributed MQTT message broker designed for scalability and reliability. Offers efficient and reliable message delivery and supports multiple messaging protocols and patterns.
+
+##### Projects / Workflow engine
+
+*   [Activiti (⭐9.7k) (⭐9.7k)](https://github.com/Activiti/Activiti) - A lightweight and Java-centric open-source engine for executing BPMN (Business Process Model and Notation) workflows.
+*   [Bonita (⭐138) (⭐138)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
+*   [Cadence (⭐7.5k) (⭐7.5k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
+*   [Conductor (⭐13k) (⭐13k)](https://github.com/Netflix/conductor) - A cloud-based orchestration engine designed to run and manage workflows in a microservices architecture.
+*   [Elsa Core (⭐5.3k) (⭐5.3k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
+*   [Flowable (⭐7k) (⭐7k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
+*   [Temporal (⭐8.7k) (⭐8.8k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
+
+##### Resources / Data Formats
+
+*   [NDJSON (⭐608) (⭐607)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+*   [YAML (⭐280) (⭐280)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+
+##### Resources / Protocols
+
+*   [OpenMessaging (⭐285) (⭐285)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
+
+#### [90. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+
+##### Agriculture
+
+*   [Cybertiks](https://cybertiks.com/) - Revolutionizing Agriculture and Environmental Monitoring with AI `#paid`
+*   [GreenThumb](https://www.messengerx.io/) - Unlock the World of Gardening with Your AI Companion `#free`
+*   [Vinetribe](https://vinetribe.co/concierge) - Fosters an inclusive wine community through guided at-home tastings `#free`
+
+##### Audio Editing
+
+*   [AI Sound Copilot](https://www.waanda.org/) - Effortless Sound Effects Creation for Videos and Games `#free`
+
+##### Chatbots
+
+*   [Phind](https://www.phind.com/) - An AI-powered coding and technical assistant, making complex tasks simpler. `#freemium`
+
+##### Cooking
+
+*   [Mr. Cook](https://www.mrcook.app/en/tools/recipe-generator) - Your AI-Powered Recipe Generator `#free`
+
+##### Design Generator
+
+*   [Stream Slides](https://streamslide.io/) - YouTube Video to Slides Converter. `#free`
+
+##### E-Commerce
+
+*   [Hulk](https://hulkhelper-ai.webflow.io/) - Personalized Shopping Experience `#free`
+
+##### Education
+
+*   [PagePundit](https://pagepundit.com/) - Discover Tailored Book Suggestions Effortlessly `#free`
+
+##### Fun Tools
+
+*   [Convenient Hairstyle](https://hairstyle.cvhtechnology.com/) - Transform Your Look with Personalized Hairstyle Exploration `#free`
+
+##### HealthCare
+
+*   [MIRI](https://www.miri.health/) - Comprehensive Wellness Platform That Puts Experts in Your Pocket 24/7 `#free`
+
+##### Image Editing
+
+*   [AIPhotoeditor](https://photoeditor.ai/) - AIPhotoeditor is a free photo editor that allows users to remove unwanted objects, people, blemishes, or text from their images in seconds. `#free`
+*   [Image Candy](https://imgcandy.com/) - Online Image Editor - Image Candy `#free`
+
+##### Image Generator
+
+*   [ImageCreator](https://imagecreator.alkaidvision.com/) - A Professional PS plug-in powered by AI `#free`
+*   [Ipic.ai](https://www.ipic.ai/) - Ipic.ai is a free AI image generator that can effortlessly create unique AI art. `#free`
+*   [removebg](https://remove.bg/) - Remove any Image Background `#free`
+*   [Stable Diffusion Online](https://stablediffusionweb.com/#ai-image-generator) - text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds. `#opensource`
+*   [Top VS Best](https://topvsbest.com/aiimagecreator/) - Effortlessly craft mesmerizing and exclusive images through our AI-powered image generation. `#free`
+*   [Zoo](https://zoo.replicate.dev/) - Text-to-Image Playground `#free`
+
+##### Personal Assistant
+
+*   [ChatGPT Sidebar](https://chatgpt-sidebar.com/) - AI & you work side by side on any page `#free`
+*   [Pathfinder](https://www.summit.im/pathfinder/) - Pathfinder, brought to you by Summit, is an innovative AI-driven tool designed to assist individuals in creating personalized plans and strategies to achieve their goals. `#free`
+
+##### Productivity
+
+*   [Glimpse](https://glimpse.surf/) - Seamless browsing experience with conversation, writing, and editing assistance `#free`
+*   [Posylanki](https://www.posylanki.live/) - Streamline Web Content Management & Enhance Browsing Experience `#free`
+
+##### Prompt Generator
+
+*   [Geniea](https://geniea.com/) - Generated prompts for personal journeys. `#free`
+
+##### Resume
+
+*   [Resume AI Scanner](https://pdf.ai/tools/resume-ai-scanner) - Assists in assessing candidates by scanning their resumes, extracting relevant information, and generating questions to evaluate their suitability for a position. `#free`
+
+##### Search Engine
+
+*   [Andi](https://andisearch.com/) - Andi is a generative AI-powered search engine `#free`
+*   [Opera One Browser](https://www.opera.com/one) - Opera One offers a liquid navigation experience with a focus on modular design and AI-powered web services. `#free`
+
+##### SEO
+
+*   [AutoBlogging Pro](https://autoblogging.pro/) - AI-Powered Content Automation for WordPress Blogs `#freemium`
+
+##### Startup Tools
+
+*   [Cookup.ai](https://cookup.ai/) - AI apps for every usecase `#free`
+
+##### Summarizer
+
+*   [Earkind](https://www.earkind.com/) - AI-Generated Podcasts on AI Topics `#free`
+*   [LeaseLens](https://leaselens.ai/) - Automate the extraction of crucial data points from real estate and commercial lease documents `#free`
+
+##### Text to Image
+
+*   [FollowFox](https://followfox.ai/) - Open-source text-to-image generator with impressive features and capabilities. `#free`
+
+##### Transcriber
+
+*   [AI Transcription by Riverside](https://riverside.fm/transcription) - Video and audio transcription `#free`
+*   [VideoToBlog](https://www.videotoblog.ai/) - Convert YouTube videos to blog content in one click `#free`
+
+##### Travel
+
+*   [Roam Around](https://www.roamaround.io/) - Find interesting and fun places to visit `#free`
+
+##### Video Editing
+
+*   [Thumbnail Ai](https://thumbnail-ai.ybouane.com/) - Will provide reviews of youtube thumbnails using AI `#free`
+
+##### Video Generator
+
+*   [Chromox](https://chromox.alkaidvision.com/) - Transforming Ideas into Visual Stories. `#free`
+*   [D-ID](https://www.d-id.com/) - D-ID is a platform to generate videos. `#freemium`
+
+##### Writing Generator
+
+*   [Bidlytics](https://www.bidlytics.co/) - Master the Art of Government Contracting `#freemium`
 
 ---
 
@@ -1606,9 +1657,9 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 10. [Awesome Pentest](/content/enaqx/awesome-pentest/README.md) - ([Source ⭐ 20K 📝 12&#x2F;27 ](https://github.com/enaqx/awesome-pentest)) - A collection of awesome penetration testing resources, tools and other shiny things
 11. [Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md) - ([Source ⭐ 16K 📝 12&#x2F;26 ](https://github.com/alexpate/awesome-design-systems)) - 💅🏻 ⚒ A collection of awesome design systems
 12. [Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md) - ([Source ⭐ 15K 📝 12&#x2F;27 ](https://github.com/wilsonfreitas/awesome-quant)) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
-13. [Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md) - ([Source ⭐ 14K 📝 12&#x2F;26 ](https://github.com/ramitsurana/awesome-kubernetes)) - A curated list for awesome kubernetes sources :ship::tada:
-14. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K 📝 12&#x2F;26 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
-15. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 13K 📝 12&#x2F;28 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+13. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 13K 📝 12&#x2F;28 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+14. [Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md) - ([Source ⭐ 14K 📝 12&#x2F;26 ](https://github.com/ramitsurana/awesome-kubernetes)) - A curated list for awesome kubernetes sources :ship::tada:
+15. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K 📝 12&#x2F;26 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
 16. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 14K 📝 12&#x2F;26 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
 17. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 13K 📝 12&#x2F;27 ](https://github.com/markets/awesome-ruby)) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 18. [Awesome Microservices](/content/mfornos/awesome-microservices/README.md) - ([Source ⭐ 13K 📝 12&#x2F;26 ](https://github.com/mfornos/awesome-microservices)) - A curated list of Microservice Architecture related principles and technologies.
@@ -1687,7 +1738,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Qlik](/content/ambster-public/awesome-qlik/README.md) - ([Source ⭐ 30, 📝 19&#x2F;11&#x2F;15 ](https://github.com/ambster-public/awesome-qlik)) - A curated list of awesome Qlik extensions and resources for Qlik Sense and QlikView
 - [Awesome Spark](/content/awesome-spark/awesome-spark/README.md) - ([Source ⭐ 1.5K, 📝 04&#x2F;18 ](https://github.com/awesome-spark/awesome-spark)) - A curated list of awesome Apache Spark packages and resources.
 - [Awesome Splunk](/content/sduff/awesome-splunk/README.md) - ([Source ⭐ 79, 📝 20&#x2F;09&#x2F;11 ](https://github.com/sduff/awesome-splunk)) -   A collection of awesome resources for Splunk
-- [Awesome Streaming](/content/manuzhang/awesome-streaming/README.md) - ([Source ⭐ 2.4K, 📝 11&#x2F;09 ](https://github.com/manuzhang/awesome-streaming)) - a curated list of awesome streaming frameworks, applications, etc
+- [Awesome Streaming](/content/manuzhang/awesome-streaming/README.md) - ([Source ⭐ 2.4K, 📝 12&#x2F;28 ](https://github.com/manuzhang/awesome-streaming)) - a curated list of awesome streaming frameworks, applications, etc
 
 ### Books
 
@@ -1722,10 +1773,10 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Computer Science
 
-- [Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md) - ([Source ⭐ 63, 📝 12&#x2F;27 ](https://github.com/Hyraze/ai-collective-tools)) - Explore a curated selection of AI tools and resources
+- [Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md) - ([Source ⭐ 63, 📝 12&#x2F;28 ](https://github.com/Hyraze/ai-collective-tools)) - Explore a curated selection of AI tools and resources
 - [Asdf Plugins](/content/asdf-vm/asdf-plugins/README.md) - ([Source ⭐ 1K, 📝 02&#x2F;13 ](https://github.com/asdf-vm/asdf-plugins)) - Convenience shortname repository for asdf community plugins
 - [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source ⭐ 2.1K, 📝 10&#x2F;16 ](https://github.com/georgezouq/awesome-ai-in-finance)) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
-- [Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md) - ([Source ⭐ 240, 📝 12&#x2F;27 ](https://github.com/mahseema/awesome-ai-tools)) - A curated list of Artificial Intelligence Top Tools
+- [Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md) - ([Source ⭐ 240, 📝 12&#x2F;28 ](https://github.com/mahseema/awesome-ai-tools)) - A curated list of Artificial Intelligence Top Tools
 - [Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md) - ([Source ⭐ 17K, 📝 21&#x2F;09&#x2F;28 ](https://github.com/jbhuang0604/awesome-computer-vision)) - A curated list of awesome computer vision resources
 - [Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/README.md) - ([Source ⭐ 51, 📝 22&#x2F;01&#x2F;23 ](https://github.com/jyguyomarch/awesome-conversational-ai)) - A curated list of delightful Conversational AI resources.
 - [Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/README.md) - ([Source ⭐ 5.8K, 📝 06&#x2F;23 ](https://github.com/likedan/Awesome-CoreML-Models)) - Largest list of models for Core ML (for iOS 11+)
@@ -2088,7 +2139,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Frc](/content/andrewda/awesome-frc/README.md) - ([Source ⭐ 93, 📝 07&#x2F;23 ](https://github.com/andrewda/awesome-frc)) - A curated list of packages and resources regarding the FIRST Robotics Competition.
 - [Awesome Free Software](/content/johnjago/awesome-free-software/README.md) - ([Source ⭐ 1.3K, 📝 07&#x2F;14 ](https://github.com/johnjago/awesome-free-software)) - Curated list of free as in freedom software
 - [Awesome Funny Markov](/content/sublimino/awesome-funny-markov/README.md) - ([Source ⭐ 186, 📝 22&#x2F;09&#x2F;13 ](https://github.com/sublimino/awesome-funny-markov)) - A curated list of delightfully amusing and facetious Markov chain output.
-- [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 1.6K, 📝 12&#x2F;26 ](https://github.com/filipecalegario/awesome-generative-deep-art)) - A curated list of Generative AI tools, works, models, and references
+- [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 1.6K, 📝 12&#x2F;28 ](https://github.com/filipecalegario/awesome-generative-deep-art)) - A curated list of Generative AI tools, works, models, and references
 - [Awesome Geojson](/content/tmcw/awesome-geojson/README.md) - ([Source ⭐ 2.1K, 📝 12&#x2F;26 ](https://github.com/tmcw/awesome-geojson)) - GeoJSON utilities that will make your life easier.
 - [Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md) - ([Source ⭐ 1.8K, 📝 10&#x2F;02 ](https://github.com/stevemao/awesome-git-addons)) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md) - ([Source ⭐ 144, 📝 12&#x2F;27 ](https://github.com/MyHoneyBadger/awesome-github-wiki)) - :neckbeard: Awesome list GitHub Wikis
@@ -2220,7 +2271,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Heroku](/content/ianstormtaylor/awesome-heroku/README.md) - ([Source ⭐ 280, 📝 19&#x2F;06&#x2F;29 ](https://github.com/ianstormtaylor/awesome-heroku)) - A curated list of helpful Heroku resources.
 - [Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md) - ([Source ⭐ 4.1K, 📝 22&#x2F;06&#x2F;21 ](https://github.com/frenck/awesome-home-assistant)) - A curated list of amazingly awesome Home Assistant resources.
 - [Awesome Ibmcloud](/content/victorshinya/awesome-ibmcloud/README.md) - ([Source ⭐ 74, 📝 20&#x2F;09&#x2F;14 ](https://github.com/victorshinya/awesome-ibmcloud)) - A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs and other resources.
-- [Awesome Integration](/content/stn1slv/awesome-integration/README.md) - ([Source ⭐ 278, 📝 12&#x2F;27 ](https://github.com/stn1slv/awesome-integration)) - A curated list of awesome system integration software and resources.
+- [Awesome Integration](/content/stn1slv/awesome-integration/README.md) - ([Source ⭐ 278, 📝 12&#x2F;28 ](https://github.com/stn1slv/awesome-integration)) - A curated list of awesome system integration software and resources.
 - [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 44K, 📝 09&#x2F;02 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 - [Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/README.md) - ([Source ⭐ 487, 📝 19&#x2F;09&#x2F;10 ](https://github.com/weblancaster/awesome-IoT-hybrid)) - The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
 - [Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md) - ([Source ⭐ 4.1K, 📝 12&#x2F;27 ](https://github.com/ipfs/awesome-ipfs)) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.

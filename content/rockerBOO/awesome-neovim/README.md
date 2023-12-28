@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [scottmckendry/cyberdream.nvim (⭐39)](https://github.com/scottmckendry/cyberdream.nvim) - A high-contrast, futuristic & vibrant coloursheme.
 
+### Utility / Diagnostics
+
+*   [linrongbin16/gentags.nvim (⭐2)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
+
 ## [Dec 26, 2023](/content/2023/12/26/README.md)
 
 ### Plugin Manager

@@ -30,25 +30,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Linear Algebra Done Right](https://linear.axler.net) - Sheldon Axler
 
-#### [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Tree-sitter Supported Colorscheme / Diagnostics
-
-*   [scottmckendry/cyberdream.nvim (⭐39)](https://github.com/scottmckendry/cyberdream.nvim) - A high-contrast, futuristic & vibrant coloursheme.
-
-#### [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+#### [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ##### Form Components / Date / Time picker
 
 *   [schedule-x (⭐5)](https://github.com/schedule-x/schedule-x) - Material design event calendar and date picker components. Demo site: <https://schedule-x.dev/>
 
-#### [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Internet of Things (IoT)
 
 *   [Tasmota](https://tasmota.com) - Open source firmware for ESP devices. Total local control with quick setup and updates. Control using MQTT, Web UI, HTTP or serial. Automate using timers, rules or scripts. Integration with home automation solutions. ([Source Code (⭐21k)](https://github.com/arendst/Tasmota)) `GPL-3.0` `C/C++`
 
-#### [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+#### [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ##### Public Data Resources / Land Use and Land Cover
 
@@ -62,13 +56,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Enscape](https://enscape3d.com/) - Enscape is an easy-to-use rendering software that produces quick, realistic and customizable rendering images for urban design and architectural visualization. The tool integrates well with commonly used 3D modeling softwares such as Rhino, SketchUp, etc.
 
-#### [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### GUI
 
 *   [TGUI (⭐713)](https://github.com/texus/TGUI) - Cross-platform modern c++ GUI. \[Zlib] [website](https://tgui.eu/)
 
-#### [8. Awesome Security](/content/sbilly/awesome-security/README.md)
+#### [7. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ##### Web / Web Application Firewall
 
@@ -78,11 +72,579 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Node.js Secure Coding: Prevention and Exploitation of Path Traversal Vulnerabilities](https://www.nodejs-security.com/book/path-traversal) - Master secure coding in Node.js with real-world vulnerable dependencies and experience firsthand secure coding techniques against Path Traversal vulnerabilities.
 
+#### [8. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+
+##### Table of Contents / Streaming SQL
+
+*   [Proton (⭐347)](https://github.com/timeplus-io/proton) \[C++] - A unified streaming and historical data analytics database in a single binary, powered by ClickHouse.
+
+#### [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [scottmckendry/cyberdream.nvim (⭐39)](https://github.com/scottmckendry/cyberdream.nvim) - A high-contrast, futuristic & vibrant coloursheme.
+
+##### Utility / Diagnostics
+
+*   [linrongbin16/gentags.nvim (⭐2)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
+
+#### [10. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
+
+##### Text / Chatbots
+
+*   [AICamp](https://aicamp.so/) - ChatGPT for Teams
+
+##### Other / Music
+
+*   [FairyTailAI](https://fairytailai.com/) - Personalized bedtime story generator
+
+#### [11. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+
+##### Projects / API Design
+
+*   [OpenAPI Diff (⭐704) (⭐702)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+
+##### Projects / API Gateway
+
+*   [KrakenD API Gateway (⭐1.6k) (⭐1.6k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance API Gateway that leverages middlewares for fast and efficient API management.
+
+##### Projects / Integration Frameworks
+
+*   [Frank!Framework (⭐86) (⭐86)](https://github.com/frankframework/frankframework) - A Low-Code Java-based messaging framework to connect your system and application data, that is completely configurable through XML configurations.
+
+##### Projects / Messaging
+
+*   [Eclipse Mosquitto (⭐8k) (⭐8k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
+*   [Redpanda (⭐8.2k) (⭐8.2k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
+
+##### Resources / Data Formats
+
+*   [NDJSON (⭐608) (⭐607)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+*   [YAML (⭐280) (⭐280)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+
+#### [12. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+
+##### Cooking
+
+*   [Mr. Cook](https://www.mrcook.app/en/tools/recipe-generator) - Your AI-Powered Recipe Generator `#free`
+
+##### Image Editing
+
+*   [AIPhotoeditor](https://photoeditor.ai/) - AIPhotoeditor is a free photo editor that allows users to remove unwanted objects, people, blemishes, or text from their images in seconds. `#free`
+*   [Image Candy](https://imgcandy.com/) - Online Image Editor - Image Candy `#free`
+
+##### Image Generator
+
+*   [Ipic.ai](https://www.ipic.ai/) - Ipic.ai is a free AI image generator that can effortlessly create unique AI art. `#free`
+*   [Top VS Best](https://topvsbest.com/aiimagecreator/) - Effortlessly craft mesmerizing and exclusive images through our AI-powered image generation. `#free`
+
+##### Personal Assistant
+
+*   [ChatGPT Sidebar](https://chatgpt-sidebar.com/) - AI & you work side by side on any page `#free`
+*   [Pathfinder](https://www.summit.im/pathfinder/) - Pathfinder, brought to you by Summit, is an innovative AI-driven tool designed to assist individuals in creating personalized plans and strategies to achieve their goals. `#free`
+
+##### Productivity
+
+*   [Glimpse](https://glimpse.surf/) - Seamless browsing experience with conversation, writing, and editing assistance `#free`
+
+##### Prompt Generator
+
+*   [Geniea](https://geniea.com/) - Generated prompts for personal journeys. `#free`
+
+##### Resume
+
+*   [Resume AI Scanner](https://pdf.ai/tools/resume-ai-scanner) - Assists in assessing candidates by scanning their resumes, extracting relevant information, and generating questions to evaluate their suitability for a position. `#free`
+
+##### Search Engine
+
+*   [Opera One Browser](https://www.opera.com/one) - Opera One offers a liquid navigation experience with a focus on modular design and AI-powered web services. `#free`
+
+##### Startup Tools
+
+*   [Cookup.ai](https://cookup.ai/) - AI apps for every usecase `#free`
+
+##### Transcriber
+
+*   [AI Transcription by Riverside](https://riverside.fm/transcription) - Video and audio transcription `#free`
+
+##### Travel
+
+*   [Roam Around](https://www.roamaround.io/) - Find interesting and fun places to visit `#free`
+
+##### Video Editing
+
+*   [Thumbnail Ai](https://thumbnail-ai.ybouane.com/) - Will provide reviews of youtube thumbnails using AI `#free`
+
 ### [Dec 27, 2023](/content/2023/12/27/README.md)
 
 
 
-#### [1. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
+#### [1. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+
+##### Scheme / Git
+
+*   [chicken-sodium (⭐3)](https://github.com/caolan/chicken-sodium) - Bindings to libsodium crypto library for Chicken Scheme.
+*   [crypto-tools](https://wiki.call-cc.org/eggref/5/crypto-tools) - Useful cryptographic primitives for Chicken Scheme.
+
+#### [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+##### Projects Using Vue.js / Interactive Experiences
+
+*   [Yahya J. Aifit's Portfolio Site](https://yja.me) - Portfolio site that inspired by the appearance of desktop operating system.
+
+##### Components & Libraries / UI Components
+
+*   [virtua (⭐692)](https://github.com/inokawa/virtua) - A zero-config, fast and small (\~3kB) virtual list component for React and Vue
+
+#### [3. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+
+##### Examples / Hardware Offload
+
+*   [XDP/TC-eBPF example (⭐3)](https://github.com/netfoundry/zfw) - Program that uses XDP/TC-eBPF to provide statefull firewalling and socket redirection.
+
+##### Projects Related to eBPF / Networking
+
+*   [PcapPlusPlus](https://pcapplusplus.github.io/) - An open-source C++ library for capturing, parsing and crafting network packets. It features a C++ interface for creating AF\_XDP sockets, making it easy to [send and receive packets through them](https://pcapplusplus.github.io/docs/next/features#af_xdp-support-beta).
+
+#### [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+##### Communication / File Sharing
+
+*   [Dropshare](https://dropshare.app) - powerful menu bar application for sharing screen shots, screen recordings and all other files with over 27 storage providers.
+
+##### Utilities / Productivity
+
+*   [PaletteBrain](https://palettebrain.com) - Access the power of ChatGPT across all your Mac applications with the press of a shortcut.
+
+#### [5. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+
+##### Tools
+
+*   [sourcify (⭐676)](https://github.com/ethereum/sourcify) - Decentralized Solidity contract source code verification service
+
+##### Services & Platforms
+
+*   [Matters.town](https://matters.town/) - Decentralized content publication ecosystem.
+
+#### [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+
+##### OS Images
+
+*   [NextCloudPi (⭐2.2k)](https://github.com/nextcloud/nextcloudpi) - Nextcloud ready image based on Raspbian. Features Nextcloud 11 running on Raspbian 8, with PHP 7 and HTTP2 enabled Apache server.
+
+#### [7. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+
+##### Internet and Networking
+
+*   [Warp](https://apps.gnome.org/app/app.drey.Warp/) - Fast and secure file transfer. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Geopard](https://ranfdev.com/projects/geopard/) - Colorful Gemini client.
+*   [Fractal](https://flathub.org/apps/org.gnome.Fractal) - Matrix client.
+*   [Dino](https://dino.im/) - XMPP Client.
+
+##### Multimedia
+
+*   [Decibels (⭐46)](https://github.com/vixalien/decibels) - Simple music player with waveform view. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Aviator (⭐107)](https://github.com/gianni-rosato/aviator) - Utility for encoding with SVT-AV1 & Opus.
+*   [G4Music](https://flathub.org/apps/com.github.neithern.g4music) - Play your music elegantly.
+*   [Monophony](https://flathub.org/fr/apps/io.gitlab.zehkira.Monophony) - Stream music from YouTube.
+
+##### Graphics
+
+*   [Switcheroo](https://gitlab.com/adhami3310/Switcheroo) - Image converter and manipulator ([ImageMagick](https://imagemagick.org) frontend). ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+
+##### Utilities
+
+*   [Kooha (⭐1.9k)](https://github.com/SeaDve/Kooha) - Elegantly record your screen.
+
+#### [8. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
+
+##### Apps / Productivity
+
+*   [Planify (⭐2.5k)](https://github.com/alainm23/planify) - Task manager with Todoist support designed for GNU/Linux.
+
+#### [9. Awesome Deno](/content/denolib/awesome-deno/README.md)
+
+##### Modules / Automation
+
+*   [swissknife (⭐3)](https://github.com/fakoua/SwissKnife) - SwissKnife - Deno Swiss Knife tools for Windows.
+
+#### [10. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+
+##### Development / Discovery
+
+*   [flakelight (⭐72)](https://github.com/nix-community/flakelight) - A modular flake framework aiming to minimize boilerplate.
+*   [services-flake (⭐54)](https://github.com/juspay/services-flake) - A NixOS-like service configuration framework for Nix flakes.
+
+#### [11. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+
+##### Other plugins
+
+*   [Safe Area (⭐37)](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS
+
+#### [12. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
+
+##### ArcGIS location services
+
+*   [Basemap styles service (v1)](https://developers.arcgis.com/documentation/mapping-apis-and-services/maps/services/basemap-layer-service/) - Access streets, satellite, and other basemap styles for maps and scenes.
+*   [Basemap styles service (v2)](https://developers.arcgis.com/rest/basemap-styles/) - Access multiples map styles, add places of interest, set labels languages, word views and more.
+*   [Places service](https://developers.arcgis.com/rest/places/) - Search for businesses and geographic locations around the world with detailed information about each place.
+
+##### Helpers
+
+*   [snippets client side raster functions](https://ubatsukh.github.io/arcgis-js-api-demos/clientside-rasterfunctions/index.html) - The client-side raster functions are operations that apply processing directly to the source image pixels.
+
+#### [13. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+##### Third-Party Packages / General
+
+*   [django-nh3 (⭐11)](https://github.com/marksweb/django-nh3) - Django integration with for nh3 and is an alternative for django-bleach.
+
+##### Third-Party Packages / Search
+
+*   [django-elasticsearch-dsl (⭐987)](https://github.com/django-es/django-elasticsearch-dsl) - Elasticsearch DSL integration for Django.
+
+#### [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+
+##### Communications / Radio
+
+*   [micropython\_dcf77 (⭐0)](https://github.com/dsiggi/micropython-dcf77) - DCF77 receiver and decoder.
+
+##### Mathematics / Waveform Generator
+
+*   [Sun and Moon (⭐387)](https://github.com/peterhinch/micropython-samples/blob/master/astronomy/README.md) - Determine Sun and Moon rise and set times, Moon phases.
+
+#### [15. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Artificial Intelligence
+
+*   [langchaingo (⭐1.8k)](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
+*   [LocalAI (⭐15k)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
+*   [Ollama (⭐28k)](https://github.com/jmorganca/ollama) - Run large language models locally.
+
+##### Email
+
+*   [Maddy (⭐4.5k)](https://github.com/foxcpp/maddy) - All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server
+
+##### Error Handling
+
+*   [errors](https://gitlab.com/tozd/go/errors) - Providing errors with a stack trace and optional structured details. Compatible with github.com/pkg/errors API but does not use it internally.
+
+##### GUI
+
+*   [Goey](https://bitbucket.org/rj/goey/src/master/) - Cross platform UI toolkit aggregator for Windows / Linux / Mac. GTK, Cocoa, Windows API
+
+##### Strings
+
+*   [bexp (⭐16)](https://github.com/happy-sdk/happy-go/tree/main/strings/bexp) - Go implementation of Brace Expansion mechanism to generate arbitrary strings.
+
+##### Serialization
+
+*   [gotiny (⭐15)](https://github.com/raszia/gotiny) - Efficient Go serialization library, gotiny is almost as fast as serialization libraries that generate code.
+
+##### Web Frameworks
+
+*   [GoFr (⭐657)](https://github.com/gofr-dev/gofr) - Gofr is an opinionated microservice development framework.
+
+##### Go Generate Tools / Libraries for creating HTTP middlewares
+
+*   [envdoc (⭐13)](https://github.com/g4s8/envdoc) -  generate documentation for environment variables from Go source files.
+
+##### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [decompose (⭐58)](https://github.com/s0rg/decompose) - tool to generate and process Docker containers connections graphs.
+
+##### Other Software / Libraries for creating HTTP middlewares
+
+*   [yai (⭐444)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+
+#### [16. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+
+##### DevOps Tools
+
+*   [Kamal (⭐8.1k)](https://github.com/basecamp/kamal) - Kamal offers zero-downtime deploys, rolling restarts, asset bridging, remote builds, accessory service management, and everything else you need to deploy and manage your web app in production with Docker.
+
+#### [17. Awesome R](/content/qinwf/awesome-R/README.md)
+
+##### 2023
+
+*   [Cookbook Polars for R](https://ddotta.github.io/cookbook-rpolars/)
+
+##### Reproducible Research
+
+*   [targets](https://docs.ropensci.org/targets/) - Make-like pipeline tool for organizing and running data science workflows, automatically skipping steps that have already been done. Supported by [rOpenSci](https://ropensci.org/).
+
+#### [18. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+##### Graph databases
+
+*   [AllegroGraph](https://allegrograph.com/) - a high-performance, multi-model (document and graph), entity-event knowledge graph technology.
+    *   Proprietary, with a free version of a limit of 5 million RDF triples.
+    *   with a [hosted version](https://allegrograph.cloud/)
+    *   AllegroGraph 8.0 (released December, 2023) "incorporates Large Language Model (LLM) components directly into SPARQL along with vector generation and vector storage for a comprehensive AI Knowledge Graph solution."
+
+##### Typing
+
+*   experimental: [PELTADOT](https://gitlab.com/digikar/peltadot/) - PELTADOT Extends Lisp’s Types And Dispatches Over Them.
+
+##### Theorem provers
+
+*   NASA's [PVS](https://pvs.csl.sri.com/), the Prototype Verification System, and [NASAlib (⭐241)](https://github.com/nasa/pvslib), a collection of formal development libraries.
+    *   its 63 top-level libraries span the fields of: real analysis, limits, continuity, derivatives, integrals; complex integration; directed graphs; exact real arithmetic including trig functions; interval arithmetic and numerical approximations; linear algebra; 2-D, 3-D, 4-D, and n-dimensional vectors… and more.
+
+##### Others / OpenAPI, OData, OpenRPC
+
+*   [jsonrpc (⭐62)](https://github.com/cxxxr/jsonrpc) -  JSON-RPC 2.0 server/client for Common Lisp. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+
+#### [19. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+
+##### Algorithms and Data structures
+
+*   [HKDF (⭐1)](https://github.com/spider-gazelle/HKDF) - HMAC-based Extract-and-Expand Key Derivation Function [rfc5869](https://www.rfc-editor.org/rfc/rfc5869)
+*   [named\_information (⭐0)](https://github.com/spider-gazelle/named_information) - Naming Things with Hashes [rfc6920](https://datatracker.ietf.org/doc/html/rfc6920)
+*   [SPAKE2+ (⭐1)](https://github.com/spider-gazelle/SPAKE2_plus) - Password Authenticated Key Exchange (PAKE) protocol, comparable to SRP-6a
+*   [verhoeff (⭐0)](https://github.com/spider-gazelle/verhoeff) - Implementation of the Verhoeff checksum algorithm
+
+#### [20. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+
+##### Graphical User Interface / Apache License
+
+*   [imgui-ada (⭐4)](https://github.com/Cre8or/ImGui-Ada) - Ada binding of the ImGui library.
+
+#### [21. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+
+##### Books, blogs, and training materials / Community Chat Rooms
+
+*   [Writing an OS in Rust](https://os.phil-opp.com/) A blog series creating a small operating system in Rust
+
+##### Peripheral Access Crates / Microchip
+
+*   [`atsamx7x-rust`](https://github.com/atsams-rs/atsamx7x-rust) Peripheral access API for Microchip (formerly Atmel) SAM S70/E70/V70/V71 microcontrollers.  This git repo hosts both the peripheral access crate and the hal.
+
+##### HAL implementation crates / Microchip
+
+*   [`atsamx7x-hal`](https://crates.io/crates/atsamx7x-hal) - HAL for SAM S70/E70/V70/V71-based devices - ![crates.io](https://img.shields.io/crates/v/atsamx7x-hal.svg)
+
+##### Driver crates / Other
+
+*   [MAX6675](https://crates.io/crates/max6675-hal) - SPI - A driver for the MAX6675 digital thermocouple converter - [Intro blog post](https://barretts.club/posts/max6675-hal/) - ![crates.io](https://img.shields.io/crates/v/max6675-hal.svg)
+
+##### Driver crates / WIP
+
+*   [MS5637](https://crates.io/crates/ms5637) - no\_std I2C driver for the MS5637 temperature and pressure sensor ![crates.io](https://img.shields.io/crates/v/ms5637.svg)
+*   [HX711 (⭐1)](https://github.com/DaneSlattery/hx711) - GPIO - An interrupt-based driver for the HX711 Load Cell Amplifier IC. no-std.
+
+#### [22. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+##### Intentionally Vulnerable Systems / Zealandia
+
+*   [Pentest-Ground](https://pentest-ground.com/).
+
+#### [23. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+
+##### Tools / Other
+
+*   [PETEP (⭐97)](https://github.com/Warxim/petep) - Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.
+
+##### tools / Other
+
+*   [The Cyberclopaedia](https://cr0mll.github.io/cyberclopaedia/) - The open-source encyclopedia of cybersecurity. [GitHub Repository (⭐150)](https://github.com/cr0mll/cyberclopaedia)
+
+#### [24. Awesome Honeypots](/content/paralax/awesome-honeypots/README.md)
+
+##### Honeypots
+
+*   Anti-honeypot stuff
+
+    *   [canarytokendetector (⭐7)](https://github.com/referefref/canarytokendetector) - Tool for detection and nullification of Thinkst CanaryTokens
+    *   [kippo\_detect (⭐54)](https://github.com/andrew-morris/kippo_detect) - Offensive component that detects the presence of the kippo honeypot.
+*   Honeypot deployment
+
+    *   [honeyfs (⭐0)](https://github.com/referefref/honeyfs) - Tool to create artificial file systems for medium/high interaction honeypots.
+    *   [Modern Honeynet Network](http://threatstream.github.io/mhn/) - Streamlines deployment and management of secure honeypots.
+
+#### [25. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+
+##### Tools / IDE Integration
+
+*   [Using a Load Generator in NetBeans IDE](https://netbeans.apache.org/tutorial/main/kb/docs/java/profile-loadgenerator/)
+
+#### [26. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+
+##### Integrations
+
+*   [Chromium for Serverless platforms (⭐616)](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) - Chromium for Serverless platforms.
+*   [@axe-core/playwright (⭐534)](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/playwright/README.md) - Official Axe integration with Playwright.
+*   [artillery-engine-playwright (⭐7.1k)](https://github.com/artilleryio/artillery/tree/main/packages/artillery-engine-playwright) - Load testing with Playwright.
+*   [Serenity/JS](https://serenity-js.org) - Acceptance testing, reporting, and test integration framework for Playwright, implementing the [Screenplay Pattern](https://serenity-js.org/handbook/design/screenplay-pattern/).
+
+##### Utils
+
+*   [automated-Playwright-UI-tests](https://github.com/OctoMind-dev) - Auto-generated, run & maintained with AI-assisted test case discovery.
+*   [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.
+
+##### Reporters
+
+*   [testomatio-reporter (⭐101)](https://github.com/testomatio/reporter) - Runs and sends test executions to the TCMS testomatio, Jira / Linear / Azure DevOps task management.
+
+##### Guides
+
+*   [theheadless.dev](https://www.checklyhq.com/learn/headless/) - Practical guides and runnable examples on Playwright (and Puppeteer).
+*   [serenity-js.org](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/) - Learn how to write acceptance tests in business language using Playwright and the Serenity/JS Screenplay Pattern.
+
+#### [27. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Concepts / Theory of Concepts
+
+*   [What we mean when we say semantic: A Consensus statement on the nomenclature of semantic memory](https://osf.io/preprints/psyarxiv/xrnb2) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=7464626532716945232\&hl=en\&as_sdt=0,5)]. The aim of this multidisciplinary workgroup was to establish consensus definitions for some of the major recurring constructs in semantic research (e.g., concept, amodal, abstract). These efforts yielded a glossary consisting of succinct definitions, agreement, subjective confidence ratings, relevant theoretical background, and principled dissenting views. These core definitions will potentially yield benchmarks for aligning perspectives and improving cross-disciplinary communication in semantic research.
+
+##### Concepts / AI Concept Representation
+
+*   [A Review of Tactile Information: Perception and Action Through Touch](https://ieeexplore.ieee.org/abstract/document/9136877) - ***IEEE Transactions on Robotics***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15493221881484741343\&hl=en\&as_sdt=0,5)]. \[[ResearchGate](https://www.researchgate.net/profile/Qiang-Li-110/publication/342797645_A_Review_of_Tactile_Information_Perception_and_Action_Through_Touch/links/602f95bc92851c4ed5806e9f/A-Review-of-Tactile-Information-Perception-and-Action-Through-Touch.pdf)]. A hierarchy consisting of raw, contact, object, and action levels to structure the tactile information.
+*   [Unit Testing for Concepts in Neural Networks](https://aclanthology.org/2022.tacl-1.69/) - ***Transactions of the Association for Computational Linguistics***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=3036662275506971282\&hl=en\&as_sdt=0,5)]. Testing the concept representation by neural networks through Fodor's theory of concepts.
+
+##### Communications / Pragmatics
+
+*   [The SocialAI School: Insights from Developmental Psychology Towards Artificial Socio-Cultural Agents](https://arxiv.org/abs/2307.07871) - ***ICML'23 Workshop on Theory-of-Mind***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11933410239580707313\&hl=en\&as_sdt=0,5)]. \[[Project](https://sites.google.com/view/socialai-school)].
+*   [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733\&hl=en\&as_sdt=0,5)]. \[[OSMnx Tool (⭐4.5k)](https://github.com/gboeing/osmnx)]. \[[OpenStreetMap Website](https://www.openstreetmap.org/)].
+*   [Saying what you mean in dialogue: A study in conceptual and semantic co-ordination](https://www.speech.kth.se/~edlund/bielefeld/references/garrod-and-anderson-1987.pdf) - ***Cognition***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=15377075954534820544\&hl=en\&as_sdt=0,5)].
+*   [Conversation, co-ordination and convention: an empirical investigation of how groups establish linguistic conventions](http://www.sfs.uni-tuebingen.de/~gjaeger/lehre/ws0708/spieltheorie/garrod.pdf) - ***Cognition***, 1994. \[[All Versions](https://scholar.google.com/scholar?cluster=3784850469297049700\&hl=en\&as_sdt=0,5)].
+
+##### Communications / Language Compositionality
+
+*   [War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars](https://arxiv.org/abs/2311.17227) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=3598519753107761968\&hl=en\&as_sdt=0,5)].
+
+##### Evolutionary Intelligence / Explainable Deep Learning
+
+*   [Phylogenetic evidence for Sino-Tibetan origin in northern China in the Late Neolithic](https://www.nature.com/articles/s41586-019-1153-z) - ***Nature***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=13913123623752818925\&hl=en\&as_sdt=0,5)]. A Bayesian phylogenetic analysis on two competing hypotheses of the origin of the Sino-Tibetan language family suggests that the initial expansion of Sino-Tibetan languages occurred approximately 4,000–6,000 years before present (BP; taken as AD 1950) in the Yellow River basin of northern China, and that this expansion is associated with the development of the Yangshao and/or Majiayao Neolithic cultures.
+*   [Triangulation supports agricultural spread of the Transeurasian languages](https://www.nature.com/articles/s41586-021-04108-8) - ***Nature***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1183005894965630508\&hl=en\&as_sdt=0,5)]. \[[Nature News](https://www.nature.com/articles/d41586-021-03037-w)]. A triangulation of linguistic, archaeological and genetic data suggests that the Transeurasian language family originated in a population of grain farmers in China around 9,000 years ago, and that agriculture underpinned its spread.
+
+##### Science Logology / Democratization of Science
+
+*   [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11962817646389491592\&hl=en\&as_sdt=0,5)]. A review article that examines breakthroughs over the past decade that include self-supervised learning, which allows models to be trained on vast amounts of unlabelled data, and geometric deep learning, which leverages knowledge about the structure of scientific data to enhance model accuracy and efficiency.
+*   [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5962372610489019326\&hl=en\&as_sdt=0,5)].
+
+#### [28. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+
+##### Tools / Services
+
+*   [ChatAbstractions (⭐46)](https://github.com/andrewnguonly/ChatAbstractions): LangChain chat model abstractions for dynamic failover, load balancing, chaos engineering, and more! ![GitHub Repo stars](https://img.shields.io/github/stars/andrewnguonly/ChatAbstractions?style=social)
+
+##### Tools / Agents
+
+*   [CrewAI (⭐497)](https://github.com/joaomdmoura/crewai): Cutting-edge framework for orchestrating role-playing, autonomous AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewai?style=social)
+
+##### Other LLM Frameworks / Videos Playlists
+
+*   [Agency (⭐312)](https://github.com/neurocult/agency): 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach ![GitHub Repo stars](https://img.shields.io/github/stars/neurocult/agency?style=social)
+*   [TaskWeaver (⭐2.6k)](https://github.com/microsoft/TaskWeaver): A code-first agent framework for seamlessly planning and executing data analytics tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TaskWeaver?style=social)
+*   [MicroAgent (⭐565)](https://github.com/aymenfurter/microagents): Agents Capable of Self-Editing Their Prompts / Python Code ![GitHub Repo stars](https://img.shields.io/github/stars/aymenfurter/microagents?style=social)
+*   *   [Casibase (⭐1.5k)](https://github.com/casibase/casibase?utm_source=tldrwebdev):
+
+#### [29. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Resources / Blog posts
+
+*   [Time series Analysis with Polars](https://dev.to/gaborschulz/time-series-analysis-with-polars-3dfg) - A short blog post that explains how to deal with temporal datasets by [@gaborschulz](https://github.com/gaborschulz). Full helpful notebook available [here (⭐0)](https://github.com/gaborschulz/learning-polars/blob/main/01-time-series-analysis/time-series-analysis.ipynb).
+
+#### [30. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+##### Python / Trading & Backtesting
+
+*   [Investing algorithm framework (⭐28)](https://github.com/coding-kitties/investing-algorithm-framework) - Framework for developing, backtesting, and deploying automated trading algorithms.
+*   [vnpy (⭐22k)](https://github.com/vnpy/vnpy) - VeighNa is a Python-based open source quantitative trading system development framework.
+*   [Intelligent Trading Bot (⭐649)](https://github.com/asavinov/intelligent-trading-bot) - Automatically generating signals and trading based on machine learning and feature engineering
+
+##### Python / Quant Research Environment
+
+*   [Jupyter Quant (⭐6)](https://github.com/gnzsnz/jupyter-quant) - A dockerized Jupyter quant research environment with preloaded tools for quant analysis, statsmodels, pymc, arch, py\_vollib, zipline-reloaded, PyPortfolioOpt, etc.
+
+##### Reproducing Works, Training & Books / Data Visualization
+
+*   [QuantFinanceTraining (⭐2)](https://github.com/JoaoJungblut/QuantFinanceTraining) - This repository contains codes that were executed during my training in the CQF (Certificate in Quantitative Finance). The codes are organized by class, facilitating navigation and reference.
+
+#### [31. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+
+##### Useful links with tips & tricks
+
+*   [GitHub Wiki Action. Keep your dev docs in sync with your code](https://github.com/marketplace/actions/github-wiki-action)
+
+#### [32. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+##### Frameworks
+
+*   [itlib (⭐130)](https://github.com/iboB/itlib) - A collection of std-like single-header C++ libraries  \[MIT]
+
+##### CLI
+
+*   [argparse (⭐2.1k)](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++. \[MIT]
+
+##### Containers
+
+*   [parallel-hashmap (⭐2.2k)](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers \[Apache2] [website](https://greg7mdp.github.io/parallel-hashmap/)
+*   [plf::colony (⭐375)](https://github.com/mattreecebentley/plf_colony) - An unordered "bag"-type container which outperforms std containers in high-modification scenarios while maintaining permanent pointers to non-erased elements regardless of insertion/erasure. \[zLib] [website](http://www.plflib.org/colony.htm)
+
+##### Database
+
+*   [TinyORM (⭐134)](https://github.com/silverqx/TinyORM) - Modern C++ ORM library. \[MIT] [website](https://www.tinyorm.org/)
+
+##### Debug
+
+*   [Cpptrace (⭐251)](https://github.com/jeremy-rifkin/cpptrace) - A simple, portable, and self-contained C++ stacktrace library supporting C++11 and greater. \[MIT]
+
+##### Graphics
+
+*   [LunaSVG (⭐711)](https://github.com/sammycage/lunasvg) - a standalone SVG rendering library in C++. \[MIT]
+
+##### Image Processing
+
+*   [libavif (⭐1.3k)](https://github.com/AOMediaCodec/libavif) - Library for encoding and decoding .avif files. \[BSD-2-Clause]
+*   [libjxl (⭐1.4k)](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation. \[BSD-3-Clause]
+*   [libspng (⭐656)](https://github.com/randy408/libspng) - Simple, modern libpng alternative. \[BSD-2] [website](https://libspng.org/)
+*   [LodePNG (⭐1.9k)](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++. \[Zlib]
+*   [MozJPEG (⭐5.3k)](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder. \[BSD/BSD-3-Clause/ZLIB]
+
+##### Memory Allocation
+
+*   [buddy\_alloc (⭐96)](https://github.com/spaskalev/buddy_alloc) - A single header buddy memory allocator for C with bounded allocation costs. \[0BSD]
+
+##### Office Open XML
+
+*   [DuckX (⭐346)](https://github.com/amiremohamadi/DuckX) - C++ library for creating and modifying Microsoft Word (.docx) files. \[MIT]
+*   [FreeXL](https://www.gaia-gis.it/fossil/freexl/index) - an open source library to extract valid data from within Spreadsheets. \[MPL/GPL-2/LGPL-2]
+*   [libxls (⭐354)](https://github.com/libxls/libxls) - Read binary Excel files from C/C++ \[BSD-2-Clause]
+*   [libxlsxwriter (⭐1.3k)](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files. \[BSD-2-Clause] [website](https://libxlsxwriter.github.io/)
+*   [OpenXLSX (⭐1.1k)](https://github.com/troldal/OpenXLSX) - A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.  \[BSD-3-Clause]
+*   [SimpleXlsxWriter](https://sourceforge.net/projects/simplexlsx/) - XLSX files writer for Microsoft Excel 2007 and above. \[zlib]
+*   [XLSX I/O (⭐361)](https://github.com/brechtsanders/xlsxio) - C library for reading and writing .xlsx files. \[MIT]
+
+##### Reflection
+
+*   [reflect-cpp (⭐365)](https://github.com/getml/reflect-cpp) - Serialization through reflection, including automatic field name retrieval from structs. \[MIT]
+
+##### Scripting
+
+*   [QuickJS](https://bellard.org/quickjs/) - a small and embeddable Javascript engine. \[MIT]
+*   [v8pp (⭐855)](https://github.com/pmed/v8pp) - Header-only library to expose C++ classes and functions into V8 to use them in JavaScript code. \[BOOST] [website](https://pmed.github.io/v8pp/)
+
+##### Serialization
+
+*   [iguana (⭐889)](https://github.com/qicosmos/iguana) - a modern, universal and easy-to-use serialization engine developed in C++20 and C++17. \[Apache2]
+
+##### Serial Port
+
+*   [CSerialPort (⭐595)](https://github.com/itas109/CSerialPort) - lightweight cross-platform serial port library. \[LGPL3]
+
+##### Sorting
+
+*   [cpp-sort (⭐578)](https://github.com/Morwenn/cpp-sort) - Sorting algorithms & related tools for C++14. \[MIT]
+
+##### Miscellaneous
+
+*   [date (⭐3k)](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header. \[MIT] [website](https://howardhinnant.github.io/date/date.html)
+*   [emio (⭐115)](https://github.com/Viatorus/emio) - A safe and fast high-level and low-level character input/output library. \[MIT]
+*   [hedley (⭐726)](https://github.com/nemequ/hedley) - A C/C++ header file designed to smooth over some platform-specific annoyances. [website](https://nemequ.github.io/hedley/)
+
+#### [33. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
 
 ##### Text / Writing assistants
 
@@ -124,103 +686,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [StockPhotoAI.net](https://www.stockphotoai.net/?ref=mahseema-awesome-ai-tools) - Great stock photos, made for you.
 
-#### [2. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
-
-##### Scheme / Git
-
-*   [chicken-sodium (⭐3)](https://github.com/caolan/chicken-sodium) - Bindings to libsodium crypto library for Chicken Scheme.
-*   [crypto-tools](https://wiki.call-cc.org/eggref/5/crypto-tools) - Useful cryptographic primitives for Chicken Scheme.
-
-#### [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-##### Projects Using Vue.js / Interactive Experiences
-
-*   [Yahya J. Aifit's Portfolio Site](https://yja.me) - Portfolio site that inspired by the appearance of desktop operating system.
-
-##### Components & Libraries / UI Components
-
-*   [virtua (⭐692)](https://github.com/inokawa/virtua) - A zero-config, fast and small (\~3kB) virtual list component for React and Vue
-
-#### [4. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
-
-##### Examples / Hardware Offload
-
-*   [XDP/TC-eBPF example (⭐3)](https://github.com/netfoundry/zfw) - Program that uses XDP/TC-eBPF to provide statefull firewalling and socket redirection.
-
-##### Projects Related to eBPF / Networking
-
-*   [PcapPlusPlus](https://pcapplusplus.github.io/) - An open-source C++ library for capturing, parsing and crafting network packets. It features a C++ interface for creating AF\_XDP sockets, making it easy to [send and receive packets through them](https://pcapplusplus.github.io/docs/next/features#af_xdp-support-beta).
-
-#### [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-##### Communication / File Sharing
-
-*   [Dropshare](https://dropshare.app) - powerful menu bar application for sharing screen shots, screen recordings and all other files with over 27 storage providers.
-
-##### Utilities / Productivity
-
-*   [PaletteBrain](https://palettebrain.com) - Access the power of ChatGPT across all your Mac applications with the press of a shortcut.
-
-#### [6. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
-
-##### Tools
-
-*   [sourcify (⭐676)](https://github.com/ethereum/sourcify) - Decentralized Solidity contract source code verification service
-
-##### Services & Platforms
-
-*   [Matters.town](https://matters.town/) - Decentralized content publication ecosystem.
-
-#### [7. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
-
-##### OS Images
-
-*   [NextCloudPi (⭐2.2k)](https://github.com/nextcloud/nextcloudpi) - Nextcloud ready image based on Raspbian. Features Nextcloud 11 running on Raspbian 8, with PHP 7 and HTTP2 enabled Apache server.
-
-#### [8. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
-
-##### Internet and Networking
-
-*   [Warp](https://apps.gnome.org/app/app.drey.Warp/) - Fast and secure file transfer. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-*   [Geopard](https://ranfdev.com/projects/geopard/) - Colorful Gemini client.
-*   [Fractal](https://flathub.org/apps/org.gnome.Fractal) - Matrix client.
-*   [Dino](https://dino.im/) - XMPP Client.
-
-##### Multimedia
-
-*   [Decibels (⭐46)](https://github.com/vixalien/decibels) - Simple music player with waveform view. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-*   [Aviator (⭐107)](https://github.com/gianni-rosato/aviator) - Utility for encoding with SVT-AV1 & Opus.
-*   [G4Music](https://flathub.org/apps/com.github.neithern.g4music) - Play your music elegantly.
-*   [Monophony](https://flathub.org/fr/apps/io.gitlab.zehkira.Monophony) - Stream music from YouTube.
-
-##### Graphics
-
-*   [Switcheroo](https://gitlab.com/adhami3310/Switcheroo) - Image converter and manipulator ([ImageMagick](https://imagemagick.org) frontend). ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-
-##### Utilities
-
-*   [Kooha (⭐1.9k)](https://github.com/SeaDve/Kooha) - Elegantly record your screen.
-
-#### [9. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
-
-##### Apps / Productivity
-
-*   [Planify (⭐2.5k)](https://github.com/alainm23/planify) - Task manager with Todoist support designed for GNU/Linux.
-
-#### [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
-
-##### Modules / Automation
-
-*   [swissknife (⭐3)](https://github.com/fakoua/SwissKnife) - SwissKnife - Deno Swiss Knife tools for Windows.
-
-#### [11. Awesome Nix](/content/nix-community/awesome-nix/README.md)
-
-##### Development / Discovery
-
-*   [flakelight (⭐72)](https://github.com/nix-community/flakelight) - A modular flake framework aiming to minimize boilerplate.
-*   [services-flake (⭐54)](https://github.com/juspay/services-flake) - A NixOS-like service configuration framework for Nix flakes.
-
-#### [12. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [34. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -229,7 +695,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ##### Projects / API Design
 
-*   [OpenAPI Diff (⭐701) (⭐702)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
 *   [Zally (⭐860) (⭐860)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
 
 ##### Projects / API Documentation
@@ -304,303 +769,11 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Flowable (⭐7k) (⭐7k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
 *   [Temporal (⭐8.7k) (⭐8.8k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
 
-##### Resources / Data Formats
-
-*   [NDJSON (⭐607) (⭐607)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-*   [YAML (⭐279) (⭐280)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
-
 ##### Resources / Protocols
 
 *   [OpenMessaging (⭐285) (⭐285)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
-#### [13. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
-
-##### Other plugins
-
-*   [Safe Area (⭐37)](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS
-
-#### [14. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
-
-##### ArcGIS location services
-
-*   [Basemap styles service (v1)](https://developers.arcgis.com/documentation/mapping-apis-and-services/maps/services/basemap-layer-service/) - Access streets, satellite, and other basemap styles for maps and scenes.
-*   [Basemap styles service (v2)](https://developers.arcgis.com/rest/basemap-styles/) - Access multiples map styles, add places of interest, set labels languages, word views and more.
-*   [Places service](https://developers.arcgis.com/rest/places/) - Search for businesses and geographic locations around the world with detailed information about each place.
-
-##### Helpers
-
-*   [snippets client side raster functions](https://ubatsukh.github.io/arcgis-js-api-demos/clientside-rasterfunctions/index.html) - The client-side raster functions are operations that apply processing directly to the source image pixels.
-
-#### [15. Awesome Django](/content/wsvincent/awesome-django/README.md)
-
-##### Third-Party Packages / General
-
-*   [django-nh3 (⭐11)](https://github.com/marksweb/django-nh3) - Django integration with for nh3 and is an alternative for django-bleach.
-
-##### Third-Party Packages / Search
-
-*   [django-elasticsearch-dsl (⭐987)](https://github.com/django-es/django-elasticsearch-dsl) - Elasticsearch DSL integration for Django.
-
-#### [16. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
-
-##### Communications / Radio
-
-*   [micropython\_dcf77 (⭐0)](https://github.com/dsiggi/micropython-dcf77) - DCF77 receiver and decoder.
-
-##### Mathematics / Waveform Generator
-
-*   [Sun and Moon (⭐387)](https://github.com/peterhinch/micropython-samples/blob/master/astronomy/README.md) - Determine Sun and Moon rise and set times, Moon phases.
-
-#### [17. Awesome Go](/content/avelino/awesome-go/README.md)
-
-##### Artificial Intelligence
-
-*   [langchaingo (⭐1.8k)](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
-*   [LocalAI (⭐15k)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
-*   [Ollama (⭐28k)](https://github.com/jmorganca/ollama) - Run large language models locally.
-
-##### Email
-
-*   [Maddy (⭐4.5k)](https://github.com/foxcpp/maddy) - All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server
-
-##### Error Handling
-
-*   [errors](https://gitlab.com/tozd/go/errors) - Providing errors with a stack trace and optional structured details. Compatible with github.com/pkg/errors API but does not use it internally.
-
-##### GUI
-
-*   [Goey](https://bitbucket.org/rj/goey/src/master/) - Cross platform UI toolkit aggregator for Windows / Linux / Mac. GTK, Cocoa, Windows API
-
-##### Strings
-
-*   [bexp (⭐16)](https://github.com/happy-sdk/happy-go/tree/main/strings/bexp) - Go implementation of Brace Expansion mechanism to generate arbitrary strings.
-
-##### Serialization
-
-*   [gotiny (⭐15)](https://github.com/raszia/gotiny) - Efficient Go serialization library, gotiny is almost as fast as serialization libraries that generate code.
-
-##### Web Frameworks
-
-*   [GoFr (⭐657)](https://github.com/gofr-dev/gofr) - Gofr is an opinionated microservice development framework.
-
-##### Go Generate Tools / Libraries for creating HTTP middlewares
-
-*   [envdoc (⭐13)](https://github.com/g4s8/envdoc) -  generate documentation for environment variables from Go source files.
-
-##### DevOps Tools / Libraries for creating HTTP middlewares
-
-*   [decompose (⭐58)](https://github.com/s0rg/decompose) - tool to generate and process Docker containers connections graphs.
-
-##### Other Software / Libraries for creating HTTP middlewares
-
-*   [yai (⭐444)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
-
-#### [18. Awesome Ruby](/content/markets/awesome-ruby/README.md)
-
-##### DevOps Tools
-
-*   [Kamal (⭐8.1k)](https://github.com/basecamp/kamal) - Kamal offers zero-downtime deploys, rolling restarts, asset bridging, remote builds, accessory service management, and everything else you need to deploy and manage your web app in production with Docker.
-
-#### [19. Awesome R](/content/qinwf/awesome-R/README.md)
-
-##### 2023
-
-*   [Cookbook Polars for R](https://ddotta.github.io/cookbook-rpolars/)
-
-##### Reproducible Research
-
-*   [targets](https://docs.ropensci.org/targets/) - Make-like pipeline tool for organizing and running data science workflows, automatically skipping steps that have already been done. Supported by [rOpenSci](https://ropensci.org/).
-
-#### [20. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
-
-##### Graph databases
-
-*   [AllegroGraph](https://allegrograph.com/) - a high-performance, multi-model (document and graph), entity-event knowledge graph technology.
-    *   Proprietary, with a free version of a limit of 5 million RDF triples.
-    *   with a [hosted version](https://allegrograph.cloud/)
-    *   AllegroGraph 8.0 (released December, 2023) "incorporates Large Language Model (LLM) components directly into SPARQL along with vector generation and vector storage for a comprehensive AI Knowledge Graph solution."
-
-##### Typing
-
-*   experimental: [PELTADOT](https://gitlab.com/digikar/peltadot/) - PELTADOT Extends Lisp’s Types And Dispatches Over Them.
-
-##### Theorem provers
-
-*   NASA's [PVS](https://pvs.csl.sri.com/), the Prototype Verification System, and [NASAlib (⭐241)](https://github.com/nasa/pvslib), a collection of formal development libraries.
-    *   its 63 top-level libraries span the fields of: real analysis, limits, continuity, derivatives, integrals; complex integration; directed graphs; exact real arithmetic including trig functions; interval arithmetic and numerical approximations; linear algebra; 2-D, 3-D, 4-D, and n-dimensional vectors… and more.
-
-##### Others / OpenAPI, OData, OpenRPC
-
-*   [jsonrpc (⭐62)](https://github.com/cxxxr/jsonrpc) -  JSON-RPC 2.0 server/client for Common Lisp. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-
-#### [21. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
-
-##### Algorithms and Data structures
-
-*   [HKDF (⭐1)](https://github.com/spider-gazelle/HKDF) - HMAC-based Extract-and-Expand Key Derivation Function [rfc5869](https://www.rfc-editor.org/rfc/rfc5869)
-*   [named\_information (⭐0)](https://github.com/spider-gazelle/named_information) - Naming Things with Hashes [rfc6920](https://datatracker.ietf.org/doc/html/rfc6920)
-*   [SPAKE2+ (⭐1)](https://github.com/spider-gazelle/SPAKE2_plus) - Password Authenticated Key Exchange (PAKE) protocol, comparable to SRP-6a
-*   [verhoeff (⭐0)](https://github.com/spider-gazelle/verhoeff) - Implementation of the Verhoeff checksum algorithm
-
-#### [22. Awesome Ada](/content/ohenley/awesome-ada/README.md)
-
-##### Graphical User Interface / Apache License
-
-*   [imgui-ada (⭐4)](https://github.com/Cre8or/ImGui-Ada) - Ada binding of the ImGui library.
-
-#### [23. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
-
-##### Books, blogs, and training materials / Community Chat Rooms
-
-*   [Writing an OS in Rust](https://os.phil-opp.com/) A blog series creating a small operating system in Rust
-
-##### Peripheral Access Crates / Microchip
-
-*   [`atsamx7x-rust`](https://github.com/atsams-rs/atsamx7x-rust) Peripheral access API for Microchip (formerly Atmel) SAM S70/E70/V70/V71 microcontrollers.  This git repo hosts both the peripheral access crate and the hal.
-
-##### HAL implementation crates / Microchip
-
-*   [`atsamx7x-hal`](https://crates.io/crates/atsamx7x-hal) - HAL for SAM S70/E70/V70/V71-based devices - ![crates.io](https://img.shields.io/crates/v/atsamx7x-hal.svg)
-
-##### Driver crates / Other
-
-*   [MAX6675](https://crates.io/crates/max6675-hal) - SPI - A driver for the MAX6675 digital thermocouple converter - [Intro blog post](https://barretts.club/posts/max6675-hal/) - ![crates.io](https://img.shields.io/crates/v/max6675-hal.svg)
-
-##### Driver crates / WIP
-
-*   [MS5637](https://crates.io/crates/ms5637) - no\_std I2C driver for the MS5637 temperature and pressure sensor ![crates.io](https://img.shields.io/crates/v/ms5637.svg)
-*   [HX711 (⭐1)](https://github.com/DaneSlattery/hx711) - GPIO - An interrupt-based driver for the HX711 Load Cell Amplifier IC. no-std.
-
-#### [24. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
-
-##### Intentionally Vulnerable Systems / Zealandia
-
-*   [Pentest-Ground](https://pentest-ground.com/).
-
-#### [25. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
-
-##### Tools / Other
-
-*   [PETEP (⭐97)](https://github.com/Warxim/petep) - Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.
-
-##### tools / Other
-
-*   [The Cyberclopaedia](https://cr0mll.github.io/cyberclopaedia/) - The open-source encyclopedia of cybersecurity. [GitHub Repository (⭐150)](https://github.com/cr0mll/cyberclopaedia)
-
-#### [26. Awesome Honeypots](/content/paralax/awesome-honeypots/README.md)
-
-##### Honeypots
-
-*   Anti-honeypot stuff
-
-    *   [canarytokendetector (⭐7)](https://github.com/referefref/canarytokendetector) - Tool for detection and nullification of Thinkst CanaryTokens
-    *   [kippo\_detect (⭐54)](https://github.com/andrew-morris/kippo_detect) - Offensive component that detects the presence of the kippo honeypot.
-*   Honeypot deployment
-
-    *   [honeyfs (⭐0)](https://github.com/referefref/honeyfs) - Tool to create artificial file systems for medium/high interaction honeypots.
-    *   [Modern Honeynet Network](http://threatstream.github.io/mhn/) - Streamlines deployment and management of secure honeypots.
-
-#### [27. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
-
-##### Tools / IDE Integration
-
-*   [Using a Load Generator in NetBeans IDE](https://netbeans.apache.org/tutorial/main/kb/docs/java/profile-loadgenerator/)
-
-#### [28. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
-
-##### Integrations
-
-*   [Chromium for Serverless platforms (⭐616)](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) - Chromium for Serverless platforms.
-*   [@axe-core/playwright (⭐534)](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/playwright/README.md) - Official Axe integration with Playwright.
-*   [artillery-engine-playwright (⭐7.1k)](https://github.com/artilleryio/artillery/tree/main/packages/artillery-engine-playwright) - Load testing with Playwright.
-*   [Serenity/JS](https://serenity-js.org) - Acceptance testing, reporting, and test integration framework for Playwright, implementing the [Screenplay Pattern](https://serenity-js.org/handbook/design/screenplay-pattern/).
-
-##### Utils
-
-*   [automated-Playwright-UI-tests](https://github.com/OctoMind-dev) - Auto-generated, run & maintained with AI-assisted test case discovery.
-*   [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.
-
-##### Reporters
-
-*   [testomatio-reporter (⭐101)](https://github.com/testomatio/reporter) - Runs and sends test executions to the TCMS testomatio, Jira / Linear / Azure DevOps task management.
-
-##### Guides
-
-*   [theheadless.dev](https://www.checklyhq.com/learn/headless/) - Practical guides and runnable examples on Playwright (and Puppeteer).
-*   [serenity-js.org](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/) - Learn how to write acceptance tests in business language using Playwright and the Serenity/JS Screenplay Pattern.
-
-#### [29. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Concepts / Theory of Concepts
-
-*   [What we mean when we say semantic: A Consensus statement on the nomenclature of semantic memory](https://osf.io/preprints/psyarxiv/xrnb2) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=7464626532716945232\&hl=en\&as_sdt=0,5)]. The aim of this multidisciplinary workgroup was to establish consensus definitions for some of the major recurring constructs in semantic research (e.g., concept, amodal, abstract). These efforts yielded a glossary consisting of succinct definitions, agreement, subjective confidence ratings, relevant theoretical background, and principled dissenting views. These core definitions will potentially yield benchmarks for aligning perspectives and improving cross-disciplinary communication in semantic research.
-
-##### Concepts / AI Concept Representation
-
-*   [A Review of Tactile Information: Perception and Action Through Touch](https://ieeexplore.ieee.org/abstract/document/9136877) - ***IEEE Transactions on Robotics***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15493221881484741343\&hl=en\&as_sdt=0,5)]. \[[ResearchGate](https://www.researchgate.net/profile/Qiang-Li-110/publication/342797645_A_Review_of_Tactile_Information_Perception_and_Action_Through_Touch/links/602f95bc92851c4ed5806e9f/A-Review-of-Tactile-Information-Perception-and-Action-Through-Touch.pdf)]. A hierarchy consisting of raw, contact, object, and action levels to structure the tactile information.
-*   [Unit Testing for Concepts in Neural Networks](https://aclanthology.org/2022.tacl-1.69/) - ***Transactions of the Association for Computational Linguistics***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=3036662275506971282\&hl=en\&as_sdt=0,5)]. Testing the concept representation by neural networks through Fodor's theory of concepts.
-
-##### Communications / Pragmatics
-
-*   [The SocialAI School: Insights from Developmental Psychology Towards Artificial Socio-Cultural Agents](https://arxiv.org/abs/2307.07871) - ***ICML'23 Workshop on Theory-of-Mind***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11933410239580707313\&hl=en\&as_sdt=0,5)]. \[[Project](https://sites.google.com/view/socialai-school)].
-*   [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733\&hl=en\&as_sdt=0,5)]. \[[OSMnx Tool (⭐4.5k)](https://github.com/gboeing/osmnx)]. \[[OpenStreetMap Website](https://www.openstreetmap.org/)].
-*   [Saying what you mean in dialogue: A study in conceptual and semantic co-ordination](https://www.speech.kth.se/~edlund/bielefeld/references/garrod-and-anderson-1987.pdf) - ***Cognition***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=15377075954534820544\&hl=en\&as_sdt=0,5)].
-*   [Conversation, co-ordination and convention: an empirical investigation of how groups establish linguistic conventions](http://www.sfs.uni-tuebingen.de/~gjaeger/lehre/ws0708/spieltheorie/garrod.pdf) - ***Cognition***, 1994. \[[All Versions](https://scholar.google.com/scholar?cluster=3784850469297049700\&hl=en\&as_sdt=0,5)].
-
-##### Communications / Language Compositionality
-
-*   [War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars](https://arxiv.org/abs/2311.17227) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=3598519753107761968\&hl=en\&as_sdt=0,5)].
-
-##### Evolutionary Intelligence / Explainable Deep Learning
-
-*   [Phylogenetic evidence for Sino-Tibetan origin in northern China in the Late Neolithic](https://www.nature.com/articles/s41586-019-1153-z) - ***Nature***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=13913123623752818925\&hl=en\&as_sdt=0,5)]. A Bayesian phylogenetic analysis on two competing hypotheses of the origin of the Sino-Tibetan language family suggests that the initial expansion of Sino-Tibetan languages occurred approximately 4,000–6,000 years before present (BP; taken as AD 1950) in the Yellow River basin of northern China, and that this expansion is associated with the development of the Yangshao and/or Majiayao Neolithic cultures.
-*   [Triangulation supports agricultural spread of the Transeurasian languages](https://www.nature.com/articles/s41586-021-04108-8) - ***Nature***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1183005894965630508\&hl=en\&as_sdt=0,5)]. \[[Nature News](https://www.nature.com/articles/d41586-021-03037-w)]. A triangulation of linguistic, archaeological and genetic data suggests that the Transeurasian language family originated in a population of grain farmers in China around 9,000 years ago, and that agriculture underpinned its spread.
-
-##### Science Logology / Democratization of Science
-
-*   [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11962817646389491592\&hl=en\&as_sdt=0,5)]. A review article that examines breakthroughs over the past decade that include self-supervised learning, which allows models to be trained on vast amounts of unlabelled data, and geometric deep learning, which leverages knowledge about the structure of scientific data to enhance model accuracy and efficiency.
-*   [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5962372610489019326\&hl=en\&as_sdt=0,5)].
-
-#### [30. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
-
-##### Tools / Services
-
-*   [ChatAbstractions (⭐46)](https://github.com/andrewnguonly/ChatAbstractions): LangChain chat model abstractions for dynamic failover, load balancing, chaos engineering, and more! ![GitHub Repo stars](https://img.shields.io/github/stars/andrewnguonly/ChatAbstractions?style=social)
-
-##### Tools / Agents
-
-*   [CrewAI (⭐497)](https://github.com/joaomdmoura/crewai): Cutting-edge framework for orchestrating role-playing, autonomous AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewai?style=social)
-
-##### Other LLM Frameworks / Videos Playlists
-
-*   [Agency (⭐312)](https://github.com/neurocult/agency): 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach ![GitHub Repo stars](https://img.shields.io/github/stars/neurocult/agency?style=social)
-*   [TaskWeaver (⭐2.6k)](https://github.com/microsoft/TaskWeaver): A code-first agent framework for seamlessly planning and executing data analytics tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TaskWeaver?style=social)
-*   [MicroAgent (⭐565)](https://github.com/aymenfurter/microagents): Agents Capable of Self-Editing Their Prompts / Python Code ![GitHub Repo stars](https://img.shields.io/github/stars/aymenfurter/microagents?style=social)
-*   *   [Casibase (⭐1.5k)](https://github.com/casibase/casibase?utm_source=tldrwebdev):
-
-#### [31. Awesome Polars](/content/ddotta/awesome-polars/README.md)
-
-##### Resources / Blog posts
-
-*   [Time series Analysis with Polars](https://dev.to/gaborschulz/time-series-analysis-with-polars-3dfg) - A short blog post that explains how to deal with temporal datasets by [@gaborschulz](https://github.com/gaborschulz). Full helpful notebook available [here (⭐0)](https://github.com/gaborschulz/learning-polars/blob/main/01-time-series-analysis/time-series-analysis.ipynb).
-
-#### [32. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
-
-##### Python / Trading & Backtesting
-
-*   [Investing algorithm framework (⭐28)](https://github.com/coding-kitties/investing-algorithm-framework) - Framework for developing, backtesting, and deploying automated trading algorithms.
-*   [vnpy (⭐22k)](https://github.com/vnpy/vnpy) - VeighNa is a Python-based open source quantitative trading system development framework.
-*   [Intelligent Trading Bot (⭐649)](https://github.com/asavinov/intelligent-trading-bot) - Automatically generating signals and trading based on machine learning and feature engineering
-
-##### Python / Quant Research Environment
-
-*   [Jupyter Quant (⭐6)](https://github.com/gnzsnz/jupyter-quant) - A dockerized Jupyter quant research environment with preloaded tools for quant analysis, statsmodels, pymc, arch, py\_vollib, zipline-reloaded, PyPortfolioOpt, etc.
-
-##### Reproducing Works, Training & Books / Data Visualization
-
-*   [QuantFinanceTraining (⭐2)](https://github.com/JoaoJungblut/QuantFinanceTraining) - This repository contains codes that were executed during my training in the CQF (Certificate in Quantitative Finance). The codes are organized by class, facilitating navigation and reference.
-
-#### [33. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+#### [35. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ##### Agriculture
 
@@ -676,88 +849,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Writing Generator
 
 *   [Bidlytics](https://www.bidlytics.co/) - Master the Art of Government Contracting `#freemium`
-
-#### [34. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
-
-##### Useful links with tips & tricks
-
-*   [GitHub Wiki Action. Keep your dev docs in sync with your code](https://github.com/marketplace/actions/github-wiki-action)
-
-#### [35. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-##### Frameworks
-
-*   [itlib (⭐130)](https://github.com/iboB/itlib) - A collection of std-like single-header C++ libraries  \[MIT]
-
-##### CLI
-
-*   [argparse (⭐2.1k)](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++. \[MIT]
-
-##### Containers
-
-*   [parallel-hashmap (⭐2.2k)](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers \[Apache2] [website](https://greg7mdp.github.io/parallel-hashmap/)
-*   [plf::colony (⭐375)](https://github.com/mattreecebentley/plf_colony) - An unordered "bag"-type container which outperforms std containers in high-modification scenarios while maintaining permanent pointers to non-erased elements regardless of insertion/erasure. \[zLib] [website](http://www.plflib.org/colony.htm)
-
-##### Database
-
-*   [TinyORM (⭐134)](https://github.com/silverqx/TinyORM) - Modern C++ ORM library. \[MIT] [website](https://www.tinyorm.org/)
-
-##### Debug
-
-*   [Cpptrace (⭐251)](https://github.com/jeremy-rifkin/cpptrace) - A simple, portable, and self-contained C++ stacktrace library supporting C++11 and greater. \[MIT]
-
-##### Graphics
-
-*   [LunaSVG (⭐711)](https://github.com/sammycage/lunasvg) - a standalone SVG rendering library in C++. \[MIT]
-
-##### Image Processing
-
-*   [libavif (⭐1.3k)](https://github.com/AOMediaCodec/libavif) - Library for encoding and decoding .avif files. \[BSD-2-Clause]
-*   [libjxl (⭐1.4k)](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation. \[BSD-3-Clause]
-*   [libspng (⭐656)](https://github.com/randy408/libspng) - Simple, modern libpng alternative. \[BSD-2] [website](https://libspng.org/)
-*   [LodePNG (⭐1.9k)](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++. \[Zlib]
-*   [MozJPEG (⭐5.3k)](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder. \[BSD/BSD-3-Clause/ZLIB]
-
-##### Memory Allocation
-
-*   [buddy\_alloc (⭐96)](https://github.com/spaskalev/buddy_alloc) - A single header buddy memory allocator for C with bounded allocation costs. \[0BSD]
-
-##### Office Open XML
-
-*   [DuckX (⭐346)](https://github.com/amiremohamadi/DuckX) - C++ library for creating and modifying Microsoft Word (.docx) files. \[MIT]
-*   [FreeXL](https://www.gaia-gis.it/fossil/freexl/index) - an open source library to extract valid data from within Spreadsheets. \[MPL/GPL-2/LGPL-2]
-*   [libxls (⭐354)](https://github.com/libxls/libxls) - Read binary Excel files from C/C++ \[BSD-2-Clause]
-*   [libxlsxwriter (⭐1.3k)](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files. \[BSD-2-Clause] [website](https://libxlsxwriter.github.io/)
-*   [OpenXLSX (⭐1.1k)](https://github.com/troldal/OpenXLSX) - A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.  \[BSD-3-Clause]
-*   [SimpleXlsxWriter](https://sourceforge.net/projects/simplexlsx/) - XLSX files writer for Microsoft Excel 2007 and above. \[zlib]
-*   [XLSX I/O (⭐361)](https://github.com/brechtsanders/xlsxio) - C library for reading and writing .xlsx files. \[MIT]
-
-##### Reflection
-
-*   [reflect-cpp (⭐365)](https://github.com/getml/reflect-cpp) - Serialization through reflection, including automatic field name retrieval from structs. \[MIT]
-
-##### Scripting
-
-*   [QuickJS](https://bellard.org/quickjs/) - a small and embeddable Javascript engine. \[MIT]
-*   [v8pp (⭐855)](https://github.com/pmed/v8pp) - Header-only library to expose C++ classes and functions into V8 to use them in JavaScript code. \[BOOST] [website](https://pmed.github.io/v8pp/)
-
-##### Serialization
-
-*   [iguana (⭐889)](https://github.com/qicosmos/iguana) - a modern, universal and easy-to-use serialization engine developed in C++20 and C++17. \[Apache2]
-
-##### Serial Port
-
-*   [CSerialPort (⭐595)](https://github.com/itas109/CSerialPort) - lightweight cross-platform serial port library. \[LGPL3]
-
-##### Sorting
-
-*   [cpp-sort (⭐578)](https://github.com/Morwenn/cpp-sort) - Sorting algorithms & related tools for C++14. \[MIT]
-
-##### Miscellaneous
-
-*   [date (⭐3k)](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header. \[MIT] [website](https://howardhinnant.github.io/date/date.html)
-*   [emio (⭐115)](https://github.com/Viatorus/emio) - A safe and fast high-level and low-level character input/output library. \[MIT]
-*   [hedley (⭐726)](https://github.com/nemequ/hedley) - A C/C++ header file designed to smooth over some platform-specific annoyances. [website](https://nemequ.github.io/hedley/)
 
 ### [Dec 26, 2023](/content/2023/12/26/README.md)
 
@@ -1247,7 +1338,245 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ClaraCrazy (⭐30)](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
 
-#### [39. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [39. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
+
+##### Tutorials
+
+*   [Prometheus Monitoring Tutorial (10 minutes)](https://pagertree.com/blog/prometheus-monitoring-tutorial) - Simple tutorial to create a Prometheus monitoring stack with Grafana, AlertManager, and PagerTree by Austin Miller.
+
+##### Blog posts and opinions
+
+*   [Practical Services Monitoring with Prometheus and Docker](https://web.archive.org/web/20221206045124/https://airtame.engineering/practical-services-monitoring-with-prometheus-and-docker-30abd3cf9603?gi=b81b1156b4d9) - Practical services monitoring with Prometheus and Docker by Simon KP.
+
+#### [40. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
+
+##### Rock Solid Modern Rails [↗](https://awesomestacks.dev/rock-solid-modern-rails) / Resources
+
+*   [Cloud 66](https://www.cloud66.com/) - [🛠️](https://stackshare.io/cloud-66) Cloud 66 gives you everything you need to build, deploy, and manage your Rails applications on any cloud without the headache of the “server stuff”.
+
+#### [41. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+
+##### Tools & Software / Utilities
+
+*   [Internet Archive Library (⭐1.4k)](https://github.com/jjjake/internetarchive) - A command line tool and Python library for interacting directly with [archive.org](https://archive.org). (Python). *(Stable)*
+
+#### [42. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+
+##### Development / Engines
+
+*   [Onirix Studio](https://www.onirix.com/) - A no-code editor for creating Web AR experiences in the browser. It emulates features of the WebXR if target device / browser is not compatible.
+
+##### Development / Frameworks and Libraries
+
+*   [JSAR-DOM (⭐14)](https://github.com/M-CreativeLab/jsar-dom) A TypeScript re-implementation of WHATWG DOM, CSSOM and WebXR for XR applications built on top of Babylon.js.
+
+#### [43. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+
+##### Contents / Shopping
+
+*   [Flutterzon (⭐15)](https://github.com/tejasbadone/flutterzon_bloc) - Designed as an Amazon clone, leveraging Flutter, Node.js, MongoDB, and Bloc for state management. Additionally, it features an Admin Panel for advanced control and management by [Tejas Badone](https://github.com/tejasbadone)
+
+#### [44. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+##### Components & Libraries / UI Components
+
+*   [vuetify-drilldown-table (⭐6)](https://github.com/webdevnerdstuff/vuetify-drilldown-table) - The Vuetify Drilldown Table is a powerful component that enhances the functionality of the Vuetify framework's v-data-table and v-data-table-server. It provides a recursive table structure, allowing you to display hierarchical data in a nested format.
+*   [vue-code-block (⭐16)](https://github.com/webdevnerdstuff/vue-code-block) - Vue 3 CodeBlock - Highlight your code with ease using this syntax highlighting component powered by PrismJS or Highlight.js.
+*   [vuetify-color-field (⭐5)](https://github.com/webdevnerdstuff/vuetify-color-field) - Vuetify Color Field is a Vuetify VTextField Color Picker Component
+*   [vuetify-inline-fields (⭐11)](https://github.com/webdevnerdstuff/vuetify-inline-fields) - Vuetify Inline Fields Component Library offers a comprehensive collection of reusable UI components to create elegant and efficient inline form fields within your applications.
+
+##### Components & Libraries / Frameworks
+
+*   [Dolphin Admin (⭐50)](https://github.com/bit-ocean-studio/dolphin-admin-vue) - An open source, free, lightweight, out-of-the-box, internationalized admin template based on Vue 3 + Vite + Naive UI + TypeScript + TailwindCSS. [Live demo](https://dolphin-admin-vue.bit-ocean.studio/)
+
+#### [45. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+##### zinit
+
+*   175+ perl, python, bash, ZSH scripts
+
+##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [autoenv (⭐5.4k)](https://github.com/hyperupcall/autoenv) - Directory-based environments.
+*   [calc (arzzen) (⭐128)](https://github.com/arzzen/calc.plugin.zsh) - A calculator for ZSH.
+*   [calc (sam-programs) (⭐3)](https://github.com/Sam-programs/zsh-calc) - Allows you to run math calculations with no prefixes.
+*   [kubecolor (devopstales) (⭐4)](https://github.com/devopstales/zsh-kubecolor) - Adds aliases for the `kubecolor` command.
+*   [kubeconfig-mgr (⭐5)](https://github.com/yhlooo/zsh-kubeconfig-mgr) - Makes managing multiple kubeconfig files easier.
+*   [llm-suggestions (⭐1)](https://github.com/stefanheule/zsh-llm-suggestions) - Type something in English at the prompt, hit a definable key, and it uses LLM to generate a command line for you.
+*   [multi-sshacc (⭐0)](https://github.com/harvey103565/git-multi-sshacc-asst) - Manages multiple `git` with different `ssh` keys per repo.
+*   [terminal-aliases (⭐0)](https://github.com/dvir-levy/terminal-aliases) - Adds convenience aliases for \[terraform] \[git] and more.
+
+##### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [aircrack (⭐2)](https://github.com/Doc0x1/Aircrack-Zsh-Completions) - Adds completions for `airbase-ng`, `aircrack-ng`, `airdecap-ng`, `airdecloak-ng`, `aireplay-ng`, `airmon-ng`, `airodump-ng`, `airolib-ng`, `airserv-ng`, `airtun-ng`, `airventriloquist-ng`.
+
+##### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [bigyls (⭐2)](https://github.com/Bigyls/Bigyls-zsh-theme) - Based on [lpha3cho (⭐38)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters). Includes decorators for date, time, IP address, `git` status, plugins and current directory.
+*   [gabriel2m (⭐0)](https://github.com/gabriel2m/gabriel2m-oh-my-zsh-theme) - Minimalist theme with decorators for the current directory and `git` status.
+*   [lacerate (⭐0)](https://github.com/Petrushevsky-A/Lacerate-zsh-theme) - Minimalist theme with decorations for `git`, `hg` and python `venv` status.
+*   [lambda (bluedragon1221) (⭐0)](https://github.com/bluedragon1221/zsh-lambda-prompt) - Includes decorators for current directory and `git` status.
+*   [madas (⭐1)](https://github.com/utauyo/madas-zsh-theme) - Inspired by af-magic. Includes decorators for `git` status, user\@host, and whether the last command failed.
+*   [niotna (⭐2)](https://github.com/niotna/niotna-theme) - Includes decorators for `git` status and current directory. Customizable colors.
+*   [paramour (⭐0)](https://github.com/espeon/paramour) - Simple and clean, has decorators for `git` status, username, time, current directory and username. Requires a nerd font in your terminal.
+*   [parrot-htb (⭐0)](https://github.com/Lloyd-Leo/parrot-htb-zsh-theme) - Includes decorators for current directory, `git` status and username\@hostname.
+*   [zenith (⭐0)](https://github.com/waki285/Zenith) - Minimalist. Includes decorators for username, current directory and `git` status.
+
+#### [46. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+##### Databases / Lazy Load
+
+*   [BCMS (⭐156)](https://github.com/bcms/cms) - API-based, open-source, self-hostable content management system for Gatsby, Nuxt and Next.
+
+#### [47. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+
+##### Learning / Courses
+
+*   [NEETS (Navy Electricity and Electronics Training Series)](https://www.fcctests.com/neets/Neets.htm) - U.S. Navy Non-Resident Training Course Material.
+*   [NPTEL](https://nptel.ac.in/course.html) - Has all free engineering courses including electronics, electrical and communcation engineering.
+*   [Udemy courses related to Electronics](https://www.udemy.com/topic/electronics/) - Top paid courses available on Udemy.
+*   [Coursera courses related to Electronics](https://www.coursera.org/courses?query=electronics) - Includes some free courses that provide e-certificates on completion.
+
+##### Learning / Theory
+
+*   [Basic Electronics PPT](http://engineering.nyu.edu/gk12/amps-cbri/pdf/Basic%20Electronics.pdf) - Contains conceptual explaination of diode, BJT, J/MOS-FET, LED, 7 seg display, photo-resistor/diode/transistor
+*   [Electronics textbook](https://upload.wikimedia.org/wikipedia/commons/e/ee/Electronics.pdf) - Text covers design and function of electronic circuits and components, DC analysis, and AC analysis.
+*   [Student Handbook](http://cbseacademic.nic.in/web_material/Curriculum/Vocational/2018/Basic_Electronics_XI.pdf) - Language used in this book easily understandable covers evolution, fundamentals, diode, rectifiers, transistors and its applications, SCR, DIAC and TRIAC.
+*   [Electronics circuits and systems](http://aems.edu.sd/wp-content/uploads/2019/02/Electronics-Circuits-and-Systems-Fourth-Edition-PDFDrive.com-.pdf) - Quality free e-book covering all topics under circuits and systems, highly recommended for conceptual understanding.
+
+##### Paid EDA Packages / Installable
+
+*   [Proteus](https://www.labcenter.com/) - PCB Design and Circuit Simulator Software.
+*   [Altium](https://www.altium.com/) - PCB Design Software & Tools.
+
+##### Gerber Viewers / Installable
+
+*   [ZofZPCB](https://www.zofzpcb.com/) - FREE 3D Gerber Viewer.
+
+##### CAD Specific / KiCad
+
+*   [KiBot (⭐459)](https://github.com/INTI-CMNB/KiBot) - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
+
+##### CAD Specific / Altium
+
+*   [Altium Designer Libraries](https://www.altium.com/documentation/other_installers#!libraries) - `.IntLib` and `.PcbLib` of electronic components from different manufacturers.
+
+##### Part Search Engines / Altium
+
+*   [Electronic Component Search Engine](https://componentsearchengine.com/) - Free access to schematic symbols, PCB footprints and 3D models.
+
+##### Miscellaneous Software Projects / Altium
+
+*   [NinjaCalc](https://gbmhunter.github.io/NinjaCalc/) - An embedded engineering calculator toolbox for doing calculations in a breeze.
+*   [Saturn PCB Design Toolkit](https://saturnpcb.com/saturn-pcb-toolkit/) - The Saturn PCB Toolkit is the best freeware resource for PCB related calculations you can find.
+
+#### [48. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Communication - Email - Complete Solutions
+
+*   [Stalwart Mail Server](https://stalw.art) - All-in-one mail server with JMAP, IMAP4, and SMTP support and a wide range of modern features. ([Source Code (⭐2k)](https://github.com/stalwartlabs/mail-server)) `AGPL-3.0` `Rust/Docker`
+
+##### Software / Database Management
+
+*   [Azimutt](https://azimutt.app) - Visual database exploration made for real world databases (big and messy). Explore your database schema as well as data, document them, extend them and even get analysis and guidelines. ([Demo](https://azimutt.app/gallery/gospeak), [Source Code (⭐838)](https://github.com/azimuttapp/azimutt)) `MIT` `Elixir/Nodejs/Docker`
+*   [WebDB](https://webdb.app) - Efficient database IDE. ([Demo](https://demo.webdb.app/), [Source Code](https://gitlab.com/web-db/app)) `AGPL-3.0` `Docker`
+
+##### Software / Groupware
+
+*   [Digipad](https://digipad.app/) - An online self-hosted application for creating collaborative digital notepads (Documentation in french). ([Source Code](https://codeberg.org/ladigitale/digipad)) `AGPL-3.0` `Nodejs`
+
+##### Software / Miscellaneous
+
+*   [Digiwords](https://ladigitale.dev/digiwords/) - A simple online application for creating word clouds (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digiwords)) `AGPL-3.0` `Nodejs/PHP`
+
+#### [49. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+
+##### Libraries/Frameworks / Tools
+
+*   [Kotlin Notebook](https://plugins.jetbrains.com/plugin/16340-kotlin-notebook) - Kotlin notebooks are interactive worksheets with rich outputs.
+
+##### Libraries/Frameworks / Multiplatform
+
+*   [divyanshupundir/mavlink-kotlin (⭐35)](https://github.com/divyanshupundir/mavlink-kotlin) - A modern MAVLink library for Kotlin Multiplatform.
+
+##### Libraries/Frameworks / Data Science
+
+*   [Kotlin/kandy (⭐289)](https://github.com/Kotlin/kandy) - Kotlin plotting library
+*   [Kotlin/KotlinDL (⭐1.3k)](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras.
+
+##### Kotlin WebAssembly / Official Links
+
+*   [Kotlin/Wasm Overview](https://kotl.in/wasm) - Learn everything about Kotlin WebAssembly platform
+
+##### Kotlin WebAssembly / Examples
+
+*   [Kotlin/Wasm Examples (⭐376)](https://github.com/Kotlin/kotlin-wasm-examples) - Explore a variety of Kotlin/Wasm example projects, showcasing applications like Compose Multiplatform, browser DOM API, Node.js, and WASI integration.
+
+#### [50. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Plugin Manager
+
+*   [nvim-neorocks/rocks.nvim (⭐68)](https://github.com/nvim-neorocks/rocks.nvim) - A modern approach to plugin management using Luarocks, inspired by Cargo.
+
+##### (requires Neovim 0.5)
+
+*   [jmbuhr/otter.nvim (⭐236)](https://github.com/jmbuhr/otter.nvim) - Provides LSP features and a nvim-cmp completion source for languages embedded in other documents.
+
+##### Completion / Diagnostics
+
+*   [Exafunction/codeium.nvim (⭐349)](https://github.com/Exafunction/codeium.nvim) - Free, ultrafast Copilot alternative.
+
+##### Programming Languages Support / Diagnostics
+
+*   [quarto-dev/quarto-nvim (⭐206)](https://github.com/quarto-dev/quarto-nvim) - Tools for working with [Quarto](https://quarto.org/) documents.
+
+##### Markdown and LaTeX / Diagnostics
+
+*   [mpas/marp-nvim (⭐2)](https://github.com/mpas/marp-nvim) - Present using markdown with [Marp](https://marp.app/).
+
+##### Search / Diagnostics
+
+*   [FabianWirth/search.nvim (⭐67)](https://github.com/FabianWirth/search.nvim) - Tabs for different Telescope pickers.
+*   [backdround/improved-search.nvim (⭐32)](https://github.com/backdround/improved-search.nvim) - Add search abilities.
+
+##### File Explorer / Diagnostics
+
+*   [rolv-apneseth/tfm.nvim (⭐19)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi (⭐4.5k)](https://github.com/sxyazi/yazi)).
+
+##### Icon / Diagnostics
+
+*   [2KAbhishek/nerdy.nvim (⭐58)](https://github.com/2KAbhishek/nerdy.nvim/) - Find and insert the latest nerd font glyphs.
+
+##### Utility / Diagnostics
+
+*   [mateuszwieloch/automkdir.nvim (⭐5)](https://github.com/mateuszwieloch/automkdir.nvim) - Automatically create non-existent parent directories when writing a file.
+*   [ragnarok22/whereami.nvim (⭐7)](https://github.com/ragnarok22/whereami.nvim) - Test your VPN by getting you current location.
+*   [ariel-frischer/bmessages.nvim (⭐8)](https://github.com/ariel-frischer/bmessages.nvim) - Replace the default :messages window with a configurable, auto-updating buffer.
+*   [LintaoAmons/easy-commands.nvim (⭐32)](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands.
+*   [backdround/tabscope.nvim (⭐27)](https://github.com/backdround/tabscope.nvim) - Make tab-local buffers.
+
+##### Git / Diagnostics
+
+*   [2KAbhishek/co-author.nvim (⭐13)](https://github.com/2KAbhishek/co-author.nvim) - Quickly add co-authors to commits.
+
+##### Motion / Diagnostics
+
+*   [backdround/neowords.nvim (⭐15)](https://github.com/backdround/neowords.nvim) - Hops by any type of words. It gives fine control over `w`, `e`, `b`, `ge` movements.
+*   [backdround/improved-ft.nvim (⭐18)](https://github.com/backdround/improved-ft.nvim) - Improve default `f`/`t` abilities.
+
+##### Keybinding / Diagnostics
+
+*   [FeiyouG/commander.nvim (⭐303)](https://github.com/FeiyouG/commander.nvim) - Create and manage keybindings and commands in a more organized manner and search them quickly through Telescope.
+
+##### Editing Support / Diagnostics
+
+*   [hiberabyss/bzlops.vim (⭐3)](https://github.com/hiberabyss/bzlops.vim) - Help to manage your bazel build rule.
+
+##### Split and Window / Diagnostics
+
+*   [altermo/nxwm (⭐126)](https://github.com/altermo/nxwm) - X11 window manager.
+
+#### [51. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Generative AI history, maps, and definitions
 
@@ -1313,7 +1642,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ##### Text-related Generative Tools / Multi-agents
 
-*   [AICamp](https://aicamp.so/): ChatGPT for Teams
 *   [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=filipecalegario-awesome-generative-ai): Forget about frustrating formulas in Google Sheets.
 *   [Elephas](https://elephas.app/?ref=filipecalegario-awesome-generative-ai): Personal AI writing assistant for the Mac.
 *   [Lemmy](https://lemmy.co/?ref=filipecalegario-awesome-generative-ai): Autonomous AI Assistant for Work.
@@ -1369,244 +1697,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction](https://arxiv.org/abs/1802.03426)
 *   [Visualizing Data using t-SNE](https://jmlr.org/papers/v9/vandermaaten08a.html)
 
-#### [40. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
-
-##### Tutorials
-
-*   [Prometheus Monitoring Tutorial (10 minutes)](https://pagertree.com/blog/prometheus-monitoring-tutorial) - Simple tutorial to create a Prometheus monitoring stack with Grafana, AlertManager, and PagerTree by Austin Miller.
-
-##### Blog posts and opinions
-
-*   [Practical Services Monitoring with Prometheus and Docker](https://web.archive.org/web/20221206045124/https://airtame.engineering/practical-services-monitoring-with-prometheus-and-docker-30abd3cf9603?gi=b81b1156b4d9) - Practical services monitoring with Prometheus and Docker by Simon KP.
-
-#### [41. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
-
-##### Rock Solid Modern Rails [↗](https://awesomestacks.dev/rock-solid-modern-rails) / Resources
-
-*   [Cloud 66](https://www.cloud66.com/) - [🛠️](https://stackshare.io/cloud-66) Cloud 66 gives you everything you need to build, deploy, and manage your Rails applications on any cloud without the headache of the “server stuff”.
-
-#### [42. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
-
-##### Tools & Software / Utilities
-
-*   [Internet Archive Library (⭐1.4k)](https://github.com/jjjake/internetarchive) - A command line tool and Python library for interacting directly with [archive.org](https://archive.org). (Python). *(Stable)*
-
-#### [43. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
-
-##### Development / Engines
-
-*   [Onirix Studio](https://www.onirix.com/) - A no-code editor for creating Web AR experiences in the browser. It emulates features of the WebXR if target device / browser is not compatible.
-
-##### Development / Frameworks and Libraries
-
-*   [JSAR-DOM (⭐14)](https://github.com/M-CreativeLab/jsar-dom) A TypeScript re-implementation of WHATWG DOM, CSSOM and WebXR for XR applications built on top of Babylon.js.
-
-#### [44. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
-
-##### Contents / Shopping
-
-*   [Flutterzon (⭐15)](https://github.com/tejasbadone/flutterzon_bloc) - Designed as an Amazon clone, leveraging Flutter, Node.js, MongoDB, and Bloc for state management. Additionally, it features an Admin Panel for advanced control and management by [Tejas Badone](https://github.com/tejasbadone)
-
-#### [45. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-##### Components & Libraries / UI Components
-
-*   [vuetify-drilldown-table (⭐6)](https://github.com/webdevnerdstuff/vuetify-drilldown-table) - The Vuetify Drilldown Table is a powerful component that enhances the functionality of the Vuetify framework's v-data-table and v-data-table-server. It provides a recursive table structure, allowing you to display hierarchical data in a nested format.
-*   [vue-code-block (⭐16)](https://github.com/webdevnerdstuff/vue-code-block) - Vue 3 CodeBlock - Highlight your code with ease using this syntax highlighting component powered by PrismJS or Highlight.js.
-*   [vuetify-color-field (⭐5)](https://github.com/webdevnerdstuff/vuetify-color-field) - Vuetify Color Field is a Vuetify VTextField Color Picker Component
-*   [vuetify-inline-fields (⭐11)](https://github.com/webdevnerdstuff/vuetify-inline-fields) - Vuetify Inline Fields Component Library offers a comprehensive collection of reusable UI components to create elegant and efficient inline form fields within your applications.
-
-##### Components & Libraries / Frameworks
-
-*   [Dolphin Admin (⭐50)](https://github.com/bit-ocean-studio/dolphin-admin-vue) - An open source, free, lightweight, out-of-the-box, internationalized admin template based on Vue 3 + Vite + Naive UI + TypeScript + TailwindCSS. [Live demo](https://dolphin-admin-vue.bit-ocean.studio/)
-
-#### [46. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
-
-##### zinit
-
-*   175+ perl, python, bash, ZSH scripts
-
-##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
-
-*   [autoenv (⭐5.4k)](https://github.com/hyperupcall/autoenv) - Directory-based environments.
-*   [calc (arzzen) (⭐128)](https://github.com/arzzen/calc.plugin.zsh) - A calculator for ZSH.
-*   [calc (sam-programs) (⭐3)](https://github.com/Sam-programs/zsh-calc) - Allows you to run math calculations with no prefixes.
-*   [kubecolor (devopstales) (⭐4)](https://github.com/devopstales/zsh-kubecolor) - Adds aliases for the `kubecolor` command.
-*   [kubeconfig-mgr (⭐5)](https://github.com/yhlooo/zsh-kubeconfig-mgr) - Makes managing multiple kubeconfig files easier.
-*   [llm-suggestions (⭐1)](https://github.com/stefanheule/zsh-llm-suggestions) - Type something in English at the prompt, hit a definable key, and it uses LLM to generate a command line for you.
-*   [multi-sshacc (⭐0)](https://github.com/harvey103565/git-multi-sshacc-asst) - Manages multiple `git` with different `ssh` keys per repo.
-*   [terminal-aliases (⭐0)](https://github.com/dvir-levy/terminal-aliases) - Adds convenience aliases for \[terraform] \[git] and more.
-
-##### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
-
-*   [aircrack (⭐2)](https://github.com/Doc0x1/Aircrack-Zsh-Completions) - Adds completions for `airbase-ng`, `aircrack-ng`, `airdecap-ng`, `airdecloak-ng`, `aireplay-ng`, `airmon-ng`, `airodump-ng`, `airolib-ng`, `airserv-ng`, `airtun-ng`, `airventriloquist-ng`.
-
-##### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
-
-*   [bigyls (⭐2)](https://github.com/Bigyls/Bigyls-zsh-theme) - Based on [lpha3cho (⭐38)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters). Includes decorators for date, time, IP address, `git` status, plugins and current directory.
-*   [gabriel2m (⭐0)](https://github.com/gabriel2m/gabriel2m-oh-my-zsh-theme) - Minimalist theme with decorators for the current directory and `git` status.
-*   [lacerate (⭐0)](https://github.com/Petrushevsky-A/Lacerate-zsh-theme) - Minimalist theme with decorations for `git`, `hg` and python `venv` status.
-*   [lambda (bluedragon1221) (⭐0)](https://github.com/bluedragon1221/zsh-lambda-prompt) - Includes decorators for current directory and `git` status.
-*   [madas (⭐1)](https://github.com/utauyo/madas-zsh-theme) - Inspired by af-magic. Includes decorators for `git` status, user\@host, and whether the last command failed.
-*   [niotna (⭐2)](https://github.com/niotna/niotna-theme) - Includes decorators for `git` status and current directory. Customizable colors.
-*   [paramour (⭐0)](https://github.com/espeon/paramour) - Simple and clean, has decorators for `git` status, username, time, current directory and username. Requires a nerd font in your terminal.
-*   [parrot-htb (⭐0)](https://github.com/Lloyd-Leo/parrot-htb-zsh-theme) - Includes decorators for current directory, `git` status and username\@hostname.
-*   [zenith (⭐0)](https://github.com/waki285/Zenith) - Minimalist. Includes decorators for username, current directory and `git` status.
-
-#### [47. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Plugin Manager
-
-*   [nvim-neorocks/rocks.nvim (⭐68)](https://github.com/nvim-neorocks/rocks.nvim) - A modern approach to plugin management using Luarocks, inspired by Cargo.
-
-##### (requires Neovim 0.5)
-
-*   [jmbuhr/otter.nvim (⭐236)](https://github.com/jmbuhr/otter.nvim) - Provides LSP features and a nvim-cmp completion source for languages embedded in other documents.
-
-##### Completion / Diagnostics
-
-*   [Exafunction/codeium.nvim (⭐349)](https://github.com/Exafunction/codeium.nvim) - Free, ultrafast Copilot alternative.
-
-##### Programming Languages Support / Diagnostics
-
-*   [quarto-dev/quarto-nvim (⭐206)](https://github.com/quarto-dev/quarto-nvim) - Tools for working with [Quarto](https://quarto.org/) documents.
-
-##### Markdown and LaTeX / Diagnostics
-
-*   [mpas/marp-nvim (⭐2)](https://github.com/mpas/marp-nvim) - Present using markdown with [Marp](https://marp.app/).
-
-##### Search / Diagnostics
-
-*   [FabianWirth/search.nvim (⭐67)](https://github.com/FabianWirth/search.nvim) - Tabs for different Telescope pickers.
-*   [backdround/improved-search.nvim (⭐32)](https://github.com/backdround/improved-search.nvim) - Add search abilities.
-
-##### File Explorer / Diagnostics
-
-*   [rolv-apneseth/tfm.nvim (⭐19)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi (⭐4.5k)](https://github.com/sxyazi/yazi)).
-
-##### Icon / Diagnostics
-
-*   [2KAbhishek/nerdy.nvim (⭐58)](https://github.com/2KAbhishek/nerdy.nvim/) - Find and insert the latest nerd font glyphs.
-
-##### Utility / Diagnostics
-
-*   [mateuszwieloch/automkdir.nvim (⭐5)](https://github.com/mateuszwieloch/automkdir.nvim) - Automatically create non-existent parent directories when writing a file.
-*   [ragnarok22/whereami.nvim (⭐7)](https://github.com/ragnarok22/whereami.nvim) - Test your VPN by getting you current location.
-*   [ariel-frischer/bmessages.nvim (⭐8)](https://github.com/ariel-frischer/bmessages.nvim) - Replace the default :messages window with a configurable, auto-updating buffer.
-*   [LintaoAmons/easy-commands.nvim (⭐32)](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands.
-*   [backdround/tabscope.nvim (⭐27)](https://github.com/backdround/tabscope.nvim) - Make tab-local buffers.
-
-##### Git / Diagnostics
-
-*   [2KAbhishek/co-author.nvim (⭐13)](https://github.com/2KAbhishek/co-author.nvim) - Quickly add co-authors to commits.
-
-##### Motion / Diagnostics
-
-*   [backdround/neowords.nvim (⭐15)](https://github.com/backdround/neowords.nvim) - Hops by any type of words. It gives fine control over `w`, `e`, `b`, `ge` movements.
-*   [backdround/improved-ft.nvim (⭐18)](https://github.com/backdround/improved-ft.nvim) - Improve default `f`/`t` abilities.
-
-##### Keybinding / Diagnostics
-
-*   [FeiyouG/commander.nvim (⭐303)](https://github.com/FeiyouG/commander.nvim) - Create and manage keybindings and commands in a more organized manner and search them quickly through Telescope.
-
-##### Editing Support / Diagnostics
-
-*   [hiberabyss/bzlops.vim (⭐3)](https://github.com/hiberabyss/bzlops.vim) - Help to manage your bazel build rule.
-
-##### Split and Window / Diagnostics
-
-*   [altermo/nxwm (⭐126)](https://github.com/altermo/nxwm) - X11 window manager.
-
-#### [48. Awesome React Components](/content/brillout/awesome-react-components/README.md)
-
-##### Databases / Lazy Load
-
-*   [BCMS (⭐156)](https://github.com/bcms/cms) - API-based, open-source, self-hostable content management system for Gatsby, Nuxt and Next.
-
-#### [49. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
-
-##### Learning / Courses
-
-*   [NEETS (Navy Electricity and Electronics Training Series)](https://www.fcctests.com/neets/Neets.htm) - U.S. Navy Non-Resident Training Course Material.
-*   [NPTEL](https://nptel.ac.in/course.html) - Has all free engineering courses including electronics, electrical and communcation engineering.
-*   [Udemy courses related to Electronics](https://www.udemy.com/topic/electronics/) - Top paid courses available on Udemy.
-*   [Coursera courses related to Electronics](https://www.coursera.org/courses?query=electronics) - Includes some free courses that provide e-certificates on completion.
-
-##### Learning / Theory
-
-*   [Basic Electronics PPT](http://engineering.nyu.edu/gk12/amps-cbri/pdf/Basic%20Electronics.pdf) - Contains conceptual explaination of diode, BJT, J/MOS-FET, LED, 7 seg display, photo-resistor/diode/transistor
-*   [Electronics textbook](https://upload.wikimedia.org/wikipedia/commons/e/ee/Electronics.pdf) - Text covers design and function of electronic circuits and components, DC analysis, and AC analysis.
-*   [Student Handbook](http://cbseacademic.nic.in/web_material/Curriculum/Vocational/2018/Basic_Electronics_XI.pdf) - Language used in this book easily understandable covers evolution, fundamentals, diode, rectifiers, transistors and its applications, SCR, DIAC and TRIAC.
-*   [Electronics circuits and systems](http://aems.edu.sd/wp-content/uploads/2019/02/Electronics-Circuits-and-Systems-Fourth-Edition-PDFDrive.com-.pdf) - Quality free e-book covering all topics under circuits and systems, highly recommended for conceptual understanding.
-
-##### Paid EDA Packages / Installable
-
-*   [Proteus](https://www.labcenter.com/) - PCB Design and Circuit Simulator Software.
-*   [Altium](https://www.altium.com/) - PCB Design Software & Tools.
-
-##### Gerber Viewers / Installable
-
-*   [ZofZPCB](https://www.zofzpcb.com/) - FREE 3D Gerber Viewer.
-
-##### CAD Specific / KiCad
-
-*   [KiBot (⭐459)](https://github.com/INTI-CMNB/KiBot) - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
-
-##### CAD Specific / Altium
-
-*   [Altium Designer Libraries](https://www.altium.com/documentation/other_installers#!libraries) - `.IntLib` and `.PcbLib` of electronic components from different manufacturers.
-
-##### Part Search Engines / Altium
-
-*   [Electronic Component Search Engine](https://componentsearchengine.com/) - Free access to schematic symbols, PCB footprints and 3D models.
-
-##### Miscellaneous Software Projects / Altium
-
-*   [NinjaCalc](https://gbmhunter.github.io/NinjaCalc/) - An embedded engineering calculator toolbox for doing calculations in a breeze.
-*   [Saturn PCB Design Toolkit](https://saturnpcb.com/saturn-pcb-toolkit/) - The Saturn PCB Toolkit is the best freeware resource for PCB related calculations you can find.
-
-#### [50. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-##### Software / Communication - Email - Complete Solutions
-
-*   [Stalwart Mail Server](https://stalw.art) - All-in-one mail server with JMAP, IMAP4, and SMTP support and a wide range of modern features. ([Source Code (⭐2k)](https://github.com/stalwartlabs/mail-server)) `AGPL-3.0` `Rust/Docker`
-
-##### Software / Database Management
-
-*   [Azimutt](https://azimutt.app) - Visual database exploration made for real world databases (big and messy). Explore your database schema as well as data, document them, extend them and even get analysis and guidelines. ([Demo](https://azimutt.app/gallery/gospeak), [Source Code (⭐838)](https://github.com/azimuttapp/azimutt)) `MIT` `Elixir/Nodejs/Docker`
-*   [WebDB](https://webdb.app) - Efficient database IDE. ([Demo](https://demo.webdb.app/), [Source Code](https://gitlab.com/web-db/app)) `AGPL-3.0` `Docker`
-
-##### Software / Groupware
-
-*   [Digipad](https://digipad.app/) - An online self-hosted application for creating collaborative digital notepads (Documentation in french). ([Source Code](https://codeberg.org/ladigitale/digipad)) `AGPL-3.0` `Nodejs`
-
-##### Software / Miscellaneous
-
-*   [Digiwords](https://ladigitale.dev/digiwords/) - A simple online application for creating word clouds (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digiwords)) `AGPL-3.0` `Nodejs/PHP`
-
-#### [51. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-##### Libraries/Frameworks / Tools
-
-*   [Kotlin Notebook](https://plugins.jetbrains.com/plugin/16340-kotlin-notebook) - Kotlin notebooks are interactive worksheets with rich outputs.
-
-##### Libraries/Frameworks / Multiplatform
-
-*   [divyanshupundir/mavlink-kotlin (⭐35)](https://github.com/divyanshupundir/mavlink-kotlin) - A modern MAVLink library for Kotlin Multiplatform.
-
-##### Libraries/Frameworks / Data Science
-
-*   [Kotlin/kandy (⭐289)](https://github.com/Kotlin/kandy) - Kotlin plotting library
-*   [Kotlin/KotlinDL (⭐1.3k)](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras.
-
-##### Kotlin WebAssembly / Official Links
-
-*   [Kotlin/Wasm Overview](https://kotl.in/wasm) - Learn everything about Kotlin WebAssembly platform
-
-##### Kotlin WebAssembly / Examples
-
-*   [Kotlin/Wasm Examples (⭐376)](https://github.com/Kotlin/kotlin-wasm-examples) - Explore a variety of Kotlin/Wasm example projects, showcasing applications like Compose Multiplatform, browser DOM API, Node.js, and WASI integration.
-
 ---
 
 - Next: [Dec 25, 2023](&#x2F;content&#x2F;2023&#x2F;12&#x2F;25&#x2F;README.md)
@@ -1625,9 +1715,9 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 10. [Awesome Pentest](/content/enaqx/awesome-pentest/README.md) - ([Source ⭐ 20K 📝 12&#x2F;27 ](https://github.com/enaqx/awesome-pentest)) - A collection of awesome penetration testing resources, tools and other shiny things
 11. [Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md) - ([Source ⭐ 16K 📝 12&#x2F;26 ](https://github.com/alexpate/awesome-design-systems)) - 💅🏻 ⚒ A collection of awesome design systems
 12. [Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md) - ([Source ⭐ 15K 📝 12&#x2F;27 ](https://github.com/wilsonfreitas/awesome-quant)) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
-13. [Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md) - ([Source ⭐ 14K 📝 12&#x2F;26 ](https://github.com/ramitsurana/awesome-kubernetes)) - A curated list for awesome kubernetes sources :ship::tada:
-14. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K 📝 12&#x2F;26 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
-15. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 13K 📝 12&#x2F;28 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+13. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 13K 📝 12&#x2F;28 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+14. [Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md) - ([Source ⭐ 14K 📝 12&#x2F;26 ](https://github.com/ramitsurana/awesome-kubernetes)) - A curated list for awesome kubernetes sources :ship::tada:
+15. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K 📝 12&#x2F;26 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
 16. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 14K 📝 12&#x2F;26 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
 17. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 13K 📝 12&#x2F;27 ](https://github.com/markets/awesome-ruby)) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 18. [Awesome Microservices](/content/mfornos/awesome-microservices/README.md) - ([Source ⭐ 13K 📝 12&#x2F;26 ](https://github.com/mfornos/awesome-microservices)) - A curated list of Microservice Architecture related principles and technologies.
@@ -1706,7 +1796,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Qlik](/content/ambster-public/awesome-qlik/README.md) - ([Source ⭐ 30, 📝 19&#x2F;11&#x2F;15 ](https://github.com/ambster-public/awesome-qlik)) - A curated list of awesome Qlik extensions and resources for Qlik Sense and QlikView
 - [Awesome Spark](/content/awesome-spark/awesome-spark/README.md) - ([Source ⭐ 1.5K, 📝 04&#x2F;18 ](https://github.com/awesome-spark/awesome-spark)) - A curated list of awesome Apache Spark packages and resources.
 - [Awesome Splunk](/content/sduff/awesome-splunk/README.md) - ([Source ⭐ 79, 📝 20&#x2F;09&#x2F;11 ](https://github.com/sduff/awesome-splunk)) -   A collection of awesome resources for Splunk
-- [Awesome Streaming](/content/manuzhang/awesome-streaming/README.md) - ([Source ⭐ 2.4K, 📝 11&#x2F;09 ](https://github.com/manuzhang/awesome-streaming)) - a curated list of awesome streaming frameworks, applications, etc
+- [Awesome Streaming](/content/manuzhang/awesome-streaming/README.md) - ([Source ⭐ 2.4K, 📝 12&#x2F;28 ](https://github.com/manuzhang/awesome-streaming)) - a curated list of awesome streaming frameworks, applications, etc
 
 ### Books
 
@@ -1741,10 +1831,10 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Computer Science
 
-- [Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md) - ([Source ⭐ 63, 📝 12&#x2F;27 ](https://github.com/Hyraze/ai-collective-tools)) - Explore a curated selection of AI tools and resources
+- [Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md) - ([Source ⭐ 63, 📝 12&#x2F;28 ](https://github.com/Hyraze/ai-collective-tools)) - Explore a curated selection of AI tools and resources
 - [Asdf Plugins](/content/asdf-vm/asdf-plugins/README.md) - ([Source ⭐ 1K, 📝 02&#x2F;13 ](https://github.com/asdf-vm/asdf-plugins)) - Convenience shortname repository for asdf community plugins
 - [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source ⭐ 2.1K, 📝 10&#x2F;16 ](https://github.com/georgezouq/awesome-ai-in-finance)) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
-- [Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md) - ([Source ⭐ 240, 📝 12&#x2F;27 ](https://github.com/mahseema/awesome-ai-tools)) - A curated list of Artificial Intelligence Top Tools
+- [Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md) - ([Source ⭐ 240, 📝 12&#x2F;28 ](https://github.com/mahseema/awesome-ai-tools)) - A curated list of Artificial Intelligence Top Tools
 - [Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md) - ([Source ⭐ 17K, 📝 21&#x2F;09&#x2F;28 ](https://github.com/jbhuang0604/awesome-computer-vision)) - A curated list of awesome computer vision resources
 - [Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/README.md) - ([Source ⭐ 51, 📝 22&#x2F;01&#x2F;23 ](https://github.com/jyguyomarch/awesome-conversational-ai)) - A curated list of delightful Conversational AI resources.
 - [Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/README.md) - ([Source ⭐ 5.8K, 📝 06&#x2F;23 ](https://github.com/likedan/Awesome-CoreML-Models)) - Largest list of models for Core ML (for iOS 11+)
@@ -2107,7 +2197,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Frc](/content/andrewda/awesome-frc/README.md) - ([Source ⭐ 93, 📝 07&#x2F;23 ](https://github.com/andrewda/awesome-frc)) - A curated list of packages and resources regarding the FIRST Robotics Competition.
 - [Awesome Free Software](/content/johnjago/awesome-free-software/README.md) - ([Source ⭐ 1.3K, 📝 07&#x2F;14 ](https://github.com/johnjago/awesome-free-software)) - Curated list of free as in freedom software
 - [Awesome Funny Markov](/content/sublimino/awesome-funny-markov/README.md) - ([Source ⭐ 186, 📝 22&#x2F;09&#x2F;13 ](https://github.com/sublimino/awesome-funny-markov)) - A curated list of delightfully amusing and facetious Markov chain output.
-- [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 1.6K, 📝 12&#x2F;26 ](https://github.com/filipecalegario/awesome-generative-deep-art)) - A curated list of Generative AI tools, works, models, and references
+- [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 1.6K, 📝 12&#x2F;28 ](https://github.com/filipecalegario/awesome-generative-deep-art)) - A curated list of Generative AI tools, works, models, and references
 - [Awesome Geojson](/content/tmcw/awesome-geojson/README.md) - ([Source ⭐ 2.1K, 📝 12&#x2F;26 ](https://github.com/tmcw/awesome-geojson)) - GeoJSON utilities that will make your life easier.
 - [Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md) - ([Source ⭐ 1.8K, 📝 10&#x2F;02 ](https://github.com/stevemao/awesome-git-addons)) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md) - ([Source ⭐ 144, 📝 12&#x2F;27 ](https://github.com/MyHoneyBadger/awesome-github-wiki)) - :neckbeard: Awesome list GitHub Wikis
@@ -2239,7 +2329,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Heroku](/content/ianstormtaylor/awesome-heroku/README.md) - ([Source ⭐ 280, 📝 19&#x2F;06&#x2F;29 ](https://github.com/ianstormtaylor/awesome-heroku)) - A curated list of helpful Heroku resources.
 - [Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md) - ([Source ⭐ 4.1K, 📝 22&#x2F;06&#x2F;21 ](https://github.com/frenck/awesome-home-assistant)) - A curated list of amazingly awesome Home Assistant resources.
 - [Awesome Ibmcloud](/content/victorshinya/awesome-ibmcloud/README.md) - ([Source ⭐ 74, 📝 20&#x2F;09&#x2F;14 ](https://github.com/victorshinya/awesome-ibmcloud)) - A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs and other resources.
-- [Awesome Integration](/content/stn1slv/awesome-integration/README.md) - ([Source ⭐ 278, 📝 12&#x2F;27 ](https://github.com/stn1slv/awesome-integration)) - A curated list of awesome system integration software and resources.
+- [Awesome Integration](/content/stn1slv/awesome-integration/README.md) - ([Source ⭐ 278, 📝 12&#x2F;28 ](https://github.com/stn1slv/awesome-integration)) - A curated list of awesome system integration software and resources.
 - [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 44K, 📝 09&#x2F;02 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 - [Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/README.md) - ([Source ⭐ 487, 📝 19&#x2F;09&#x2F;10 ](https://github.com/weblancaster/awesome-IoT-hybrid)) - The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
 - [Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md) - ([Source ⭐ 4.1K, 📝 12&#x2F;27 ](https://github.com/ipfs/awesome-ipfs)) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.

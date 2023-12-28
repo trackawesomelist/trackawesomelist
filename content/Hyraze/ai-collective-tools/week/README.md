@@ -22,6 +22,10 @@ Explore a curated selection of AI tools and resources
 
 *   [Phind](https://www.phind.com/) - An AI-powered coding and technical assistant, making complex tasks simpler. `#freemium`
 
+### Cooking
+
+*   [Mr. Cook](https://www.mrcook.app/en/tools/recipe-generator) - Your AI-Powered Recipe Generator `#free`
+
 ### Design Generator
 
 *   [Stream Slides](https://streamslide.io/) - YouTube Video to Slides Converter. `#free`
@@ -42,24 +46,50 @@ Explore a curated selection of AI tools and resources
 
 *   [MIRI](https://www.miri.health/) - Comprehensive Wellness Platform That Puts Experts in Your Pocket 24/7 `#free`
 
+### Image Editing
+
+*   [AIPhotoeditor](https://photoeditor.ai/) - AIPhotoeditor is a free photo editor that allows users to remove unwanted objects, people, blemishes, or text from their images in seconds. `#free`
+*   [Image Candy](https://imgcandy.com/) - Online Image Editor - Image Candy `#free`
+
 ### Image Generator
 
 *   [ImageCreator](https://imagecreator.alkaidvision.com/) - A Professional PS plug-in powered by AI `#free`
+*   [Ipic.ai](https://www.ipic.ai/) - Ipic.ai is a free AI image generator that can effortlessly create unique AI art. `#free`
 *   [removebg](https://remove.bg/) - Remove any Image Background `#free`
 *   [Stable Diffusion Online](https://stablediffusionweb.com/#ai-image-generator) - text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds. `#opensource`
+*   [Top VS Best](https://topvsbest.com/aiimagecreator/) - Effortlessly craft mesmerizing and exclusive images through our AI-powered image generation. `#free`
 *   [Zoo](https://zoo.replicate.dev/) - Text-to-Image Playground `#free`
+
+### Personal Assistant
+
+*   [ChatGPT Sidebar](https://chatgpt-sidebar.com/) - AI & you work side by side on any page `#free`
+*   [Pathfinder](https://www.summit.im/pathfinder/) - Pathfinder, brought to you by Summit, is an innovative AI-driven tool designed to assist individuals in creating personalized plans and strategies to achieve their goals. `#free`
 
 ### Productivity
 
+*   [Glimpse](https://glimpse.surf/) - Seamless browsing experience with conversation, writing, and editing assistance `#free`
 *   [Posylanki](https://www.posylanki.live/) - Streamline Web Content Management & Enhance Browsing Experience `#free`
+
+### Prompt Generator
+
+*   [Geniea](https://geniea.com/) - Generated prompts for personal journeys. `#free`
+
+### Resume
+
+*   [Resume AI Scanner](https://pdf.ai/tools/resume-ai-scanner) - Assists in assessing candidates by scanning their resumes, extracting relevant information, and generating questions to evaluate their suitability for a position. `#free`
 
 ### Search Engine
 
 *   [Andi](https://andisearch.com/) - Andi is a generative AI-powered search engine `#free`
+*   [Opera One Browser](https://www.opera.com/one) - Opera One offers a liquid navigation experience with a focus on modular design and AI-powered web services. `#free`
 
 ### SEO
 
 *   [AutoBlogging Pro](https://autoblogging.pro/) - AI-Powered Content Automation for WordPress Blogs `#freemium`
+
+### Startup Tools
+
+*   [Cookup.ai](https://cookup.ai/) - AI apps for every usecase `#free`
 
 ### Summarizer
 
@@ -72,7 +102,16 @@ Explore a curated selection of AI tools and resources
 
 ### Transcriber
 
+*   [AI Transcription by Riverside](https://riverside.fm/transcription) - Video and audio transcription `#free`
 *   [VideoToBlog](https://www.videotoblog.ai/) - Convert YouTube videos to blog content in one click `#free`
+
+### Travel
+
+*   [Roam Around](https://www.roamaround.io/) - Find interesting and fun places to visit `#free`
+
+### Video Editing
+
+*   [Thumbnail Ai](https://thumbnail-ai.ybouane.com/) - Will provide reviews of youtube thumbnails using AI `#free`
 
 ### Video Generator
 
@@ -281,6 +320,15 @@ Explore a curated selection of AI tools and resources
 *   [Heroguide](https://www.heroguide.ai/) - Craft your unique brand message effortlessly with the Heroguide. `#free`
 *   [SmartBird](https://smartbird.ai/) - SmartBird: Your AI Assistant for Effortless Communication `#paid`
 
+### Finance
+
+*   [Coinfeeds](https://chat.coinfeeds.io/) - Your Crypto Chatbot Companion, ask it anything! `#free`
+*   [BeeBee AI](https://www.beebee.ai/) - Financial reports and earnings calls become easily understandable with key insights for everyday investors. `#free`
+*   [Durable](https://durable.co/) - Build a website in 30 seconds with AI, leveraging AI-powered design and marketing tools to boost traffic and increase revenue. `#freemium`
+*   [EarningsEdge](https://www.earningsedge.ai/) - Gain the Edge in Competitive Investing `#freemium`
+*   [HoopsAI](https://www.hoopsai.com/) - Offers real-time trading insights and analysis for retail investors. `#free`
+*   [Uptrends.ai](https://app.uptrends.ai/trending) - The first AI stock market news monitoring platform made for DIY investors. Uptrends.ai analyzes chatter to help you find the trends & events that matter. `#paid`
+
 ### Customer Support
 
 *   [Chatfuel AI](https://chatfuel.com/lite) - AI-powered chatbot platform: elevate customer support and sales `#freemium`
@@ -338,15 +386,6 @@ Explore a curated selection of AI tools and resources
 
 *   [Artificial Printer](https://artificialprinter.com/) - Print personalized t-shirts. `#free`
 *   [Dressrious](https://www.dressrious.com/) - Offers personalized daily outfit recommendations based on users' wardrobe items, weather conditions, occasions, and color preferences. `#free`
-
-### Finance
-
-*   [BeeBee AI](https://www.beebee.ai/) - Financial reports and earnings calls become easily understandable with key insights for everyday investors. `#free`
-*   [Coinfeeds](https://chat.coinfeeds.io/) - Your Crypto Chatbot Companion, ask it anything! `#free`
-*   [Durable](https://durable.co/) - Build a website in 30 seconds with AI, leveraging AI-powered design and marketing tools to boost traffic and increase revenue. `#freemium`
-*   [EarningsEdge](https://www.earningsedge.ai/) - Gain the Edge in Competitive Investing `#freemium`
-*   [HoopsAI](https://www.hoopsai.com/) - Offers real-time trading insights and analysis for retail investors. `#free`
-*   [Uptrends.ai](https://app.uptrends.ai/trending) - The first AI stock market news monitoring platform made for DIY investors. Uptrends.ai analyzes chatter to help you find the trends & events that matter. `#paid`
 
 ### Fitness
 

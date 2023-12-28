@@ -15,7 +15,7 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / API Design
 
-*   [OpenAPI Diff (⭐701) (⭐702)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+*   [OpenAPI Diff (⭐704) (⭐702)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
 *   [Zally (⭐860) (⭐860)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
 
 ### Projects / API Documentation
@@ -26,6 +26,7 @@ A curated list of awesome system integration software and resources.
 ### Projects / API Gateway
 
 *   [Apache APISIX (⭐13k) (⭐13k)](https://github.com/apache/apisix) - A dynamic, real-time, and high-performance API Gateway that leverages Apache plugins for enhanced functionality.
+*   [KrakenD API Gateway (⭐1.6k) (⭐1.6k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance API Gateway that leverages middlewares for fast and efficient API management.
 
 ### Projects / API Testing
 
@@ -74,10 +75,13 @@ A curated list of awesome system integration software and resources.
 ### Projects / Integration Frameworks
 
 *   [Ballerina (⭐3.5k) (⭐3.5k)](https://github.com/ballerina-platform/ballerina-lang) - An open-source programming language that simplifies the creation, usage, and combination of network services.
+*   [Frank!Framework (⭐86) (⭐86)](https://github.com/frankframework/frankframework) - A Low-Code Java-based messaging framework to connect your system and application data, that is completely configurable through XML configurations.
 
 ### Projects / Messaging
 
+*   [Eclipse Mosquitto (⭐8k) (⭐8k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
 *   [NATS (⭐14k) (⭐14k)](https://github.com/nats-io/gnatsd) - A lightweight and high-performance messaging system designed for microservices, IoT, and cloud-native systems. Offers efficient and reliable message delivery and supports multiple messaging protocols.
+*   [Redpanda (⭐8.2k) (⭐8.2k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
 *   [VerneMQ (⭐3.1k) (⭐3.1k)](https://github.com/vernemq/vernemq) - A high-performance distributed MQTT message broker designed for scalability and reliability. Offers efficient and reliable message delivery and supports multiple messaging protocols and patterns.
 
 ### Projects / Workflow engine
@@ -92,8 +96,8 @@ A curated list of awesome system integration software and resources.
 
 ### Resources / Data Formats
 
-*   [NDJSON (⭐607) (⭐607)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-*   [YAML (⭐279) (⭐280)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+*   [NDJSON (⭐608) (⭐607)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+*   [YAML (⭐280) (⭐280)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 ### Resources / Protocols
 
@@ -112,11 +116,6 @@ A curated list of awesome system integration software and resources.
 ### Projects / ESB
 
 *   [Red Hat Fuse](https://developers.redhat.com/products/fuse/overview) - A cloud-native integration platform that supports distributed integration capabilities.
-
-### Projects / Messaging
-
-*   [Eclipse Mosquitto (⭐7.9k) (⭐8k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
-*   [Redpanda (⭐8.1k) (⭐8.2k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
 
 ### Resources / API Specification
 
@@ -195,10 +194,6 @@ A curated list of awesome system integration software and resources.
 *   [Apache Avro (⭐2.6k) (⭐2.7k)](https://github.com/apache/avro) - Data serialization system that provides compact, fast, and efficient serialization of structured data. It supports schema evolution, allows for efficient data compression, and is designed to work well with big data processing frameworks.
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
-
-### Projects / API Gateway
-
-*   [KrakenD API Gateway (⭐1.5k) (⭐1.6k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance API Gateway that leverages middlewares for fast and efficient API management.
 
 ### Projects / Integration Frameworks
 

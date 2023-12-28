@@ -6,6 +6,16 @@ A curated list of Artificial Intelligence Top Tools
 
 [ Daily / [Weekly](/content/mahseema/awesome-ai-tools/week/README.md) / [Overview](/content/mahseema/awesome-ai-tools/readme/README.md) ]
 
+## [Dec 28, 2023](/content/2023/12/28/README.md)
+
+### Text / Chatbots
+
+*   [AICamp](https://aicamp.so/) - ChatGPT for Teams
+
+### Other / Music
+
+*   [FairyTailAI](https://fairytailai.com/) - Personalized bedtime story generator
+
 ## [Dec 27, 2023](/content/2023/12/27/README.md)
 
 ### Text / Chatbots

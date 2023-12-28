@@ -11,6 +11,7 @@ A curated list of Artificial Intelligence Top Tools
 ### Text / Chatbots
 
 *   [Tiledesk](https://tiledesk.com/) - Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.
+*   [AICamp](https://aicamp.so/) - ChatGPT for Teams
 
 ### Text / Writing assistants
 
@@ -47,6 +48,7 @@ A curated list of Artificial Intelligence Top Tools
 *   [GummySearch](https://gummysearch.com/?ref=mahseema-awesome-ai-tools) - AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
 *   [Taplio](https://taplio.com/?ref=mahseema-awesome-ai-tools) - The all-in-one, AI-powered LinkedIn tool.
 *   [PromptPal](https://promptpal.net) - Search for prompts and bots, then use them with your favourite AI. All in one place.
+*   [FairyTailAI](https://fairytailai.com/) - Personalized bedtime story generator
 
 ## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
 
