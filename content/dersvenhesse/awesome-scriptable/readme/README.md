@@ -2,7 +2,7 @@
 
 A curated list of awesome Scriptable scripts and widgets.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dersvenhesse/awesome-scriptable/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dersvenhesse/awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable) · ⭐ 953 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dersvenhesse/awesome-scriptable/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dersvenhesse/awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable) · ⭐ 982 · 🏷️ Miscellaneous
 
 [ [Daily](/content/dersvenhesse/awesome-scriptable/README.md) / [Weekly](/content/dersvenhesse/awesome-scriptable/week/README.md) / Overview ]
 
@@ -47,15 +47,15 @@ A curated list of awesome Scriptable scripts and widgets.
 
 ## Cars
 
-*   [BMW Linker (⭐146)](https://github.com/opp100/bmw-scriptable-widgets) - Information about your BMW, like location or mileage.
+*   [BMW Linker (⭐147)](https://github.com/opp100/bmw-scriptable-widgets) - Information about your BMW, like location or mileage.
 
     <img src="https://raw.githubusercontent.com/opp100/bmw-scriptable-widgets/main/screenshots/sc_1.png" width="400"/>
 
 *   [FordPassWidget (⭐15)](https://github.com/dschablowsky/FordPassWidget) - Information about your Ford, like location or mileage.
 
-    <img src="https://github.com/dschablowsky/FordPassWidget/raw/master/fp-widget.jpg" width="400"/>
+    <img src="https://raw.githubusercontent.com/dschablowsky/FordPassWidget/master/fp-widget.jpg" width="400"/>
 
-*   [Polestar SoC Medium Widget (⭐6)](https://github.com/niklasvieth/polestar-ios-medium-widget) - Current state of charge of your Polestar 2 as medium widget or as simplified [lockscreen widget (⭐7)](https://github.com/niklasvieth/polestar-ios-lockscreen-widget).
+*   [Polestar SoC Medium Widget (⭐9)](https://github.com/niklasvieth/polestar-ios-medium-widget) - Current state of charge of your Polestar 2 as medium widget or as simplified [lockscreen widget (⭐12)](https://github.com/niklasvieth/polestar-ios-lockscreen-widget).
 
     <img src="https://raw.githubusercontent.com/niklasvieth/polestar-ios-medium-widget/main/images/polestar_medium_widget_relative.jpeg" width="400"/>
 
@@ -67,9 +67,9 @@ A curated list of awesome Scriptable scripts and widgets.
 
     <img src="https://raw.githubusercontent.com/Necriso/ScriptableWidgets/main/images/tankstellenpreise.png" width="200"/>
 
-*   [TeslaData-Widget (⭐57)](https://github.com/DrieStone/TeslaData-Widget) - Information about your Tesla, like charging status and doors locked/unlocked.
+*   [TeslaData-Widget (⭐58)](https://github.com/DrieStone/TeslaData-Widget) - Information about your Tesla, like charging status and doors locked/unlocked.
 
-    <img src="https://github.com/DrieStone/TeslaData-Widget/raw/main/documentation/screen_001.png" width="400"/>  
+    <img src="https://raw.githubusercontent.com/DrieStone/TeslaData-Widget/main/documentation/screen_001.png" width="400"/>  
 
 *   [ZOE-Widget.js](https://gist.github.com/mountbatt/772e4512089802a2aa2622058dd1ded7) - Information about your Renault Zoe like charging or location.
 
@@ -83,15 +83,15 @@ A curated list of awesome Scriptable scripts and widgets.
 
 *   [HomeDateGreeting.js](https://gist.github.com/cassianomon/efffbe09d20013986cd4ffc0f362a3e2) - Date and time greeting with background from Unsplash.
 
-*   [daysUntilBirthday (⭐37)](https://github.com/lwitzani/daysUntilBirthday) - List of upcoming birthdays from contacts.
+*   [daysUntilBirthday (⭐38)](https://github.com/lwitzani/daysUntilBirthday) - List of upcoming birthdays from contacts.
 
     <img src="https://raw.githubusercontent.com/lwitzani/daysUntilBirthday/main/fullySetupWidget.PNG" width="400"/>
 
-*   [scriptable-calendar-widget (⭐113)](https://github.com/rudotriton/scriptable-calendar-widget) - Customizable calendar.
+*   [scriptable-calendar-widget (⭐114)](https://github.com/rudotriton/scriptable-calendar-widget) - Customizable calendar.
 
     <img src="https://raw.githubusercontent.com/rudotriton/scriptable-calendar-widget/main/assets/scriptable-calendar-widget.jpg" width="400"/>
 
-*   [ScriptableWordClockWidget (⭐53)](https://github.com/bitKrakenCode/ScriptableWordClockWidget) - Clock showing the current time in writing.
+*   [ScriptableWordClockWidget (⭐57)](https://github.com/bitKrakenCode/ScriptableWordClockWidget) - Clock showing the current time in writing.
 
     <img src="https://user-images.githubusercontent.com/59827320/133928177-b32f866d-0ae5-46c8-89c9-aa2cb21971e4.png" width="400"/>
 
@@ -105,7 +105,7 @@ A curated list of awesome Scriptable scripts and widgets.
 
 *   [btc-usd-course.js (⭐7)](https://github.com/wickenico/btc-usd-course.js) - Shows the current bitcoin course in USD.
 
-    <img src="https://github.com/wickenico/btc-usd-course.js/raw/main/img/bitcoin-usd-course-widget-small.png?raw=true" height="200"/>
+    <img src="https://raw.githubusercontent.com/wickenico/btc-usd-course.js/main/img/bitcoin-usd-course-widget-small.png" height="200"/>
 
 *   [Tradegate Stock Widget (⭐5)](https://github.com/Chrischi-/tradegate-stock-widget-for-scriptable) - Stocks Widget to show share prices from Tradegate Exchange.
 
@@ -147,9 +147,9 @@ A curated list of awesome Scriptable scripts and widgets.
 
     <img src="https://raw.githubusercontent.com/ThisIsBenny/iOS-Widgets/main/VodafoneDE/previewLight.jpeg" width="200"/>
 
-*   [scriptable\_premiumsim (⭐14)](https://github.com/BergenSoft/scriptable_premiumsim) - Data consumption based on tariff for Drillisch providers (e.g. WinSIM, PremiumSIM).
+*   [scriptable\_premiumsim (⭐15)](https://github.com/BergenSoft/scriptable_premiumsim) - Data consumption based on tariff for Drillisch providers (e.g. WinSIM, PremiumSIM).
 
-    <img src="https://github.com/BergenSoft/scriptable_premiumsim/raw/main/Preview.jpg" width="200"/>
+    <img src="https://raw.githubusercontent.com/BergenSoft/scriptable_premiumsim/main/Preview.jpg" width="200"/>
 
 ## Music
 
@@ -163,15 +163,15 @@ A curated list of awesome Scriptable scripts and widgets.
 
 ## Reading
 
-*   [scriptable-news-Widget.js (⭐109)](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
+*   [scriptable-news-Widget.js (⭐111)](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
 
     <img src="https://raw.githubusercontent.com/Saudumm/scriptable-News-Widget/main/images/widgets.jpg" width="800"/>
 
 *   [scriptable-pocket-widget (⭐11)](https://github.com/brianseidman/scriptable-pocket-widget) - Shows unread or favorited Pocket articles.
 
-    <img src="https://github.com/brianseidman/scriptable-pocket-widget/raw/72495ad9cc488b9790bb2ee6eac8dcedcf36dd96/Resources/scriptable-pocket-widget-image.png" width=400 alt="Scriptable Pocket Widget Screenshot">
+    <img src="https://raw.githubusercontent.com/brianseidman/scriptable-pocket-widget/72495ad9cc488b9790bb2ee6eac8dcedcf36dd96/Resources/scriptable-pocket-widget-image.png" width="400">
 
-*   [sonntagsfrage (⭐25)](https://github.com/henningtillmann/sonntagsfrage) - The latest German political poll results.
+*   [sonntagsfrage (⭐26)](https://github.com/henningtillmann/sonntagsfrage) - The latest German political poll results.
 
     <img src="https://raw.githubusercontent.com/henningtillmann/sonntagsfrage/main/screenshot-1.png" width="400"/>
 
@@ -181,11 +181,11 @@ A curated list of awesome Scriptable scripts and widgets.
 
 ## Social
 
-*   [conversable-for-scriptable (⭐184)](https://github.com/andyngo/conversable-for-scriptable) - Contact icons to start conversations.
+*   [conversable-for-scriptable (⭐185)](https://github.com/andyngo/conversable-for-scriptable) - Contact icons to start conversations.
 
-    <img src="https://github.com/andyngo/conversable-for-scriptable/raw/main/conversable.png" width="400"/>
+    <img src="https://raw.githubusercontent.com/andyngo/conversable-for-scriptable/main/conversable.png" width="400"/>
 
-*   [ig-latest-post.js (⭐196)](https://github.com/supermamon/scriptable-scripts/blob/master/instagram-widgets/ig-latest-post.js) - The latest post from selected Instagram users.
+*   [ig-latest-post.js (⭐201)](https://github.com/supermamon/scriptable-scripts/blob/master/instagram-widgets/ig-latest-post.js) - The latest post from selected Instagram users.
 
 *   [termiWidget.js](https://gist.github.com/spencerwooo/7955aefc4ffa5bc8ae7c83d85d05e7a4) - Terminal-like output of subscriber amount.
 
@@ -205,7 +205,7 @@ A curated list of awesome Scriptable scripts and widgets.
 
 *   [fitx-widget.js](https://gist.github.com/DanielStefanK/487175b6f65ede401e37ee4848970176) - Workload of a FitX gym.
 
-*   [nfl-team-schedule-widget (⭐5)](https://github.com/brianwalborn/nfl-team-schedule-widget) - The current season schedule for an NFL team.
+*   [nfl-team-schedule-widget (⭐6)](https://github.com/brianwalborn/nfl-team-schedule-widget) - The current season schedule for an NFL team.
 
 *   [rsg\_group\_mcfit\_high5\_johnreed\_capacity\_widget.js](https://gist.github.com/masselmello/6d4f4c533b98b2550ee23a7a5e6c6cff) - Capacity of the nearest McFit gym.
 
@@ -221,9 +221,13 @@ A curated list of awesome Scriptable scripts and widgets.
 
 ## Tools
 
+*   [bamboo-scriptable-widget (⭐0)](https://github.com/Korysam15/bamboo-scriptable-widget) - Status of build plans from Bamboo.
+
+    <img src="https://raw.githubusercontent.com/Korysam15/bamboo-scriptable-widget/main/docs/img/widget.png" width="200"/>
+
 *   [gitlab-stats-for-scribtable (⭐48)](https://github.com/p0fi/gitlab-stats-for-scribtable) - Statistics from GitLab like the number of assigned merge requests.
 
-    <img src="https://github.com/p0fi/gitlab-stats-for-scribtable/raw/main/cover.png" width="800"/>
+    <img src="https://raw.githubusercontent.com/p0fi/gitlab-stats-for-scribtable/main/cover.png" width="800"/>
 
 *   [mz\_invisible\_widget.js](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9) - Creation of "invisible" backgrounds.
 
@@ -233,7 +237,7 @@ A curated list of awesome Scriptable scripts and widgets.
 
     <img src="https://camo.githubusercontent.com/1fdb80ce7198c16a4fafd1586a45307bbf255962/68747470733a2f2f736978636f6c6f72732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f7769646765742d6c61746573742e6a706567" width="400"/>
 
-*   [scriptable-testflight-watcher (⭐46)](https://github.com/FifiTheBulldog/scriptable-testflight-watcher) - Get notifications about new spots in TestFlight betas.
+*   [scriptable-testflight-watcher (⭐50)](https://github.com/FifiTheBulldog/scriptable-testflight-watcher) - Get notifications about new spots in TestFlight betas.
 
 *   [Scriptables-WindowWidget (⭐4)](https://github.com/Robby3St/Scriptables-WindowWidget) - Setting reminders for room ventilation.
 
@@ -245,7 +249,7 @@ A curated list of awesome Scriptable scripts and widgets.
 
     <img src="https://user-images.githubusercontent.com/56842969/97914623-76a44b80-1d50-11eb-9273-b35b4b76a3f0.jpeg" width="400"/>
 
-*   [xkcd.js (⭐196)](https://github.com/supermamon/scriptable-scripts/blob/master/xkcd-widget/xkcd.js) - Current or random xkcd comic.
+*   [xkcd.js (⭐201)](https://github.com/supermamon/scriptable-scripts/blob/master/xkcd-widget/xkcd.js) - Current or random xkcd comic.
 
 ## Traveling
 
@@ -253,13 +257,13 @@ A curated list of awesome Scriptable scripts and widgets.
 
     <img src="https://user-images.githubusercontent.com/945761/161787518-9cbd252c-64f4-4c77-9793-a4b3d3c3f1ef.jpg" width="400"/>
 
-*   [location-location-location (⭐36)](https://github.com/doersino/scriptable-widgets/tree/main/location-location-location) - Show Google Maps image from current location.
+*   [location-location-location (⭐38)](https://github.com/doersino/scriptable-widgets/tree/main/location-location-location) - Show Google Maps image from current location.
 
 ## Related
 
 ### Download helper
 
-*   [Import-Script.js (⭐196)](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Script to download code (i.e., from Pastebin, GitHub) into Scriptable.
+*   [Import-Script.js (⭐201)](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - Script to download code (i.e., from Pastebin, GitHub) into Scriptable.
 
 *   [scriptdu.de](https://scriptdu.de) - Downloader and updater for scripts.
 

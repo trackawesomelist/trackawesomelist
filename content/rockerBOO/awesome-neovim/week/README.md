@@ -66,6 +66,7 @@ Collections of awesome neovim plugins.
 ### Keybinding / Diagnostics
 
 *   [FeiyouG/commander.nvim (⭐303)](https://github.com/FeiyouG/commander.nvim) - Create and manage keybindings and commands in a more organized manner and search them quickly through Telescope.
+*   [tris203/hawtkeys.nvim (⭐51)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
 
 ### Editing Support / Diagnostics
 

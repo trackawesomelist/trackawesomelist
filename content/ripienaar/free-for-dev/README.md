@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Dec 29, 2023](/content/2023/12/29/README.md)
+
+### Miscellaneous
+
+*   [redirect.ing](https://redirect.ing/) - Fast & secure domain forwarding without managing servers or SSL certificates. Free plan includes 10 hostnames and 100,000 requests per month.
+
 ## [Dec 26, 2023](/content/2023/12/26/README.md)
 
 ### APIs, Data, and ML

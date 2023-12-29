@@ -20,6 +20,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Tapform.com](https://tapform.com/) — Includes unlimited forms, unlimited fields, and unlimited submissions for free. Forms can either be displayed in a standard or a chat format.
 
+### Miscellaneous
+
+*   [redirect.ing](https://redirect.ing/) - Fast & secure domain forwarding without managing servers or SSL certificates. Free plan includes 10 hostnames and 100,000 requests per month.
+
 ### Other Free Resources
 
 *   [SimpleBackups.com](https://simplebackups.com/) — Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, and Backblaze). Provides a free plan for 1 backup.

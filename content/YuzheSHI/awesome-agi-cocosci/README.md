@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Dec 29, 2023](/content/2023/12/29/README.md)
+
+### Communications / Language Compositionality
+
+*   [Word formation supports efficient communication: The case of compounds](https://escholarship.org/uc/item/5kv636c5) - ***CogSci'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=17465553221758916299\&hl=en\&as_sdt=0,5)].
+
 ## [Dec 27, 2023](/content/2023/12/27/README.md)
 
 ### Concepts / Theory of Concepts
@@ -819,10 +825,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Towards a rational constructivist theory of cognitive development](https://doi.apa.org/doiLanding?doi=10.1037/rev0000153) - ***Psychological Review***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=3294824172745724080\&hl=en\&as_sdt=0,5)]. Fei Xu's review extending Gopnik's view of constructivism, with the rationality as constraint.
 *   [The origins of inquiry: inductive inference and exploration in early childhood](https://www.sciencedirect.com/science/article/pii/S1364661312001301) - ***Trends in Cognitive Sciences***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=5189329081728071335\&hl=en\&as_sdt=0,5)]. Laura Schulz's review on children's exploratory play.
 *   [Play, Curiosity, and Cognition](https://www.annualreviews.org/doi/abs/10.1146/annurev-devpsych-070120-014806) - ***Annual Review of Developmental Psychology***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=10278208468154249192\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Laura Schulz's review on children's exploratory play, which proposes a new perspective on exploratory play to explain the emergence of irrational behaviors in play.
-
-### Communications / Language Compositionality
-
-*   [Word formation supports efficient communication: The case of compounds](http://www.charleskemp.com/papers/hanrpk_humanlikepropertyinductionisachallengeforlargelanguagemodels.pdf) - ***CogSci'22***, 2022.
 
 ### Problem Solving / Human-Level Problem Solving
 

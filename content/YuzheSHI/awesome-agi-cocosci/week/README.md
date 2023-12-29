@@ -26,6 +26,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Communications / Language Compositionality
 
+*   [Word formation supports efficient communication: The case of compounds](https://escholarship.org/uc/item/5kv636c5) - ***CogSci'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=17465553221758916299\&hl=en\&as_sdt=0,5)].
 *   [War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars](https://arxiv.org/abs/2311.17227) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=3598519753107761968\&hl=en\&as_sdt=0,5)].
 
 ### Evolutionary Intelligence / Explainable Deep Learning
@@ -837,7 +838,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [The Principle of Semantic Compositionality](https://link.springer.com/content/pdf/10.1007/BF00763644.pdf) - ***Topoi***, 1994. \[[All Versions](https://scholar.google.com/scholar?cluster=10899040818001759322\&hl=en\&as_sdt=0,5)]. The original paper on the principle of semantic compositionality.
 *   [On The Emergence Of Compositionality](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.60.3235) - ***Proceedings of the Evolution of Language Conference'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=16315741180717951222\&hl=en\&as_sdt=0,5)]. The original paper on the emergence of compositionality.
 *   [Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/pdf/1612.07182.pdf) - ***ICLR'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=1931070702879918446\&hl=en\&as_sdt=0,5)]. The original paper on the emergence of language in multi-agent reinforcement learning.
-*   [Word formation supports efficient communication: The case of compounds](http://www.charleskemp.com/papers/hanrpk_humanlikepropertyinductionisachallengeforlargelanguagemodels.pdf) - ***CogSci'22***, 2022.
 
 ### Problem Solving / Human-Level Problem Solving
 

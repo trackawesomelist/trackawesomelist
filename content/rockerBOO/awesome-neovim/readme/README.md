@@ -905,6 +905,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [max397574/better-escape.nvim (⭐445)](https://github.com/max397574/better-escape.nvim) - Create shortcuts to escape insert mode without getting delay.
 *   [Nexmean/caskey.nvim (⭐67)](https://github.com/Nexmean/caskey.nvim) - Utility to keymappings configuration using declarative cascading trees, optionally integrates with `which-key`.
 *   [Wansmer/langmapper.nvim (⭐84)](https://github.com/Wansmer/langmapper.nvim) - Auto translating your mappings for non-English input methods.
+*   [tris203/hawtkeys.nvim (⭐51)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
 
 ## Mouse
 

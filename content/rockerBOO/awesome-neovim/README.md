@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 29, 2023](/content/2023/12/29/README.md)
+
+### Keybinding / Diagnostics
+
+*   [tris203/hawtkeys.nvim (⭐51)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
+
 ## [Dec 28, 2023](/content/2023/12/28/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
