@@ -53,7 +53,7 @@
   - [Awesome Ebpf](/content/content/zoidbergwill/awesome-ebpf/README.md)
   - [Awesome Newsletters](/content/content/zudochkin/awesome-newsletters/README.md)
   - [Awesome Crystal](/content/content/veelenga/awesome-crystal/README.md)
-  - [Open Source Flutter Apps](/content/content/tortuvshin/open-source-flutter-apps/README.md)
+  - [Awesome Clojure](/content/content/razum2um/awesome-clojure/README.md)
 - [All Tracked List](all-repos/README.md)
   - [Back-End Development](back-end-development/README.md)
     - [Awesome Flask](/content/mjhea0/awesome-flask/README.md)

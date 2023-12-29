@@ -6,6 +6,18 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 [ Daily / [Weekly](/content/Kazhnuz/awesome-gnome/week/README.md) / [Overview](/content/Kazhnuz/awesome-gnome/readme/README.md) ]
 
+## [Dec 29, 2023](/content/2023/12/29/README.md)
+
+### System and Customization
+
+*   [Bottles (⭐5.6k)](https://github.com/bottlesdevs/Bottles) - Wine environments manager to run Windows software and games.
+*   [BoxBuddy (⭐23)](https://github.com/Dvlv/BoxBuddyRS) - Graphical Distrobox manager.
+*   [Pods (⭐628)](https://github.com/marhkb/pods) - Podman containers manager.
+
+### Utilities
+
+*   [Lan Mouse (⭐118)](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch)
+
 ## [Dec 27, 2023](/content/2023/12/27/README.md)
 
 ### Internet and Networking
@@ -79,7 +91,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### System and Customization
 
-*   [Mission Center](https://missioncenter.io/) - Monitor your CPU, Memory, Disk, Network and GPU usage
+*   [Mission Center](https://missioncenter.io/) - Monitor your CPU, Memory, Disk, Network and GPU usage.
 
 ## [May 28, 2023](/content/2023/05/28/README.md)
 
@@ -371,10 +383,6 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 *   [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - Graphical interface for advanced GNOME settings.
 
-### Security and Privacy
-
-*   [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager compatible with freedesktop secrets.
-
 ### Development and Design
 
 *   [Gaphor](https://gaphor.org) - The simple modeling tool for UML and SysML. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
@@ -427,12 +435,6 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 *   [GPaste (⭐711)](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
 
-## [Oct 02, 2019](/content/2019/10/02/README.md)
-
-### Internet and Networking
-
-*   [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
-
 ## [Sep 21, 2019](/content/2019/09/21/README.md)
 
 ### Internet and Networking
@@ -444,7 +446,6 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 ### Office
 
 *   [Foliate (⭐4.6k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
-*   [Pdftag (⭐63)](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
 *   [Marker (⭐812)](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 
 ### Productivity and Time
@@ -592,10 +593,6 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 ### Graphics
 
 *   [Coulr (⭐32)](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
-
-### Gaming
-
-*   [GNOME Games](https://wiki.gnome.org/Apps/Games) - Game launcher and an emulation frontend to libretro.
 
 ### System and Customization
 
