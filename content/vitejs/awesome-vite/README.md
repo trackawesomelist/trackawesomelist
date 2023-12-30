@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Dec 30, 2023](/content/2023/12/30/README.md)
+
+### Templates / Vanilla
+
+*   [vite-vanilla-library-template (⭐0)](https://github.com/hywax/vite-vanilla-library-template) - Starter template TypeScript, ESLint, Vitest, Husky, Conventional Commits, GitHub actions.
+
+### Templates / React
+
+*   [vite-template-awesome-soho (⭐0)](https://github.com/comnori/vite-template-awesome-soho) - `DevContainer` Template for creating `React 18`, `Javascript + JSDoc`, `React Router`, `Ant Design`, `ESLint`, `EditorConfig`, `.env`, `SonarLint`, `Vitest`.
+
 ## [Dec 26, 2023](/content/2023/12/26/README.md)
 
 ### Templates / Vue 3

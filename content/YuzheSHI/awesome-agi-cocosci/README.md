@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Dec 30, 2023](/content/2023/12/30/README.md)
+
+### Evolutionary Intelligence / Explainable Deep Learning
+
+*   [From language development to language evolution: A unified view of human lexical creativity](https://www.science.org/doi/abs/10.1126/science.ade7981) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=15871163761816546924\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://brochhagen.github.io/content/ms/accepted-lexical-creativity.pdf)]. This work supports a unified foundation for human lexical creativity underlying both the fleeting products of individual ontogeny and the evolutionary products of phylogeny across languages.
+
 ## [Dec 29, 2023](/content/2023/12/29/README.md)
 
 ### Communications / Language Compositionality

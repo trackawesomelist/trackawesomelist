@@ -17,6 +17,10 @@ A list of Free Software network services and web applications which can be hoste
 *   [Azimutt](https://azimutt.app) - Visual database exploration made for real world databases (big and messy). Explore your database schema as well as data, document them, extend them and even get analysis and guidelines. ([Demo](https://azimutt.app/gallery/gospeak), [Source Code (⭐838)](https://github.com/azimuttapp/azimutt)) `MIT` `Elixir/Nodejs/Docker`
 *   [WebDB](https://webdb.app) - Efficient database IDE. ([Demo](https://demo.webdb.app/), [Source Code](https://gitlab.com/web-db/app)) `AGPL-3.0` `Docker`
 
+### Software / File Transfer - Single-click & Drag-n-drop Upload
+
+*   [transfer.sh (⭐15k)](https://github.com/dutchcoders/transfer.sh) - Easy file sharing from the command line. `MIT` `Go`
+
 ### Software / Groupware
 
 *   [Digipad](https://digipad.app/) - An online self-hosted application for creating collaborative digital notepads (Documentation in french). ([Source Code](https://codeberg.org/ladigitale/digipad)) `AGPL-3.0` `Nodejs`
@@ -747,10 +751,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Budget Zen](https://budgetzen.net) - End-to-end encrypted and simple expense manager. ([Demo](https://app.budgetzen.net), [Source Code (⭐46)](https://github.com/BrunoBernardino/budgetzen-web)) `AGPL-3.0` `Deno`
 *   [Lago](https://www.getlago.com/) - Open-source metering and usage-based billing. ([Source Code (⭐4.9k)](https://github.com/getlago/lago)) `AGPL-3.0` `Docker`
 
-### Software / Pastebins
-
-*   [Lenpaste](https://git.lcomrade.su/root/lenpaste) - Web service that allows you to share notes anonymously. ([Demo](https://paste.lcomrade.su/)) `AGPL-3.0` `Docker/Go`
-
 ### Software / Search Engines
 
 *   [Hound (⭐5.5k)](https://github.com/hound-search/hound) - Lightning fast code searching made easy. `MIT` `Go/Docker`
@@ -1084,10 +1084,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Sourcehut](https://sourcehut.org/) - A full web git interface with no javascript. ([Demo](https://sr.ht/), [Source Code](https://git.sr.ht/~sircmpwn/git.sr.ht/tree)) `GPL-2.0` `Go`
 
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
-
-### Software / Groupware
-
-*   [tine - Community Edition (⭐159)](https://github.com/tine20/tine20) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VoIP, Mail-Client, CRM, Sales, Projects, Timetracker. `AGPL-3.0` `PHP`
 
 ### Software / Remote Access
 
@@ -1575,10 +1571,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Games - Administrative Utilities & Control Panels
 
 *   [Lancache](https://lancache.net) `⚠` - LAN Party game caching made easy. ([Source Code (⭐657)](https://github.com/lancachenet/monolithic)) `MIT` `Docker/Shell`
-
-### Software / Maps and Global Positioning System (GPS)
-
-*   [MapBBCodeShare (⭐58)](https://github.com/MapBBCode/share.mapbbcode.org) - Tool for sharing custom OSM maps. Support for annotated markers, polygons, lines, multi-format import/export, multiple layers, shortlinks. ([Demo](http://share.mapbbcode.org/)) `WTFPL` `PHP`
 
 ### Software / Miscellaneous
 
@@ -2272,10 +2264,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [SFTPGo (⭐7.3k)](https://github.com/drakkan/sftpgo) - Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. `AGPL-3.0` `Go/deb/Docker`
 *   [Zenko CloudServer](https://www.zenko.io/cloudserver) - Zenko CloudServer, an open-source implementation of a server handling the Amazon S3 protocol. ([Source Code (⭐1.6k)](https://github.com/scality/cloudserver)) `Apache-2.0` `Docker/Nodejs`
 
-### Software / File Transfer - Single-click & Drag-n-drop Upload
-
-*   [transfer.sh](https://transfer.sh) - Easy file sharing from the command line. ([Source Code (⭐15k)](https://github.com/dutchcoders/transfer.sh)) `MIT` `Go`
-
 ### Software / Games
 
 *   [EmuLinkerSF](https://emulinker.org) - EmuLinkerSF is an open source Kaillera server. Kaillera is a client/server system that any emulator can implement to enable netplay over the Internet. ([Source Code (⭐43)](https://github.com/God-Weapon/EmuLinkerSF)) `GPL-2.0` `Java`
@@ -2842,10 +2830,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Communication - Email - Complete Solutions
 
 *   [wildduck](https://wildduck.email/) - Scalable no-SPOF IMAP/POP3 mail server. ([Source Code (⭐1.8k)](https://github.com/nodemailer/wildduck)) `EUPL-1.2` `Nodejs/Docker`
-
-### Software / Communication - Social Networks and Forums
-
-*   [Teddit](https://teddit.net) `⚠` - Alternative Reddit front-end focused on privacy. ([Source Code](https://codeberg.org/teddit/teddit)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Community-Supported Agriculture (CSA)
 

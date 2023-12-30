@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Dec 30, 2023](/content/2023/12/30/README.md)
+
+### Miscellaneous
+
+*   [tgbotxx (⭐2)](https://github.com/baderouaich/tgbotxx) - Telegram Bot C++ Library. \[MIT]
+
 ## [Dec 28, 2023](/content/2023/12/28/README.md)
 
 ### GUI

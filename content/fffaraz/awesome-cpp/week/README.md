@@ -85,6 +85,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [date (⭐3k)](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header. \[MIT] [website](https://howardhinnant.github.io/date/date.html)
 *   [emio (⭐115)](https://github.com/Viatorus/emio) - A safe and fast high-level and low-level character input/output library. \[MIT]
 *   [hedley (⭐726)](https://github.com/nemequ/hedley) - A C/C++ header file designed to smooth over some platform-specific annoyances. [website](https://nemequ.github.io/hedley/)
+*   [tgbotxx (⭐2)](https://github.com/baderouaich/tgbotxx) - Telegram Bot C++ Library. \[MIT]
 
 ## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
 

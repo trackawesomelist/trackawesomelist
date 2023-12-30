@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Dec 30, 2023](/content/2023/12/30/README.md)
+
+### Other / [Other](#other-1)
+
+*   [shisho (⭐365)](https://github.com/flatt-security/shisho) :warning: — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
+
 ## [Dec 26, 2023](/content/2023/12/26/README.md)
 
 ### Other / [Other](#other-1)
@@ -22,7 +28,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [JET (⭐649)](https://github.com/aviatesk/JET.jl) — Static type inference system to detect bugs and type instabilities.
+*   [JET (⭐655)](https://github.com/aviatesk/JET.jl) — Static type inference system to detect bugs and type instabilities.
 
 ## [Dec 07, 2023](/content/2023/12/07/README.md)
 
@@ -822,7 +828,6 @@
 *   [gokart (⭐2.1k)](https://github.com/praetorian-inc/gokart) — Golang security analysis with a focus on minimizing false positives. It is capable of tracing the source of variables and function arguments  to determine whether input sources are safe.
 *   [goreporter (⭐3.1k)](https://github.com/360EntSecGroup-Skylar/goreporter) — Concurrently runs many linters and normalises their output to a report.
 *   [Reviewdog (⭐6.9k)](https://github.com/haya14busa/reviewdog) — A tool for posting review comments from any linter in any code hosting service.
-*   [shisho](https://docs.shisho.dev/) :warning: — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
 *   [Violations Lib (⭐135)](https://github.com/tomasbjerre/violations-lib) — Java library for parsing report files from static code analysis. Used by a bunch of Jenkins, Maven and Gradle plugins.
 *   [NodeJSScan](https://opensecurity.in) — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
 *   [Polymer-analyzer (⭐426)](https://github.com/Polymer/tools/tree/master/packages/analyzer) — A static analysis framework for Web Components.

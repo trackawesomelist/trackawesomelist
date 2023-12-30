@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Dec 30, 2023](/content/2023/12/30/README.md)
+
+### Software / File Transfer - Single-click & Drag-n-drop Upload
+
+*   [transfer.sh (⭐15k)](https://github.com/dutchcoders/transfer.sh) - Easy file sharing from the command line. `MIT` `Go`
+
 ## [Dec 28, 2023](/content/2023/12/28/README.md)
 
 ### Software / Internet of Things (IoT)
@@ -842,10 +848,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Budget Zen](https://budgetzen.net) - End-to-end encrypted and simple expense manager. ([Demo](https://app.budgetzen.net), [Source Code (⭐46)](https://github.com/BrunoBernardino/budgetzen-web)) `AGPL-3.0` `Deno`
 *   [Lago](https://www.getlago.com/) - Open-source metering and usage-based billing. ([Source Code (⭐4.9k)](https://github.com/getlago/lago)) `AGPL-3.0` `Docker`
 
-### Software / Pastebins
-
-*   [Lenpaste](https://git.lcomrade.su/root/lenpaste) - Web service that allows you to share notes anonymously. ([Demo](https://paste.lcomrade.su/)) `AGPL-3.0` `Docker/Go`
-
 ### Software / Search Engines
 
 *   [Hound (⭐5.5k)](https://github.com/hound-search/hound) - Lightning fast code searching made easy. `MIT` `Go/Docker`
@@ -1217,10 +1219,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Sourcehut](https://sourcehut.org/) - A full web git interface with no javascript. ([Demo](https://sr.ht/), [Source Code](https://git.sr.ht/~sircmpwn/git.sr.ht/tree)) `GPL-2.0` `Go`
 
 ## [Nov 02, 2022](/content/2022/11/02/README.md)
-
-### Software / Groupware
-
-*   [tine - Community Edition (⭐159)](https://github.com/tine20/tine20) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VoIP, Mail-Client, CRM, Sales, Projects, Timetracker. `AGPL-3.0` `PHP`
 
 ### Software / Remote Access
 
@@ -1759,10 +1757,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Minetest](https://www.minetest.net/) - An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server. ([Source Code (⭐9.7k)](https://github.com/minetest/minetest)) `LGPL-2.1/MIT/Zlib` `C++/deb`
 *   [Teeworlds](https://www.teeworlds.com) - Open source 2D retro multiplayer shooter. ([Source Code (⭐2.2k)](https://github.com/teeworlds/teeworlds)) `Zlib` `C++/deb`
-
-### Software / Maps and Global Positioning System (GPS)
-
-*   [MapBBCodeShare (⭐58)](https://github.com/MapBBCode/share.mapbbcode.org) - Tool for sharing custom OSM maps. Support for annotated markers, polygons, lines, multi-format import/export, multiple layers, shortlinks. ([Demo](http://share.mapbbcode.org/)) `WTFPL` `PHP`
 
 ## [Jul 25, 2022](/content/2022/07/25/README.md)
 
@@ -2538,10 +2532,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [SFTPGo (⭐7.3k)](https://github.com/drakkan/sftpgo) - Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. `AGPL-3.0` `Go/deb/Docker`
 *   [Zenko CloudServer](https://www.zenko.io/cloudserver) - Zenko CloudServer, an open-source implementation of a server handling the Amazon S3 protocol. ([Source Code (⭐1.6k)](https://github.com/scality/cloudserver)) `Apache-2.0` `Docker/Nodejs`
 
-### Software / File Transfer - Single-click & Drag-n-drop Upload
-
-*   [transfer.sh](https://transfer.sh) - Easy file sharing from the command line. ([Source Code (⭐15k)](https://github.com/dutchcoders/transfer.sh)) `MIT` `Go`
-
 ### Software / Recipe Management
 
 *   [RecipeSage (⭐469)](https://github.com/julianpoy/recipesage) - A recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL. ([Demo](https://recipesage.com)) `AGPL-3.0` `Nodejs`
@@ -3124,10 +3114,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Communication - Email - Complete Solutions
 
 *   [wildduck](https://wildduck.email/) - Scalable no-SPOF IMAP/POP3 mail server. ([Source Code (⭐1.8k)](https://github.com/nodemailer/wildduck)) `EUPL-1.2` `Nodejs/Docker`
-
-### Software / Communication - Social Networks and Forums
-
-*   [Teddit](https://teddit.net) `⚠` - Alternative Reddit front-end focused on privacy. ([Source Code](https://codeberg.org/teddit/teddit)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Community-Supported Agriculture (CSA)
 

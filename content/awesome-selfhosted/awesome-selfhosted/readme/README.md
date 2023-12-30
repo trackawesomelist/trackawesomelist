@@ -14,9 +14,9 @@ A list of Free Software network services and web applications which can be hoste
 
 Self-hosting is the practice of hosting and managing applications on your own server(s) instead of consuming from [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers.
 
-This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted on your own server(s). Non-Free software is listed on the [Non-Free (⭐160k)](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/non-free.md) page.
+This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted on your own server(s). Non-Free software is listed on the [Non-Free (⭐163k)](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/non-free.md) page.
 
-**[HTML version](https://awesome-selfhosted.net/) (recommended)**, [Markdown version (⭐160k)](https://github.com/awesome-selfhosted/awesome-selfhosted) (legacy).
+**[HTML version](https://awesome-selfhosted.net/) (recommended)**, [Markdown version (⭐163k)](https://github.com/awesome-selfhosted/awesome-selfhosted) (legacy).
 
 See [Contributing](#contributing).
 
@@ -549,7 +549,6 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 *   [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code (⭐348)](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Docker/Python`
 *   [Takahē](https://jointakahe.org/) - Federated microblogging server. Mastodon, & ActivityPub compatible. ([Source Code (⭐1k)](https://github.com/jointakahe/takahe)) `BSD-3-Clause` `Docker`
 *   [Talkyard](https://www.talkyard.io/) - Create a community, where your users can suggest ideas and get questions answered. And have friendly open-ended discussions and chat (Slack/StackOverflow/Discourse/Reddit/Disqus hybrid). ([Demo](https://www.talkyard.io/forum/latest), [Source Code (⭐1.6k)](https://github.com/debiki/talkyard)) `AGPL-3.0` `Docker/Scala`
-*   [Teddit](https://teddit.net) `⚠` - Alternative Reddit front-end focused on privacy. ([Source Code](https://codeberg.org/teddit/teddit)) `AGPL-3.0` `Nodejs/Docker`
 *   [yarn.social](https://yarn.social) - Self-Hosted, Twitter™-like Decentralised micro-logging platform. No ads, no tracking, your content, your data. ([Source Code](https://git.mills.io/yarnsocial/yarn)) `MIT` `Go`
 *   [Zusam (⭐163)](https://github.com/zusam/zusam) - Free and open-source way to self-host private forums for groups of friends or family. ([Demo](https://demo.zusam.org)) `AGPL-3.0` `PHP`
 
@@ -923,7 +922,7 @@ Simplified file servers for sharing of one-time/short-lived/temporary files, pro
 *   [QuickShare (⭐451)](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices. `LGPL-3.0` `Docker/Go`
 *   [Sharry (⭐671)](https://github.com/eikek/sharry) - Share files easily over the internet between authenticated and anonymous users (both ways) with resumable up- and downloads. `GPL-3.0` `Scala/Java/deb/Docker`
 *   [Shifter (⭐11)](https://github.com/TobySuch/Shifter) - A simple, self-hosted file-sharing web app, powered by Django. `MIT` `Docker`
-*   [transfer.sh](https://transfer.sh) - Easy file sharing from the command line. ([Source Code (⭐15k)](https://github.com/dutchcoders/transfer.sh)) `MIT` `Go`
+*   [transfer.sh (⭐15k)](https://github.com/dutchcoders/transfer.sh) - Easy file sharing from the command line. `MIT` `Go`
 *   [Uguu (⭐708)](https://github.com/nokonoko/uguu) - Stores files and deletes after X amount of time. `MIT` `PHP`
 *   [Uploady (⭐60)](https://github.com/farisc0de/Uploady) - Uploady is a simple file uploader script with multi file upload support. `MIT` `PHP`
 *   [XBackBone](https://xbackbone.app/) - A simple, fast and lightweight file manager with instant sharing tools integration, like ShareX (a free and open-source screenshot utility for Windows). ([Source Code (⭐898)](https://github.com/SergiX44/XBackBone)) `AGPL-3.0` `PHP/Docker`
@@ -1031,7 +1030,6 @@ Collaborative software or [groupware](https://en.wikipedia.org/wiki/Collaborativ
 *   [Openmeetings](https://openmeetings.apache.org/index.html) - Openmeetings provides video conferencing, instant messaging, white board, collaborative document editing and other groupware tools using API functions of the Red5 Streaming Server for Remoting and Streaming. ([Source Code](https://openmeetings.apache.org/scm.html)) `Apache-2.0` `Java`
 *   [SOGo](https://www.sogo.nu/) - SOGo offers multiple ways to access the calendaring and messaging data. CalDAV, CardDAV, GroupDAV, as well as ActiveSync, including native Outlook compatibility and Web interface. ([Demo](https://demo.sogo.nu/SOGo/), [Source Code (⭐1.6k)](https://github.com/Alinto/sogo)) `LGPL-2.1` `Objective-C`
 *   [SuiteCRM](https://suitecrm.com) - The award-winning, enterprise-class open source CRM. ([Source Code (⭐3.9k)](https://github.com/salesagility/SuiteCRM)) `AGPL-3.0` `PHP`
-*   [tine - Community Edition (⭐159)](https://github.com/tine20/tine20) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VoIP, Mail-Client, CRM, Sales, Projects, Timetracker. `AGPL-3.0` `PHP`
 *   [Tracim (⭐193)](https://github.com/tracim/tracim) - Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. `AGPL-3.0/LGPL-3.0/MIT` `Python`
 *   [Zimbra Collaboration](https://www.zimbra.com/) - Email, calendar, collaboration server with Web interface and lots of integrations. ([Source Code](https://github.com/zimbra)) `GPL-2.0/CPAL-1.0` `Java`
 
@@ -1139,7 +1137,6 @@ Software to manage [3D printers](https://en.wikipedia.org/wiki/3D_printing), [CN
 *   [Bicimon (⭐37)](https://github.com/knrdl/bicimon) - Bike Speedometer as Progressive Web App. ([Demo](https://knrdl.github.io/bicimon/)) `MIT` `Javascript`
 *   [Geo2tz (⭐59)](https://github.com/noandrea/geo2tz) - Get the timezone from geo coordinates (lat, lon). `MIT` `Go/Docker`
 *   [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code (⭐4.5k)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
-*   [MapBBCodeShare (⭐58)](https://github.com/MapBBCode/share.mapbbcode.org) - Tool for sharing custom OSM maps. Support for annotated markers, polygons, lines, multi-format import/export, multiple layers, shortlinks. ([Demo](http://share.mapbbcode.org/)) `WTFPL` `PHP`
 *   [Nominatim](https://nominatim.org/) - Server application for geocoding (address -> coordinates) and reverse geocoding (coordinates -> address) on OpenStreetMap data. ([Source Code (⭐2.7k)](https://github.com/osm-search/Nominatim)) `GPL-2.0` `C`
 *   [Open Source Routing Machine (OSRM)](http://project-osrm.org/) - High performance routing engine designed to run on OpenStreetMap data and offering an HTTP API, C++ library interface, and Nodejs wrapper. ([Demo](https://map.project-osrm.org/), [Source Code (⭐5.9k)](https://github.com/Project-OSRM/osrm-backend)) `BSD-2-Clause` `C++`
 *   [OpenRouteService](https://openrouteservice.org/) - Selfhosted route service with directions, isochrones, time-distance matrix, route optimization, etc. ([Demo](https://openrouteservice.org/dev/#/api-docs/introduction), [Source Code (⭐1.2k)](https://github.com/GIScience/openrouteservice)) `GPL-3.0` `Docker/Java`
@@ -1442,7 +1439,6 @@ A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content
 *   [FlashPaper (⭐270)](https://github.com/AndrewPaglusch/FlashPaper) - A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ([Demo](https://flashpaper.io)) `MIT` `Docker/PHP`
 *   [Hasty Paste](https://enchantedcode.co.uk/hasty-paste/) - A place to quickly paste some text and share it. Mostly used for sharing debug logs and such to help developers provide tech support. The project aims to be both fast and minimal. ([Source Code (⭐160)](https://github.com/enchant97/hasty-paste)) `AGPL-3.0` `Docker/Python`
 *   [Hemmelig](https://hemmelig.app) - Share encrypted secrets cross organizations, or as private persons. ([Source Code (⭐564)](https://github.com/HemmeligOrg/Hemmelig.app)) `MIT` `Docker/Nodejs`
-*   [Lenpaste](https://git.lcomrade.su/root/lenpaste) - Web service that allows you to share notes anonymously. ([Demo](https://paste.lcomrade.su/)) `AGPL-3.0` `Docker/Go`
 *   [MicroBin (⭐2k)](https://github.com/szabodanika/microbin) - Simple, performant, configurable, entirely self-contained pastebin and URL shortener. `BSD-3-Clause` `Rust/Docker`
 *   [MokinToken (⭐5)](https://github.com/nexus-uw/mokintoken) - Clientside encrypted pastebin using tweetnacl. `Unlicense` `PHP/Docker`
 *   [Opengist (⭐606)](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git. ([Demo](https://opengist.thomice.li)) `AGPL-3.0` `Docker/Go/Nodejs`
@@ -2051,7 +2047,7 @@ Contributing guidelines can be found [here (⭐245)](https://github.com/awesome-
 
 ## License
 
-This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported (⭐160k)](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.
+This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported (⭐163k)](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.
 Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).\
 The list of authors can be found in the [AUTHORS (⭐245)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/AUTHORS) file.
 

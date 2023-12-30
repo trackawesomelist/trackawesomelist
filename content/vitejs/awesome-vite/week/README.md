@@ -8,6 +8,10 @@
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
+### Templates / Vanilla
+
+*   [vite-vanilla-library-template (⭐0)](https://github.com/hywax/vite-vanilla-library-template) - Starter template TypeScript, ESLint, Vitest, Husky, Conventional Commits, GitHub actions.
+
 ### Templates / Vue 3
 
 *   [arco-admin (⭐6)](https://github.com/LIjiAngChen8/arco-admin) - `Vite` + `ArcoDesign` + `TypeScript` follows `ESM` standards, offering an out-of-the-box,standardized, feature-rich template for middle and back-office management systems.
@@ -16,6 +20,7 @@
 
 *   [gravity-ui-vite-template (⭐0)](https://github.com/gravity-ui/gravity-ui-vite-example) - Template with Gravity UI ecosystem (React, TypeScript, Gravity UI, Vite, Husky, ESLint, Prettier, Lint-staged).
 *   [vite-react-component-library-starter (⭐0)](https://github.com/rayyamhk/vite-react-component-library-starter) - A starter template for creating React component libraries with `TypeScript`, `Tailwind CSS`, `Storybook`, `Vitest`, `ESLint`, `Prettier`, `Husky`, and `GitHub Action`.
+*   [vite-template-awesome-soho (⭐0)](https://github.com/comnori/vite-template-awesome-soho) - `DevContainer` Template for creating `React 18`, `Javascript + JSDoc`, `React Router`, `Ant Design`, `ESLint`, `EditorConfig`, `.env`, `SonarLint`, `Vitest`.
 
 ### Framework-agnostic Plugins / Integrations
 

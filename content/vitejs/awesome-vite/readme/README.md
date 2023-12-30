@@ -75,6 +75,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-vanilla-js-template (⭐7)](https://github.com/Barata-Ribeiro/vite-vanilla-js-template) - Starter template ESlint, Prettier, PostCSS, Nesting, Autoprefixer, CSS Nano, CSS Reset.
 *   [vite-starter-markup-template (⭐7)](https://github.com/Grinch3214/vite-starter-markup-template) - Starter template for Markup.
 *   [create-domco (⭐7)](https://github.com/rossrobino/domco) - Starter template for domco SSG.
+*   [vite-vanilla-library-template (⭐0)](https://github.com/hywax/vite-vanilla-library-template) - Starter template TypeScript, ESLint, Vitest, Husky, Conventional Commits, GitHub actions.
 
 #### Vue 3
 
@@ -218,6 +219,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [react-vite-template (⭐1)](https://github.com/Mirazex/react-vite-template) - React, TypeScript, Vite, Mantine, Million, Husky, Prettier, Import Sorter, Lint-staged.
 *   [gravity-ui-vite-template (⭐0)](https://github.com/gravity-ui/gravity-ui-vite-example) - Template with Gravity UI ecosystem (React, TypeScript, Gravity UI, Vite, Husky, ESLint, Prettier, Lint-staged).
 *   [vite-react-component-library-starter (⭐0)](https://github.com/rayyamhk/vite-react-component-library-starter) - A starter template for creating React component libraries with `TypeScript`, `Tailwind CSS`, `Storybook`, `Vitest`, `ESLint`, `Prettier`, `Husky`, and `GitHub Action`.
+*   [vite-template-awesome-soho (⭐0)](https://github.com/comnori/vite-template-awesome-soho) - `DevContainer` Template for creating `React 18`, `Javascript + JSDoc`, `React Router`, `Ant Design`, `ESLint`, `EditorConfig`, `.env`, `SonarLint`, `Vitest`.
 
 #### Svelte
 
