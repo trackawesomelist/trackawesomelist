@@ -8,6 +8,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## [Dec 30, 2023](/content/2023/12/30/README.md)
 
+### Logging
+
+*   [lwlog (⭐190)](https://github.com/ChristianPanov/lwlog) - Very fast synchronous and asynchronous C++17 logging library. \[MIT]
+
 ### Miscellaneous
 
 *   [tgbotxx (⭐2)](https://github.com/baderouaich/tgbotxx) - Telegram Bot C++ Library. \[MIT]

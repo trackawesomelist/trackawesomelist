@@ -10,6 +10,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Audio and Music
 
+*   [Festival (⭐213)](https://github.com/hinto-janai/festival) — A local music player/server/client [![build-badge](https://github.com/hinto-janai/festival/actions/workflows/ci.yml/badge.svg)](https://github.com/hinto-janai/festival/actions/workflows/ci.yml)
 *   [termusic (⭐671)](https://github.com/tramhao/termusic) - Music Player TUI written in Rust
 
 ### Applications / Database

@@ -749,6 +749,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Log4cpp](http://log4cpp.sourceforge.net/) - A library of C++ classes for flexible logging to files, syslog, IDSA and other destinations. \[LGPL]
 *   [log4cplus (⭐1.5k)](https://github.com/log4cplus/log4cplus) - A simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. \[BSD & Apache2]
 *   [loguru (⭐1.7k)](https://github.com/emilk/loguru) - A lightweight C++ logging library. \[PublicDomain]
+*   [lwlog (⭐190)](https://github.com/ChristianPanov/lwlog) - Very fast synchronous and asynchronous C++17 logging library. \[MIT]
 *   [plog (⭐2k)](https://github.com/SergiusTheBest/plog) - Portable and simple log for C++ in less than 1000 lines of code. \[MPL2]
 *   [reckless (⭐462)](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++. \[MIT]
 *   [spdlog (⭐21k)](https://github.com/gabime/spdlog) - Super fast, header only, C++ logging library.

@@ -518,17 +518,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [PcapPlusPlus](https://pcapplusplus.github.io/) - An open-source C++ library for capturing, parsing and crafting network packets. It features a C++ interface for creating AF\_XDP sockets, making it easy to [send and receive packets through them](https://pcapplusplus.github.io/docs/next/features#af_xdp-support-beta).
 
-#### [44. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-##### Communication / File Sharing
-
-*   [Dropshare](https://dropshare.app) - powerful menu bar application for sharing screen shots, screen recordings and all other files with over 27 storage providers.
-
-##### Utilities / Productivity
-
-*   [PaletteBrain](https://palettebrain.com) - Access the power of ChatGPT across all your Mac applications with the press of a shortcut.
-
-#### [45. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+#### [44. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ##### Tools
 
@@ -538,32 +528,32 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Matters.town](https://matters.town/) - Decentralized content publication ecosystem.
 
-#### [46. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+#### [45. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ##### OS Images
 
 *   [NextCloudPi (⭐2.2k)](https://github.com/nextcloud/nextcloudpi) - Nextcloud ready image based on Raspbian. Features Nextcloud 11 running on Raspbian 8, with PHP 7 and HTTP2 enabled Apache server.
 
-#### [47. Awesome Deno](/content/denolib/awesome-deno/README.md)
+#### [46. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ##### Modules / Automation
 
 *   [swissknife (⭐3)](https://github.com/fakoua/SwissKnife) - SwissKnife - Deno Swiss Knife tools for Windows.
 
-#### [48. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+#### [47. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ##### Development / Discovery
 
 *   [flakelight (⭐72)](https://github.com/nix-community/flakelight) - A modular flake framework aiming to minimize boilerplate.
 *   [services-flake (⭐54)](https://github.com/juspay/services-flake) - A NixOS-like service configuration framework for Nix flakes.
 
-#### [49. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+#### [48. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ##### Other plugins
 
 *   [Safe Area (⭐37)](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS
 
-#### [50. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
+#### [49. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 
 ##### ArcGIS location services
 
@@ -575,7 +565,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [snippets client side raster functions](https://ubatsukh.github.io/arcgis-js-api-demos/clientside-rasterfunctions/index.html) - The client-side raster functions are operations that apply processing directly to the source image pixels.
 
-#### [51. Awesome Django](/content/wsvincent/awesome-django/README.md)
+#### [50. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ##### Third-Party Packages / General
 
@@ -585,7 +575,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [django-elasticsearch-dsl (⭐987)](https://github.com/django-es/django-elasticsearch-dsl) - Elasticsearch DSL integration for Django.
 
-#### [52. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+#### [51. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ##### Communications / Radio
 
@@ -595,7 +585,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Sun and Moon (⭐387)](https://github.com/peterhinch/micropython-samples/blob/master/astronomy/README.md) - Determine Sun and Moon rise and set times, Moon phases.
 
-#### [53. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [52. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Artificial Intelligence
 
@@ -639,13 +629,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [yai (⭐444)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
-#### [54. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+#### [53. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ##### DevOps Tools
 
 *   [Kamal (⭐8.1k)](https://github.com/basecamp/kamal) - Kamal offers zero-downtime deploys, rolling restarts, asset bridging, remote builds, accessory service management, and everything else you need to deploy and manage your web app in production with Docker.
 
-#### [55. Awesome R](/content/qinwf/awesome-R/README.md)
+#### [54. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ##### 2023
 
@@ -655,7 +645,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [targets](https://docs.ropensci.org/targets/) - Make-like pipeline tool for organizing and running data science workflows, automatically skipping steps that have already been done. Supported by [rOpenSci](https://ropensci.org/).
 
-#### [56. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [55. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### Graph databases
 
@@ -677,7 +667,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [jsonrpc (⭐62)](https://github.com/cxxxr/jsonrpc) -  JSON-RPC 2.0 server/client for Common Lisp. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-#### [57. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+#### [56. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ##### Algorithms and Data structures
 
@@ -686,13 +676,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [SPAKE2+ (⭐1)](https://github.com/spider-gazelle/SPAKE2_plus) - Password Authenticated Key Exchange (PAKE) protocol, comparable to SRP-6a
 *   [verhoeff (⭐0)](https://github.com/spider-gazelle/verhoeff) - Implementation of the Verhoeff checksum algorithm
 
-#### [58. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+#### [57. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ##### Graphical User Interface / Apache License
 
 *   [imgui-ada (⭐4)](https://github.com/Cre8or/ImGui-Ada) - Ada binding of the ImGui library.
 
-#### [59. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+#### [58. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ##### Productivity and Time
 
@@ -727,7 +717,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Kooha (⭐1.9k)](https://github.com/SeaDve/Kooha) - Elegantly record your screen.
 *   [Lan Mouse (⭐118)](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch)
 
-#### [60. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [59. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### Books, blogs, and training materials / Community Chat Rooms
 
@@ -750,13 +740,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [MS5637](https://crates.io/crates/ms5637) - no\_std I2C driver for the MS5637 temperature and pressure sensor ![crates.io](https://img.shields.io/crates/v/ms5637.svg)
 *   [HX711 (⭐1)](https://github.com/DaneSlattery/hx711) - GPIO - An interrupt-based driver for the HX711 Load Cell Amplifier IC. no-std.
 
-#### [61. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+#### [60. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ##### Intentionally Vulnerable Systems / Zealandia
 
 *   [Pentest-Ground](https://pentest-ground.com/).
 
-#### [62. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+#### [61. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ##### Tools / Other
 
@@ -766,7 +756,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [The Cyberclopaedia](https://cr0mll.github.io/cyberclopaedia/) - The open-source encyclopedia of cybersecurity. [GitHub Repository (⭐150)](https://github.com/cr0mll/cyberclopaedia)
 
-#### [63. Awesome Honeypots](/content/paralax/awesome-honeypots/README.md)
+#### [62. Awesome Honeypots](/content/paralax/awesome-honeypots/README.md)
 
 ##### Honeypots
 
@@ -779,13 +769,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   [honeyfs (⭐0)](https://github.com/referefref/honeyfs) - Tool to create artificial file systems for medium/high interaction honeypots.
     *   [Modern Honeynet Network](http://threatstream.github.io/mhn/) - Streamlines deployment and management of secure honeypots.
 
-#### [64. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+#### [63. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ##### Tools / IDE Integration
 
 *   [Using a Load Generator in NetBeans IDE](https://netbeans.apache.org/tutorial/main/kb/docs/java/profile-loadgenerator/)
 
-#### [65. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+#### [64. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ##### Integrations
 
@@ -808,7 +798,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [theheadless.dev](https://www.checklyhq.com/learn/headless/) - Practical guides and runnable examples on Playwright (and Puppeteer).
 *   [serenity-js.org](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/) - Learn how to write acceptance tests in business language using Playwright and the Serenity/JS Screenplay Pattern.
 
-#### [66. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+#### [65. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ##### Tools / Services
 
@@ -825,13 +815,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [MicroAgent (⭐565)](https://github.com/aymenfurter/microagents): Agents Capable of Self-Editing Their Prompts / Python Code ![GitHub Repo stars](https://img.shields.io/github/stars/aymenfurter/microagents?style=social)
 *   *   [Casibase (⭐1.5k)](https://github.com/casibase/casibase?utm_source=tldrwebdev):
 
-#### [67. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [66. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Resources / Blog posts
 
 *   [Time series Analysis with Polars](https://dev.to/gaborschulz/time-series-analysis-with-polars-3dfg) - A short blog post that explains how to deal with temporal datasets by [@gaborschulz](https://github.com/gaborschulz). Full helpful notebook available [here (⭐0)](https://github.com/gaborschulz/learning-polars/blob/main/01-time-series-analysis/time-series-analysis.ipynb).
 
-#### [68. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+#### [67. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ##### Python / Trading & Backtesting
 
@@ -847,25 +837,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [QuantFinanceTraining (⭐2)](https://github.com/JoaoJungblut/QuantFinanceTraining) - This repository contains codes that were executed during my training in the CQF (Certificate in Quantitative Finance). The codes are organized by class, facilitating navigation and reference.
 
-#### [69. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+#### [68. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 
 ##### Useful links with tips & tricks
 
 *   [GitHub Wiki Action. Keep your dev docs in sync with your code](https://github.com/marketplace/actions/github-wiki-action)
 
-#### [70. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+#### [69. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ##### Open Source Rails Apps / Other external resources
 
 *   [obl.ong (⭐9)](https://github.com/obl-ong/admin) - A multi-tenant subdomain control panel (using Rails 7.1) - [🌍](https://obl.ong)
 
-#### [71. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+#### [70. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ##### Mathematics
 
 *   [Linear Algebra Done Right](https://linear.axler.net) - Sheldon Axler
 
-#### [72. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [71. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### zinit
 
@@ -898,7 +888,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [parrot-htb (⭐0)](https://github.com/Lloyd-Leo/parrot-htb-zsh-theme) - Includes decorators for current directory, `git` status and username\@hostname.
 *   [zenith (⭐0)](https://github.com/waki285/Zenith) - Minimalist. Includes decorators for username, current directory and `git` status.
 
-#### [73. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+#### [72. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ##### Form Components / Date / Time picker
 
@@ -908,7 +898,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [BCMS (⭐156)](https://github.com/bcms/cms) - API-based, open-source, self-hostable content management system for Gatsby, Nuxt and Next.
 
-#### [74. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+#### [73. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ##### Learning / Courses
 
@@ -950,7 +940,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [NinjaCalc](https://gbmhunter.github.io/NinjaCalc/) - An embedded engineering calculator toolbox for doing calculations in a breeze.
 *   [Saturn PCB Design Toolkit](https://saturnpcb.com/saturn-pcb-toolkit/) - The Saturn PCB Toolkit is the best freeware resource for PCB related calculations you can find.
 
-#### [75. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+#### [74. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ##### Public Data Resources / Land Use and Land Cover
 
@@ -964,7 +954,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Enscape](https://enscape3d.com/) - Enscape is an easy-to-use rendering software that produces quick, realistic and customizable rendering images for urban design and architectural visualization. The tool integrates well with commonly used 3D modeling softwares such as Rhino, SketchUp, etc.
 
-#### [76. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [75. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Tools
 
@@ -987,7 +977,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Kotlin/Wasm Examples (⭐376)](https://github.com/Kotlin/kotlin-wasm-examples) - Explore a variety of Kotlin/Wasm example projects, showcasing applications like Compose Multiplatform, browser DOM API, Node.js, and WASI integration.
 
-#### [77. Awesome Security](/content/sbilly/awesome-security/README.md)
+#### [76. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ##### Web / Web Application Firewall
 
@@ -997,13 +987,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Node.js Secure Coding: Prevention and Exploitation of Path Traversal Vulnerabilities](https://www.nodejs-security.com/book/path-traversal) - Master secure coding in Node.js with real-world vulnerable dependencies and experience firsthand secure coding techniques against Path Traversal vulnerabilities.
 
-#### [78. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+#### [77. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ##### Table of Contents / Streaming SQL
 
 *   [Proton (⭐347)](https://github.com/timeplus-io/proton) \[C++] - A unified streaming and historical data analytics database in a single binary, powered by ClickHouse.
 
-#### [79. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [78. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Generative AI history, maps, and definitions
 
@@ -1124,7 +1114,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction](https://arxiv.org/abs/1802.03426)
 *   [Visualizing Data using t-SNE](https://jmlr.org/papers/v9/vandermaaten08a.html)
 
-#### [80. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
+#### [79. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
 
 ##### Text / Chatbots
 
@@ -1168,7 +1158,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [StockPhotoAI.net](https://www.stockphotoai.net/?ref=mahseema-awesome-ai-tools) - Great stock photos, made for you.
 
-#### [81. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [80. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -1265,7 +1255,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [OpenMessaging (⭐285) (⭐285)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
-#### [82. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+#### [81. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ##### Agriculture
 
@@ -1381,7 +1371,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Bidlytics](https://www.bidlytics.co/) - Master the Art of Government Contracting `#freemium`
 
-#### [83. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [82. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Plugin Manager
 
@@ -1451,13 +1441,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [altermo/nxwm (⭐126)](https://github.com/altermo/nxwm) - X11 window manager.
 
-#### [84. Magictools](/content/ellisonleao/magictools/README.md)
+#### [83. Magictools](/content/ellisonleao/magictools/README.md)
 
 ##### Graphics / Tile/Level Editors
 
 *   :free: [Sprite Fusion](https://spritefusion.com/) - A free level design tool to craft beautiful 2D tilemaps right in your browser using any tileset.
 
-#### [85. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
+#### [84. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ##### Tools
 
@@ -1465,7 +1455,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
     <img src="https://raw.githubusercontent.com/Korysam15/bamboo-scriptable-widget/main/docs/img/widget.png" width="200"/>
 
-#### [86. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [85. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### APIs, Data, and ML
 
@@ -1488,20 +1478,20 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [SimpleBackups.com](https://simplebackups.com/) — Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, and Backblaze). Provides a free plan for 1 backup.
 *   [SimpleRestore](https://simplerestore.io) - Hassle-free MySQL backup restoration. Restore MySQL backups to any remote database without code or a server.
 
-#### [87. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+#### [86. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ##### Testing
 
 *   [Datest (⭐7)](https://github.com/amokfa/datest)
 
-#### [88. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+#### [87. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ##### Other / [Other](#other-1)
 
 *   [shisho (⭐365)](https://github.com/flatt-security/shisho) :warning: — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
 *   [larastan (⭐5k)](https://github.com/larastan/larastan) — Adds static analysis to Laravel improving developer productivity and code quality. It is a wrapper around PHPStan.
 
-#### [89. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+#### [88. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ##### Templates / Vanilla
 
@@ -1540,7 +1530,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Kima (⭐1)](https://github.com/axelilali/kima) - Starter theme with Twig.
 
-#### [90. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [89. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Communication - Email - Complete Solutions
 
@@ -1567,10 +1557,60 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Digiwords](https://ladigitale.dev/digiwords/) - A simple online application for creating word clouds (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digiwords)) `AGPL-3.0` `Nodejs/PHP`
 
-#### [91. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [90. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Concepts / Theory of Concepts
+
+*   [What we mean when we say semantic: A Consensus statement on the nomenclature of semantic memory](https://osf.io/preprints/psyarxiv/xrnb2) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=7464626532716945232\&hl=en\&as_sdt=0,5)]. The aim of this multidisciplinary workgroup was to establish consensus definitions for some of the major recurring constructs in semantic research (e.g., concept, amodal, abstract). These efforts yielded a glossary consisting of succinct definitions, agreement, subjective confidence ratings, relevant theoretical background, and principled dissenting views. These core definitions will potentially yield benchmarks for aligning perspectives and improving cross-disciplinary communication in semantic research.
+
+##### Concepts / AI Concept Representation
+
+*   [A Review of Tactile Information: Perception and Action Through Touch](https://ieeexplore.ieee.org/abstract/document/9136877) - ***IEEE Transactions on Robotics***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15493221881484741343\&hl=en\&as_sdt=0,5)]. \[[ResearchGate](https://www.researchgate.net/profile/Qiang-Li-110/publication/342797645_A_Review_of_Tactile_Information_Perception_and_Action_Through_Touch/links/602f95bc92851c4ed5806e9f/A-Review-of-Tactile-Information-Perception-and-Action-Through-Touch.pdf)]. A hierarchy consisting of raw, contact, object, and action levels to structure the tactile information.
+*   [Unit Testing for Concepts in Neural Networks](https://aclanthology.org/2022.tacl-1.69/) - ***Transactions of the Association for Computational Linguistics***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=3036662275506971282\&hl=en\&as_sdt=0,5)]. Testing the concept representation by neural networks through Fodor's theory of concepts.
+
+##### Communications / Pragmatics
+
+*   [The SocialAI School: Insights from Developmental Psychology Towards Artificial Socio-Cultural Agents](https://arxiv.org/abs/2307.07871) - ***ICML'23 Workshop on Theory-of-Mind***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11933410239580707313\&hl=en\&as_sdt=0,5)]. \[[Project](https://sites.google.com/view/socialai-school)].
+*   [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733\&hl=en\&as_sdt=0,5)]. \[[OSMnx Tool (⭐4.5k)](https://github.com/gboeing/osmnx)]. \[[OpenStreetMap Website](https://www.openstreetmap.org/)].
+*   [Saying what you mean in dialogue: A study in conceptual and semantic co-ordination](https://www.speech.kth.se/~edlund/bielefeld/references/garrod-and-anderson-1987.pdf) - ***Cognition***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=15377075954534820544\&hl=en\&as_sdt=0,5)].
+*   [Conversation, co-ordination and convention: an empirical investigation of how groups establish linguistic conventions](http://www.sfs.uni-tuebingen.de/~gjaeger/lehre/ws0708/spieltheorie/garrod.pdf) - ***Cognition***, 1994. \[[All Versions](https://scholar.google.com/scholar?cluster=3784850469297049700\&hl=en\&as_sdt=0,5)].
+
+##### Communications / Language Compositionality
+
+*   [Word formation supports efficient communication: The case of compounds](https://escholarship.org/uc/item/5kv636c5) - ***CogSci'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=17465553221758916299\&hl=en\&as_sdt=0,5)].
+*   [War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars](https://arxiv.org/abs/2311.17227) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=3598519753107761968\&hl=en\&as_sdt=0,5)].
+
+##### Evolutionary Intelligence / Explainable Deep Learning
+
+*   [Phylogenetic evidence for Sino-Tibetan origin in northern China in the Late Neolithic](https://www.nature.com/articles/s41586-019-1153-z) - ***Nature***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=13913123623752818925\&hl=en\&as_sdt=0,5)]. A Bayesian phylogenetic analysis on two competing hypotheses of the origin of the Sino-Tibetan language family suggests that the initial expansion of Sino-Tibetan languages occurred approximately 4,000–6,000 years before present (BP; taken as AD 1950) in the Yellow River basin of northern China, and that this expansion is associated with the development of the Yangshao and/or Majiayao Neolithic cultures.
+*   [Triangulation supports agricultural spread of the Transeurasian languages](https://www.nature.com/articles/s41586-021-04108-8) - ***Nature***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1183005894965630508\&hl=en\&as_sdt=0,5)]. \[[Nature News](https://www.nature.com/articles/d41586-021-03037-w)]. A triangulation of linguistic, archaeological and genetic data suggests that the Transeurasian language family originated in a population of grain farmers in China around 9,000 years ago, and that agriculture underpinned its spread.
+*   [From language development to language evolution: A unified view of human lexical creativity](https://www.science.org/doi/abs/10.1126/science.ade7981) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=15871163761816546924\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://brochhagen.github.io/content/ms/accepted-lexical-creativity.pdf)]. This work supports a unified foundation for human lexical creativity underlying both the fleeting products of individual ontogeny and the evolutionary products of phylogeny across languages.
+
+##### Science Logology / Democratization of Science
+
+*   [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11962817646389491592\&hl=en\&as_sdt=0,5)]. A review article that examines breakthroughs over the past decade that include self-supervised learning, which allows models to be trained on vast amounts of unlabelled data, and geometric deep learning, which leverages knowledge about the structure of scientific data to enhance model accuracy and efficiency.
+*   [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5962372610489019326\&hl=en\&as_sdt=0,5)].
+
+#### [91. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+##### Communication / File Sharing
+
+*   [Dropshare](https://dropshare.app) - powerful menu bar application for sharing screen shots, screen recordings and all other files with over 27 storage providers.
+
+##### Utilities / Clipboard Tools
+
+*   [CleanClip](https://cleanclip.cc) - The cleanest Clipboard Manager on macOS, ever! ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Utilities / Productivity
+
+*   [Macaify](https://macaify.com) - Fast use of ChatGPT, lightweight, clean, keyboard-first. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [PaletteBrain](https://palettebrain.com) - Access the power of ChatGPT across all your Mac applications with the press of a shortcut.
+
+#### [92. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications / Audio and Music
 
+*   [Festival (⭐213)](https://github.com/hinto-janai/festival) — A local music player/server/client [![build-badge](https://github.com/hinto-janai/festival/actions/workflows/ci.yml/badge.svg)](https://github.com/hinto-janai/festival/actions/workflows/ci.yml)
 *   [termusic (⭐671)](https://github.com/tramhao/termusic) - Music Player TUI written in Rust
 
 ##### Applications / Database
@@ -1644,7 +1684,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Discover Rust Libraries & Code Snippets](https://kandi.openweaver.com/explorelibrary/rust) - A curated list of Rust libraries, authors, kits, tutorials & learning resources on kandi
 
-#### [92. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [93. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Frameworks
 
@@ -1682,6 +1722,10 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [libspng (⭐656)](https://github.com/randy408/libspng) - Simple, modern libpng alternative. \[BSD-2] [website](https://libspng.org/)
 *   [LodePNG (⭐1.9k)](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++. \[Zlib]
 *   [MozJPEG (⭐5.3k)](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder. \[BSD/BSD-3-Clause/ZLIB]
+
+##### Logging
+
+*   [lwlog (⭐190)](https://github.com/ChristianPanov/lwlog) - Very fast synchronous and asynchronous C++17 logging library. \[MIT]
 
 ##### Memory Allocation
 
@@ -1725,40 +1769,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [hedley (⭐726)](https://github.com/nemequ/hedley) - A C/C++ header file designed to smooth over some platform-specific annoyances. [website](https://nemequ.github.io/hedley/)
 *   [tgbotxx (⭐2)](https://github.com/baderouaich/tgbotxx) - Telegram Bot C++ Library. \[MIT]
 
-#### [93. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Concepts / Theory of Concepts
-
-*   [What we mean when we say semantic: A Consensus statement on the nomenclature of semantic memory](https://osf.io/preprints/psyarxiv/xrnb2) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=7464626532716945232\&hl=en\&as_sdt=0,5)]. The aim of this multidisciplinary workgroup was to establish consensus definitions for some of the major recurring constructs in semantic research (e.g., concept, amodal, abstract). These efforts yielded a glossary consisting of succinct definitions, agreement, subjective confidence ratings, relevant theoretical background, and principled dissenting views. These core definitions will potentially yield benchmarks for aligning perspectives and improving cross-disciplinary communication in semantic research.
-
-##### Concepts / AI Concept Representation
-
-*   [A Review of Tactile Information: Perception and Action Through Touch](https://ieeexplore.ieee.org/abstract/document/9136877) - ***IEEE Transactions on Robotics***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15493221881484741343\&hl=en\&as_sdt=0,5)]. \[[ResearchGate](https://www.researchgate.net/profile/Qiang-Li-110/publication/342797645_A_Review_of_Tactile_Information_Perception_and_Action_Through_Touch/links/602f95bc92851c4ed5806e9f/A-Review-of-Tactile-Information-Perception-and-Action-Through-Touch.pdf)]. A hierarchy consisting of raw, contact, object, and action levels to structure the tactile information.
-*   [Unit Testing for Concepts in Neural Networks](https://aclanthology.org/2022.tacl-1.69/) - ***Transactions of the Association for Computational Linguistics***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=3036662275506971282\&hl=en\&as_sdt=0,5)]. Testing the concept representation by neural networks through Fodor's theory of concepts.
-
-##### Communications / Pragmatics
-
-*   [The SocialAI School: Insights from Developmental Psychology Towards Artificial Socio-Cultural Agents](https://arxiv.org/abs/2307.07871) - ***ICML'23 Workshop on Theory-of-Mind***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11933410239580707313\&hl=en\&as_sdt=0,5)]. \[[Project](https://sites.google.com/view/socialai-school)].
-*   [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733\&hl=en\&as_sdt=0,5)]. \[[OSMnx Tool (⭐4.5k)](https://github.com/gboeing/osmnx)]. \[[OpenStreetMap Website](https://www.openstreetmap.org/)].
-*   [Saying what you mean in dialogue: A study in conceptual and semantic co-ordination](https://www.speech.kth.se/~edlund/bielefeld/references/garrod-and-anderson-1987.pdf) - ***Cognition***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=15377075954534820544\&hl=en\&as_sdt=0,5)].
-*   [Conversation, co-ordination and convention: an empirical investigation of how groups establish linguistic conventions](http://www.sfs.uni-tuebingen.de/~gjaeger/lehre/ws0708/spieltheorie/garrod.pdf) - ***Cognition***, 1994. \[[All Versions](https://scholar.google.com/scholar?cluster=3784850469297049700\&hl=en\&as_sdt=0,5)].
-
-##### Communications / Language Compositionality
-
-*   [Word formation supports efficient communication: The case of compounds](https://escholarship.org/uc/item/5kv636c5) - ***CogSci'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=17465553221758916299\&hl=en\&as_sdt=0,5)].
-*   [War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars](https://arxiv.org/abs/2311.17227) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=3598519753107761968\&hl=en\&as_sdt=0,5)].
-
-##### Evolutionary Intelligence / Explainable Deep Learning
-
-*   [Phylogenetic evidence for Sino-Tibetan origin in northern China in the Late Neolithic](https://www.nature.com/articles/s41586-019-1153-z) - ***Nature***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=13913123623752818925\&hl=en\&as_sdt=0,5)]. A Bayesian phylogenetic analysis on two competing hypotheses of the origin of the Sino-Tibetan language family suggests that the initial expansion of Sino-Tibetan languages occurred approximately 4,000–6,000 years before present (BP; taken as AD 1950) in the Yellow River basin of northern China, and that this expansion is associated with the development of the Yangshao and/or Majiayao Neolithic cultures.
-*   [Triangulation supports agricultural spread of the Transeurasian languages](https://www.nature.com/articles/s41586-021-04108-8) - ***Nature***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1183005894965630508\&hl=en\&as_sdt=0,5)]. \[[Nature News](https://www.nature.com/articles/d41586-021-03037-w)]. A triangulation of linguistic, archaeological and genetic data suggests that the Transeurasian language family originated in a population of grain farmers in China around 9,000 years ago, and that agriculture underpinned its spread.
-*   [From language development to language evolution: A unified view of human lexical creativity](https://www.science.org/doi/abs/10.1126/science.ade7981) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=15871163761816546924\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://brochhagen.github.io/content/ms/accepted-lexical-creativity.pdf)]. This work supports a unified foundation for human lexical creativity underlying both the fleeting products of individual ontogeny and the evolutionary products of phylogeny across languages.
-
-##### Science Logology / Democratization of Science
-
-*   [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11962817646389491592\&hl=en\&as_sdt=0,5)]. A review article that examines breakthroughs over the past decade that include self-supervised learning, which allows models to be trained on vast amounts of unlabelled data, and geometric deep learning, which leverages knowledge about the structure of scientific data to enhance model accuracy and efficiency.
-*   [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5962372610489019326\&hl=en\&as_sdt=0,5)].
-
 ---
 
 - Next: [Dec 18 - Dec 24, 2023](&#x2F;content&#x2F;2023&#x2F;51&#x2F;README.md)
@@ -1768,10 +1778,10 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 1. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 162K 📝 12&#x2F;30 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 2. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 114K 📝 12&#x2F;27 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 3. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 78K 📝 12&#x2F;29 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-4. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 70K 📝 12&#x2F;27 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
-5. [Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md) - ([Source ⭐ 73K 📝 12&#x2F;26 ](https://github.com/Hack-with-Github/Awesome-Hacking)) - A collection of various awesome lists for hackers, pentesters and security researchers
-6. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 52K 📝 12&#x2F;30 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-7. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 66K 📝 12&#x2F;27 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+4. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 66K 📝 12&#x2F;30 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+5. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 52K 📝 12&#x2F;30 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+6. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 70K 📝 12&#x2F;27 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
+7. [Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md) - ([Source ⭐ 73K 📝 12&#x2F;26 ](https://github.com/Hack-with-Github/Awesome-Hacking)) - A collection of various awesome lists for hackers, pentesters and security researchers
 8. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 40K 📝 12&#x2F;30 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 9. [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 39K 📝 12&#x2F;28 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
 10. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 305K 📝 11&#x2F;30 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
@@ -2400,7 +2410,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Linux](/content/inputsh/awesome-linux/README.md) - ([Source ⭐ 3.5K, 📝 19&#x2F;01&#x2F;16 ](https://github.com/inputsh/awesome-linux)) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md) - ([Source ⭐ 1.6K, 📝 06&#x2F;11 ](https://github.com/Friz-zy/awesome-linux-containers)) - A curated list of awesome Linux Containers frameworks, libraries and software
 - [Awesome Low Code](/content/zenitysec/awesome-low-code/README.md) - ([Source ⭐ 207, 📝 07&#x2F;19 ](https://github.com/zenitysec/awesome-low-code)) - Awesome Low Code platforms, vendors, tools and resources
-- [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 66K, 📝 12&#x2F;27 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 66K, 📝 12&#x2F;30 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [Awesome Nix](/content/nix-community/awesome-nix/README.md) - ([Source ⭐ 2K, 📝 12&#x2F;27 ](https://github.com/nix-community/awesome-nix)) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source ⭐ 53K, 📝 11&#x2F;11 ](https://github.com/sindresorhus/awesome-nodejs)) - :zap: Delightful Node.js packages and resources
 - [Awesome Nodered](/content/naimo84/awesome-nodered/README.md) - ([Source ⭐ 351, 📝 02&#x2F;23 ](https://github.com/naimo84/awesome-nodered)) - A collection of interesting nodes and resources for Node-RED

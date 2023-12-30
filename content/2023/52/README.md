@@ -10,6 +10,7 @@
 
 ### Applications / Audio and Music
 
+*   [Festival (⭐213)](https://github.com/hinto-janai/festival) — A local music player/server/client [![build-badge](https://github.com/hinto-janai/festival/actions/workflows/ci.yml/badge.svg)](https://github.com/hinto-janai/festival/actions/workflows/ci.yml)
 *   [termusic (⭐671)](https://github.com/tramhao/termusic) - Music Player TUI written in Rust
 
 ### Applications / Database
@@ -551,6 +552,10 @@
 *   [LodePNG (⭐1.9k)](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++. \[Zlib]
 *   [MozJPEG (⭐5.3k)](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder. \[BSD/BSD-3-Clause/ZLIB]
 
+### Logging
+
+*   [lwlog (⭐190)](https://github.com/ChristianPanov/lwlog) - Very fast synchronous and asynchronous C++17 logging library. \[MIT]
+
 ### Memory Allocation
 
 *   [buddy\_alloc (⭐96)](https://github.com/spaskalev/buddy_alloc) - A single header buddy memory allocator for C with bounded allocation costs. \[0BSD]
@@ -848,8 +853,13 @@
 
 *   [Dropshare](https://dropshare.app) - powerful menu bar application for sharing screen shots, screen recordings and all other files with over 27 storage providers.
 
+### Utilities / Clipboard Tools
+
+*   [CleanClip](https://cleanclip.cc) - The cleanest Clipboard Manager on macOS, ever! ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Utilities / Productivity
 
+*   [Macaify](https://macaify.com) - Fast use of ChatGPT, lightweight, clean, keyboard-first. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [PaletteBrain](https://palettebrain.com) - Access the power of ChatGPT across all your Mac applications with the press of a shortcut.
 
 ## [41. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)

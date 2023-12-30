@@ -1,27 +1,42 @@
 # Awesome List Updates on Dec 30, 2023
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [1. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Utilities / Clipboard Tools
+
+*   [CleanClip](https://cleanclip.cc) - The cleanest Clipboard Manager on macOS, ever! ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / Productivity
+
+*   [Macaify](https://macaify.com) - Fast use of ChatGPT, lightweight, clean, keyboard-first. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Evolutionary Intelligence / Explainable Deep Learning
 
 *   [From language development to language evolution: A unified view of human lexical creativity](https://www.science.org/doi/abs/10.1126/science.ade7981) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=15871163761816546924\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://brochhagen.github.io/content/ms/accepted-lexical-creativity.pdf)]. This work supports a unified foundation for human lexical creativity underlying both the fleeting products of individual ontogeny and the evolutionary products of phylogeny across languages.
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Logging
+
+*   [lwlog (⭐190)](https://github.com/ChristianPanov/lwlog) - Very fast synchronous and asynchronous C++17 logging library. \[MIT]
 
 ### Miscellaneous
 
 *   [tgbotxx (⭐2)](https://github.com/baderouaich/tgbotxx) - Telegram Bot C++ Library. \[MIT]
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Audio and Music
 
+*   [Festival (⭐213)](https://github.com/hinto-janai/festival) — A local music player/server/client [![build-badge](https://github.com/hinto-janai/festival/actions/workflows/ci.yml/badge.svg)](https://github.com/hinto-janai/festival/actions/workflows/ci.yml)
 *   [termusic (⭐671)](https://github.com/tramhao/termusic) - Music Player TUI written in Rust
 
 ### Applications / Database
@@ -95,13 +110,13 @@
 
 *   [Discover Rust Libraries & Code Snippets](https://kandi.openweaver.com/explorelibrary/rust) - A curated list of Rust libraries, authors, kits, tutorials & learning resources on kandi
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
 *   [transfer.sh (⭐15k)](https://github.com/dutchcoders/transfer.sh) - Easy file sharing from the command line. `MIT` `Go`
 
-## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vanilla
 
@@ -111,7 +126,7 @@
 
 *   [vite-template-awesome-soho (⭐0)](https://github.com/comnori/vite-template-awesome-soho) - `DevContainer` Template for creating `React 18`, `Javascript + JSDoc`, `React Router`, `Ant Design`, `ESLint`, `EditorConfig`, `.env`, `SonarLint`, `Vitest`.
 
-## [6. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [7. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Other / [Other](#other-1)
 
