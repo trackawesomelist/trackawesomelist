@@ -23,6 +23,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
     *   [Cryptocurrencies](#cryptocurrencies)
     *   [Database](#database)
     *   [Emulators](#emulators)
+    *   [File manager](#file-manager)
     *   [Games](#games)
     *   [Graphics](#graphics)
     *   [Image processing](#image-processing)
@@ -129,7 +130,6 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 *   [alacritty (⭐50k)](https://github.com/alacritty/alacritty) — A cross-platform, GPU enhanced terminal emulator
 *   [Arti](https://gitlab.torproject.org/tpo/core/arti) — An implementation of Tor, in Rust. (So far, it's a not-very-complete client. But watch this space!) [![Crates.io](https://img.shields.io/crates/v/arti.svg)](https://crates.io/crates/arti)
 *   [asm-cli-rust (⭐283)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
-*   [broot (⭐9.6k)](https://github.com/Canop/broot) A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
 *   [cloudflare/boringtun (⭐5.6k)](https://github.com/cloudflare/boringtun) — A Userspace WireGuard VPN Implementation [![build badge](https://img.shields.io/badge/crates.io-v0.2.0-orange.svg)](https://crates.io/crates/boringtun)
 *   [datafusion (⭐4.4k)](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion and Ballista query engines
 *   [denoland/deno (⭐92k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
@@ -289,6 +289,13 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
     *   [Obliteration (⭐475)](https://github.com/obhq/obliteration) — Experimental PS4 emulator written in Rust for Windows, macOS and Linux [![CI](https://github.com/obhq/obliteration/actions/workflows/main.yml/badge.svg)](https://github.com/obhq/obliteration/actions/workflows/main.yml)
 *   ZX Spectrum
     *   [rustzx/rustzx (⭐185)](https://github.com/rustzx/rustzx) — [![RustZX CI](https://github.com/rustzx/rustzx/actions/workflows/ci.yml/badge.svg)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml)
+
+### File manager
+
+*   [broot (⭐9.6k)](https://github.com/Canop/broot) - A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
+*   [joshuto (⭐3k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
+*   [xplr (⭐3.7k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
+*   [yazi (⭐4.5k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ### Games
 

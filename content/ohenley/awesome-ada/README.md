@@ -20,6 +20,10 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 *   [resource-embedder](https://gitlab.com/stcarrez/resource-embedder) - Advanced Resource Embedder to embed files in binaries by producing C, Ada or Go source files.
 
+### Math / Apache License
+
+*   [matrix-root](https://gitlab.com/mockturtle/matrix-root) - Compute the N-th root of a matrix.
+
 ### Format Readers, Writers and Checkers / Apache License
 
 *   [ada-libmagic](https://gitlab.com/stcarrez/ada-libmagic) - Magic Number Recognition Library Ada binding (libmagic (3)).
@@ -27,6 +31,18 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Localization / Apache License
 
 *   [ada-intl](https://gitlab.com/stcarrez/ada-intl) - NLS thin Ada binding (gettext (3), textdomain (3), bindtextdomain (3)).
+
+### Linux and POSIX / Apache License
+
+*   [suid-helper](https://gitlab.com/mockturtle/suid-helper) - Small Ada library that helps in writing safer suid programs.
+
+### Communication / Apache License
+
+*   [ada-enet (⭐17)](https://github.com/stcarrez/ada-enet) - Embedded network stack (Ethernet driver, IPv4, UDP, DNS, DHCP, NTP) for STM32F746 or STM32F769.
+
+### Libraries / Apache License
+
+*   [stm32-ui (⭐4)](https://github.com/stcarrez/stm32-ui) - STM32 UI library and tools (graphs, images, 12 hour clock).
 
 ## [Dec 27, 2023](/content/2023/12/27/README.md)
 

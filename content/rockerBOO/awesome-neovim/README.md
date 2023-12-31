@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 31, 2023](/content/2023/12/31/README.md)
+
+### Treesitter Based / Diagnostics
+
+*   [atusy/treemonkey.nvim (⭐11)](https://github.com/atusy/treemonkey.nvim) - Region selection with Treesitter nodes.
+
+### Scrolling / Diagnostics
+
+*   [nkakouros-original/scrollofffraction.nvim (⭐2)](https://github.com/nkakouros/scrollofffraction.nvim) - Scrolloff as a fraction of the window height.
+
 ## [Dec 29, 2023](/content/2023/12/29/README.md)
 
 ### Keybinding / Diagnostics

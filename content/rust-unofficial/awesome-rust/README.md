@@ -6,6 +6,14 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Dec 31, 2023](/content/2023/12/31/README.md)
+
+### Applications / File manager
+
+*   [joshuto (⭐3k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
+*   [xplr (⭐3.7k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
+*   [yazi (⭐4.5k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
+
 ## [Dec 30, 2023](/content/2023/12/30/README.md)
 
 ### Applications / Audio and Music
@@ -632,9 +640,9 @@ A curated list of Rust code and resources.
 
 ## [Mar 15, 2023](/content/2023/03/15/README.md)
 
-### Applications
+### Applications / File manager
 
-*   [broot (⭐9.6k)](https://github.com/Canop/broot) A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
+*   [broot (⭐9.6k)](https://github.com/Canop/broot) - A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
 
 ## [Mar 09, 2023](/content/2023/03/09/README.md)
 

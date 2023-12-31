@@ -888,6 +888,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [mfussenegger/nvim-ts-hint-textobject (⭐380)](https://github.com/mfussenegger/nvim-ts-hint-textobject) - Region selection with hints on the AST nodes of a document powered by Treesitter.
 *   [ziontee113/syntax-tree-surfer (⭐434)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
 *   [drybalka/tree-climber.nvim (⭐130)](https://github.com/drybalka/tree-climber.nvim) - Easy navigation around the Treesitter's tree that works in multi-language files and in normal mode.
+*   [atusy/treemonkey.nvim (⭐11)](https://github.com/atusy/treemonkey.nvim) - Region selection with Treesitter nodes.
 
 ## Keybinding
 
@@ -915,6 +916,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 *   [karb94/neoscroll.nvim (⭐1.1k)](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling.
 *   [declancm/cinnamon.nvim (⭐271)](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for any movement command.
+*   [nkakouros-original/scrollofffraction.nvim (⭐2)](https://github.com/nkakouros/scrollofffraction.nvim) - Scrolloff as a fraction of the window height.
 
 ### Scrollbar
 
