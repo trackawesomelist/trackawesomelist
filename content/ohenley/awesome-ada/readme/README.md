@@ -88,7 +88,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
     6.  [Patterns](#patterns)
     7.  [System Modeling](#system-modeling)
     8.  [Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters](#parsers-scanners-linters-analysers-interpreters-and-prettyprinters)
-    9.  [Format Readers and Writers](#format-readers-and-writers)
+    9.  [Format Readers, Writers and Checkers](#format-readers-writers-and-checkers)
     10. [Networking and Communication Middleware](#networking-and-communication-middleware)
     11. [Chatting and Communication](#chatting-and-communication)
     12. [Web](#web-1)
@@ -298,6 +298,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 *   [continuous-verification (⭐9)](https://github.com/jklmnn/continuous-verification) - SPARK formal verification automated with Travis CI.
 *   [ada-actions (⭐19)](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions.
+*   [porion](https://gitlab.com/stcarrez/porion) - Continuous integration server and agent that helps automate the building, testing and deployment.
 
 ## Runtimes
 
@@ -442,6 +443,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 *   [septum (⭐362)](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
 *   [powerjoular (⭐36)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
+*   [mat (⭐6)](https://github.com/stcarrez/mat) - MAT is a simple memory analysis tool intended to help understand where the memory is used in a program.
 
 ### Verification
 
@@ -459,6 +461,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [automate (⭐4)](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
 *   [ajunitgen (⭐1)](https://github.com/mosteo/ajunitgen) - Generator of JUnit-compatible XML reports in Ada.
 *   [record-flux (⭐95)](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
+*   [resource-embedder](https://gitlab.com/stcarrez/resource-embedder) - Advanced Resource Embedder to embed files in binaries by producing C, Ada or Go source files.
 
 ### UML
 
@@ -566,7 +569,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [parser-tools (⭐6)](https://github.com/flyx/ParserTools) - Tools for writing lexers / parsers in Ada.
 *   [xia (⭐3)](https://github.com/simonjwright/xia) - An Ada implementation of XPath 1.0.
 
-### Format Readers and Writers
+### Format Readers, Writers and Checkers
 
 *   [ini-files (⭐5)](https://github.com/zertovitch/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
 *   [protobuf-ada (⭐14)](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
@@ -586,6 +589,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [abf-io (⭐0)](https://github.com/gerr135/abf_io) - A library of access routines to Axon's ABF file format (electrophysiology, most common) in Ada.
 *   [ada-toml (⭐25)](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 *   [uri-ada](https://git.sr.ht/~nytpu/uri-ada) - URI and MIME parser & manipulation library.
+*   [ada-libmagic](https://gitlab.com/stcarrez/ada-libmagic) - Magic Number Recognition Library Ada binding (libmagic (3)).
 
 [ada-toml]: https://github.com/pmderodat/ada-toml
 
@@ -652,6 +656,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Localization
 
 *   [zanyblue](https://sourceforge.net/projects/zanyblue/) - An Ada package allowing the externalization of application messages into a properties file.
+*   [ada-intl](https://gitlab.com/stcarrez/ada-intl) - NLS thin Ada binding (gettext (3), textdomain (3), bindtextdomain (3)).
 
 ### Utilities
 

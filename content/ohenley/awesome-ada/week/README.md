@@ -8,9 +8,29 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
+### Continuous Integration / Apache License
+
+*   [porion](https://gitlab.com/stcarrez/porion) - Continuous integration server and agent that helps automate the building, testing and deployment.
+
 ### Graphical User Interface / Apache License
 
 *   [imgui-ada (⭐4)](https://github.com/Cre8or/ImGui-Ada) - Ada binding of the ImGui library.
+
+### DevOps / Apache License
+
+*   [mat (⭐6)](https://github.com/stcarrez/mat) - MAT is a simple memory analysis tool intended to help understand where the memory is used in a program.
+
+### Generation / Apache License
+
+*   [resource-embedder](https://gitlab.com/stcarrez/resource-embedder) - Advanced Resource Embedder to embed files in binaries by producing C, Ada or Go source files.
+
+### Format Readers, Writers and Checkers / Apache License
+
+*   [ada-libmagic](https://gitlab.com/stcarrez/ada-libmagic) - Magic Number Recognition Library Ada binding (libmagic (3)).
+
+### Localization / Apache License
+
+*   [ada-intl](https://gitlab.com/stcarrez/ada-intl) - NLS thin Ada binding (gettext (3), textdomain (3), bindtextdomain (3)).
 
 ## [Nov 20 - Nov 26, 2023](/content/2023/47/README.md)
 
@@ -81,7 +101,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
-### Format Readers and Writers / Apache License
+### Format Readers, Writers and Checkers / Apache License
 
 *   [xml-ez-out (⭐2)](https://github.com/alire-project/xmlezout) - Library for emitting XML from Ada programs.
 
@@ -244,7 +264,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 *   [linenoise-ada](https://git.sr.ht/~nytpu/linenoise-ada) - Bindings to the Linenoise line-editing library (patched to support UTF-8).
 
-### Format Readers and Writers / Apache License
+### Format Readers, Writers and Checkers / Apache License
 
 *   [uri-ada](https://git.sr.ht/~nytpu/uri-ada) - URI and MIME parser & manipulation library.
 
@@ -349,7 +369,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [zip-ada (⭐18)](https://github.com/zertovitch/zip-ada) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
 *   [dcf-ada (⭐6)](https://github.com/onox/dcf-ada) - An Ada 2012 library for document container files (Based on [zip-ada (⭐18)](https://github.com/zertovitch/zip-ada)).
 
-### Format Readers and Writers / Apache License
+### Format Readers, Writers and Checkers / Apache License
 
 *   [protobuf-ada (⭐14)](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
 *   [protobuf (⭐25)](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka (⭐3)](https://github.com/godunko/matreshka).
@@ -773,7 +793,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 *   [xia (⭐3)](https://github.com/simonjwright/xia) - An Ada implementation of XPath 1.0.
 
-### Format Readers and Writers / Apache License
+### Format Readers, Writers and Checkers / Apache License
 
 *   [ini-files (⭐5)](https://github.com/zertovitch/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
 *   [excel-writer (⭐6)](https://github.com/zertovitch/excel-writer) - Create Excel files with basic formats.
@@ -1010,7 +1030,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 *   [aforth (⭐19)](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
 
-### Format Readers and Writers / Apache License
+### Format Readers, Writers and Checkers / Apache License
 
 *   [abf-io (⭐0)](https://github.com/gerr135/abf_io) - A library of access routines to Axon's ABF file format (electrophysiology, most common) in Ada.
 
@@ -1162,7 +1182,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 *   [increment (⭐4)](https://github.com/reznikmm/increment) - Incremental analysis in Ada.
 *   [parse-args (⭐10)](https://github.com/jhumphry/parse_args) - Simple command-line argument parsing.
 
-### Format Readers and Writers / Apache License
+### Format Readers, Writers and Checkers / Apache License
 
 *   [ada-yaml (⭐34)](https://github.com/yaml/AdaYaml) - Experimental YAML 1.3 implementation in Ada.
 *   [json-ada (⭐37)](https://github.com/onox/json-ada) - An Ada 2012 library for parsing JSON.

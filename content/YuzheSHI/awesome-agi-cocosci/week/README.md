@@ -38,6 +38,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Science Logology / Democratization of Science
 
 *   [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11962817646389491592\&hl=en\&as_sdt=0,5)]. A review article that examines breakthroughs over the past decade that include self-supervised learning, which allows models to be trained on vast amounts of unlabelled data, and geometric deep learning, which leverages knowledge about the structure of scientific data to enhance model accuracy and efficiency.
+*   [Learning skillful medium-range global weather forecasting](https://www.science.org/doi/10.1126/science.adi2336) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=269756601245477923\&hl=en\&as_sdt=0,5)].
 *   [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5962372610489019326\&hl=en\&as_sdt=0,5)].
 
 ## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)

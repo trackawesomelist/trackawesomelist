@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Dec 31, 2023](/content/2023/12/31/README.md)
+
+### Science Logology / Democratization of Science
+
+*   [Learning skillful medium-range global weather forecasting](https://www.science.org/doi/10.1126/science.adi2336) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=269756601245477923\&hl=en\&as_sdt=0,5)].
+
 ## [Dec 30, 2023](/content/2023/12/30/README.md)
 
 ### Evolutionary Intelligence / Explainable Deep Learning

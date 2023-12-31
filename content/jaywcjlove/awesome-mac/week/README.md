@@ -8,9 +8,18 @@
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
+### Developer Tools / Command Line Tools
+
+*   [ohmyzsh (⭐165k)](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven framework for managing your zsh configuration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ohmyzsh/ohmyzsh) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Communication / File Sharing
 
 *   [Dropshare](https://dropshare.app) - powerful menu bar application for sharing screen shots, screen recordings and all other files with over 27 storage providers.
+
+### Audio and Video Tools / File Sharing
+
+*   [BeMyEars](https://www.bemyears.cn/) - Free for hearing impaired, System wide on-device live caption, multi language support, just like you have YouTube subtitles everywhere.
+*   [YPlayer](https://www.engineerdraft.com/en/yplayer/) - A multifunctional app capable of live caption on-device, converting audio and video files into text and subtitle, transforming recordings into text, and translating subtitles.
 
 ### Utilities / Clipboard Tools
 
@@ -632,7 +641,6 @@
 
 ### Audio and Video Tools / File Sharing
 
-*   [BeMyEars](https://www.bemyears.io/) - Free for hearing impaired, System wide on-device live caption, multi language support, just like you have YouTube subtitles everywhere.
 *   [Popcorn Time](https://popcorntime.co/) - Watch torrent movies instantly, This Popcorn Time service will never be taken down. Download and enjoy. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Potplayer X](https://okaapps.com/product/1612400976)- a Video Audio Player. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/cn/app/potplayer-x-%E9%9F%B3%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/id1612400976?mt=12)
 

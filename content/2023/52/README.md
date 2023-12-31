@@ -383,6 +383,7 @@
 ### Science Logology / Democratization of Science
 
 *   [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11962817646389491592\&hl=en\&as_sdt=0,5)]. A review article that examines breakthroughs over the past decade that include self-supervised learning, which allows models to be trained on vast amounts of unlabelled data, and geometric deep learning, which leverages knowledge about the structure of scientific data to enhance model accuracy and efficiency.
+*   [Learning skillful medium-range global weather forecasting](https://www.science.org/doi/10.1126/science.adi2336) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=269756601245477923\&hl=en\&as_sdt=0,5)].
 *   [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5962372610489019326\&hl=en\&as_sdt=0,5)].
 
 ## [17. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
@@ -468,9 +469,29 @@
 
 ## [23. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
+### Continuous Integration / Apache License
+
+*   [porion](https://gitlab.com/stcarrez/porion) - Continuous integration server and agent that helps automate the building, testing and deployment.
+
 ### Graphical User Interface / Apache License
 
 *   [imgui-ada (⭐4)](https://github.com/Cre8or/ImGui-Ada) - Ada binding of the ImGui library.
+
+### DevOps / Apache License
+
+*   [mat (⭐6)](https://github.com/stcarrez/mat) - MAT is a simple memory analysis tool intended to help understand where the memory is used in a program.
+
+### Generation / Apache License
+
+*   [resource-embedder](https://gitlab.com/stcarrez/resource-embedder) - Advanced Resource Embedder to embed files in binaries by producing C, Ada or Go source files.
+
+### Format Readers, Writers and Checkers / Apache License
+
+*   [ada-libmagic](https://gitlab.com/stcarrez/ada-libmagic) - Magic Number Recognition Library Ada binding (libmagic (3)).
+
+### Localization / Apache License
+
+*   [ada-intl](https://gitlab.com/stcarrez/ada-intl) - NLS thin Ada binding (gettext (3), textdomain (3), bindtextdomain (3)).
 
 ## [24. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -849,9 +870,18 @@
 
 ## [40. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
+### Developer Tools / Command Line Tools
+
+*   [ohmyzsh (⭐165k)](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven framework for managing your zsh configuration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ohmyzsh/ohmyzsh) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Communication / File Sharing
 
 *   [Dropshare](https://dropshare.app) - powerful menu bar application for sharing screen shots, screen recordings and all other files with over 27 storage providers.
+
+### Audio and Video Tools / File Sharing
+
+*   [BeMyEars](https://www.bemyears.cn/) - Free for hearing impaired, System wide on-device live caption, multi language support, just like you have YouTube subtitles everywhere.
+*   [YPlayer](https://www.engineerdraft.com/en/yplayer/) - A multifunctional app capable of live caption on-device, converting audio and video files into text and subtitle, transforming recordings into text, and translating subtitles.
 
 ### Utilities / Clipboard Tools
 

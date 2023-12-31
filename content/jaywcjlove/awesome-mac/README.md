@@ -6,6 +6,17 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Dec 31, 2023](/content/2023/12/31/README.md)
+
+### Developer Tools / Command Line Tools
+
+*   [ohmyzsh (⭐165k)](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven framework for managing your zsh configuration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ohmyzsh/ohmyzsh) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Audio and Video Tools / File Sharing
+
+*   [BeMyEars](https://www.bemyears.cn/) - Free for hearing impaired, System wide on-device live caption, multi language support, just like you have YouTube subtitles everywhere.
+*   [YPlayer](https://www.engineerdraft.com/en/yplayer/) - A multifunctional app capable of live caption on-device, converting audio and video files into text and subtitle, transforming recordings into text, and translating subtitles.
+
 ## [Dec 30, 2023](/content/2023/12/30/README.md)
 
 ### Utilities / Clipboard Tools
@@ -686,12 +697,6 @@
 ### Communication / Email Clients
 
 *   [Skiff Mail](https://skiff.com/mail) - Encrypted & Decentralized Email -- available on web, iOS/Android, and macOS. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/skiff-org/skiff-mail)
-
-## [Aug 07, 2022](/content/2022/08/07/README.md)
-
-### Audio and Video Tools / File Sharing
-
-*   [BeMyEars](https://www.bemyears.io/) - Free for hearing impaired, System wide on-device live caption, multi language support, just like you have YouTube subtitles everywhere.
 
 ## [Aug 04, 2022](/content/2022/08/04/README.md)
 
