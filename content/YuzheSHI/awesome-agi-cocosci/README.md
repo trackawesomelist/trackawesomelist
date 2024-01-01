@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jan 01, 2024](/content/2024/01/01/README.md)
+
+### Domain Specific Language / Coordination
+
+*   [The complete guide to (external) Domain Specific Languages](https://tomassetti.me/domain-specific-languages/). An introduction to Domain Specific Languages (DSL) based on 19 DSL cases.
+
 ## [Dec 31, 2023](/content/2023/12/31/README.md)
 
 ### Science Logology / Democratization of Science

@@ -415,6 +415,7 @@ A curated list of cryptography resources and links.
 *   [crypto-tools](https://wiki.call-cc.org/eggref/5/crypto-tools) - Useful cryptographic primitives for Chicken Scheme.
 *   [guile-gnutls](https://gitlab.com/gnutls/guile/) - GnuTLS bindings for GNU Guile.
 *   [guile-ssh (⭐54)](https://github.com/artyom-poptsov/guile-ssh) - libssh bindings for GNU Guile.
+*   [industria](https://gitlab.com/weinholt/industria) - Motley assortment of cryptographic primitives, OpenSSH, DNS.
 
 ### Swift
 

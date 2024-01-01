@@ -6,6 +6,12 @@ A curated list of cryptography resources and links.
 
 [ Daily / [Weekly](/content/sobolevn/awesome-cryptography/week/README.md) / [Overview](/content/sobolevn/awesome-cryptography/readme/README.md) ]
 
+## [Jan 01, 2024](/content/2024/01/01/README.md)
+
+### Scheme / Git
+
+*   [industria](https://gitlab.com/weinholt/industria) - Motley assortment of cryptographic primitives, OpenSSH, DNS.
+
 ## [Dec 27, 2023](/content/2023/12/27/README.md)
 
 ### Scheme / Git
