@@ -301,6 +301,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 
 See also [Games Made With Piston (⭐4.5k)](https://github.com/PistonDevelopers/piston/wiki/Games-Made-With-Piston).
 
+*   [chess-tui (⭐224)](https://github.com/thomas-mauran/chess-tui) —  A Chess TUI implementation in rust ♟️
 *   [citybound (⭐7.5k)](https://github.com/citybound/citybound) — The city sim you deserve
 *   [cristicbz/rust-doom (⭐2.3k)](https://github.com/cristicbz/rust-doom) — A renderer for Doom, may progress to being a playable game
 *   [doukutsu-rs (⭐751)](https://github.com/doukutsu-rs/doukutsu-rs) — A Rust reimplementation of Cave Story engine with some enhancements.

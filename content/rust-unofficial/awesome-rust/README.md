@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jan 01, 2024](/content/2024/01/01/README.md)
+
+### Applications / Games
+
+*   [chess-tui (⭐224)](https://github.com/thomas-mauran/chess-tui) —  A Chess TUI implementation in rust ♟️
+
 ## [Dec 31, 2023](/content/2023/12/31/README.md)
 
 ### Applications / File manager
