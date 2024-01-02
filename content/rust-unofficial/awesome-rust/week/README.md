@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [chess-tui (⭐224)](https://github.com/thomas-mauran/chess-tui) —  A Chess TUI implementation in rust ♟️
 
+### Applications / Virtualization
+
+*   [kata-containers/kata-containers (⭐4.5k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
+
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Applications / Audio and Music

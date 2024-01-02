@@ -543,6 +543,7 @@ See also [A comparison of operating systems written in Rust (⭐601)](https://gi
 
 *   [containers/youki (⭐5.6k)](https://github.com/containers/youki) — A container runtime in Rust [![build badge](https://github.com/containers/youki/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/containers/youki/actions)
 *   [firecracker-microvm/firecracker (⭐23k)](https://github.com/firecracker-microvm/firecracker) — A lightweight virtual machine for container workload [Firecracker Microvm](https://firecracker-microvm.github.io/)
+*   [kata-containers/kata-containers (⭐4.5k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
 *   [tailhook/vagga (⭐1.8k)](https://github.com/tailhook/vagga) — A containerization tool without daemons
 
 ### Web

@@ -214,6 +214,7 @@ See [Vivraan/godot-lang-support (⭐278)](https://github.com/Vivraan/godot-lang-
 *   [Godot Recipes](https://kidscancode.org/godot_recipes/3.x/) - A large collection of tutorials and techniques, both big and small.
 *   [Godot Shaders (⭐2.4k)](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
 *   [Godot SQLite (⭐633)](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project (Godot 3.2+).
+*   [Godot Spin Button (⭐15)](https://github.com/nblackninja/godot-spin-button) - Horizontal Selector with extended options (Godot 4.x).
 *   [GodotTIE (⭐281)](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue) (Godot 2.x, 3.x).
 *   [gterm (⭐93)](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators (Godot >= 2.1).
 *   [GUT (⭐1.5k)](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript (Godot 3.x).
@@ -257,7 +258,7 @@ See [Vivraan/godot-lang-support (⭐278)](https://github.com/Vivraan/godot-lang-
 *   [godot-ink (⭐452)](https://github.com/paulloz/godot-ink) - A C# (Mono) plugin to integrate stories writen in [ink (⭐3.8k)](https://github.com/inkle/ink), a scripting language for writing interactive narrative.
 *   [Godot NExt (⭐866)](https://github.com/godot-extended-libraries/godot-next) - A set of basic node extensions.
 *   [Godot Mixing Desk (⭐605)](https://github.com/kyzfrintin/Godot-Mixing-Desk) - Make procedural sound and adaptive/procedural music with a few nodes and a couple lines of code.
-*   [GodotOnReady](https://github.com/31/GodotOnReady) - A C# (Mono) alternative to the GDScript-only `onready` keyword, without reflection.
+*   [GodotOnReady (⭐116)](https://github.com/31/GodotOnReady) - A C# (Mono) alternative to the GDScript-only `onready` keyword, without reflection.
 *   [GodotRx (⭐81)](https://github.com/semickolon/GodotRx) - Reactive extensions for Godot C# (Mono).
 *   [godot-ply (⭐275)](https://github.com/jarneson/godot-ply) - In-editor box modelling for gray boxing or prototyping 3D levels.
 *   [Godot Polygon 2D Fracture (⭐256)](https://github.com/SoloByte/godot-polygon2d-fracture) - Two simple scripts for fracturing and cutting polygons.
