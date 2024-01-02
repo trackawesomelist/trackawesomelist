@@ -6,6 +6,12 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 [ [Daily](/content/wilsonfreitas/awesome-quant/README.md) / Weekly / [Overview](/content/wilsonfreitas/awesome-quant/readme/README.md) ]
 
+## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
+
+### Python / Trading & Backtesting
+
+*   [skfolio (⭐8)](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn. It provides a unified interface and sklearn compatible tools to build, tune and cross-validate portfolio models.
+
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Python / Trading & Backtesting

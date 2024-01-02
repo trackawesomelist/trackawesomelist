@@ -168,6 +168,8 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 <!--lint enable double-link-->
 
+*   [django-classy-settings (⭐29)](https://github.com/funkybob/django-classy-settings) - Class based settings to keep your environments in order, with easy access to typed environment variables.
+
 ### Content Management Systems
 
 <!--lint disable double-link-->

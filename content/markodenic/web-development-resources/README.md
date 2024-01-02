@@ -2,9 +2,19 @@
 
 Awesome Web Development Resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 6.3K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 6.5K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/markodenic/web-development-resources/week/README.md) / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
+
+## [Jan 02, 2024](/content/2024/01/02/README.md)
+
+### Online Tools:
+
+- Website: \[ \[Markdown Tools(<https://markdowntools.com>)
+
+  Description: A suite of free tools for converting HTML, CSVs, PDFs, and Excel files to and from Markdown
+
+
 
 ## [Nov 06, 2023](/content/2023/11/06/README.md)
 
@@ -523,14 +533,6 @@ Awesome Web Development Resources.
 ### Learning Platforms:
 
 - Website: <https://code.org/>
-
-
-
-## [Dec 28, 2022](/content/2022/12/28/README.md)
-
-### Remote Jobs:
-
-- Website: <https://remotescout.ch>
 
 
 
@@ -1616,11 +1618,6 @@ Awesome Web Development Resources.
 
 
 ### UI Components:
-
-- Website: [CssLayout](https://csslayout.io/)
-
-  Description: A site with multiple css code snippets for very frequently used components in day to day web pages
-
 
 - Website: [TailGrids](https://tailgrids.com/)
 

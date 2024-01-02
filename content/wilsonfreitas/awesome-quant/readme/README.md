@@ -83,6 +83,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 ### Trading & Backtesting
 
+*   [skfolio (⭐8)](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn. It provides a unified interface and sklearn compatible tools to build, tune and cross-validate portfolio models.
 *   [Investing algorithm framework (⭐28)](https://github.com/coding-kitties/investing-algorithm-framework) - Framework for developing, backtesting, and deploying automated trading algorithms.
 *   [QSTrader (⭐2.6k)](https://github.com/mhallsmoore/qstrader) - QSTrader backtesting simulation engine.
 *   [Blankly (⭐1.9k)](https://github.com/Blankly-Finance/Blankly) - Fully integrated backtesting, paper trading, and live deployment.

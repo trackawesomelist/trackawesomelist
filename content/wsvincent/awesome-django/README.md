@@ -6,6 +6,12 @@ A curated list of awesome things related to Django
 
 [ Daily / [Weekly](/content/wsvincent/awesome-django/week/README.md) / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
+## [Jan 02, 2024](/content/2024/01/02/README.md)
+
+### Third-Party Packages / Configuration
+
+*   [django-classy-settings (⭐29)](https://github.com/funkybob/django-classy-settings) - Class based settings to keep your environments in order, with easy access to typed environment variables.
+
 ## [Dec 27, 2023](/content/2023/12/27/README.md)
 
 ### Third-Party Packages / General

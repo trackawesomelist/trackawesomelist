@@ -2,7 +2,7 @@
 
 Awesome Web Development Resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 6.3K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 6.5K · 🏷️ Front-End Development
 
 [ [Daily](/content/markodenic/web-development-resources/README.md) / [Weekly](/content/markodenic/web-development-resources/week/README.md) / Overview ]
 
@@ -201,7 +201,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | <https://www.smartremotejobs.com>     |
 | <https://www.remotehub.com>           |
 | <https://startup.jobs/remote-jobs>    |
-| <https://remotescout.ch>              |
 | <https://jobsinjs.com>                |
 | <https://devemploy.com>               |
 | <https://echojobs.io>                 |
@@ -612,6 +611,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [JSON Crack](https://jsoncrack.com/)                                             | A simple tool to visualize JSON Code in a neat tree structure                                                |
 | [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
 | [tablebackend.com](https://tablebackend.com/)                                    | A backend for your simple projects using oowerful canvas-based data grid for handling millions of rows.      |
+| \[ \[Markdown Tools(<https://markdowntools.com>)                                 | A suite of free tools for converting HTML, CSVs, PDFs, and Excel files to and from Markdown                  |
 
 [⬆ back to top](#table-of-contents)
 
@@ -620,7 +620,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | Website                                  | Description                                                                                         |
 | ---------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | [Flowbite](https://flowbite.com/)        | Open-source UI component library based on Tailwind CSS featuring dark mode and interactive elements |
-| [CssLayout](https://csslayout.io/)       | A site with multiple css code snippets for very frequently used components in day to day web pages  |
 | [TailGrids](https://tailgrids.com/)      | 300+ Free and Premium Tailwind CSS UI Components and Sections                                       |
 | [Ayro UI Bootstrap](https://ayroui.com/) | Bootstrap UI components, snippets and sections for modern web apps                                  |
 | [uiverse](https://uiverse.io)            | Open-Source UI elements made with CSS & HTML where anyone can contribute.                           |
