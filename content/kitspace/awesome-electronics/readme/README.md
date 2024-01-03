@@ -25,23 +25,12 @@ This list is for websites, services, software, tools and more: everything that y
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 *   [Learning](#learning)
-    *   [Technical Tutorials](#technical-tutorials)
-    *   [Courses](#courses)
-    *   [Theory](#theory)
-    *   [University Course Archives](#university-course-archives)
 *   [Documentation](#documentation)
 *   [Simulators](#simulators)
-    *   [Analog and Mixed Signal Circuit Simulators](#analog-and-mixed-signal-circuit-simulators)
-    *   [Verilog HDL Simulators](#verilog-hdl-simulators)
 *   [Gerber Viewers](#gerber-viewers)
-    *   [Online](#online)
-    *   [Installable](#installable)
 *   [Free EDA Packages](#free-eda-packages)
 *   [Paid EDA Packages](#paid-eda-packages)
 *   [CAD Specific](#cad-specific)
-    *   [KiCad](#kicad)
-    *   [Eagle](#eagle)
-    *   [Altium](#altium)
 *   [PCB Batching Services](#pcb-batching-services)
 *   [Part Search Engines](#part-search-engines)
 *   [Project Sharing Platforms](#project-sharing-platforms)
@@ -50,8 +39,6 @@ This list is for websites, services, software, tools and more: everything that y
 *   [Development Board Retailers](#development-board-retailers)
 *   [Blogs](#blogs)
 *   [Forums](#forums)
-    *   [Discussion](#discussion)
-    *   [Help](#help)
 *   [Podcasts](#podcasts)
 *   [Videos](#videos)
 *   [Subscription Kit Services](#subscription-kit-services)
@@ -206,6 +193,8 @@ This list is for websites, services, software, tools and more: everything that y
 *   [InventHub](https://inventhub.io/) - Git-based project hosting and collaboration platform for hardware development.
 *   [CADLAB](https://cadlab.io/) - Another Git-based project hosting and collaboration platform for hardware development.
 *   [Eyrie](https://eyrie.io) - For viewing Eagle and KiCad designs online.
+*   [WikiFactory](https://wikifactory.com/) - A project hosting and collaboration platform for product development. Filter for "electronics" for more electronics related projects.
+*   [Instructables](https://www.instructables.com/) - A social site for sharing projects. Filter for "circuits" for more electronics related projects.
 
 ## Inventory Management and Purchasing
 

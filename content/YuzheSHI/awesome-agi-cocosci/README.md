@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jan 03, 2024](/content/2024/01/03/README.md)
+
+### Commonsense / Intuitive Physics
+
+*   [Phy-Q as a measure for physical reasoning intelligence](https://www.nature.com/articles/s42256-022-00583-4) - ***Nature Machine Intelligence***, 2023. \[[NMI Challenge](https://www.nature.com/articles/s42256-019-0072-x)]. An interactive benchmark for AI physical reasoning.
+
 ## [Jan 02, 2024](/content/2024/01/02/README.md)
 
 ### Meta-Level Considerations / Rationality

@@ -16,6 +16,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Task switching](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(03\)00028-7?large_figure=true\&mobileUi=0) - ***Trends in Cognitive Sciences***, 2003. \[[All Versions](https://scholar.google.com/scholar?cluster=676255515965300942\&hl=en\&as_sdt=0,5)]. \[[Preprint](http://psychfiles.net/experimental/Monsell_2003.pdf)]. The original paper on \`\`switch cost'', where subjects' responses are substantially slower and, usually, more error-prone immediately after a task switch.
 
+### Commonsense / Intuitive Physics
+
+*   [Phy-Q as a measure for physical reasoning intelligence](https://www.nature.com/articles/s42256-022-00583-4) - ***Nature Machine Intelligence***, 2023. \[[NMI Challenge](https://www.nature.com/articles/s42256-019-0072-x)]. An interactive benchmark for AI physical reasoning.
+
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Concepts / Theory of Concepts

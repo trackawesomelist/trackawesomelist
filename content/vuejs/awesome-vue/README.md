@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Jan 03, 2024](/content/2024/01/03/README.md)
+
+### Resources / Tutorials
+
+*   [Learn Vue 3: Step by Step](https://laracasts.com/series/learn-vue-3-step-by-step) on Laracasts
+
+### Components & Libraries / UI Components
+
+*   [vue3-slot-calendar (⭐481)](https://github.com/icai/vue3-calendar) - A vue 3 calendar, datepicker component which supported lunar or date event, bootstrap style.
+
 ## [Dec 27, 2023](/content/2023/12/27/README.md)
 
 ### Projects Using Vue.js / Interactive Experiences
@@ -3800,7 +3810,6 @@
 *   [vue-calendar (⭐45)](https://github.com/kylin-z/vue-calendar) - A simple calendar components for Vue 2.1.5+, support custom content. No dependencies.
 *   [vue2-event-calendar (⭐76)](https://github.com/kitwon/vue2-event-calendar) - An events calendar for Vue2, support customize event items and calendar header.
 *   [vue2-datePicker-infinite (⭐16)](https://github.com/leepyng/vue-datepicker-infinite) - An infinite datePicker for Vue2, easy to use and no dependencies.
-*   [vue2-slot-calendar (⭐481)](https://github.com/icai/vue2-calendar) - A vue 2 calendar, datepicker component which supported lunar or date event, bootstrap style.
 *   [quasar-calendar (⭐266)](https://github.com/stormseed/quasar-calendar) - A vue.js calendar using the Quasar framework that implements monthly, multi-day and agenda views.
 *   [vue2-datepicker (⭐1.5k)](https://github.com/mengxiong10/vue2-datepicker) - A beautiful datepicker / datetimepicker component for Vue2
 *   [vue-pikaday (⭐38)](https://github.com/enrian/vue-pikaday) - VueJS wrapper component for [Pikaday (⭐8k)](https://github.com/dbushell/Pikaday) datepicker
@@ -5113,7 +5122,6 @@
 
 ### Resources / Tutorials
 
-*   [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) on Laracasts
 *   [Vue: Getting Started, by John Papa](https://www.pluralsight.com/courses/vue-getting-started) on [Pluralsight](https://www.pluralsight.com)
 
 ### Projects Using Vue.js / Open Source
@@ -7028,7 +7036,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Dockeron (⭐790)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
+*   [Dockeron (⭐789)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
 
 ## [May 18, 2017](/content/2017/05/18/README.md)
 

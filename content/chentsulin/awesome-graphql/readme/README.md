@@ -630,12 +630,14 @@ If you want to contribute to this list (please do), send me a pull request.
 *   [juniper (⭐5.4k)](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust.
 *   [graphql-client (⭐1.1k)](https://github.com/tomhoule/graphql-client) - GraphQL client library for Rust with WebAssembly (wasm) support.
 *   [graphql-parser (⭐325)](https://github.com/graphql-rust/graphql-parser) - A parser, formatter and AST for the GraphQL query and schema definition language for Rust.
+*   [tailcall (⭐494)](https://github.com/tailcallhq/tailcall) - A platform for building high-performance GraphQL backends.
 
 <a name="rust-example" />
 
 #### Rust Examples
 
 *   [Warp GraphQL Juniper](https://graphql-rust.github.io/)
+*   [Tailcall](https://tailcall.run/docs/getting_started/configuration)
 
 <a name="d" />
 

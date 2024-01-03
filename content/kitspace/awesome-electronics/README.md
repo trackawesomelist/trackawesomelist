@@ -6,6 +6,13 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 [ Daily / [Weekly](/content/kitspace/awesome-electronics/week/README.md) / [Overview](/content/kitspace/awesome-electronics/readme/README.md) ]
 
+## [Jan 03, 2024](/content/2024/01/03/README.md)
+
+### Project Sharing Platforms / Altium
+
+*   [WikiFactory](https://wikifactory.com/) - A project hosting and collaboration platform for product development. Filter for "electronics" for more electronics related projects.
+*   [Instructables](https://www.instructables.com/) - A social site for sharing projects. Filter for "circuits" for more electronics related projects.
+
 ## [Dec 26, 2023](/content/2023/12/26/README.md)
 
 ### Learning / Courses

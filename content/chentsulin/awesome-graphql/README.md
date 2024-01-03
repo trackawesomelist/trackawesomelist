@@ -6,6 +6,16 @@ Awesome list of GraphQL
 
 [ Daily / [Weekly](/content/chentsulin/awesome-graphql/week/README.md) / [Overview](/content/chentsulin/awesome-graphql/readme/README.md) ]
 
+## [Jan 03, 2024](/content/2024/01/03/README.md)
+
+### Rust / React
+
+*   [tailcall (⭐494)](https://github.com/tailcallhq/tailcall) - A platform for building high-performance GraphQL backends.
+
+### Rust Examples / React
+
+*   [Tailcall](https://tailcall.run/docs/getting_started/configuration)
+
 ## [Dec 26, 2023](/content/2023/12/26/README.md)
 
 ### Miscellaneous / React

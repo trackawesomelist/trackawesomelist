@@ -320,7 +320,7 @@
 
 ### Tutorials
 
-*   [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) on Laracasts
+*   [Learn Vue 3: Step by Step](https://laracasts.com/series/learn-vue-3-step-by-step) on Laracasts
 *   [Vuejs 2 Authentication Tutorial](https://auth0.com/blog/vuejs2-authentication-tutorial/) on Auth0 blog
 *   [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io
 *   [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit
@@ -780,7 +780,7 @@
 *   [JSON Schema Editor (⭐260)](https://github.com/tangram-js/json-schema-editor) - An intuitive editor for JSON schema. Develop with Vue.js 2 and Firebase.
 *   [npm-stats (⭐113)](https://github.com/apertureless/npm-stats) - npm package download statistics dashboard
 *   [vue2-admin-lte (⭐1.1k)](https://github.com/devjin0617/vue2-admin-lte) - a project that converts AdminLTE to work with Vuejs (v2.x).
-*   [Dockeron (⭐790)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
+*   [Dockeron (⭐789)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
 *   [Flamme (⭐127)](https://github.com/alicin/flamme) - An open source Tinder desktop client built with electron and Vue.js for educational purposes
 *   [Goldfish (⭐2.2k)](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI built with VueJS, Golang, and Bulma CSS
 *   [promptie (⭐88)](https://github.com/alicin/promptie) - A framework written in Vue.js for creating command-line like interfaces in web browsers.
@@ -1702,7 +1702,7 @@ Tooltips / popovers
 *   [vue-calendar (⭐45)](https://github.com/kylin-z/vue-calendar) - A simple calendar components for Vue 2.1.5+, support custom content. No dependencies.
 *   [vue2-event-calendar (⭐76)](https://github.com/kitwon/vue2-event-calendar) - An events calendar for Vue2, support customize event items and calendar header.
 *   [vue2-datePicker-infinite (⭐16)](https://github.com/leepyng/vue-datepicker-infinite) - An infinite datePicker for Vue2, easy to use and no dependencies.
-*   [vue2-slot-calendar (⭐481)](https://github.com/icai/vue2-calendar) - A vue 2 calendar, datepicker component which supported lunar or date event, bootstrap style.
+*   [vue3-slot-calendar (⭐481)](https://github.com/icai/vue3-calendar) - A vue 3 calendar, datepicker component which supported lunar or date event, bootstrap style.
 *   [quasar-calendar (⭐266)](https://github.com/stormseed/quasar-calendar) - A vue.js calendar using the Quasar framework that implements monthly, multi-day and agenda views.
 *   [vue2-datepicker (⭐1.5k)](https://github.com/mengxiong10/vue2-datepicker) - A beautiful datepicker / datetimepicker component for Vue2
 *   [vue-pikaday (⭐38)](https://github.com/enrian/vue-pikaday) - VueJS wrapper component for [Pikaday (⭐8k)](https://github.com/dbushell/Pikaday) datepicker
