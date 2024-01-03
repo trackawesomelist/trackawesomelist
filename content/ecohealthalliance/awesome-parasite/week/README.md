@@ -2,9 +2,16 @@
 
 A curated list of host-parasite information
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ecohealthalliance/awesome-parasite/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ecohealthalliance/awesome-parasite](https://github.com/ecohealthalliance/awesome-parasite) · ⭐ 28 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ecohealthalliance/awesome-parasite/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ecohealthalliance/awesome-parasite](https://github.com/ecohealthalliance/awesome-parasite) · ⭐ 29 · 🏷️ Miscellaneous
 
 [ [Daily](/content/ecohealthalliance/awesome-parasite/README.md) / Weekly / [Overview](/content/ecohealthalliance/awesome-parasite/readme/README.md) ]
+
+## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
+
+### Databases
+
+*   [Interaction Web Data (iwdb)](https://iwdb.nceas.ucsb.edu/resources.html#host_parasite) - Collation of fish host and parasites datasets from several Canadain liminological sites, including information on prevalence and intensity. Part of a larger database of species interactions in food webs and plant relationships originally developed in 2003 by NCEAS and is now hosted by the Department of Ecology at the University of São Paulo, Brazil.
+*   [Web of Life](https://www.web-of-life.es/) -  An aggregated resource and graphical user interface for easily visualizing and downloading data on ecological networks, including host-parasite interactions. As of January 2024, the host-parasite communities are exclusively gleaned from [Hadfield et al. 2013](https://www.journals.uchicago.edu/doi/full/10.1086/674445) whose original data files are provided on [Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.jf3tj).
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
@@ -53,12 +60,6 @@ A curated list of host-parasite information
 ### Databases
 
 *   [Shaw et al. 2020](https://figshare.com/articles/The_phylogenetic_range_of_bacterial_and_viral_pathogens_of_vertebrates_dataset_and_supplementary_material/8262779) - A human-curated database of 12,212 host-pathogen associations: 2,595 bacterial and viral pathogens infecting 2,656 vertebrate host species across 90 host orders. It also contains a mitochondrial genome phylogeny for the host species. [Analysis](https://onlinelibrary.wiley.com/doi/10.1111/mec.15463) published in Molecular Ecology.
-
-## [Apr 13 - Apr 19, 2020](/content/2020/15/README.md)
-
-### Databases
-
-*   [NCEAS Interaction Web data](https://iwdb.nceas.ucsb.edu/resources.html#host_parasite) - Collation of fish host and parasites datasets from several Canadain liminological sites, including information on prevalence and intensity. Part of a larger database of species interactions in food webs and plant relationships.
 
 ## [Dec 23 - Dec 29, 2019](/content/2019/51/README.md)
 

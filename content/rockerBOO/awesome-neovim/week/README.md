@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [crispybaccoon/evergarden (⭐2)](https://github.com/crispybaccoon/evergarden) - A comfy Neovim colorscheme for cozy morning coding.
 
+### Colorscheme Switchers / Diagnostics
+
+*   [CWood-sdf/pineapple (⭐2)](https://github.com/CWood-sdf/pineapple) - Install any colorscheme in your config without leaving your terminal. Collects every colorscheme on the internet and allows you to preview them all before installing.
+
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Plugin Manager

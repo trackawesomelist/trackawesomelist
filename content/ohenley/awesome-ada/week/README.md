@@ -6,6 +6,12 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 [ [Daily](/content/ohenley/awesome-ada/README.md) / Weekly / [Overview](/content/ohenley/awesome-ada/readme/README.md) ]
 
+## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
+
+### Reference
+
+*   [iso-standard](http://www.ada-auth.org/standards/ada22.html) - The 2022 revision to the Ada Standard, usually known as Ada 2022.
+
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Continuous Integration / Apache License
@@ -1087,10 +1093,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Specialties
 
 *   [gems](https://www.adacore.com/gems/) - Ada Gem Archive.
-
-### Reference
-
-*   [iso-standard](http://www.ada-auth.org/standards/ada12_w_tc1.html) - The 2012 revision to the Ada Standard, usually known as Ada 2012.
 
 ### Questions and Answers
 
