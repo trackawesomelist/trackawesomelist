@@ -295,7 +295,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Use of current explanations in multicausal abductive reasoning](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2506_2) - ***Cognitive Science***, 2001. \[[All Versions](https://scholar.google.com/scholar?cluster=7816050625957759346\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 
-*   [Kinematic mental simulations in abduction and deduction](https://www.pnas.org/content/110/42/16766.short) - ***Proceedings of National Academy of Sciences***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=11864820390497230588\&hl=en\&as_sdt=0,5)].
+*   [Kinematic mental simulations in abduction and deduction](https://www.pnas.org/content/110/42/16766.short) - ***Proceedings of the National Academy of Sciences***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=11864820390497230588\&hl=en\&as_sdt=0,5)].
 
 *   [Patterns of abduction](https://link.springer.com/article/10.1007/s11229-007-9223-4) - ***Synthese***, 2007. \[[All Versions](https://scholar.google.com/scholar?cluster=15230540023076470385\&hl=en\&as_sdt=0,5)]. A categorization for Abduction in the account of pure philosophy.
 
@@ -669,7 +669,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Emergent Graphical Conventions in a Visual Communication Game](https://arxiv.org/abs/2111.14210) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=6476453985812346727\&hl=en\&as_sdt=0,5)]. A computational account on the emergence of iconic language.
 
-*   [Communicating artificial neural networks develop efficient color-naming systems](https://www.pnas.org/content/118/12/e2016569118) - ***Proceedings of National Academy of Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1640459156303560508\&hl=en\&as_sdt=0,5)]. Simulating the emergence of code as the communication bottleneck in color learning task.
+*   [Communicating artificial neural networks develop efficient color-naming systems](https://www.pnas.org/content/118/12/e2016569118) - ***Proceedings of the National Academy of Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1640459156303560508\&hl=en\&as_sdt=0,5)]. Simulating the emergence of code as the communication bottleneck in color learning task.
 
 *   [Bridging cultural and cognitive perspectives on similarity reasoning](https://escholarship.org/content/qt9p70d5s9/qt9p70d5s9.pdf) - ***CogSci'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Bridging+cultural+and+cognitive+perspectives+on+similarity+reasoning\&btnG=)].
 
@@ -767,7 +767,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Judgment under Uncertainty: Heuristics and Biases: Biases in judgments reveal some heuristics of thinking under uncertainty](https://www.science.org/doi/abs/10.1126/science.185.4157.1124) - ***Science***, 1974. \[[All Versions](https://scholar.google.com/scholar?cluster=17040257859216791312\&hl=en\&as_sdt=0,5)]. Daniel Kahneman's classic idea of prospective theory.
 
-*   [Computational evidence for hierarchically structured reinforcement learning in humans](https://www.pnas.org/content/117/47/29381.short) - ***Proceedings of National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5731363475904675608\&hl=en\&as_sdt=0,5)]. A piece of evidence on hierarchical human planning.
+*   [Computational evidence for hierarchically structured reinforcement learning in humans](https://www.pnas.org/content/117/47/29381.short) - ***Proceedings of the National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5731363475904675608\&hl=en\&as_sdt=0,5)]. A piece of evidence on hierarchical human planning.
 
 *   [Hierarchical reasoning by neural circuits in the frontal cortex](https://www.cnbc.cmu.edu/braingroup/papers/sarafyazd_jazayeri_2019.pdf) - ***Science***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=9875733886908769773\&hl=en\&as_sdt=0,5)]. Neuroscience evidence supporting rule switch.
 
@@ -785,7 +785,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [The nature of external representations in problem solving](https://www.sciencedirect.com/science/article/abs/pii/S0364021399800226) - ***Cognitive Science***, 1997. \[[All Versions](https://scholar.google.com/scholar?cluster=10698887231200401430\&hl=en\&as_sdt=0,5)].
 
-*   [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf) - ***Proceedings of National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=14400178089019636923\&hl=en\&as_sdt=0,5)]. \[[Project](https://sites.google.com/view/virtualtoolsgame/home)]. \[[Appendix](https://www.pnas.org/content/pnas/suppl/2020/11/20/1912341117.DCSupplemental/pnas.1912341117.sapp.pdf)]. A computational account on rapid trail-and-error problem solving with a noisy prior model.
+*   [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf) - ***Proceedings of the National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=14400178089019636923\&hl=en\&as_sdt=0,5)]. \[[Project](https://sites.google.com/view/virtualtoolsgame/home)]. \[[Appendix](https://www.pnas.org/content/pnas/suppl/2020/11/20/1912341117.DCSupplemental/pnas.1912341117.sapp.pdf)]. A computational account on rapid trail-and-error problem solving with a noisy prior model.
 
 *   [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cognitivesciencesociety.org/cogsci20/papers/0765/0765.pdf) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Abstract+strategy+learning+underlies+flexible+transfer+in+physical+problem+solving.\&btnG=)].
 
@@ -797,7 +797,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Hippocampal neurons construct a map of an abstract value space](https://www.sciencedirect.com/science/article/pii/S0092867421008369) - ***Cell***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=12658820581876003172\&hl=en\&as_sdt=0,5)].
 
-*   [Insightful problem solving and creative tool modification by captive nontool-using rooks](https://www.pnas.org/content/106/25/10370.short) - ***Proceedings of National Academy of Sciences***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=6776471679661065229\&hl=en\&as_sdt=0,5)]. \[[Supplementary Material](https://www.pnas.org/content/suppl/2009/05/28/0901008106.DCSupplemental)]. A piece of evidence on creative tool use in intelligent animals.
+*   [Insightful problem solving and creative tool modification by captive nontool-using rooks](https://www.pnas.org/content/106/25/10370.short) - ***Proceedings of the National Academy of Sciences***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=6776471679661065229\&hl=en\&as_sdt=0,5)]. \[[Supplementary Material](https://www.pnas.org/content/suppl/2009/05/28/0901008106.DCSupplemental)]. A piece of evidence on creative tool use in intelligent animals.
 
 *   [Learning to act by integrating mental simulations and physical experiments](https://cpilab.org/pubs/Dasgupta2018Learning.pdf) - ***CogSci'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=7342920174595829739\&hl=en\&as_sdt=0,5)]. \[[Code (⭐1)](https://github.com/ishita-dg/SimulationVSAction)].
 
@@ -1013,6 +1013,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 #### Trustworthy AI
 
+*   [Bayesian modeling of human–AI complementarity](https://www.pnas.org/doi/full/10.1073/pnas.2111547119) - ***Proceedings of the National Academy of Sciences***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=15735143859968841009\&hl=en\&as_sdt=0,5)]. A Bayesian framework for combining the predictions and different types of confidence scores from humans and machines.
+
 *   [A tale of two explanations: Enhancing human trust by explaining robot behavior](https://yzhu.io/publication/openbottle2019scirob/paper.pdf) - ***Science Robotics***, 2019. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=3985046411399524590)]. The original paper on human believable robot, a result of the DAPAR-XAI.
 
 *   [X-ToM: Explaining with Theory-of-Mind for Gaining Justified Human Trust](https://arxiv.org/pdf/1909.06907.pdf) - 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7751326666821697923\&hl=en\&as_sdt=0,5)]. Introducing the idea of AI estimating human users' knowledge in to explainable AI.
@@ -1039,7 +1041,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Network dissection: Quantifying interpretability of deep visual representations](https://ieeexplore.ieee.org/document/8099837) - ***CVPR'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=18069685615852396783\&hl=en\&as_sdt=0,5)]. \[[Project](http://netdissect.csail.mit.edu/)]. \[[Dataset: Places365](http://places2.csail.mit.edu/index.html)]. The original paper on visualizing the class activation maps to explain convolutional neural networks.
 
-*   [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf) - ***Proceedings of National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11996680970579301810\&hl=en\&as_sdt=0,5)]. David Bau's review on network dissection for discriminative and generative models.
+*   [Understanding the role of Individual Units in a Deep Neural Network](https://www.pnas.org/content/pnas/early/2020/08/31/1907375117.full.pdf) - ***Proceedings of the National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11996680970579301810\&hl=en\&as_sdt=0,5)]. David Bau's review on network dissection for discriminative and generative models.
 
 *   [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/) - ***Distill***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9053581372570691569\&hl=en\&as_sdt=0,5)]. A perspective on treating neural networks as circuits.
 
@@ -1047,7 +1049,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [This Looks Like That: Deep Learning for Interpretable Image Recognition](http://papers.NeurIPS.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf) - ***NeurIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=9461838581952136719\&hl=en\&as_sdt=0,5)].
 
-*   [Unsupervised learning by competing hidden units](https://www.pnas.org/content/pnas/116/16/7723.full.pdf) - ***Proceedings of National Academy of Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=1228003598355915526\&hl=en\&as_sdt=0,5)].
+*   [Unsupervised learning by competing hidden units](https://www.pnas.org/content/pnas/116/16/7723.full.pdf) - ***Proceedings of the National Academy of Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=1228003598355915526\&hl=en\&as_sdt=0,5)].
 
 *   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐129)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
 
@@ -1145,7 +1147,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [The weirdest people in the world?](https://scholar.harvard.edu/files/henrich/files/henrich_heine_norenzayan_2010-2.pdf) - ***Brain and Behavioral Sciences***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=3129419557801277936\&hl=en\&as_sdt=0,5)]. The original paper on rethinking and tackling the sample bias in behaivoral studies, where most subjects are drawn from Western, Educated, Industrialized, Rich, and Democratic (WEIRD) societies.
 
-*   [Scaling up psychology via Scientific Regret Minimization](https://www.pnas.org/doi/10.1073/pnas.1915841117) - ***Proceedings of National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=8011895688226766944\&hl=en\&as_sdt=0,5)]. The statistical and ecological basis for scaling up behavioral studies.
+*   [Scaling up psychology via Scientific Regret Minimization](https://www.pnas.org/doi/10.1073/pnas.1915841117) - ***Proceedings of the National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=8011895688226766944\&hl=en\&as_sdt=0,5)]. The statistical and ecological basis for scaling up behavioral studies.
 
 *   [Machine-generated theories of human decision-making](https://cpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/a/511/files/2021/06/Bhatia-He-Science.pdf) - ***Science***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=7065547001880027350\&hl=en\&as_sdt=0,5)].
 
@@ -1183,7 +1185,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Problem Solving and Rule Induction: A Unified View](https://stacks.stanford.edu/file/druid:qv796fc9687/qv796fc9687.pdf) - ***Knowledge and cognition***, 1974. \[[All Versions](https://scholar.google.com/scholar?cluster=12943734683291006234\&hl=en\&as_sdt=0,5)].
 
-*   [Evidence integration in model-based tree search](https://www.pnas.org/content/112/37/11708.short) - ***Proceedings of National Academy of Sciences***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11085043350027609187\&hl=en\&as_sdt=0,5)].
+*   [Evidence integration in model-based tree search](https://www.pnas.org/content/112/37/11708.short) - ***Proceedings of the National Academy of Sciences***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11085043350027609187\&hl=en\&as_sdt=0,5)].
 
 *   [People Infer Recursive Visual Concepts from Just a Few Examples](https://link.springer.com/content/pdf/10.1007/s42113-019-00053-y.pdf) - ***Computational Brain & Behavior***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=3871396883970734141\&hl=en\&as_sdt=0,5)].
 
@@ -1551,13 +1553,13 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Unit of visual working memory: A Boolean map provides a better account than an object does](https://psycnet.apa.org/record/2019-27729-001) - ***Journal of Experimental Psychology***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=14909735035752892020\&hl=en\&as_sdt=0,5)].
 
-*   [The logic of universalization guides moral judgment](https://www.pnas.org/content/117/42/26158.short) - ***Proceedings of National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13482051983012049752\&hl=en\&as_sdt=0,5)].
+*   [The logic of universalization guides moral judgment](https://www.pnas.org/content/117/42/26158.short) - ***Proceedings of the National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13482051983012049752\&hl=en\&as_sdt=0,5)].
 
 *   [Learning Triadic Belief Dynamics in Nonverbal Communication from Videos](https://arxiv.org/abs/2104.02841) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=15365483338824697316\&hl=en\&as_sdt=0,5)]. Theory of Mind in the perception level, introduced as a computer vision task.
 
 *   [Ten-month-old infants infer the value of goals from the costs of actions](https://dspace.mit.edu/bitstream/handle/1721.1/112291/ivc_full_preprint.pdf?sequence=1\&isAllowed=y) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=11862940312128630925\&hl=en\&as_sdt=0,5)]. A piece of evidence for children's capability on ToM.
 
-*   [Origins of the concepts cause, cost, and goal in prereaching infants](https://www.pnas.org/content/116/36/17747) - ***Proceedings of National Academy of Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=15973074852436355789\&hl=en\&as_sdt=0,5)].
+*   [Origins of the concepts cause, cost, and goal in prereaching infants](https://www.pnas.org/content/116/36/17747) - ***Proceedings of the National Academy of Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=15973074852436355789\&hl=en\&as_sdt=0,5)].
 
 *   [Baby Intuitions Benchmark (BIB): Discerning the goals, preferences, and actions of others](https://static1.squarespace.com/static/595a9f155016e1f7ead6edf1/t/61eeb3e7bbc41a23cd288f8a/1643033708945/Gandhi_etal_2021.pdf) - ***NeurIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=16514364601966350574)].
 
@@ -1585,7 +1587,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [A theory of relation learning and cross-domain generalization](https://psycnet.apa.org/record/2022-26663-001) - ***Psychological Review***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=8559821723107269122\&hl=en\&as_sdt=0,5)]. A comprehensive review on the perspective of treating analogy as cross-domain generalization.
 
-*   [Emergence of analogy from relation learning](https://www.pnas.org/content/pnas/116/10/4176.full.pdf) - ***Proceedings of National Academy of Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=4877125748339538047\&hl=en\&as_sdt=0,5)]. Analogy feature in language models.
+*   [Emergence of analogy from relation learning](https://www.pnas.org/content/pnas/116/10/4176.full.pdf) - ***Proceedings of the National Academy of Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=4877125748339538047\&hl=en\&as_sdt=0,5)]. Analogy feature in language models.
 
 *   [Analogies Explained: Towards Understanding Word Embeddings](https://proceedings.mlr.press/v97/allen19a.html) - ***ICML'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=15445529659618849253\&hl=en\&as_sdt=0,5)]. Explaining the analogy capability in word embeddings.
 
@@ -1667,9 +1669,9 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Intuitive Physics: Current Research and Controversies](https://www.sciencedirect.com/science/article/pii/S1364661317301262) - ***Trends in Cognitive Sciences***, 2018. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=12085981794958916203)]. Hongjing Lu's review on intuitive physics.
 
-*   [Simulation as an engine of physical scene understanding](https://www.pnas.org/content/pnas/110/45/18327.full.pdf) - ***Proceedings of National Academy of Sciences***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=5892822406285231676\&hl=en\&as_sdt=0,5)]. \[[Appendix](https://www.pnas.org/content/pnas/suppl/2013/10/18/1306572110.DCSupplemental/pnas.201306572SI.pdf?targetid=nameddest%3DSTXT)]. The first attempt to computationally simulate intuitive physics.
+*   [Simulation as an engine of physical scene understanding](https://www.pnas.org/content/pnas/110/45/18327.full.pdf) - ***Proceedings of the National Academy of Sciences***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=5892822406285231676\&hl=en\&as_sdt=0,5)]. \[[Appendix](https://www.pnas.org/content/pnas/suppl/2013/10/18/1306572110.DCSupplemental/pnas.201306572SI.pdf?targetid=nameddest%3DSTXT)]. The first attempt to computationally simulate intuitive physics.
 
-*   [Functional neuroanatomy of intuitive physical inference](https://www.pnas.org/doi/pdf/10.1073/pnas.1610344113) - ***Proceedings of National Academy of Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=1792195093536891402\&hl=en\&as_sdt=0,5)]. A piece of evidence for the functional part of intuitive physics in human brain.
+*   [Functional neuroanatomy of intuitive physical inference](https://www.pnas.org/doi/pdf/10.1073/pnas.1610344113) - ***Proceedings of the National Academy of Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=1792195093536891402\&hl=en\&as_sdt=0,5)]. A piece of evidence for the functional part of intuitive physics in human brain.
 
 *   [Mind Games: Game Engines as an Architecture for Intuitive Physics](https://www.sciencedirect.com/science/article/pii/S1364661317301134) - ***Trends in Cognitive Sciences***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=14527964477161848029\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Tomer Ullman's review on simulation-based intuitive physics.
 
@@ -1871,7 +1873,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Learning Causal Schemata](https://escholarship.org/content/qt19v2r2ws/qt19v2r2ws.pdf) - ***CogSci'07***, 2007, \[[All Versions](https://scholar.google.com/scholar?cluster=5008191267417189643\&hl=en\&as_sdt=0,5)].
 
-*   [The discovery of structural form](https://www.pnas.org/content/105/31/10687) - ***Proceedings of National Academy of Sciences***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=10433149156915110486\&hl=en\&as_sdt=0,5)]. Chales Kemp's review on theory induction.
+*   [The discovery of structural form](https://www.pnas.org/content/105/31/10687) - ***Proceedings of the National Academy of Sciences***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=10433149156915110486\&hl=en\&as_sdt=0,5)]. Chales Kemp's review on theory induction.
 
 *   [A Rational Analysis of Rule-Based Concept Learning](https://onlinelibrary.wiley.com/doi/full/10.1080/03640210701802071) - ***Cognitive Science***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=7765061503727822620\&hl=en\&as_sdt=0,5)].
 
