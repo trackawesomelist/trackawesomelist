@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jan 04, 2024](/content/2024/01/04/README.md)
+
+### Snippet / Diagnostics
+
+*   [chrisgrieser/nvim-scissors (⭐6)](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
+
+### Debugging / Diagnostics
+
+*   [chrisgrieser/nvim-chainsaw (⭐3)](https://github.com/chrisgrieser/nvim-chainsaw) - Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.
+
 ## [Jan 03, 2024](/content/2024/01/03/README.md)
 
 ### Colorscheme Switchers / Diagnostics

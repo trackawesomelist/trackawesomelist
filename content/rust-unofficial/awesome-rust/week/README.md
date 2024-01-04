@@ -8,9 +8,17 @@ A curated list of Rust code and resources.
 
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
+### Applications / Cryptocurrencies
+
+*   [polkadot-sdk (⭐1.1k)](https://github.com/paritytech/polkadot-sdk) — The Parity Polkadot Blockchain SDK
+
 ### Applications / Games
 
 *   [chess-tui (⭐224)](https://github.com/thomas-mauran/chess-tui) —  A Chess TUI implementation in rust ♟️
+
+### Applications / Observability
+
+*   [openobserve (⭐7.7k)](https://github.com/openobserve/openobserve) - 10x easier, 140x lower storage cost, high performance, petabyte scale - Elasticsearch/Splunk/Datadog alternative.
 
 ### Applications / Virtualization
 
@@ -1022,6 +1030,7 @@ A curated list of Rust code and resources.
 
 *   Generic
     *   [Geal/rust\_on\_mobile (⭐166)](https://github.com/Geal/rust_on_mobile)
+    *   [redbadger/crux (⭐1.2k)](https://github.com/redbadger/crux) \[[crux\_core](https://crates.io/crates/crux_core)] — Cross-platform app development in Rust. Crux helps you share your app's business logic and behavior across mobile (iOS/Android) and web — as a single reusable core built with Rust. [![Build status](https://img.shields.io/github/actions/workflow/status/redbadger/crux/build.yaml)](https://github.com/redbadger/crux/actions)
 
 ## [Jul 04 - Jul 10, 2022](/content/2022/27/README.md)
 
@@ -3152,7 +3161,6 @@ A curated list of Rust code and resources.
 *   [ChainX (⭐295)](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
 *   [Grin (⭐5k)](https://github.com/mimblewimble/grin/) — Evolution of the MimbleWimble protocol
 *   [Nervos CKB (⭐1.1k)](https://github.com/nervosnetwork/ckb) — Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
-*   [Polkadot (⭐7.1k)](https://github.com/paritytech/polkadot) — Heterogeneous multi‑chain technology with pooled security
 *   [Substrate (⭐8.3k)](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
 
 ## [Jun 03 - Jun 09, 2019](/content/2019/22/README.md)

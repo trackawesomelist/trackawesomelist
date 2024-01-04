@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
+### Snippet / Diagnostics
+
+*   [chrisgrieser/nvim-scissors (⭐6)](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
+
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [crispybaccoon/evergarden (⭐2)](https://github.com/crispybaccoon/evergarden) - A comfy Neovim colorscheme for cozy morning coding.
@@ -15,6 +19,10 @@ Collections of awesome neovim plugins.
 ### Colorscheme Switchers / Diagnostics
 
 *   [CWood-sdf/pineapple (⭐2)](https://github.com/CWood-sdf/pineapple) - Install any colorscheme in your config without leaving your terminal. Collects every colorscheme on the internet and allows you to preview them all before installing.
+
+### Debugging / Diagnostics
+
+*   [chrisgrieser/nvim-chainsaw (⭐3)](https://github.com/chrisgrieser/nvim-chainsaw) - Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
