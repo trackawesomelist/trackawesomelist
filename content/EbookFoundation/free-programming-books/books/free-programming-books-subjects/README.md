@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Jan 05, 2024](/content/2024/01/05/README.md)
+
+### Machine Learning
+
+*   [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org) - Benoit Liquet, Sarat Moka, Yoni Nazarathy
+
 ## [Jan 03, 2024](/content/2024/01/03/README.md)
 
 ### Machine Learning

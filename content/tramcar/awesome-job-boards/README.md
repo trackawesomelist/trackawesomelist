@@ -1,8 +1,18 @@
 # Track Awesome Job Boards Updates Daily
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 827 · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 924 · 🏷️ Work
 
 [ Daily / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
+
+## [Jan 05, 2024](/content/2024/01/05/README.md)
+
+### Programming / Rust
+
+*   [Rust Jobs](https://www.rustjobs.com)
+
+### Remote / Aggregator
+
+*   [OkJob](https://okjob.io/) - 4 day week job board
 
 ## [Aug 25, 2023](/content/2023/08/25/README.md)
 
@@ -11,10 +21,6 @@
 *   [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs.
 
 ## [Aug 22, 2023](/content/2023/08/22/README.md)
-
-### Big Data
-
-*   [AiJobsTracker](https://www.aijobstracker.com/) - live aggregator of 300+ AI-first companies's job boards, updated daily.
 
 ### Various / United Kingdom
 
@@ -53,10 +59,6 @@
 *   [Fossfox](https://fossfox.com/) - Opportunities to work with companies that embrace open-source
 
 ## [May 26, 2023](/content/2023/05/26/README.md)
-
-### Artificial Intelligence (AI)
-
-*   [Best AI Jobs](https://bestaijobs.com) - Best AI Jobs from 100+ AI Startups
 
 ### Programming / Aggregator
 
@@ -189,10 +191,6 @@
 *   [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source.
 
 ## [Jan 26, 2022](/content/2022/01/26/README.md)
-
-### Machine Learning
-
-*   [Jobhunt.ai](https://jobhunt.ai/) - Machine learning and data science jobs, also got a remote section
 
 ### Programming / Clojure
 
@@ -478,12 +476,6 @@
 ### Programming / Ruby
 
 *   [RubyNow](https://jobs.rubynow.com/)
-
-## [Mar 30, 2016](/content/2016/03/30/README.md)
-
-### Programming / JavaScript
-
-*   [We Work Meteor](https://www.weworkmeteor.com/)
 
 ## [Sep 03, 2015](/content/2015/09/03/README.md)
 

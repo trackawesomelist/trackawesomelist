@@ -11,6 +11,7 @@
 ### Machine Learning
 
 *   [An Introduction to Statistical Learning](https://www.statlearning.com) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
+*   [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org) - Benoit Liquet, Sarat Moka, Yoni Nazarathy
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 

@@ -12,6 +12,10 @@ Curated list of resources on HashiCorp's Terraform
 
 *   [Terraform for Ops e-book](https://www.terraformforops.com)
 
+### Tools / Community providers
+
+*   [tofuenv (⭐32)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv
+
 ## [Dec 04 - Dec 10, 2023](/content/2023/49/README.md)
 
 ### Private Registries / Miscellaneous

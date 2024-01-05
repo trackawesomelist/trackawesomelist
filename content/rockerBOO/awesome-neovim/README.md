@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jan 05, 2024](/content/2024/01/05/README.md)
+
+### File Explorer / Diagnostics
+
+*   [simonmclean/triptych.nvim (⭐29)](https://github.com/simonmclean/triptych.nvim) - A directory browser inspired by Ranger.
+
+### Media / Diagnostics
+
+*   [hakonharnes/img-clip.nvim (⭐193)](https://github.com/hakonharnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
+
 ## [Jan 04, 2024](/content/2024/01/04/README.md)
 
 ### Snippet / Diagnostics

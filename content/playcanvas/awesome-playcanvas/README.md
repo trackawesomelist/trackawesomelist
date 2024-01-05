@@ -6,6 +6,12 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ Daily / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Jan 05, 2024](/content/2024/01/05/README.md)
+
+### Interactive Experiences
+
+*   [Call of Duty: Gunsmith](https://playcanv.as/p/XPWoTZ4F/) - Promotional 3D experience themed on Call of Duty.
+
 ## [Dec 26, 2023](/content/2023/12/26/README.md)
 
 ### Browser Games
@@ -320,25 +326,9 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 *   [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
 
-### Interactive Experiences
-
-*   [Ally Racing](https://www.allyracer.com/) - Retro NASCAR racing adver-game for Ally Bank.
-
 ### Automotive
 
 *   [Infiniti Experience](https://beijing.infiniti-experience.com/) - Explore the 2020 Infiniti range (Chinese).
-
-## [Jan 08, 2021](/content/2021/01/08/README.md)
-
-### Interactive Experiences
-
-*   [Adidas ZX Game](https://zx-game.de) - Branded rhythm action game (German).
-
-## [Jan 05, 2021](/content/2021/01/05/README.md)
-
-### Interactive Experiences
-
-*   [Call of Duty: Gunsmith](http://gun.playcanvas.com/) - Promotional 3D experience themed on Call of Duty.
 
 ## [Jan 04, 2021](/content/2021/01/04/README.md)
 

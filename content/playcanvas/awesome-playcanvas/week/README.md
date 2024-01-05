@@ -6,6 +6,12 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ [Daily](/content/playcanvas/awesome-playcanvas/README.md) / Weekly / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
+
+### Interactive Experiences
+
+*   [Call of Duty: Gunsmith](https://playcanv.as/p/XPWoTZ4F/) - Promotional 3D experience themed on Call of Duty.
+
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Browser Games
@@ -302,12 +308,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Engine (⭐8.8k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
 *   [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 *   [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
-
-### Interactive Experiences
-
-*   [Adidas ZX Game](https://zx-game.de) - Branded rhythm action game (German).
-*   [Ally Racing](https://www.allyracer.com/) - Retro NASCAR racing adver-game for Ally Bank.
-*   [Call of Duty: Gunsmith](http://gun.playcanvas.com/) - Promotional 3D experience themed on Call of Duty.
 
 ### Automotive
 

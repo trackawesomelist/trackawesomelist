@@ -6,6 +6,12 @@ Curated list of resources on HashiCorp's Terraform
 
 [ Daily / [Weekly](/content/shuaibiyy/awesome-terraform/week/README.md) / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Jan 05, 2024](/content/2024/01/05/README.md)
+
+### Tools / Community providers
+
+*   [tofuenv (⭐32)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv
+
 ## [Jan 01, 2024](/content/2024/01/01/README.md)
 
 ### Books

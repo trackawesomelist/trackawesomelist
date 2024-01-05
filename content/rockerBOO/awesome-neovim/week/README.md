@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [chrisgrieser/nvim-scissors (⭐6)](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
 
+### File Explorer / Diagnostics
+
+*   [simonmclean/triptych.nvim (⭐29)](https://github.com/simonmclean/triptych.nvim) - A directory browser inspired by Ranger.
+
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [crispybaccoon/evergarden (⭐2)](https://github.com/crispybaccoon/evergarden) - A comfy Neovim colorscheme for cozy morning coding.
@@ -19,6 +23,10 @@ Collections of awesome neovim plugins.
 ### Colorscheme Switchers / Diagnostics
 
 *   [CWood-sdf/pineapple (⭐2)](https://github.com/CWood-sdf/pineapple) - Install any colorscheme in your config without leaving your terminal. Collects every colorscheme on the internet and allows you to preview them all before installing.
+
+### Media / Diagnostics
+
+*   [hakonharnes/img-clip.nvim (⭐193)](https://github.com/hakonharnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
 
 ### Debugging / Diagnostics
 
