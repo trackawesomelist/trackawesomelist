@@ -86,6 +86,7 @@ Any comments, suggestions? [Let us know! (⭐66k)](https://github.com/jaywcjlove
 *   [Input Methods](#input-methods)
 *   [Browsers](#browsers)
 *   [Translation Tools](#translation-tools)
+*   [Education](#education)
 *   [Encryption](#encryption)
 *   [Security Tools](#security-tools)
 *   [Proxy and VPN Tools](#proxy-and-vpn-tools)
@@ -858,6 +859,10 @@ Any comments, suggestions? [Let us know! (⭐66k)](https://github.com/jaywcjlove
 *   [Mate Translate](https://gikken.co/mate-translate/mac) - Translate in Safari and any app on macOS between 103 languages.
 *   [OpenAI Translator (⭐20k)](https://github.com/yetone/openai-translator) - Browser extension and cross-platform desktop application for translation based on ChatGPT API.[![Open-Source Software][OSS Icon]](https://github.com/yetone/openai-translator)
 *   [Translatium](https://translatium.app) - Translate words, phrases and images between over 100 languages with dictionary, transliteration and voice output support. [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/translatium-desktop) [![App Store][app-store Icon]](https://itunes.apple.com/us/app/translatium/id1547052291)
+
+## Education
+
+*   [Wokabulary](https://wokabulary.com/) - Collect, practice, and organize your individual foreign language vocabulary. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825)
 
 ## Encryption
 

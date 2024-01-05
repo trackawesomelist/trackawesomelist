@@ -43,6 +43,10 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [PHP CS Fixer (⭐12k)](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A coding standards fixer library.
 
+### Table of Contents / Architectural
+
+*   [IterTools PHP (⭐135)](https://github.com/markrogoyski/itertools-php) - A library that provides functionality for working with iterable entities (similar to itertools library in Python).
+
 ### Table of Contents / PDF
 
 *   [Browsershot (⭐4.6k)](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string.
@@ -1570,10 +1574,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [GeoTools (⭐1.4k)](https://github.com/thephpleague/geotools) - A library of geo-related tools.
 
-### Table of Contents / PDF
-
-*   [WKHTMLToPDF (⭐14k)](https://github.com/wkhtmltopdf/wkhtmltopdf) - A tool to convert HTML to PDF.
-
 ### Table of Contents / Office
 
 *   [PHPPowerPoint (⭐1.3k)](https://github.com/PHPOffice/PHPPresentation) - A library for working with Microsoft PowerPoint Presentations.
@@ -1784,10 +1784,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Imagery
 
 *   [Image Optimizer (⭐897)](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
-
-### Table of Contents / PDF
-
-*   [PHPPdf (⭐340)](https://github.com/psliwa/PHPPdf) - A library for generating PDFs and images from XML.
 
 ## [Aug 25 - Aug 31, 2014](/content/2014/34/README.md)
 

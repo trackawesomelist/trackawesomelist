@@ -474,6 +474,7 @@ Please see [CONTRIBUTING (⭐30k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Finite](https://yohan.giarel.li/Finite/) - A simple PHP finite state machine.
 *   [Functional PHP (⭐2k)](https://github.com/lstrojny/functional-php) - A functional programming library.
 *   [Iter (⭐1.1k)](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
+*   [IterTools PHP (⭐135)](https://github.com/markrogoyski/itertools-php) - A library that provides functionality for working with iterable entities (similar to itertools library in Python).
 *   [Patchwork](https://patchwork2.org/) - A library for redefining userland functions.
 *   [Pipeline (⭐924)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 *   [Porter (⭐603)](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
@@ -599,9 +600,7 @@ Please see [CONTRIBUTING (⭐30k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Browsershot (⭐4.6k)](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string.
 *   [Dompdf (⭐10k)](https://github.com/dompdf/dompdf) - A HTML to PDF converter.
 *   [Gotenberg (⭐150)](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
-*   [PHPPdf (⭐340)](https://github.com/psliwa/PHPPdf) - A library for generating PDFs and images from XML.
 *   [Snappy (⭐4.3k)](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
-*   [WKHTMLToPDF (⭐14k)](https://github.com/wkhtmltopdf/wkhtmltopdf) - A tool to convert HTML to PDF.
 
 ### Office
 
