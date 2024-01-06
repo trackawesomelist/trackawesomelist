@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jan 06, 2024](/content/2024/01/06/README.md)
+
+### Domain Specific Language / Coordination
+
+*   [Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378) - ***OOPSLA Workshop on Domain-Specific Modeling (DSM' 09)***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=1962567819031018744\&hl=en\&as_sdt=0,5)]. Guidelines to support a DSL developer to achieve better quality of the language design and a better acceptance among its users.
+
 ## [Jan 05, 2024](/content/2024/01/05/README.md)
 
 ### Domain Specific Language / Coordination

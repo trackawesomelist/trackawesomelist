@@ -1,12 +1,18 @@
 # Awesome List Updates on Jan 01 - Jan 07, 2024
 
-41 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+## [1. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Data Store / Mouse Events
+
+*   [fireproof (⭐85)](https://github.com/fireproof-storage/fireproof) - [demo](https://fireproof.storage/try-free/) - [docs](https://use-fireproof.com/docs/welcome) Pure JS, zero dependency, CRDT database - runs in the browser and connects to any cloud or backend
+
+## [2. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Downloading and Serving
 
@@ -14,13 +20,13 @@
 *   [Bash-web-server (⭐656)](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc.
 *   [bash-stack (⭐325)](https://github.com/cgsdev0/bash-stack) - modern web framework in bash.
 
-## [2. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [3. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :books: Literature / Scientific Research
 
 *   :notebook: [Tutorial: An overview of malware detection and evasion techniques](https://inria.hal.science/hal-01964222) (December 2018)
 
-## [3. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [4. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Authentication and OAuth
 
@@ -32,9 +38,10 @@
 
 ### Security
 
+*   [go-peer (⭐143)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
 *   [passwap (⭐11)](https://github.com/zitadel/passwap) - Provides a unified implementation between different password hashing algorithms
 
-## [4. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
+## [5. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
 ### Hosted Bitcoin Payment Processors / Custodial
 
@@ -65,7 +72,7 @@
 
 
 
-## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [6. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Tools & Scripts / AI
 
@@ -76,7 +83,7 @@
 
 *   [Join the Wardley AI Development Group on X/Twitter](https://twitter.com/i/communities/1670015410542985218)
 
-## [6. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [7. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Programming / Rust
 
@@ -86,7 +93,7 @@
 
 *   [OkJob](https://okjob.io/) - 4 day week job board
 
-## [7. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [8. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Dependency Management Extras
 
@@ -168,7 +175,7 @@
 *   [No Compromises](https://show.nocompromises.io/) - Two seasoned salty programming veterans talk best practices based on years of working with Laravel SaaS teams.
 *   [North Meets South Web Podcast](https://www.northmeetssouth.audio/) - Jacob Bennett and Michael Dyrynda conquer a 14.5 hour time difference to talk about life as web developers.
 
-## [8. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [9. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Text
 
@@ -178,13 +185,13 @@
 
 *   [MijickPopupView (⭐523)](https://github.com/Mijick/PopupView) - Popups presentation made simple with SwiftUI.
 
-## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [10. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### universally from / webpage/html
 
 *   [Feedropolis](https://feedropolis.cryptic.link/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://gitlab.com/stormking/feedropolis) [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://feedropolis.cryptic.link/)
 
-## [10. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [11. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / GO
 
@@ -202,25 +209,25 @@
 
 *   [Copenhagen](https://www.meetup.com/copenhagen-domain-driven-design-meetup/)
 
-## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [12. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Interactive Experiences
 
 *   [Call of Duty: Gunsmith](https://playcanv.as/p/XPWoTZ4F/) - Promotional 3D experience themed on Call of Duty.
 
-## [12. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [13. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### CI/CD / Other
 
 *   [Tekton CD](https://tekton.dev/) - A cloud-native pipeline resource.
 
-## [13. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [14. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Emacs / Third-party APIs
 
 *   [sly-overlay](https://git.sr.ht/~fosskers/sly-overlay) - an extension for Sly that enables the overlay of Common Lisp evaluation results directly into the buffer in the spirit of CIDER (Clojure), Eros (Emacs Lisp) and the Lem editor.
 
-## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### HTTP
 
@@ -236,7 +243,7 @@
 
 *   [Syncfusion .NET PDF Framework](https://www.syncfusion.com/document-processing/pdf-framework/net)  - A high-performance .NET PDF framework with no Adobe dependencies. Create, read, and edit PDF files seamlessly. Utilize PDF viewer controls for easy viewing, reviewing, and printing. Effortlessly convert HTML, Word, Excel, PowerPoint files, and images to PDF with powerful conversion APIs. **\[$]** **\[[Free for Individuals and Small Businesses](https://www.syncfusion.com/products/communitylicense)]**
 
-## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [16. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Miscellaneous
 
@@ -246,13 +253,13 @@
 
 *   [Laravel Simple Password Manager (⭐0)](https://github.com/milenmk/Laravel-Simple-Password-Manager) - Simple Password manager. `GPL-3.0` `PHP`
 
-## [16. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [17. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Tools / Templates & Starter Kits
 
 *   [cookiecutter-wagtail-vix (⭐19)](https://github.com/engineervix/cookiecutter-wagtail-vix) - A matteries-included, reusable project skeleton to serve as a starting point for a Wagtail project.
 
-## [17. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [18. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Rust / React
 
@@ -262,14 +269,65 @@
 
 *   [Tailcall](https://tailcall.run/docs/getting_started/configuration)
 
-## [18. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [19. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
-### Project Sharing Platforms / Help
+### Simulators / Analog and Mixed Signal Circuit Simulators
+
+*   [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) - The industry standard free SPICE circuit simulator from Linear Technologies. Also see the unofficial [LTwiki](http://ltwiki.org/?title=Main_Page) and [Group](https://groups.io/g/LTspice).
+*   [ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator.
+*   [Circuit JS/Falstad](http://www.falstad.com/circuit/circuitjs.html) - Free, open source online simulator with electron flow visualization (rewrite of original Java applet by Paul Falstad).
+*   [EveryCircuit](https://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
+*   [Qucs](http://qucs.sourceforge.net/) - Open source, cross-platform, non-SPICE-based circuit simulator, with with S-parameter and Harmonic Balance capability.
+*   [Qucs-S](https://ra3xdh.github.io/) - Open source fork of Qucs using SPICE for simulation.
+*   [QucsStudio](http://qucsstudio.de/) - Free, closed-source, Windows-only fork of Qucs with a similar interface, new engine, and more features.
+*   [Open Circuit Design Software](http://opencircuitdesign.com) - Open Source, full EDA suite chip design suite, focused on keeping up with commercial tools.
+*   [TINA-TI](http://www.ti.com/tool/TINA-TI) - Exclusive [DesignSoft-TINA](https://www.tina.com) build for Texas Instruments, bundled with Texas Instruments Models.
+*   [CppSim](https://www.cppsim.com/) - Free, open source circuit simulator that leverages the C++ language to achieve very fast simulation times.
+*   [Scilab with Xcos](https://www.scilab.org/) - Free, open source numerical computing alternative to MATLAB. Xcos provides Electrical System modeling capability similar to Simulink.
+*   [iCircuit](http://icircuitapp.com/) - Easy to use electronic circuit simulator, its advanced simulation engine can handle both analog and digital circuits and features realtime always-on analysis.
+*   [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - Professional-grade mixed signal simulator with wide variety of interactive simulation types.
+*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐42)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
+
+### Paid EDA Packages / Installable
+
+*   [Proteus](https://www.labcenter.com/) - PCB Design and Circuit Simulator Software.
+*   [Altium](https://www.altium.com/) - PCB Design Software & Tools.
+
+### Simulators / Verilog HDL Simulators
+
+*   [Verilator](https://www.veripool.org/wiki/verilator) - Free, open source Verilog compiler. Test benches are in C++ or SystemC. Very fast, but limted to 2-state, cycle-based simulation, and synthesizeable code only.
+*   [Icarus Verilog](http://iverilog.icarus.com/) - Free, open source verilog interpreter. Test benches are in behavioral verilog. Simulation is 4-state, and event-based.
+
+### Free EDA Packages / Installable
+
+*   [KiCad](https://kicad.org/) - Open source EDA package with push and shove router, differential pairs and much more.
+*   [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (board size restricted) free version.
+*   [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software) - Gratis EDA package without restrictions, sponserd by RS Components.
+*   [Altium CircuitMaker](https://circuitmaker.com/) - Free package from the maker of the go to pro software.
+*   [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux and BSD only.
+*   [DipTrace](https://diptrace.com) - Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version.
+*   [LibrePCB](https://librepcb.org/) - A new, powerful and intuitive EDA tool for everyone, cross-platform and GNU GPLv3.
+*   [Horizon EDA (⭐980)](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
+*   [EasyEDA](https://easyeda.com/) - Easy to use with both browser based and cross platform app versions. Integrates [LCSC](https://www.lcsc.com/products) and [JLCPCB](https://jlcpcb.com/parts) component catalogs with 3D models.
+
+### Part Search Engines / Altium
+
+*   [Octopart](https://octopart.com) - Probably the most well known part search engine.
+*   [Findchips](https://www.findchips.com/) - Part search from Supply Frame.
+*   [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts.
+*   [Electronic Component Search Engine](https://componentsearchengine.com/) - Free access to schematic symbols, PCB footprints and 3D models.
+
+### Project Sharing Platforms / Altium
 
 *   [WikiFactory](https://wikifactory.com/) - A project hosting and collaboration platform for product development. Filter for "electronics" for more electronics related projects.
 *   [Instructables](https://www.instructables.com/) - A social site for sharing projects. Filter for "circuits" for more electronics related projects.
 
-## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+### 3D Part Models / Help
+
+*   [GrabCad](https://grabcad.com/library/electronic-components-1) - Community supported database of 3D models with a large number of electronic component models.
+*   [3D ContentCentral](https://www.3dcontentcentral.com) - Website dedicated to 3D models of parts (requires login).
+
+## [20. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -279,7 +337,7 @@
 
 *   [vue3-slot-calendar (⭐481)](https://github.com/icai/vue3-calendar) - A vue 3 calendar, datepicker component which supported lunar or date event, bootstrap style.
 
-## [20. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [21. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Android Keyboard
 
@@ -290,13 +348,13 @@
 
 *   [Sonic Robbo Blast 2 Kart](https://mb.srb2.org/addons/srb2kart.2435/) - SRB2Kart is a classic styled kart racer, complete with beautiful courses, and wacky items.
 
-## [21. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [22. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Reference
 
 *   [iso-standard](http://www.ada-auth.org/standards/ada22.html) - The 2022 revision to the Ada Standard, usually known as Ada 2022.
 
-## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [23. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Physics
 
@@ -306,7 +364,7 @@
 
 *   [The Cherno's C++ Playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - Extensive C++ tutorial series by The Cherno.
 
-## [23. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [24. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -334,51 +392,51 @@
 
 *   [NDJSON (⭐610) (⭐607)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 
-## [24. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [25. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Databases
 
 *   [Interaction Web Data (iwdb)](https://iwdb.nceas.ucsb.edu/resources.html#host_parasite) - Collation of fish host and parasites datasets from several Canadain liminological sites, including information on prevalence and intensity. Part of a larger database of species interactions in food webs and plant relationships originally developed in 2003 by NCEAS and is now hosted by the Department of Ecology at the University of São Paulo, Brazil.
 *   [Web of Life](https://www.web-of-life.es/) -  An aggregated resource and graphical user interface for easily visualizing and downloading data on ecological networks, including host-parasite interactions. As of January 2024, the host-parasite communities are exclusively gleaned from [Hadfield et al. 2013](https://www.journals.uchicago.edu/doi/full/10.1086/674445) whose original data files are provided on [Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.jf3tj).
 
-## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [Doczilla](https://www.doczilla.app/) — SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code. The free plan allows 250 documents month.
 
-## [26. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [27. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Machine Learning
 
 *   [An Introduction to Statistical Learning](https://www.statlearning.com) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
 *   [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org) - Benoit Liquet, Sarat Moka, Yoni Nazarathy
 
-## [27. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [28. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Trading & Backtesting
 
 *   [skfolio (⭐8)](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn. It provides a unified interface and sklearn compatible tools to build, tune and cross-validate portfolio models.
 
-## [28. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [29. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Configuration
 
 *   [django-classy-settings (⭐29)](https://github.com/funkybob/django-classy-settings) - Class based settings to keep your environments in order, with easy access to typed environment variables.
 
-## [29. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [30. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools
 
 *   [`prisma-markdown` - Markdown generator, including ERD and descriptions](https://github.com/samchon/prisma-markdown)
 
-## [30. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [31. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### RPG
 
 *   [Abyss Engine (⭐390)](https://github.com/AbyssEngine/AbyssEngine) - Abyss Engine is a game engine designed to run games similar to 2000's style ARPGs such as Diablo II.
 
-## [31. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [32. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Online Tools:
 
@@ -388,13 +446,13 @@
 
 
 
-## [32. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [33. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### Visual Analytics
 
 *   [Crawlbase](https://crawlbase.com/) \[FREE / CREDIT] Crawlbase, a web scraping and web crawling tool, is generously offering 5000 successful requests for free over a three-month period to students, who can take advantage of this opportunity by using the discount code 'SDNT2023'.
 
-## [33. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [34. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
@@ -406,7 +464,7 @@
 *   [godot-jolt (⭐1.3k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐4.8k)](https://github.com/jrouwe/JoltPhysics) (Godot 4.2).
 *   [godot-rapier-2d (⭐68)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐3.1k)](https://github.com/dimforge/rapier) physics server for Godot (Godot 4.2).
 
-## [34. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [35. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -424,12 +482,13 @@
 
 *   [kata-containers/kata-containers (⭐4.5k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
 
-## [35. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [36. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Coordination
 
 *   [The complete guide to (external) Domain Specific Languages](https://tomassetti.me/domain-specific-languages/). An introduction to Domain Specific Languages (DSL) based on 19 DSL cases.
 *   [When and how to develop domain-specific languages](https://dl.acm.org/doi/abs/10.1145/1118890.1118892) - ***ACM Computing Surveys***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=8598236436890577027\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://john.cs.olemiss.edu/~hcc/csci658/notes/localcopy/WhenDSL.pdf)]. A survey on patterns in the decision, analysis, design, and implementation phases of DSL development.
+*   [Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378) - ***OOPSLA Workshop on Domain-Specific Modeling (DSM' 09)***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=1962567819031018744\&hl=en\&as_sdt=0,5)]. Guidelines to support a DSL developer to achieve better quality of the language design and a better acceptance among its users.
 
 ### Explainability / Trustworthy AI
 
@@ -443,13 +502,13 @@
 
 *   [Phy-Q as a measure for physical reasoning intelligence](https://www.nature.com/articles/s42256-022-00583-4) - ***Nature Machine Intelligence***, 2023. \[[NMI Challenge](https://www.nature.com/articles/s42256-019-0072-x)]. An interactive benchmark for AI physical reasoning.
 
-## [36. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [37. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Blogs
 
 *   [Thomas Letan’s articles about OCaml](https://soap.coffee/~lthms/tags/ocaml.html)
 
-## [37. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [38. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Virtualization
 
@@ -467,7 +526,7 @@
 
 *   [Whisky](https://getwhisky.app/) - Wine wrapper that supports GPTK (Game Porting Toolkit) [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Whisky-App/Whisky)
 
-## [38. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [39. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Snippet / Diagnostics
 
@@ -499,19 +558,19 @@
 *   [pgosar/CyberNvim (⭐164)](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.
 *   [crispybaccoon/chaivim (⭐5)](https://github.com/crispybaccoon/chaivim) - Easily configurable distro with solid defaults and a cozy editor experience.
 
-## [39. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [40. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Blockchain Explorers
 
 *   [Allo](https://allo.info) - Allo is a blockchain explorer for all of Algorand created by [Nodely](https://algonode.io) team.
 
-## [40. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [41. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Scheme / Git
 
 *   [industria](https://gitlab.com/weinholt/industria) - Motley assortment of cryptographic primitives, OpenSSH, DNS.
 
-## [41. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [42. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Books
 

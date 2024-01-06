@@ -12,6 +12,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [The complete guide to (external) Domain Specific Languages](https://tomassetti.me/domain-specific-languages/). An introduction to Domain Specific Languages (DSL) based on 19 DSL cases.
 *   [When and how to develop domain-specific languages](https://dl.acm.org/doi/abs/10.1145/1118890.1118892) - ***ACM Computing Surveys***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=8598236436890577027\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://john.cs.olemiss.edu/~hcc/csci658/notes/localcopy/WhenDSL.pdf)]. A survey on patterns in the decision, analysis, design, and implementation phases of DSL development.
+*   [Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378) - ***OOPSLA Workshop on Domain-Specific Modeling (DSM' 09)***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=1962567819031018744\&hl=en\&as_sdt=0,5)]. Guidelines to support a DSL developer to achieve better quality of the language design and a better acceptance among its users.
 
 ### Explainability / Trustworthy AI
 

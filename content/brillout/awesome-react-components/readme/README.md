@@ -827,9 +827,9 @@ Please review our [contributing guidelines (⭐39k)](https://github.com/brillout
 *   [baobab-react (⭐311)](https://github.com/Yomguithereal/baobab-react) - React integration for Baobab.
 *   [cerebral (⭐2k)](https://github.com/cerebral/cerebral) - A state controller with its own debugger.
 *   [effector-react (⭐4.4k)](https://github.com/effector/effector) - React bindings for effector, an effective multi-store state manager.
+*   [fireproof (⭐85)](https://github.com/fireproof-storage/fireproof) - [demo](https://fireproof.storage/try-free/) - [docs](https://use-fireproof.com/docs/welcome) Pure JS, zero dependency, CRDT database - runs in the browser and connects to any cloud or backend
 *   [fluxible (⭐1.8k)](https://github.com/yahoo/fluxible) - A pluggable container for universal flux applications.
 *   [kea (⭐1.9k)](https://github.com/mariusandra/kea) - High level architecture for React apps.
-*   [react-3ducks (⭐7)](https://github.com/smakazmi/react-3ducks) - [demo](https://stackblitz.com/github/smakazmi/react-3ducks/tree/master/examples/todos) - Simple state management solution for React.
 *   [react-i13n (⭐382)](https://github.com/yahoo/react-i13n) - A performant, scalable and pluggable approach to instrumenting your React application.
 *   [react-redux (⭐23k)](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
 *   [redux-batched-actions (⭐1k)](https://github.com/tshelburne/redux-batched-actions) - Reducer + action to reduce actions under a single subscriber notification.

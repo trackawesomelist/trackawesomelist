@@ -6,6 +6,12 @@ Curated List of React Components & Libraries.
 
 [ [Daily](/content/brillout/awesome-react-components/README.md) / Weekly / [Overview](/content/brillout/awesome-react-components/readme/README.md) ]
 
+## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
+
+### Data Store / Mouse Events
+
+*   [fireproof (⭐85)](https://github.com/fireproof-storage/fireproof) - [demo](https://fireproof.storage/try-free/) - [docs](https://use-fireproof.com/docs/welcome) Pure JS, zero dependency, CRDT database - runs in the browser and connects to any cloud or backend
+
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Form Components / Date / Time picker
@@ -1129,10 +1135,6 @@ Curated List of React Components & Libraries.
 ### Notification
 
 *   [notistack](https://iamhosseindhv.com/notistack) - [demo](https://codesandbox.io/s/github/iamhosseindhv/notistack/tree/master/examples/simple-example??hidenavigation=1\&module=%2FApp.js) - [docs](https://iamhosseindhv.com/notistack/api) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
-
-### Data Store / Mouse Events
-
-*   [react-3ducks (⭐7)](https://github.com/smakazmi/react-3ducks) - [demo](https://stackblitz.com/github/smakazmi/react-3ducks/tree/master/examples/todos) - Simple state management solution for React.
 
 ### Form Logic / Mouse Events
 

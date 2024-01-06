@@ -2172,6 +2172,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [go-generate-password (⭐50)](https://github.com/m1/go-generate-password) - Password generator that can be used on the cli or as a library.
 *   [go-htpasswd (⭐33)](https://github.com/tg123/go-htpasswd) - Apache htpasswd Parser for Go.
 *   [go-password-validator (⭐451)](https://github.com/lane-c-wagner/go-password-validator) - Password validator based on raw cryptographic entropy values.
+*   [go-peer (⭐143)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
 *   [go-yara (⭐330)](https://github.com/hillu/go-yara) - Go Bindings for [YARA (⭐135)](https://github.com/plusvic/yara), the "pattern matching swiss knife for malware researchers (and everyone else)".
 *   [goArgonPass (⭐16)](https://github.com/dwin/goArgonPass) - Argon2 password hash and verification designed to be compatible with existing Python and PHP implementations.
 *   [goSecretBoxPassword (⭐58)](https://github.com/dwin/goSecretBoxPassword) - A probably paranoid package for securely hashing and encrypting passwords.
@@ -3045,7 +3046,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [blanket](https://gitlab.com/verygoodsoftwarenotvirus/blanket) - blanket is a tool that helps you catch functions which don't have direct unit tests in your Go packages.
 *   [ChainJacking (⭐53)](https://github.com/Checkmarx/chainjacking) - Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack.
 *   [Chronos (⭐411)](https://github.com/amit-davidson/Chronos) - Detects race conditions statically
-*   [dupl (⭐324)](https://github.com/mibk/dupl) - Tool for code clone detection.
+*   [dupl (⭐323)](https://github.com/mibk/dupl) - Tool for code clone detection.
 *   [errcheck (⭐2.2k)](https://github.com/kisielk/errcheck) - Errcheck is a program for checking for unchecked errors in Go programs.
 *   [gcvis (⭐1.1k)](https://github.com/davecheney/gcvis) - Visualise Go program GC trace data in real time.
 *   [go-checkstyle (⭐128)](https://github.com/qiniu/checkstyle) - checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style referred to some points in Go Code Review Comments.
@@ -3067,8 +3068,8 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [staticcheck (⭐5.7k)](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
 *   [testifylint (⭐41)](https://github.com/Antonboom/testifylint) – A linter that checks usage of [github.com/stretchr/testify (⭐21k)](https://github.com/stretchr/testify).
 *   [tickgit (⭐316)](https://github.com/augmentable-dev/tickgit) - CLI and go package for surfacing code comment TODOs (in any language) and applying a `git blame`to identify the author.
-*   [todocheck (⭐405)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
-*   [unconvert (⭐368)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
+*   [todocheck (⭐406)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
+*   [unconvert (⭐369)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
 *   [usestdlibvars (⭐41)](https://github.com/sashamelentyev/usestdlibvars) - A linter that detect the possibility to use variables/constants from the Go standard library.
 *   [vacuum (⭐335)](https://github.com/daveshanley/vacuum) - An ultra-super-fast, lightweight OpenAPI linter and quality checking tool.
 *   [validate (⭐61)](https://github.com/mccoyst/validate) - Automatically validates struct fields with tags.

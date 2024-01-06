@@ -18,6 +18,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
+*   [go-peer (⭐143)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
 *   [passwap (⭐11)](https://github.com/zitadel/passwap) - Provides a unified implementation between different password hashing algorithms
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
@@ -3765,7 +3766,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [apicompat (⭐177)](https://github.com/bradleyfalzon/apicompat) - Checks recent changes to a Go project for backwards incompatible changes.
 *   [ChainJacking (⭐53)](https://github.com/Checkmarx/chainjacking) - Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack.
-*   [dupl (⭐324)](https://github.com/mibk/dupl) - Tool for code clone detection.
+*   [dupl (⭐323)](https://github.com/mibk/dupl) - Tool for code clone detection.
 *   [errcheck (⭐2.2k)](https://github.com/kisielk/errcheck) - Errcheck is a program for checking for unchecked errors in Go programs.
 *   [gcvis (⭐1.1k)](https://github.com/davecheney/gcvis) - Visualise Go program GC trace data in real time.
 *   [go-checkstyle (⭐128)](https://github.com/qiniu/checkstyle) - checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style referred to some points in Go Code Review Comments.
@@ -3784,8 +3785,8 @@ A curated list of awesome Go frameworks, libraries and software
 *   [php-parser (⭐933)](https://github.com/z7zmey/php-parser) - A Parser for PHP written in Go.
 *   [staticcheck (⭐5.7k)](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
 *   [tickgit (⭐316)](https://github.com/augmentable-dev/tickgit) - CLI and go package for surfacing code comment TODOs (in any language) and applying a `git blame`to identify the author.
-*   [todocheck (⭐405)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
-*   [unconvert (⭐368)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
+*   [todocheck (⭐406)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
+*   [unconvert (⭐369)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
 *   [validate (⭐61)](https://github.com/mccoyst/validate) - Automatically validates struct fields with tags.
 
 ### Editor Plugins / Libraries for creating HTTP middlewares

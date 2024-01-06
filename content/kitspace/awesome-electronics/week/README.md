@@ -8,10 +8,61 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
+### Simulators / Analog and Mixed Signal Circuit Simulators
+
+*   [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) - The industry standard free SPICE circuit simulator from Linear Technologies. Also see the unofficial [LTwiki](http://ltwiki.org/?title=Main_Page) and [Group](https://groups.io/g/LTspice).
+*   [ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator.
+*   [Circuit JS/Falstad](http://www.falstad.com/circuit/circuitjs.html) - Free, open source online simulator with electron flow visualization (rewrite of original Java applet by Paul Falstad).
+*   [EveryCircuit](https://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
+*   [Qucs](http://qucs.sourceforge.net/) - Open source, cross-platform, non-SPICE-based circuit simulator, with with S-parameter and Harmonic Balance capability.
+*   [Qucs-S](https://ra3xdh.github.io/) - Open source fork of Qucs using SPICE for simulation.
+*   [QucsStudio](http://qucsstudio.de/) - Free, closed-source, Windows-only fork of Qucs with a similar interface, new engine, and more features.
+*   [Open Circuit Design Software](http://opencircuitdesign.com) - Open Source, full EDA suite chip design suite, focused on keeping up with commercial tools.
+*   [TINA-TI](http://www.ti.com/tool/TINA-TI) - Exclusive [DesignSoft-TINA](https://www.tina.com) build for Texas Instruments, bundled with Texas Instruments Models.
+*   [CppSim](https://www.cppsim.com/) - Free, open source circuit simulator that leverages the C++ language to achieve very fast simulation times.
+*   [Scilab with Xcos](https://www.scilab.org/) - Free, open source numerical computing alternative to MATLAB. Xcos provides Electrical System modeling capability similar to Simulink.
+*   [iCircuit](http://icircuitapp.com/) - Easy to use electronic circuit simulator, its advanced simulation engine can handle both analog and digital circuits and features realtime always-on analysis.
+*   [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - Professional-grade mixed signal simulator with wide variety of interactive simulation types.
+*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐42)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
+
+### Paid EDA Packages / Installable
+
+*   [Proteus](https://www.labcenter.com/) - PCB Design and Circuit Simulator Software.
+*   [Altium](https://www.altium.com/) - PCB Design Software & Tools.
+
+### Simulators / Verilog HDL Simulators
+
+*   [Verilator](https://www.veripool.org/wiki/verilator) - Free, open source Verilog compiler. Test benches are in C++ or SystemC. Very fast, but limted to 2-state, cycle-based simulation, and synthesizeable code only.
+*   [Icarus Verilog](http://iverilog.icarus.com/) - Free, open source verilog interpreter. Test benches are in behavioral verilog. Simulation is 4-state, and event-based.
+
+### Free EDA Packages / Installable
+
+*   [KiCad](https://kicad.org/) - Open source EDA package with push and shove router, differential pairs and much more.
+*   [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (board size restricted) free version.
+*   [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software) - Gratis EDA package without restrictions, sponserd by RS Components.
+*   [Altium CircuitMaker](https://circuitmaker.com/) - Free package from the maker of the go to pro software.
+*   [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux and BSD only.
+*   [DipTrace](https://diptrace.com) - Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version.
+*   [LibrePCB](https://librepcb.org/) - A new, powerful and intuitive EDA tool for everyone, cross-platform and GNU GPLv3.
+*   [Horizon EDA (⭐980)](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
+*   [EasyEDA](https://easyeda.com/) - Easy to use with both browser based and cross platform app versions. Integrates [LCSC](https://www.lcsc.com/products) and [JLCPCB](https://jlcpcb.com/parts) component catalogs with 3D models.
+
+### Part Search Engines / Altium
+
+*   [Octopart](https://octopart.com) - Probably the most well known part search engine.
+*   [Findchips](https://www.findchips.com/) - Part search from Supply Frame.
+*   [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts.
+*   [Electronic Component Search Engine](https://componentsearchengine.com/) - Free access to schematic symbols, PCB footprints and 3D models.
+
 ### Project Sharing Platforms / Altium
 
 *   [WikiFactory](https://wikifactory.com/) - A project hosting and collaboration platform for product development. Filter for "electronics" for more electronics related projects.
 *   [Instructables](https://www.instructables.com/) - A social site for sharing projects. Filter for "circuits" for more electronics related projects.
+
+### 3D Part Models / Help
+
+*   [GrabCad](https://grabcad.com/library/electronic-components-1) - Community supported database of 3D models with a large number of electronic component models.
+*   [3D ContentCentral](https://www.3dcontentcentral.com) - Website dedicated to 3D models of parts (requires login).
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
@@ -29,11 +80,6 @@ A curated list of awesome resources for electronic engineers and hobbyists
 *   [Student Handbook](http://cbseacademic.nic.in/web_material/Curriculum/Vocational/2018/Basic_Electronics_XI.pdf) - Language used in this book easily understandable covers evolution, fundamentals, diode, rectifiers, transistors and its applications, SCR, DIAC and TRIAC.
 *   [Electronics circuits and systems](http://aems.edu.sd/wp-content/uploads/2019/02/Electronics-Circuits-and-Systems-Fourth-Edition-PDFDrive.com-.pdf) - Quality free e-book covering all topics under circuits and systems, highly recommended for conceptual understanding.
 
-### Paid EDA Packages / Installable
-
-*   [Proteus](https://www.labcenter.com/) - PCB Design and Circuit Simulator Software.
-*   [Altium](https://www.altium.com/) - PCB Design Software & Tools.
-
 ### Gerber Viewers / Installable
 
 *   [ZofZPCB](https://www.zofzpcb.com/) - FREE 3D Gerber Viewer.
@@ -46,20 +92,10 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 *   [Altium Designer Libraries](https://www.altium.com/documentation/other_installers#!libraries) - `.IntLib` and `.PcbLib` of electronic components from different manufacturers.
 
-### Part Search Engines / Altium
-
-*   [Electronic Component Search Engine](https://componentsearchengine.com/) - Free access to schematic symbols, PCB footprints and 3D models.
-
 ### Miscellaneous Software Projects / Altium
 
 *   [NinjaCalc](https://gbmhunter.github.io/NinjaCalc/) - An embedded engineering calculator toolbox for doing calculations in a breeze.
 *   [Saturn PCB Design Toolkit](https://saturnpcb.com/saturn-pcb-toolkit/) - The Saturn PCB Toolkit is the best freeware resource for PCB related calculations you can find.
-
-## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
-
-### Simulators / Analog and Mixed Signal Circuit Simulators
-
-*   [Qucs-S](https://ra3xdh.github.io/) - Open source fork of Qucs using SPICE for simulation.
 
 ## [Oct 02 - Oct 08, 2023](/content/2023/40/README.md)
 
@@ -82,15 +118,7 @@ A curated list of awesome resources for electronic engineers and hobbyists
 *   [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/) - Extract data from plots, charts, etc., very useful for getting part performance curves from datasheets.
 *   [WaveDrom](https://wavedrom.com/) - Create waveforms and timing diagrams from a JSON description file.
 
-### Simulators / Analog and Mixed Signal Circuit Simulators
-
-*   [QucsStudio](http://qucsstudio.de/) - Free, closed-source, Windows-only fork of Qucs with a similar interface, new engine, and more features.
-
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
-
-### Free EDA Packages / Installable
-
-*   [EasyEDA](https://easyeda.com/) - Easy to use with both browser based and cross platform app versions. Integrates [LCSC](https://www.lcsc.com/products) and [JLCPCB](https://jlcpcb.com/parts) component catalogs with 3D models.
 
 ### PCB Batching Services / Altium
 
@@ -118,23 +146,11 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 *   [delftopenhardware/awesome-open-hardware (⭐312)](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
 
-## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
-
-### Simulators / Analog and Mixed Signal Circuit Simulators
-
-*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐42)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
-
 ## [Dec 13 - Dec 19, 2021](/content/2021/50/README.md)
 
 ### Documentation / University Course Archives
 
 *   [Inkscape Electric Symbols (⭐218)](https://github.com/upb-lea/Inkscape_electric_Symbols) - Circuit Drawing Symbols for Inkscape
-
-## [Nov 01 - Nov 07, 2021](/content/2021/44/README.md)
-
-### Free EDA Packages / Installable
-
-*   [KiCad](https://kicad.org/) - Open source EDA package with push and shove router, differential pairs and much more.
 
 ## [Jul 12 - Jul 18, 2021](/content/2021/28/README.md)
 
@@ -178,17 +194,6 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 *   [Lessons In Electric Circuits](https://www.ibiblio.org/kuphaldt/electricCircuits/) - Free high quality textbooks and worksheets with emphasis on theory, simulation, and the socratic method.
 *   [Ultimate Electronics: Practical Circuit Design and Analysis](https://ultimateelectronicsbook.com/) - Free online book with interactive schematics & simulations by CircuitLab (under development).
-
-### Simulators / Analog and Mixed Signal Circuit Simulators
-
-*   [ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator.
-*   [Circuit JS/Falstad](http://www.falstad.com/circuit/circuitjs.html) - Free, open source online simulator with electron flow visualization (rewrite of original Java applet by Paul Falstad).
-*   [EveryCircuit](https://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
-
-### Free EDA Packages / Installable
-
-*   [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software) - Gratis EDA package without restrictions, sponserd by RS Components.
-*   [Altium CircuitMaker](https://circuitmaker.com/) - Free package from the maker of the go to pro software.
 
 ### CAD Specific / KiCad
 
@@ -234,11 +239,6 @@ A curated list of awesome resources for electronic engineers and hobbyists
 *   [MacroFab Engineering Podcast](https://macrofab.com/blog/podcast/) - Weekly podcast where Parker and Stephen from MacroFab discuss EE topics and industry news.
 *   [The Engineering Commons Podcast](http://theengineeringcommons.com/) - Covers general engineering topics from mechanical to electrical.
 
-### 3D Part Models / Help
-
-*   [GrabCad](https://grabcad.com/library/electronic-components-1) - Community supported database of 3D models with a large number of electronic component models.
-*   [3D ContentCentral](https://www.3dcontentcentral.com) - Website dedicated to 3D models of parts (requires login).
-
 ### Other Lists / Help
 
 *   [PwnKitteh/InsanelyCheapElectronics (⭐322)](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
@@ -254,20 +254,6 @@ A curated list of awesome resources for electronic engineers and hobbyists
 *   [Berkeley EECS](http://inst.eecs.berkeley.edu/classes-eecs.html) - Comprehensive EE & CS course website archives.
 *   [Dr. Jacob Baker](http://cmosedu.com) - Courses and tutorials, professor at The University of Nevada, Las Vegas.
 *   [Dr. Abraham](https://www.cerc.utexas.edu/~jaa/teaching.html), [Dr. McDermot](http://users.ece.utexas.edu/~mcdermot/), and [Dr. Valvano](http://users.ece.utexas.edu/~valvano/) - Courses materials, professors at UT Austin
-
-### Simulators / Analog and Mixed Signal Circuit Simulators
-
-*   [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) - The industry standard free SPICE circuit simulator from Linear Technologies. Also see the unofficial [LTwiki](http://ltwiki.org/?title=Main_Page) and [Group](https://groups.io/g/LTspice).
-*   [Qucs](http://qucs.sourceforge.net/) - Open source, cross-platform, non-SPICE-based circuit simulator, with with S-parameter and Harmonic Balance capability.
-*   [Open Circuit Design Software](http://opencircuitdesign.com) - Open Source, full EDA suite chip design suite, focused on keeping up with commercial tools.
-*   [TINA-TI](http://www.ti.com/tool/TINA-TI) - Exclusive [DesignSoft-TINA](https://www.tina.com) build for Texas Instruments, bundled with Texas Instruments Models.
-*   [CppSim](https://www.cppsim.com/) - Free, open source circuit simulator that leverages the C++ language to achieve very fast simulation times.
-*   [Scilab with Xcos](https://www.scilab.org/) - Free, open source numerical computing alternative to MATLAB. Xcos provides Electrical System modeling capability similar to Simulink.
-
-### Simulators / Verilog HDL Simulators
-
-*   [Verilator](https://www.veripool.org/wiki/verilator) - Free, open source Verilog compiler. Test benches are in C++ or SystemC. Very fast, but limted to 2-state, cycle-based simulation, and synthesizeable code only.
-*   [Icarus Verilog](http://iverilog.icarus.com/) - Free, open source verilog interpreter. Test benches are in behavioral verilog. Simulation is 4-state, and event-based.
 
 ### Videos / Help
 
@@ -301,18 +287,7 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 *   [PCB/EDA software list on the EEVblog forums](https://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available.
 
-## [Apr 13 - Apr 19, 2020](/content/2020/15/README.md)
-
-### Simulators / Analog and Mixed Signal Circuit Simulators
-
-*   [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - Professional-grade mixed signal simulator with wide variety of interactive simulation types.
-
 ## [Sep 30 - Oct 06, 2019](/content/2019/39/README.md)
-
-### Free EDA Packages / Installable
-
-*   [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (board size restricted) free version.
-*   [Horizon EDA (⭐980)](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
 
 ### CAD Specific / KiCad
 
@@ -325,12 +300,6 @@ A curated list of awesome resources for electronic engineers and hobbyists
 ### Blogs / Altium
 
 *   [Dangerous Prototypes](http://dangerousprototypes.com/blog/) - Blog about open source hardware projects and interesting app notes.
-
-## [Jan 28 - Feb 03, 2019](/content/2019/4/README.md)
-
-### Free EDA Packages / Installable
-
-*   [LibrePCB](https://librepcb.org/) - A new, powerful and intuitive EDA tool for everyone, cross-platform and GNU GPLv3.
 
 ## [Aug 13 - Aug 19, 2018](/content/2018/33/README.md)
 
@@ -345,10 +314,6 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 *   [CircuitPeople](https://circuitpeople.com) - No frills 2D layer viewer for Gerbers, without the excessive processing.
 
-### Free EDA Packages / Installable
-
-*   [DipTrace](https://diptrace.com) - Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version.
-
 ### CAD Specific / KiCad
 
 *   [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
@@ -357,10 +322,6 @@ A curated list of awesome resources for electronic engineers and hobbyists
 ### PCB Batching Services / Altium
 
 *   [Dirty PCBs](http://dirtypcbs.com/store/pcbs) - Low cost PCB batching service that prides itself on its "dirty" quality.
-
-### Part Search Engines / Altium
-
-*   [Findchips](https://www.findchips.com/) - Part search from Supply Frame.
 
 ### Development Board Retailers / Altium
 
@@ -379,12 +340,6 @@ A curated list of awesome resources for electronic engineers and hobbyists
 ### Subscription Kit Services / Help
 
 *   [AdaBox](https://www.adafruit.com/adabox/) - Curated Adafruit products, unique collectibles, and exclusive discounts. All delivered quarterly.
-
-## [Feb 26 - Mar 04, 2018](/content/2018/9/README.md)
-
-### Simulators / Analog and Mixed Signal Circuit Simulators
-
-*   [iCircuit](http://icircuitapp.com/) - Easy to use electronic circuit simulator, its advanced simulation engine can handle both analog and digital circuits and features realtime always-on analysis.
 
 ## [Feb 05 - Feb 11, 2018](/content/2018/6/README.md)
 
@@ -413,11 +368,6 @@ A curated list of awesome resources for electronic engineers and hobbyists
 *   [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU) - Series of videos on building an 8-bit computer on breadboards with excellent explanations of all the sub-circuits.
 
 ## [Feb 06 - Feb 12, 2017](/content/2017/6/README.md)
-
-### Part Search Engines / Altium
-
-*   [Octopart](https://octopart.com) - Probably the most well known part search engine.
-*   [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts.
 
 ### Project Sharing Platforms / Altium
 
@@ -460,10 +410,6 @@ A curated list of awesome resources for electronic engineers and hobbyists
 ### Gerber Viewers / Installable
 
 *   [Gerbv](http://gerbv.geda-project.org/) - Excellent Gerber viewer for Linux and BSD.
-
-### Free EDA Packages / Installable
-
-*   [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux and BSD only.
 
 ### CAD Specific / KiCad
 

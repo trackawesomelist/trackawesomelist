@@ -6,6 +6,12 @@ Curated List of React Components & Libraries.
 
 [ Daily / [Weekly](/content/brillout/awesome-react-components/week/README.md) / [Overview](/content/brillout/awesome-react-components/readme/README.md) ]
 
+## [Jan 06, 2024](/content/2024/01/06/README.md)
+
+### Data Store / Mouse Events
+
+*   [fireproof (⭐85)](https://github.com/fireproof-storage/fireproof) - [demo](https://fireproof.storage/try-free/) - [docs](https://use-fireproof.com/docs/welcome) Pure JS, zero dependency, CRDT database - runs in the browser and connects to any cloud or backend
+
 ## [Dec 28, 2023](/content/2023/12/28/README.md)
 
 ### Form Components / Date / Time picker
@@ -1247,12 +1253,6 @@ Curated List of React Components & Libraries.
 ### Buttons
 
 *   [react-awesome-button (⭐1.2k)](https://github.com/rcaferati/react-awesome-button) - [demo](https://caferati.me/demo/react-awesome-button) - 3D animated 60fps buttons with load progress and social share actions.
-
-## [Oct 25, 2019](/content/2019/10/25/README.md)
-
-### Data Store / Mouse Events
-
-*   [react-3ducks (⭐7)](https://github.com/smakazmi/react-3ducks) - [demo](https://stackblitz.com/github/smakazmi/react-3ducks/tree/master/examples/todos) - Simple state management solution for React.
 
 ## [Oct 21, 2019](/content/2019/10/21/README.md)
 
