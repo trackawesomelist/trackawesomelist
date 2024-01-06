@@ -317,7 +317,10 @@ See [Vivraan/godot-lang-support (⭐278)](https://github.com/Vivraan/godot-lang-
 
 *   [Entity Spell System (⭐133)](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs (Godot 3.2, 4.0).
 *   [godot-anl (⭐105)](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library (⭐76)](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
+*   [godot-box2d (⭐184)](https://github.com/appsinacup/godot-box2d) - A [Box2D (⭐7k)](https://github.com/erincatto/box2d) physics server for Godot (Godot 4.2).
+*   [godot-jolt (⭐1.3k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐4.8k)](https://github.com/jrouwe/JoltPhysics) (Godot 4.2).
 *   [godot-luaAPI (⭐250)](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua (Godot 3.2+, 4.0).
+*   [godot-rapier-2d (⭐68)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐3.1k)](https://github.com/dimforge/rapier) physics server for Godot (Godot 4.2).
 *   [godot-python (⭐1.7k)](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
 *   [godot-voxel (⭐2.1k)](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds (Godot 3.1+).
 *   [Gdnet for Godot 3 (⭐119)](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.

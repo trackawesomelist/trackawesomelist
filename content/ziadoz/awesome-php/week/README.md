@@ -56,6 +56,10 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [OpenSpout (⭐494)](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
 
+### Table of Contents / NoSQL
+
+*   [MongoDB (⭐855)](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
+
 ### Table of Contents / Authentication and Authorization
 
 *   [PHP oAuthLib (⭐1.1k)](https://github.com/daviddesberg/PHPoAuthLib) - Another OAuth library.

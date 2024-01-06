@@ -6,6 +6,12 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 [ Daily / [Weekly](/content/ziadoz/awesome-php/week/README.md) / [Overview](/content/ziadoz/awesome-php/readme/README.md) ]
 
+## [Jan 06, 2024](/content/2024/01/06/README.md)
+
+### Table of Contents / NoSQL
+
+*   [MongoDB (⭐855)](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
+
 ## [Jan 05, 2024](/content/2024/01/05/README.md)
 
 ### Table of Contents / Dependency Management Extras

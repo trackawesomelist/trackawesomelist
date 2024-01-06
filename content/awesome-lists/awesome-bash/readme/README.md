@@ -92,6 +92,9 @@ In addition to this list, you should read the list [awesome-shell (⭐30k)](http
 *   [balls (⭐852)](https://github.com/jneen/balls) - Bash on Balls.
 *   [bashttpd (⭐1.5k)](https://github.com/avleen/bashttpd) - A web server written in Bash.
 *   [sherver (⭐332)](https://github.com/remileduc/sherver) - Pure Bash lightweight web server.
+*   [httpd.sh (⭐109)](https://github.com/cemeyer/httpd.sh) - A trivial web server in bash, using ctypes.sh.
+*   [Bash-web-server (⭐656)](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc.
+*   [bash-stack (⭐325)](https://github.com/cgsdev0/bash-stack) - modern web framework in bash.
 *   [Dropbox-Uploader (⭐6.5k)](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox.
 *   [ngincat (⭐170)](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat.
 *   [xiringuito (⭐1.1k)](https://github.com/ivanilves/xiringuito) - SSH-based VPN for poors.

@@ -644,6 +644,7 @@ Libraries to help manage database schemas and migrations.
 
 *Libraries for working with "NoSQL" backends.*
 
+*   [MongoDB (⭐855)](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
 *   [PHPMongo (⭐243)](https://github.com/sokil/php-mongo) - A MongoDB ORM.
 *   [Predis (⭐7.5k)](https://github.com/predis/predis) - A feature-complete Redis library.
 

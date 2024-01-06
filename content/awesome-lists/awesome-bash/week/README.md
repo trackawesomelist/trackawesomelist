@@ -6,6 +6,14 @@ A curated list of delightful Bash scripts and resources.
 
 [ [Daily](/content/awesome-lists/awesome-bash/README.md) / Weekly / [Overview](/content/awesome-lists/awesome-bash/readme/README.md) ]
 
+## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
+
+### Downloading and Serving
+
+*   [httpd.sh (⭐109)](https://github.com/cemeyer/httpd.sh) - A trivial web server in bash, using ctypes.sh.
+*   [Bash-web-server (⭐656)](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc.
+*   [bash-stack (⭐325)](https://github.com/cgsdev0/bash-stack) - modern web framework in bash.
+
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Books and Resources

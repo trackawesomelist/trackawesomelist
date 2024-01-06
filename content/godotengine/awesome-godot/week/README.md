@@ -12,6 +12,12 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 *   [Godot Spin Button (⭐15)](https://github.com/nblackninja/godot-spin-button) - Horizontal Selector with extended options (Godot 4.x).
 
+### Modules / Various Godot versions
+
+*   [godot-box2d (⭐184)](https://github.com/appsinacup/godot-box2d) - A [Box2D (⭐7k)](https://github.com/erincatto/box2d) physics server for Godot (Godot 4.2).
+*   [godot-jolt (⭐1.3k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐4.8k)](https://github.com/jrouwe/JoltPhysics) (Godot 4.2).
+*   [godot-rapier-2d (⭐68)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐3.1k)](https://github.com/dimforge/rapier) physics server for Godot (Godot 4.2).
+
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Projects / Godot 4.0

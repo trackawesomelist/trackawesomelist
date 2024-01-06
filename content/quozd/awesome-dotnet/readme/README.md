@@ -930,6 +930,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [ShapeCrawler (⭐213)](https://github.com/ShapeCrawler/ShapeCrawler) - A fluent API for the processing of PowerPoint presentations without Microsoft Office installed.
 *   [MiniExcel (⭐2.2k)](https://github.com/shps951023/MiniExcel) - A micro Excel helper avoids OOM and high performance to create/mapping/template-fill-data.
 *   [Toxy (⭐339)](https://github.com/nissl-lab/toxy) - .NET text extraction framework supports a few file formats
+*   [Syncfusion .NET Word Framework](https://www.syncfusion.com/document-processing/word-framework/net) - A high-performance .NET Word framework without Microsoft Office or interop dependencies. Create, read, and edit Word documents seamlessly. Utilize advanced editor components for easy viewing, editing, and printing. Effortlessly convert Word documents to PDF, HTML, RTF, ODT, and EPUB formats with powerful conversion APIs. **\[$]** **\[[Free for Individuals and Small Businesses](https://www.syncfusion.com/products/communitylicense)]**
+*   [Syncfusion .NET Excel Framework](https://www.syncfusion.com/document-processing/excel-framework/net) - A high-performance .NET Excel framework without Microsoft Office or interop dependencies. Create, read, and edit Excel documents seamlessly. Utilize Spreadsheet controls for creating, editing, and viewing easily. Effortlessly convert Excel files to PDF, images, and more with powerful conversion APIs. **\[$]** **\[[Free for Individuals and Small Businesses](https://www.syncfusion.com/products/communitylicense)]**
+*   [Syncfusion .NET PowerPoint Framework](https://www.syncfusion.com/document-processing/powerpoint-framework/net) - A high-performance .NET PowerPoint framework without Microsoft Office or interop dependencies. Create, read, and edit PowerPoint files seamlessly. Effortlessly convert PowerPoint files to PDFs and images with powerful conversion APIs. **\[$]** **\[[Free for Individuals and Small Businesses](https://www.syncfusion.com/products/communitylicense)]**
 
 ## OpenAI
 
@@ -987,6 +990,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [QuestPDF](https://www.questpdf.com/) - QuestPDF is an open-source, modern and battle-tested library that can help you with generating PDF documents by offering friendly, discoverable and predictable C# fluent API.
 *   [Kevsoft.PDFtk (⭐26)](https://github.com/kevbite/Kevsoft.PDFtk) - A wrapper to drive the awesome pdftk binary, which can fill PDF forms, get field information, concatenate multiple documents or pages, split documents, add or replace stamps, and can attach files to or download files from pages.
 *   [IronPDF](https://ironpdf.com/)  - High-performance C# PDF library with compatibility for various .NET versions, HTML to PDF conversion, content page conversion, file format support (e.g., DOCX, RTF, MD), responsive layouts, and robust PDF capabilities features ranging from compability, generating PDFs, formatting PDFs, and editing PDFs. **\[$]** **\[Free trial available]**
+*   [Syncfusion .NET PDF Framework](https://www.syncfusion.com/document-processing/pdf-framework/net)  - A high-performance .NET PDF framework with no Adobe dependencies. Create, read, and edit PDF files seamlessly. Utilize PDF viewer controls for easy viewing, reviewing, and printing. Effortlessly convert HTML, Word, Excel, PowerPoint files, and images to PDF with powerful conversion APIs. **\[$]** **\[[Free for Individuals and Small Businesses](https://www.syncfusion.com/products/communitylicense)]**
 
 ## Profiler
 
@@ -1149,7 +1153,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Testing
 
-*   [ArchUnitNET (⭐677)](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
+*   [ArchUnitNET (⭐684)](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
 *   [NetArchTest (⭐1.1k)](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net Standard that can enforce architectural rules in unit tests.
 *   [AutoFixture (⭐3.2k)](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source framework for .NET designed to minimize the 'Arrange' phase of your unit tests
 *   [BDTest (⭐68)](https://github.com/thomhurst/BDTest/wiki) - A behaviour driven testing and reporting framework!
@@ -1199,14 +1203,14 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Mockaco (⭐303)](https://github.com/natenho/Mockaco/) - API mock server with fast setup, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting engine powered by Roslyn scripting API.
 *   [Netling (⭐1.3k)](https://github.com/hallatore/Netling) - A load tester client for easy web testing. It is extremely fast while using little CPU or memory.
 *   [Papercut (⭐2.7k)](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut is an open source (.NET based) test email viewer that runs locally with a built-in SMTP server designed to receive and notify of test email messages.
-*   [Visual Studio Uninstaller](https://github.com/Microsoft/VisualStudioUninstaller) - Uninstall and clean up all components of Visual Studio.
+*   [Visual Studio Uninstaller (⭐3.9k)](https://github.com/Microsoft/VisualStudioUninstaller) - Uninstall and clean up all components of Visual Studio.
 *   [Fake JSON Server (⭐368)](https://github.com/ttu/dotnet-fake-json-server) - Fake REST API for prototyping or as a CRUD Back End. No need to define types, uses dynamic typing. Data is stored to a single JSON file. Has authentication, WebSocket notifications, async long running operations, random generation for errors/delays and experimental GraphQL support.
 *   [posh-dotnet (⭐43)](https://github.com/bergmeister/posh-dotnet) - `PowerShell` tab completion for the [dotnet CLI (⭐3.5k)](https://github.com/dotnet/cli)
 *   [SmartCode (⭐563)](https://github.com/dotnetcore/SmartCode) - SmartCode = IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including \[**Code generator**])
 *   [NETworkManager (⭐4.2k)](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
 *   [AnyStatus](https://www.anystat.us) - A desktop notifications app for monitoring CI/CD pipelines, servers, network, health and metrics. AnyStatus supports Azure DevOps, Jenkins, TeamCity, AppVeyor and more.
 *   [OctoLinker (⭐5.2k)](https://github.com/OctoLinker/OctoLinker) - Navigate through `project.json`, `packages.config`, `*.props`, `*.targets`, and C#/F#/VB.NET project files efficiently with the OctoLinker browser extension for GitHub.
-*   [YARP](https://github.com/microsoft/reverse-proxy) - YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET.
+*   [YARP (⭐7.3k)](https://github.com/microsoft/reverse-proxy) - YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET.
 *   [JSON Formatter and Validator](https://elmah.io/tools/json-formatter/) - A blazing fast JSON formatter and validator that won't share JSON with a server.
 *   [CSharpier (⭐968)](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier (⭐48k)](https://github.com/prettier/prettier) printing process.
 *   [UnitsNet (⭐2.1k)](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.

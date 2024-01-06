@@ -6,6 +6,18 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 [ Daily / [Weekly](/content/quozd/awesome-dotnet/week/README.md) / [Overview](/content/quozd/awesome-dotnet/readme/README.md) ]
 
+## [Jan 06, 2024](/content/2024/01/06/README.md)
+
+### Office
+
+*   [Syncfusion .NET Word Framework](https://www.syncfusion.com/document-processing/word-framework/net) - A high-performance .NET Word framework without Microsoft Office or interop dependencies. Create, read, and edit Word documents seamlessly. Utilize advanced editor components for easy viewing, editing, and printing. Effortlessly convert Word documents to PDF, HTML, RTF, ODT, and EPUB formats with powerful conversion APIs. **\[$]** **\[[Free for Individuals and Small Businesses](https://www.syncfusion.com/products/communitylicense)]**
+*   [Syncfusion .NET Excel Framework](https://www.syncfusion.com/document-processing/excel-framework/net) - A high-performance .NET Excel framework without Microsoft Office or interop dependencies. Create, read, and edit Excel documents seamlessly. Utilize Spreadsheet controls for creating, editing, and viewing easily. Effortlessly convert Excel files to PDF, images, and more with powerful conversion APIs. **\[$]** **\[[Free for Individuals and Small Businesses](https://www.syncfusion.com/products/communitylicense)]**
+*   [Syncfusion .NET PowerPoint Framework](https://www.syncfusion.com/document-processing/powerpoint-framework/net) - A high-performance .NET PowerPoint framework without Microsoft Office or interop dependencies. Create, read, and edit PowerPoint files seamlessly. Effortlessly convert PowerPoint files to PDFs and images with powerful conversion APIs. **\[$]** **\[[Free for Individuals and Small Businesses](https://www.syncfusion.com/products/communitylicense)]**
+
+### PDF
+
+*   [Syncfusion .NET PDF Framework](https://www.syncfusion.com/document-processing/pdf-framework/net)  - A high-performance .NET PDF framework with no Adobe dependencies. Create, read, and edit PDF files seamlessly. Utilize PDF viewer controls for easy viewing, reviewing, and printing. Effortlessly convert HTML, Word, Excel, PowerPoint files, and images to PDF with powerful conversion APIs. **\[$]** **\[[Free for Individuals and Small Businesses](https://www.syncfusion.com/products/communitylicense)]**
+
 ## [Jan 04, 2024](/content/2024/01/04/README.md)
 
 ### HTTP
@@ -804,7 +816,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Tools
 
-*   [YARP](https://github.com/microsoft/reverse-proxy) - YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET.
+*   [YARP (⭐7.3k)](https://github.com/microsoft/reverse-proxy) - YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET.
 
 ## [Oct 19, 2020](/content/2020/10/19/README.md)
 
@@ -818,7 +830,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Testing
 
-*   [ArchUnitNET (⭐677)](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
+*   [ArchUnitNET (⭐684)](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
 *   [Snapshooter (⭐262)](https://github.com/SwissLife-OSS/snapshooter) - A snapshot testing tool for .NET Core and .NET Framework
 
 ## [Oct 02, 2020](/content/2020/10/02/README.md)
@@ -2831,7 +2843,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Tools
 
-*   [Visual Studio Uninstaller](https://github.com/Microsoft/VisualStudioUninstaller) - Uninstall and clean up all components of Visual Studio.
+*   [Visual Studio Uninstaller (⭐3.9k)](https://github.com/Microsoft/VisualStudioUninstaller) - Uninstall and clean up all components of Visual Studio.
 
 ## [Aug 30, 2016](/content/2016/08/30/README.md)
 
