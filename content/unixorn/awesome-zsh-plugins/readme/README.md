@@ -232,7 +232,7 @@ A ZSH micro plugin manager.
 
 ### [yazt (⭐1)](https://github.com/bashelled/yazt)
 
-**Yazt** is a simple ZSH theme manager in maintence that is compatible with nearly everything. You can use prompts in plugins, mix 'n' match two themes, with a few modifications, you can even use it in `bash`.
+**Yazt** is a simple ZSH theme manager in maintence that is compatible with nearly everything. You can use prompts in plugins, mix 'n' match two themes and with a few modifications, you can even use it in `bash`.
 
 ### [yzsh (⭐0)](https://github.com/yunielrc/yzsh)
 
@@ -260,7 +260,9 @@ A ZSH micro plugin manager.
 
 ### [zgen (⭐1.5k)](https://github.com/tarjoilija/zgen)
 
-**Zgen** is a lightweight plugin manager for ZSH inspired by [Antigen (⭐7.8k)](https://github.com/zsh-users/antigen). The goal is to have minimal overhead when starting up the shell because nobody likes waiting. **It is currently not being actively maintained** and I recommend you use the [zgenom (⭐305)](https://github.com/jandamm/zgenom) fork instead, which is actively maintained and extended.
+**Zgen** is a lightweight plugin manager for ZSH inspired by [Antigen (⭐7.8k)](https://github.com/zsh-users/antigen). The goal is to have minimal overhead when starting up the shell because nobody likes waiting.
+
+**It is currently not being actively maintained** and I recommend you use the [zgenom (⭐305)](https://github.com/jandamm/zgenom) fork instead, which is actively maintained and continutes to get new features.
 
 ### [zgenom (⭐305)](https://github.com/jandamm/zgenom)
 
@@ -403,7 +405,7 @@ Focuses on security and hardening of local system. Requires [fzf (⭐56k)](https
 
 ### [zsh-dot-plugin (⭐0)](https://github.com/DuckzCantFly/zsh-dot-plugin)
 
-Customize your .zshrc with only \~21 lines of code. Based on [zsh-unplugged (⭐270)](https://github.com/mattmc3/zsh_unplugged).
+Customize your `.zshrc` with only \~21 lines of code. Based on [zsh-unplugged (⭐270)](https://github.com/mattmc3/zsh_unplugged).
 
 ### [zshPlug (⭐0)](https://github.com/Atlas34/zshPlug)
 
@@ -1421,7 +1423,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [zredis (⭐1)](https://github.com/zdharma-continuum/zredis) - Adds [Redis](https://redis.io/) database support, with `database_key` <-> `shell_variable` binding. Supports all data types.
 *   [zservice-py3http (⭐4)](https://github.com/z-shell/zservice-py3http) - Serve a given directory with Python 3's http server from the standard library.
 *   [zsh-expand (⭐23)](https://github.com/MenkeTechnologies/zsh-expand) - Expands regular aliases, global aliases and incorrect spellings and phrases with the spacebar key. Native expansions such as globs, command/process substitution, `=command expansion`, history expansion and `$parameters` are also expanded by default but can be turned off.
-*   [zsh-in-docker (⭐764)](https://github.com/deluan/zsh-in-docker) - Automates ZSH + [oh-my-zsh](https://ohmyz.sh/) installation into development containers. Works with Alpine, Ubuntu, Debian, CentOS or Amazon Linux.
+*   [zsh-in-docker (⭐772)](https://github.com/deluan/zsh-in-docker) - Automates ZSH + [oh-my-zsh](https://ohmyz.sh/) installation into development containers. Works with Alpine, Ubuntu, Debian, CentOS or Amazon Linux.
 *   [zsh-not-vim (⭐4)](https://github.com/redxtech/zsh-not-vim) - Provides a function that automatically shames the user for forgetting they weren't in `vim`.
 *   [zsh-select (⭐7)](https://github.com/z-shell/zsh-select) - Displays a selection list. It is similar to `selecta`, but uses the curses library to do display, and when compared to [fzf (⭐56k)](https://github.com/junegunn/fzf), the main difference is approximate matching instead of fuzzy matching.
 *   [zsh-watch (⭐1)](https://github.com/Thearas/zsh-watch) - Simple `watch` that supports alias and completion.
@@ -1723,6 +1725,7 @@ If you're using [Antigen (⭐7.8k)](https://github.com/zsh-users/antigen), you c
 *   [birav2 (⭐1)](https://github.com/shahid64/birav2-theme) - Based on [bira (⭐165k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme). Includes `git`, `rvm` and `virtualenv` status decorations.
 *   [black-Void (⭐325)](https://github.com/black7375/BlaCk-Void-Zsh) - Includes account info, root user, using ssh, directory lotation, write permission, and vcs info decorations.
 *   [blackrain (⭐6)](https://github.com/ginfuru/zsh-blackrain) - Another `git`-aware theme.
+*   [blaze (⭐0)](https://github.com/danieltodor/blaze) - Visually similar to powerline. Requires `make` and `g++`. Works best with your terminal set to use a nerd font. Includes decorators for current directory, execution time of last command, exit status of last command, `git` status information, date, time, username and host. Can be extended with custom segments.
 *   [blazux (⭐2)](https://github.com/blazux/omz-theme) - Includes `git` status decoration and a smiley/sad face indicator of the last command's exit status.
 *   [blinks (max13ft) (⭐0)](https://github.com/max13fr/blinks.zsh-theme) - Adds mercurial support to oh-my-zsh's [blink (⭐0)](https://github.com/max13fr/blinks.zsh-theme) theme.
 *   [blinks-xfan (⭐1)](https://github.com/ixfan/blinks-xfan) - Based on the existing theme [blinks (⭐165k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/blinks.zsh-theme).
@@ -1854,7 +1857,7 @@ If you're using [Antigen (⭐7.8k)](https://github.com/zsh-users/antigen), you c
 *   [duckster (⭐4)](https://github.com/ducky/duckster) - A fork of the [gitster (⭐66)](https://github.com/shashankmehta/dotfiles/blob/master/thesetup/zsh/.oh-my-zsh/custom/themes/gitster.zsh-theme) ZSH theme that's more ducky fresh.
 *   [ducula (⭐34)](https://github.com/janjoswig/Ducula) - Inspired by Dracula project. Includes `git` status decorations, username and hostname abbreviations, virtual environment, current working directory, return status of last command and the time.
 *   [dustmod (⭐1)](https://github.com/bmihaila/dustmod) - Derived from the [dst (⭐165k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/dst.zsh-theme) theme in oh-my-zsh.
-*   [dyzsh (⭐0)](https://github.com/daotoyi/dyzsh-zsh-theme) - Based on astro. Includes decorators for `git` branch & hash, current directory, user, host & time.
+*   [dyzsh (⭐0)](https://github.com/daotoyi/dyzsh-zsh-theme) - Based on [astro (⭐101)](https://github.com/iplaces/astro-zsh-theme). Includes decorators for `git` branch & hash, current directory, user, host & time.
 *   [dzhi (⭐3)](https://github.com/pentago/dzhi-zsh-theme) - Optimized for people using [Nord](https://www.nordtheme.com/). Includes `git` status decorations.
 *   [easytocloud (⭐0)](https://github.com/easytocloud/oh-my-easytocloud) - Based on [agnoster (⭐3.8k)](https://github.com/agnoster/agnoster-zsh-theme). Includes decorators for AWS environment, `git` status, username and the current directory.
 *   [eckig (⭐0)](https://github.com/fouladi/eckig) - Minimalist theme with utf-8 icons. Includes `git` status decorations and a clock.
@@ -1904,7 +1907,7 @@ If you're using [Antigen (⭐7.8k)](https://github.com/zsh-users/antigen), you c
 *   [gaia (⭐5)](https://github.com/gcaracuel/gaia.zsh-theme) - Originally a fork of [Bureau (⭐33)](https://github.com/isqua/bureau) adds new virtual environments info to the prompt: Kubernetes, virtualenv, rbenv and Java versions. Includes `git` status integration.
 *   [gabriel2m (⭐0)](https://github.com/gabriel2m/gabriel2m-oh-my-zsh-theme) - Minimalist theme with decorators for the current directory and `git` status.
 *   [gal (⭐1)](https://github.com/x6r/gal) - Minimalist theme based on [gallois (⭐165k)](https://github.com/ohmyzsh/ohmyzsh/commits/master/themes/gallois.zsh-theme).
-*   [gallifrey-war (⭐0)](https://github.com/cdubos-fr/gallifrey-war) - Inspired by [gallifrey](https://github.com/unixorn/awesome-zsh-plugins/blob/main/README.md/). Includes decorators for `git` information, user\@host and current directory.
+*   [gallifrey-war (⭐0)](https://github.com/cdubos-fr/gallifrey-war) - Inspired by [gallifrey (⭐165k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#gallifrey). Includes decorators for `git` information, user\@host and current directory.
 *   [garden (⭐1)](https://github.com/fecat233/garden) - Works better with a dark terminal background, includes `git` status decorations.
 *   [garrett (⭐155)](https://github.com/chauncey-garrett/zsh-prompt-garrett) - Prezto prompt with the information you need the moment you need it.
 *   [gawaine (⭐3)](https://github.com/nicolaracco/gawaine.zsh-theme) - Nicola Racco's theme. Requires `rvm` & `git` plugins.
@@ -2217,6 +2220,7 @@ If you're using [Antigen (⭐7.8k)](https://github.com/zsh-users/antigen), you c
 *   [omuse (⭐1)](https://github.com/ouuan/omuse-zsh-theme) - Based on Oh-My-ZSH's [amuse (⭐165k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/amuse.zsh-theme). Has decorations for `git` status, time, absolute pwd, RAM usage, time used by last command, and last command exit status.
 *   [ortiz (andres-ortizl) (⭐4)](https://github.com/andres-ortizl/ortiz-zsh-theme) - Fork of [eriner (⭐16)](https://github.com/zimfw/eriner) with decorations for the interval between commands and k8s context.
 *   [ortiz (guezwhoz) (⭐62)](https://github.com/guesswhozzz/guezwhoz-zsh-theme) - Simplified fork of [eriner (⭐16)](https://github.com/zimfw/eriner) with `git` status, `kubectl` context and elapsed time decorations.
+*   [osx2 (⭐0)](https://github.com/RizkiIqbal02/zsh-theme-custom) - Based on archcraft. Minimalist. Includes decorator for current directory.
 *   [otter (⭐2)](https://github.com/OtterArkar/otter-zsh/) - Otter-themed theme with `git` status, user\@host and current directory decorators.
 *   [outer space (⭐1)](https://github.com/skippyr/outer_space) - Includes decorators for user\@hostname, active python virtual environment,current directory and `git` status.
 *   [owczarczak (⭐0)](https://github.com/ThemysciraData/owczarczak.zsh-theme) - Inspired by bira, dieter and [fino-time (⭐165k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/fino-time.zsh-theme). Includes `venv` and vcs status decorations.

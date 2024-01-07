@@ -16,6 +16,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [The Cherno's C++ Playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - Extensive C++ tutorial series by The Cherno.
 
+### Weblogs
+
+*   [C++ Team Blog](https://devblogs.microsoft.com/cppblog/) - Dev blog from the Microsoft Visual C++ team
+
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Frameworks

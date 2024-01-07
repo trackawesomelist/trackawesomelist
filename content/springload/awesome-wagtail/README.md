@@ -6,6 +6,12 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 [ Daily / [Weekly](/content/springload/awesome-wagtail/week/README.md) / [Overview](/content/springload/awesome-wagtail/readme/README.md) ]
 
+## [Jan 07, 2024](/content/2024/01/07/README.md)
+
+### Tools / Templates & Starter Kits
+
+*   [Wagtail Quickstart with docker (⭐2)](https://github.com/saevarom/wagtail-start-docker) - A template repository to get started quickly with the latest Wagtail in docker.
+
 ## [Jan 04, 2024](/content/2024/01/04/README.md)
 
 ### Tools / Templates & Starter Kits
@@ -512,7 +518,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 ### Apps / Misc
 
 *   [Wagtail Cache (⭐76)](https://github.com/coderedcorp/wagtail-cache) - A simple page cache for Wagtail using the Django cache middleware.
-*   [Wagtail GraphQL](https://github.com/tr11/wagtail-graphql) - App to automatically add GraphQL support to a Wagtail website.
+*   [Wagtail GraphQL (⭐38)](https://github.com/tr11/wagtail-graphql) - App to automatically add GraphQL support to a Wagtail website.
 *   [Wagtail Orderable (⭐60)](https://github.com/elton2048/wagtail-orderable) - Mixin support for drag-and-drop ordering in admin panel.
 
 ### Resources / Getting started

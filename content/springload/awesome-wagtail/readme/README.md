@@ -239,6 +239,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 *   [Wagtail Tailwind & Stimulus blog (⭐354)](https://github.com/AccordBox/wagtail-tailwind-blog) - A Wagtail blog based on Tailwind CSS, Stimulus, it supports Markdown, Latex and user comments.
 *   [Wagtail for Platform.sh (⭐3)](https://github.com/platformsh-templates/wagtail) - Wagtail template for Platform.sh.
 *   [cookiecutter-wagtail-vix (⭐19)](https://github.com/engineervix/cookiecutter-wagtail-vix) - A matteries-included, reusable project skeleton to serve as a starting point for a Wagtail project.
+*   [Wagtail Quickstart with docker (⭐2)](https://github.com/saevarom/wagtail-start-docker) - A template repository to get started quickly with the latest Wagtail in docker.
 
 ## Resources
 

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Jan 07, 2024](/content/2024/01/07/README.md)
+
+### Design and Product / Screencapturing Software
+
+*   [Zappy](https://zapier.com/zappy) - Zappy is a screenshot and screen recording app all in one. Has some simple editing tools built in.
+
 ## [Jan 05, 2024](/content/2024/01/05/README.md)
 
 ### Education / Audio Record and Process

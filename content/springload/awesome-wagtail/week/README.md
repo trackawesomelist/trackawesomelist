@@ -11,6 +11,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 ### Tools / Templates & Starter Kits
 
 *   [cookiecutter-wagtail-vix (⭐19)](https://github.com/engineervix/cookiecutter-wagtail-vix) - A matteries-included, reusable project skeleton to serve as a starting point for a Wagtail project.
+*   [Wagtail Quickstart with docker (⭐2)](https://github.com/saevarom/wagtail-start-docker) - A template repository to get started quickly with the latest Wagtail in docker.
 
 ## [Dec 18 - Dec 24, 2023](/content/2023/51/README.md)
 
@@ -502,7 +503,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 ### Apps / Misc
 
 *   [Wagtail Cache (⭐76)](https://github.com/coderedcorp/wagtail-cache) - A simple page cache for Wagtail using the Django cache middleware.
-*   [Wagtail GraphQL](https://github.com/tr11/wagtail-graphql) - App to automatically add GraphQL support to a Wagtail website.
+*   [Wagtail GraphQL (⭐38)](https://github.com/tr11/wagtail-graphql) - App to automatically add GraphQL support to a Wagtail website.
 *   [Wagtail Orderable (⭐60)](https://github.com/elton2048/wagtail-orderable) - Mixin support for drag-and-drop ordering in admin panel.
 
 ### Resources / Getting started
