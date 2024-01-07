@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jan 07, 2024](/content/2024/01/07/README.md)
+
+### Libraries / Data streaming
+
+*   [iggy-rs/iggy (⭐1.3k)](https://github.com/iggy-rs/iggy) \[[iggy](https://crates.io/crates/iggy)] — Persistent message streaming platform, supporting QUIC, TCP and HTTP transport protocols [![CI](https://github.com/iggy-rs/iggy/actions/workflows/test.yml/badge.svg)](https://github.com/iggy-rs/iggy/actions/workflows/test.yml)
+
 ## [Jan 04, 2024](/content/2024/01/04/README.md)
 
 ### Applications / Cryptocurrencies
@@ -2268,7 +2274,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Web Servers
 
-*   [rust-lang/rustfix (⭐859)](https://github.com/rust-lang/rustfix)  — automatically applies the suggestions made by rustc
+*   [rust-lang/rustfix (⭐860)](https://github.com/rust-lang/rustfix)  — automatically applies the suggestions made by rustc
 *   [Rustup (⭐5.7k)](https://github.com/rust-lang/rustup) — the Rust toolchain installer [![build badge](https://github.com/rust-lang/rustup/workflows/Linux%20\(master\)/badge.svg?branch=master)](https://github.com/rust-lang/rustup/actions)
 
 ### Development tools / FFI

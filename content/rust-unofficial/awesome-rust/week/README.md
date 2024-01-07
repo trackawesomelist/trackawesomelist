@@ -24,6 +24,10 @@ A curated list of Rust code and resources.
 
 *   [kata-containers/kata-containers (⭐4.5k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
 
+### Libraries / Data streaming
+
+*   [iggy-rs/iggy (⭐1.3k)](https://github.com/iggy-rs/iggy) \[[iggy](https://crates.io/crates/iggy)] — Persistent message streaming platform, supporting QUIC, TCP and HTTP transport protocols [![CI](https://github.com/iggy-rs/iggy/actions/workflows/test.yml/badge.svg)](https://github.com/iggy-rs/iggy/actions/workflows/test.yml)
+
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Applications / Audio and Music
@@ -2023,7 +2027,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Web Servers
 
-*   [rust-lang/rustfix (⭐859)](https://github.com/rust-lang/rustfix)  — automatically applies the suggestions made by rustc
+*   [rust-lang/rustfix (⭐860)](https://github.com/rust-lang/rustfix)  — automatically applies the suggestions made by rustc
 *   [Rustup (⭐5.7k)](https://github.com/rust-lang/rustup) — the Rust toolchain installer [![build badge](https://github.com/rust-lang/rustup/workflows/Linux%20\(master\)/badge.svg?branch=master)](https://github.com/rust-lang/rustup/actions)
 
 ### Development tools / FFI

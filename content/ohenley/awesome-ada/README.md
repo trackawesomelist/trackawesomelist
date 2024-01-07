@@ -6,6 +6,12 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 [ Daily / [Weekly](/content/ohenley/awesome-ada/week/README.md) / [Overview](/content/ohenley/awesome-ada/readme/README.md) ]
 
+## [Jan 07, 2024](/content/2024/01/07/README.md)
+
+### Graphical User Interface / Apache License
+
+*   [vtk-ada](https://r3fowwcolhrzycn2yzlzzw.on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 port to VTK 8.1 (Visualization Toolkit).
+
 ## [Jan 03, 2024](/content/2024/01/03/README.md)
 
 ### Reference
@@ -1073,10 +1079,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### News and Resources
 
 *   [adacore-blog](https://blog.adacore.com/) - An insight into the AdaCore ecosystem.
-
-### Graphical User Interface / Apache License
-
-*   [vtk-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 port to VTK 8.1 (Visualization Toolkit).
 
 ## [Jan 05, 2019](/content/2019/01/05/README.md)
 

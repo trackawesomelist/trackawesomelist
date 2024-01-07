@@ -1003,6 +1003,7 @@ Any comments, suggestions? [Let us know! (⭐66k)](https://github.com/jaywcjlove
 *   [SlowQuitApps (⭐1.1k)](https://github.com/dteoh/SlowQuitApps) - An OS X app that adds a global delay of 1 second to the Cmd-Q shortcut. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dteoh/SlowQuitApps)
 *   [Speediness](https://sindresorhus.com/speediness) - Check your internet speed. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1596706466)
 *   [Ultra TabSaver (⭐249)](https://github.com/Swift-open-source/UltraTabSaver) - The Open Source Tab Manager for Safari [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swift-open-source/UltraTabSaver)
+*   [CapsLockNoDelay (⭐266)](https://github.com/gkpln3/CapsLockNoDelay) - Removes caps-lock key activation delay for fast typers. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gkpln3/CapsLockNoDelay)
 
 ### To-Do Lists
 

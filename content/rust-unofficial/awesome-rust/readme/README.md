@@ -593,7 +593,7 @@ See also [A comparison of operating systems written in Rust (⭐601)](https://gi
 *   [ptags (⭐121)](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository
 *   [Racer (⭐3.4k)](https://github.com/racer-rust/racer) — code completion for Rust
 *   [Rust Search Extension (⭐1.1k)](https://github.com/huhu/rust-search-extension) — A handy browser extension to search crates and docs in address bar (omnibox). [![Build Status](https://github.com/huhu/rust-search-extension/workflows/build/badge.svg?branch=master)](https://github.com/huhu/rust-search-extension/actions)
-*   [rust-lang/rustfix (⭐859)](https://github.com/rust-lang/rustfix)  — automatically applies the suggestions made by rustc
+*   [rust-lang/rustfix (⭐860)](https://github.com/rust-lang/rustfix)  — automatically applies the suggestions made by rustc
 *   [Rustup (⭐5.7k)](https://github.com/rust-lang/rustup) — the Rust toolchain installer [![build badge](https://github.com/rust-lang/rustup/workflows/Linux%20\(master\)/badge.svg?branch=master)](https://github.com/rust-lang/rustup/actions)
 *   [scriptisto (⭐336)](https://github.com/igor-petruk/scriptisto) A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
 
@@ -1105,6 +1105,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 ### Data streaming
 
 *   [ArroyoSystems/arroyo (⭐2.8k)](https://github.com/ArroyoSystems/arroyo) - High-performance real-time analytics in Rust and SQL [![CI](https://github.com/ArroyoSystems/arroyo/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/ArroyoSystems/arroyo/actions)
+*   [iggy-rs/iggy (⭐1.3k)](https://github.com/iggy-rs/iggy) \[[iggy](https://crates.io/crates/iggy)] — Persistent message streaming platform, supporting QUIC, TCP and HTTP transport protocols [![CI](https://github.com/iggy-rs/iggy/actions/workflows/test.yml/badge.svg)](https://github.com/iggy-rs/iggy/actions/workflows/test.yml)
 *   [infinyon/fluvio (⭐2.3k)](https://github.com/infinyon/fluvio) - Programmable data streaming platform [![CI](https://github.com/infinyon/fluvio/workflows/CI/badge.svg?branch=stable)](https://github.com/infinyon/fluvio/actions)
 
 ### Data structures

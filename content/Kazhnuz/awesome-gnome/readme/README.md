@@ -317,6 +317,10 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Bibata (⭐1.5k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
 *   [Capitaine Cursors (⭐1k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
+### Themes for non-GTK apps
+
+*   [Obsidian Adwaita Theme (⭐86)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
+
 ## Community
 
 ### Official Venues

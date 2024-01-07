@@ -6,6 +6,12 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 [ [Daily](/content/Kazhnuz/awesome-gnome/README.md) / Weekly / [Overview](/content/Kazhnuz/awesome-gnome/readme/README.md) ]
 
+## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
+
+### Themes for non-GTK apps / Skeumorphic Icons
+
+*   [Obsidian Adwaita Theme (⭐86)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
+
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Internet and Networking

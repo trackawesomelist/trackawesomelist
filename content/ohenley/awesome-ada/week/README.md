@@ -12,6 +12,10 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 *   [iso-standard](http://www.ada-auth.org/standards/ada22.html) - The 2022 revision to the Ada Standard, usually known as Ada 2022.
 
+### Graphical User Interface / Apache License
+
+*   [vtk-ada](https://r3fowwcolhrzycn2yzlzzw.on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 port to VTK 8.1 (Visualization Toolkit).
+
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Continuous Integration / Apache License
@@ -1029,10 +1033,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### News and Resources
 
 *   [adacore-blog](https://blog.adacore.com/) - An insight into the AdaCore ecosystem.
-
-### Graphical User Interface / Apache License
-
-*   [vtk-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 port to VTK 8.1 (Visualization Toolkit).
 
 ## [Jan 07 - Jan 13, 2019](/content/2019/1/README.md)
 

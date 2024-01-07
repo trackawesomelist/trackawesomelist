@@ -24,6 +24,10 @@
 
 *   [Wokabulary](https://wokabulary.com/) - Collect, practice, and organize your individual foreign language vocabulary. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/apple-store/id1667619825)
 
+### Utilities / General Tools
+
+*   [CapsLockNoDelay (⭐266)](https://github.com/gkpln3/CapsLockNoDelay) - Removes caps-lock key activation delay for fast typers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/gkpln3/CapsLockNoDelay)
+
 ### Gaming Software / System Related Tools
 
 *   [Whisky](https://getwhisky.app/) - Wine wrapper that supports GPTK (Game Porting Toolkit) [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Whisky-App/Whisky)

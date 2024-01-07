@@ -12,6 +12,10 @@
 
 *   [Zappy](https://zapier.com/zappy) - Zappy is a screenshot and screen recording app all in one. Has some simple editing tools built in.
 
+### Utilities / General Tools
+
+*   [CapsLockNoDelay (⭐266)](https://github.com/gkpln3/CapsLockNoDelay) - Removes caps-lock key activation delay for fast typers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/gkpln3/CapsLockNoDelay)
+
 ## [Jan 05, 2024](/content/2024/01/05/README.md)
 
 ### Education / Audio Record and Process
