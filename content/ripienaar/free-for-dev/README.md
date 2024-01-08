@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jan 08, 2024](/content/2024/01/08/README.md)
+
+### APIs, Data, and ML
+
+*   [Data Dead Drop](https://datadeaddrop.com) - Simple, free file sharing. Data self-destroys after access. Upload and download data via the browser or your favorite command line client.
+
 ## [Jan 03, 2024](/content/2024/01/03/README.md)
 
 ### APIs, Data, and ML

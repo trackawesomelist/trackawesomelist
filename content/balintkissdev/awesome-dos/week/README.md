@@ -6,6 +6,12 @@ Curated list of references for development of DOS applications.
 
 [ [Daily](/content/balintkissdev/awesome-dos/README.md) / Weekly / [Overview](/content/balintkissdev/awesome-dos/readme/README.md) ]
 
+## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
+
+### Development tools
+
+*   [GCC IA-16 toolchain](https://gitlab.com/tkchia/build-ia16/-/releases) - A 16-bit counterpart to DJGPP, a GCC-based toolchain for developing 16-bit (8086 to 80286, a.k.a. IA-16) DOS applications, currently maintained by TK Chia.
+
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Homebrew games with source code / Sound Blaster/OPL3

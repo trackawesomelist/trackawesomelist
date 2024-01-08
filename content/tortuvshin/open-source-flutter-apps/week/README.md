@@ -6,6 +6,12 @@
 
 [ [Daily](/content/tortuvshin/open-source-flutter-apps/README.md) / Weekly / [Overview](/content/tortuvshin/open-source-flutter-apps/readme/README.md) ]
 
+## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
+
+### Contents / Entertainment
+
+*   [Get Games (⭐3)](https://github.com/regenin/get_games) - Flutter app showing free and discounted games, find the cheapest store by [regenin](https://github.com/regenin).
+
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Contents / Shopping
