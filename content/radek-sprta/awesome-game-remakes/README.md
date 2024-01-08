@@ -6,6 +6,12 @@ Actively maintained open-source game remakes.
 
 [ Daily / [Weekly](/content/radek-sprta/awesome-game-remakes/week/README.md) / [Overview](/content/radek-sprta/awesome-game-remakes/readme/README.md) ]
 
+## [Jan 08, 2024](/content/2024/01/08/README.md)
+
+### Action
+
+*   [OpenRW](https://openrw.org/) - A cross-platform, open source re-implementation of Rockstar Games' Grand Theft Auto III.
+
 ## [Jan 07, 2024](/content/2024/01/07/README.md)
 
 ### FPS
