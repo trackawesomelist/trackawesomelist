@@ -6,6 +6,13 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 [ Daily / [Weekly](/content/Kazhnuz/awesome-gnome/week/README.md) / [Overview](/content/Kazhnuz/awesome-gnome/readme/README.md) ]
 
+## [Jan 09, 2024](/content/2024/01/09/README.md)
+
+### Themes for non-GTK apps / Skeumorphic Icons
+
+*   [Adwaita for Steam (⭐950)](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
+*   [Adwaita theme for VS Code (⭐118)](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
+
 ## [Jan 07, 2024](/content/2024/01/07/README.md)
 
 ### Themes for non-GTK apps / Skeumorphic Icons
@@ -525,7 +532,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ## [Jul 10, 2019](/content/2019/07/10/README.md)
 
-### Third-party Apps Plugins / Design Tooling
+### Themes for non-GTK apps / Skeumorphic Icons
 
 *   [Firefox GNOME Theme (⭐3k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
 

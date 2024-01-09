@@ -41,6 +41,7 @@ A curated list of awesome tools, utils and projects using Playwright
 *   [artillery-engine-playwright (⭐7.1k)](https://github.com/artilleryio/artillery/tree/main/packages/artillery-engine-playwright) - Load testing with Playwright.
 *   [playwright-bdd (⭐112)](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner and CucumberJS.
 *   [Serenity/JS](https://serenity-js.org) - Acceptance testing, reporting, and test integration framework for Playwright, implementing the [Screenplay Pattern](https://serenity-js.org/handbook/design/screenplay-pattern/).
+*   [@guidepup/playwright (⭐32)](https://github.com/guidepup/guidepup-playwright) - VoiceOver and NVDA screen reader driver integration for Playwright.
 
 ## Language Support
 

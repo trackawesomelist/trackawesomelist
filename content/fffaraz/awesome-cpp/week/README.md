@@ -32,6 +32,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [RedPanda (⭐8.2k)](https://github.com/redpanda-data/redpanda) - Streaming data platform for developers. Kafka API compatible. 10x faster. \[BSL]
 *   [UCall (⭐921)](https://github.com/unum-cloud/ucall) - A high-performance SIMD-accelerated RPC library on io\_uring. \[Apache2]
 
+### Scripting
+
+*   [LuaBridge3 (⭐181)](https://github.com/kunitoki/LuaBridge3) - A lightweight, dependency-free library for binding Lua, LuaJIT, Luau and Ravi to C++. \[MIT]
+
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
 ### Physics

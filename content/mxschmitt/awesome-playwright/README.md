@@ -6,6 +6,12 @@ A curated list of awesome tools, utils and projects using Playwright
 
 [ Daily / [Weekly](/content/mxschmitt/awesome-playwright/week/README.md) / [Overview](/content/mxschmitt/awesome-playwright/readme/README.md) ]
 
+## [Jan 09, 2024](/content/2024/01/09/README.md)
+
+### Integrations
+
+*   [@guidepup/playwright (⭐32)](https://github.com/guidepup/guidepup-playwright) - VoiceOver and NVDA screen reader driver integration for Playwright.
+
 ## [Dec 27, 2023](/content/2023/12/27/README.md)
 
 ### Integrations

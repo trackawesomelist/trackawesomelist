@@ -6,6 +6,16 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jan 09, 2024](/content/2024/01/09/README.md)
+
+### AI Tools for Research / Multi-agents
+
+*   [Sourcely](https://www.sourcely.net/): Academic Citation Finding Tool with AI
+
+### Auxiliary tools and concepts / Deforum
+
+*   [Room Reinvented](https://roomreinvented.com): Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
+
 ## [Dec 28, 2023](/content/2023/12/28/README.md)
 
 ### Auxiliary tools and concepts / Deforum
