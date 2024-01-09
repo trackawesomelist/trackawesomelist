@@ -6,6 +6,12 @@
 
 [ [Daily](/content/jaywcjlove/awesome-mac/README.md) / Weekly / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
+
+### Reading and Writing Tools / Others
+
+*   [SwifDoo PDF](https://www.swifdoo.com/) - The best PDF Editor/converter that’ll help you transform your PDF file, edit it, compress, or password-protect it in just a couple of simple steps
+
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
 ### Developer Tools / Virtualization

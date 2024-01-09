@@ -371,6 +371,8 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [unplugin-vue-images (⭐5)](https://github.com/vtrbo/unplugin-vue-images) - Use the image resource as a component.
 *   [vite-plugin-lqip (⭐13)](https://github.com/drwpow/vite-plugin-lqip) - Generate low quality image placeholders (LQIP).
 *   [vite-plugin-ms-clarity (⭐1)](https://github.com/KermanX/vite-plugin-ms-clarity) - Inject the Microsoft Clarity script to `index.html`.
+*   [@cyco130/vite-plugin-mdx (⭐6)](https://github.com/cyco130/vite-plugin-mdx) - Import MDX.
+*   [vite-awesome-svg-loader (⭐0)](https://github.com/matafokka/vite-awesome-svg-loader) - Imports SVGs as source code, base64 and data URI. Preserves stroke width, replaces colors with currentColor. Optimizes SVGs with SVGO. Creates SVG sprites.
 
 #### Bundling
 
@@ -449,6 +451,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-plugin-console-line (⭐1)](https://github.com/lq9958/vite-plugin-console-line) - Add **console.log()** file location and line number infomation in browser's console.
 *   [vite-plugin-public-typescript (⭐7)](https://github.com/hemengke1997/vite-plugin-public-typescript) - Inject Typescript into `index.html`.
 *   [unplugin-generate-component-name (⭐13)](https://github.com/CCherry07/unplugin-generate-component-name) - Automatically generate component's name.
+*   [@laynezh/vite-plugin-lib-assets (⭐38)](https://github.com/laynezh/vite-plugin-lib-assets) - Extracts resource files referenced in `library mode` instead of embedded them as base64.
 
 #### Helpers
 
@@ -858,6 +861,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### Node.js
 
 *   [vite-express (⭐367)](https://github.com/szymmis/vite-express) - Integration for Express web apps.
+*   [vite-manifest-parser (⭐1)](https://github.com/sullay/vite-manifest-parser) - Parses manifest.json to generate HTML script and link tags.
 
 ### ASP.NET Core
 

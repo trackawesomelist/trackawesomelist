@@ -6,6 +6,20 @@ A curated list of Artificial Intelligence Top Tools
 
 [ Daily / [Weekly](/content/mahseema/awesome-ai-tools/week/README.md) / [Overview](/content/mahseema/awesome-ai-tools/readme/README.md) ]
 
+## [Jan 09, 2024](/content/2024/01/09/README.md)
+
+### Text / Writing assistants
+
+*   [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
+
+### Text / Academia
+
+*   [Sourcely](https://www.sourcely.net/) - Academic Citation Finding Tool with AI
+
+### Image / Services
+
+*   [Room Reinvented](https://roomreinvented.com) - Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
+
 ## [Dec 28, 2023](/content/2023/12/28/README.md)
 
 ### Text / Chatbots
@@ -24,7 +38,7 @@ A curated list of Artificial Intelligence Top Tools
 
 ### Text / Writing assistants
 
-*   [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics
+*   [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
 
 ### Text / Productivity
 

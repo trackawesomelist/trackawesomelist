@@ -33,6 +33,7 @@ Collections of awesome neovim plugins.
     *   [YAML](#yaml)
     *   [Web Development](#web-development)
     *   [Markdown and LaTeX](#markdown-and-latex)
+    *   [PHP](#php)
 *   [Language](#language)
 *   [Syntax](#syntax)
 *   [Snippet](#snippet)
@@ -206,7 +207,6 @@ Collections of awesome neovim plugins.
 
 *   [Julian/lean.nvim (⭐170)](https://github.com/Julian/lean.nvim) - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
 *   [akinsho/flutter-tools.nvim (⭐750)](https://github.com/akinsho/flutter-tools.nvim) - Build Flutter and Dart applications using the native LSP.
-*   [gbprod/phpactor.nvim (⭐42)](https://github.com/gbprod/phpactor.nvim) - Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features.
 *   [brendalf/mix.nvim (⭐25)](https://github.com/brendalf/mix.nvim) - Mix (from Elixir) wrapper plugin.
 *   [AckslD/swenv.nvim (⭐146)](https://github.com/AckslD/swenv.nvim) - Tiny plugin to quickly switch Python virtual environments without restarting.
 *   [roobert/f-string-toggle.nvim (⭐22)](https://github.com/roobert/f-string-toggle.nvim) - Toggle python f-strings.
@@ -261,6 +261,11 @@ Collections of awesome neovim plugins.
 *   [Zeioth/markmap.nvim (⭐100)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
 *   [tadmccorkle/markdown.nvim (⭐23)](https://github.com/tadmccorkle/markdown.nvim) - Configurable tools for markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more.
 *   [mpas/marp-nvim (⭐2)](https://github.com/mpas/marp-nvim) - Present using markdown with [Marp](https://marp.app/).
+
+### PHP
+
+*   [gbprod/phpactor.nvim (⭐42)](https://github.com/gbprod/phpactor.nvim) - Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features.
+*   [ta-tikoma/php.easy.nvim (⭐0)](https://github.com/ta-tikoma/php.easy.nvim) - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
 
 ## Language
 

@@ -85,7 +85,8 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 *   [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
 *   [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 *   [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
-*   [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics
+*   [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
+*   [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
 
 ### ChatGPT extensions
 
@@ -128,6 +129,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 *   [Explainpaper](https://www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
 *   [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. [Model API (⭐2.6k)](https://github.com/paperswithcode/galai).
 *   [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
+*   [Sourcely](https://www.sourcely.net/) - Academic Citation Finding Tool with AI
 
 ### Customer Support
 
@@ -208,6 +210,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 *   [Human Generator](https://generated.photos/human-generator) - AI generator or realistic looking photos of humans.
 *   [VectorArt.ai](https://vectorart.ai) - Create vector images with AI.
 *   [StockPhotoAI.net](https://www.stockphotoai.net/?ref=mahseema-awesome-ai-tools) - Great stock photos, made for you.
+*   [Room Reinvented](https://roomreinvented.com) - Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
 
 ### Graphic design
 

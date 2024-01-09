@@ -6,6 +6,13 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ [Daily](/content/ddotta/awesome-polars/README.md) / Weekly / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
+
+### Official documentation
+
+*   [Documentation for Node.js API](https://pola-rs.github.io/nodejs-polars/index.html) - Official API Reference for Node.js.
+*   [Shared library plugins for Polars (⭐166)](https://github.com/pola-rs/pyo3-polars).
+
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Resources / Blog posts
@@ -350,8 +357,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 *   [Documentation](https://pola-rs.github.io/polars-book/user-guide/) - Official user guide for Python, Rust and R.
 *   [Documentation for Python API ](https://pola-rs.github.io/polars/py-polars/html/reference/) - Official API Reference for Python.
 *   [Documentation for Rust API ](https://pola-rs.github.io/polars/polars/) - Official API Reference for Rust.
-*   [Documentation for Node.js API ](https://pola-rs.github.io/nodejs-polars/index.html) - Official API Reference for Node.js.
-*   [Documentation for R API ](https://rpolars.github.io/reference/index.html) - Official API Reference for R (WIP).
+*   [Documentation for R API ](https://rpolars.github.io/reference/index.html) - Official API Reference for R.
 *   [Github: Polars Github Organization](https://github.com/pola-rs) - Official Polars Github repository.
 *   [Blog posts from Polars](https://www.pola.rs/posts/) - Official blogs posts from Polars.
 

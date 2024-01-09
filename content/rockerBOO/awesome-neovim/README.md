@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jan 09, 2024](/content/2024/01/09/README.md)
+
+### PHP / Diagnostics
+
+*   [ta-tikoma/php.easy.nvim (⭐0)](https://github.com/ta-tikoma/php.easy.nvim) - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
+
 ## [Jan 08, 2024](/content/2024/01/08/README.md)
 
 ### Editing Support / Diagnostics
@@ -1882,7 +1888,6 @@ Collections of awesome neovim plugins.
 ### Programming Languages Support / Diagnostics
 
 *   [akinsho/flutter-tools.nvim (⭐750)](https://github.com/akinsho/flutter-tools.nvim) - Build Flutter and Dart applications using the native LSP.
-*   [gbprod/phpactor.nvim (⭐42)](https://github.com/gbprod/phpactor.nvim) - Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features.
 *   [brendalf/mix.nvim (⭐25)](https://github.com/brendalf/mix.nvim) - Mix (from Elixir) wrapper plugin.
 *   [AckslD/swenv.nvim (⭐146)](https://github.com/AckslD/swenv.nvim) - Tiny plugin to quickly switch Python virtual environments without restarting.
 *   [gennaro-tedesco/nvim-jqx (⭐261)](https://github.com/gennaro-tedesco/nvim-jqx) - Interactive interface for JSON files.
@@ -1905,6 +1910,10 @@ Collections of awesome neovim plugins.
 
 *   [NTBBloodbath/rest.nvim (⭐986)](https://github.com/NTBBloodbath/rest.nvim) - A fast Neovim HTTP client written in Lua.
 *   [ray-x/web-tools.nvim (⭐114)](https://github.com/ray-x/web-tools.nvim) - Launch a local development server with live reload feature for static & dynamic pages, HTML & CSS tag rename with LSP.
+
+### PHP / Diagnostics
+
+*   [gbprod/phpactor.nvim (⭐42)](https://github.com/gbprod/phpactor.nvim) - Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features.
 
 ### Language / Diagnostics
 

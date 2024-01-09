@@ -8,6 +8,10 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jan 09, 2024](/content/2024/01/09/README.md)
 
+### Critical Views about Generative AI
+
+*   [Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum](https://spectrum.ieee.org/midjourney-copyright): "Experiments with Midjourney and DALL-E 3 show a copyright minefield"
+
 ### AI Tools for Research / Multi-agents
 
 *   [Sourcely](https://www.sourcely.net/): Academic Citation Finding Tool with AI

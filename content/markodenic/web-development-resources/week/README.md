@@ -6,6 +6,14 @@ Awesome Web Development Resources.
 
 [ [Daily](/content/markodenic/web-development-resources/README.md) / Weekly / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
 
+## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
+
+### Code Editors:
+
+- Website: [CodeLobster](https://codelobster.com/)
+
+
+
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
 ### Online Tools:

@@ -6,6 +6,21 @@
 
 [ [Daily](/content/vitejs/awesome-vite/README.md) / Weekly / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
+
+### Framework-agnostic Plugins / Loaders
+
+*   [@cyco130/vite-plugin-mdx (⭐6)](https://github.com/cyco130/vite-plugin-mdx) - Import MDX.
+*   [vite-awesome-svg-loader (⭐0)](https://github.com/matafokka/vite-awesome-svg-loader) - Imports SVGs as source code, base64 and data URI. Preserves stroke width, replaces colors with currentColor. Optimizes SVGs with SVGO. Creates SVG sprites.
+
+### Framework-agnostic Plugins / Transformers
+
+*   [@laynezh/vite-plugin-lib-assets (⭐38)](https://github.com/laynezh/vite-plugin-lib-assets) - Extracts resource files referenced in `library mode` instead of embedded them as base64.
+
+### Node.js / Community
+
+*   [vite-manifest-parser (⭐1)](https://github.com/sullay/vite-manifest-parser) - Parses manifest.json to generate HTML script and link tags.
+
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Templates / Vanilla
