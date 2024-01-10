@@ -6,6 +6,13 @@ A list of awesome resources for tmux
 
 [ Daily / [Weekly](/content/rothgar/awesome-tmux/week/README.md) / [Overview](/content/rothgar/awesome-tmux/readme/README.md) ]
 
+## [Jan 10, 2024](/content/2024/01/10/README.md)
+
+### Themes
+
+*   [rose-pine (⭐55)](https://github.com/rose-pine/tmux) - Soho vibes for tmux
+*   [tmux-kanagawa (⭐12)](https://github.com/Nybkox/tmux-kanagawa): Dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
+
 ## [Dec 26, 2023](/content/2023/12/26/README.md)
 
 ### Tools and session management

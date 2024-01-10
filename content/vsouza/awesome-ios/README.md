@@ -6,6 +6,12 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 
 [ Daily / [Weekly](/content/vsouza/awesome-ios/week/README.md) / [Overview](/content/vsouza/awesome-ios/readme/README.md) ]
 
+## [Jan 10, 2024](/content/2024/01/10/README.md)
+
+### Analytics
+
+*   [Aptabase](https://aptabase.com/for-swift) - Open Source, Privacy-First and Simple Analytics for Swift Apps.
+
 ## [Jan 05, 2024](/content/2024/01/05/README.md)
 
 ### Text
@@ -535,10 +541,6 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 ### Blockchain
 
 *   [EthereumKit (⭐469)](https://github.com/yuzushioh/EthereumKit) - EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.
-
-### Bridging
-
-*   [Xamarin](https://xamarin.com/) - Xamarin is a free, cross-platform, open-source platform that lets you quickly develop and test native iOS, watchOS and macOS applications for iPhone, iPad, Watch and Mac, all using the C# language.
 
 ### iBeacon
 
@@ -1162,32 +1164,25 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 *   [EtherWalletKit (⭐142)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
 *   [Web3.swift (⭐588)](https://github.com/Boilertalk/Web3.swift) - Web3 library for interacting with the Ethereum blockchain.
 
-### Bridging
-
-*   [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and macOS applications for iPhone, iPad and Mac, all using the Ruby language.
-*   [JSPatch (⭐11k)](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
-*   [WebViewJavascriptBridge (⭐14k)](https://github.com/marcuswestin/WebViewJavascriptBridge) - An iOS/macOS bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews.
-*   [MAIKit (⭐137)](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and macOS.
-
 ### Cache
 
 *   [Awesome Cache (⭐1.3k)](https://github.com/aschuch/AwesomeCache) - Delightful on-disk cache (written in Swift).
-*   [mattress (⭐519)](https://github.com/buzzfeed/mattress) - iOS Offline Caching for Web Content.
-*   [Carlos (⭐641)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
-*   [HanekeSwift (⭐5.2k)](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
-*   [YYCache (⭐2.4k)](https://github.com/ibireme/YYCache) - High performance cache framework for iOS.
 *   [Cache (⭐2.8k)](https://github.com/hyperoslo/Cache) - Nothing but Cache.
+*   [Cache (⭐211)](https://github.com/soffes/Cache) - Swift caching library.
+*   [Cachyr (⭐124)](https://github.com/nrkno/yr-cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift.
+*   [Carlos (⭐641)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
+*   [Disk (⭐3k)](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data.
+*   [HanekeSwift (⭐5.2k)](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
+*   [Johnny (⭐36)](https://github.com/zolomatok/Johnny) - Melodic Caching for Swift.
+*   [mattress (⭐519)](https://github.com/buzzfeed/mattress) - iOS Offline Caching for Web Content.
+*   [MemoryCache (⭐78)](https://github.com/yysskk/MemoryCache) - MemoryCache is type-safe memory cache.
 *   [MGCacheManager](https://github.com/Mortgy/MGCacheManager) - A delightful iOS Networking Cache Managing Class.
+*   [PINCache (⭐2.6k)](https://github.com/pinterest/PINCache) - Fast, non-deadlocking parallel object cache for iOS and macOS.
+*   [RocketData (⭐648)](https://github.com/plivesey/RocketData) - A caching and consistency solution for immutable models.
 *   [SPTPersistentCache (⭐1.2k)](https://github.com/spotify/SPTPersistentCache) - Everyone tries to implement a cache at some point in their iOS app’s lifecycle, and this is ours. By Spotify.
 *   [Track (⭐270)](https://github.com/maquannene/Track) - Track is a thread safe cache write by Swift. Composed of DiskCache and MemoryCache which support LRU.
 *   [UITableView Cache (⭐73)](https://github.com/Kilograpp/UITableView-Cache) - UITableView cell cache that cures scroll-lags on a cell instantiating.
-*   [RocketData (⭐648)](https://github.com/plivesey/RocketData) - A caching and consistency solution for immutable models.
-*   [PINCache (⭐2.6k)](https://github.com/pinterest/PINCache) - Fast, non-deadlocking parallel object cache for iOS and macOS.
-*   [Johnny (⭐36)](https://github.com/zolomatok/Johnny) - Melodic Caching for Swift.
-*   [Disk (⭐3k)](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data.
-*   [Cachyr (⭐124)](https://github.com/nrkno/yr-cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift.
-*   [Cache (⭐211)](https://github.com/soffes/Cache) - Swift caching library.
-*   [MemoryCache (⭐78)](https://github.com/yysskk/MemoryCache) - MemoryCache is type-safe memory cache.
+*   [YYCache (⭐2.4k)](https://github.com/ibireme/YYCache) - High performance cache framework for iOS.
 
 ### Charts
 
@@ -2391,7 +2386,7 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 ### Encryption
 
 *   [AESCrypt-ObjC (⭐783)](https://github.com/Gurpartap/AESCrypt-ObjC) - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
-*   [IDZSwiftCommonCrypto (⭐474)](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library written in Swift.
+*   [IDZSwiftCommonCrypto (⭐475)](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library written in Swift.
 *   [Arcane (⭐282)](https://github.com/onmyway133/Arcane) - Lightweight wrapper around CommonCrypto in Swift.
 *   [SwiftMD5 (⭐12)](https://github.com/mpurland/SwiftMD5) - A pure Swift implementation of MD5.
 *   [SwiftHash (⭐214)](https://github.com/onmyway133/SwiftHash) - Hash in Swift.

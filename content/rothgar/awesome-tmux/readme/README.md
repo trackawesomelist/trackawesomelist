@@ -82,6 +82,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 *   [dracula/tmux (⭐534)](https://github.com/dracula/tmux) 🧛🏻‍♂️ The official [dracula theme](https://draculatheme.com/) for tmux
 *   [minimal-tmux-status (⭐33)](https://github.com/niksingh710/minimal-tmux-status/): Minimal theme with only required information in status bar and prefix indicator. (changes only status bar)
 *   [nord tmux (⭐1k)](https://github.com/arcticicestudio/nord-tmux) An arctic, north-bluish clean and elegant tmux color theme.
+*   [rose-pine (⭐55)](https://github.com/rose-pine/tmux) - Soho vibes for tmux
 *   [tmux-base16-statusline (⭐26)](https://github.com/jatap/tmux-base16-statusline) Statusline based on [base16-shell (⭐97)](https://github.com/chriskempson/base16-shell)
 *   [tmux-colors-solarized (⭐1.1k)](https://github.com/seebi/tmux-colors-solarized) A color theme for the tmux terminal multiplexer using Ethan Schoonover’s Solarized color scheme
 *   [tmux-dark-notify (⭐26)](https://github.com/erikw/tmux-dark-notify) - Make tmux's theme follow macOS dark/light mode.
@@ -94,6 +95,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 *   [tokyo-night-tmux (⭐124)](https://github.com/janoamaral/tokyo-night-tmux) tokyo-night theme for tmux
 *   [tomorrow (⭐40)](https://github.com/edouard-lopez/tmux-tomorrow/): 5 flavors of Tomorrow theme based on specifications from [Tomorrow Theme (⭐14k)](https://github.com/chriskempson/tomorrow-theme) (*i.e.* *dark*/*blue* and *light*).
 *   [tmux2k (⭐40)](https://github.com/2KAbhishek/tmux2k): Colorful and informative tmux theme.
+*   [tmux-kanagawa (⭐12)](https://github.com/Nybkox/tmux-kanagawa): Dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 
 ## Status Bar
 

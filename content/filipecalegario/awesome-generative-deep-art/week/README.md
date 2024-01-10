@@ -18,6 +18,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Auxiliary tools and concepts / Deforum
 
+*   [SiteSpeakAI](https://sitespeak.ai): Automate your customer support with AI
 *   [Room Reinvented](https://roomreinvented.com): Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)

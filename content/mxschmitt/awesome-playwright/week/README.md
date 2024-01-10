@@ -12,6 +12,10 @@ A curated list of awesome tools, utils and projects using Playwright
 
 *   [@guidepup/playwright (⭐32)](https://github.com/guidepup/guidepup-playwright) - VoiceOver and NVDA screen reader driver integration for Playwright.
 
+### Utils
+
+*   [playwright-elements](https://danteukraine.github.io/playwright-elements) - Playwright test extension for creatation of reusable components with ability to add child elements, methods and call them in chain. Reduce amount of your code in page object, or even use elements without page object.
+
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Integrations
@@ -100,7 +104,6 @@ A curated list of awesome tools, utils and projects using Playwright
 ### Utils
 
 *   [playwright-test-coverage (⭐60)](https://github.com/anishkny/playwright-test-coverage) - Plugin to collect code coverage from running Playwright tests.
-*   [playwright-elements](https://www.npmjs.com/package/playwright-elements) - Playwright test extension for more powerful page object implementation.
 
 ### Reporters
 
