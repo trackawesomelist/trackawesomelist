@@ -12,6 +12,10 @@
 
 *   [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) - James Gallagher (PDF)
 
+### Professional Development
+
+*   [Teaching Tech Together](http://teachtogether.tech/en/) - Greg Wilson (HTML)
+
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
 ### Machine Learning

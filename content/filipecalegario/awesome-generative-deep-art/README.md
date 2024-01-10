@@ -8,6 +8,10 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jan 10, 2024](/content/2024/01/10/README.md)
 
+### Generative AI history, maps, and definitions
+
+*   [The Four Wars of the AI Stack (Dec 2023 Recap)](https://www.latent.space/p/dec-2023): "recap of top items for the AI Engineer from Dec 2023" ("The Data Wars, The War of the GPU Rich/Poor, The Multimodality War, The RAG/Ops War")
+
 ### Auxiliary tools and concepts / Deforum
 
 *   [SiteSpeakAI](https://sitespeak.ai): Automate your customer support with AI

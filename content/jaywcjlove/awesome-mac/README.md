@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Jan 10, 2024](/content/2024/01/10/README.md)
+
+### Developer Tools / Command Line Tools
+
+*   [ShellHistory](https://loshadki.app/shellhistory/) - Backup, sync and organize your shell history [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/shellhistory/id1564015476?mt=12)
+
+### Utilities / Productivity
+
+*   [OpenIn](https://loshadki.app/openin4/) - Take control of installed apps on your Mac [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331?mt=12)
+
 ## [Jan 09, 2024](/content/2024/01/09/README.md)
 
 ### Reading and Writing Tools / Others

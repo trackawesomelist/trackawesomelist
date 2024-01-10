@@ -13,6 +13,10 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 *   [Documentation for Node.js API](https://pola-rs.github.io/nodejs-polars/index.html) - Official API Reference for Node.js.
 *   [Shared library plugins for Polars (⭐166)](https://github.com/pola-rs/pyo3-polars).
 
+### Resources / Blog posts
+
+*   Interesting thread about Polars on [Hacker News](https://news.ycombinator.com/item?id=38920043)
+
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Resources / Blog posts

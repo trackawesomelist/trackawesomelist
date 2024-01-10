@@ -12,6 +12,14 @@
 
 *   [SwifDoo PDF](https://www.swifdoo.com/) - The best PDF Editor/converter that’ll help you transform your PDF file, edit it, compress, or password-protect it in just a couple of simple steps
 
+### Developer Tools / Command Line Tools
+
+*   [ShellHistory](https://loshadki.app/shellhistory/) - Backup, sync and organize your shell history [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/shellhistory/id1564015476?mt=12)
+
+### Utilities / Productivity
+
+*   [OpenIn](https://loshadki.app/openin4/) - Take control of installed apps on your Mac [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331?mt=12)
+
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
 ### Developer Tools / Virtualization

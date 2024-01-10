@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Jan 10, 2024](/content/2024/01/10/README.md)
+
+### Professional Development
+
+*   [Teaching Tech Together](http://teachtogether.tech/en/) - Greg Wilson (HTML)
+
 ## [Jan 08, 2024](/content/2024/01/08/README.md)
 
 ### Misc

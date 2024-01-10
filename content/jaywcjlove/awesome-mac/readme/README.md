@@ -27,7 +27,7 @@ This project is now very large, and is very different from the original idea.
 Here, we collect awesome macOS software and arrange them into various categories.
 Feel free to **star** and **fork**.
 
-Any comments, suggestions? [Let us know! (⭐66k)](https://github.com/jaywcjlove/awesome-mac/issues) We love PRs :) Please take a look at the [contributing (⭐66k)](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md) guidelines before opening one. Follow the [awesome (⭐283k)](https://github.com/sindresorhus/awesome) list.
+Any comments, suggestions? [Let us know! (⭐66k)](https://github.com/jaywcjlove/awesome-mac/issues) We love PRs :) Please take a look at the [contributing (⭐66k)](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md) guidelines before opening one. Follow the [awesome (⭐285k)](https://github.com/sindresorhus/awesome) list.
 
 **Explanation**
 
@@ -422,6 +422,7 @@ Any comments, suggestions? [Let us know! (⭐66k)](https://github.com/jaywcjlove
 *   [ripgrep (rg) (⭐42k)](https://github.com/BurntSushi/ripgrep) - Very fast text searching tool similar to (but faster than) ack, ag or grep ![Freeware][Freeware Icon]
 *   [Serial](https://www.decisivetactics.com/products/serial/) - Full-featured serial terminal for the Mac.
 *   [shallow-backup (⭐1.1k)](https://github.com/alichtman/shallow-backup) - Easily create text documentation of installed applications, dotfiles, and more. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+*   [ShellHistory](https://loshadki.app/shellhistory/) - Backup, sync and organize your shell history [![App Store][app-store Icon]](https://apps.apple.com/us/app/shellhistory/id1564015476?mt=12)
 *   [silver searcher (ag) (⭐25k)](https://github.com/ggreer/the_silver_searcher) - A code searching tool similar to ack, with a focus on speed. [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) ![Freeware][Freeware Icon]
 *   [spaceship (⭐19k)](https://github.com/denysdovhan/spaceship-prompt) - A Zsh prompt for Astronauts. [![Open-Source Software][OSS Icon]](https://github.com/denysdovhan/spaceship-prompt) ![Freeware][Freeware Icon]
 *   [Tabby (formerly Terminus) (⭐53k)](https://github.com/Eugeny/tabby) - Free terminal tool, built with TypeScript, heavily inspired by Hyper. [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
@@ -1052,6 +1053,7 @@ Any comments, suggestions? [Let us know! (⭐66k)](https://github.com/jaywcjlove
 *   [MindMac](https://mindmac.app/) - Feature-rich & privacy-first native ChatGPT app to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place.
 *   [Mos](https://mos.caldis.me/) - Simple tool can offer the smooth scrolling and reverse the mouse scrolling direction on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Caldis/Mos) ![Freeware][Freeware Icon]
 *   [OmniPlan](https://www.omnigroup.com/omniplan/) - The best way to visualize, maintain, and simplify your projects. Project Management made easy.
+*   [OpenIn](https://loshadki.app/openin4/) - Take control of installed apps on your Mac [![App Store][app-store Icon]](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331?mt=12)
 *   [PaletteBrain](https://palettebrain.com) - Access the power of ChatGPT across all your Mac applications with the press of a shortcut.
 *   [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 *   [Raycast](https://raycast.com) - Raycast lets you control your tools with a few keystrokes. It’s designed to keep you focused.

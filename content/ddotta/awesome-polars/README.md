@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Jan 10, 2024](/content/2024/01/10/README.md)
+
+### Resources / Blog posts
+
+*   Interesting thread about Polars on [Hacker News](https://news.ycombinator.com/item?id=38920043)
+
 ## [Jan 09, 2024](/content/2024/01/09/README.md)
 
 ### Official documentation

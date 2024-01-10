@@ -8,6 +8,10 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 
+### Generative AI history, maps, and definitions
+
+*   [The Four Wars of the AI Stack (Dec 2023 Recap)](https://www.latent.space/p/dec-2023): "recap of top items for the AI Engineer from Dec 2023" ("The Data Wars, The War of the GPU Rich/Poor, The Multimodality War, The RAG/Ops War")
+
 ### Critical Views about Generative AI
 
 *   [Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum](https://spectrum.ieee.org/midjourney-copyright): "Experiments with Midjourney and DALL-E 3 show a copyright minefield"
