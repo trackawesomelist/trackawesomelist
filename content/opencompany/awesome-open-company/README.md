@@ -2,9 +2,16 @@
 
 A community-curated list of awesome open companies.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/opencompany/awesome-open-company/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 opencompany/awesome-open-company](https://github.com/opencompany/awesome-open-company) · ⭐ 820 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/opencompany/awesome-open-company/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 opencompany/awesome-open-company](https://github.com/opencompany/awesome-open-company) · ⭐ 868 · 🏷️ Business
 
 [ Daily / [Weekly](/content/opencompany/awesome-open-company/week/README.md) / [Overview](/content/opencompany/awesome-open-company/readme/README.md) ]
+
+## [Jan 11, 2024](/content/2024/01/11/README.md)
+
+### Similar lists / Videos
+
+*   The VAR Guy's [The Open Source 50](https://web.archive.org/web/20171002071840/http://thevarguy.com/var-guy/var-guys-open-source-50) ([2009 list](http://wayback.archive.org/web/20121118155240/http://www.thevarguy.com/the-open-source-50/the-open-source-50-listed-a-to-z/), [2010 list](http://wayback.archive.org/web/20120509194329/http://www.thevarguy.com/the-open-source-50/the-open-source-50-a-to-z-2010-edition/), [2012 update](https://web.archive.org/web/20171027055302/http://thevarguy.com/open-source-application-software-companies/top-50-open-source-companies-where-are-they-now))
+    *   *(unmaintained)*
 
 ## [Oct 10, 2021](/content/2021/10/10/README.md)
 
@@ -30,7 +37,7 @@ A community-curated list of awesome open companies.
 
 ### Similar lists / Videos
 
-*   [Awesome Open (⭐69)](https://github.com/paulhendricks/awesome-open):
+*   [Awesome Open (⭐75)](https://github.com/paulhendricks/awesome-open):
     A curated list of organizations, projects and initiatives that maintain open codebases and datasets
 
 ## [Jun 28, 2016](/content/2016/06/28/README.md)
@@ -48,13 +55,6 @@ A community-curated list of awesome open companies.
 *   Massimo Menichinelli: [Business models for open hardware](http://www.openp2pdesign.org/2011/open-design/business-models-for-open-hardware/)
 *   Chad Whitacre: [The second open company](https://medium.com/gratipay-blog/the-second-open-company-4cbab7ca1a47)
 *   Timothy Cook: [Why open companies? A new culture of business](https://medium.com/open-companies/why-open-companies-fdb74d1b4f0f)
-
-## [Apr 29, 2015](/content/2015/04/29/README.md)
-
-### Similar lists / Videos
-
-*   The VAR Guy's [The Open Source 50](http://thevarguy.com/var-guy/var-guys-open-source-50) ([2009 list](http://wayback.archive.org/web/20121118155240/http://www.thevarguy.com/the-open-source-50/the-open-source-50-listed-a-to-z/), [2010 list](http://wayback.archive.org/web/20120509194329/http://www.thevarguy.com/the-open-source-50/the-open-source-50-a-to-z-2010-edition/), [2012 update](http://thevarguy.com/open-source-application-software-companies/top-50-open-source-companies-where-are-they-now))
-    *   *(unmaintained)*
 
 ## [Apr 22, 2015](/content/2015/04/22/README.md)
 

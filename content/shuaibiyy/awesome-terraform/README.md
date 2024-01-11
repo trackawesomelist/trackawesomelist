@@ -6,6 +6,12 @@ Curated list of resources on HashiCorp's Terraform
 
 [ Daily / [Weekly](/content/shuaibiyy/awesome-terraform/week/README.md) / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Jan 11, 2024](/content/2024/01/11/README.md)
+
+### Community Modules / Miscellaneous
+
+*   [terraform-aws-account-lookup (⭐2)](https://github.com/be-bold/terraform-aws-account-lookup) - This Terraform module allows querying AWS accounts and outputs the accounts in various mappings or as a complete list, with the ability to apply a search filter to the account list and group the accounts by existing tags using a submodule.
+
 ## [Jan 05, 2024](/content/2024/01/05/README.md)
 
 ### Tools / Community providers
@@ -459,7 +465,7 @@ Curated list of resources on HashiCorp's Terraform
 
 ### Tools / Community providers
 
-*   [terraform-docs (⭐3.8k)](https://github.com/terraform-docs/terraform-docs) - Quick utility to generate docs from terraform modules.
+*   [terraform-docs (⭐3.9k)](https://github.com/terraform-docs/terraform-docs) - Quick utility to generate docs from terraform modules.
 *   [terrascan (⭐4.3k)](https://github.com/accurics/terrascan) - Collection of security and best practice test for static code analysis of terraform templates
 *   [tfaction (⭐221)](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
 *   [tflint (⭐4.4k)](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
@@ -997,7 +1003,7 @@ Curated list of resources on HashiCorp's Terraform
 *   [terraform-rake-tasks (⭐4)](https://github.com/gina-alaska/terraform-rake-tasks) - Shared Rake tasks for managing terraform plans.
 *   [terraform.py (⭐448)](https://github.com/ciscocloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
 *   [terraforming (⭐4.3k)](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate). Similar to `terraformer`.
-*   [terragrunt (⭐7.3k)](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
+*   [terragrunt (⭐7.4k)](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
 *   [terrahelp (⭐377)](https://github.com/opencredo/terrahelp) - Command line utility aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 *   [tfenv (⭐4.2k)](https://github.com/tfutils/tfenv) - Terraform version manager inspired by rbenv.
 *   [tfmask (⭐196)](https://github.com/cloudposse/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
