@@ -1,43 +1,70 @@
 # Awesome List Updates on Jan 08 - Jan 14, 2024
 
-35 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [1. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+
+### CI/CD
+
+*   [k6 for Azure Pipelines](https://k6.io/blog/integrating-load-testing-with-azure-pipelines/)
+*   [k6 for Bamboo](https://k6.io/blog/integrating-k6-with-bamboo/)
+*   [k6 for Buddy](https://k6.io/blog/integrating-k6-with-buddy-devops/)
+*   [k6 for CircleCI](https://k6.io/blog/integrating-load-testing-with-circleci/)
+*   [k6 for Flagger](https://grafana.com/blog/2022/04/28/deployment-time-testing-with-grafana-k6-and-flagger/)
+*   [k6 for GitHub Actions](https://k6.io/blog/load-testing-using-github-actions/)
+*   [k6 for GitLab](https://k6.io/blog/integrating-load-testing-with-gitlab/)
+*   [k6 for Jenkins](https://k6.io/blog/integrating-load-testing-with-jenkins/)
+*   [k6 for Keptn](https://k6.io/blog/performance-testing-in-keptn-using-k6/)
+*   [k6 for TeamCity](https://k6.io/blog/load-testing-using-teamcity-and-k6/)
+
+## [2. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+
+### Cheat Sheets
+
+*   [elixir-lang/elixir](https://hexdocs.pm/elixir/main/enum-cheat.html) - Enum cheatsheets.
+
+## [3. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+
+### Footprint Calculators
+
+*   [Eaternity](http://eaternity.org) - Eaternity helps you calculate the environmental impact of their food to create a food system that operates within the Earth's environmental limits. Acting as a bridge between science and practical application, Eaternity provides accessible information on the CO₂ balance of food. The company, founded in 2008 at ETH Zurich, has been using a life cycle assessment (LCA) database for over 10 years to achieve this goal. The database has been continuously developed since its creation. By integrating this database into existing production systems, food product producers can measure, improve, and market their specific environmental footprint.
+
+## [4. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [Ferrum (⭐1.5k)](https://github.com/rubycdp/ferrum) - very simple and easy to get started with frontend/UI testing in small Ruby scripts, high-level API to control Chrome with the CDP - Chrome DevTools Protocol (NO Selenium dependency)
 
-## [2. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [5. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Related Awesome Lists / Mocking
 
 *   [Awesome Hybris (⭐8)](https://github.com/eminyagiz42/awesome-hybris)
 
-## [3. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [6. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Sitecore Search
 
 *   [Sitecore Search Starter Kit (⭐5)](https://github.com/Sitecore/Sitecore-Search-TS-SDK-Starter-Kit) - A website example This repository has an example implementation of a content website using the Sitecore Search JS SDK integrating with Sitecore Search services with the supports of event tracking.
 
-## [4. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
+## [7. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
 
 ### Similar lists / Videos
 
 *   The VAR Guy's [The Open Source 50](https://web.archive.org/web/20171002071840/http://thevarguy.com/var-guy/var-guys-open-source-50) ([2009 list](http://wayback.archive.org/web/20121118155240/http://www.thevarguy.com/the-open-source-50/the-open-source-50-listed-a-to-z/), [2010 list](http://wayback.archive.org/web/20120509194329/http://www.thevarguy.com/the-open-source-50/the-open-source-50-a-to-z-2010-edition/), [2012 update](https://web.archive.org/web/20171027055302/http://thevarguy.com/open-source-application-software-companies/top-50-open-source-companies-where-are-they-now))
     *   *(unmaintained)*
 
-## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [8. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Community Modules / Miscellaneous
 
 *   [terraform-aws-account-lookup (⭐2)](https://github.com/be-bold/terraform-aws-account-lookup) - This Terraform module allows querying AWS accounts and outputs the accounts in various mappings or as a complete list, with the ability to apply a search filter to the account list and group the accounts by existing tags using a submodule.
 
-## [6. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [9. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Serialization
 
@@ -51,7 +78,7 @@
 
 *   [json2v (⭐20)](https://github.com/ldedev/Json2V) - Convert a json to a struct in Vlang.
 
-## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [10. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### SQL / Analyzers
 
@@ -61,7 +88,7 @@
 
 *   [Dwh.dev](https://dwh.dev) - Nexgen data lineage for Snowflake.
 
-## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### JavaScript / Wicket
 
@@ -73,38 +100,38 @@
 *   [Research Software Engineering with Python](https://merely-useful.tech/py-rse/) - Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham, Greg Wilson (HTML)
 *   [Software Design by Example: A Tool-Based Introduction with Python](https://third-bit.com/sdxpy/) - Greg Wilson (HTML)
 
-## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Coordination
 
 *   [Domain-specific languages: an annotated bibliography](https://dl.acm.org/doi/abs/10.1145/352029.352035) - ***ACM SIGPLAN Notices***, 2000. \[[All Versions](https://scholar.google.com/scholar?cluster=8845429548327315750\&hl=en\&as_sdt=0,5)]. A survey on the topic of domain-specific languages as used for the construction and maintenance of software systems.
 
-## [10. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [13. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2023
 
 *   [Stealing the Decoding Algorithms of Language Models](https://people.cs.umass.edu/~amir/papers/CCS23-LM-stealing.pdf) - (CCS) *Steal the type and hyperparameters of the decoding algorithms of a LLM.*
 
-## [11. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [14. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Analytics
 
 *   [Aptabase](https://aptabase.com/for-swift) - Open Source, Privacy-First and Simple Analytics for Swift Apps.
 
-## [12. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [15. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Themes
 
 *   [rose-pine (⭐55)](https://github.com/rose-pine/tmux) - Soho vibes for tmux
 *   [tmux-kanagawa (⭐12)](https://github.com/Nybkox/tmux-kanagawa): Dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 
-## [13. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [16. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Writing assistants
 
 *   [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
 
-## [14. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [17. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Official documentation
 
@@ -115,7 +142,7 @@
 
 *   Interesting thread about Polars on [Hacker News](https://news.ycombinator.com/item?id=38920043)
 
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Others
 
@@ -129,13 +156,13 @@
 
 *   [OpenIn](https://loshadki.app/openin4/) - Take control of installed apps on your Mac [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331?mt=12)
 
-## [16. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [19. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Editors / Web Editors
 
 *   [Rapid](https://rapideditor.org/edit) - AI assisted versions of iD. ([Meta-Repo (⭐175)](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook) / [Editor Source Code (⭐415)](https://github.com/facebook/Rapid) / [Wiki](https://wiki.openstreetmap.org/wiki/RapiD))
 
-## [17. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [20. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Platforms / Localization and translation platforms
 
@@ -150,7 +177,7 @@
 *   [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow.
 *   [ParaglideJS](https://inlang.com/m/gerre34r) - Synchronous, typesafe and lightweight i18n library.
 
-## [18. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [21. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Loaders
 
@@ -165,7 +192,7 @@
 
 *   [vite-manifest-parser (⭐1)](https://github.com/sullay/vite-manifest-parser) - Parses manifest.json to generate HTML script and link tags.
 
-## [19. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [22. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Code Editors:
 
@@ -173,13 +200,13 @@
 
 
 
-## [20. Awesome Spanish Nlp](/content/dav009/awesome-spanish-nlp/week/README.md)
+## [23. Awesome Spanish Nlp](/content/dav009/awesome-spanish-nlp/week/README.md)
 
 ### Corpora / Corpora
 
 *   [OSCAR or Open Super-large Crawled ALMAnaCH coRpus Spanish subset](https://traces1.inria.fr/oscar/)
 
-## [21. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [24. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
@@ -189,7 +216,7 @@
 
 *   [playwright-elements](https://danteukraine.github.io/playwright-elements) - Playwright test extension for creatation of reusable components with ability to add child elements, methods and call them in chain. Reduce amount of your code in page object, or even use elements without page object.
 
-## [22. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [25. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -244,14 +271,14 @@
 
 *   [Standard Webhooks (⭐864) (⭐856)](https://github.com/standard-webhooks/standard-webhooks) - Open source tools and guidelines for sending webhooks easily, securely, and reliably.
 
-## [23. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [26. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
 *   [Adwaita for Steam (⭐950)](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
 *   [Adwaita theme for VS Code (⭐118)](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
 
-## [24. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [27. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### AI Tools for Research / Multi-agents
 
@@ -270,37 +297,37 @@
 
 *   [Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum](https://spectrum.ieee.org/midjourney-copyright): "Experiments with Midjourney and DALL-E 3 show a copyright minefield"
 
-## [25. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [28. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Infrastructure as Code Analysis / Kubernetes
 
 *   [Kubescape](https://kubescape.io/) - *Cloud Native Computing Foundation* - An open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters.
 
-## [26. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [29. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Action
 
 *   [OpenRW](https://openrw.org/) - A cross-platform, open source re-implementation of Rockstar Games' Grand Theft Auto III.
 
-## [27. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ulyssesys (⭐0)](https://github.com/UlyssesZh/ulyssesys) - Has decorators for full path to current directory, exit code of last command and `git` status.
 
-## [28. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [31. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### IDE
 
 *   [Fine](https://www.fine.dev/) - Build Software with AI Agents.
 
-## [29. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [32. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Firmware projects / WIP
 
 *   [BillMock (⭐9)](https://github.com/pmnxis/billmock-app-rs): Firmware for credit card terminal add-on hardware to install on Korean arcade machines
 
-## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Containers
 
@@ -330,19 +357,19 @@
 
 *   [LuaBridge3 (⭐181)](https://github.com/kunitoki/LuaBridge3) - A lightweight, dependency-free library for binding Lua, LuaJIT, Luau and Ravi to C++. \[MIT]
 
-## [31. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
+## [34. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
 ### Development tools
 
 *   [GCC IA-16 toolchain](https://gitlab.com/tkchia/build-ia16/-/releases) - A 16-bit counterpart to DJGPP, a GCC-based toolchain for developing 16-bit (8086 to 80286, a.k.a. IA-16) DOS applications, currently maintained by TK Chia.
 
-## [32. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [35. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Entertainment
 
 *   [Get Games (⭐3)](https://github.com/regenin/get_games) - Flutter app showing free and discounted games, find the cheapest store by [regenin](https://github.com/regenin).
 
-## [33. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [36. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Miscellaneous
 
@@ -352,14 +379,18 @@
 
 *   [WikiDocs](http://wikidocs.it) - A databaseless markdown flat-file wiki engine. ([Demo](https://demo.wikidocs.it), [Source Code (⭐134)](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
 
-## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [Templated](https://templated.io) - Automate your images with a simple API and no-code integrations. Design your template in a Canva-like aditor and render images (.jpg, .png, .webp) and PDFs with code. Free tier plan with 100 credits per month.
 *   [Data Dead Drop](https://datadeaddrop.com) - Simple, free file sharing. Data self-destroys after access. Upload and download data via the browser or your favorite command line client.
 
-## [35. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+### Code Generation
+
+*   [v0.dev](https://v0.dev/) — v0 uses AI models to generate code based on simple text prompts. It generates copy-and-paste friendly React code based on shadcn/ui and Tailwind CSS that people can use in their projects. Each generation takes at minimum 30 credits. You start up with 1200 credits, and get 200 free credits every month.
+
+## [38. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### PHP / Diagnostics
 

@@ -2,7 +2,7 @@
 
 A curated list of awesome tools, content and projects using k6
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/grafana/awesome-k6/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 grafana/awesome-k6](https://github.com/grafana/awesome-k6) · ⭐ 465 · 🏷️ Testing
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/grafana/awesome-k6/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 grafana/awesome-k6](https://github.com/grafana/awesome-k6) · ⭐ 481 · 🏷️ Testing
 
 [ [Daily](/content/grafana/awesome-k6/README.md) / [Weekly](/content/grafana/awesome-k6/week/README.md) / Overview ]
 
@@ -29,13 +29,13 @@ A collection of resources by the community, on (testing with) <a href="https://k
 *   [Videos](#videos)
 *   [Examples](#examples)
 *   [Tools](#tools)
-*   [CI](#ci)
+*   [CI/CD](#cicd)
 *   [Extensions](#extensions)
 *   [Related](#related)
 
 ## Articles
 
-*   [k6 Learn (⭐210)](https://github.com/grafana/k6-learn) - Explanation of the principles of load testing and practical examples for how to do it with k6.
+*   [k6 Learn (⭐232)](https://github.com/grafana/k6-learn) - Explanation of the principles of load testing and practical examples for how to do it with k6.
 
 *   [Beginner's guide to load testing with k6](https://link.medium.com/npI9sjDyyjb) - Introductory guide in several parts, helping you get started with k6.
 
@@ -85,7 +85,7 @@ A collection of resources by the community, on (testing with) <a href="https://k
 
 *   [Load testing with k6 and k8s](https://www.toucantoco.com/en/tech-blog/tech-blog/load-testing-with-k6-and-k8s) - The Toucan DevOps team explains why they chose k6 as their load testing tool and how they deploy it on k8s.
 
-*   [CloudPosse's Load Testing Stack (⭐55)](https://github.com/cloudposse/load-testing) - Load testing stack using k6, Grafana and InfluxDB.
+*   [CloudPosse's Load Testing Stack (⭐54)](https://github.com/cloudposse/load-testing) - Load testing stack using k6, Grafana and InfluxDB.
 
 *   [Real-time stress:
     AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-time-stress-anycable-k6-websockets-and-yabeda) - Evil Martians adding "real-time stress" with k6 and WebSockets.
@@ -111,29 +111,24 @@ A collection of resources by the community, on (testing with) <a href="https://k
 ## Examples
 
 *   [k6 examples](https://k6.io/docs/examples/) - A list of common examples on the k6 documentation.
-*   [k6-circleci-example (⭐5)](https://github.com/li-clutter-org/k6-circleci-example) - Running k6 load tests as part of a CircleCI build.
-*   [k6-jenkins-example (⭐8)](https://github.com/li-clutter-org/k6-jenkins-example) - Running k6 load tests as part of a Jenkins build.
-*   [k6-github-actions-example (⭐29)](https://github.com/grafana/k6-example-github-actions) - Running k6 load tests as part of a GitHub Actions build.
-*   [k6-azure-pipelines-example (⭐18)](https://github.com/grafana/k6-example-azure-pipelines) - Running k6 load tests as part of an Azure DevOps Pipeline.
-*   [k6-bitbucket-pipelines-example (⭐3)](https://github.com/poponuts/k6-boilerplate) - Running k6 load tests as part of a Bitbucket Pipeline build.
-*   [k6-performance-test-websocket (⭐5)](https://github.com/Julianhm9612/k6-performance-test-websocket) - Example of performance test for websocket with k6.
-*   [k6-template-es6 (⭐70)](https://github.com/grafana/k6-template-es6) - Template repository for bundling test projects into single test scripts runnable by k6.
-*   [k6 templates (⭐30)](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
-*   [k6-typescript-template (⭐227)](https://github.com/grafana/k6-template-typescript) - Template to use TypeScript with k6.
-*   [example-data-generation (⭐43)](https://github.com/grafana/k6-example-data-generation) - Generate realistic data for k6 using faker.
+*   [k6-performance-test-websocket (⭐6)](https://github.com/Julianhm9612/k6-performance-test-websocket) - Example of performance test for websocket with k6.
+*   [k6-template-es6 (⭐73)](https://github.com/grafana/k6-template-es6) - Template repository for bundling test projects into single test scripts runnable by k6.
+*   [k6 templates (⭐32)](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
+*   [k6-typescript-template (⭐237)](https://github.com/grafana/k6-template-typescript) - Template to use TypeScript with k6.
+*   [example-data-generation (⭐47)](https://github.com/grafana/k6-example-data-generation) - Generate realistic data for k6 using faker.
 *   [continuous-k6k8s (⭐18)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
 *   [k6-multiscenario-template (⭐48)](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
-*   [docker-k6-grafana-influxdb (⭐125)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
+*   [docker-k6-grafana-influxdb (⭐128)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
 
 ## Tools
 
 *   [k6-to-junit (⭐18)](https://github.com/Mattihew/k6-to-junit) - Tool for converting k6 output to JUnit XML for easy use with CIs.
-*   [k6-reporter (⭐302)](https://github.com/benc-uk/k6-reporter) - Tool for converting k6 output to HTML reports.
-*   [k6-html-reporter (⭐21)](https://github.com/szboynono/k6-html-reporter) - Tool for generating k6 HTML reports.
-*   [har-to-k6 (⭐104)](https://github.com/grafana/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
-*   [postman-to-k6 (⭐283)](https://github.com/grafana/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
-*   [k6 generator (⭐18k)](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
-*   [jmeter-to-k6 (⭐62)](https://github.com/grafana/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
+*   [k6-reporter (⭐318)](https://github.com/benc-uk/k6-reporter) - Tool for converting k6 output to HTML reports.
+*   [k6-html-reporter (⭐22)](https://github.com/szboynono/k6-html-reporter) - Tool for generating k6 HTML reports.
+*   [har-to-k6 (⭐107)](https://github.com/grafana/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
+*   [postman-to-k6 (⭐285)](https://github.com/grafana/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
+*   [k6 generator (⭐19k)](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+*   [jmeter-to-k6 (⭐63)](https://github.com/grafana/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
 *   [jslib.k6.io](https://jslib.k6.io/) - Useful utility libs for k6 scripts.
 *   [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6\&ssr=false#overview) - Marketplace Extension for running k6 directly from your IDE.
 *   [k6 for IntelliJ](https://plugins.jetbrains.com/plugin/16141-k6) - IntelliJ-based Plugin to run k6 tests locally or in the [k6 Cloud](https://app.k6.io/) from your IntelliJ IDE.
@@ -141,15 +136,31 @@ A collection of resources by the community, on (testing with) <a href="https://k
 *   [k6-junit (⭐12)](https://github.com/simbadltd/k6-junit) - k6 JUnit summary exporter libray.
 *   [k6-expect (⭐2)](https://github.com/simbadltd/k6-expect) - k6 library that simplifies writing tests in a functional way by providing a jest-like syntax for expectations.
 
-## CI
+## CI/CD
 
-*   [k6 for GitHub actions](https://github.com/marketplace/actions/k6-load-test) - Marketplace action for running k6 in GitHub Actions.
-*   [k6 for Azure DevOps Pipelines](https://marketplace.visualstudio.com/items?itemName=k6.k6-load-test) - Marketplace Extension for running k6 in an Azure Devops Pipeline.
-*   [k6 CircleCI Orb](https://circleci.com/developer/orbs/orb/k6io/test) - k6 Orb for running k6 in CircleCI. Supports running tests both on the CircleCI runner and in the k6 cloud SaaS service.
-*   [k6 for Atlassian Bamboo](https://k6.io/blog/integrating-k6-with-bamboo/)
 *   [k6 for AWS CodeBuild](https://k6.io/blog/integrating-k6-with-aws-codebuild/)
+
+*   [k6 for Azure Pipelines](https://k6.io/blog/integrating-load-testing-with-azure-pipelines/)
+
+*   [k6 for Bamboo](https://k6.io/blog/integrating-k6-with-bamboo/)
+
+*   [k6 for Buddy](https://k6.io/blog/integrating-k6-with-buddy-devops/)
+
+*   [k6 for CircleCI](https://k6.io/blog/integrating-load-testing-with-circleci/)
+
+*   [k6 for Flagger](https://grafana.com/blog/2022/04/28/deployment-time-testing-with-grafana-k6-and-flagger/)
+
+*   [k6 for GitHub Actions](https://k6.io/blog/load-testing-using-github-actions/)
+
+*   [k6 for GitLab](https://k6.io/blog/integrating-load-testing-with-gitlab/)
+
 *   [k6 for Google Cloud Build](https://k6.io/blog/integrating-k6-with-google-cloud-build/)
-*   [k6 for Buddy CI/CD](https://k6.io/blog/integrating-k6-with-buddy-devops/)
+
+*   [k6 for Jenkins](https://k6.io/blog/integrating-load-testing-with-jenkins/)
+
+*   [k6 for Keptn](https://k6.io/blog/performance-testing-in-keptn-using-k6/)
+
+*   [k6 for TeamCity](https://k6.io/blog/load-testing-using-teamcity-and-k6/)
 
 ## Extensions
 
@@ -158,9 +169,9 @@ A collection of resources by the community, on (testing with) <a href="https://k
 
 ## Related
 
-*   [How They Load Test (⭐54)](https://github.com/aliesbelik/how-they-load) - A collection of resources on how companies around the world perform load testing.
-*   [Load Testing Toolkit (⭐117)](https://github.com/aliesbelik/load-testing-toolkit) - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
-*   [awesome-http-benchmark (⭐3k)](https://github.com/denji/awesome-http-benchmark) - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
+*   [How They Load Test (⭐70)](https://github.com/aliesbelik/how-they-load) - A collection of resources on how companies around the world perform load testing.
+*   [Load Testing Toolkit (⭐125)](https://github.com/aliesbelik/load-testing-toolkit) - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+*   [awesome-http-benchmark (⭐3.1k)](https://github.com/denji/awesome-http-benchmark) - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
 
 ## Contributing
 

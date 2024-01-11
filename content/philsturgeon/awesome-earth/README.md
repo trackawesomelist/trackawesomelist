@@ -2,9 +2,15 @@
 
 "What can I do about the climate crisis?" Here are 326 things you can do.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/philsturgeon/awesome-earth/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 philsturgeon/awesome-earth](https://github.com/philsturgeon/awesome-earth) · ⭐ 1.2K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/philsturgeon/awesome-earth/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 philsturgeon/awesome-earth](https://github.com/philsturgeon/awesome-earth) · ⭐ 1.3K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/philsturgeon/awesome-earth/week/README.md) / [Overview](/content/philsturgeon/awesome-earth/readme/README.md) ]
+
+## [Jan 11, 2024](/content/2024/01/11/README.md)
+
+### Footprint Calculators
+
+*   [Eaternity](http://eaternity.org) - Eaternity helps you calculate the environmental impact of their food to create a food system that operates within the Earth's environmental limits. Acting as a bridge between science and practical application, Eaternity provides accessible information on the CO₂ balance of food. The company, founded in 2008 at ETH Zurich, has been using a life cycle assessment (LCA) database for over 10 years to achieve this goal. The database has been continuously developed since its creation. By integrating this database into existing production systems, food product producers can measure, improve, and market their specific environmental footprint.
 
 ## [Feb 28, 2022](/content/2022/02/28/README.md)
 
@@ -86,7 +92,7 @@
 
 ### Jobs
 
-*   [awesome-sustainability-jobs (⭐367)](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated, open source list of developer jobs in the sustainability sector.
+*   [awesome-sustainability-jobs (⭐434)](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated, open source list of developer jobs in the sustainability sector.
 
 ## [Apr 06, 2021](/content/2021/04/06/README.md)
 
@@ -564,7 +570,7 @@
 *   [CarbonFund.org](https://carbonfund.org/) - Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
 *   [Emitwise](https://www.emitwise.com/) - The Emitwise Reportwise tool calculates company level GHG emissions in line with the GHG Protocol for scope 1 and 2 emissions. Primarily targeting the UK but would also be useful for other countries.
 *   [Plan A](https://plana.earth/) - Software that helps your business calculate, monitor and reduce its carbon footprint. Our platform allows you to track your carbon footprint monthly and learn how to reduce it with the support of a custom sustainability action plan, automatically created based on your worst-performing indicators.
-*   [Protea OSS Carbon Footprint (⭐27)](https://github.com/protea-earth/carbon_footprint) - Open source carbon footprint calculator, the only emissions calculator to use a command line interface.
+*   [Protea OSS Carbon Footprint (⭐33)](https://github.com/protea-earth/carbon_footprint) - Open source carbon footprint calculator, the only emissions calculator to use a command line interface.
 *   [The US EPA's Carbon Footprint Calculator](https://www3.epa.gov/carbon-footprint-calculator/) - The calculator estimates your footprint in three areas- home energy, transportation and waste. Everyone's carbon footprint is different depending on their location, habits, and personal choices.
 *   [WWF UK Calculator](https://footprint.wwf.org.uk/) - The planet is in crisis - from climate change to the pollution in our oceans and devastation of our forests. It's up to all of us to fix it. Take your first step with our environmental footprint calculator.
 *   [atmosfair](https://www.atmosfair.de/) - Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.
