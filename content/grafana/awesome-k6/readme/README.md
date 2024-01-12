@@ -27,7 +27,7 @@ A collection of resources by the community, on (testing with) <a href="https://k
 
 *   [Articles](#articles)
 *   [Videos](#videos)
-*   [Examples](#examples)
+*   [Examples/Templates](#examplestemplates)
 *   [Tools](#tools)
 *   [CI/CD](#cicd)
 *   [Extensions](#extensions)
@@ -92,6 +92,8 @@ A collection of resources by the community, on (testing with) <a href="https://k
 
 *   [Scaling Confidently with the Load and Fault Team](https://robinhood.engineering/scaling-confidently-with-the-load-and-fault-team-122978333d9) - Robinhood on load testing a Kubernetes system with k6.
 
+*   [Streamlining Performance Testing with K6 and ChatGPT](https://medium.com/@monish.correia/streamlining-performance-testing-with-k6-and-chatgpt-206c6c7db82b) - Monish Correia writes k6 tests using GitHub co-pilot.
+
 ## Videos
 
 *   [k6 YouTube Channel](https://www.youtube.com/c/k6test)
@@ -106,19 +108,21 @@ A collection of resources by the community, on (testing with) <a href="https://k
     *   [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - A walkthrough of the open-source load and performance regression testing tool, k6, and how to load test your APIs and websites, by Chris James.
     *   [Application Load Testing with k6](https://www.youtube.com/watch?v=iQmItkazLOk) - Daniel Knittl-Frank @TechTalk Days 2021, Intro to k6.
     *   [Performance testing: from zero to hero with k6 & Azure](https://www.youtube.com/watch?v=5G6zYLX9qvM) - Jose Luis Latorre Millas at Cloud Summit 2021.
-    *   [Write load tests with co-pilot](https://twitter.com/yusuftayman/status/1456972872853852165) - Yusuf writing k6 tests using GitHub co-pilot.
+    *   [AI-Powered K6 Testing: No Code, No Hassle, Just ChatGPT! 🦾🚀](https://www.youtube.com/watch?v=RYyPduBqGM4) - In this video, Karthik K.K. demonstrates how ChatGPT can create k6 tests without writing a single line of code.
 
-## Examples
+## Examples/Templates
 
 *   [k6 examples](https://k6.io/docs/examples/) - A list of common examples on the k6 documentation.
-*   [k6-performance-test-websocket (⭐6)](https://github.com/Julianhm9612/k6-performance-test-websocket) - Example of performance test for websocket with k6.
 *   [k6-template-es6 (⭐73)](https://github.com/grafana/k6-template-es6) - Template repository for bundling test projects into single test scripts runnable by k6.
-*   [k6 templates (⭐32)](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
 *   [k6-typescript-template (⭐237)](https://github.com/grafana/k6-template-typescript) - Template to use TypeScript with k6.
-*   [example-data-generation (⭐47)](https://github.com/grafana/k6-example-data-generation) - Generate realistic data for k6 using faker.
-*   [continuous-k6k8s (⭐18)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
-*   [k6-multiscenario-template (⭐48)](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
-*   [docker-k6-grafana-influxdb (⭐128)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
+*   [tom-miseur/k6-templates (⭐32)](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
+*   [SwissLife-OSS/k6-multiscenario-template (⭐48)](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
+*   [Im5tu/template-k6 (⭐4)](https://github.com/Im5tu/template-k6) - A K6 Performance Test Suite Template.
+*   [mohsenny/k6-test-template (⭐0)](https://github.com/mohsenny/k6-test-template) - Load testing framework.
+*   [kwidera/k6\_framework (⭐0)](https://github.com/kwidera/k6_framework) - Another k6 framework example.
+*   [Sahanipe/pet\_store (⭐0)](https://github.com/Sahanipe/pet_store) - Modularized scripts for the Swagger PetStore APIs.
+*   [lreimer/continuous-k6k8s (⭐18)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
+*   [luketn/docker-k6-grafana-influxdb (⭐128)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
 
 ## Tools
 

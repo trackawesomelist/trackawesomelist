@@ -2,9 +2,27 @@
 
 A curated list of awesome things related to MDBootstrap
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mdbootstrap/awesome-mdbootstrap/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mdbootstrap/awesome-mdbootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap) · ⭐ 29 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mdbootstrap/awesome-mdbootstrap/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mdbootstrap/awesome-mdbootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap) · ⭐ 39 · 🏷️ Front-End Development
 
 [ [Daily](/content/mdbootstrap/awesome-mdbootstrap/README.md) / Weekly / [Overview](/content/mdbootstrap/awesome-mdbootstrap/readme/README.md) ]
+
+## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
+
+### TW Elements useful links (Tailwind CSS)
+
+*   [UI Kit](https://tw-elements.com/) - Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities
+*   [Django Integration](https://tw-elements.com/docs/standard/integrations/django-integration/)
+*   [Angular Integration](https://tw-elements.com/docs/standard/integrations/angular-integration/)
+*   [Express Integration](https://tw-elements.com/docs/standard/integrations/express-integration/)
+*   [Laravel Integration](https://tw-elements.com/docs/standard/integrations/laravel-integration/)
+*   [Next Integration](https://tw-elements.com/docs/standard/integrations/next-integration/)
+*   [Nuxt Integration](https://tw-elements.com/docs/standard/integrations/nuxt-integration/)
+*   [Django Integration](https://tw-elements.com/docs/standard/integrations/react-integration/)
+*   [Remix Integration](https://tw-elements.com/docs/standard/integrations/remix-integration/)
+*   [Solid Integration](https://tw-elements.com/docs/standard/integrations/solid-integration/)
+*   [Svelte Integration](https://tw-elements.com/docs/standard/integrations/svelte-integration/)
+*   [Sveltekit Integration](https://tw-elements.com/docs/standard/integrations/sveltekit-integration/)
+*   [Vue Integration](https://tw-elements.com/docs/standard/integrations/vue-integration/)
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
@@ -62,9 +80,9 @@ A curated list of awesome things related to MDBootstrap
 
 *   [Snippets](https://mdbootstrap.com/snippets/) - Best source of Bootstrap code examples & plugins.
 *   [LAB](https://mdbootstrap.com/docs/standard/lab/) - Inspirational concepts & experiments created by the community of MDB.
-*   [Visual Studio Code snippets (⭐9)](https://github.com/mdbootstrap/MDB-VSCode-snippets) - An extension that allows you to add useful snippets of the most popular MDB 5 components to Visual Studio Code.
+*   [Visual Studio Code snippets (⭐11)](https://github.com/mdbootstrap/MDB-VSCode-snippets) - An extension that allows you to add useful snippets of the most popular MDB 5 components to Visual Studio Code.
 *   [Angular Visual Studio Code snippets (⭐10)](https://github.com/mdbootstrap/mdb-angular-vscode-snippets) - This extension adds snippets for MDB Angular - Angular Bootstrap UI KIT.
-*   [Webpack starter (⭐58)](https://github.com/mdbootstrap/mdb-webpack-starter) - This guide describes in detail the capabilities of Webpack Starter.
+*   [Webpack starter (⭐60)](https://github.com/mdbootstrap/mdb-webpack-starter) - This guide describes in detail the capabilities of Webpack Starter.
 *   [Reviews](https://www.g2.com/products/material-design-for-bootstrap/reviews) - User feedback on mdbootstrap.
 
 ### Articles

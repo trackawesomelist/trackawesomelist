@@ -1,12 +1,70 @@
 # Awesome List Updates on Jan 08 - Jan 14, 2024
 
-38 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [1. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+
+### REPLs / Third-party APIs
+
+*   [cl-repl (⭐9)](https://github.com/lisp-maintainers/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [GPL3](http://www.gnu.org/copyleft/gpl.html). With [colorthemes (⭐12)](https://github.com/koji-kojiro/lem-pygments-colorthemes).
+    *   new as of 2024: it now provides multi-line input and binary releases. Simply download a binary (Ubuntu so far) and run it.
+
+## [2. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+
+### Players / Android
+
+*   [androidx/media (⭐952)](https://github.com/androidx/media) - Collection of Android libraries implementing video playback and editing, media sessions and more. Formerly known as [google/ExoPlayer (⭐21k)](https://github.com/google/ExoPlayer).
+
+## [3. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+
+### Type / React
+
+*   [garph (⭐1.3k)](https://github.com/stepci/garph) - Garph is full-stack framework for building type-safe GraphQL APIs in TypeScript.
+
+## [4. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/week/README.md)
+
+### TW Elements useful links (Tailwind CSS)
+
+*   [UI Kit](https://tw-elements.com/) - Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities
+*   [Django Integration](https://tw-elements.com/docs/standard/integrations/django-integration/)
+*   [Angular Integration](https://tw-elements.com/docs/standard/integrations/angular-integration/)
+*   [Express Integration](https://tw-elements.com/docs/standard/integrations/express-integration/)
+*   [Laravel Integration](https://tw-elements.com/docs/standard/integrations/laravel-integration/)
+*   [Next Integration](https://tw-elements.com/docs/standard/integrations/next-integration/)
+*   [Nuxt Integration](https://tw-elements.com/docs/standard/integrations/nuxt-integration/)
+*   [Django Integration](https://tw-elements.com/docs/standard/integrations/react-integration/)
+*   [Remix Integration](https://tw-elements.com/docs/standard/integrations/remix-integration/)
+*   [Solid Integration](https://tw-elements.com/docs/standard/integrations/solid-integration/)
+*   [Svelte Integration](https://tw-elements.com/docs/standard/integrations/svelte-integration/)
+*   [Sveltekit Integration](https://tw-elements.com/docs/standard/integrations/sveltekit-integration/)
+*   [Vue Integration](https://tw-elements.com/docs/standard/integrations/vue-integration/)
+
+## [5. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+
+### Crates / Component Libraries
+
+*   [Zu (⭐2)](https://github.com/RustVis/zu) - Yew web components, implementing Material Design.
+
+## [6. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+
+### Articles
+
+*   [Streamlining Performance Testing with K6 and ChatGPT](https://medium.com/@monish.correia/streamlining-performance-testing-with-k6-and-chatgpt-206c6c7db82b) - Monish Correia writes k6 tests using GitHub co-pilot.
+
+### Examples/Templates
+
+*   [tom-miseur/k6-templates (⭐32)](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
+*   [SwissLife-OSS/k6-multiscenario-template (⭐48)](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
+*   [Im5tu/template-k6 (⭐4)](https://github.com/Im5tu/template-k6) - A K6 Performance Test Suite Template.
+*   [mohsenny/k6-test-template (⭐0)](https://github.com/mohsenny/k6-test-template) - Load testing framework.
+*   [kwidera/k6\_framework (⭐0)](https://github.com/kwidera/k6_framework) - Another k6 framework example.
+*   [Sahanipe/pet\_store (⭐0)](https://github.com/Sahanipe/pet_store) - Modularized scripts for the Swagger PetStore APIs.
+*   [lreimer/continuous-k6k8s (⭐18)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
+*   [luketn/docker-k6-grafana-influxdb (⭐128)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
 
 ### CI/CD
 
@@ -21,50 +79,135 @@
 *   [k6 for Keptn](https://k6.io/blog/performance-testing-in-keptn-using-k6/)
 *   [k6 for TeamCity](https://k6.io/blog/load-testing-using-teamcity-and-k6/)
 
-## [2. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Cheat Sheets
 
 *   [elixir-lang/elixir](https://hexdocs.pm/elixir/main/enum-cheat.html) - Enum cheatsheets.
 
-## [3. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [8. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Footprint Calculators
 
 *   [Eaternity](http://eaternity.org) - Eaternity helps you calculate the environmental impact of their food to create a food system that operates within the Earth's environmental limits. Acting as a bridge between science and practical application, Eaternity provides accessible information on the CO₂ balance of food. The company, founded in 2008 at ETH Zurich, has been using a life cycle assessment (LCA) database for over 10 years to achieve this goal. The database has been continuously developed since its creation. By integrating this database into existing production systems, food product producers can measure, improve, and market their specific environmental footprint.
 
-## [4. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [9. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [Ferrum (⭐1.5k)](https://github.com/rubycdp/ferrum) - very simple and easy to get started with frontend/UI testing in small Ruby scripts, high-level API to control Chrome with the CDP - Chrome DevTools Protocol (NO Selenium dependency)
 
-## [5. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [10. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Related Awesome Lists / Mocking
 
 *   [Awesome Hybris (⭐8)](https://github.com/eminyagiz42/awesome-hybris)
 
-## [6. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [11. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Sitecore Search
 
 *   [Sitecore Search Starter Kit (⭐5)](https://github.com/Sitecore/Sitecore-Search-TS-SDK-Starter-Kit) - A website example This repository has an example implementation of a content website using the Sitecore Search JS SDK integrating with Sitecore Search services with the supports of event tracking.
 
-## [7. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
+## [12. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
 
 ### Similar lists / Videos
 
 *   The VAR Guy's [The Open Source 50](https://web.archive.org/web/20171002071840/http://thevarguy.com/var-guy/var-guys-open-source-50) ([2009 list](http://wayback.archive.org/web/20121118155240/http://www.thevarguy.com/the-open-source-50/the-open-source-50-listed-a-to-z/), [2010 list](http://wayback.archive.org/web/20120509194329/http://www.thevarguy.com/the-open-source-50/the-open-source-50-a-to-z-2010-edition/), [2012 update](https://web.archive.org/web/20171027055302/http://thevarguy.com/open-source-application-software-companies/top-50-open-source-companies-where-are-they-now))
     *   *(unmaintained)*
 
-## [8. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+
+### Official Resources
+
+*   [Introduction to Terraform](https://developer.hashicorp.com/terraform/intro)
+*   [Terraform Documentation](https://developer.hashicorp.com/terraform/docs)
+*   [Terraform learn](https://developer.hashicorp.com/terraform/tutorials)
+
+### Community
+
+*   [weekly.tf - Terraform Weekly Newsletter](https://www.weekly.tf/) - Various news in the Terraform world (projects, announcements, discussions).
+
+### Books
+
+*   [Bootstrapping Microservices with Docker, Kubernetes, and Terraform, Second Editon](https://www.manning.com/books/bootstrapping-microservices-second-edition)
+*   [Patterns and Practices for Infrastructure as Code: With examples in Python and Terraform](https://www.manning.com/books/infrastructure-as-code-patterns-and-practices)
+
+### Tutorials and Blog Posts / Beginner Guides
+
+*   [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca) - Series of blog posts from the author of "Terraform: Up & Running" that guide the reader from beginning with Terraform to using it in the real world.
+
+### Tutorials and Blog Posts / Writing Custom Providers
+
+*   [Creating custom terraform providers](https://blog.pelo.tech/creating-custom-terraform-providers-341311823fa2) - Guide for creating custom providers.
+*   [Writing Custom Providers](https://developer.hashicorp.com/terraform/plugin/sdkv2) - Official documentation for creating custom providers.
+
+### Tutorials and Blog Posts / How-To
+
+*   [How To Write OPA for Terraform](https://www.scalr.com/blog/opa-series-part-1-open-policy-agent-and-terraform) - How to use Open Policy Agent to evaluate and enforce policy on your Terraform plans
+*   [Terraforming 1Password](https://blog.1password.com/terraforming-1password/) - How 1Password migrated from CloudFormation to Terraform.
+
+### Tutorials and Blog Posts / Google Cloud
+
+*   [Managing infrastructure as code with Terraform, Cloud Build, and GitOps](https://cloud.google.com/docs/terraform/resource-management/managing-infrastructure-as-code) - Setup and manage infrastructure as code with Terraform, Cloud Build, and GitOps.
+*   [Getting started with Terraform on Google Cloud](https://cloud.google.com/docs/terraform/get-started-with-terraform) - Using Terraform to create a VM in Google Cloud and Starting a basic Python Flask server.
+*   [Managing Cloud Infrastructure with Terraform](https://www.cloudskillsboost.google/course_templates/746) - Deploy Kubernetes Load Balancer Service with Terraform, HTTPS Content-Based Load Balancer with Terraform, Modular Load Balancing with Terraform - Regional Load Balancer, Custom Providers with Terraform, Cloud SQL with Terraform, Building a VPN Between Google Cloud and AWS with Terraform.
+*   [Hashicorp Terraform Tutorials for Google Cloud](https://developer.hashicorp.com/terraform/tutorials/gcp-get-started) - Get started with Terraform on Google Cloud.
 
 ### Community Modules / Miscellaneous
 
 *   [terraform-aws-account-lookup (⭐2)](https://github.com/be-bold/terraform-aws-account-lookup) - This Terraform module allows querying AWS accounts and outputs the accounts in various mappings or as a complete list, with the ability to apply a search filter to the account list and group the accounts by existing tags using a submodule.
+*   [terraform-aws-appconfig (⭐24)](https://github.com/terraform-aws-modules/terraform-aws-appconfig) - Creates AWS AppConfig resources on AWS.
+*   [terraform-aws-datadog-forwarders (⭐50)](https://github.com/terraform-aws-modules/terraform-aws-datadog-forwarders) - Creates resources on AWS to forward logs/metrics to Datadog.
+*   [terraform-aws-dms (⭐53)](https://github.com/terraform-aws-modules/terraform-aws-dms) - Creates AWS DMS (Database Migration Service) resources on AWS.
+*   [terraform-aws-jenkins (⭐253)](https://github.com/cloudposse-archives/terraform-aws-jenkins) - Build a Docker image with Jenkins, saves it to an ECR repo, and deploys it to Elastic Beanstalk running a Docker stack.
+*   [terraform-aws-managed-service-prometheus (⭐22)](https://github.com/terraform-aws-modules/terraform-aws-managed-service-prometheus) - Creates AWS Managed Service for Prometheus (AMP) resources on AWS.
+*   [terraform-aws-msk-kafka-cluster (⭐42)](https://github.com/terraform-aws-modules/terraform-aws-msk-kafka-cluster) - Creates AWS MSK (Managed Streaming for Kafka) resources on AWS.
+*   [terraform-aws-rds-proxy (⭐50)](https://github.com/terraform-aws-modules/terraform-aws-rds-proxy) - Creates AWS RDS Proxy resources on AWS.
+*   [terraform-digitalocean-droplet](https://registry.terraform.io/modules/terraform-digitalocean-modules/droplet/digitalocean/latest) - Terraform module for managing DigitalOcean Droplets and related resources.
+*   [terraform-linode-k8s](https://registry.terraform.io/modules/linode/k8s/linode/latest) - Installs Kubernetes on Linode Instances.
 
-## [9. Awesome V](/content/vlang/awesome-v/week/README.md)
+### Private Registries / Miscellaneous
+
+*   [boring-registry (⭐130)](https://github.com/boring-registry/boring-registry) - Private Terraform Module/Provider Registry with API key authentication and blob storage support
+
+### Providers / Vendor supported providers
+
+*   [terraform-provider-dominos (⭐1.1k)](https://github.com/nat-henderson/terraform-provider-dominos) - Provider for Dominos Pizza.
+*   [terraform-provider-snowflake (⭐457)](https://github.com/Snowflake-Labs/terraform-provider-snowflake) - Provider for Snowflake data warehouse.
+
+### Tools / Community providers
+
+*   [Argonaut](https://www.argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes. Autogenerate Terraform modules, customize configurations through PRs. Support for app deployments on Kubernetes and Lambda environments.
+*   [layerform (⭐1.2k)](https://github.com/briefercloud/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple "staging" environments.
+*   [terraform-bundle (⭐40k)](https://github.com/hashicorp/terraform/tree/main/tools/terraform-bundle) - Easily builds bundles containing a Terraform binary as well as provider binaries. Useful for CI and air-gapped Terraform Enterprise.
+*   [terraform-operator (⭐334)](https://github.com/GalleyBytes/terraform-operator) - A Kubernetes CRD to handle Terraform operations.
+*   [terraform.py (⭐448)](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
+*   [terrahub (⭐219)](https://github.com/tfxor/terrahub) - TerraHub is terraform automation and orchestration tool. Seamlessly integrated into console.terrahub.io, enterprise friendly GUI to show realtime terraform executions, as well as auditing and reporting capabilities for historical terraform runs. :heavy\_dollar\_sign:
+*   [terramate (⭐2.8k)](https://github.com/terramate-io/terramate) - Tool for managing multiple Terraform stacks that comes with support for change detection and code generation
+*   [terrascan (⭐4.3k)](https://github.com/tenable/terrascan) - Collection of security and best practice test for static code analysis of terraform templates
+*   [tfautomv (⭐612)](https://github.com/busser/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring
+*   [tfmask (⭐196)](https://github.com/cloudposse-archives/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
+*   [tgf (⭐94)](https://github.com/coveooss/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
+
+### Terraform Enterprise / IDE
+
+*   [terraform-enterprise-migrator (⭐12)](https://github.com/silinternational/tfc-ops) - Script for migrating Terraform Enterprise environments from Legacy to new version of Terraform Enterprise.
+*   [tfe-state-explorer (⭐18)](https://github.com/segment-boneyard/tfe-state-explorer) - Simple shell for exploring remote terraform enterprise state, with autocomplete. :skull:
+*   [Scalr](https://www.scalr.com/) - Alternative to Terraform Enterprise with OPA integration, organizational structure, custom hooks, native integrations with other DevOps platforms, and centralized reporting.  :heavy\_dollar\_sign:
+*   [env0](https://www.env0.com/) - Alternative to Terraform Cloud/Enterprise with OPA integration, custom flows and Terragrunt support :heavy\_dollar\_sign:
+
+### Videos / IDE
+
+*   [Orchestrating Containers with Terraform and Consul](https://www.infoq.com/presentations/terraform-consul/) - Mitchell Hashimoto shows how Terraform can be used to deploy and scale containerized workloads.
+
+### Editor Plugins / IDE
+
+*   [Emacs terraform-mode (⭐206)](https://github.com/hcl-emacs/terraform-mode)
+*   [Intellij](https://plugins.jetbrains.com/plugin/7808-terraform-and-hcl)
+*   [VS Code](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform)
+
+## [14. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Serialization
 
@@ -78,7 +221,7 @@
 
 *   [json2v (⭐20)](https://github.com/ldedev/Json2V) - Convert a json to a struct in Vlang.
 
-## [10. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [15. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### SQL / Analyzers
 
@@ -88,7 +231,7 @@
 
 *   [Dwh.dev](https://dwh.dev) - Nexgen data lineage for Snowflake.
 
-## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [16. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### JavaScript / Wicket
 
@@ -100,38 +243,38 @@
 *   [Research Software Engineering with Python](https://merely-useful.tech/py-rse/) - Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham, Greg Wilson (HTML)
 *   [Software Design by Example: A Tool-Based Introduction with Python](https://third-bit.com/sdxpy/) - Greg Wilson (HTML)
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [17. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Coordination
 
 *   [Domain-specific languages: an annotated bibliography](https://dl.acm.org/doi/abs/10.1145/352029.352035) - ***ACM SIGPLAN Notices***, 2000. \[[All Versions](https://scholar.google.com/scholar?cluster=8845429548327315750\&hl=en\&as_sdt=0,5)]. A survey on the topic of domain-specific languages as used for the construction and maintenance of software systems.
 
-## [13. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [18. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2023
 
 *   [Stealing the Decoding Algorithms of Language Models](https://people.cs.umass.edu/~amir/papers/CCS23-LM-stealing.pdf) - (CCS) *Steal the type and hyperparameters of the decoding algorithms of a LLM.*
 
-## [14. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [19. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Analytics
 
 *   [Aptabase](https://aptabase.com/for-swift) - Open Source, Privacy-First and Simple Analytics for Swift Apps.
 
-## [15. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [20. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Themes
 
 *   [rose-pine (⭐55)](https://github.com/rose-pine/tmux) - Soho vibes for tmux
 *   [tmux-kanagawa (⭐12)](https://github.com/Nybkox/tmux-kanagawa): Dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 
-## [16. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [21. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Writing assistants
 
 *   [Listomatic](https://listomatic.app) - Free and fully configurable real estate listing description generator.
 
-## [17. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [22. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Official documentation
 
@@ -142,7 +285,7 @@
 
 *   Interesting thread about Polars on [Hacker News](https://news.ycombinator.com/item?id=38920043)
 
-## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Others
 
@@ -156,13 +299,13 @@
 
 *   [OpenIn](https://loshadki.app/openin4/) - Take control of installed apps on your Mac [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331?mt=12)
 
-## [19. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [24. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Editors / Web Editors
 
 *   [Rapid](https://rapideditor.org/edit) - AI assisted versions of iD. ([Meta-Repo (⭐175)](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook) / [Editor Source Code (⭐415)](https://github.com/facebook/Rapid) / [Wiki](https://wiki.openstreetmap.org/wiki/RapiD))
 
-## [20. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [25. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Platforms / Localization and translation platforms
 
@@ -177,7 +320,7 @@
 *   [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow.
 *   [ParaglideJS](https://inlang.com/m/gerre34r) - Synchronous, typesafe and lightweight i18n library.
 
-## [21. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [26. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Loaders
 
@@ -192,7 +335,7 @@
 
 *   [vite-manifest-parser (⭐1)](https://github.com/sullay/vite-manifest-parser) - Parses manifest.json to generate HTML script and link tags.
 
-## [22. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [27. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Code Editors:
 
@@ -200,13 +343,13 @@
 
 
 
-## [23. Awesome Spanish Nlp](/content/dav009/awesome-spanish-nlp/week/README.md)
+## [28. Awesome Spanish Nlp](/content/dav009/awesome-spanish-nlp/week/README.md)
 
 ### Corpora / Corpora
 
 *   [OSCAR or Open Super-large Crawled ALMAnaCH coRpus Spanish subset](https://traces1.inria.fr/oscar/)
 
-## [24. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [29. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
@@ -216,7 +359,11 @@
 
 *   [playwright-elements](https://danteukraine.github.io/playwright-elements) - Playwright test extension for creatation of reusable components with ability to add child elements, methods and call them in chain. Reduce amount of your code in page object, or even use elements without page object.
 
-## [25. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+### Reporters
+
+*   [qase (⭐41)](https://github.com/qase-tms/qase-javascript/tree/master/qase-playwright) - Playwright Qase Reporter, send test executions to [qase](https://qase.io/).
+
+## [30. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -271,14 +418,14 @@
 
 *   [Standard Webhooks (⭐864) (⭐856)](https://github.com/standard-webhooks/standard-webhooks) - Open source tools and guidelines for sending webhooks easily, securely, and reliably.
 
-## [26. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [31. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
 *   [Adwaita for Steam (⭐950)](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
 *   [Adwaita theme for VS Code (⭐118)](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
 
-## [27. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [32. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### AI Tools for Research / Multi-agents
 
@@ -297,37 +444,38 @@
 
 *   [Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum](https://spectrum.ieee.org/midjourney-copyright): "Experiments with Midjourney and DALL-E 3 show a copyright minefield"
 
-## [28. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [33. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Infrastructure as Code Analysis / Kubernetes
 
 *   [Kubescape](https://kubescape.io/) - *Cloud Native Computing Foundation* - An open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters.
 
-## [29. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [34. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Action
 
 *   [OpenRW](https://openrw.org/) - A cross-platform, open source re-implementation of Rockstar Games' Grand Theft Auto III.
 
-## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
+*   [pacmandoh (⭐1)](https://github.com/pacmandoh/omz-theme-pacmandoh) - Enhance your command-line with a sleek theme—Git integration, permissions feedback, Python environment support, and dynamic prompts, all in one, customizable with a single installation script and selectable styles
 *   [ulyssesys (⭐0)](https://github.com/UlyssesZh/ulyssesys) - Has decorators for full path to current directory, exit code of last command and `git` status.
 
-## [31. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [36. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### IDE
 
 *   [Fine](https://www.fine.dev/) - Build Software with AI Agents.
 
-## [32. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [37. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Firmware projects / WIP
 
 *   [BillMock (⭐9)](https://github.com/pmnxis/billmock-app-rs): Firmware for credit card terminal add-on hardware to install on Korean arcade machines
 
-## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Containers
 
@@ -357,19 +505,19 @@
 
 *   [LuaBridge3 (⭐181)](https://github.com/kunitoki/LuaBridge3) - A lightweight, dependency-free library for binding Lua, LuaJIT, Luau and Ravi to C++. \[MIT]
 
-## [34. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
+## [39. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
 ### Development tools
 
 *   [GCC IA-16 toolchain](https://gitlab.com/tkchia/build-ia16/-/releases) - A 16-bit counterpart to DJGPP, a GCC-based toolchain for developing 16-bit (8086 to 80286, a.k.a. IA-16) DOS applications, currently maintained by TK Chia.
 
-## [35. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [40. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Entertainment
 
 *   [Get Games (⭐3)](https://github.com/regenin/get_games) - Flutter app showing free and discounted games, find the cheapest store by [regenin](https://github.com/regenin).
 
-## [36. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [41. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Miscellaneous
 
@@ -379,7 +527,7 @@
 
 *   [WikiDocs](http://wikidocs.it) - A databaseless markdown flat-file wiki engine. ([Demo](https://demo.wikidocs.it), [Source Code (⭐134)](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
 
-## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -390,7 +538,7 @@
 
 *   [v0.dev](https://v0.dev/) — v0 uses AI models to generate code based on simple text prompts. It generates copy-and-paste friendly React code based on shadcn/ui and Tailwind CSS that people can use in their projects. Each generation takes at minimum 30 credits. You start up with 1200 credits, and get 200 free credits every month.
 
-## [38. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### PHP / Diagnostics
 
@@ -399,6 +547,7 @@
 ### Editing Support / Diagnostics
 
 *   [gregorias/coerce.nvim (⭐11)](https://github.com/gregorias/coerce.nvim) - Change keyword case.
+*   [johmsalas/text-case.nvim (⭐311)](https://github.com/johmsalas/text-case.nvim) - Text case changes via keybindings and custom substitute command with Telescope and LSP support.
 
 ---
 

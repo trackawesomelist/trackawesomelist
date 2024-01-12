@@ -6,6 +6,23 @@ A curated list of awesome tools, content and projects using k6
 
 [ Daily / [Weekly](/content/grafana/awesome-k6/week/README.md) / [Overview](/content/grafana/awesome-k6/readme/README.md) ]
 
+## [Jan 12, 2024](/content/2024/01/12/README.md)
+
+### Articles
+
+*   [Streamlining Performance Testing with K6 and ChatGPT](https://medium.com/@monish.correia/streamlining-performance-testing-with-k6-and-chatgpt-206c6c7db82b) - Monish Correia writes k6 tests using GitHub co-pilot.
+
+### Examples/Templates
+
+*   [tom-miseur/k6-templates (⭐32)](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
+*   [SwissLife-OSS/k6-multiscenario-template (⭐48)](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
+*   [Im5tu/template-k6 (⭐4)](https://github.com/Im5tu/template-k6) - A K6 Performance Test Suite Template.
+*   [mohsenny/k6-test-template (⭐0)](https://github.com/mohsenny/k6-test-template) - Load testing framework.
+*   [kwidera/k6\_framework (⭐0)](https://github.com/kwidera/k6_framework) - Another k6 framework example.
+*   [Sahanipe/pet\_store (⭐0)](https://github.com/Sahanipe/pet_store) - Modularized scripts for the Swagger PetStore APIs.
+*   [lreimer/continuous-k6k8s (⭐18)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
+*   [luketn/docker-k6-grafana-influxdb (⭐128)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
+
 ## [Jan 11, 2024](/content/2024/01/11/README.md)
 
 ### CI/CD
@@ -23,7 +40,7 @@ A curated list of awesome tools, content and projects using k6
 
 ## [Nov 22, 2023](/content/2023/11/22/README.md)
 
-### Examples
+### Examples/Templates
 
 *   [k6 examples](https://k6.io/docs/examples/) - A list of common examples on the k6 documentation.
 
@@ -63,9 +80,8 @@ A curated list of awesome tools, content and projects using k6
 
 ## [Aug 30, 2022](/content/2022/08/30/README.md)
 
-### Examples
+### Examples/Templates
 
-*   [k6 templates (⭐32)](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
 *   [k6-typescript-template (⭐237)](https://github.com/grafana/k6-template-typescript) - Template to use TypeScript with k6.
 
 ## [Aug 29, 2022](/content/2022/08/29/README.md)
@@ -118,7 +134,7 @@ A curated list of awesome tools, content and projects using k6
 
 ## [Apr 04, 2022](/content/2022/04/04/README.md)
 
-### Examples
+### Examples/Templates
 
 *   [k6-template-es6 (⭐73)](https://github.com/grafana/k6-template-es6) - Template repository for bundling test projects into single test scripts runnable by k6.
 
@@ -160,11 +176,7 @@ A curated list of awesome tools, content and projects using k6
     *   [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - A walkthrough of the open-source load and performance regression testing tool, k6, and how to load test your APIs and websites, by Chris James.
     *   [Application Load Testing with k6](https://www.youtube.com/watch?v=iQmItkazLOk) - Daniel Knittl-Frank @TechTalk Days 2021, Intro to k6.
     *   [Performance testing: from zero to hero with k6 & Azure](https://www.youtube.com/watch?v=5G6zYLX9qvM) - Jose Luis Latorre Millas at Cloud Summit 2021.
-    *   [Write load tests with co-pilot](https://twitter.com/yusuftayman/status/1456972872853852165) - Yusuf writing k6 tests using GitHub co-pilot.
-
-### Examples
-
-*   [example-data-generation (⭐47)](https://github.com/grafana/k6-example-data-generation) - Generate realistic data for k6 using faker.
+    *   [AI-Powered K6 Testing: No Code, No Hassle, Just ChatGPT! 🦾🚀](https://www.youtube.com/watch?v=RYyPduBqGM4) - In this video, Karthik K.K. demonstrates how ChatGPT can create k6 tests without writing a single line of code.
 
 ### Tools
 
@@ -197,11 +209,6 @@ A curated list of awesome tools, content and projects using k6
 *   [Beginner's guide to load testing with k6](https://link.medium.com/npI9sjDyyjb) - Introductory guide in several parts, helping you get started with k6.
 *   [Beautiful Load Testing With K6 and Docker Compose](https://medium.com/swlh/beautiful-load-testing-with-k6-and-docker-compose-4454edb3a2e3) - How to run load tests using the awesome combination of Docker Compose, K6, InfluxDB and Grafana.
 
-### Examples
-
-*   [k6-multiscenario-template (⭐48)](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
-*   [docker-k6-grafana-influxdb (⭐128)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
-
 ## [Aug 17, 2021](/content/2021/08/17/README.md)
 
 ### Articles
@@ -225,12 +232,6 @@ A curated list of awesome tools, content and projects using k6
 ### Articles
 
 *   [Load Testing & Black Friday capacity planning](https://medium.com/back-market-engineering/how-back-market-sres-prepared-for-black-friday-5f017f343408) - How Back Market prepared for Black Friday with k6 based load testing.
-
-## [Dec 11, 2020](/content/2020/12/11/README.md)
-
-### Examples
-
-*   [continuous-k6k8s (⭐18)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
 
 ## [Nov 29, 2020](/content/2020/11/29/README.md)
 
@@ -258,10 +259,6 @@ A curated list of awesome tools, content and projects using k6
 *   [Test and visualize with InfluxDB, Grafana and K6](https://medium.com/@naoko.reeves/load-test-with-k6-and-visualize-with-influxdb-and-grafana-c6097a6f6d0a) - Setting up load tests and visualizing them using grafana dashboards.
 *   [Open source load testing tool review 2020](https://k6.io/blog/comparing-best-open-source-load-testing-tools) - Detailed comparison of the most popular open source load testing tools.
 *   [CloudPosse's Load Testing Stack (⭐54)](https://github.com/cloudposse/load-testing) - Load testing stack using k6, Grafana and InfluxDB.
-
-### Examples
-
-*   [k6-performance-test-websocket (⭐6)](https://github.com/Julianhm9612/k6-performance-test-websocket) - Example of performance test for websocket with k6.
 
 ### Tools
 
