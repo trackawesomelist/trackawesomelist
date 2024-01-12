@@ -1,18 +1,49 @@
 # Awesome List Updates on Jan 12, 2024
 
-10 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Frameworks
+
+*   [Infinity (⭐807)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. \[Apache2]
+
+## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+
+### Libraries/Frameworks / Graphics
+
+*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
+
+## [3. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
+
+### Web Development
+
+*   [Frontend development roadmap (⭐3.9k)](https://github.com/sadanandpai/frontend-learning-kit/blob/main/public/2024_FE_roadmap.pdf) - Frontend development interview checklist & roadmap [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/sadanandpai/frontend-learning-kit/blob/main/public/2024_FE_roadmap.pdf).
+
+## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+
+### UI Libraries, Components & Templates
+
+*   📁 [Astro Template Dante (⭐1)](https://github.com/JustGoodUI/dante-astro-theme) - Tailwind CSS & Astro blog/portfolio template.
+
+## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Libraries / Community
+
+*   [Vike (⭐3.1k)](https://github.com/vikejs/vike) - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883) ![vue2](https://img.shields.io/badge/-Vue%202-42b883) ![svelte](https://img.shields.io/badge/-Svelte-db552a)
+*   [SSRx (⭐23)](https://github.com/marbemac/ssrx) - A thin layer on top of Vite to build modern SSR apps with a delightful DX.
+
+## [6. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Reporters
 
 *   [qase (⭐41)](https://github.com/qase-tms/qase-javascript/tree/master/qase-playwright) - Playwright Qase Reporter, send test executions to [qase](https://qase.io/).
 
-## [2. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [7. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Articles
 
@@ -29,26 +60,26 @@
 *   [lreimer/continuous-k6k8s (⭐18)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
 *   [luketn/docker-k6-grafana-influxdb (⭐128)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
 
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### REPLs / Third-party APIs
 
 *   [cl-repl (⭐9)](https://github.com/lisp-maintainers/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [GPL3](http://www.gnu.org/copyleft/gpl.html). With [colorthemes (⭐12)](https://github.com/koji-kojiro/lem-pygments-colorthemes).
     *   new as of 2024: it now provides multi-line input and binary releases. Simply download a binary (Ubuntu so far) and run it.
 
-## [4. Awesome Video](/content/krzemienski/awesome-video/README.md)
+## [9. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
 ### Players / Android
 
 *   [androidx/media (⭐952)](https://github.com/androidx/media) - Collection of Android libraries implementing video playback and editing, media sessions and more. Formerly known as [google/ExoPlayer (⭐21k)](https://github.com/google/ExoPlayer).
 
-## [5. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [10. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Type / React
 
 *   [garph (⭐1.3k)](https://github.com/stepci/garph) - Garph is full-stack framework for building type-safe GraphQL APIs in TypeScript.
 
-## [6. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/README.md)
+## [11. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/README.md)
 
 ### TW Elements useful links (Tailwind CSS)
 
@@ -66,25 +97,25 @@
 *   [Sveltekit Integration](https://tw-elements.com/docs/standard/integrations/sveltekit-integration/)
 *   [Vue Integration](https://tw-elements.com/docs/standard/integrations/vue-integration/)
 
-## [7. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [12. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Crates / Component Libraries
 
 *   [Zu (⭐2)](https://github.com/RustVis/zu) - Yew web components, implementing Material Design.
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing Support / Diagnostics
 
 *   [johmsalas/text-case.nvim (⭐311)](https://github.com/johmsalas/text-case.nvim) - Text case changes via keybindings and custom substitute command with Telescope and LSP support.
 
-## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [pacmandoh (⭐1)](https://github.com/pacmandoh/omz-theme-pacmandoh) - Enhance your command-line with a sleek theme—Git integration, permissions feedback, Python environment support, and dynamic prompts, all in one, customizable with a single installation script and selectable styles
 
-## [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [15. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Official Resources
 
