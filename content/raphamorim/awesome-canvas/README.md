@@ -6,18 +6,24 @@ A curated list of awesome HTML5 Canvas with examples, related articles and posts
 
 [ Daily / [Weekly](/content/raphamorim/awesome-canvas/week/README.md) / [Overview](/content/raphamorim/awesome-canvas/readme/README.md) ]
 
+## [Jan 14, 2024](/content/2024/01/14/README.md)
+
+### Canvas / Examples
+
+*   [Matrix Animation](https://matrix.dotglitch.dev/) \[[show me the code (⭐1)](https://github.com/knackstedt/matrix-animation)] • A Matrix Rain animation using canvas.
+
 ## [Nov 19, 2023](/content/2023/11/19/README.md)
 
 ### Libraries / To draw using canvas
 
-*   [Chart.js (⭐62k)](https://github.com/chartjs/Chart.js) is a lightweight JavaScript library for creating dynamic and visually appealing charts using the HTML5 Canvas element.
+*   [Chart.js (⭐63k)](https://github.com/chartjs/Chart.js) is a lightweight JavaScript library for creating dynamic and visually appealing charts using the HTML5 Canvas element.
 *   [ZIM](https://zimjs.com/) - ZIM is a general Canvas Framework with simple, powerful JavaScript that lets everyone, from beginners to professionals, code creativity.
 
 ## [Feb 09, 2023](/content/2023/02/09/README.md)
 
 ### Libraries / To draw using canvas
 
-*   [Javascript-Voronoi (⭐981)](https://github.com/gorhill/Javascript-Voronoi) - A Javascript implementation of Fortune's algorithm to compute Voronoi cells
+*   [Javascript-Voronoi (⭐987)](https://github.com/gorhill/Javascript-Voronoi) - A Javascript implementation of Fortune's algorithm to compute Voronoi cells
 
 ### Resources / Websites and Tutorials
 
@@ -34,7 +40,7 @@ A curated list of awesome HTML5 Canvas with examples, related articles and posts
 
 ### Canvas / Examples
 
-*   [tsParticles examples](https://codepen.io/tv/DPOage) Collection of [tsParticles (⭐6k)](https://github.com/matteobruni/tsparticles) particles animations samples
+*   [tsParticles examples](https://codepen.io/tv/DPOage) Collection of [tsParticles (⭐6.2k)](https://github.com/matteobruni/tsparticles) particles animations samples
 
 ### Libraries / To draw using canvas
 
@@ -48,7 +54,7 @@ A curated list of awesome HTML5 Canvas with examples, related articles and posts
 
 ### Canvas / Examples
 
-*   [PixelCraft (⭐1.1k)](https://github.com/rgab1508/PixelCraft) • A pixel-art editor made using canvas
+*   [PixelCraft (⭐1.2k)](https://github.com/rgab1508/PixelCraft) • A pixel-art editor made using canvas
 
 ## [Oct 22, 2020](/content/2020/10/22/README.md)
 
@@ -56,7 +62,7 @@ A curated list of awesome HTML5 Canvas with examples, related articles and posts
 
 *   [EaselJS](https://createjs.com/easeljs) is a JavaScript library that makes working with the HTML5 Canvas element easy. Useful for creating games, generative art, and other highly graphical experiences. EaselJS is part of CreateJS - a modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.
 *   [Scrawl-canvas](https://scrawl-v8.rikweb.org.uk/) - easily add multiple responsive, accessible and interactive \<canvas> elements to a web page
-*   [zrender (⭐5.8k)](https://github.com/ecomfe/zrender) - A lightweight canvas library which providing 2d draw for Apache ECharts (incubating)
+*   [zrender (⭐5.9k)](https://github.com/ecomfe/zrender) - A lightweight canvas library which providing 2d draw for Apache ECharts (incubating)
 
 ## [Oct 13, 2020](/content/2020/10/13/README.md)
 
@@ -138,7 +144,7 @@ A curated list of awesome HTML5 Canvas with examples, related articles and posts
 
 ### Libraries / To draw using canvas
 
-*   [Origami.js (⭐765)](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
+*   [Origami.js (⭐767)](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
 
 ## [Nov 07, 2015](/content/2015/11/07/README.md)
 
@@ -149,7 +155,7 @@ A curated list of awesome HTML5 Canvas with examples, related articles and posts
 *   [iio.js (⭐457)](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
 *   [Paper.js (⭐14k)](https://github.com/paperjs/paper.js) - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
 *   [Pixi.js](http://www.pixijs.com) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback
-*   [Sketch (⭐4k)](https://github.com/soulwire/sketch.js) - Cross-Platform JavaScript Creative Coding Framework
+*   [Sketch (⭐4.1k)](https://github.com/soulwire/sketch.js) - Cross-Platform JavaScript Creative Coding Framework
 
 ## [Oct 10, 2015](/content/2015/10/10/README.md)
 
@@ -183,7 +189,7 @@ A curated list of awesome HTML5 Canvas with examples, related articles and posts
 *   [Canvas Colour Cycling](http://www.effectgames.com/demos/canvascycle/) \[[show me the code](http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5)] • This demo is an implementation of a full 8-bit color cycling engine, rendered into an HTML5 Canvas in real-time.
 *   [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) \[[show me the code](http://cssdeck.com/labs/zeaklousedit)] • A great example about how to create circular rings using canvas.
 *   [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended) • Thid demo renders a 3d model of Apple iPod with sphere environmental mapping technique.
-*   [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) \[[show me the code (⭐205)](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)] • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.
+*   [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) \[[show me the code (⭐207)](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)] • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.
 *   [Fibrous Texture](http://cssdeck.com/labs/full/fibrous) \[[show me the code](http://cssdeck.com/labs/fibrous)] • Simple canvas based animation; draws random lines across the field. Makes an interesting papery pattern that becomes increasingly detailed with each iteration.
 *   [Image Nodes](http://cssdeck.com/labs/full/image-nodes) \[[show me the code](http://cssdeck.com/labs/image-nodes)] • Interactive nodes built from image data. Use the mouse to play.
 *   [JS Metaballs](http://cssdeck.com/labs/full/js-metaballs) \[[show me the code](http://cssdeck.com/labs/js-metaballs)] • Experiment for Chrome. Mix of webkit-filter and canvas for a metaballs effect.
@@ -206,8 +212,8 @@ A curated list of awesome HTML5 Canvas with examples, related articles and posts
 ### Resources / Twitter
 
 *   [@jeresig](https://twitter.com/jeresig) - Creator of [Processing.js (⭐1.7k)](https://github.com/jeresig/processing-js)
-*   [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js (⭐96k)](https://github.com/mrdoob/three.js)
-*   [@soulwire](https://twitter.com/soulwire) - Creator of [sketch.js (⭐4k)](https://github.com/soulwire/sketch.js) and actively creating and sharing canvas/WebGL experiments
+*   [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js (⭐97k)](https://github.com/mrdoob/three.js)
+*   [@soulwire](https://twitter.com/soulwire) - Creator of [sketch.js (⭐4.1k)](https://github.com/soulwire/sketch.js) and actively creating and sharing canvas/WebGL experiments
 *   [@spielzeugz](https://twitter.com/spielzeugz) - Actively creating and sharing canvas experiments
 *   [@paul\_irish](https://twitter.com/paul_irish) - Active contributor and write a [reference post about requestAnimationFrame](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
 

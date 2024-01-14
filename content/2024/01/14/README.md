@@ -1,0 +1,57 @@
+# Awesome List Updates on Jan 14, 2024
+
+5 awesome lists updated today.
+
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
+
+
+
+## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Audio and Music
+
+*   [Spotify Player (⭐896)](https://github.com/aome510/spotify-player) — A Spotify player in the terminal with full feature parity.
+
+### Libraries / Data structures
+
+*   [xfix/enum-map](https://codeberg.org/xfix/enum-map) \[[enum-map](https://crates.io/crates/enum-map)] — An optimized map implementation for enums using an array to store values.
+
+## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Automation
+
+*   [Mylar3](https://mylarcomics.com/) - Automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. ([Source Code (⭐889)](https://github.com/mylar3/mylar3)) `GPL-3.0` `Python/Docker`
+
+### Software / File Transfer - Object Storage & File Servers
+
+*   [ZOT OCI Registry](https://zotregistry.dev) - A production-ready vendor-neutral OCI-native container image registry. ([Demo](https://zothub.io), [Source Code (⭐603)](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
+
+### Software / Proxy
+
+*   [txtdot](https://txtdot.github.io/documentation/) - A HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts. ([Demo](https://txt.dc09.ru), [Source Code (⭐25)](https://github.com/TxtDot/txtdot)) `MIT` `Nodejs/Docker`
+
+## [3. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
+
+### Canvas / Examples
+
+*   [Matrix Animation](https://matrix.dotglitch.dev/) \[[show me the code (⭐1)](https://github.com/knackstedt/matrix-animation)] • A Matrix Rain animation using canvas.
+
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Startup / Diagnostics
+
+*   [CWood-sdf/spaceport.nvim (⭐1)](https://github.com/CWood-sdf/spaceport.nvim) - The start screen that gets you to your projects blazingly fast.
+
+### Preconfigured Configuration / Diagnostics
+
+*   [Cris-lml007/NeoPlus (⭐1)](https://github.com/Cris-lml007/NeoPlus) - NeoPlus is a free, open source IDE with tools that works on Neovim.
+
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [mise (⭐1)](https://github.com/wintermi/zsh-mise) - Plugin for [mise](https://mise.jdx.dev/) (formerly called rtx) a fast polyglot version manager, replacing tools like `nvm`, `nodenv`, `rbenv`, `rvm`, `chruby`, `pyenv`, etc.
+
+---
+
+- Next: [Jan 13, 2024](/content/2024/01/13/README.md)
