@@ -1,22 +1,32 @@
 # Awesome List Updates on Jan 14, 2024
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [1. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Python / Numerical Libraries & Data Structures
+
+*   [ArcticDB (⭐893)](https://github.com/man-group/ArcticDB) - High performance datastore for time series and tick data.
+
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Audio and Music
 
 *   [Spotify Player (⭐896)](https://github.com/aome510/spotify-player) — A Spotify player in the terminal with full feature parity.
 
+### Applications / Productivity
+
+*   [ast-grep (⭐5k)](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting. Written in Rust.
+
 ### Libraries / Data structures
 
 *   [xfix/enum-map](https://codeberg.org/xfix/enum-map) \[[enum-map](https://crates.io/crates/enum-map)] — An optimized map implementation for enums using an array to store values.
 
-## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
@@ -30,13 +40,13 @@
 
 *   [txtdot](https://txtdot.github.io/documentation/) - A HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts. ([Demo](https://txt.dc09.ru), [Source Code (⭐25)](https://github.com/TxtDot/txtdot)) `MIT` `Nodejs/Docker`
 
-## [3. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
+## [4. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
 ### Canvas / Examples
 
 *   [Matrix Animation](https://matrix.dotglitch.dev/) \[[show me the code (⭐1)](https://github.com/knackstedt/matrix-animation)] • A Matrix Rain animation using canvas.
 
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Startup / Diagnostics
 
@@ -46,7 +56,7 @@
 
 *   [Cris-lml007/NeoPlus (⭐1)](https://github.com/Cris-lml007/NeoPlus) - NeoPlus is a free, open source IDE with tools that works on Neovim.
 
-## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

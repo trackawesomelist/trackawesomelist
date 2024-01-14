@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [Spotify Player (⭐896)](https://github.com/aome510/spotify-player) — A Spotify player in the terminal with full feature parity.
 
+### Applications / Productivity
+
+*   [ast-grep (⭐5k)](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting. Written in Rust.
+
 ### Libraries / Data structures
 
 *   [xfix/enum-map](https://codeberg.org/xfix/enum-map) \[[enum-map](https://crates.io/crates/enum-map)] — An optimized map implementation for enums using an array to store values.
@@ -56,7 +60,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Audio and Music
 
-*   [Festival (⭐213)](https://github.com/hinto-janai/festival) — A local music player/server/client [![build-badge](https://github.com/hinto-janai/festival/actions/workflows/ci.yml/badge.svg)](https://github.com/hinto-janai/festival/actions/workflows/ci.yml)
+*   [Festival (⭐223)](https://github.com/hinto-janai/festival) — A local music player/server/client [![build-badge](https://github.com/hinto-janai/festival/actions/workflows/ci.yml/badge.svg)](https://github.com/hinto-janai/festival/actions/workflows/ci.yml)
 *   [termusic (⭐680)](https://github.com/tramhao/termusic) - Music Player TUI written in Rust
 
 ### Applications / Database
