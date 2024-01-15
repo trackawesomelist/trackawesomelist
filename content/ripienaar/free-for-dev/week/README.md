@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
+
+### Other Free Resources
+
+*   [360Converter](https://www.360converter.com/) - Free tier useful website to convert: Video to Text && Audio to Text && Speech to Text && Real-time Audio to Text && YouTube Video to Text && add Video Subtitle. Maybe it will be helpful in a short video conversion or in a short youtube tutorial:)
+
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 
 ### APIs, Data, and ML

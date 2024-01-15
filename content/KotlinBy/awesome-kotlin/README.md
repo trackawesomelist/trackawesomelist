@@ -6,17 +6,15 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 [ Daily / [Weekly](/content/KotlinBy/awesome-kotlin/week/README.md) / [Overview](/content/KotlinBy/awesome-kotlin/readme/README.md) ]
 
-## [Jan 13, 2024](/content/2024/01/13/README.md)
-
-### Libraries/Frameworks / Extensions
-
-*   [Kotlin/kotlinx.support (⭐54)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
-
-## [Jan 12, 2024](/content/2024/01/12/README.md)
+## [Jan 15, 2024](/content/2024/01/15/README.md)
 
 ### Libraries/Frameworks / Graphics
 
 *   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
+
+### Libraries/Frameworks / Data Science
+
+*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
 
 ## [Dec 26, 2023](/content/2023/12/26/README.md)
 
@@ -78,10 +76,6 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [typesafegithub/github-workflows-kt (⭐440)](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
 
 ## [Nov 20, 2023](/content/2023/11/20/README.md)
-
-### Libraries/Frameworks / Data Science
-
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
 
 ### Libraries/Frameworks / Logging
 
@@ -190,8 +184,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [Ashampoo/kim (⭐126)](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata
 *   [Ashampoo/xmpcore (⭐14)](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK
+*   [Ashampoo/kim (⭐126)](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata
 
 ## [Jul 04, 2023](/content/2023/07/04/README.md)
 
@@ -1834,10 +1828,10 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [ionspin/kotlin-multiplatform-bignum (⭐290)](https://github.com/ionspin/kotlin-multiplatform-bignum) - Pure kotlin multiplatform arbitrary precision arithmetic library.
-*   [davidepianca98/KMQTT (⭐122)](https://github.com/davidepianca98/KMQTT) - MQTT Broker library/executables for Kotlin multiplatform.
-*   [GitLiveApp/firebase-kotlin-sdk (⭐797)](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first Multiplatform SDK for Firebase supporting iOS, Android & Web
 *   [DetachHead/kotlinxpath (⭐4)](https://github.com/DetachHead/kotlinxpath) - A typesafe builder for Xpath with several useful helper functions that make Xpath easier to work with
+*   [davidepianca98/KMQTT (⭐122)](https://github.com/davidepianca98/KMQTT) - MQTT Broker library/executables for Kotlin multiplatform.
+*   [ionspin/kotlin-multiplatform-bignum (⭐290)](https://github.com/ionspin/kotlin-multiplatform-bignum) - Pure kotlin multiplatform arbitrary precision arithmetic library.
+*   [GitLiveApp/firebase-kotlin-sdk (⭐797)](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first Multiplatform SDK for Firebase supporting iOS, Android & Web
 
 ### Libraries/Frameworks / Extensions
 
