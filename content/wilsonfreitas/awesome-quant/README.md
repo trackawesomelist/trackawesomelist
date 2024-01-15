@@ -6,6 +6,12 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 [ Daily / [Weekly](/content/wilsonfreitas/awesome-quant/week/README.md) / [Overview](/content/wilsonfreitas/awesome-quant/readme/README.md) ]
 
+## [Jan 15, 2024](/content/2024/01/15/README.md)
+
+### Julia / FrameWorks
+
+*   [IncTA.jl](https://femtotrader.github.io/IncTA.jl) - Julia Incremental Technical Analysis Indicators
+
 ## [Jan 14, 2024](/content/2024/01/14/README.md)
 
 ### Python / Numerical Libraries & Data Structures
