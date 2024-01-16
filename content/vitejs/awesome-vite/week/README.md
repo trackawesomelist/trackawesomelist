@@ -6,6 +6,12 @@
 
 [ [Daily](/content/vitejs/awesome-vite/README.md) / Weekly / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-bundle-prefetch (⭐1)](https://github.com/dreambo8563/vite-plugin-bundle-prefetch) - Inject prefetch assets into `index.html`.
+
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 
 ### Framework-agnostic Plugins / Loaders
@@ -30,7 +36,7 @@
 
 ### Templates / Vanilla
 
-*   [vite-vanilla-library-template (⭐0)](https://github.com/hywax/vite-vanilla-library-template) - Starter template TypeScript, ESLint, Vitest, Husky, Conventional Commits, GitHub actions.
+*   [vite-vanilla-library-template (⭐1)](https://github.com/hywax/vite-vanilla-library-template) - Starter template TypeScript, ESLint, Vitest, Husky, Conventional Commits, GitHub actions.
 
 ### Templates / Vue 3
 
@@ -561,7 +567,6 @@
 
 ### Templates / Vanilla
 
-*   [vite-tailwind](https://github.com/sadman-shami/vite-tailwind-boilerplate.git) - Starter template for Tailwindcss.
 *   [docker-vitejs-tailwind-handlebars (⭐6)](https://github.com/dendrofen/docker-vitejs-tailwind-handlebars) - Starter template for TailwindCSS and Handlebars (Docker Compose).
 
 ### Templates / React

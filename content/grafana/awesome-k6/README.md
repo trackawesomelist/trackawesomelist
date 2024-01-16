@@ -6,6 +6,12 @@ A curated list of awesome tools, content and projects using k6
 
 [ Daily / [Weekly](/content/grafana/awesome-k6/week/README.md) / [Overview](/content/grafana/awesome-k6/readme/README.md) ]
 
+## [Jan 16, 2024](/content/2024/01/16/README.md)
+
+### Examples/Templates
+
+*   [agilob/multiscenario-tests](https://b.agilob.net/programming/k6/multiscenario-tests/) - Running multiple scenarios at once.
+
 ## [Jan 12, 2024](/content/2024/01/12/README.md)
 
 ### Articles

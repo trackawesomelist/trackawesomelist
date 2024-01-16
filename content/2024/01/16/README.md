@@ -1,12 +1,40 @@
 # Awesome List Updates on Jan 16, 2024
 
-10 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+## [1. Awesome K6](/content/grafana/awesome-k6/README.md)
+
+### Examples/Templates
+
+*   [agilob/multiscenario-tests](https://b.agilob.net/programming/k6/multiscenario-tests/) - Running multiple scenarios at once.
+
+## [2. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+
+### Services & Platforms
+
+*   [Apillon](http://apillon.io/) - a Web3 development platform, offering IPFS gateways, IPFS file-pinning via Crust network and IPFS powered hosting services for websites and apps.
+
+## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-bundle-prefetch (⭐1)](https://github.com/dreambo8563/vite-plugin-bundle-prefetch) - Inject prefetch assets into `index.html`.
+
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Utility / Diagnostics
+
+*   [theKnightsOfRohan/csvlens.nvim (⭐2)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens (⭐1.8k)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
+
+### Code Runner / Diagnostics
+
+*   [pianocomposer321/officer.nvim (⭐10)](https://github.com/pianocomposer321/officer.nvim) - Like dispatch.vim but using overseer.nvim.
+
+## [5. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :books: Literature / Documentation
 
@@ -66,31 +94,35 @@
 *   [VMHunt (⭐165)](https://github.com/s3team/VMHunt) - Set of tools for analyzing virtualized binary code ; now only supports 32 bit traces.
 *   [yarGen (⭐1.4k)](https://github.com/Neo23x0/yarGen) - Generator for YARA rules - The main principle is the creation of yara rules from strings found in malware files while removing all strings that also appear in goodware files.
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Compression
 
 *   [Rapidgzip (⭐269)](https://github.com/mxmlnkn/rapidgzip) - Gzip Decompression and Random Access for Modern Multi-Core Machines. \[Apache-2/MIT]
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+### Inter-process communication
+
+*   [bRPC (⭐16k)](https://github.com/apache/brpc) - bRPC is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \[Apache2] [website](https://brpc.apache.org/)
+
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Graphics
 
 *   [wahn/rs\_pbrt (⭐788)](https://github.com/wahn/rs_pbrt) — Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code.
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Extensions
 
 *   [Kotlin/kotlinx.support (⭐54)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
 
-## [5. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [9. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### AI
 
 *   [AutoGen (⭐20k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 
-## [6. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+## [10. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Editors / Mobile Editors
 
@@ -104,7 +136,7 @@
 
 *   [GeoDesk (⭐127)](https://github.com/clarisma/geodesk) - Fast and storage-efficient database for OpenStreetMap analysis.
 
-## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [11. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### Hardware
 
@@ -167,7 +199,7 @@
 *   [JR pass](https://www.jrpass.com/map#) - Interactive Map of Mainline Rail in Japan.
 *   [Belgian Train Map](https://trainmap.belgiantrain.be/) -  The Train Map shows realtime information about SNCB trains on the network such as their position on a map of Belgium.
 
-## [8. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
+## [12. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 
 ### Extensions / General Purpose
 
@@ -178,7 +210,7 @@
 
 *   [Cyanide (⭐162)](https://github.com/lefoy/cyanide-theme) — A minimal dark theme.
 
-## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -193,7 +225,7 @@
 
 *   [manpage-completion-generator (⭐16)](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generats ZSH completions from man pages. Requires [create\_manpage\_completions.py (⭐23k)](https://github.com/fish-shell/fish-shell/blob/master/share/tools/create_manpage_completions.py) which is installed by the fish shell
 
-## [10. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
+## [14. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
 
 ### Tools / Ansible
 

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Jan 16, 2024](/content/2024/01/16/README.md)
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-bundle-prefetch (⭐1)](https://github.com/dreambo8563/vite-plugin-bundle-prefetch) - Inject prefetch assets into `index.html`.
+
 ## [Jan 12, 2024](/content/2024/01/12/README.md)
 
 ### Libraries / Community
@@ -32,7 +38,7 @@
 
 ### Templates / Vanilla
 
-*   [vite-vanilla-library-template (⭐0)](https://github.com/hywax/vite-vanilla-library-template) - Starter template TypeScript, ESLint, Vitest, Husky, Conventional Commits, GitHub actions.
+*   [vite-vanilla-library-template (⭐1)](https://github.com/hywax/vite-vanilla-library-template) - Starter template TypeScript, ESLint, Vitest, Husky, Conventional Commits, GitHub actions.
 
 ### Templates / React
 
@@ -664,10 +670,6 @@
 *   [vite-reactts18-chakra-jest-husky (⭐46)](https://github.com/The24thDS/vite-reactts18-chakra-jest-husky) - React 18, TypeScript, Chakra UI, Jest, ESLint, Prettier, Husky.
 
 ## [Jan 23, 2023](/content/2023/01/23/README.md)
-
-### Templates / Vanilla
-
-*   [vite-tailwind](https://github.com/sadman-shami/vite-tailwind-boilerplate.git) - Starter template for Tailwindcss.
 
 ### Node.js / Community
 

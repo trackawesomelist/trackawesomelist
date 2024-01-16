@@ -67,7 +67,6 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-vanilla-ts-lib-starter (⭐228)](https://github.com/kbysiec/vite-vanilla-ts-lib-starter) - Starter for library (CJS, ESM, IIFE) with TypeScript, ESLint, Stylelint, Prettier, Jest, Husky + lint-staged.
 *   [vite-tailwind-nojs-starter (⭐39)](https://github.com/kometolabs/vite-tailwind-nojs-starter) - NoJS Tailwind CSS starter template.
 *   [vite-tailwind-stimulus-starter (⭐8)](https://github.com/jeremyfrank/vite-tailwind-stimulus-starter) - Starter template for Tailwind CSS and Stimulus controllers.
-*   [vite-tailwind](https://github.com/sadman-shami/vite-tailwind-boilerplate.git) - Starter template for Tailwindcss.
 *   [docker-vitejs-tailwind-handlebars (⭐6)](https://github.com/dendrofen/docker-vitejs-tailwind-handlebars) - Starter template for TailwindCSS and Handlebars (Docker Compose).
 *   [vite-phaser-ts (⭐17)](https://github.com/iwantantra/vite-phaser-ts) - Starter template with Phaser and Typescript.
 *   [vite-tinybase (⭐2)](https://github.com/tinyplex/vite-tinybase) - Starter template for TinyBase.
@@ -75,7 +74,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-vanilla-js-template (⭐8)](https://github.com/Barata-Ribeiro/vite-vanilla-js-template) - Starter template ESlint, Prettier, PostCSS, Nesting, Autoprefixer, CSS Nano, CSS Reset.
 *   [vite-starter-markup-template (⭐19)](https://github.com/Grinch3214/vite-starter-markup-template) - Starter template for Markup.
 *   [create-domco (⭐7)](https://github.com/rossrobino/domco) - Starter template for domco SSG.
-*   [vite-vanilla-library-template (⭐0)](https://github.com/hywax/vite-vanilla-library-template) - Starter template TypeScript, ESLint, Vitest, Husky, Conventional Commits, GitHub actions.
+*   [vite-vanilla-library-template (⭐1)](https://github.com/hywax/vite-vanilla-library-template) - Starter template TypeScript, ESLint, Vitest, Husky, Conventional Commits, GitHub actions.
 
 #### Vue 3
 
@@ -401,6 +400,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-plugin-singlefile (⭐607)](https://github.com/richardtallent/vite-plugin-singlefile) - Inline all JavaScript and CSS resources directly into the final `dist/index.html` file.
 *   [vite-plugin-node-polyfills (⭐170)](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - Polyfill Node's Core Modules for browser environments.
 *   [vite-plugin-cdn2 (⭐60)](https://github.com/nonzzz/vite-plugin-cdn) - Replace module with CDN.
+*   [vite-plugin-bundle-prefetch (⭐1)](https://github.com/dreambo8563/vite-plugin-bundle-prefetch) - Inject prefetch assets into `index.html`.
 
 #### Transformers
 

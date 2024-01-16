@@ -1,12 +1,40 @@
 # Awesome List Updates on Jan 15 - Jan 21, 2024
 
-17 awesome lists updated this week.
+21 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [1. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+
+### Examples/Templates
+
+*   [agilob/multiscenario-tests](https://b.agilob.net/programming/k6/multiscenario-tests/) - Running multiple scenarios at once.
+
+## [2. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+
+### Services & Platforms
+
+*   [Apillon](http://apillon.io/) - a Web3 development platform, offering IPFS gateways, IPFS file-pinning via Crust network and IPFS powered hosting services for websites and apps.
+
+## [3. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-bundle-prefetch (⭐1)](https://github.com/dreambo8563/vite-plugin-bundle-prefetch) - Inject prefetch assets into `index.html`.
+
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Utility / Diagnostics
+
+*   [theKnightsOfRohan/csvlens.nvim (⭐2)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens (⭐1.8k)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
+
+### Code Runner / Diagnostics
+
+*   [pianocomposer321/officer.nvim (⭐10)](https://github.com/pianocomposer321/officer.nvim) - Like dispatch.vim but using overseer.nvim.
+
+## [5. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :books: Literature / Documentation
 
@@ -66,25 +94,29 @@
 *   [VMHunt (⭐165)](https://github.com/s3team/VMHunt) - Set of tools for analyzing virtualized binary code ; now only supports 32 bit traces.
 *   [yarGen (⭐1.4k)](https://github.com/Neo23x0/yarGen) - Generator for YARA rules - The main principle is the creation of yara rules from strings found in malware files while removing all strings that also appear in goodware files.
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compression
 
 *   [Rapidgzip (⭐269)](https://github.com/mxmlnkn/rapidgzip) - Gzip Decompression and Random Access for Modern Multi-Core Machines. \[Apache-2/MIT]
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+### Inter-process communication
+
+*   [bRPC (⭐16k)](https://github.com/apache/brpc) - bRPC is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \[Apache2] [website](https://brpc.apache.org/)
+
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Graphics
 
 *   [wahn/rs\_pbrt (⭐788)](https://github.com/wahn/rs_pbrt) — Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code.
 
-## [4. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [8. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
 *   [AutoGen (⭐20k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 
-## [5. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [9. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Editors / Mobile Editors
 
@@ -98,7 +130,7 @@
 
 *   [GeoDesk (⭐127)](https://github.com/clarisma/geodesk) - Fast and storage-efficient database for OpenStreetMap analysis.
 
-## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [10. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Hardware
 
@@ -161,7 +193,7 @@
 *   [JR pass](https://www.jrpass.com/map#) - Interactive Map of Mainline Rail in Japan.
 *   [Belgian Train Map](https://trainmap.belgiantrain.be/) -  The Train Map shows realtime information about SNCB trains on the network such as their position on a map of Belgium.
 
-## [7. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [11. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Extensions / General Purpose
 
@@ -172,7 +204,7 @@
 
 *   [Cyanide (⭐162)](https://github.com/lefoy/cyanide-theme) — A minimal dark theme.
 
-## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -187,7 +219,7 @@
 
 *   [manpage-completion-generator (⭐16)](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generats ZSH completions from man pages. Requires [create\_manpage\_completions.py (⭐23k)](https://github.com/fish-shell/fish-shell/blob/master/share/tools/create_manpage_completions.py) which is installed by the fish shell
 
-## [9. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
+## [13. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
 ### Tools / Ansible
 
@@ -199,13 +231,13 @@
 *   [A lesson in shortcuts](https://web.archive.org/web/20180827160401/https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp) -
     How the idea of "hidden" or "dot" files was born, by Rob Pike (originally posted on Google+).
 
-## [10. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [14. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Tutorials
 
 *   [DLang YouTube Tutorials from Mike Shah](https://www.youtube.com/playlist?list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV) - Series of tutorials covering basic to advanced features of the D programming language and standard library.
 
-## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [15. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -219,19 +251,19 @@
 
 *   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [16. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Other Free Resources
 
 *   [360Converter](https://www.360converter.com/) - Free tier useful website to convert: Video to Text && Audio to Text && Speech to Text && Real-time Audio to Text && YouTube Video to Text && add Video Subtitle. Maybe it will be helpful in a short video conversion or in a short youtube tutorial:)
 
-## [13. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [17. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Software / HPGL
 
 *   [Chiplotle3 (⭐4)](https://github.com/cyprienh/chiplotle3) - Chiplotle fork updated for Python 3.x compatibility.
 
-## [14. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [18. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Developer and Requestor Resources
 
@@ -239,19 +271,19 @@
 *   [Python API Reference](https://yapapi.readthedocs.io/) - Yapapi API Reference.
 *   [JS Requestor Quickstart](https://docs.golem.network/docs/quickstarts/js-quickstart) - Get started quickly and create your first tasks/request on Golem.
 
-## [15. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [19. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Julia / FrameWorks
 
 *   [IncTA.jl](https://femtotrader.github.io/IncTA.jl) - Julia Incremental Technical Analysis Indicators
 
-## [16. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [20. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Utilities
 
 *   [v-nodejs-addon (⭐0)](https://github.com/fanlia/v-nodejs-addon) - An demo of how to create a Node.js addon with V.
 
-## [17. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [21. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### CI/CD / Other
 

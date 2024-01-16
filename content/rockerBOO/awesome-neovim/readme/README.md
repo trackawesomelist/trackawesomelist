@@ -184,7 +184,7 @@ Collections of awesome neovim plugins.
 *   [ms-jpq/coq\_nvim (⭐3.2k)](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK Neovim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 *   [hrsh7th/nvim-cmp (⭐6.4k)](https://github.com/hrsh7th/nvim-cmp) - A completion plugin written in Lua. New version of nvim-compe.
     *   [lukas-reineke/cmp-under-comparator (⭐146)](https://github.com/lukas-reineke/cmp-under-comparator) - A nvim-cmp function for better sorting.
-    *   [SergioRibera/cmp-dotenv (⭐4)](https://github.com/SergioRibera/cmp-dotenv) - Load environment variables from the shell or from your `.env` files.
+    *   [SergioRibera/cmp-dotenv (⭐20)](https://github.com/SergioRibera/cmp-dotenv) - Load environment variables from the shell or from your `.env` files.
 *   [echasnovski/mini.nvim#mini.completion (⭐3.3k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-completion.md) - Module of `mini.nvim` for asynchronous two-stage completion. Supports showing completion item info and independent function signature.
 *   [vigoux/complementree.nvim (⭐43)](https://github.com/vigoux/complementree.nvim) - Light and synchronous completion plugin based on tree-sitter and with a functional-programming interface.
 *   [nvimdev/epo.nvim (⭐85)](https://github.com/nvimdev/epo.nvim) - Blazingly fast, minimal LSP auto-completion and snippet engine.
@@ -415,7 +415,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [bluz71/vim-moonfly-colors (⭐697)](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal colorscheme with modern Neovim support including Tree-sitter.
 *   [ChristianChiarulli/nvcode-color-schemes.vim (⭐286)](https://github.com/ChristianChiarulli/nvcode-color-schemes.vim) - Nvcode, onedark, nord colorschemes with Tree-sitter support.
 *   [folke/tokyonight.nvim (⭐4.6k)](https://github.com/folke/tokyonight.nvim) - A clean, dark and light Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.
-*   [crispybaccoon/evergarden (⭐2)](https://github.com/crispybaccoon/evergarden) - A comfy Neovim colorscheme for cozy morning coding.
+*   [crispybaccoon/evergarden (⭐12)](https://github.com/crispybaccoon/evergarden) - A comfy Neovim colorscheme for cozy morning coding.
 *   [sainnhe/sonokai (⭐1.4k)](https://github.com/sainnhe/sonokai) - High Contrast & Vivid Color Scheme based on Monokai Pro.
 *   [nyoom-engineering/oxocarbon.nvim (⭐843)](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
 *   [kyazdani42/blue-moon (⭐179)](https://github.com/kyazdani42/blue-moon) - A dark color scheme derived from palenight and carbonight.
@@ -727,6 +727,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [LintaoAmons/easy-commands.nvim (⭐47)](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands.
 *   [backdround/tabscope.nvim (⭐28)](https://github.com/backdround/tabscope.nvim) - Make tab-local buffers.
 *   [linrongbin16/gentags.nvim (⭐5)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
+*   [theKnightsOfRohan/csvlens.nvim (⭐2)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens (⭐1.8k)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 
 ## Terminal Integration
 
@@ -805,6 +806,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [dasupradyumna/launch.nvim (⭐32)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
 *   [benlubas/molten-nvim (⭐154)](https://github.com/benlubas/molten-nvim) - Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code.
 *   [bfredl/nvim-ipy (⭐417)](https://github.com/bfredl/nvim-ipy) - Make interfacing with IPython/Jupyter easier.
+*   [pianocomposer321/officer.nvim (⭐10)](https://github.com/pianocomposer321/officer.nvim) - Like dispatch.vim but using overseer.nvim.
 
 ## Neovim Lua Development
 
@@ -902,7 +904,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [mfussenegger/nvim-ts-hint-textobject (⭐379)](https://github.com/mfussenegger/nvim-ts-hint-textobject) - Region selection with hints on the AST nodes of a document powered by Treesitter.
 *   [ziontee113/syntax-tree-surfer (⭐434)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
 *   [drybalka/tree-climber.nvim (⭐130)](https://github.com/drybalka/tree-climber.nvim) - Easy navigation around the Treesitter's tree that works in multi-language files and in normal mode.
-*   [atusy/treemonkey.nvim (⭐11)](https://github.com/atusy/treemonkey.nvim) - Region selection with Treesitter nodes.
+*   [atusy/treemonkey.nvim (⭐18)](https://github.com/atusy/treemonkey.nvim) - Region selection with Treesitter nodes.
 
 ## Keybinding
 
@@ -930,7 +932,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 *   [karb94/neoscroll.nvim (⭐1.1k)](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling.
 *   [declancm/cinnamon.nvim (⭐275)](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for any movement command.
-*   [nkakouros-original/scrollofffraction.nvim (⭐2)](https://github.com/nkakouros/scrollofffraction.nvim) - Scrolloff as a fraction of the window height.
+*   [nkakouros-original/scrollofffraction.nvim (⭐5)](https://github.com/nkakouros/scrollofffraction.nvim) - Scrolloff as a fraction of the window height.
 
 ### Scrollbar
 
