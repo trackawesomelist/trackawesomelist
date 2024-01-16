@@ -143,6 +143,7 @@ Here is the awesome badge for your project:
 
 ### <a name="github-trending-monthly"></a>Monthly <sup>[Back ⇈](#github-trending-monthly-subcategory)</sup>
 
+*   [ReVanced/revanced-patches (⭐235)](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 *   [google/generative-ai-android (⭐353)](https://github.com/google/generative-ai-android) - Google AI SDK for Android
 *   [Nain57/Smart-AutoClicker (⭐892)](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
 *   [adrielcafe/voyager (⭐1.8k)](https://github.com/adrielcafe/voyager) - 🛸 A pragmatic navigation library for Jetpack Compose
@@ -153,14 +154,13 @@ Here is the awesome badge for your project:
 *   [Ivy-Apps/ivy-wallet (⭐2k)](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.
 *   [aniyomiorg/aniyomi (⭐3.1k)](https://github.com/aniyomiorg/aniyomi) - An app for manga and anime
 *   [RetroMusicPlayer/RetroMusicPlayer (⭐3.6k)](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
-*   [kizitonwose/Calendar (⭐4.2k)](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android.
-*   [florisboard/florisboard (⭐4.9k)](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
+*   [zhanghai/MaterialFiles (⭐4.2k)](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 *   [recloudstream/cloudstream (⭐5.1k)](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
-*   [JunkFood02/Seal (⭐6.1k)](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 *   [tiann/KernelSU (⭐6.3k)](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 *   [RikkaApps/Shizuku (⭐6.3k)](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
 *   [iSoron/uhabits (⭐6.9k)](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 *   [ethereum-lists/chains (⭐7.3k)](https://github.com/ethereum-lists/chains) - provides metadata for chains
+*   [thunderbird/thunderbird-android (⭐8.9k)](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
 *   [coil-kt/coil (⭐9.9k)](https://github.com/coil-kt/coil) - Image loading for Android and Compose Multiplatform.
 *   [gkd-kit/gkd (⭐12k)](https://github.com/gkd-kit/gkd) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP
 *   [pppscn/SmsForwarder (⭐13k)](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
@@ -172,35 +172,34 @@ Here is the awesome badge for your project:
 
 *   [AChep/keyguard-app (⭐193)](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
 *   [YuKongA/Updater (⭐240)](https://github.com/YuKongA/Updater) - \[APP] Get HyperOS/MIUI update info
+*   [aniyomiorg/aniyomi-extensions (⭐339)](https://github.com/aniyomiorg/aniyomi-extensions) - Source extensions for the Aniyomi app.
 *   [rebelonion/Dantotsu (⭐617)](https://github.com/rebelonion/Dantotsu) - Anilist client based on Saikou
+*   [icerockdev/moko-resources (⭐892)](https://github.com/icerockdev/moko-resources) - Resources access for mobile (android & ios) Kotlin Multiplatform development
 *   [fumiama/copymanga (⭐968)](https://github.com/fumiama/copymanga) - 拷贝漫画的第三方APP，优化阅读/下载体验
 *   [bmax121/APatch (⭐1.1k)](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
+*   [amitshekhariitbhu/ridesharing-uber-lyft-app (⭐1.4k)](https://github.com/amitshekhariitbhu/ridesharing-uber-lyft-app) - Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project
 *   [Droid-ify/client (⭐2.3k)](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 *   [gotson/komga (⭐3k)](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
+*   [Ashinch/ReadYou (⭐3.3k)](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 *   [Kotlin/kotlinx.serialization (⭐4.9k)](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization
 *   [cashapp/sqldelight (⭐5.7k)](https://github.com/cashapp/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
-*   [pinterest/ktlint (⭐5.9k)](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
 *   [MatsuriDayo/NekoBoxForAndroid (⭐6k)](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
-*   [vfsfitvnm/ViMusic (⭐6.8k)](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
-*   [libre-tube/LibreTube (⭐7k)](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 *   [ktorio/ktor (⭐12k)](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
 *   [Kotlin/kotlinx.coroutines (⭐13k)](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
-*   [2dust/v2rayNG (⭐28k)](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 *   [square/leakcanary (⭐29k)](https://github.com/square/leakcanary) - A memory leak detection library for Android.
 
 ### <a name="github-trending-daily"></a>Daily <sup>[Back ⇈](#github-trending-daily-subcategory)</sup>
 
-*   [ReVanced/revanced-patches (⭐235)](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
-*   [aniyomiorg/aniyomi-extensions (⭐339)](https://github.com/aniyomiorg/aniyomi-extensions) - Source extensions for the Aniyomi app.
+*   [jacobras/Human-Readable (⭐70)](https://github.com/jacobras/Human-Readable) - A small set of data formatting utilities for Kotlin Multiplatform (KMP).
 *   [ThePBone/tachiyomi-extensions-revived (⭐348)](https://github.com/ThePBone/tachiyomi-extensions-revived) - Revival of removed source extensions for the Tachiyomi app.
 *   [keiyoushi/extensions-source (⭐489)](https://github.com/keiyoushi/extensions-source) - Source code of extensions for the Tachiyomi app.
-*   [T8RIN/ImageToolbox (⭐1.1k)](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file
-*   [FooIbar/EhViewer (⭐1.2k)](https://github.com/FooIbar/EhViewer) - EhViewer overhauled with Material Design 3 and more, forked from [https://github.com/Ehviewer-Overhauled/Ehviewer (⭐4.8k)](https://github.com/Ehviewer-Overhauled/Ehviewer)
+*   [anilbeesetti/nextplayer (⭐868)](https://github.com/anilbeesetti/nextplayer) - An Android native video player
 *   [OxygenCobalt/Auxio (⭐1.5k)](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android
-*   [EhViewer-NekoInverter/EhViewer (⭐2k)](https://github.com/EhViewer-NekoInverter/EhViewer) - 🥥 A fork of EhViewer, feature requests are not accepted. Forked from <https://gitlab.com/NekoInverter/EhViewer>
-*   [wangchenyan/ponymusic (⭐2.4k)](https://github.com/wangchenyan/ponymusic) - An Android online music player like NetEase Cloud Music
-*   [Ashinch/ReadYou (⭐3.3k)](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
+*   [d4rken-org/sdmaid-se (⭐1.7k)](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
+*   [yairm210/Unciv (⭐7.2k)](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 *   [gedoor/legado (⭐21k)](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+*   [2dust/v2rayNG (⭐28k)](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+*   [bannedbook/fanqiang (⭐34k)](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
 ## <a name="links"></a>Links <sup>[Back ⇈](#links-category)</sup>
 
@@ -642,11 +641,11 @@ Here is the awesome badge for your project:
 
 ### <a name="libraries-frameworks-parsers"></a>Parsers <sup>[Back ⇈](#libraries-frameworks-parsers-subcategory)</sup>
 
-*   [ParserKt/ParserKt (⭐11)](https://github.com/ParserKt/ParserKt) - Naive one-pass recursive descent, scannerless parser framework for Kotlin
-*   [asm0dey/staks (⭐12)](https://github.com/asm0dey/staks) - Extensible XML parser DSL, based on StAX
+*   [ParserKt/ParserKt (⭐11)](https://github.com/ParserKt/ParserKt)
 *   [sargunster/CakeParse (⭐25)](https://github.com/sargunster/CakeParse) - Simple parser combinator library for Kotlin.
-*   [fork-handles/parser4k (⭐166)](https://github.com/fork-handles/forkhandles/tree/trunk/parser4k) - Recursive descent parser combinator library
 *   [h0tk3y/better-parse (⭐405)](https://github.com/h0tk3y/better-parse) - A nice parser combinator library for Kotlin
+*   [fork-handles/parser4k (⭐166)](https://github.com/fork-handles/forkhandles/tree/trunk/parser4k) - Recursive descent parser combinator library
+*   [asm0dey/staks (⭐12)](https://github.com/asm0dey/staks) - Extensible XML parser DSL, based on StAX
 
 ### <a name="libraries-frameworks-raspberry-pi"></a>Raspberry Pi <sup>[Back ⇈](#libraries-frameworks-raspberry-pi-subcategory)</sup>
 
@@ -654,28 +653,29 @@ Here is the awesome badge for your project:
 
 ### <a name="libraries-frameworks-multiplatform"></a>Multiplatform <sup>[Back ⇈](#libraries-frameworks-multiplatform-subcategory)</sup>
 
+*   [ionspin/kotlin-multiplatform-bignum (⭐290)](https://github.com/ionspin/kotlin-multiplatform-bignum) - Pure kotlin multiplatform arbitrary precision arithmetic library.
+*   [davidepianca98/KMQTT (⭐122)](https://github.com/davidepianca98/KMQTT) - MQTT Broker library/executables for Kotlin multiplatform.
+*   [GitLiveApp/firebase-kotlin-sdk (⭐797)](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first Multiplatform SDK for Firebase supporting iOS, Android & Web
 *   [DetachHead/kotlinxpath (⭐4)](https://github.com/DetachHead/kotlinxpath) - A typesafe builder for Xpath with several useful helper functions that make Xpath easier to work with
+*   [ionspin/kotlin-multiplatform-libsodium (⭐69)](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Kotlin multiplatform wrapper for Libsodium cryptographic library.
+*   [petertrr/kotlin-multiplatform-diff (⭐64)](https://github.com/petertrr/kotlin-multiplatform-diff) - Multiplatform kotlin library for calculating text differences. Based on java-diff-utils.
+*   [nacular/measured (⭐112)](https://github.com/nacular/measured) - Type-safe, intuitive units of measure
+*   [ctripcorp/mmkv-kotlin (⭐104)](https://github.com/ctripcorp/mmkv-kotlin) - The Kotlin Multiplatform wrapper for MMKV
+*   [Ashampoo/kim (⭐126)](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata
 *   [Ashampoo/xmpcore (⭐14)](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK
 *   [divyanshupundir/mavlink-kotlin (⭐35)](https://github.com/divyanshupundir/mavlink-kotlin) - A modern MAVLink library for Kotlin Multiplatform.
-*   [petertrr/kotlin-multiplatform-diff (⭐64)](https://github.com/petertrr/kotlin-multiplatform-diff) - Multiplatform kotlin library for calculating text differences. Based on java-diff-utils.
-*   [ionspin/kotlin-multiplatform-libsodium (⭐69)](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Kotlin multiplatform wrapper for Libsodium cryptographic library.
-*   [ctripcorp/mmkv-kotlin (⭐104)](https://github.com/ctripcorp/mmkv-kotlin) - The Kotlin Multiplatform wrapper for MMKV
-*   [nacular/measured (⭐112)](https://github.com/nacular/measured) - Type-safe, intuitive units of measure
-*   [davidepianca98/KMQTT (⭐122)](https://github.com/davidepianca98/KMQTT) - MQTT Broker library/executables for Kotlin multiplatform.
-*   [Ashampoo/kim (⭐126)](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata
-*   [ionspin/kotlin-multiplatform-bignum (⭐290)](https://github.com/ionspin/kotlin-multiplatform-bignum) - Pure kotlin multiplatform arbitrary precision arithmetic library.
-*   [GitLiveApp/firebase-kotlin-sdk (⭐797)](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first Multiplatform SDK for Firebase supporting iOS, Android & Web
 
 ### <a name="libraries-frameworks-dsl"></a>DSL <sup>[Back ⇈](#libraries-frameworks-dsl-subcategory)</sup>
 
-*   [bipokot/Kabu (⭐29)](https://github.com/bipokot/Kabu) - The fastest way to create complex Kotlin DSL
 *   [h0tk3y/regex-dsl (⭐87)](https://github.com/h0tk3y/regex-dsl) - A Kotlin DSL for regular expressions
+*   [bipokot/Kabu (⭐29)](https://github.com/bipokot/Kabu) - The fastest way to create complex Kotlin DSL
 
 ### <a name="libraries-frameworks-extensions"></a>Extensions <sup>[Back ⇈](#libraries-frameworks-extensions-subcategory)</sup>
 
+*   [Kotlin/kotlinx.support (⭐54)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
+*   [vanshg/KrazyKotlin (⭐84)](https://github.com/vanshg/KrazyKotlin) - A collection of useful Kotlin Extension
 *   [hankdavidson/ktime (⭐25)](https://github.com/hankdavidson/ktime) - Extensions to the java8 time library
 *   [LukasForst/katlib (⭐78)](https://github.com/LukasForst/katlib) - A collection of Kotlin extension functions and utilities.
-*   [vanshg/KrazyKotlin (⭐84)](https://github.com/vanshg/KrazyKotlin) - A collection of useful Kotlin Extension
 
 ### <a name="libraries-frameworks-configuration"></a>Configuration <sup>[Back ⇈](#libraries-frameworks-configuration-subcategory)</sup>
 

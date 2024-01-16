@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jan 16, 2024](/content/2024/01/16/README.md)
+
+### Applications / Graphics
+
+*   [wahn/rs\_pbrt (⭐788)](https://github.com/wahn/rs_pbrt) — Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code.
+
 ## [Jan 14, 2024](/content/2024/01/14/README.md)
 
 ### Applications / Audio and Music

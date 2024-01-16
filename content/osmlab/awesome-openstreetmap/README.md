@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/osmlab/awesome-openstreetmap/week/README.md) / [Overview](/content/osmlab/awesome-openstreetmap/readme/README.md) ]
 
+## [Jan 16, 2024](/content/2024/01/16/README.md)
+
+### Editors / Mobile Editors
+
+*   [OSM Go!](https://osmgo.com/) - OSM Go! is an Android application and a Progressive Web Applications (PWA) for contributing to OpenStreetMap. ([Android](https://play.google.com/store/apps/details?id=fr.dogeo.osmgo) / [Source Code (⭐97)](https://github.com/DoFabien/OsmGo) / [Wiki](https://wiki.openstreetmap.org/wiki/Osm_Go!))
+
+### Libraries / Python
+
+*   [geodesk (⭐20)](https://github.com/clarisma/geodesk-py) - Fast and storage-efficient database for OpenStreetMap analysis.
+
+### Libraries / Java
+
+*   [GeoDesk (⭐127)](https://github.com/clarisma/geodesk) - Fast and storage-efficient database for OpenStreetMap analysis.
+
 ## [Jan 09, 2024](/content/2024/01/09/README.md)
 
 ### Editors / Web Editors
@@ -22,7 +36,7 @@
 
 ### Maps / Web Maps
 
-*   [Streets GL (⭐496)](https://github.com/StrandedKitty/streets-gl) OpenStreetMap 3D renderer powered by WebGL2 ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
+*   [Streets GL (⭐496)](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2. ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
 
 ### Libraries / Python
 
@@ -40,7 +54,7 @@
 
 ### Public APIs / Java
 
-*   [Bunting Labs' OSM Extract API](https://buntinglabs.com/solutions/openstreetmap-extracts) - Free extracts of OSM features as GeoJSON, filtering on tags and bounding box ([Docs](https://docs.buntinglabs.com/openstreetmap-api/extract))
+*   [Bunting Labs' OSM Extract API](https://buntinglabs.com/solutions/openstreetmap-extracts) - Free extracts of OSM features as GeoJSON, filtering on tags and bounding box. ([Docs](https://docs.buntinglabs.com/openstreetmap-api/extract))
 
 ## [Oct 31, 2022](/content/2022/10/31/README.md)
 
@@ -90,7 +104,7 @@
 
 ### Editors / Native Editors
 
-*   [Merkaartor (⭐280)](https://github.com/openstreetmap/merkaartor) - An opensource OSM editor, written in C++ and Qt
+*   [Merkaartor (⭐280)](https://github.com/openstreetmap/merkaartor) - An opensource OSM editor, written in C++ and Qt.
 
 ## [Aug 31, 2022](/content/2022/08/31/README.md)
 
@@ -149,7 +163,6 @@
 
 *   [StreetComplete (⭐3.5k)](https://github.com/westnordost/StreetComplete) - App for improving OSM by answering simple questions. ([Android](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) / [Wiki](https://wiki.openstreetmap.org/wiki/StreetComplete))
 *   [Vespucci](https://vespucci.io/) - Advanced full-data-model editor for Android. ([Android](https://play.google.com/store/apps/details?id=de.blau.android) / [Source Code (⭐332)](https://github.com/MarcusWolschon/osmeditor4android) / [Wiki](https://wiki.openstreetmap.org/wiki/Vespucci))
-*   [OSM Go! (⭐97)](https://github.com/DoFabien/OsmGo) - OSM Go! is an Android application and a Progressive Web Applications (PWA) for contributing to OpenStreetMap. ([Android](https://play.google.com/store/apps/details?id=fr.dogeo.osmgo) / [WebApp](https://osmgo.com/#/main) / [Source Code (⭐97)](https://github.com/DoFabien/OsmGo) / [Wiki](https://wiki.openstreetmap.org/wiki/Osm_Go!))
 
 ## [Apr 13, 2022](/content/2022/04/13/README.md)
 

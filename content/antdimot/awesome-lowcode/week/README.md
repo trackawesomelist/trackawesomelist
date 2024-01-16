@@ -2,9 +2,15 @@
 
 A collection of Awesome low-code development platform (LCDP).
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 268 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 287 · 🏷️ Miscellaneous
 
 [ [Daily](/content/antdimot/awesome-lowcode/README.md) / Weekly / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
+
+## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
+
+### AI
+
+*   [AutoGen (⭐20k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
@@ -14,7 +20,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
-### Machine Learning
+### AI
 
 *   [Landing AI](https://landing.ai/) - Building computer vision systems in minutes via natural prompting interactions.
 
@@ -32,14 +38,14 @@ A collection of Awesome low-code development platform (LCDP).
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
-### Automation
-
-*   [Bardeen](https://www.bardeen.ai/) - Integrate and automate your favorite apps with our AI automation platform.
-
-### Machine Learning
+### AI
 
 *   [Midjourney](https://www.midjourney.com) - It is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 *   [Runway](https://runwayml.com/) - It is your next-generation content creation suite.
+
+### Automation
+
+*   [Bardeen](https://www.bardeen.ai/) - Integrate and automate your favorite apps with our AI automation platform.
 
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
@@ -49,7 +55,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
 
-### Machine Learning
+### AI
 
 *   [Gravity-AI](https://www.gravity-ai.com/) - The fastest & most secure way to solve business problems with A.I.
 
@@ -90,6 +96,10 @@ A collection of Awesome low-code development platform (LCDP).
 
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
+### AI
+
+*   [Vertex-AI](https://cloud.google.com/vertex-ai) - Build, deploy, and scale machine learning (ML) models faster, with fully managed ML tools for any use case.
+
 ### Automation
 
 *   [OneSimpleAPI](https://onesimpleapi.com/) - A toolbox with all the things you need to get your no-code project to success: PDF generation, Currency Exchange, QR codes, Screenshots, and more.
@@ -98,10 +108,6 @@ A collection of Awesome low-code development platform (LCDP).
 
 *   [Pipedream](https://pipedream.com/) - Connect APIs, remarkably fast with no code. And with code-level control when you need it.
 *   [Runnable](https://getrunnable.com/) - A low-code framework for building user-facing internal workflows.
-
-### Machine Learning
-
-*   [Vertex-AI](https://cloud.google.com/vertex-ai) - Build, deploy, and scale machine learning (ML) models faster, with fully managed ML tools for any use case.
 
 ### Visual programming
 
@@ -176,7 +182,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ## [Apr 04 - Apr 10, 2022](/content/2022/14/README.md)
 
-### Machine Learning
+### AI
 
 *   [Jasper](https://www.jasper.ai/) - Artificial intelligence makes it fast & easy to create content for your blog, social media, website, and more!
 
@@ -270,7 +276,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### Misc
 
-*   [ToolJet (⭐25k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
+*   [ToolJet (⭐26k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
 
 ## [Nov 29 - Dec 05, 2021](/content/2021/48/README.md)
 
@@ -296,7 +302,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ## [Sep 06 - Sep 12, 2021](/content/2021/36/README.md)
 
-### Machine Learning
+### AI
 
 *   [Accern](https://accern.com) - Accelerate AI Workflows for Financial Services.
 *   [AI Builder](https://flow.microsoft.com/en-us/ai-builder/) - Bring intelligent automation to your business processes with AI that’s easy to train and configure in Power Automate.
