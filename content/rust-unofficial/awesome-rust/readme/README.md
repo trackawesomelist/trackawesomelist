@@ -301,7 +301,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 
 See also [Games Made With Piston (⭐4.5k)](https://github.com/PistonDevelopers/piston/wiki/Games-Made-With-Piston).
 
-*   [chess-tui (⭐224)](https://github.com/thomas-mauran/chess-tui) —  A Chess TUI implementation in rust ♟️
+*   [chess-tui (⭐237)](https://github.com/thomas-mauran/chess-tui) —  A Chess TUI implementation in rust ♟️
 *   [citybound (⭐7.6k)](https://github.com/citybound/citybound) — The city sim you deserve
 *   [cristicbz/rust-doom (⭐2.3k)](https://github.com/cristicbz/rust-doom) — A renderer for Doom, may progress to being a playable game
 *   [doukutsu-rs (⭐760)](https://github.com/doukutsu-rs/doukutsu-rs) — A Rust reimplementation of Cave Story engine with some enhancements.
@@ -393,6 +393,7 @@ See also [A comparison of operating systems written in Rust (⭐609)](https://gi
 ### Security tools
 
 *   [AFLplusplus/LibAFL (⭐1.7k)](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no\_std, etc. [![build and test](https://github.com/AFLplusplus/LibAFL/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/AFLplusplus/LibAFL/actions/workflows/build_and_test.yml)
+*   [arp-scan-rs (⭐60)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
 *   [cargo-audit](https://crates.io/crates/cargo-audit) - Audit Cargo.lock for crates with security vulnerabilities
 *   [cargo-auditable](https://crates.io/crates/cargo-auditable) - Make production Rust binaries auditable
 *   [cargo-crev](https://crates.io/crates/cargo-crev) - A cryptographically verifiable code review system for the cargo (Rust) package manager.
@@ -546,7 +547,7 @@ See also [A comparison of operating systems written in Rust (⭐609)](https://gi
 
 *   [containers/youki (⭐5.6k)](https://github.com/containers/youki) — A container runtime in Rust [![build badge](https://github.com/containers/youki/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/containers/youki/actions)
 *   [firecracker-microvm/firecracker (⭐23k)](https://github.com/firecracker-microvm/firecracker) — A lightweight virtual machine for container workload [Firecracker Microvm](https://firecracker-microvm.github.io/)
-*   [kata-containers/kata-containers (⭐4.5k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
+*   [kata-containers/kata-containers (⭐4.6k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
 *   [tailhook/vagga (⭐1.8k)](https://github.com/tailhook/vagga) — A containerization tool without daemons
 
 ### Web

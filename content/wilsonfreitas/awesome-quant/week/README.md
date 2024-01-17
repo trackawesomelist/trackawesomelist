@@ -10,7 +10,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 ### Julia / FrameWorks
 
-*   [IncTA.jl](https://femtotrader.github.io/IncTA.jl) - Julia Incremental Technical Analysis Indicators
+*   [IncTA.jl (⭐6)](https://github.com/femtotrader/IncTA.jl) - Julia Incremental Technical Analysis Indicators
 
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 

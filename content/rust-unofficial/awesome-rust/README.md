@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jan 17, 2024](/content/2024/01/17/README.md)
+
+### Applications / Security tools
+
+*   [arp-scan-rs (⭐60)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
+
 ## [Jan 16, 2024](/content/2024/01/16/README.md)
 
 ### Applications / Graphics
@@ -46,13 +52,13 @@ A curated list of Rust code and resources.
 
 ### Applications / Virtualization
 
-*   [kata-containers/kata-containers (⭐4.5k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
+*   [kata-containers/kata-containers (⭐4.6k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
 
 ## [Jan 01, 2024](/content/2024/01/01/README.md)
 
 ### Applications / Games
 
-*   [chess-tui (⭐224)](https://github.com/thomas-mauran/chess-tui) —  A Chess TUI implementation in rust ♟️
+*   [chess-tui (⭐237)](https://github.com/thomas-mauran/chess-tui) —  A Chess TUI implementation in rust ♟️
 
 ## [Dec 31, 2023](/content/2023/12/31/README.md)
 

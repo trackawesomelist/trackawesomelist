@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [wahn/rs\_pbrt (⭐788)](https://github.com/wahn/rs_pbrt) — Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code.
 
+### Applications / Security tools
+
+*   [arp-scan-rs (⭐60)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
+
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 
 ### Applications / Audio and Music
@@ -34,7 +38,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Games
 
-*   [chess-tui (⭐224)](https://github.com/thomas-mauran/chess-tui) —  A Chess TUI implementation in rust ♟️
+*   [chess-tui (⭐237)](https://github.com/thomas-mauran/chess-tui) —  A Chess TUI implementation in rust ♟️
 
 ### Applications / Observability
 
@@ -42,7 +46,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Virtualization
 
-*   [kata-containers/kata-containers (⭐4.5k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
+*   [kata-containers/kata-containers (⭐4.6k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
 
 ### Libraries / Data streaming
 

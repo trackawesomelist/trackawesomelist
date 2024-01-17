@@ -8,11 +8,27 @@ A community-curated list of awesome projects and resources related to the Golem 
 
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
+### Golem
+
+*   [Golem Network Discord](https://chat.golem.network/) - Join the Golem Network community on Discord and chat directly with the team.
+
 ### Developer and Requestor Resources
 
-*   [Golem Docs](https://docs.golem.network/) - A creator's manual for Golem. By developers, for developers.
+*   [Golem Docs](https://docs.golem.network/) - A manual for Golem (both for Requestors and Providers).
 *   [Python API Reference](https://yapapi.readthedocs.io/) - Yapapi API Reference.
 *   [JS Requestor Quickstart](https://docs.golem.network/docs/quickstarts/js-quickstart) - Get started quickly and create your first tasks/request on Golem.
+
+### Provider Resources
+
+*   [Provider Tutorial](https://docs.golem.network/docs/providers/provider-installation) - Get started as a Provider on Golem Network using the handbook.
+
+### Presentations and Workshop Material
+
+*   [Golem: Distributed parallel computing with JavaScript](https://www.youtube.com/watch?v=2iUhqOJUsoI) - Presentation from Grzegorz Godlewski on Distributed Parallel Computing with JavaScript, based on Golem Network (meet.js Summit 2023).
+
+### Apps / Password Recovery
+
+*   [Yacat](https://docs.golem.network/docs/creators/python/tutorials/task-example-2-hashcat) - Hashcat password-recovery step-by-step.
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
@@ -31,10 +47,6 @@ A community-curated list of awesome projects and resources related to the Golem 
 ### Monitoring
 
 *   [Golem Provider dashboard (⭐5)](https://github.com/vciancio/golem-dashboard) - ReactJS dashboard made to quickly gather status from your provider nodes without having to SSH into them.
-
-### Provisioning
-
-*   [Scalable golem provider](https://github.com/cryptobench/scaleable-golem-provider) - Spawn x amount of providers using Docker.
 
 ### Apps / Testing
 
@@ -124,10 +136,6 @@ A community-curated list of awesome projects and resources related to the Golem 
 
 *   [Golem GitHub Digest #15](https://blog.golemproject.net/golem-github-digest-15/) - Awesome, Goth improvements and towards Beta 3.
 
-### Apps / Password Recovery
-
-*   [Yacat](https://handbook.golem.network/requestor-tutorials/task-processing-development/task-example-2-hashcat) - Hashcat password-recovery step-by-step.
-
 ## [Aug 09 - Aug 15, 2021](/content/2021/32/README.md)
 
 ### Apps / RNG
@@ -181,18 +189,12 @@ A community-curated list of awesome projects and resources related to the Golem 
 
 *   [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna) - Use the Yagna tag if you have an interesting question you'd like answered.
 
-### Provider Resources
-
-*   [Provider Tutorial](https://handbook.golem.network/provider-tutorials/provider-tutorial) - Get started as a Provider on Golem Network using the handbook.
-*   [Provider FAQ (⭐8)](https://github.com/figurestudios/community-golem-docs/blob/main/providing/provider-faq.md) - Community curated list of commonly asked questions and answers.
-
 ### Monitoring
 
 *   [Golem Provider dashboard backend / GolemBar (⭐2)](https://github.com/vciancio/golem-node-server) - Flask backend that collects the data from the provider that's then used with the dashboard project above.
 
 ### Provisioning
 
-*   [WSL (⭐1)](https://github.com/r34x/WSL) - Allows Windows users to run Golem within Windows Subsystem for Linux. Removing the requirement of Windows users needing to use a Virtual Machine.
 *   [Golem Provider Terraform (⭐2)](https://github.com/nemani/golem-provider-terraform) - Terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.
 *   [Automatic Golem (⭐8)](https://github.com/r34x/Automatic-Golem) - Setup a Golem Provider with simple instructions and logs guiding you through the process.
 *   [Golem Provider Node (⭐16)](https://github.com/alexandre-abrioux/golem-node) - Docker version of a node to help you get started running as a provider in a Docker container quick.
@@ -201,10 +203,6 @@ A community-curated list of awesome projects and resources related to the Golem 
 ### Presentations and Workshop Material
 
 *   [Golem: Architecture, SDKs and tips with Jakub Mazurek at 0xHack](https://youtu.be/1UoZWC9XI2g) - Live workshop diving into how any developer with Python or JS coding experience can start build applications running on Golem.
-*   [Golem: Growing an ecosystem the Golem way with María Paula Fernández at 0xHack](https://youtu.be/FmrdyU90NVE) - High-level overview and introduction to Golem as a project.
-*   [Golem Workshop at H3LLO Decentralization](https://gist.github.com/zakaprov/5366bffa49b3c116748bf9b5b73c602c) - List of resources containing a live-coding hackathon workshop and relevant resources to help developers understand and requesting on Golem.
-*   [Mainnet Requestor quickstart Walk-through](https://youtu.be/GcdTq3i_wdY) - Video walk-through of the requestor quick-start handbook guide to get a request on Golem Network testnet and then mainnet using the Yagna Python API.
-*   [Mainnet Provider quickstart Walk-through](https://youtu.be/RITdKtEOV_E) - Video walk-through of the provider handbook guide to start sharing computational resources the Golem Network.
 
 ### Unraveling Golem's The Next Milestone Blog Series
 
@@ -214,7 +212,6 @@ A community-curated list of awesome projects and resources related to the Golem 
 
 ### Apps
 
-*   [Golem SLATE](https://golem-slate.xyz/) - Hosted code pen SPA for writing a requester script to have work computed by the network. Utilizes dockerized yagna environments to communicate with the Golem Network in the background.
 *   [Chess On Golem](https://chessongolem.app/) - Hosted Chess app to play against the providers of the network utilizing the Stockfish open source Chess engine.
 *   [Go le' Machin (⭐1)](https://github.com/DEUTSCHKLUB/go-le-m) - Web based bulk image editor that allows users to upload multiple images and apply bulk actions to them.
 
@@ -257,10 +254,6 @@ A community-curated list of awesome projects and resources related to the Golem 
 *   [Golem or-tools (⭐0)](https://github.com/Doc-Saintly/golem-ortools) - Uses the or-tools Constraint Programming library to solve problems.
 *   [No more COFUD (⭐0)](https://github.com/DEUTSCHKLUB/no-more-COFUD) - Calculates how to fit the most people into a space while keeping 2 meters distance between each other.
 
-### Apps / Finance
-
-*   [ZKSync .csv export (⭐2)](https://github.com/blue-notes-robot/zksync-csv-export) - Scrapes ZKSync to generate financial data in a .csv file.
-
 ### Apps / Machine Learning
 
 *   [DeML-Golem (⭐40)](https://github.com/anshuman73/DeML-Golem) - Decentralised Machine Learning using Federated Learning to combine the sub-step models, it trains on different provider nodes into a full fleged model.
@@ -289,9 +282,7 @@ A community-curated list of awesome projects and resources related to the Golem 
 
 ### Apps / Miscellaneous
 
-*   [Gc\_\_gvmi\_hash (⭐2)](https://github.com/krunch3r76/gc__gvmi_hash) - Recalculate the hash of gvmi image file. Solves the issue of having lost the hash of a previously uploaded image or if you're unsure if a key corresponds to a specific image.
 *   [gvm-vim (⭐0)](https://github.com/canokaue/gvm-vim) - Golemized docker image for compiling the VIM editor.
-*   [YaJSapi fork with greeting example (⭐0)](https://github.com/rezahsnz/yajsapi) - Simple Node.js requestor app that greets you. It writes some important message to a file and then downloads it for you, the basic eskeleton of a requestor app. Look in `examples/greetings`.
 *   [Golem Image Sharpening (⭐0)](https://github.com/visualNext/golem) - A tool to sharpen images.
 
 ## [May 17 - May 23, 2021](/content/2021/20/README.md)
@@ -320,7 +311,6 @@ A community-curated list of awesome projects and resources related to the Golem 
 
 ### Golem
 
-*   [Golem Community Chat](https://chat.golem.network/) - Join the community and team open discussion on Discord.
 *   [Reddit](https://reddit.com/r/GolemProject) - Golem Network discussion on the Reddit platform.
 *   [Twitter](https://twitter.com/golemproject) - The Golem Project Twitter.
 *   [Blog](http://blog.golemproject.net/) - The official blog where you can find the most reliable information on announcements, summaries and updates.
