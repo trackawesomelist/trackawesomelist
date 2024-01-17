@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [HoNamDuong/hybrid.nvim (⭐27)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
+
 ### Utility / Diagnostics
 
 *   [theKnightsOfRohan/csvlens.nvim (⭐2)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens (⭐1.8k)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.

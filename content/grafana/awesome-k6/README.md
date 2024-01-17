@@ -6,6 +6,12 @@ A curated list of awesome tools, content and projects using k6
 
 [ Daily / [Weekly](/content/grafana/awesome-k6/week/README.md) / [Overview](/content/grafana/awesome-k6/readme/README.md) ]
 
+## [Jan 17, 2024](/content/2024/01/17/README.md)
+
+### Examples/Templates
+
+*   [Jahmilli/k6-example (⭐7)](https://github.com/Jahmilli/k6-example) - Starter template using Vite (Rollup) bundler to write k6 tests in TypeScript.
+
 ## [Jan 16, 2024](/content/2024/01/16/README.md)
 
 ### Examples/Templates
@@ -88,7 +94,7 @@ A curated list of awesome tools, content and projects using k6
 
 ### Examples/Templates
 
-*   [k6-typescript-template (⭐237)](https://github.com/grafana/k6-template-typescript) - Template to use TypeScript with k6.
+*   [k6-typescript-template (⭐237)](https://github.com/grafana/k6-template-typescript) - Starter template using Webpack bundler to write k6 tests in TypeScript.
 
 ## [Aug 29, 2022](/content/2022/08/29/README.md)
 
@@ -142,7 +148,7 @@ A curated list of awesome tools, content and projects using k6
 
 ### Examples/Templates
 
-*   [k6-template-es6 (⭐73)](https://github.com/grafana/k6-template-es6) - Template repository for bundling test projects into single test scripts runnable by k6.
+*   [k6-template-es6 (⭐73)](https://github.com/grafana/k6-template-es6) - Starter template using Webpack and Babel to enable ES6 features in k6 tests.
 
 ## [Dec 21, 2021](/content/2021/12/21/README.md)
 

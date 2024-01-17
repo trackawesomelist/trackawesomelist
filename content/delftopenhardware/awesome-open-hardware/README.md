@@ -2,9 +2,15 @@
 
 🛠Helpful items for making open source hardware projects.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/delftopenhardware/awesome-open-hardware/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) · ⭐ 304 · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/delftopenhardware/awesome-open-hardware/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) · ⭐ 318 · 🏷️ Hardware
 
 [ Daily / [Weekly](/content/delftopenhardware/awesome-open-hardware/week/README.md) / [Overview](/content/delftopenhardware/awesome-open-hardware/readme/README.md) ]
+
+## [Jan 17, 2024](/content/2024/01/17/README.md)
+
+### Talks
+
+*   [On behalf of mankind: thank you for sharing!](https://www.youtube.com/watch?v=HBS8sS138GE) - TEDx talk by Jerry de Vos
 
 ## [Dec 02, 2023](/content/2023/12/02/README.md)
 
@@ -29,13 +35,13 @@
 
 ### Projects
 
-*   [Open Gamma Detector (⭐192)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
+*   [Open Gamma Detector (⭐205)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
 
 ## [Oct 24, 2022](/content/2022/10/24/README.md)
 
 ### Projects
 
-*   [Open-Source-Rover (⭐8.1k)](https://github.com/nasa-jpl/open-source-rover) - A six wheeled, build-it-yourself, open-source rover.
+*   [Open-Source-Rover (⭐8.2k)](https://github.com/nasa-jpl/open-source-rover) - A six wheeled, build-it-yourself, open-source rover.
 
 ## [Aug 07, 2022](/content/2022/08/07/README.md)
 
@@ -52,7 +58,7 @@
 
 ### Related awesome
 
-*   [Awesome Electronics (⭐5.2k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
+*   [Awesome Electronics (⭐5.3k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
 
 ## [Jun 23, 2022](/content/2022/06/23/README.md)
 
@@ -136,7 +142,7 @@
 *   [OpenBCI](https://openbci.com/) - Brain computer interface.
 *   [OpenSPIM](https://openspim.org/) - Open Access platform for Three-dimensional (3D) microscopy.
 *   [mesoSPIM](http://mesospim.org/) - Open-source light-sheet microscopes for imaging in cleared tissue.
-*   [openUC2 (⭐389)](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
+*   [openUC2 (⭐396)](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
 *   [OpenFlexure](https://openflexure.org/) - Open-source, 3D-printed microscope, including a precise mechanical stage.
 
 ### Talks
@@ -183,5 +189,5 @@
 
 ### Related awesome
 
-*   [Awesome Open Electronics (⭐469)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
-*   [Awesome Open (⭐74)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
+*   [Awesome Open Electronics (⭐482)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
+*   [Awesome Open (⭐75)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.

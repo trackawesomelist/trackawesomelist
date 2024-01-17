@@ -2,9 +2,15 @@
 
 An "Awesome" list of code review resources - articles, papers, tools, etc
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/joho/awesome-code-review/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 joho/awesome-code-review](https://github.com/joho/awesome-code-review) · ⭐ 3.6K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/joho/awesome-code-review/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 joho/awesome-code-review](https://github.com/joho/awesome-code-review) · ⭐ 4.1K · 🏷️ Work
 
 [ Daily / [Weekly](/content/joho/awesome-code-review/week/README.md) / [Overview](/content/joho/awesome-code-review/readme/README.md) ]
+
+## [Jan 17, 2024](/content/2024/01/17/README.md)
+
+### Tools
+
+*   [Axolo](https://www.axolo.co) Github/GitLab Slack integration. Create one ephemeral channel per pull request/ merge request.
 
 ## [Nov 18, 2021](/content/2021/11/18/README.md)
 
@@ -170,12 +176,6 @@ An "Awesome" list of code review resources - articles, papers, tools, etc
 ### Academic Papers
 
 *   [Anywhere, anytime code inspections: using the Web to remove inspection bottlenecks in large-scale software development (Perpich, Perry, Porter, Votta & Wade, 1997)](https://dl.acm.org/citation.cfm?id=253234) One day in the far future the best way to review code will be on the world wide web.
-
-## [Aug 17, 2018](/content/2018/08/17/README.md)
-
-### Tools
-
-*   [Pull Reminders](https://pullreminders.com) Automated Slack reminders and metrics for GitHub pull requests.
 
 ## [Aug 16, 2018](/content/2018/08/16/README.md)
 

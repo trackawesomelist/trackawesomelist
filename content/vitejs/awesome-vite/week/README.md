@@ -8,6 +8,10 @@
 
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
+### Templates / Vue 3
+
+*   [materio-free-vuetify-nuxtjs-admin-template (⭐9)](https://github.com/themeselection/materio-vuetify-nuxtjs-admin-template-free) - Vuejs 3, Vite 5, Vuetify 3 & NuxtJS 3.
+
 ### Framework-agnostic Plugins / Bundling
 
 *   [vite-plugin-bundle-prefetch (⭐1)](https://github.com/dreambo8563/vite-plugin-bundle-prefetch) - Inject prefetch assets into `index.html`.

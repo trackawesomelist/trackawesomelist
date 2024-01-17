@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jan 17, 2024](/content/2024/01/17/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [HoNamDuong/hybrid.nvim (⭐27)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
+
 ## [Jan 16, 2024](/content/2024/01/16/README.md)
 
 ### Utility / Diagnostics

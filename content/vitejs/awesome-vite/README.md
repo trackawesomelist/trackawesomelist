@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Jan 17, 2024](/content/2024/01/17/README.md)
+
+### Templates / Vue 3
+
+*   [materio-free-vuetify-nuxtjs-admin-template (⭐9)](https://github.com/themeselection/materio-vuetify-nuxtjs-admin-template-free) - Vuejs 3, Vite 5, Vuetify 3 & NuxtJS 3.
+
 ## [Jan 16, 2024](/content/2024/01/16/README.md)
 
 ### Framework-agnostic Plugins / Bundling

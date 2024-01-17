@@ -2,7 +2,7 @@
 
 🛠Helpful items for making open source hardware projects.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/delftopenhardware/awesome-open-hardware/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) · ⭐ 304 · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/delftopenhardware/awesome-open-hardware/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) · ⭐ 318 · 🏷️ Hardware
 
 [ [Daily](/content/delftopenhardware/awesome-open-hardware/README.md) / [Weekly](/content/delftopenhardware/awesome-open-hardware/week/README.md) / Overview ]
 
@@ -48,13 +48,13 @@
 *   [OpenSPIM](https://openspim.org/) - Open Access platform for Three-dimensional (3D) microscopy.
 *   [mesoSPIM](http://mesospim.org/) - Open-source light-sheet microscopes for imaging in cleared tissue.
 *   [Mutable Instruments](https://mutable-instruments.net/) - Open-source eurorack classics.
-*   [openUC2 (⭐389)](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
+*   [openUC2 (⭐396)](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
 *   [OpenFlexure](https://openflexure.org/) - Open-source, 3D-printed microscope, including a precise mechanical stage.
-*   [Open-Source-Rover (⭐8.1k)](https://github.com/nasa-jpl/open-source-rover) - A six wheeled, build-it-yourself, open-source rover.
+*   [Open-Source-Rover (⭐8.2k)](https://github.com/nasa-jpl/open-source-rover) - A six wheeled, build-it-yourself, open-source rover.
 *   [Biohack Academy](http://biohackacademy.github.io/) - Open-source biotechnological hardware such as Incubator, Thermocycler, Centrifuge, Microscope, etc.
 *   [GaudiLab](http://www.gaudi.ch/GaudiLabs/?page_id=19) - Open-source hardware projects for biology laboratories.
 *   [Winterbloom](https://winterbloom.com) - Open-source eurorack modules, Thea has some stellar design write-ups on her blog.
-*   [Open Gamma Detector (⭐192)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
+*   [Open Gamma Detector (⭐205)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
 *   [Opulo](https://docs.opulo.io/) - Project that develops a pick and place machine.
 *   [FarmBot](https://farm.bot/pages/open-source) - automated gardening machine to grow vegetables.
 *   [PiKVM](https://pikvm.org/) - Open and inexpensive DIY IP-KVM based on Raspberry Pi.
@@ -70,6 +70,7 @@
 *   [Designing Open Hardware for 21st century science](https://www.youtube.com/watch?v=Od_9yJqc098) - Presentation by Andre Maia Chagas.
 *   [Why open source hardware is(n't) working](https://www.youtube.com/watch?v=7ifGu22bhd4) - Presentation by David Cuartielles.
 *   [Open source and the future of hardware](https://www.youtube.com/watch?v=_EZT57dtWHM) - Talk by Neil Gershenfeld.
+*   [On behalf of mankind: thank you for sharing!](https://www.youtube.com/watch?v=HBS8sS138GE) - TEDx talk by Jerry de Vos
 
 ## Papers
 
@@ -132,9 +133,9 @@
 
 ## Related awesome
 
-*   [Awesome Open Electronics (⭐469)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
-*   [Awesome Open (⭐74)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
-*   [Awesome Electronics (⭐5.2k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
+*   [Awesome Open Electronics (⭐482)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
+*   [Awesome Open (⭐75)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
+*   [Awesome Electronics (⭐5.3k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
 
 ## Contributing
 
