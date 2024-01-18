@@ -6,38 +6,44 @@
 
 
 
-## [1. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Science Logology / Democratization of Science
+
+*   [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8097577445064259203\&hl=en\&as_sdt=0,5)]. An artificial intelligence system driven by GPT-4 that autonomously designs, plans and performs complex experiments by incorporating large language models empowered by tools such as internet and documentation search, code execution and experimental automation.
+
+## [2. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
 *   Level Up Your Data Analysis with Polars: A Powerful DataFrame Library for Speed and Efficiency]\(<https://python.plainenglish.io/level-up-your-data-analysis-with-polars-a-powerful-dataframe-library-for-speed-and-efficiency-0b82c226c7f1>) - A blog post that describs the main features of Polars (with benchmarks) by [ravi-m](https://ravi-m.medium.com/).
 *   [polars’ Rgonomic Patterns](https://www.emilyriederer.com/post/py-rgo-polars/) - A blog post that deeps dive into some of the advanced data wrangling functionality in python’s Polars package by [@emilyriederer](https://github.com/emilyriederer).
 
-## [2. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [3. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Tools
 
 *   [Axolo](https://www.axolo.co) Github/GitLab Slack integration. Create one ephemeral channel per pull request/ merge request.
 
-## [3. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [4. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Privacy by Design - Guides for developers (art. 25)
 
 *   [Norwegian DPA - Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/data-protection-by-design-and-by-default/)
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Productivity
 
 *   [Keyboard Cowboy (⭐381)](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zenangst/KeyboardCowboy)
 
-## [5. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [6. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Talks
 
 *   [On behalf of mankind: thank you for sharing!](https://www.youtube.com/watch?v=HBS8sS138GE) - TEDx talk by Jerry de Vos
 
-## [6. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [7. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
 - Name: [Continuous](https://continuous.sh/)
 
@@ -55,13 +61,13 @@
 
 
 
-## [7. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [8. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Julia / FrameWorks
 
 *   [IncTA.jl (⭐6)](https://github.com/femtotrader/IncTA.jl) - Julia Incremental Technical Analysis Indicators
 
-## [8. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [9. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -108,7 +114,7 @@
 
 *   [Standard Webhooks (⭐928) (⭐856)](https://github.com/standard-webhooks/standard-webhooks) - Open source tools and guidelines for sending webhooks easily, securely, and reliably.
 
-## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Online Tools and Applications
 
@@ -118,27 +124,27 @@
 
 *   [aiPDF](https://aipdf.ai): The most advanced AI document assistant
 
-## [10. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [11. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Darkest Derelicts](https://jaderavens.itch.io/darkest-derelicts) - Rules for Starforged, inspired by The Expanse and Alien
 *   [Feats & Favors](https://satan-bouchuncoin.itch.io/feats-favors) - Faction and reputation system for Ironsworn
 
-## [11. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [12. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Examples/Templates
 
 *   [Jahmilli/k6-example (⭐7)](https://github.com/Jahmilli/k6-example) - Starter template using Vite (Rollup) bundler to write k6 tests in TypeScript.
 *   [agilob/multiscenario-tests](https://b.agilob.net/programming/k6/multiscenario-tests/) - Running multiple scenarios at once.
 
-## [12. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [13. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Services & Platforms
 
 *   [Apillon](http://apillon.io/) - a Web3 development platform, offering IPFS gateways, IPFS file-pinning via Crust network and IPFS powered hosting services for websites and apps.
 
-## [13. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [14. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -148,7 +154,7 @@
 
 *   [vite-plugin-bundle-prefetch (⭐1)](https://github.com/dreambo8563/vite-plugin-bundle-prefetch) - Inject prefetch assets into `index.html`.
 
-## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -162,7 +168,7 @@
 
 *   [pianocomposer321/officer.nvim (⭐10)](https://github.com/pianocomposer321/officer.nvim) - Like dispatch.vim but using overseer.nvim.
 
-## [15. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [16. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :books: Literature / Documentation
 
@@ -222,7 +228,7 @@
 *   [VMHunt (⭐165)](https://github.com/s3team/VMHunt) - Set of tools for analyzing virtualized binary code ; now only supports 32 bit traces.
 *   [yarGen (⭐1.4k)](https://github.com/Neo23x0/yarGen) - Generator for YARA rules - The main principle is the creation of yara rules from strings found in malware files while removing all strings that also appear in goodware files.
 
-## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compression
 
@@ -232,7 +238,7 @@
 
 *   [bRPC (⭐16k)](https://github.com/apache/brpc) - bRPC is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \[Apache2] [website](https://brpc.apache.org/)
 
-## [17. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Graphics
 
@@ -242,13 +248,13 @@
 
 *   [arp-scan-rs (⭐60)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
 
-## [18. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [19. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
 *   [AutoGen (⭐20k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 
-## [19. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [20. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Editors / Mobile Editors
 
@@ -262,7 +268,7 @@
 
 *   [GeoDesk (⭐127)](https://github.com/clarisma/geodesk) - Fast and storage-efficient database for OpenStreetMap analysis.
 
-## [20. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [21. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Hardware
 
@@ -325,7 +331,11 @@
 *   [JR pass](https://www.jrpass.com/map#) - Interactive Map of Mainline Rail in Japan.
 *   [Belgian Train Map](https://trainmap.belgiantrain.be/) -  The Train Map shows realtime information about SNCB trains on the network such as their position on a map of Belgium.
 
-## [21. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+### GTFS Analysis Tools / Ruby
+
+*   [PTNA](https://wiki.openstreetmap.org/wiki/Public_Transport_Network_Analysis) - Public Transit Nework Analysis is a open source system for finding and aggregating information about public transportation lines mapped in OSM.
+
+## [22. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Extensions / General Purpose
 
@@ -336,7 +346,7 @@
 
 *   [Cyanide (⭐162)](https://github.com/lefoy/cyanide-theme) — A minimal dark theme.
 
-## [22. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [23. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -352,7 +362,7 @@
 
 *   [manpage-completion-generator (⭐16)](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generats ZSH completions from man pages. Requires [create\_manpage\_completions.py (⭐23k)](https://github.com/fish-shell/fish-shell/blob/master/share/tools/create_manpage_completions.py) which is installed by the fish shell
 
-## [23. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
+## [24. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
 ### Tools / Ansible
 
@@ -364,25 +374,11 @@
 *   [A lesson in shortcuts](https://web.archive.org/web/20180827160401/https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp) -
     How the idea of "hidden" or "dot" files was born, by Rob Pike (originally posted on Google+).
 
-## [24. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [25. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Tutorials
 
 *   [DLang YouTube Tutorials from Mike Shah](https://www.youtube.com/playlist?list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV) - Series of tutorials covering basic to advanced features of the D programming language and standard library.
-
-## [25. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Libraries/Frameworks / Extensions
-
-*   [Kotlin/kotlinx.support (⭐54)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
-
-### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-
-### Libraries/Frameworks / Data Science
-
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
 
 ## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 

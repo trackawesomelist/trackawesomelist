@@ -69,6 +69,10 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 *   [JR pass](https://www.jrpass.com/map#) - Interactive Map of Mainline Rail in Japan.
 *   [Belgian Train Map](https://trainmap.belgiantrain.be/) -  The Train Map shows realtime information about SNCB trains on the network such as their position on a map of Belgium.
 
+### GTFS Analysis Tools / Ruby
+
+*   [PTNA](https://wiki.openstreetmap.org/wiki/Public_Transport_Network_Analysis) - Public Transit Nework Analysis is a open source system for finding and aggregating information about public transportation lines mapped in OSM.
+
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
 ### Web Apps (open source)

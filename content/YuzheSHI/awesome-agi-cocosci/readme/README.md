@@ -2,7 +2,7 @@
 
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 216 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 221 · 🏷️ Theory
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / Overview ]
 
@@ -58,6 +58,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
         *   [Language Compositionality](#language-compositionality)
         *   [Coordination](#coordination)
     *   [Domain Specific Language](#domain-specific-language)
+        *   [Design Theory](#design-theory)
+        *   [Domain Specified Applications](#domain-specified-applications)
     *   [Problem Solving](#problem-solving)
         *   [Human-Level Problem Solving](#human-level-problem-solving)
         *   [Planning](#planning)
@@ -567,7 +569,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Structuring Knowledge with Cognitive Maps and Cognitive Graphs](https://www.sas.upenn.edu/psych/epsteinlab/pdfs/Peer%20Brunec%20Newcombe%20Epstein%20TiCS%202020%20Cog%20maps%20and%20cog%20graphs.pdf) - ***Trends in Cognitive Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=7196012353183004425\&hl=en\&as_sdt=0,5)]. Russel Epstein's review on evidence suggesting that both map-like and graph-like representations exist in the mind/brain that rely on partially overlapping neural systems.
 
-*   [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.polyu.edu.hk/cbs/rclcn/images/cdl_articles/H/Huth_et_al._2016.pdf) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14997953800741854188\&hl=en\&as_sdt=0,5)]. \[[Code & Tutorial (⭐20)](https://github.com/HuthLab/speechmodeltutorial)].
+*   [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.polyu.edu.hk/cbs/rclcn/images/cdl_articles/H/Huth_et_al._2016.pdf) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14997953800741854188\&hl=en\&as_sdt=0,5)]. \[[Code & Tutorial (⭐22)](https://github.com/HuthLab/speechmodeltutorial)].
 
 *   [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf) - ***Psychological Science***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308\&hl=en\&as_sdt=0,5)]. Uncovering the cognitive and neural origins of word-meaning disagreements across individuals.
 
@@ -583,9 +585,9 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 #### AI Concept Representation
 
-*   [A principal odor map unifies diverse tasks in olfactory perception](https://www.science.org/doi/full/10.1126/science.ade4401) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17847258457660438418\&hl=en\&as_sdt=0,5)]. \[[Code (⭐14)](https://github.com/osmoai/publications/tree/main/lee_et_al_2023)]. \[[Data (Reproduced)](https://www.kaggle.com/datasets/aryanamitbarsainyan/multi-labelled-smiles-odors-dataset)]. \[[Preprint](https://centaur.reading.ac.uk/113304/1/Mayhew%20et%20al%20for%20Centaur.pdf)]. \[[GoodScents Database](https://www.thegoodscentscompany.com/)]. \[[Leffingwell Database](http://www.leffingwell.com/bacispmp.htm)]. A Principal Odor Map (POM) that preserves perceptual relationships and enables odor quality prediction for novel odorants.
+*   [A principal odor map unifies diverse tasks in olfactory perception](https://www.science.org/doi/full/10.1126/science.ade4401) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17847258457660438418\&hl=en\&as_sdt=0,5)]. \[[Code (⭐15)](https://github.com/osmoai/publications/tree/main/lee_et_al_2023)]. \[[Data (Reproduced)](https://www.kaggle.com/datasets/aryanamitbarsainyan/multi-labelled-smiles-odors-dataset)]. \[[Preprint](https://centaur.reading.ac.uk/113304/1/Mayhew%20et%20al%20for%20Centaur.pdf)]. \[[GoodScents Database](https://www.thegoodscentscompany.com/)]. \[[Leffingwell Database](http://www.leffingwell.com/bacispmp.htm)]. A Principal Odor Map (POM) that preserves perceptual relationships and enables odor quality prediction for novel odorants.
 
-*   [Metabolic activity organizes olfactory representations](https://elifesciences.org/articles/82502) - ***eLife***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8857896396450033667\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐14)](https://github.com/osmoai/publications/tree/main/qian_et_al_2023)]. Odorous compounds with similar POM representations are more likely to co-occur within a substance and be metabolically closely related; metabolic reaction sequences also follow smooth paths in POM despite large jumps in molecular structure.
+*   [Metabolic activity organizes olfactory representations](https://elifesciences.org/articles/82502) - ***eLife***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8857896396450033667\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐15)](https://github.com/osmoai/publications/tree/main/qian_et_al_2023)]. Odorous compounds with similar POM representations are more likely to co-occur within a substance and be metabolically closely related; metabolic reaction sequences also follow smooth paths in POM despite large jumps in molecular structure.
 
 *   [A Review of Tactile Information: Perception and Action Through Touch](https://ieeexplore.ieee.org/abstract/document/9136877) - ***IEEE Transactions on Robotics***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15493221881484741343\&hl=en\&as_sdt=0,5)]. \[[ResearchGate](https://www.researchgate.net/profile/Qiang-Li-110/publication/342797645_A_Review_of_Tactile_Information_Perception_and_Action_Through_Touch/links/602f95bc92851c4ed5806e9f/A-Review-of-Tactile-Information-Perception-and-Action-Through-Touch.pdf)]. A hierarchy consisting of raw, contact, object, and action levels to structure the tactile information.
 
@@ -751,6 +753,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 ### Domain Specific Language
 
+#### Design Theory
+
 *   [The complete guide to (external) Domain Specific Languages](https://tomassetti.me/domain-specific-languages/). An introduction to Domain Specific Languages (DSL) based on 19 DSL cases.
 
 *   [When and how to develop domain-specific languages](https://dl.acm.org/doi/abs/10.1145/1118890.1118892) - ***ACM Computing Surveys***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=8598236436890577027\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://john.cs.olemiss.edu/~hcc/csci658/notes/localcopy/WhenDSL.pdf)]. A survey on patterns in the decision, analysis, design, and implementation phases of DSL development.
@@ -758,6 +762,14 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 *   [Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378) - ***OOPSLA Workshop on Domain-Specific Modeling (DSM' 09)***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=1962567819031018744\&hl=en\&as_sdt=0,5)]. Guidelines to support a DSL developer to achieve better quality of the language design and a better acceptance among its users.
 
 *   [Domain-specific languages: an annotated bibliography](https://dl.acm.org/doi/abs/10.1145/352029.352035) - ***ACM SIGPLAN Notices***, 2000. \[[All Versions](https://scholar.google.com/scholar?cluster=8845429548327315750\&hl=en\&as_sdt=0,5)]. A survey on the topic of domain-specific languages as used for the construction and maintenance of software systems.
+
+\*[Back to Top](#c)
+
+#### Domain Specified Applications
+
+*   [Biocoder: A programming language for standardizing and automating biology protocols](https://jbioleng.biomedcentral.com/track/pdf/10.1186/1754-1611-4-13.pdf) - ***Journal of Biological Engineering***, 2010. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=15572197190838916795)]. \[[Project (⭐1)](https://github.com/nmz787/BioCoder)]. \[[Microsoft Page](https://www.microsoft.com/en-us/download/details.aspx?id=52556)] Microsoft's programming language for representing biology protocols.
+
+*   [A high-level programming language for generative protein design](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1) - 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=11732741354610784314\&hl=en\&as_sdt=0,5)].
 
 \*[Back to Top](#c)
 
@@ -891,7 +903,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [When to Trust Your Model: Model-Based Policy Optimization](https://proceedings.neurips.cc/paper_files/paper/2019/hash/5faf461eff3099671ad63c6f3f094f7f-Abstract.html) - ***NeurIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=4248859125840907707\&hl=en\&as_sdt=0,5)]. \[[Post](https://bair.berkeley.edu/blog/2019/12/12/mbpo/)].
 
-*   [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191\&hl=en\&as_sdt=0,5)]. \[[Code (⭐116)](https://github.com/pokaxpoka/sunrise)].
+*   [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191\&hl=en\&as_sdt=0,5)]. \[[Code (⭐117)](https://github.com/pokaxpoka/sunrise)].
 
 *   [The Quest for a Common Model of the Intelligent Decision Maker](https://arxiv.org/abs/2202.13252) - ***Multi-disciplinary Conference on Reinforcement Learning and Decision Making'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=7652784232757502910\&hl=en\&as_sdt=0,5)]. Richard Sutton's perspective on the future directions of reinforcement learning research.
 
@@ -1035,7 +1047,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Beneficial and harmful explanatory machine learning](https://link.springer.com/article/10.1007%2Fs10994-020-05941-0) - ***Machine Learning***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16983722694047294963\&hl=en\&as_sdt=0,5)].
 
-*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐868)](https://github.com/LAMDA-NJU/Deep-Forest)].
+*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐872)](https://github.com/LAMDA-NJU/Deep-Forest)].
 
 *   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[Code (⭐590)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
 
@@ -1043,7 +1055,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 #### Explainable Deep Learning
 
-*   [pytorch-grad-cam (⭐8.7k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
+*   [pytorch-grad-cam (⭐8.8k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
 *   [Network dissection: Quantifying interpretability of deep visual representations](https://ieeexplore.ieee.org/document/8099837) - ***CVPR'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=18069685615852396783\&hl=en\&as_sdt=0,5)]. \[[Project](http://netdissect.csail.mit.edu/)]. \[[Dataset: Places365](http://places2.csail.mit.edu/index.html)]. The original paper on visualizing the class activation maps to explain convolutional neural networks.
 
@@ -1436,6 +1448,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 *   [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11962817646389491592\&hl=en\&as_sdt=0,5)]. A review article that examines breakthroughs over the past decade that include self-supervised learning, which allows models to be trained on vast amounts of unlabelled data, and geometric deep learning, which leverages knowledge about the structure of scientific data to enhance model accuracy and efficiency.
 
 *   [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767\&hl=en\&as_sdt=0,5)]. \[[Nature News](https://www.nature.com/articles/d41586-023-01353-x)].
+
+*   [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8097577445064259203\&hl=en\&as_sdt=0,5)]. An artificial intelligence system driven by GPT-4 that autonomously designs, plans and performs complex experiments by incorporating large language models empowered by tools such as internet and documentation search, code execution and experimental automation.
 
 *   [A foundation model for generalizable disease detection from retinal images](https://www.nature.com/articles/s41586-023-06555-x) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=3139988207343394501\&hl=en\&as_sdt=0,5)].
 
@@ -1920,10 +1934,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 *   [A representational analysis of numeration systems](https://www.sciencedirect.com/science/article/pii/0010027795006743) - ***Cognition***, 1995. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=8852566070856662412)].
 
 *   [Learning Program Representations for Food Images and Cooking Recipes](https://openaccess.thecvf.com/content/CVPR2022/html/Papadopoulos_Learning_Program_Representations_for_Food_Images_and_Cooking_Recipes_CVPR_2022_paper.html) - ***CVPR'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=7690010749576063125)].
-
-*   [Biocoder: A programming language for standardizing and automating biology protocols](https://jbioleng.biomedcentral.com/track/pdf/10.1186/1754-1611-4-13.pdf) - ***Journal of Biological Engineering***, 2010. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=15572197190838916795)]. \[[Project (⭐1)](https://github.com/nmz787/BioCoder)]. Microsoft's programming language for representing biology protocols.
-
-*   [A high-level programming language for generative protein design](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1) - 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=11732741354610784314\&hl=en\&as_sdt=0,5)].
 
 \*[Back to Top](#c)
 

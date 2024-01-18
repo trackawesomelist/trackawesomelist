@@ -6,6 +6,12 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 [ Daily / [Weekly](/content/CUTR-at-USF/awesome-transit/week/README.md) / [Overview](/content/CUTR-at-USF/awesome-transit/readme/README.md) ]
 
+## [Jan 18, 2024](/content/2024/01/18/README.md)
+
+### GTFS Analysis Tools / Ruby
+
+*   [PTNA](https://wiki.openstreetmap.org/wiki/Public_Transport_Network_Analysis) - Public Transit Nework Analysis is a open source system for finding and aggregating information about public transportation lines mapped in OSM.
+
 ## [Jan 16, 2024](/content/2024/01/16/README.md)
 
 ### Hardware
