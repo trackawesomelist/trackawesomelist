@@ -6,6 +6,12 @@ A curated list of awesome tools, content and projects using k6
 
 [ Daily / [Weekly](/content/grafana/awesome-k6/week/README.md) / [Overview](/content/grafana/awesome-k6/readme/README.md) ]
 
+## [Jan 18, 2024](/content/2024/01/18/README.md)
+
+### Examples/Templates
+
+*   [k6-rollup-example (⭐0)](https://github.com/grafana/k6-rollup-example) - Example using Rollup to bundle k6 tests.
+
 ## [Jan 17, 2024](/content/2024/01/17/README.md)
 
 ### Examples/Templates

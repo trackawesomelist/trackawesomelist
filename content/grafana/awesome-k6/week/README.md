@@ -10,6 +10,7 @@ A curated list of awesome tools, content and projects using k6
 
 ### Examples/Templates
 
+*   [k6-rollup-example (⭐0)](https://github.com/grafana/k6-rollup-example) - Example using Rollup to bundle k6 tests.
 *   [Jahmilli/k6-example (⭐7)](https://github.com/Jahmilli/k6-example) - Starter template using Vite (Rollup) bundler to write k6 tests in TypeScript.
 *   [agilob/multiscenario-tests](https://b.agilob.net/programming/k6/multiscenario-tests/) - Running multiple scenarios at once.
 

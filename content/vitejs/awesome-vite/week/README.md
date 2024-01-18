@@ -8,6 +8,10 @@
 
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
+### Official Resources
+
+*   [Migration from v4](https://vitejs.dev/guide/migration.html)
+
 ### Templates / Vue 3
 
 *   [materio-free-vuetify-nuxtjs-admin-template (⭐9)](https://github.com/themeselection/materio-vuetify-nuxtjs-admin-template-free) - Vuejs 3, Vite 5, Vuetify 3 & NuxtJS 3.
@@ -1000,7 +1004,6 @@
 ### Official Resources
 
 *   [Vue 3 Docs](https://vuejs.org/)
-*   [Migration from v2](https://vitejs.dev/guide/migration.html)
 
 ### Templates / Vue 3
 

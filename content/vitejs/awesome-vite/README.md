@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Jan 18, 2024](/content/2024/01/18/README.md)
+
+### Official Resources
+
+*   [Migration from v4](https://vitejs.dev/guide/migration.html)
+
 ## [Jan 17, 2024](/content/2024/01/17/README.md)
 
 ### Templates / Vue 3
@@ -1191,7 +1197,6 @@
 ### Official Resources
 
 *   [Vue 3 Docs](https://vuejs.org/)
-*   [Migration from v2](https://vitejs.dev/guide/migration.html)
 
 ### Templates / React
 
