@@ -404,7 +404,7 @@ Please see [CONTRIBUTING (⭐30k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [random\_compat (⭐8.1k)](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
 *   [RandomLib (⭐839)](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
 *   [Symfony Security Monitoring](https://security.symfony.com/) - A web tool to check your Composer dependencies for security advisories, previously known as "SensioLabs Security Check".
-*   [SQLMap (⭐29k)](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
+*   [SQLMap (⭐30k)](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
 *   [TCrypto (⭐60)](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 *   [VAddy](https://vaddy.net/) - A continuous security testing platform for web applications.
 *   [Zap (⭐63)](https://github.com/OWASP/www-project-zap) - An integrated penetration testing tool for web applications.
@@ -789,7 +789,7 @@ Libraries to help manage database schemas and migrations.
 *   [Jane (⭐552)](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
 *   [Negotiation (⭐1.4k)](https://github.com/willdurand/Negotiation) - A content negotiation library.
 *   [Restler (⭐1.4k)](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
-*   [wsdl2phpgenerator (⭐807)](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - A tool to generate PHP classes from SOAP WSDL files.
+*   [PackageGenerator (⭐402)](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
 
 ### Caching and Locking
 

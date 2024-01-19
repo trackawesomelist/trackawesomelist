@@ -2,7 +2,7 @@
 
 A curated list of awesome Scriptable scripts and widgets.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dersvenhesse/awesome-scriptable/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dersvenhesse/awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable) · ⭐ 982 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dersvenhesse/awesome-scriptable/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dersvenhesse/awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable) · ⭐ 995 · 🏷️ Miscellaneous
 
 [ [Daily](/content/dersvenhesse/awesome-scriptable/README.md) / [Weekly](/content/dersvenhesse/awesome-scriptable/week/README.md) / Overview ]
 
@@ -55,7 +55,7 @@ A curated list of awesome Scriptable scripts and widgets.
 
     <img src="https://raw.githubusercontent.com/dschablowsky/FordPassWidget/master/fp-widget.jpg" width="400"/>
 
-*   [Polestar SoC Medium Widget (⭐9)](https://github.com/niklasvieth/polestar-ios-medium-widget) - Current state of charge of your Polestar 2 as medium widget or as simplified [lockscreen widget (⭐12)](https://github.com/niklasvieth/polestar-ios-lockscreen-widget).
+*   [Polestar SoC Medium Widget (⭐10)](https://github.com/niklasvieth/polestar-ios-medium-widget) - Current state of charge of your Polestar 2 as medium widget or as simplified [lockscreen widget (⭐13)](https://github.com/niklasvieth/polestar-ios-lockscreen-widget).
 
     <img src="https://raw.githubusercontent.com/niklasvieth/polestar-ios-medium-widget/main/images/polestar_medium_widget_relative.jpeg" width="400"/>
 
@@ -119,7 +119,7 @@ A curated list of awesome Scriptable scripts and widgets.
 
 ## Gaming
 
-*   [MinecraftServerWidget.js (⭐26)](https://github.com/au5ton/scriptable.app/tree/main/MinecraftServerWidget) - Information about a Minecraft server.
+*   [MinecraftServerWidget.js (⭐27)](https://github.com/au5ton/scriptable.app/tree/main/MinecraftServerWidget) - Information about a Minecraft server.
 
 *   [steam-wishlist.js](https://gist.github.com/brenoprata10/10d6bd1c8445a1181b899dd47c715577) - Shows items from a user's Steam wishlist.
 
@@ -143,11 +143,11 @@ A curated list of awesome Scriptable scripts and widgets.
 
     <img src="https://user-images.githubusercontent.com/8177259/96705591-cb7db480-1395-11eb-8fb3-cff401898bc2.jpg" width="800"/>
 
-*   [VodafoneDE (⭐269)](https://github.com/ThisIsBenny/iOS-Widgets/tree/main/VodafoneDE) - Data consumption based on tariff for Vodafone DE.
+*   [VodafoneDE (⭐270)](https://github.com/ThisIsBenny/iOS-Widgets/tree/main/VodafoneDE) - Data consumption based on tariff for Vodafone DE.
 
     <img src="https://raw.githubusercontent.com/ThisIsBenny/iOS-Widgets/main/VodafoneDE/previewLight.jpeg" width="200"/>
 
-*   [scriptable\_premiumsim (⭐15)](https://github.com/BergenSoft/scriptable_premiumsim) - Data consumption based on tariff for Drillisch providers (e.g. WinSIM, PremiumSIM).
+*   [scriptable\_premiumsim (⭐16)](https://github.com/BergenSoft/scriptable_premiumsim) - Data consumption based on tariff for Drillisch providers (e.g. WinSIM, PremiumSIM).
 
     <img src="https://raw.githubusercontent.com/BergenSoft/scriptable_premiumsim/main/Preview.jpg" width="200"/>
 
@@ -163,7 +163,7 @@ A curated list of awesome Scriptable scripts and widgets.
 
 ## Reading
 
-*   [scriptable-news-Widget.js (⭐111)](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
+*   [scriptable-news-Widget.js (⭐112)](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
 
     <img src="https://raw.githubusercontent.com/Saudumm/scriptable-News-Widget/main/images/widgets.jpg" width="800"/>
 
@@ -171,7 +171,7 @@ A curated list of awesome Scriptable scripts and widgets.
 
     <img src="https://raw.githubusercontent.com/brianseidman/scriptable-pocket-widget/72495ad9cc488b9790bb2ee6eac8dcedcf36dd96/Resources/scriptable-pocket-widget-image.png" width="400">
 
-*   [sonntagsfrage (⭐26)](https://github.com/henningtillmann/sonntagsfrage) - The latest German political poll results.
+*   [sonntagsfrage (⭐27)](https://github.com/henningtillmann/sonntagsfrage) - The latest German political poll results.
 
     <img src="https://raw.githubusercontent.com/henningtillmann/sonntagsfrage/main/screenshot-1.png" width="400"/>
 
@@ -225,19 +225,23 @@ A curated list of awesome Scriptable scripts and widgets.
 
     <img src="https://raw.githubusercontent.com/Korysam15/bamboo-scriptable-widget/main/docs/img/widget.png" width="200"/>
 
+*   [github-contributions (⭐0)](https://github.com/ferraridavide/scriptable/blob/main/github-contributions.js) - GitHub contributions heatmap on your lockscreen.
+
+    <img src="https://raw.githubusercontent.com/ferraridavide/scriptable/main/img/github.jpg" width="300"/>
+
 *   [gitlab-stats-for-scribtable (⭐48)](https://github.com/p0fi/gitlab-stats-for-scribtable) - Statistics from GitLab like the number of assigned merge requests.
 
     <img src="https://raw.githubusercontent.com/p0fi/gitlab-stats-for-scribtable/main/cover.png" width="800"/>
 
 *   [mz\_invisible\_widget.js](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9) - Creation of "invisible" backgrounds.
 
-*   [PlexStreamsWidget.js (⭐26)](https://github.com/au5ton/scriptable.app/tree/main/PlexStreamsWidget) - Information about a Plesk server.
+*   [PlexStreamsWidget.js (⭐27)](https://github.com/au5ton/scriptable.app/tree/main/PlexStreamsWidget) - Information about a Plesk server.
 
-*   [PurpleAir-AQI-Scriptable-Widget (⭐154)](https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget) - Air Quality from PurpleAir sensor.
+*   [PurpleAir-AQI-Scriptable-Widget (⭐156)](https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget) - Air Quality from PurpleAir sensor.
 
     <img src="https://camo.githubusercontent.com/1fdb80ce7198c16a4fafd1586a45307bbf255962/68747470733a2f2f736978636f6c6f72732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f7769646765742d6c61746573742e6a706567" width="400"/>
 
-*   [scriptable-testflight-watcher (⭐50)](https://github.com/FifiTheBulldog/scriptable-testflight-watcher) - Get notifications about new spots in TestFlight betas.
+*   [scriptable-testflight-watcher (⭐52)](https://github.com/FifiTheBulldog/scriptable-testflight-watcher) - Get notifications about new spots in TestFlight betas.
 
 *   [Scriptables-WindowWidget (⭐4)](https://github.com/Robby3St/Scriptables-WindowWidget) - Setting reminders for room ventilation.
 

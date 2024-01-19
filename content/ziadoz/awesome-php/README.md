@@ -6,6 +6,12 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 [ Daily / [Weekly](/content/ziadoz/awesome-php/week/README.md) / [Overview](/content/ziadoz/awesome-php/readme/README.md) ]
 
+## [Jan 19, 2024](/content/2024/01/19/README.md)
+
+### Table of Contents / API
+
+*   [PackageGenerator (⭐402)](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
+
 ## [Jan 06, 2024](/content/2024/01/06/README.md)
 
 ### Table of Contents / NoSQL
@@ -624,7 +630,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Security
 
-*   [SQLMap (⭐29k)](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
+*   [SQLMap (⭐30k)](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
 
 ## [Mar 04, 2020](/content/2020/03/04/README.md)
 
@@ -1763,10 +1769,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / E-commerce
 
 *   [OmniPay (⭐5.8k)](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
-
-### Table of Contents / API
-
-*   [wsdl2phpgenerator (⭐807)](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - A tool to generate PHP classes from SOAP WSDL files.
 
 ## [Apr 30, 2015](/content/2015/04/30/README.md)
 

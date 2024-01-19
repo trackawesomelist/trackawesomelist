@@ -1,12 +1,137 @@
 # Awesome List Updates on Jan 15 - Jan 21, 2024
 
-32 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [1. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+
+### Table of Contents / API
+
+*   [PackageGenerator (⭐402)](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
+
+## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Libraries/Frameworks / Extensions
+
+*   [Kotlin/kotlinx.support (⭐54)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
+
+### Libraries/Frameworks / Graphics
+
+*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
+
+### Libraries/Frameworks / Data Science
+
+*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
+
+### Libraries/Frameworks / Logging
+
+*   [Foso/Cabret-Log (⭐196)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
+
+### Libraries/Frameworks / Mail
+
+*   [bluefireoly/SimpleKotlinMail (⭐60)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
+
+### Projects / Web
+
+*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
+
+### Projects / Build tools
+
+*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
+*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
+
+### Projects / Misc
+
+*   [kpspemu/kpspemu (⭐71)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
+*   [chrislo27/RhythmHeavenRemixEditor (⭐424)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
+
+### Projects / Desktop
+
+*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
+
+### Projects / Examples
+
+*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
+
+### Projects / Android
+
+*   [skydoves/githubfollows (⭐294)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
+
+### Android / Libraries
+
+*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
+*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
+*   [ragunathjawahar/kaffeine (⭐155)](https://github.com/ragunathjawahar/kaffeine)
+*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
+*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
+
+### Android / Projects
+
+*   [inorichi/tachiyomi (⭐27k)](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android.
+*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
+*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
+*   [hanjoongcho/aaf-easypassword (⭐34)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
+
+### Android / Extensions
+
+*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
+
+### Android / Tests
+
+*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
+
+### Kotlin JavaScript / JavaScript
+
+*   [pixijs/pixi-native (⭐85)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
+*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
+*   [Foso/MpApt (⭐237)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
+
+### Kotlin JavaScript / Build Tools
+
+*   [Kotlin/kotlin-frontend-plugin (⭐565)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
+
+### Kotlin JavaScript / Integration
+
+*   [kotlin/ts2kt (⭐318)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
+
+### Kotlin Native / Projects
+
+*   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
+
+## [3. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+
+### Tools
+
+*   [github-contributions (⭐0)](https://github.com/ferraridavide/scriptable/blob/main/github-contributions.js) - GitHub contributions heatmap on your lockscreen.
+
+    <img src="https://raw.githubusercontent.com/ferraridavide/scriptable/main/img/github.jpg" width="300"/>
+
+## [4. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+
+### Web Archiving Service Providers / Self-hostable, Open Source
+
+*   [Browsertrix Cloud](https://browsertrix.cloud/) - From [Webrecorder](https://webrecorder.net/), source available at [https://github.com/webrecorder/browsertrix-cloud (⭐104)](https://github.com/webrecorder/browsertrix-cloud).
+*   [Conifer](https://conifer.rhizome.org/) - From [Rhizome](https://rhizome.org/), source available at <https://github.com/Rhizome-Conifer>.
+
+### Web Archiving Service Providers / Hosted, Closed Source
+
+*   [Archive-It](https://archive-it.org/) - From the Internet Archive.
+*   [Arkiwera](https://arkiwera.se/wp/websites/)
+*   [Hanzo](https://www.hanzo.co/chronicle)
+*   [MirrorWeb](https://www.mirrorweb.com/solutions/capabilities/website-archiving)
+*   [PageFreezer](https://www.pagefreezer.com/)
+*   [Smarsh](https://www.smarsh.com/platform/compliance-management/web-archive)
+
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Database Management
+
+*   [AdminerEvo](https://docs.adminerevo.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others (fork of Adminer). ([Source Code (⭐147)](https://github.com/adminerevo/adminerevo)) `Apache-2.0/GPL-2.0` `PHP`
+
+## [6. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Users
 
@@ -16,51 +141,52 @@
 
 *   [Falco (⭐122)](https://github.com/tobi-de/falco) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
 
-## [2. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 
 *   [Melt UI (⭐2.5k)](https://github.com/melt-ui/melt-ui) - A collection of accessible, reusable, and composable headless component builders and utilities.
 *   [Radix Svelte (⭐466)](https://github.com/radix-svelte/radix-svelte) - An unofficial community-led Svelte port of Radix UI Primitives
 
-## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Science Logology / Democratization of Science
 
 *   [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8097577445064259203\&hl=en\&as_sdt=0,5)]. An artificial intelligence system driven by GPT-4 that autonomously designs, plans and performs complex experiments by incorporating large language models empowered by tools such as internet and documentation search, code execution and experimental automation.
+*   [ChemCrow: Augmenting large-language models with chemistry tools](https://openreview.net/forum?id=wdGIL6lx3l) - ***NeurIPS AI for Science Workshop***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8711939262720486725\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://arxiv.org/abs/2304.05376)].
 
-## [4. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [9. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
 *   Level Up Your Data Analysis with Polars: A Powerful DataFrame Library for Speed and Efficiency]\(<https://python.plainenglish.io/level-up-your-data-analysis-with-polars-a-powerful-dataframe-library-for-speed-and-efficiency-0b82c226c7f1>) - A blog post that describs the main features of Polars (with benchmarks) by [ravi-m](https://ravi-m.medium.com/).
 *   [polars’ Rgonomic Patterns](https://www.emilyriederer.com/post/py-rgo-polars/) - A blog post that deeps dive into some of the advanced data wrangling functionality in python’s Polars package by [@emilyriederer](https://github.com/emilyriederer).
 
-## [5. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [10. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Tools
 
 *   [Axolo](https://www.axolo.co) Github/GitLab Slack integration. Create one ephemeral channel per pull request/ merge request.
 
-## [6. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [11. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Privacy by Design - Guides for developers (art. 25)
 
 *   [Norwegian DPA - Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/data-protection-by-design-and-by-default/)
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Productivity
 
 *   [Keyboard Cowboy (⭐381)](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zenangst/KeyboardCowboy)
 
-## [8. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [13. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Talks
 
 *   [On behalf of mankind: thank you for sharing!](https://www.youtube.com/watch?v=HBS8sS138GE) - TEDx talk by Jerry de Vos
 
-## [9. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [14. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
 - Name: [Continuous](https://continuous.sh/)
 
@@ -78,13 +204,13 @@
 
 
 
-## [10. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [15. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Julia / FrameWorks
 
 *   [IncTA.jl (⭐6)](https://github.com/femtotrader/IncTA.jl) - Julia Incremental Technical Analysis Indicators
 
-## [11. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [16. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -131,7 +257,11 @@
 
 *   [Standard Webhooks (⭐928) (⭐856)](https://github.com/standard-webhooks/standard-webhooks) - Open source tools and guidelines for sending webhooks easily, securely, and reliably.
 
-## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [17. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### Generative AI history, maps, and definitions
+
+*   [60+ Generative AI Terms You Must Know By Heart](https://www.analyticsvidhya.com/blog/2024/01/generative-ai-terms/): by Analytics Vidhya
 
 ### Online Tools and Applications
 
@@ -141,14 +271,18 @@
 
 *   [aiPDF](https://aipdf.ai): The most advanced AI document assistant
 
-## [13. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+### AI Tools for Research / Multi-agents
+
+*   [Unlocking productivity and personalizing learning with AI | Microsoft EDU](https://educationblog.microsoft.com/en-us/2024/01/unlocking-productivity-and-personalizing-learning-with-ai)
+
+## [18. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Darkest Derelicts](https://jaderavens.itch.io/darkest-derelicts) - Rules for Starforged, inspired by The Expanse and Alien
 *   [Feats & Favors](https://satan-bouchuncoin.itch.io/feats-favors) - Faction and reputation system for Ironsworn
 
-## [14. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [19. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Examples/Templates
 
@@ -156,13 +290,13 @@
 *   [Jahmilli/k6-example (⭐7)](https://github.com/Jahmilli/k6-example) - Starter template using Vite (Rollup) bundler to write k6 tests in TypeScript.
 *   [agilob/multiscenario-tests](https://b.agilob.net/programming/k6/multiscenario-tests/) - Running multiple scenarios at once.
 
-## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [20. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Services & Platforms
 
 *   [Apillon](http://apillon.io/) - a Web3 development platform, offering IPFS gateways, IPFS file-pinning via Crust network and IPFS powered hosting services for websites and apps.
 
-## [16. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [21. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Official Resources
 
@@ -176,7 +310,7 @@
 
 *   [vite-plugin-bundle-prefetch (⭐1)](https://github.com/dreambo8563/vite-plugin-bundle-prefetch) - Inject prefetch assets into `index.html`.
 
-## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [22. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -190,7 +324,7 @@
 
 *   [pianocomposer321/officer.nvim (⭐10)](https://github.com/pianocomposer321/officer.nvim) - Like dispatch.vim but using overseer.nvim.
 
-## [18. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [23. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :books: Literature / Documentation
 
@@ -250,7 +384,7 @@
 *   [VMHunt (⭐165)](https://github.com/s3team/VMHunt) - Set of tools for analyzing virtualized binary code ; now only supports 32 bit traces.
 *   [yarGen (⭐1.4k)](https://github.com/Neo23x0/yarGen) - Generator for YARA rules - The main principle is the creation of yara rules from strings found in malware files while removing all strings that also appear in goodware files.
 
-## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compression
 
@@ -260,7 +394,7 @@
 
 *   [bRPC (⭐16k)](https://github.com/apache/brpc) - bRPC is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \[Apache2] [website](https://brpc.apache.org/)
 
-## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [25. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Graphics
 
@@ -270,13 +404,13 @@
 
 *   [arp-scan-rs (⭐60)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
 
-## [21. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [26. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
 *   [AutoGen (⭐20k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 
-## [22. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [27. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Editors / Mobile Editors
 
@@ -290,7 +424,7 @@
 
 *   [GeoDesk (⭐127)](https://github.com/clarisma/geodesk) - Fast and storage-efficient database for OpenStreetMap analysis.
 
-## [23. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [28. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Hardware
 
@@ -357,7 +491,7 @@
 
 *   [PTNA](https://wiki.openstreetmap.org/wiki/Public_Transport_Network_Analysis) - Public Transit Nework Analysis is a open source system for finding and aggregating information about public transportation lines mapped in OSM.
 
-## [24. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [29. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Extensions / General Purpose
 
@@ -368,7 +502,7 @@
 
 *   [Cyanide (⭐162)](https://github.com/lefoy/cyanide-theme) — A minimal dark theme.
 
-## [25. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -384,7 +518,7 @@
 
 *   [manpage-completion-generator (⭐16)](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generats ZSH completions from man pages. Requires [create\_manpage\_completions.py (⭐23k)](https://github.com/fish-shell/fish-shell/blob/master/share/tools/create_manpage_completions.py) which is installed by the fish shell
 
-## [26. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
+## [31. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
 ### Tools / Ansible
 
@@ -396,25 +530,25 @@
 *   [A lesson in shortcuts](https://web.archive.org/web/20180827160401/https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp) -
     How the idea of "hidden" or "dot" files was born, by Rob Pike (originally posted on Google+).
 
-## [27. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [32. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Tutorials
 
 *   [DLang YouTube Tutorials from Mike Shah](https://www.youtube.com/playlist?list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV) - Series of tutorials covering basic to advanced features of the D programming language and standard library.
 
-## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [33. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Other Free Resources
 
 *   [360Converter](https://www.360converter.com/) - Free tier useful website to convert: Video to Text && Audio to Text && Speech to Text && Real-time Audio to Text && YouTube Video to Text && add Video Subtitle. Maybe it will be helpful in a short video conversion or in a short youtube tutorial:)
 
-## [29. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [34. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Software / HPGL
 
 *   [Chiplotle3 (⭐4)](https://github.com/cyprienh/chiplotle3) - Chiplotle fork updated for Python 3.x compatibility.
 
-## [30. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [35. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Golem
 
@@ -438,13 +572,13 @@
 
 *   [Yacat](https://docs.golem.network/docs/creators/python/tutorials/task-example-2-hashcat) - Hashcat password-recovery step-by-step.
 
-## [31. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [36. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Utilities
 
 *   [v-nodejs-addon (⭐0)](https://github.com/fanlia/v-nodejs-addon) - An demo of how to create a Node.js addon with V.
 
-## [32. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [37. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### CI/CD / Other
 

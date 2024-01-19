@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jan 19, 2024](/content/2024/01/19/README.md)
+
+### Science Logology / Democratization of Science
+
+*   [ChemCrow: Augmenting large-language models with chemistry tools](https://openreview.net/forum?id=wdGIL6lx3l) - ***NeurIPS AI for Science Workshop***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8711939262720486725\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://arxiv.org/abs/2304.05376)].
+
 ## [Jan 18, 2024](/content/2024/01/18/README.md)
 
 ### Science Logology / Democratization of Science
@@ -381,8 +387,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Comparability of automated human induced pluripotent stem cell culture: a pilot study](https://link.springer.com/article/10.1007/s00449-016-1659-9) - ***Bioprocess and Biosystems Engineering***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14666375402220991095\&hl=en\&as_sdt=0,5)].
 *   [Robotic search for optimal cell culture in regenerative medicine](https://elifesciences.org/articles/77007) - ***eLife***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=1330075145723138159\&hl=en\&as_sdt=0,5)].
 *   [Cell Culture: Implementing robotics and artificial intelligence](https://elifesciences.org/articles/80609) - ***eLife***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10725537391648003592\&hl=en\&as_sdt=0,5)].
-*   [Emergent autonomous scientific research capabilities of large language models](https://arxiv.org/abs/2304.05332) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=14553083883464125776\&hl=en\&as_sdt=0,5)].
-*   [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8711939262720486725\&hl=en\&as_sdt=0,5)].
 *   [LEGAL-BERT: The Muppets straight out of Law School](https://aclanthology.org/2020.findings-emnlp.261/) - ***EMNLP'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11254432523766039890\&hl=en\&as_sdt=0,5)]. Generating answers to legal questions, analyze contracts, and summarizing legal documents, making legal knowledge more accessible to non-experts.
 *   [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506) - ***Bioinformatics***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2783127196632783403\&hl=en\&as_sdt=0,5)]. Answering medical questions, identifying relevant clinical trials, and diagnosing diseases based on symptoms, making medical information more accessible to the general public.
 *   [Finbert: A pre-trained financial language representation model for financial text mining](https://dl.acm.org/doi/abs/10.5555/3491440.3492062) - ***IJCAI'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17844713837232165872\&hl=en\&as_sdt=0,5)]. Predicting stock market trends, analyzing financial documents, and generating summaries of economic news articles, helping to disseminate financial knowledge.

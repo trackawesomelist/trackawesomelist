@@ -111,6 +111,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Generative AI history, maps, and definitions
 
+*   [60+ Generative AI Terms You Must Know By Heart](https://www.analyticsvidhya.com/blog/2024/01/generative-ai-terms/): by Analytics Vidhya
 *   [The Four Wars of the AI Stack (Dec 2023 Recap)](https://www.latent.space/p/dec-2023): "recap of top items for the AI Engineer from Dec 2023" ("The Data Wars, The War of the GPU Rich/Poor, The Multimodality War, The RAG/Ops War")
 *   [GenAI Prism Infographic by Brian Solis](https://briansolis.com/2023/12/introducing-the-genai-prism-infographic-a-framework-for-colalborating-with-generative-ai/): A Framework for Collaborating with Generative AI
 *   [LLM Visualization](https://bbycroft.net/llm)
@@ -725,6 +726,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### AI Tools for Research
 
+*   [Unlocking productivity and personalizing learning with AI | Microsoft EDU](https://educationblog.microsoft.com/en-us/2024/01/unlocking-productivity-and-personalizing-learning-with-ai)
 *   [Sourcely](https://www.sourcely.net/): Academic Citation Finding Tool with AI
 *   [GummySearch](https://gummysearch.com/?ref=filipecalegario-awesome-generative-ai): AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
 *   [\[2310.17143\] Supercharging academic writing with generative AI: framework, techniques, and caveats](https://arxiv.org/abs/2310.17143)

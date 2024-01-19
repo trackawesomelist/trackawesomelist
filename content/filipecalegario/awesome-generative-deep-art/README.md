@@ -6,6 +6,16 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jan 19, 2024](/content/2024/01/19/README.md)
+
+### Generative AI history, maps, and definitions
+
+*   [60+ Generative AI Terms You Must Know By Heart](https://www.analyticsvidhya.com/blog/2024/01/generative-ai-terms/): by Analytics Vidhya
+
+### AI Tools for Research / Multi-agents
+
+*   [Unlocking productivity and personalizing learning with AI | Microsoft EDU](https://educationblog.microsoft.com/en-us/2024/01/unlocking-productivity-and-personalizing-learning-with-ai)
+
 ## [Jan 17, 2024](/content/2024/01/17/README.md)
 
 ### Online Tools and Applications

@@ -8,6 +8,10 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
+### Generative AI history, maps, and definitions
+
+*   [60+ Generative AI Terms You Must Know By Heart](https://www.analyticsvidhya.com/blog/2024/01/generative-ai-terms/): by Analytics Vidhya
+
 ### Online Tools and Applications
 
 *   [Clipwing](https://clipwing.pro/): A tool for cutting long videos into dozens of short clips.
@@ -15,6 +19,10 @@ A curated list of Generative AI tools, works, models, and references
 ### Text-related Generative Tools / Multi-agents
 
 *   [aiPDF](https://aipdf.ai): The most advanced AI document assistant
+
+### AI Tools for Research / Multi-agents
+
+*   [Unlocking productivity and personalizing learning with AI | Microsoft EDU](https://educationblog.microsoft.com/en-us/2024/01/unlocking-productivity-and-personalizing-learning-with-ai)
 
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 

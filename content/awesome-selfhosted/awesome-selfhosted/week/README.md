@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ [Daily](/content/awesome-selfhosted/awesome-selfhosted/README.md) / Weekly / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
+
+### Software / Database Management
+
+*   [AdminerEvo](https://docs.adminerevo.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others (fork of Adminer). ([Source Code (⭐147)](https://github.com/adminerevo/adminerevo)) `Apache-2.0/GPL-2.0` `PHP`
+
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 
 ### Software / Automation
@@ -280,7 +286,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Communication - Video Conferencing
 
-*   [Janus](https://janus.conf.meetecho.com/) - General-purpose, lightweight, minimalist WebRTC Server. ([Demo](https://janus.conf.meetecho.com/demos.html), [Source Code (⭐7.6k)](https://github.com/meetecho/janus-gateway)) `GPL-3.0` `C`
+*   [Janus](https://janus.conf.meetecho.com/) - General-purpose, lightweight, minimalist WebRTC Server. ([Demo](https://janus.conf.meetecho.com/demos/), [Source Code (⭐7.6k)](https://github.com/meetecho/janus-gateway)) `GPL-3.0` `C`
 
 ### Software / Feed Readers
 
@@ -413,7 +419,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Database Management
 
-*   [Adminer](https://www.adminer.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others. ([Source Code (⭐5.9k)](https://github.com/vrana/adminer/)) `Apache-2.0/GPL-2.0` `PHP`
 *   [MindsDB](https://mindsdb.com/) - MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries. ([Source Code (⭐20k)](https://github.com/mindsdb/mindsdb)) `GPL-3.0` `Docker/Python`
 
 ### Software / DNS
@@ -2260,7 +2265,7 @@ A list of Free Software network services and web applications which can be hoste
 *   [PrestaShop](https://www.prestashop.com/) - PrestaShop offers a free, open-source and fully scalable e-commerce solution. ([Demo](https://demo.prestashop.com/), [Source Code (⭐7.6k)](https://github.com/PrestaShop/PrestaShop)) `OSL-3.0` `PHP`
 *   [Pretix](https://pretix.eu/) - Django based ticket sales platform for events. ([Source Code](https://github.com/pretix)) `Apache-2.0` `Python`
 *   [Solidus](https://solidus.io/) - A free, open-source ecommerce platform that gives you complete control over your store. ([Demo](http://demo.solidus.io/), [Source Code (⭐4.8k)](https://github.com/solidusio/solidus)) `BSD-3-Clause` `Ruby/Docker`
-*   [Spree Commerce](https://spreecommerce.org) - Spree is a complete, modular & API-driven open source e-commerce solution for Ruby on Rails. ([Demo](https://new-ux.spreecommerce.org/), [Source Code (⭐12k)](https://github.com/spree/spree)) `BSD-3-Clause` `Ruby`
+*   [Spree Commerce](https://spreecommerce.org) - Spree is a complete, modular & API-driven open source e-commerce solution for Ruby on Rails. ([Demo](https://new-ux.spreecommerce.org/), [Source Code (⭐13k)](https://github.com/spree/spree)) `BSD-3-Clause` `Ruby`
 *   [Sylius](https://sylius.com) - Symfony2 powered open source full-stack platform for eCommerce. ([Demo](https://sylius.com/try/), [Source Code (⭐7.6k)](https://github.com/Sylius/Sylius)) `MIT` `PHP`
 *   [Thelia](https://thelia.net/) - Thelia is an open source and flexible e-commerce solution. ([Demo](https://demo.thelia.net/), [Source Code (⭐822)](https://github.com/thelia/thelia)) `LGPL-3.0` `PHP`
 *   [WooCommerce](https://woocommerce.com/) - WordPress based e-commerce solution. ([Source Code (⭐8.9k)](https://github.com/woocommerce/woocommerce)) `GPL-3.0` `PHP`
@@ -2816,7 +2821,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### External Links / Wikis
 
-*   Other Awesome lists: [Awesome Big Data (⭐13k)](https://github.com/0xnr/awesome-bigdata), [Awesome Public Datasets (⭐57k)](https://github.com/awesomedata/awesome-public-datasets)
+*   Other Awesome lists: [Awesome Big Data (⭐13k)](https://github.com/0xnr/awesome-bigdata), [Awesome Public Datasets (⭐58k)](https://github.com/awesomedata/awesome-public-datasets)
 *   [Track Awesome Selfhosted](https://www.trackawesomelist.com/awesome-selfhosted/awesome-selfhosted/) - Get the latest updates of awesome-selfhosted.
 
 ## [Jun 28 - Jul 04, 2021](/content/2021/26/README.md)
@@ -3158,10 +3163,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Sep 07 - Sep 13, 2020](/content/2020/36/README.md)
 
-### Software / Pastebins
-
-*   [PurritoBin (⭐188)](https://github.com/PurritoBin/PurritoBin) - Ultra fast, minimalistic, encrypted command line paste-bin, where the server has no knowledge of the paste data. `ISC` `C++`
-
 ### Software / Software Development - Project Management
 
 *   [SCM Manager](https://www.scm-manager.org/) - The easiest way to share and manage your Git, Mercurial and Subversion repositories over http. ([Source Code (⭐120)](https://github.com/scm-manager/scm-manager)) `BSD-3-Clause` `Java/deb/Docker/K8S`
@@ -3494,7 +3495,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Polls and Events
 
-*   [hitobito](https://hitobito.com/en) - A web application to manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐327)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
+*   [hitobito](https://hitobito.com/en) - A web application to manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐331)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
 
 ### Software / Software Development - Project Management
 
@@ -3557,7 +3558,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Automation
 
-*   [ActiveWorkflow (⭐773)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
+*   [ActiveWorkflow (⭐777)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
 
 ### Software / Communication - Custom Communication Systems
 
