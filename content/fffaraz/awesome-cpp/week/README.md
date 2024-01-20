@@ -16,6 +16,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [bRPC (⭐16k)](https://github.com/apache/brpc) - bRPC is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \[Apache2] [website](https://brpc.apache.org/)
 
+### Regular Expression
+
+*   [SRELL](https://www.akenotsuki.com/misc/srell/en/) - Unicode-aware regular expression template library for C++. \[BSD]
+
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 
 ### Containers
@@ -51,7 +55,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Physics
 
-*   [Jolt Physics (⭐4.8k)](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. \[MIT]
+*   [Jolt Physics (⭐4.9k)](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. \[MIT]
 
 ### Videos
 
@@ -2733,7 +2737,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Machine Learning
 
-*   [mlpack (⭐4.6k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
+*   [mlpack (⭐4.7k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
 
 ## [Jan 30 - Feb 05, 2017](/content/2017/5/README.md)
 
@@ -3678,7 +3682,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Other Awesome Projects
 
-*   [lists (⭐9.3k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
+*   [lists (⭐9.4k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
 *   [free-programming-books (⭐307k)](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 
 ## [Sep 29 - Oct 05, 2014](/content/2014/39/README.md)
@@ -3926,10 +3930,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Compression
 
 *   [bzip2](http://www.bzip.org/) - A freely available, patent free, high-quality data compressor. \[BSD]
-*   [PhysicsFS](https://icculus.org/physfs/) - A library to provide abstract access to various archives. It is intended for use in video games, and the design was somewhat inspired by Quake 3's file subsystem. \[zlib]
 *   [LZHAM](https://code.google.com/p/lzham/) - Lossless data compression library with a compression ratio similar to LZMA but with much faster decompression. \[BSD]
 *   [LZMAT](http://www.matcode.com/lzmat.htm) - An extremely fast real-time lossless data compression library. \[GPL]
 *   [Minizip (⭐1.1k)](https://github.com/nmoinvaz/minizip) - Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering. \[zlib]
+*   [PhysicsFS](https://icculus.org/physfs/) - A library to provide abstract access to various archives. It is intended for use in video games, and the design was somewhat inspired by Quake 3's file subsystem. \[zlib]
 *   [ZLib](http://zlib.net/) - A very compact compression library for data streams. \[zlib]
 *   [ZZIPlib](http://zziplib.sourceforge.net/) - Provides read access on ZIP-archives. \[MPL/LGPL]
 

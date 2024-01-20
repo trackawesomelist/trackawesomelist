@@ -6,11 +6,17 @@ A curated list of testing resources
 
 [ [Daily](/content/TheJambo/awesome-testing/README.md) / Weekly / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
+
+### Software / Make your life easier
+
+*   [playwright-bdd (⭐121)](https://github.com/vitalets/playwright-bdd) - A module for running Behaviour-Driven Development (BDD) tests with Playwright runner.
+
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 
 ### Software / Make your life easier
 
-*   [Ferrum (⭐1.5k)](https://github.com/rubycdp/ferrum) - very simple and easy to get started with frontend/UI testing in small Ruby scripts, high-level API to control Chrome with the CDP - Chrome DevTools Protocol (NO Selenium dependency)
+*   [Ferrum (⭐1.6k)](https://github.com/rubycdp/ferrum) - very simple and easy to get started with frontend/UI testing in small Ruby scripts, high-level API to control Chrome with the CDP - Chrome DevTools Protocol (NO Selenium dependency)
 
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
@@ -46,7 +52,7 @@ A curated list of testing resources
 
 *   [Dapp.tools](https://dapp.tools/) - Command line tools and smart contract libraries for Ethereum smart contract development.
 *   [Ganache](https://trufflesuite.com/ganache/) - Personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
-*   [Foundry (⭐7k)](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+*   [Foundry (⭐7.1k)](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 *   [Hardhat](https://hardhat.org/) - Multichain Ethereum development environment.
 *   [Robot Framework Solidity Testing Toolkit (⭐9)](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - This combines popular smart contract testing and deployment libraries with Robot Framework.
 *   [Truffle Suite](https://trufflesuite.com/) - Comprehensive suite of tools for smart contract development.

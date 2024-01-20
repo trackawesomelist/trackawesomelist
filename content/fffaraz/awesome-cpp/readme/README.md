@@ -278,7 +278,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [bzip3 (⭐604)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
 *   [FiniteStateEntropy (⭐1.3k)](https://github.com/Cyan4973/FiniteStateEntropy) - New generation entropy codecs : Finite State Entropy and Huff0.
 *   [heatshrink (⭐1.2k)](https://github.com/atomicobject/heatshrink) - data compression library for embedded/real-time systems  \[ISC]
-*   [PhysicsFS](https://icculus.org/physfs/) - A library to provide abstract access to various archives. It is intended for use in video games, and the design was somewhat inspired by Quake 3's file subsystem. \[zlib]
 *   [KArchive](https://api.kde.org/frameworks/karchive/html/index.html) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice. \[LGPL]
 *   [libarchive (⭐2.7k)](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. \[New BSD] [website](http://www.libarchive.org/)
 *   [LZ4 (⭐8.9k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
@@ -289,6 +288,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [miniz (⭐2k)](https://github.com/richgel999/miniz) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. \[MIT]
 *   [Minizip (⭐1.1k)](https://github.com/nmoinvaz/minizip) - Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering. \[zlib]
 *   [minizip-ng (⭐1.1k)](https://github.com/zlib-ng/minizip-ng) - Fork of the popular zip manipulation library found in the zlib distribution. \[zlib]
+*   [PhysicsFS](https://icculus.org/physfs/) - A library to provide abstract access to various archives. It is intended for use in video games, and the design was somewhat inspired by Quake 3's file subsystem. \[zlib]
 *   [Rapidgzip (⭐269)](https://github.com/mxmlnkn/rapidgzip) - Gzip Decompression and Random Access for Modern Multi-Core Machines. \[Apache-2/MIT]
 *   [smaz (⭐1.1k)](https://github.com/antirez/smaz) - Small strings compression library. \[BSD]
 *   [Snappy](https://google.github.io/snappy/) - A fast compressor/decompressor. \[BSD]
@@ -777,7 +777,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [m2cgen (⭐2.7k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native C code with zero dependencies. \[MIT]
 *   [MeTA (⭐678)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
 *   [Minerva (⭐688)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
-*   [mlpack (⭐4.6k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
+*   [mlpack (⭐4.7k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
 *   [ncnn (⭐19k)](https://github.com/Tencent/ncnn) - A high-performance neural network inference computing framework optimized for mobile platforms. \[BSD]
 *   [OpenCV (⭐74k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
 *   [oneDAL (⭐584)](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. \[Apache]
@@ -953,7 +953,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Box2D (⭐7k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
 *   [Bullet (⭐11k)](https://github.com/bulletphysics/bullet3) - A 3D physics engine for games. \[zlib] [website](http://bulletphysics.org)
 *   [Chipmunk (⭐2k)](https://github.com/slembcke/Chipmunk2D) - A fast and lightweight 2D game physics library. \[MIT] [website](https://chipmunk-physics.net/)
-*   [Jolt Physics (⭐4.8k)](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. \[MIT]
+*   [Jolt Physics (⭐4.9k)](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. \[MIT]
 *   [Kratos (⭐921)](https://github.com/KratosMultiphysics/Kratos) - framework for building parallel, multi-disciplinary simulation software, aiming at modularity, extensibility, and high performance. \[BSD] [website](http://www.cimne.com/kratos/)
 *   [LiquidFun (⭐4.6k)](https://github.com/google/liquidfun) - A 2D physics engine for games. \[BSD-like]
 *   [Newton Dynamics (⭐880)](https://github.com/MADEAPPS/newton-dynamics) - An integrated solution for real time simulation of physics environments. \[zlib]
@@ -996,6 +996,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [RE2 (⭐8.4k)](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. \[BSD-3-Clause]
 *   [SLRE (⭐512)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. \[GPLv2/Proprietary]
 *   [sregex (⭐612)](https://github.com/openresty/sregex) - A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams. \[BSD]
+*   [SRELL](https://www.akenotsuki.com/misc/srell/en/) - Unicode-aware regular expression template library for C++. \[BSD]
 
 ## Robotics
 
@@ -1483,7 +1484,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Other amazingly awesome lists*
 
-*   [lists (⭐9.3k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
+*   [lists (⭐9.4k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
 *   [awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
 *   [awesome (⭐285k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 *   [C++ links (⭐3.8k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
