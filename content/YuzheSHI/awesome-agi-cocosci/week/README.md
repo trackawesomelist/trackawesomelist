@@ -8,6 +8,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
+### Domain Specific Language / Domain Specified Applications
+
+*   [Learning the language of viral evolution and escape](https://www.science.org/doi/full/10.1126/science.abd7331) - ***Science***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=13862653184613223515)]. Natural language processing with two components: grammar (or syntax) and meaning (or semantics) for predicting which viral mutations may lead to viral escape.
+
 ### Science Logology / Democratization of Science
 
 *   [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8097577445064259203\&hl=en\&as_sdt=0,5)]. An artificial intelligence system driven by GPT-4 that autonomously designs, plans and performs complex experiments by incorporating large language models empowered by tools such as internet and documentation search, code execution and experimental automation.

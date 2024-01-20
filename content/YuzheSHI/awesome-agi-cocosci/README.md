@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jan 20, 2024](/content/2024/01/20/README.md)
+
+### Domain Specific Language / Domain Specified Applications
+
+*   [Learning the language of viral evolution and escape](https://www.science.org/doi/full/10.1126/science.abd7331) - ***Science***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=13862653184613223515)]. Natural language processing with two components: grammar (or syntax) and meaning (or semantics) for predicting which viral mutations may lead to viral escape.
+
 ## [Jan 19, 2024](/content/2024/01/19/README.md)
 
 ### Science Logology / Democratization of Science

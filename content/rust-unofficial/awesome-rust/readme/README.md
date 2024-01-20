@@ -183,7 +183,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 ### Cryptocurrencies
 
 *   [artemis (⭐1.9k)](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots in Rust.
-*   [beerus (⭐195)](https://github.com/keep-starknet-strange/beerus) - Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ and powered by Rust 🦀 [![GitHub Workflow Status](https://github.com/keep-starknet-strange/beerus/actions/workflows/test.yml/badge.svg)](https://github.com/keep-starknet-strange/beerus/actions/workflows/test.yml)
+*   [beerus (⭐204)](https://github.com/eigerco/beerus) - Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ and powered by Rust 🦀 [![GitHub Workflow Status](https://github.com/eigerco/beerus/actions/workflows/test.yml/badge.svg)](https://github.com/eigerco/beerus/actions/workflows/test.yml)
 *   [Bitcoin Satoshi's Vision (⭐56)](https://github.com/brentongunning/rust-sv) \[[sv](https://crates.io/crates/sv)] — A Rust library for working with Bitcoin SV .
 *   [cairo (⭐1.3k)](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation. This is also the native language of [StarkNet](https://www.starknet.io/en), a ZK-Rollup using STARK proofs ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square\&logo=github)
 *   [cairo-vm (⭐433)](https://github.com/lambdaclass/cairo-vm) — Rust implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml)
@@ -348,7 +348,7 @@ See also [Games Made With Piston (⭐4.5k)](https://github.com/PistonDevelopers/
 ### Observability
 
 *   [avito-tech/bioyino (⭐222)](https://github.com/avito-tech/bioyino) — A high-performance scalable StatsD compatible server.
-*   [openobserve (⭐7.7k)](https://github.com/openobserve/openobserve) - 10x easier, 140x lower storage cost, high performance, petabyte scale - Elasticsearch/Splunk/Datadog alternative.
+*   [openobserve (⭐7.9k)](https://github.com/openobserve/openobserve) - 10x easier, 140x lower storage cost, high performance, petabyte scale - Elasticsearch/Splunk/Datadog alternative.
 *   [OpenTelemetry](https://crates.io/crates/opentelemetry) — OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application. You can analyze them using Prometheus, Jaeger, and other observability tools. [![GitHub Actions CI](https://github.com/open-telemetry/opentelemetry-rust/workflows/CI/badge.svg?branch=master)](https://github.com/open-telemetry/opentelemetry-rust/actions?query=workflow%3ACI+branch%3Amaster)
 *   [Quickwit-oss/quickwit (⭐5.1k)](https://github.com/quickwit-oss/quickwit) - Cloud-native and highly cost-efficient search engine for log management. [![CI](https://github.com/quickwit-oss/quickwit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/quickwit-oss/quickwit/actions?query=workflow%3ACI)
 *   [Scaphandre (⭐1.3k)](https://github.com/hubblo-org/scaphandre) - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
@@ -596,7 +596,6 @@ See also [A comparison of operating systems written in Rust (⭐609)](https://gi
 *   [ptags (⭐122)](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository
 *   [Racer (⭐3.4k)](https://github.com/racer-rust/racer) — code completion for Rust
 *   [Rust Search Extension (⭐1.1k)](https://github.com/huhu/rust-search-extension) — A handy browser extension to search crates and docs in address bar (omnibox). [![Build Status](https://github.com/huhu/rust-search-extension/workflows/build/badge.svg?branch=master)](https://github.com/huhu/rust-search-extension/actions)
-*   [rust-lang/rustfix (⭐860)](https://github.com/rust-lang/rustfix)  — automatically applies the suggestions made by rustc
 *   [Rustup (⭐5.7k)](https://github.com/rust-lang/rustup) — the Rust toolchain installer [![build badge](https://github.com/rust-lang/rustup/workflows/Linux%20\(master\)/badge.svg?branch=master)](https://github.com/rust-lang/rustup/actions)
 *   [scriptisto (⭐337)](https://github.com/igor-petruk/scriptisto) A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
 
@@ -733,7 +732,7 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
 
 *   [dprint (⭐2.7k)](https://github.com/dprint/dprint) — A pluggable and configurable code formatting platform [![build badge](https://github.com/dprint/dprint/workflows/CI/badge.svg)](https://github.com/dprint/dprint/actions?query=workflow%3ACI)
 *   [Prettier Rust (⭐150)](https://github.com/jinxdash/prettier-plugin-rust) — An opinionated Rust code formatter that autofixes bad syntax ([Prettier](https://prettier.io/) community plugin)
-*   [rustfmt (⭐5.5k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo
+*   [rustfmt (⭐5.6k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo
 
 ### IDEs
 
@@ -1538,7 +1537,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 ### Mobile
 
 *   Android / iOS
-    *   [ivanschuetz/rust\_android\_ios (⭐224)](https://github.com/ivanschuetz/rust_android_ios) — An example of using a shared Rust lib for Android and iOS using rust-swig and cbindgen respectively.
+    *   [owlmafia/rust\_android\_ios (⭐226)](https://github.com/owlmafia/rust_android_ios) — An example of using a shared Rust lib for Android and iOS using rust-swig and cbindgen respectively.
 *   Generic
     *   [Geal/rust\_on\_mobile (⭐166)](https://github.com/Geal/rust_on_mobile)
     *   [redbadger/crux (⭐1.2k)](https://github.com/redbadger/crux) \[[crux\_core](https://crates.io/crates/crux_core)] — Cross-platform app development in Rust. Crux helps you share your app's business logic and behavior across mobile (iOS/Android) and web — as a single reusable core built with Rust. [![Build status](https://img.shields.io/github/actions/workflow/status/redbadger/crux/build.yaml)](https://github.com/redbadger/crux/actions)

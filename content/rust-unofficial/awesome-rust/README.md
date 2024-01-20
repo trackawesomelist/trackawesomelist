@@ -6,6 +6,17 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jan 20, 2024](/content/2024/01/20/README.md)
+
+### Applications / Cryptocurrencies
+
+*   [beerus (⭐204)](https://github.com/eigerco/beerus) - Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ and powered by Rust 🦀 [![GitHub Workflow Status](https://github.com/eigerco/beerus/actions/workflows/test.yml/badge.svg)](https://github.com/eigerco/beerus/actions/workflows/test.yml)
+
+### Libraries / Mobile
+
+*   Android / iOS
+    *   [owlmafia/rust\_android\_ios (⭐226)](https://github.com/owlmafia/rust_android_ios) — An example of using a shared Rust lib for Android and iOS using rust-swig and cbindgen respectively.
+
 ## [Jan 17, 2024](/content/2024/01/17/README.md)
 
 ### Applications / Security tools
@@ -46,7 +57,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Observability
 
-*   [openobserve (⭐7.7k)](https://github.com/openobserve/openobserve) - 10x easier, 140x lower storage cost, high performance, petabyte scale - Elasticsearch/Splunk/Datadog alternative.
+*   [openobserve (⭐7.9k)](https://github.com/openobserve/openobserve) - 10x easier, 140x lower storage cost, high performance, petabyte scale - Elasticsearch/Splunk/Datadog alternative.
 
 ## [Jan 02, 2024](/content/2024/01/02/README.md)
 
@@ -901,10 +912,6 @@ A curated list of Rust code and resources.
 
 ## [Jan 10, 2023](/content/2023/01/10/README.md)
 
-### Applications / Cryptocurrencies
-
-*   [beerus (⭐195)](https://github.com/keep-starknet-strange/beerus) - Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ and powered by Rust 🦀 [![GitHub Workflow Status](https://github.com/keep-starknet-strange/beerus/actions/workflows/test.yml/badge.svg)](https://github.com/keep-starknet-strange/beerus/actions/workflows/test.yml)
-
 ### Libraries / Peripherals
 
 *   Serial Port
@@ -1071,7 +1078,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Formatters
 
-*   [rustfmt (⭐5.5k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo
+*   [rustfmt (⭐5.6k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo
 
 ## [Aug 17, 2022](/content/2022/08/17/README.md)
 
@@ -2300,7 +2307,6 @@ A curated list of Rust code and resources.
 
 ### Development tools / Web Servers
 
-*   [rust-lang/rustfix (⭐860)](https://github.com/rust-lang/rustfix)  — automatically applies the suggestions made by rustc
 *   [Rustup (⭐5.7k)](https://github.com/rust-lang/rustup) — the Rust toolchain installer [![build badge](https://github.com/rust-lang/rustup/workflows/Linux%20\(master\)/badge.svg?branch=master)](https://github.com/rust-lang/rustup/actions)
 
 ### Development tools / FFI
@@ -2390,11 +2396,6 @@ A curated list of Rust code and resources.
 
 *   [estk/log4rs (⭐875)](https://github.com/estk/log4rs) — highly configurable logging framework modeled after Java's Logback and log4j libraries [![CircleCI](https://circleci.com/gh/estk/log4rs.svg?style=shield)](https://app.circleci.com/pipelines/github/estk/log4rs)
 *   [seanmonstar/pretty-env-logger (⭐454)](https://github.com/seanmonstar/pretty-env-logger) — A pretty, easy-to-use logger for Rust.
-
-### Libraries / Mobile
-
-*   Android / iOS
-    *   [ivanschuetz/rust\_android\_ios (⭐224)](https://github.com/ivanschuetz/rust_android_ios) — An example of using a shared Rust lib for Android and iOS using rust-swig and cbindgen respectively.
 
 ### Libraries / Network programming
 

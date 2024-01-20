@@ -85,6 +85,10 @@
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
+### Domain Specific Language / Domain Specified Applications
+
+*   [Learning the language of viral evolution and escape](https://www.science.org/doi/full/10.1126/science.abd7331) - ***Science***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=13862653184613223515)]. Natural language processing with two components: grammar (or syntax) and meaning (or semantics) for predicting which viral mutations may lead to viral escape.
+
 ### Science Logology / Democratization of Science
 
 *   [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8097577445064259203\&hl=en\&as_sdt=0,5)]. An artificial intelligence system driven by GPT-4 that autonomously designs, plans and performs complex experiments by incorporating large language models empowered by tools such as internet and documentation search, code execution and experimental automation.
@@ -336,6 +340,10 @@
 
 ## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
+### Applications / Cryptocurrencies
+
+*   [beerus (⭐204)](https://github.com/eigerco/beerus) - Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ and powered by Rust 🦀 [![GitHub Workflow Status](https://github.com/eigerco/beerus/actions/workflows/test.yml/badge.svg)](https://github.com/eigerco/beerus/actions/workflows/test.yml)
+
 ### Applications / Graphics
 
 *   [wahn/rs\_pbrt (⭐788)](https://github.com/wahn/rs_pbrt) — Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code.
@@ -343,6 +351,11 @@
 ### Applications / Security tools
 
 *   [arp-scan-rs (⭐60)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
+
+### Libraries / Mobile
+
+*   Android / iOS
+    *   [owlmafia/rust\_android\_ios (⭐226)](https://github.com/owlmafia/rust_android_ios) — An example of using a shared Rust lib for Android and iOS using rust-swig and cbindgen respectively.
 
 ## [27. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
