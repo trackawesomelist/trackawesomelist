@@ -8,6 +8,10 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
+### Interpreters/Compilers
+
+*   [Aixt (⭐18)](https://github.com/fermarsan/aixt) - Programming framework for microcontrollers based on a V-based language.
+
 ### Utilities
 
 *   [v-nodejs-addon (⭐0)](https://github.com/fanlia/v-nodejs-addon) - An demo of how to create a Node.js addon with V.

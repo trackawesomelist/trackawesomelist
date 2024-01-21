@@ -6,6 +6,12 @@ A curated list of awesome Prometheus resources, projects and tools.
 
 [ Daily / [Weekly](/content/roaldnefs/awesome-prometheus/week/README.md) / [Overview](/content/roaldnefs/awesome-prometheus/readme/README.md) ]
 
+## [Jan 21, 2024](/content/2024/01/21/README.md)
+
+### Blog posts and opinions
+
+*   [Simple Prometheus queries for metrics inspection](https://mkaz.me/blog/2023/simple-prometheus-queries-for-metrics-inspection/) - Overview of PromQL queries that help to identify high cardinality metrics by Michal Kazmierczak.
+
 ## [Dec 26, 2023](/content/2023/12/26/README.md)
 
 ### Tutorials
@@ -20,7 +26,7 @@ A curated list of awesome Prometheus resources, projects and tools.
 
 ### Exporters / Databases
 
-*   [Consul exporter (⭐416)](https://github.com/prometheus/consul_exporter) - The exporter for Consul metrics.
+*   [Consul exporter (⭐418)](https://github.com/prometheus/consul_exporter) - The exporter for Consul metrics.
 
 ## [Feb 28, 2023](/content/2023/02/28/README.md)
 
@@ -60,25 +66,25 @@ A curated list of awesome Prometheus resources, projects and tools.
 ### Exporters / Databases
 
 *   [Memcached exporter (⭐173)](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats.
-*   [MySQL server exporter (⭐1.9k)](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats.
+*   [MySQL server exporter (⭐2k)](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats.
 
 ### Exporters / Hardware related
 
-*   [Node/system metrics exporter (⭐9.7k)](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats.
+*   [Node/system metrics exporter (⭐9.8k)](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats.
 
 ### Exporters / HTTP
 
-*   [HAProxy exporter (⭐605)](https://github.com/prometheus/haproxy_exporter) - The HAProxy exporter periodically scrapes HAProxy stats.
+*   [HAProxy exporter (⭐607)](https://github.com/prometheus/haproxy_exporter) - The HAProxy exporter periodically scrapes HAProxy stats.
 
 ### Exporters / Other monitoring systems
 
-*   [AWS CloudWatch exporter (⭐832)](https://github.com/prometheus/cloudwatch_exporter) - The exporter for Amazon AWS CloudWatch metrics.
-*   [Collectd exporter (⭐244)](https://github.com/prometheus/collectd_exporter) - The exporter for Collectd metrics.
-*   [Graphite exporter (⭐326)](https://github.com/prometheus/graphite_exporter) - The exporter for Graphite metrics.
-*   [InfluxDB (⭐245)](https://github.com/prometheus/influxdb_exporter) - The exporter for InfluxDB metrics.
+*   [AWS CloudWatch exporter (⭐840)](https://github.com/prometheus/cloudwatch_exporter) - The exporter for Amazon AWS CloudWatch metrics.
+*   [Collectd exporter (⭐246)](https://github.com/prometheus/collectd_exporter) - The exporter for Collectd metrics.
+*   [Graphite exporter (⭐327)](https://github.com/prometheus/graphite_exporter) - The exporter for Graphite metrics.
+*   [InfluxDB (⭐246)](https://github.com/prometheus/influxdb_exporter) - The exporter for InfluxDB metrics.
 *   [JMX exporter (⭐2.8k)](https://github.com/prometheus/jmx_exporter) - The exporter for JMX metrics.
 *   [SNMP exporter (⭐1.4k)](https://github.com/prometheus/snmp_exporter) - The exporter for SNMP metrics.
-*   [StatsD exporter (⭐872)](https://github.com/prometheus/statsd_exporter) - The exporter for StatsD metrics.
+*   [StatsD exporter (⭐875)](https://github.com/prometheus/statsd_exporter) - The exporter for StatsD metrics.
 
 ### Exporters / Miscellaneous
 
@@ -142,7 +148,7 @@ A curated list of awesome Prometheus resources, projects and tools.
 
 ### Official resources
 
-*   [Official Prometheus demo](https://demo.do.prometheus.io) - Official Prometheus demo site managed by Cloud Alchemy Ansible roles updating daily using configuration from [Prometheus repository (⭐90)](https://github.com/prometheus/demo-site).
+*   [Official Prometheus demo](https://demo.do.prometheus.io) - Official Prometheus demo site managed by Cloud Alchemy Ansible roles updating daily using configuration from [Prometheus repository (⭐89)](https://github.com/prometheus/demo-site).
 
 ### Deployment tools
 
@@ -158,7 +164,7 @@ A curated list of awesome Prometheus resources, projects and tools.
 
 *   [Ansitheus (⭐21)](https://github.com/ntk148v/ansitheus) - Ansible playbook to containerize, configure and deploy Prometheus ecosystem *by ntk148v*.
 *   [Ansible-prometheus (⭐91)](https://github.com/ernestas-poskus/ansible-prometheus) - Ansible playbook for installing Prometheus monitoring system, exporters such as: node, snmp, blackbox, thus alert manager and push gateway *by Ernestas Poskus*.
-*   [Click-to-deploy Prometheus (⭐695)](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) - Source for Google Click to Deploy Prometheus solutions listed on Google Cloud Marketplace *by GoogleCloudPlatform*.
+*   [Click-to-deploy Prometheus (⭐697)](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) - Source for Google Click to Deploy Prometheus solutions listed on Google Cloud Marketplace *by GoogleCloudPlatform*.
 *   [Prometheus Operator (⭐8.5k)](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes *by CoreOS*.
 
 ## [Dec 10, 2019](/content/2019/12/10/README.md)
@@ -225,7 +231,7 @@ A curated list of awesome Prometheus resources, projects and tools.
 *   [How To Install Prometheus using Docker on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-centos-7) - Walkthrough on how to install Prometheus on CentOS 7.
 *   [How to Use Prometheus to Monitor Your CentOS 7 Server](https://www.digitalocean.com/community/tutorials/how-to-use-prometheus-to-monitor-your-centos-7-server) - Walkthrough on how to monitor a CentOS 7 server using Prometheus.
 *   [How To Add a Prometheus Dashboard to Grafana](https://www.digitalocean.com/community/tutorials/how-to-add-a-prometheus-dashboard-to-grafana) - Walkthrough on how to add a Prometheus dashboard to Grafana.
-*   [Instructions and example code for a Prometheus workshop (⭐105)](https://github.com/juliusv/prometheus_workshop) - Instructions and example code for a Prometheus workshop by Julius Volz.
+*   [Instructions and example code for a Prometheus workshop (⭐106)](https://github.com/juliusv/prometheus_workshop) - Instructions and example code for a Prometheus workshop by Julius Volz.
 *   [Checking if SSH is responding with Prometheus](https://www.robustperception.io/checking-if-ssh-is-responding-with-prometheus/) - Walkthrough on how to use the Blackbox Exporter to check if SSH is responding by Brian Brazil.
 *   [Monitor your GitHub Repos with Docker and Prometheus](https://www.brianchristner.io/monitor-your-github-repos-with-docker/) - Monitor your GitHub Repos with Docker and Prometheus.
 *   [Docker daemon metrics in Prometheus](https://medium.com/lucjuggery/docker-daemon-metrics-in-prometheus-7c359c7ff550) - Docker daemon metrics in Prometheus by Luc Juggery.

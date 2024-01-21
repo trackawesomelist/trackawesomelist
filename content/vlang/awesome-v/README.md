@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Jan 21, 2024](/content/2024/01/21/README.md)
+
+### Interpreters/Compilers
+
+*   [Aixt (⭐18)](https://github.com/fermarsan/aixt) - Programming framework for microcontrollers based on a V-based language.
+
 ## [Jan 15, 2024](/content/2024/01/15/README.md)
 
 ### Utilities
