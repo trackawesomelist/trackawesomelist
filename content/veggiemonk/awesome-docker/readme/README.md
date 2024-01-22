@@ -365,7 +365,8 @@ All the links are monitored and tested with a home baked [Node.js script (⭐27k
 
 *   JetBrains IDEs (IntelliJ IDEA, GoLand, WebStorm, CLion etc.) has [built-in Docker plugin](https://www.jetbrains.com/help/idea/docker.html#managing-images)
 *   Eclipse [Docker Tooling plugin](https://www.eclipse.org/community/eclipse_newsletter/2016/july/article2.php)
-*   [docker.vim (⭐175)](https://github.com/skanehira/docker.vim) - Manage docker containers and images in Vim. By [@skanehira]
+*   [denops-docker.vim (⭐76)](https://github.com/skanehira/denops-docker.vim) - Manage docker containers and images in Vim. By [@skanehira]
+*   [docker.vim (⭐175)](https://github.com/skanehira/docker.vim) :skull: - Manage docker containers and images in Vim. By [@skanehira]
 *   [docker.el (⭐700)](https://github.com/Silex/docker.el) Manage docker from Emacs by [@Silex](https://github.com/Silex)
 
 #### Desktop
@@ -441,6 +442,7 @@ Native desktop applications for managing and montoring docker hosts and clusters
 *   [dockering-on-rails (⭐21)](https://github.com/Electrofenster/dockerding-on-rails) :skull: - Simple Web-Interface for Docker with a lot of features by [@Electrofenster](https://github.com/Electrofenster/)
 *   [DockerSurfer (⭐5)](https://github.com/Simone-Erba/DockerSurfer) :skull: - A web service for analyze and browse dependencies between Docker images in the Docker registry, by [@Simone-Erba](https://github.com/Simone-Erba/)
 *   [Kubevious (⭐1.5k)](https://github.com/kubevious/kubevious) - A highly visual web UI for Kubernetes which renders configuration and state in an application centric way by [@rubenhak](https://github.com/rubenhak).
+*   [Mafl (⭐8)](https://github.com/hywax/mafl) - Minimalistic flexible homepage by [@hywax](https://github.com/hywax/)
 *   [netdata (⭐67k)](https://github.com/netdata/netdata) - Real-time performance monitoring
 *   [OctoLinker (⭐5.2k)](https://github.com/OctoLinker/OctoLinker) - A browser extension for GitHub that makes the image name in a `Dockerfile` clickable and redirect you to the related Docker Hub page.
 *   [Portainer (⭐28k)](https://github.com/portainer/portainer) - A lightweight management UI for managing your Docker hosts or Docker Swarm clusters by [@portainer](https://github.com/portainer)

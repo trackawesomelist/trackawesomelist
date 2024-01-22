@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / Weekly / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jan 22 - Jan 28, 2024](/content/2024/4/README.md)
+
+### Domain Specific Language / Design Theory
+
+*   [Domain-Specific Language](https://en.wikipedia.org/wiki/Domain-specific_language) - ***Wikipedia***. Wikipedia encyclopedia entry on Domain Specific Languages.
+
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
 ### Domain Specific Language / Domain Specified Applications
@@ -246,7 +252,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Commonsense / AI Commonsense Reasoning
 
-*   [SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks](https://arxiv.org/abs/2305.17390) - 2023.
+*   [SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks](https://arxiv.org/abs/2305.17390) - ***NeurIPS'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=3844178012869500706\&hl=en\&as_sdt=0,5)]. \[[Project](https://swiftsage.github.io/)].
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 

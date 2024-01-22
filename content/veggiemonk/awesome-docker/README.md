@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/veggiemonk/awesome-docker/week/README.md) / [Overview](/content/veggiemonk/awesome-docker/readme/README.md) ]
 
+## [Jan 22, 2024](/content/2024/01/22/README.md)
+
+### IDE integrations
+
+*   [denops-docker.vim (⭐76)](https://github.com/skanehira/denops-docker.vim) - Manage docker containers and images in Vim. By [@skanehira](https://github.com/skanehira)
+
+### Web / Other
+
+*   [Mafl (⭐8)](https://github.com/hywax/mafl) - Minimalistic flexible homepage by [@hywax](https://github.com/hywax/)
+
 ## [Jan 21, 2024](/content/2024/01/21/README.md)
 
 ### Registry / Other
@@ -456,7 +466,7 @@
 
 *   JetBrains IDEs (IntelliJ IDEA, GoLand, WebStorm, CLion etc.) has [built-in Docker plugin](https://www.jetbrains.com/help/idea/docker.html#managing-images)
 *   Eclipse [Docker Tooling plugin](https://www.eclipse.org/community/eclipse_newsletter/2016/july/article2.php)
-*   [docker.vim (⭐175)](https://github.com/skanehira/docker.vim) - Manage docker containers and images in Vim. By [@skanehira](https://github.com/skanehira)
+*   [docker.vim (⭐175)](https://github.com/skanehira/docker.vim) :skull: - Manage docker containers and images in Vim. By [@skanehira](https://github.com/skanehira)
 *   [docker.el (⭐700)](https://github.com/Silex/docker.el) Manage docker from Emacs by [@Silex](https://github.com/Silex)
 
 ### Desktop

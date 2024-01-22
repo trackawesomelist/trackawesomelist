@@ -6,6 +6,18 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ [Daily](/content/CodyReichert/awesome-cl/README.md) / Weekly / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Jan 22 - Jan 28, 2024](/content/2024/4/README.md)
+
+### C, C++
+
+*   [bitcoin-rpc](https://codeberg.org/kilianmh/bitcoin-rpc/) - a (hopefully) complete Bitcoin RPC client. [AGPL-3.0](https://directory.fsf.org/wiki/License:Apache2.0)
+*   [stacks-api (⭐1)](https://github.com/kilianmh/stacks-api) - a Stacks API client. [AGPL-3.0](https://directory.fsf.org/wiki/License:Apache2.0)
+
+### Web frameworks / Isomorphic web frameworks
+
+*   [Weblocks (Reblocks) (⭐40)](https://github.com/40ants/reblocks) - A widgets-based framework with a built-in ajax update mechanism that "solves the JavaScript problem". [LLGPL](http://opensource.franz.com/preamble.html).
+    *   example code bases: [Ultralisp (⭐215)](https://github.com/ultralisp/ultralisp/), [krasnodar (⭐2)](https://github.com/lct23/krasnodar), a dashboard made for a hackaton (2024) ([demo video](https://diode.zone/videos/watch/9e379a86-c530-4e9d-b8be-7437b1f7200b)).
+
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 
 ### REPLs / Third-party APIs
@@ -817,10 +829,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   [Allegro's Common Graphics](https://franz.com/products/allegro-common-lisp/acl_gui_tools.lhtml)- a library of functions for writing windowized GUIs for Windows, Mac and Linux. Proprietary with a free version.
     *   since Allegro 10.1 (March, 2022), the IDE and the Common Graphics toolkit [runs in the browser](https://franz.com/ftp/pri/acl/cgjs/doc.html).
 
-### Web frameworks / Isomorphic web frameworks
-
-*   [Weblocks (⭐40)](https://github.com/40ants/reblocks) - A widgets-based framework with a built-in ajax update mechanism that "solves the JavaScript problem". [LLGPL](http://opensource.franz.com/preamble.html).
-
 ## [Feb 28 - Mar 06, 2022](/content/2022/9/README.md)
 
 ### Web frameworks / Clack plugins
@@ -874,8 +882,8 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Beginner
 
-*   📹 [Common Lisp Programming: from novice to effective developer](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358) - A learning video series on the Udemy platform (*full content under paid access*). Teaches the language basics, explains the ecosystem and shows real-world examples. By an active lisper and community contributor (@vindarel).
-    > Thanks for supporting my work on Udemy. Also note that I release free coupons from time to time, and that Udemy often proposes drastic promotions, but you can ask me a free coupon too.
+*   📹 [Common Lisp Programming: from novice to effective developer](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358) - A learning video series on the Udemy platform (*full content under paid access*). By an active lisper and community contributor (@vindarel). [Github home (⭐28)](https://github.com/vindarel/common-lisp-course-in-videos/).
+    > Thanks for supporting my work on Udemy. I can send a free link to students, just contact me.
 
 ### Others / Third-party APIs
 
@@ -1552,7 +1560,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Beginner
 
-*   [Lisp Koans (⭐3k)](https://github.com/google/lisp-koans) - The project guides the learner progressively through many Common Lisp language features.
+*   [Lisp Koans (⭐3.1k)](https://github.com/google/lisp-koans) - The project guides the learner progressively through many Common Lisp language features.
 
 ### Macro helpers / Third-party APIs
 
@@ -1885,6 +1893,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Reference
 
 *   [Common Lisp Standard Draft (pdf)](https://franz.com/support/documentation/cl-ansi-standard-draft-w-sidebar.pdf) - The standard draft of the Common Lisp specifications, in a well formatted PDF with a sidebar.
+    *   also [dpans2texi (⭐4)](https://github.com/mmontone/dpans2texi/releases/) - the standard draft converted to Texinfo and published as a well formatted PDF.
 
 ### Others / Third-party APIs
 
@@ -2101,12 +2110,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [Slimv\_box (⭐14)](https://github.com/justin2004/slimv_box) - slimv in a Docker container.
 
-## [Dec 03 - Dec 09, 2018](/content/2018/49/README.md)
-
-### Mobile
-
-*   [MOCL](https://wukix.com/mocl) - CL as a library for mobile devices (iOS & Android) and OSX.
-
 ## [Nov 26 - Dec 02, 2018](/content/2018/48/README.md)
 
 ### Tools
@@ -2154,6 +2157,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Mobile
 
 *   [ECL](https://common-lisp.net/project/ecl/) - Embeddable Common Lisp; compiles to C. [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
+    *   [eclweb (⭐11)](https://github.com/chee/eclweb) is [a proof-of-concept REPL inside a browser](https://repl.chee.party/) using Web Assembly (WASM).
 *   [CLASP (⭐2.5k)](https://github.com/drmeister/clasp) - a new Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. This allows Clasp to take advantage of a vast array of preexisting libraries and programs, such as out of the scientific computing ecosystem. [LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) (and others).
 *   [Allegro CL](https://franz.com/products/allegro-common-lisp/) - provides the full ANSI Common Lisp standard with many extensions.
     *   reputed features include: the AllegroCache object persistence database system, the KnowledgeGraph system, its concurrent garbage collector, its web-based IDE, and more.
@@ -2322,10 +2326,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   [cl-flow (⭐49)](https://github.com/borodust/cl-flow/) -  Data-flowish computation tree library for non-blocking concurrent Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [Mar 12 - Mar 18, 2018](/content/2018/11/README.md)
-
-### C, C++
-
-*   [emotiq (⭐96)](https://github.com/emotiq/emotiq) - a next-generation blockchain with an innovative natural-language approach to smart contracts. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / Web project skeletons and generators
 
