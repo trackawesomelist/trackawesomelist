@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Jan 22, 2024](/content/2024/01/22/README.md)
+
+### Templates / React
+
+*   [react-component-library-vite (⭐0)](https://github.com/gsharath/react-component-library-vite) - A library template for with `React`, `Javascript`,`Styled-Components`, `Vitest`, `React Testing Library`, `Storybook`.
+
 ## [Jan 18, 2024](/content/2024/01/18/README.md)
 
 ### Official Resources
