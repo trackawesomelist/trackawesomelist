@@ -1,12 +1,12 @@
-# Awesome List Updates on Jan 22 - Jan 28, 2024
+# Awesome List Updates on Jan 23, 2024
 
-13 awesome lists updated this week.
+6 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [1. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / APIs
 
@@ -16,13 +16,13 @@
 
 *   [Piku (⭐2.4k)](https://github.com/piku/piku)
 
-## [2. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [2. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
 *   [PiKISS (⭐840)](https://github.com/jmcerrejon/PiKISS) - A bunch of scripts with menu to make your life easier.
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -111,7 +111,7 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [4. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [4. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
 ### Learning / Books
 
@@ -137,7 +137,7 @@
 *   [dschere/industrial-ffmpeg](https://github.com/dschere/industrial-ffmpeg)  - A high level transcoder using ffmpeg that in addition to transcoding provides real time stats, detection of bad video, integration with nginx for on demand video - dschere/industrial-ffmpeg
 *   [x264 FFmpeg Options Guide - Linux Encoding](https://sites.google.com/site/linuxencoding/x264-ffmpeg-mapping)  -
 
-## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Generative AI history, maps, and definitions
 
@@ -147,7 +147,7 @@
 
 *   [Recast Studio](https://recast.studio): AI-powered podcast marketing assistant.
 
-## [6. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [6. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
 ### Epic Fantasy / [The Chronicles of Prydain](https://en.wikipedia.org/wiki/The_Chronicles_of_Prydain) 1964 *by [Lloyd Alexander](https://en.wikipedia.org/wiki/Lloyd_Alexander)* [4.42]
 
@@ -163,70 +163,6 @@
 *   [The Kingdom of Copper](https://www.goodreads.com/book/show/39988431-the-kingdom-of-copper)
 *   [The Empire of Gold](https://www.goodreads.com/book/show/52166786-the-empire-of-gold)
 
-## [7. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
-
-### Android Gallery
-
-*   **Google Photos** has privacy issues. They collect a lot of data about you, which you can see in their [privacy policy](https://policies.google.com/privacy?hl=en-US#infocollect). Google can scan your photos and might flag them for different reasons, as shown in this [incident](https://petapixel.com/2022/08/22/google-flags-photos-of-fathers-sick-son-as-child-abuse-informs-police/). They also use your photos to improve their AI technology.
-*   **Amazon Photos** also has similar privacy problems. Like Google Photos, it gathers a lot of information from your photo gallery. You can see a bit of what kind of data they collect in their [**examples** list](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496\&ref_=footer_privacy#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01).
-*   **Samsung, Huawei, Xiaomi, etc.** Gallery
-*   [Aves (⭐1.7k)](https://github.com/deckerst/aves) - Beautiful gallery and metadata explorer app, built for Android with Flutter.
-*   [Fossify Gallery (⭐687)](https://github.com/FossifyOrg/Gallery) - Fork of Simple Gallery. Browse your memories without any interruptions with this photo and video gallery.
-
-## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
-
-### Peripheral Access Crates / StarFive
-
-*   [`j71xx-pac`](https://crates.io/crates/jh71xx-pac) - svd2rust generated interface to StarFive [JH71xx](https://www.starfivetech.com/en/site/soc) MCUs - ![crates.io](https://img.shields.io/crates/v/jh71xx-pac.svg)
-
-### HAL implementation crates / StarFive
-
-*   [`j71xx-hal`](https://crates.io/crates/jh71xx-hal) - HAL crate for StarFive [JH71xx](https://www.starfivetech.com/en/site/soc) MCUs - ![crates.io](https://img.shields.io/crates/v/jh71xx-hal.svg)
-
-## [9. Awesome React](/content/enaqx/awesome-react/week/README.md)
-
-### React Frameworks
-
-*   [remix (⭐26k)](https://github.com/remix-run/remix) - Full stack web Framework that lets you focus on the user interface
-
-### React Libraries
-
-*   [react-error-boundary (⭐6.1k)](https://github.com/bvaughn/react-error-boundary) - A React error boundary component that lets you catch errors
-
-## [10. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
-
-### Templates / React
-
-*   [react-component-library-vite (⭐0)](https://github.com/gsharath/react-component-library-vite) - A library template for with `React`, `Javascript`,`Styled-Components`, `Vitest`, `React Testing Library`, `Storybook`.
-
-## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
-
-### Domain Specific Language / Design Theory
-
-*   [Domain-Specific Language](https://en.wikipedia.org/wiki/Domain-specific_language) - ***Wikipedia***. Wikipedia encyclopedia entry on Domain Specific Languages.
-
-## [12. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
-
-### C, C++
-
-*   [bitcoin-rpc](https://codeberg.org/kilianmh/bitcoin-rpc/) - a (hopefully) complete Bitcoin RPC client. [AGPL-3.0](https://directory.fsf.org/wiki/License:Apache2.0)
-*   [stacks-api (⭐1)](https://github.com/kilianmh/stacks-api) - a Stacks API client. [AGPL-3.0](https://directory.fsf.org/wiki/License:Apache2.0)
-
-### Web frameworks / Isomorphic web frameworks
-
-*   [Weblocks (Reblocks) (⭐40)](https://github.com/40ants/reblocks) - A widgets-based framework with a built-in ajax update mechanism that "solves the JavaScript problem". [LLGPL](http://opensource.franz.com/preamble.html).
-    *   example code bases: [Ultralisp (⭐215)](https://github.com/ultralisp/ultralisp/), [krasnodar (⭐2)](https://github.com/lct23/krasnodar), a dashboard made for a hackaton (2024) ([demo video](https://diode.zone/videos/watch/9e379a86-c530-4e9d-b8be-7437b1f7200b)).
-
-## [13. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
-
-### IDE integrations
-
-*   [denops-docker.vim (⭐76)](https://github.com/skanehira/denops-docker.vim) - Manage docker containers and images in Vim. By [@skanehira](https://github.com/skanehira)
-
-### Web / Other
-
-*   [Mafl (⭐8)](https://github.com/hywax/mafl) - Minimalistic flexible homepage by [@hywax](https://github.com/hywax/)
-
 ---
 
-- Next: [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
+- Next: [Jan 22, 2024](/content/2024/01/22/README.md)

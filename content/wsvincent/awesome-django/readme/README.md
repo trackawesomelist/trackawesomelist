@@ -133,6 +133,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [django-ninja](https://django-ninja.rest-framework.com/) - Django Ninja - Fast Django REST framework based on type annotations.
 *   [django-tastypie (⭐3.9k)](https://github.com/django-tastypie/django-tastypie) - Creating delicious APIs for Django apps since 2010.
 *   [drf-spectacular (⭐2k)](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
+*   [django-webhook (⭐47)](https://github.com/danihodovic/django-webhook) - A plug-and-play Django app for sending outgoing webhooks on model changes.
 
 <!--lint enable double-link-->
 
@@ -434,7 +435,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [DjangoCon Europe](https://djangocon.eu/) ([YouTube Channel](https://www.youtube.com/user/djangoconeurope))
 *   [DjangoCon AU](https://djangocon.com.au/)
 *   [DjangoCon Africa](https://djangocon.africa/)
-*   [Django Day Copenhagen (⭐8k)](https://github.com/wsvincent/awesome-django#conferences)
+*   [Django Day Copenhagen (⭐8.1k)](https://github.com/wsvincent/awesome-django#conferences)
 *   [PyCon US](https://us.pycon.org/2020/) ([YouTube Channel](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ))
 *   [PyCon Australia](https://2019.pycon-au.org/) ([YouTube Channel](https://www.youtube.com/user/PyConAU))
 *   [Euro Python](https://ep2019.europython.eu/) ([YouTube Channel](https://www.youtube.com/user/PythonItalia))
@@ -493,6 +494,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [Google Cloud](https://cloud.google.com/python/django/)
 *   [Heroku](https://www.heroku.com)
 *   [Microsoft Azure](https://azure.microsoft.com/en-us/develop/python/)
+*   [Piku (⭐2.4k)](https://github.com/piku/piku)
 *   [Platform.sh](https://platform.sh)
 *   [PythonAnywhere](https://www.pythonanywhere.com)
 *   [Railway](https://railway.app)

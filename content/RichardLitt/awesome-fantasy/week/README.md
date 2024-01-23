@@ -2,9 +2,25 @@
 
 :european_castle: Fantasy literature worth reading
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/RichardLitt/awesome-fantasy/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RichardLitt/awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) · ⭐ 1.1K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/RichardLitt/awesome-fantasy/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RichardLitt/awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) · ⭐ 1.2K · 🏷️ Entertainment
 
 [ [Daily](/content/RichardLitt/awesome-fantasy/README.md) / Weekly / [Overview](/content/RichardLitt/awesome-fantasy/readme/README.md) ]
+
+## [Jan 22 - Jan 28, 2024](/content/2024/4/README.md)
+
+### Epic Fantasy / [The Chronicles of Prydain](https://en.wikipedia.org/wiki/The_Chronicles_of_Prydain) 1964 *by [Lloyd Alexander](https://en.wikipedia.org/wiki/Lloyd_Alexander)* [4.42]
+
+*   [The Book of Three](https://www.goodreads.com/book/show/24780.The_Book_of_Three)
+*   [The Black Cauldron](https://www.goodreads.com/book/show/24784.The_Black_Cauldron)
+*   [The Castle of Llyr](https://www.goodreads.com/book/show/24779.The_Castle_of_Llyr)
+*   [Taran Wanderer](https://www.goodreads.com/book/show/24782.Taran_Wanderer)
+*   [The High King](https://www.goodreads.com/book/show/24781.The_High_King)
+
+### Epic Fantasy / [The Daevabad Trilogy](https://www.goodreads.com/series/211584-the-daevabad-trilogy) 2017 *by[S. A. Chakraborty](https://en.wikipedia.org/wiki/S._A._Chakraborty)*[4.3]
+
+*   [The City of Brass](https://www.goodreads.com/book/show/32718027-the-city-of-brass)
+*   [The Kingdom of Copper](https://www.goodreads.com/book/show/39988431-the-kingdom-of-copper)
+*   [The Empire of Gold](https://www.goodreads.com/book/show/52166786-the-empire-of-gold)
 
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 
@@ -308,7 +324,7 @@
 *   [A Memory of Light](http://www.goodreads.com/book/show/7743175-a-memory-of-light)
 *   [New Spring (prequel)](http://www.goodreads.com/book/show/187065.New_Spring)
 
-### Epic Fantasy / [Thorn of Glass Series](https://www.goodreads.com/book/show/7896527-throne-of-glass) (2012) *by [Saraah J. Maas](https://en.wikipedia.org/wiki/Sarah_J._Maas)* [4.21] 🔥
+### Epic Fantasy / [Thorn of Glass Series](https://www.goodreads.com/book/show/7896527-throne-of-glass) (2012) *by [Sarah J. Maas](https://en.wikipedia.org/wiki/Sarah_J._Maas)* [4.21] 🔥
 
 *   [The Assassin's Blade](https://www.goodreads.com/book/show/18243700-the-assassin-s-blade) \[4.4] 🔥
 *   [Throne of Glass](https://www.goodreads.com/book/show/7896527-throne-of-glass) \[4.21] 🔥

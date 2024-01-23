@@ -6,6 +6,16 @@ A curated list of awesome things related to Django
 
 [ Daily / [Weekly](/content/wsvincent/awesome-django/week/README.md) / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
+## [Jan 23, 2024](/content/2024/01/23/README.md)
+
+### Third-Party Packages / APIs
+
+*   [django-webhook (⭐47)](https://github.com/danihodovic/django-webhook) - A plug-and-play Django app for sending outgoing webhooks on model changes.
+
+### Hosting / PaaS (Platforms-as-a-Service)
+
+*   [Piku (⭐2.4k)](https://github.com/piku/piku)
+
 ## [Jan 18, 2024](/content/2024/01/18/README.md)
 
 ### Third-Party Packages / Users
@@ -551,7 +561,7 @@ A curated list of awesome things related to Django
 
 ### Resources / Conferences
 
-*   [Django Day Copenhagen (⭐8k)](https://github.com/wsvincent/awesome-django#conferences)
+*   [Django Day Copenhagen (⭐8.1k)](https://github.com/wsvincent/awesome-django#conferences)
 
 ## [Sep 19, 2020](/content/2020/09/19/README.md)
 

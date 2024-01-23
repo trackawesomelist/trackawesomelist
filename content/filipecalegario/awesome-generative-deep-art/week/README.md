@@ -6,6 +6,16 @@ A curated list of Generative AI tools, works, models, and references
 
 [ [Daily](/content/filipecalegario/awesome-generative-deep-art/README.md) / Weekly / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jan 22 - Jan 28, 2024](/content/2024/4/README.md)
+
+### Generative AI history, maps, and definitions
+
+*   \[🔥🔥🔥] [Generative AI in a nutshell](https://blog.crisp.se/wp-content/uploads/2024/01/generative-AI-in-a-nutshell.png): a map with the most common Generative AI' concepts by Henrik Kniberg [Youtube Video explaining the map](https://www.youtube.com/watch?v=2IK3DFHRFfw)
+
+### Online Tools and Applications
+
+*   [Recast Studio](https://recast.studio): AI-powered podcast marketing assistant.
+
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
 ### Generative AI history, maps, and definitions
