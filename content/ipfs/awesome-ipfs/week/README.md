@@ -6,6 +6,12 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 
 [ [Daily](/content/ipfs/awesome-ipfs/README.md) / Weekly / [Overview](/content/ipfs/awesome-ipfs/readme/README.md) ]
 
+## [Jan 22 - Jan 28, 2024](/content/2024/4/README.md)
+
+### Pinning services
+
+*   [Gateway3](https://gw3.app/) - A decentralized IPFS pinning service designed for developers. Supports content pinning, IPNS hosting, DAG operations, pinning tweets, and web hosting.
+
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
 ### Services & Platforms

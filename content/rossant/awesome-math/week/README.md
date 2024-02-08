@@ -2,9 +2,15 @@
 
 A curated list of awesome mathematics resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 7.4K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 8K · 🏷️ Theory
 
 [ [Daily](/content/rossant/awesome-math/README.md) / Weekly / [Overview](/content/rossant/awesome-math/readme/README.md) ]
+
+## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
+
+### Numerical Analysis / Stochastic processes
+
+*   [Lectures In Basic Computational Numerical Analysis](https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1000\&context=math_textbooks) - J. M. McDonough (University of Kentucky)
 
 ## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
 
@@ -90,7 +96,7 @@ A curated list of awesome mathematics resources
 
 ### Mathematical Physics / Stochastic processes
 
-*   [Theoretical Computer Science (⭐452)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+*   [Theoretical Computer Science (⭐562)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 ## [Feb 14 - Feb 20, 2022](/content/2022/7/README.md)
 
@@ -137,7 +143,7 @@ A curated list of awesome mathematics resources
 
 ### Books
 
-*   [Free Mathematics Books (⭐295k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐311k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## [Aug 16 - Aug 22, 2021](/content/2021/33/README.md)
 
@@ -705,13 +711,13 @@ A curated list of awesome mathematics resources
 
 ### Algebra / Linear Algebra
 
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐488)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐507)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ## [Sep 05 - Sep 11, 2016](/content/2016/36/README.md)
 
 ### Learn to Learn
 
-*   [Understanding Mathematics (⭐915)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐992)](https://github.com/nelson-brochado/understanding-math)
 
 ## [Aug 08 - Aug 14, 2016](/content/2016/32/README.md)
 
@@ -975,5 +981,4 @@ A curated list of awesome mathematics resources
 
 *   [A Concise Introduction to Numerical Analysis](http://www.ima.umn.edu/~arnold/597.00-01/nabook.pdf) - Douglas N. Arnold (University of Minnesota)
 *   [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) - L. Ridgway Scott
-*   [Lectures In Basic Computational Numerical Analysis](http://www.engr.uky.edu/~acfd/egr537-lctrs.pdf) - J. M. McDonough (University of Kentucky)
 *   [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan

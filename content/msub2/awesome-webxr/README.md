@@ -2,9 +2,15 @@
 
 All things WebXR.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/msub2/awesome-webxr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 msub2/awesome-webxr](https://github.com/msub2/awesome-webxr) · ⭐ 169 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/msub2/awesome-webxr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 msub2/awesome-webxr](https://github.com/msub2/awesome-webxr) · ⭐ 179 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/msub2/awesome-webxr/week/README.md) / [Overview](/content/msub2/awesome-webxr/readme/README.md) ]
+
+## [Feb 04, 2024](/content/2024/02/04/README.md)
+
+### Development / Other
+
+*   [XR Fragments](https://xrfragment.org) - A tiny specification for controlling any 3D model using URLs, based on existing metadata. Promoting hyperlinked WebXR storytelling using all 3D editors and viewers.
 
 ## [Dec 26, 2023](/content/2023/12/26/README.md)
 
@@ -14,7 +20,7 @@ All things WebXR.
 
 ### Development / Frameworks and Libraries
 
-*   [JSAR-DOM (⭐14)](https://github.com/M-CreativeLab/jsar-dom) A TypeScript re-implementation of WHATWG DOM, CSSOM and WebXR for XR applications built on top of Babylon.js.
+*   [JSAR-DOM (⭐27)](https://github.com/M-CreativeLab/jsar-dom) A TypeScript re-implementation of WHATWG DOM, CSSOM and WebXR for XR applications built on top of Babylon.js.
 
 ## [Nov 19, 2023](/content/2023/11/19/README.md)
 
@@ -118,7 +124,7 @@ All things WebXR.
 
 ### Development / Engines
 
-*   [Ethereal Engine (⭐661)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
+*   [Ethereal Engine (⭐671)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 ## [May 15, 2022](/content/2022/05/15/README.md)
 
@@ -315,8 +321,8 @@ All things WebXR.
 *   [PlayCanvas](https://playcanvas.com/) - A browser-based WebGL engine with support for WebXR content, mobile browsers, collaborative editing, and more.
     *   [Official Documentation](https://developer.playcanvas.com/en/)
 *   [Unity](https://unity.com/) - A highly popular game engine with community packages that enable content to be exported for WebXR.
-    *   [WebXR Export (⭐877)](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
-    *   [SimpleWebXR (⭐535)](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
+    *   [WebXR Export (⭐903)](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
+    *   [SimpleWebXR (⭐538)](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
 *   [Wonderland Engine](https://wonderlandengine.com/) - A development platform designed specifically for building WebXR applications.
     *   [Official Documentation](https://wonderlandengine.com/documentation/)
 
@@ -326,7 +332,7 @@ All things WebXR.
     *   [Official Documentation](https://aframe.io/docs/)
 *   [Babylon.js](https://www.babylonjs.com/) - A powerful and feature-rich rendering engine packaged into a JavaScript framework.
     *   [Official Documentation](https://doc.babylonjs.com/)
-*   [JanusWeb (⭐168)](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
+*   [JanusWeb (⭐171)](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
 *   [p5.xr](https://p5xr.org/) - An add-on for the library p5.js that allows you to create immersive p5 sketches.
 *   [react-three-fiber (⭐25k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR (⭐1.8k)](https://github.com/pmndrs/react-xr) as well.
 *   [three.js](https://threejs.org/) - A JavaScript library for rendering 3D content with WebGL that powers many existing WebXR experiences and tools.

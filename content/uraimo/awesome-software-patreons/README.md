@@ -2,9 +2,21 @@
 
 A curated list of awesome programmers and software projects you can support!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/uraimo/awesome-software-patreons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uraimo/awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) · ⭐ 458 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/uraimo/awesome-software-patreons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uraimo/awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) · ⭐ 474 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/uraimo/awesome-software-patreons/week/README.md) / [Overview](/content/uraimo/awesome-software-patreons/readme/README.md) ]
+
+## [Jan 27, 2024](/content/2024/01/27/README.md)
+
+### Open Source Projects
+
+*   [Bottles](https://usebottles.com/funding/) - Easily manage and run Windows apps on Linux.
+*   [OptiKey](https://www.patreon.com/OptiKey), [#2](https://github.com/sponsors/JuliusSweetland) - Full computer control and speech with your eyes.
+*   [Sonic Pi](https://www.patreon.com/samaaron) - Code-based music creation and performance tool.
+
+### Open Source Projects / Operating Systems
+
+*   [PostmarketOS](https://opencollective.com/postmarketos) - A real Linux distribution for phones.
 
 ## [Jun 16, 2023](/content/2023/06/16/README.md)
 
@@ -23,7 +35,7 @@ A curated list of awesome programmers and software projects you can support!
 
 ### Other kinds of content / Articles and Tutorials
 
-*   [Boiling Steam](https://www.patreon.com/boiling_steam_linux) - Linux gaming news, reviews, guides.
+*   [Boiling Steam](https://www.patreon.com/boiling_steam_linux), [#2](https://liberapay.com/boilingsteam/) - Linux gaming news, reviews, guides.
 *   [GamingOnLinux](https://www.patreon.com/liamdawe) - articles and videos about Linux, Steam Deck, SteamOS gaming.
 
 ## [Dec 23, 2022](/content/2022/12/23/README.md)
@@ -36,7 +48,7 @@ A curated list of awesome programmers and software projects you can support!
 
 ## [Dec 13, 2022](/content/2022/12/13/README.md)
 
-### Open Source Projects
+### Open Source Projects / Messaging and social media
 
 *   [Retrospring](https://patreon.com/retrospring), [#2](https://opencollective.com/retrospring), [#3](https://github.com/sponsors/Retrospring) - A social network following the Q/A (question and answer) principle.
 
@@ -148,9 +160,12 @@ A curated list of awesome programmers and software projects you can support!
 
 ## [May 01, 2021](/content/2021/05/01/README.md)
 
-### Open Source Projects
+### Open Source Projects / Messaging and social media
 
 *   [BookWyrm](https://www.patreon.com/bookwyrm), [#2](https://opencollective.com/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub.
+
+### Open Source Projects
+
 *   [Zrythm](https://liberapay.com/Zrythm) - A highly automated and intuitive digital audio workstation.
 
 ### People Doing Open Source Work / Hardware related
@@ -173,7 +188,7 @@ A curated list of awesome programmers and software projects you can support!
 ### Open Source Projects / Libraries
 
 *   [ApexCharts](https://www.patreon.com/junedchhipa), [#2](https://opencollective.com/apexchartsjs) - JavaScript charts library.
-*   [Dear ImGui (⭐48k)](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
+*   [Dear ImGui (⭐53k)](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
 *   [Hapi.js](https://opencollective.com/hapijs) - Node.js framework.
 
 ### People Doing Open Source Work / Hardware related
@@ -242,6 +257,9 @@ A curated list of awesome programmers and software projects you can support!
 
 *   [F-Droid](https://opencollective.com/f-droid), [#2](https://liberapay.com/F-Droid-Data/), [#3](https://opencollective.com/f-droid-euro) - An installable catalogue of FOSS applications for the Android platform.
 *   [MyPaint](https://opencollective.com/mypaint) - Painting and drawing program that works nicely with pressure-sensitive tablets, and its dynamic brush engine library.
+
+### Open Source Projects / Messaging and social media
+
 *   [Secure Scuttlebutt](https://opencollective.com/secure-scuttlebutt-consortium) - A distributed and secure peer-to-peer protocol and social network.
 
 ## [Apr 26, 2020](/content/2020/04/26/README.md)
@@ -252,7 +270,7 @@ A curated list of awesome programmers and software projects you can support!
 
 ## [Mar 06, 2020](/content/2020/03/06/README.md)
 
-### Open Source Projects
+### Open Source Projects / Messaging and social media
 
 *   [Funkwhale](https://opencollective.com/funkwhale) - A free, federated and social music server.
 
@@ -301,9 +319,12 @@ A curated list of awesome programmers and software projects you can support!
 *   [Lollipop Cloud](https://opencollective.com/lollipop-cloud-team) - Cheap, easy, self-hosted clouds for everyone.
 *   [Olive](https://www.patreon.com/olivevideoeditor) - High quality video editing and compositing software.
 *   [Open Broadcaster Software](https://www.patreon.com/obsproject), [#2](https://opencollective.com/obsproject) - Video recording and live streaming software.
-*   [postActiv](https://www.patreon.com/postActiv) - Microblogging platform.
 *   [Remmina](https://remmina.org/donations/) - Remote desktop client.
 *   [V Programming Language](https://www.patreon.com/vlang), [#2](https://www.paypal.com/donate/?token=u2pjZRmcQ2ZHaiP2Ce_wYNgGYrjrOL0xc_1zq9iDrO0uElfo24bMYFuSh48Hrpgm_66GF0\&country.x=US\&locale.x=US) - Statically typed compiled programming language similar to Go, influenced by Oberon, Rust, Swift.
+
+### Open Source Projects / Messaging and social media
+
+*   [postActiv](https://www.patreon.com/postActiv) - Microblogging platform.
 
 ### Open Source Projects / Libraries
 
@@ -331,7 +352,7 @@ A curated list of awesome programmers and software projects you can support!
 
 ## [Oct 19, 2019](/content/2019/10/19/README.md)
 
-### Open Source Projects
+### Open Source Projects / Messaging and social media
 
 *   [PixelFed](https://www.patreon.com/dansup), [#2](https://opencollective.com/pixelfed), [#3](https://liberapay.com/pixelfed), [#4](https://github.com/sponsors/dansup) - Federated image sharing powered by the ActivityPub protocol.
 
@@ -441,8 +462,11 @@ A curated list of awesome programmers and software projects you can support!
 ### Open Source Projects
 
 *   [Latte Dock](https://liberapay.com/latte-dock) - Replacement dock for Plasma desktops.
-*   [MissKey](https://www.patreon.com/syuilo) - Federated microblogging platform.
 *   [NativeScript-Vue](https://www.patreon.com/rigor789) - Native mobile applications with NativeScript and Vue.
+
+### Open Source Projects / Messaging and social media
+
+*   [MissKey](https://www.patreon.com/syuilo) - Federated microblogging platform.
 
 ### People Doing Open Source Work / Hardware related
 
@@ -496,6 +520,9 @@ A curated list of awesome programmers and software projects you can support!
 ### Open Source Projects
 
 *   [Termux](https://www.patreon.com/termux) - Android terminal emulator.
+
+### Open Source Projects / Messaging and social media
+
 *   [The Lounge](https://opencollective.com/thelounge) - Modern web IRC client.
 
 ### Open Source Projects / Operating Systems
@@ -534,13 +561,16 @@ A curated list of awesome programmers and software projects you can support!
 
 ### Open Source Projects
 
-*   [Flarum](https://opencollective.com/flarum/) - Forum platform.
-*   [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - Federated social network server.
-*   [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - An open network for secure, decentralized communication.
 *   [Neovim](https://salt.bountysource.com/teams/neovim) - Vim-fork focused on extensibility and usability.
 *   [Perkeep](https://opencollective.com/perkeep) - Personal storage system.
 *   [PHPStan](https://www.patreon.com/phpstan) - PHP static analyzer.
 *   [Webpack](https://opencollective.com/webpack) - JavaScript module bundler.
+
+### Open Source Projects / Messaging and social media
+
+*   [Flarum](https://opencollective.com/flarum/) - Forum platform.
+*   [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - Federated social network server.
+*   [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - An open network for secure, decentralized communication.
 
 ### Open Source Projects / Libraries
 
@@ -562,7 +592,7 @@ A curated list of awesome programmers and software projects you can support!
 
 *   [Armory](https://armory3d.org/fund) - 3D game engine for Blender.
 *   [bcachefs](https://www.patreon.com/bcachefs) - Linux filesystem.
-*   [Blender](https://fund.blender.org/) - 3D creation suite.
+*   [Blender](https://fund.blender.org/) - 3D creation suite
 *   [SysV init](https://www.patreon.com/sysvinit) - System V init implementation.
 
 ### People Doing Open Source Work / Hardware related
@@ -590,11 +620,14 @@ A curated list of awesome programmers and software projects you can support!
 *   [Paperwork](https://www.patreon.com/openpaper) - Personal document manager.
 *   [PlantUML](https://www.patreon.com/plantuml) - UML diagram creation software.
 *   [Project Lombok](https://www.patreon.com/lombok) - Java editor plugin.
-*   [Reddit Enhancement Suite](https://www.patreon.com/honestbleeps) - Reddit browser extension.
 *   [Synfig](https://www.patreon.com/synfig), [#2](https://opencollective.com/synfig) - 2D animation software.
-*   [Tiled](https://www.patreon.com/bjorn) - A 2D game level editor.
+*   [Tiled](https://www.patreon.com/bjorn), [#2](https://opencollective.com/tiled), [#3](https://liberapay.com/Tiled) - A 2D game level editor.
 *   [Transmission](https://transmissionbt.com/donate/) - BitTorrent client.
 *   [VideoLAN](http://www.videolan.org/contribute.html#paypal) - Maker of the VLC video player.
+
+### Open Source Projects / Messaging and social media
+
+*   [Reddit Enhancement Suite](https://www.patreon.com/honestbleeps) - Reddit browser extension.
 
 ### Open Source Projects / Libraries
 

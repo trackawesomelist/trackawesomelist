@@ -2,7 +2,7 @@
 
 A curated list of awesome programmers and software projects you can support!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/uraimo/awesome-software-patreons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uraimo/awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) · ⭐ 458 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/uraimo/awesome-software-patreons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uraimo/awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) · ⭐ 474 · 🏷️ Miscellaneous
 
 [ [Daily](/content/uraimo/awesome-software-patreons/README.md) / [Weekly](/content/uraimo/awesome-software-patreons/week/README.md) / Overview ]
 
@@ -39,8 +39,9 @@ A tangible way to give back to the open source community!
 *   [AngouriMath](https://www.patreon.com/AngouriMath) - Computer/symbolic algebra library for .NET.
 *   [Armory](https://armory3d.org/fund) - 3D game engine for Blender.
 *   [bcachefs](https://www.patreon.com/bcachefs) - Linux filesystem.
-*   [Blender](https://fund.blender.org/) - 3D creation suite.
+*   [Blender](https://fund.blender.org/) - 3D creation suite
 *   [BookWyrm](https://www.patreon.com/bookwyrm), [#2](https://opencollective.com/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub.
+*   [Bottles](https://usebottles.com/funding/) - Easily manage and run Windows apps on Linux.
 *   [Calibre](https://www.patreon.com/kovidgoyal) - E-books manager.
 *   [Compiler Explorer](https://www.patreon.com/mattgodbolt) - Online decompiler and compiler explorer.
 *   [Dekko Project](https://www.patreon.com/dekkoproject) - Ubuntu email client.
@@ -50,9 +51,7 @@ A tangible way to give back to the open source community!
 *   [Duplicati](https://opencollective.com/duplicati) - Backup client.
 *   [F-Droid](https://opencollective.com/f-droid), [#2](https://liberapay.com/F-Droid-Data/), [#3](https://opencollective.com/f-droid-euro) - An installable catalogue of FOSS applications for the Android platform.
 *   [Firezone](https://github.com/orgs/firezone/sponsoring) - Self-hosted VPN server using WireGuard.
-*   [Flarum](https://opencollective.com/flarum/) - Forum platform.
 *   [FreeCAD](https://freecadweb.org/wiki/Donate) - Parametric 3D modeler made primarily to design real-life objects of any size.
-*   [Funkwhale](https://opencollective.com/funkwhale) - A free, federated and social music server.
 *   [GIMP](https://liberapay.com/GIMP/) - GNU Image Manipulation Program.
 *   [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D engine.
 *   [HaxeFlixel](https://www.patreon.com/haxeflixel) - Cross-platform 2D game engine.
@@ -68,10 +67,7 @@ A tangible way to give back to the open source community!
 *   [LibrePCB](https://www.patreon.com/librepcb) - Software to develop printed circuit boards.
 *   [LogSeq](https://opencollective.com/logseq) - Knowledge management
 *   [Lollipop Cloud](https://opencollective.com/lollipop-cloud-team) - Cheap, easy, self-hosted clouds for everyone.
-*   [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - Federated social network server.
-*   [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - An open network for secure, decentralized communication.
 *   [Memcode](https://www.patreon.com/memcode) - Platform for flashcards
-*   [MissKey](https://www.patreon.com/syuilo) - Federated microblogging platform.
 *   [MuseScore](https://www.patreon.com/musescore) - Music notation software.
 *   [MyPaint](https://opencollective.com/mypaint) - Painting and drawing program that works nicely with pressure-sensitive tablets, and its dynamic brush engine library.
 *   [NativeScript-Vue](https://www.patreon.com/rigor789) - Native mobile applications with NativeScript and Vue.
@@ -88,26 +84,22 @@ A tangible way to give back to the open source community!
 *   [OpenFAAS](https://github.com/users/alexellis/sponsorship) - Serverless platform.
 *   [OpenRGB](https://www.patreon.com/CalcProgrammer1) - RGB lighting control application.
 *   [OpenShot](https://www.patreon.com/openshot) - Video editor.
+*   [OptiKey](https://www.patreon.com/OptiKey), [#2](https://github.com/sponsors/JuliusSweetland) - Full computer control and speech with your eyes.
 *   [Paperwork](https://www.patreon.com/openpaper) - Personal document manager.
 *   [Perkeep](https://opencollective.com/perkeep) - Personal storage system.
 *   [PHPStan](https://www.patreon.com/phpstan) - PHP static analyzer.
 *   [PHPUnit](https://github.com/sponsors/sebastianbergmann) - PHPUnit and related projects.
-*   [PixelFed](https://www.patreon.com/dansup), [#2](https://opencollective.com/pixelfed), [#3](https://liberapay.com/pixelfed), [#4](https://github.com/sponsors/dansup) - Federated image sharing powered by the ActivityPub protocol.
 *   [Pixelorama](https://www.patreon.com/OramaInteractive) - A free & open-source 2D sprite editor, made with the Godot Engine.
 *   [PlantUML](https://www.patreon.com/plantuml) - UML diagram creation software.
-*   [postActiv](https://www.patreon.com/postActiv) - Microblogging platform.
 *   [Project Lombok](https://www.patreon.com/lombok) - Java editor plugin.
-*   [Reddit Enhancement Suite](https://www.patreon.com/honestbleeps) - Reddit browser extension.
 *   [Remmina](https://remmina.org/donations/) - Remote desktop client.
-*   [Retrospring](https://patreon.com/retrospring), [#2](https://opencollective.com/retrospring), [#3](https://github.com/sponsors/Retrospring) - A social network following the Q/A (question and answer) principle.
-*   [Secure Scuttlebutt](https://opencollective.com/secure-scuttlebutt-consortium) - A distributed and secure peer-to-peer protocol and social network.
 *   [ShareX Team](https://www.patreon.com/ShareX) - Screen capture and screen sharing tool.
+*   [Sonic Pi](https://www.patreon.com/samaaron) - Code-based music creation and performance tool.
 *   [Synfig](https://www.patreon.com/synfig), [#2](https://opencollective.com/synfig) - 2D animation software.
 *   [SysV init](https://www.patreon.com/sysvinit) - System V init implementation.
 *   [Termux](https://www.patreon.com/termux) - Android terminal emulator.
-*   [The Lounge](https://opencollective.com/thelounge) - Modern web IRC client.
 *   [Thirty Bees](https://forum.thirtybees.com/support-thirty-bees/) - Ecommerce software.
-*   [Tiled](https://www.patreon.com/bjorn) - A 2D game level editor.
+*   [Tiled](https://www.patreon.com/bjorn), [#2](https://opencollective.com/tiled), [#3](https://liberapay.com/Tiled) - A 2D game level editor.
 *   [Transmission](https://transmissionbt.com/donate/) - BitTorrent client.
 *   [V Programming Language](https://www.patreon.com/vlang), [#2](https://www.paypal.com/donate/?token=u2pjZRmcQ2ZHaiP2Ce_wYNgGYrjrOL0xc_1zq9iDrO0uElfo24bMYFuSh48Hrpgm_66GF0\&country.x=US\&locale.x=US) - Statically typed compiled programming language similar to Go, influenced by Oberon, Rust, Swift.
 *   [VideoLAN](http://www.videolan.org/contribute.html#paypal) - Maker of the VLC video player.
@@ -121,6 +113,21 @@ A tangible way to give back to the open source community!
 *   [Zrythm](https://liberapay.com/Zrythm) - A highly automated and intuitive digital audio workstation.
 *   [Kitbashery](https://www.patreon.com/kitbashery) - 3D kitbashing solution & CC0 model library.
 
+### Messaging and social media
+
+*   [BookWyrm](https://www.patreon.com/bookwyrm), [#2](https://opencollective.com/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub.
+*   [Flarum](https://opencollective.com/flarum/) - Forum platform.
+*   [Funkwhale](https://opencollective.com/funkwhale) - A free, federated and social music server.
+*   [The Lounge](https://opencollective.com/thelounge) - Modern web IRC client.
+*   [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - Federated social network server.
+*   [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - An open network for secure, decentralized communication.
+*   [MissKey](https://www.patreon.com/syuilo) - Federated microblogging platform.
+*   [PixelFed](https://www.patreon.com/dansup), [#2](https://opencollective.com/pixelfed), [#3](https://liberapay.com/pixelfed), [#4](https://github.com/sponsors/dansup) - Federated image sharing powered by the ActivityPub protocol.
+*   [postActiv](https://www.patreon.com/postActiv) - Microblogging platform.
+*   [Reddit Enhancement Suite](https://www.patreon.com/honestbleeps) - Reddit browser extension.
+*   [Retrospring](https://patreon.com/retrospring), [#2](https://opencollective.com/retrospring), [#3](https://github.com/sponsors/Retrospring) - A social network following the Q/A (question and answer) principle.
+*   [Secure Scuttlebutt](https://opencollective.com/secure-scuttlebutt-consortium) - A distributed and secure peer-to-peer protocol and social network.
+
 ### Libraries
 
 *Libraries and frameworks.*
@@ -128,7 +135,7 @@ A tangible way to give back to the open source community!
 *   [ApexCharts](https://www.patreon.com/junedchhipa), [#2](https://opencollective.com/apexchartsjs) - JavaScript charts library.
 *   [Asset-Importer-Lib](https://www.patreon.com/assimp) -  Loads 40+ 3D file formats into one unified and clean data structure for game-developers.
 *   [Babel](https://www.patreon.com/henryzhu) - JavaScript compiler.
-*   [Dear ImGui (⭐48k)](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
+*   [Dear ImGui (⭐53k)](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
 *   [Hapi.js](https://opencollective.com/hapijs) - Node.js framework.
 *   [HaxeUI](https://www.patreon.com/haxeui) - User interface toolkit.
 *   [Iced](https://github.com/sponsors/hecrj), [#2](https://ko-fi.com/hecrj_) - A cross-platform GUI library for Rust, inspired by Elm.
@@ -159,6 +166,7 @@ A tangible way to give back to the open source community!
 *   [Linux Lite](https://www.patreon.com/linuxlite) - Linux distribution.
 *   [Mobian](https://liberapay.com/mobian/) - Debian for mobile.
 *   [Parrot](https://www.patreon.com/parrot) - Security-related Debian distribution.
+*   [PostmarketOS](https://opencollective.com/postmarketos) - A real Linux distribution for phones.
 *   [Qubes OS](https://opencollective.com/qubes-os) - A reasonably secure operating system.
 *   [ReactOS](https://liberapay.com/ReactOS/) - A free Windows-compatible Operating System
 *   [Redox OS](https://www.patreon.com/redox_os) - OS written in Rust.
@@ -309,7 +317,7 @@ A tangible way to give back to the open source community!
 ### Articles and Tutorials
 
 *   [Alecaddd](https://www.patreon.com/alecaddd) - Various programming tutorials.
-*   [Boiling Steam](https://www.patreon.com/boiling_steam_linux) - Linux gaming news, reviews, guides.
+*   [Boiling Steam](https://www.patreon.com/boiling_steam_linux), [#2](https://liberapay.com/boilingsteam/) - Linux gaming news, reviews, guides.
 *   [Chris Bradfield](https://www.patreon.com/kidscancode) - Programming tutorials for kids.
 *   [DistroWatch](https://www.patreon.com/distrowatch) - Reviews and tutorials for Linux/BSD.
 *   [Fluent C++](https://www.patreon.com/fluentcpp) - C++ articles.
@@ -339,7 +347,7 @@ A tangible way to give back to the open source community!
 
 ## Contributing
 
-Please take a quick look at the [contribution guidelines (⭐458)](https://github.com/uraimo/awesome-software-patreons/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors (⭐458)](https://github.com/uraimo/awesome-software-patreons/graphs/contributors); you rock!
+Please take a quick look at the [contribution guidelines (⭐474)](https://github.com/uraimo/awesome-software-patreons/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors (⭐474)](https://github.com/uraimo/awesome-software-patreons/graphs/contributors); you rock!
 
 ## License
 

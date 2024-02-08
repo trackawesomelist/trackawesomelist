@@ -243,7 +243,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Templates / boilerplate / starter kits / stack ensemble / Yeoman generator.*
 
-*   [create-vite (⭐62k)](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) - Generates scaffold for a vite + svelte app.
+*   [create-vite (⭐63k)](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) - Generates scaffold for a vite + svelte app.
 *   [create-svelte (⭐17k)](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) - A CLI for creating a new SvelteKit project.
 *   [component-template (⭐549)](https://github.com/sveltejs/component-template) - A base for building shareable components.
 *   [svelte-pwa-template (⭐217)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
@@ -263,6 +263,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [vest (⭐2.5k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 *   [svelte-formly (⭐246)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
 *   [svelte-form-builder (⭐51)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
+*   [Formsnap](https://www.formsnap.dev/docs/introduction) - High level Svelte components for forms, built on top of Superforms and Zod.
 
 ### WebGL
 

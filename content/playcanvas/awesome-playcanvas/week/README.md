@@ -2,9 +2,16 @@
 
 A curated list of awesome PlayCanvas assets, resources, and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 227 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 229 · 🏷️ Gaming
 
 [ [Daily](/content/playcanvas/awesome-playcanvas/README.md) / Weekly / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
+
+## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
+
+### PlayCanvas
+
+*   [Reference](https://api.playcanvas.com/) - API reference manual for the engine run-time.
+*   [User Manual](https://developer.playcanvas.com/user-manual/) - PlayCanvas user guide.
 
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
@@ -305,7 +312,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### PlayCanvas
 
-*   [Engine (⭐8.8k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
+*   [Engine (⭐8.9k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
 *   [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 *   [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
 
@@ -422,8 +429,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [Editor](https://playcanvas.com/) - Browser-based, real-time collaborative WebGL Editor.
 *   [NPM Package](https://www.npmjs.com/package/playcanvas) - Node.js packages of the PlayCanvas engine run-time.
-*   [Reference](https://developer.playcanvas.com/en/api/) - API reference manual for the engine run-time.
-*   [User Manual](https://developer.playcanvas.com/en/user-manual/) - PlayCanvas user guide.
 
 ### Tutorials
 
@@ -434,10 +439,10 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Extensions and Utilities
 
-*   [playcanvas-ar (⭐221)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
+*   [playcanvas-ar (⭐225)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
 *   [playcanvas-p2.js (⭐20)](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
-*   [playcanvas-spine (⭐43)](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
-*   [playcanvas-tween (⭐52)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
+*   [playcanvas-spine (⭐44)](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
+*   [playcanvas-tween (⭐53)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 *   [Sublime Completions (⭐5)](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API.
 
 ### Technical Demos
@@ -488,7 +493,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ### Extensions and Utilities
 
 *   [playcanvas-node (⭐4)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
-*   [tween.js (⭐9.5k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+*   [tween.js (⭐9.6k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 
 ### Interactive Experiences
 

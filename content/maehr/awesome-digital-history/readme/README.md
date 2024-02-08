@@ -43,6 +43,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 ### Africa
 
 *   [PARC](https://parc-portal.org/) - Portal for African Research Collections: PARC is the new meta-catalogue for the Africana collections at the research location Basel.
+*   [West African Arabic Manuscript Database](https://islam.zmo.de/s/westafrica/page/home) - A comprehensive collection of manuscripts that provides insight into the Islamic scholarly tradition in West Africa.
 
 ### Asia
 
@@ -181,6 +182,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [HIST 7370](https://cblevins.github.io/f19-dig-hist/) - Online course for Methods and Readings in Digital History.
 *   [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - History Toolkit for Students.
 *   [Introduction to Digital History](https://wissen-ist-acht.github.io/digitalhistory.intro/) - This guide, created in the fall semester of 2022, accompanies the introductory courses in history at the University of Basel and is intended to provide a first insight into the field of digital history.
+*   [Introduction to Python for Humanists](https://python-textbook.pythonhumanities.com/intro.html) - A textbook offering a comprehensive introduction to Python programming, tailored for researchers and students in the humanities.
 *   [Local Linkages](https://locallinkages.org/) - Professional development curriculum to introduce to historical research methods and digital history skills.
 *   [Python für Historiker:innen](https://digital-history-berlin.github.io/Python-fuer-Historiker-innen/home.html) - The Jupyter Book (in German language) is aimed at historians who are looking for a first application-oriented and interactive introduction to the Python programming language.
 *   [The CTP Book](https://comp-think.github.io/) - A book for teaching Computational Thinking and Programming skills to people with a background in the Humanities.
@@ -193,8 +195,8 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [Computer History (⭐2.5k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
 *   [Data Visualization (⭐3.5k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
 *   [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme) - Tools, resources, and services supporting the Digital Humanities.
-*   [Research Tools (⭐1.8k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
-*   [Scientific Writing (⭐634)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Scientific writing can extend beyond LaTeX, made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.
+*   [Research Tools (⭐1.9k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
+*   [Scientific Writing (⭐642)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Scientific writing can extend beyond LaTeX, made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.
 *   [Tempopedia](https://tempopedia.org/) - Digital History Directory.
 
 ## Contribute

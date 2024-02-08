@@ -2,7 +2,7 @@
 
 Explore a curated selection of AI tools and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 63 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 73 · 🏷️ Computer Science
 
 [ [Daily](/content/Hyraze/ai-collective-tools/README.md) / [Weekly](/content/Hyraze/ai-collective-tools/week/README.md) / Overview ]
 
@@ -12,7 +12,7 @@ Explore a curated selection of AI tools and resources
 
 > Explore a curated selection of AI tools and resources.
 
-We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐63)](https://github.com/Hyraze/ai-collective-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐63)](https://github.com/Hyraze/ai-collective-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
+We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐73)](https://github.com/Hyraze/ai-collective-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐73)](https://github.com/Hyraze/ai-collective-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Hyraze/ai-collective-tools)
@@ -175,6 +175,7 @@ Use these hashtags in search to filter out the tools
 *   [MediSearch](https://medisearch.io) - This tool is a medical AI chatbot which gives you direct science-based answers to medical questions `#free`
 *   [Phind](https://www.phind.com/) - An AI-powered coding and technical assistant, making complex tasks simpler. `#freemium`
 *   [Smitty](https://www.smitty.ai/) - Streamlining processes and providing agile, efficient responses to your unique business needs. `#freemium`
+*   [Tidio](https://www.tidio.com/) - Tidio Live Chat & AI Chatbots , Accelerate your growth with AI customer service `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -188,6 +189,7 @@ Use these hashtags in search to filter out the tools
 *   [Devassistant.ai](https://devassistant.ai/) - Your AI Co-Programmer for Efficient Development `#paid`
 *   [Lintrule](https://www.lintrule.com/) - Supercharge Code Reviews and Policy Enforcement `#paid`
 *   [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. `#free`
+*   [Sizzle AI](https://web.szl.ai/) - Sizzle isn't just any app It's your personalized AI-powered tutor with the mission to make learning amazing for all.Search any Maths, coding Problems with Sizzle. `#free`
 *   [Tabnine](https://www.tabnine.com/) - Tabnine helps developers write code faster, in any IDE. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -226,6 +228,7 @@ Use these hashtags in search to filter out the tools
 *   [Candy.ai](https://candy.ai/discover) - Your dream companion awaits! Create your Virtual Girlfriend, shape her personality and bring her to life in one click. 100% powered by Artificial Intelligence. `#freemium`
 *   [DatePlanner.ai](https://dateplanner.ai/) - Online dating is competitive. Stand out with thoughtful date ideas and interesting conversation topics. `#paid`
 *   [Dates.ai](https://www.dates.ai) - Dates.ai: Where authenticity meets AI to revolutionize dating, fostering genuine connections in a fraud-free and fair environment. `#free`
+*   [DreamGF](https://dreamgf.ai/) - DreamGF uses AI algorithms to generate virtual partners according to user preferences. Users can customize the appearance, personality, and other traits. `#freemium`
 *   [Pickmyline](https://www.pickmyline.online/) - Not able to start conversation even after getting matched? Here is a ChatGPT powered pickup line generator for you!! `#free`
 *   [Yourmove.ai](https://www.yourmove.ai/) - Making conversations easier. So you can spend less time texting, and more time dating. `#freemium`
 
@@ -246,6 +249,7 @@ Use these hashtags in search to filter out the tools
 *   [Canva](https://www.canva.com/) - Use it to create social media posts, presentations, posters, videos, logos and more. `#freemium`
 *   [Designs AI](https://designs.ai/) - Make a logo, video, social media banner, business card, flyer, mockup and more with AI. `#freemium`
 *   [Stream Slides](https://streamslide.io/) - YouTube Video to Slides Converter. `#free`
+*   [svg.io](https://svg.io) - The power of AI with our Free Text-to-SVG Generator! Effortlessly convert your text prompts into stunning SVG images using our advanced AI technology. `free`
 
 ## Developer
 
@@ -421,12 +425,16 @@ Use these hashtags in search to filter out the tools
 *   [Imagine](https://www.imagine.art) - Text to image with AI Art Generator `#freemium`
 *   [Ipic.ai](https://www.ipic.ai/) - Ipic.ai is a free AI image generator that can effortlessly create unique AI art. `#free`
 *   [Kaiber](https://kaiber.ai/) - Tell stories like never before with our advanced AI generation engine `#freemium`
+*   [Leonardo](https://leonardo.ai) - Text-to-image Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency `#free`
 *   [MergeML](https://mergeml.com/) - Lightning Fast Image Generation `#free`
 *   [Midjourney AI](https://www.midjourneyai.ai/) - Just enter your prompt and click the generate button.No code required to generate your image!
 *   [Novita.ai](https://novita.ai/) - Novita is your go-to solution for fast and affordable AI image generation. `#paid`
 *   [Picsart](https://picsart.com/ai-image-generator/) - Convert words into an image in mere seconds with the Picsart AI Image Generator. `#freemium`
+*   [pica-ai](https://www.pica-ai.com/) - Experience funny or realistic face swapping effects. Begin by uploading your photo!. `freemium`
 *   [removebg](https://remove.bg/) - Remove any Image Background `#free`
+*   [Rentoor](https://rentoor.vercel.app) - Enhance your images with Rentoor's super-resolution feature, restoring clarity and detail for stunning visuals. `freemium`
 *   [Stable Diffusion Online](https://stablediffusionweb.com/#ai-image-generator) - text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds. `#opensource`
+*   [stockimg.ai](https://stockimg.ai/) - Stockimg is an all in one design and content creation tool powered by AI. You can easily generate logo, illustration, wallpaper, poster and more. `#freemium`
 *   [Top VS Best](https://topvsbest.com/aiimagecreator/) - Effortlessly craft mesmerizing and exclusive images through our AI-powered image generation. `#free`
 *   [Wepik AI](https://wepik.com/ai) - Text to Image Converter `#free`
 *   [Zoo](https://zoo.replicate.dev/) - Text-to-Image Playground `#free`
@@ -475,7 +483,7 @@ Use these hashtags in search to filter out the tools
 *   [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. `#opensource` `#free`
 *   [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code. `#freemium`
 *   [OPT](https://opt.alpa.ai/) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. `#opensource` `#free`
-*   [Qwen (⭐7.7k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
+*   [Qwen (⭐8.9k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
 *   [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -506,9 +514,9 @@ Use these hashtags in search to filter out the tools
 
 ## Presentations
 
+*   [gamma.app](https://gamma.app) - Gamma is a new platform that allows users to create polished documents, presentations, and webpages in seconds using AI. `freemium`
 *   [Journey.io](https://journey.io/) - Journey.io is a storytelling platform that enables users to create interactive presentations, combining videos, slides, text, and embeds to captivate their audience. `#freemium`
-
-**[⬆️ Back to Top](#table-of-contents)**
+    **[⬆️ Back to Top](#table-of-contents)**
 
 ## Productivity
 
@@ -719,9 +727,11 @@ Use these hashtags in search to filter out the tools
 
 *   [Chromox](https://chromox.alkaidvision.com/) - Transforming Ideas into Visual Stories. `#free`
 *   [D-ID](https://www.d-id.com/) - D-ID is a platform to generate videos. `#freemium`
+*   [FabDream AI](https://www.fabdream.art/) - Discover the world of Ai digital art through the lens of Swiss-based artist Fabio Comparelli aka fabdream. Immerse yourself in visually stunning Quality videos. `#freemium`
 *   [Heygen](https://www.heygen.com/) - Create videos from text in minutes with AI-generated avatars and voices. `#freemium`
 *   [Invideo](https://invideo.io/) - InVideo simplifies video creation with ready-made templates. `#freemium`
 *   [Pictory AI](https://pictory.ai/) - Pictory AI is a video creation tool that makes it effortless to produce short videos from your long-form content like scripts, posts `#paid`
+*   [pika.art](https://pika.art/) - An idea-to-video platform that brings your creativity to motion. `#freemium`
 *   [Quickads](https://www.quickads.ai/) - AI Ad Creation Platform for all your Ad Campaigns. `#freemium`
 *   [Vidnoz](https://www.vidnoz.com/) - Use Vidnoz AI and Vidnoz Flex to make winning videos! `#freemium`
 

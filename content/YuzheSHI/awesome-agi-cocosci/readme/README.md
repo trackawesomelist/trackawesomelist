@@ -2,7 +2,7 @@
 
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 221 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 230 · 🏷️ Theory
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / Overview ]
 
@@ -59,6 +59,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
         *   [Coordination](#coordination)
     *   [Domain Specific Language](#domain-specific-language)
         *   [Design Theory](#design-theory)
+        *   [Design Practises](#design-practises)
         *   [Domain Specified Applications](#domain-specified-applications)
     *   [Problem Solving](#problem-solving)
         *   [Human-Level Problem Solving](#human-level-problem-solving)
@@ -453,7 +454,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 #### Generative Model
 
-*   [Generative Modeling Explained (⭐41)](https://github.com/YuzheSHI/generative-modeling-explained) - ***Statistical Machine Learning Tutorials***, 2022. This tutorial on generative modeling is in part of Statistical Machine Learning Tutorial by Ying Nian Wu at UCLA Statistics. The tutorial goes over the key equations and algorithms for learning recent generative models, including energy-based models, diffusion/score-based models, autoregressive/flow-based models, VAEs, and GANs, and explains the connections between these models.
+*   [Generative Modeling Explained (⭐43)](https://github.com/YuzheSHI/generative-modeling-explained) - ***Statistical Machine Learning Tutorials***, 2022. This tutorial on generative modeling is in part of Statistical Machine Learning Tutorial by Ying Nian Wu at UCLA Statistics. The tutorial goes over the key equations and algorithms for learning recent generative models, including energy-based models, diffusion/score-based models, autoregressive/flow-based models, VAEs, and GANs, and explains the connections between these models.
 
 *   [Bayesian Data Analysis](https://www.taylorfrancis.com/books/mono/10.1201/9780429258411/bayesian-data-analysis-andrew-gelman-donald-rubin-john-carlin-hal-stern) - ***Chapman and Hall/CRC***, 1995. \[[All Versions](https://scholar.google.com/scholar?cluster=5067275302121330689\&hl=en\&as_sdt=0,5)]. Don Rubin's introductory book on Bayesian models.
 
@@ -529,11 +530,11 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 #### Bayesian Optimization
 
-*   [A Tutorial on Bayesian Optimization](https://arxiv.org/abs/1807.02811) - 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=7971934771645047583\&hl=en\&as_sdt=0,5)].
+*   [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf) - ***Proceedings of the IEEE***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=2039456143890648437\&hl=en\&as_sdt=0,5)].
 
 *   [Practical Bayesian Optimization of Machine Learning Algorithms](https://proceedings.neurips.cc/paper/2012/file/05311655a15b75fab86956663e1819cd-Paper.pdf) - ***NeurIPS'12***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=14442949298925775705\&hl=en\&as_sdt=0,5)]. The original paper for applying Bayesian optimization to machine learning hyperparameter selection.
 
-*   [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf) - ***Proceedings of the IEEE***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=2039456143890648437\&hl=en\&as_sdt=0,5)].
+*   [A Tutorial on Bayesian Optimization](https://arxiv.org/abs/1807.02811) - 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=7971934771645047583\&hl=en\&as_sdt=0,5)].
 
 \*[Back to Top](#c)
 
@@ -569,7 +570,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Structuring Knowledge with Cognitive Maps and Cognitive Graphs](https://www.sas.upenn.edu/psych/epsteinlab/pdfs/Peer%20Brunec%20Newcombe%20Epstein%20TiCS%202020%20Cog%20maps%20and%20cog%20graphs.pdf) - ***Trends in Cognitive Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=7196012353183004425\&hl=en\&as_sdt=0,5)]. Russel Epstein's review on evidence suggesting that both map-like and graph-like representations exist in the mind/brain that rely on partially overlapping neural systems.
 
-*   [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.polyu.edu.hk/cbs/rclcn/images/cdl_articles/H/Huth_et_al._2016.pdf) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14997953800741854188\&hl=en\&as_sdt=0,5)]. \[[Code & Tutorial (⭐22)](https://github.com/HuthLab/speechmodeltutorial)].
+*   [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.polyu.edu.hk/cbs/rclcn/images/cdl_articles/H/Huth_et_al._2016.pdf) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14997953800741854188\&hl=en\&as_sdt=0,5)]. \[[Code & Tutorial (⭐23)](https://github.com/HuthLab/speechmodeltutorial)]. Systematically mapping semantic selectivity across the cortex using voxel-wise modelling of functional MRI data collected while subjects listened to hours of narrative stories, showing that the semantic system is
+    organized into intricate patterns that seem to be consistent across individuals.
 
 *   [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf) - ***Psychological Science***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308\&hl=en\&as_sdt=0,5)]. Uncovering the cognitive and neural origins of word-meaning disagreements across individuals.
 
@@ -591,7 +593,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [A Review of Tactile Information: Perception and Action Through Touch](https://ieeexplore.ieee.org/abstract/document/9136877) - ***IEEE Transactions on Robotics***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15493221881484741343\&hl=en\&as_sdt=0,5)]. \[[ResearchGate](https://www.researchgate.net/profile/Qiang-Li-110/publication/342797645_A_Review_of_Tactile_Information_Perception_and_Action_Through_Touch/links/602f95bc92851c4ed5806e9f/A-Review-of-Tactile-Information-Perception-and-Action-Through-Touch.pdf)]. A hierarchy consisting of raw, contact, object, and action levels to structure the tactile information.
 
-*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐7.5k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
+*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐7.6k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
 
 *   [Semantic features of object concepts generated with GPT-3](https://escholarship.org/uc/item/44s454ng) - ***CogSci'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=16958563995984242923\&hl=en\&as_sdt=0,5)]. Testing the semantic attributes of the concepts generated by the large language model GPT-3.
 
@@ -757,6 +759,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Domain-Specific Language](https://en.wikipedia.org/wiki/Domain-specific_language) - ***Wikipedia***. Wikipedia encyclopedia entry on Domain Specific Languages.
 
+*   [Domain Engineering](https://en.wikipedia.org/wiki/Domain_engineering) - ***Wikipedia***. Wikipedia encyclopedia entry on Domain Engineering.
+
 *   [The complete guide to (external) Domain Specific Languages](https://tomassetti.me/domain-specific-languages/). An introduction to Domain Specific Languages (DSL) based on 19 DSL cases.
 
 *   [When and how to develop domain-specific languages](https://dl.acm.org/doi/abs/10.1145/1118890.1118892) - ***ACM Computing Surveys***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=8598236436890577027\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://john.cs.olemiss.edu/~hcc/csci658/notes/localcopy/WhenDSL.pdf)]. A survey on patterns in the decision, analysis, design, and implementation phases of DSL development.
@@ -767,6 +771,12 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 \*[Back to Top](#c)
 
+#### Design Practises
+
+*   [No Grammar to Rule Them All: A Survey of JSON-style DSLs for Visualization](https://scholar.google.com/scholar?cluster=17206818917381447796\&hl=en\&as_sdt=0,5) - ***IEEE Transactions on Visualization and Computer Graphics***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=17206818917381447796\&hl=en\&as_sdt=0,5)]. A survey on the design and implementation of 57 JSON-style DSLs for a variety of visualization and visual interaction tasks, suggesting that no one DSL will be able to capture all of them without compromising essential parts of its domain design.
+
+\*[Back to Top](#c)
+
 #### Domain Specified Applications
 
 *   [Biocoder: A programming language for standardizing and automating biology protocols](https://jbioleng.biomedcentral.com/track/pdf/10.1186/1754-1611-4-13.pdf) - ***Journal of Biological Engineering***, 2010. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=15572197190838916795)]. \[[Project (⭐1)](https://github.com/nmz787/BioCoder)]. \[[Microsoft Page](https://www.microsoft.com/en-us/download/details.aspx?id=52556)] Microsoft's programming language for representing biology protocols.
@@ -774,6 +784,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 *   [Learning the language of viral evolution and escape](https://www.science.org/doi/full/10.1126/science.abd7331) - ***Science***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=13862653184613223515)]. Natural language processing with two components: grammar (or syntax) and meaning (or semantics) for predicting which viral mutations may lead to viral escape.
 
 *   [A high-level programming language for generative protein design](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1) - 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=11732741354610784314\&hl=en\&as_sdt=0,5)].
+
+*   [iContractML 2.0: A domain-specific language for modeling and deploying smart contracts onto multiple blockchain platforms](https://www.sciencedirect.com/science/article/pii/S0950584921002081) - ***Information and Software Technology***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=1548144959305241494\&hl=en\&as_sdt=0,5)]. A reference model and platform agnostic language for smart contracts.
 
 \*[Back to Top](#c)
 
@@ -907,13 +919,13 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [When to Trust Your Model: Model-Based Policy Optimization](https://proceedings.neurips.cc/paper_files/paper/2019/hash/5faf461eff3099671ad63c6f3f094f7f-Abstract.html) - ***NeurIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=4248859125840907707\&hl=en\&as_sdt=0,5)]. \[[Post](https://bair.berkeley.edu/blog/2019/12/12/mbpo/)].
 
-*   [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191\&hl=en\&as_sdt=0,5)]. \[[Code (⭐117)](https://github.com/pokaxpoka/sunrise)].
+*   [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191\&hl=en\&as_sdt=0,5)]. \[[Code (⭐118)](https://github.com/pokaxpoka/sunrise)].
 
 *   [The Quest for a Common Model of the Intelligent Decision Maker](https://arxiv.org/abs/2202.13252) - ***Multi-disciplinary Conference on Reinforcement Learning and Decision Making'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=7652784232757502910\&hl=en\&as_sdt=0,5)]. Richard Sutton's perspective on the future directions of reinforcement learning research.
 
 *   [Automatic curriculum learning for deep RL: a short survey](https://dl.acm.org/doi/abs/10.5555/3491440.3492111) - ***IJCAI'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=10660055557098312214\&hl=en\&as_sdt=0,5)].
 
-*   [TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL](http://proceedings.mlr.press/v139/romac21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11016662361926634008\&hl=en\&as_sdt=0,5)]. \[[Project (⭐59)](https://github.com/flowersteam/TeachMyAgent)].
+*   [TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL](http://proceedings.mlr.press/v139/romac21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11016662361926634008\&hl=en\&as_sdt=0,5)]. \[[Project (⭐61)](https://github.com/flowersteam/TeachMyAgent)].
 
 \*[Back to Top](#c)
 
@@ -969,7 +981,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Neural Logic Reinforcement Learning](https://arxiv.org/pdf/1904.10729.pdf) - ***ICML'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=18074632043038701502\&hl=en\&as_sdt=0,5)].
 
-*   [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.NeurIPS.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) - ***NeurIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=1518342375288126288\&hl=en\&as_sdt=0,5)]. \[[Slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)]. \[[Code (⭐96)](https://github.com/AbductiveLearning/ABL-HED)]. The original paper on Abductive Learning, a derivative-free approach for neuro-symbolic learning.
+*   [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.NeurIPS.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) - ***NeurIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=1518342375288126288\&hl=en\&as_sdt=0,5)]. \[[Slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)]. \[[Code (⭐97)](https://github.com/AbductiveLearning/ABL-HED)]. The original paper on Abductive Learning, a derivative-free approach for neuro-symbolic learning.
 
 *   [Abductive learning: towards bridging machine learning and logical reasoning](https://link.springer.com/article/10.1007/s11432-018-9801-4) - ***Science China Information Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=8541635351775190855\&hl=en\&as_sdt=0,5)].
 
@@ -1043,6 +1055,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [CoCoX: Generating Conceptual and Counterfactual Explanations via Fault-Lines](https://ojs.aaai.org/index.php/AAAI/article/view/5643) - ***AAAI'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17443137068166403183\&hl=en\&as_sdt=0,5)].
 
+*   [CX-ToM: Counterfactual explanations with theory-of-mind for enhancing human trust in image recognition models](https://www.sciencedirect.com/science/article/pii/S2589004221015510) - ***iScience***, 2022. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=17526041764295337444)].
+
 \*[Back to Top](#c)
 
 #### Strong Machine Learning
@@ -1051,15 +1065,15 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Beneficial and harmful explanatory machine learning](https://link.springer.com/article/10.1007%2Fs10994-020-05941-0) - ***Machine Learning***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16983722694047294963\&hl=en\&as_sdt=0,5)].
 
-*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐872)](https://github.com/LAMDA-NJU/Deep-Forest)].
+*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐878)](https://github.com/LAMDA-NJU/Deep-Forest)].
 
-*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[Code (⭐590)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
+*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[Code (⭐593)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
 
 \*[Back to Top](#c)
 
 #### Explainable Deep Learning
 
-*   [pytorch-grad-cam (⭐8.8k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
+*   [pytorch-grad-cam (⭐8.9k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
 *   [Network dissection: Quantifying interpretability of deep visual representations](https://ieeexplore.ieee.org/document/8099837) - ***CVPR'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=18069685615852396783\&hl=en\&as_sdt=0,5)]. \[[Project](http://netdissect.csail.mit.edu/)]. \[[Dataset: Places365](http://places2.csail.mit.edu/index.html)]. The original paper on visualizing the class activation maps to explain convolutional neural networks.
 
@@ -1067,13 +1081,13 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/) - ***Distill***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9053581372570691569\&hl=en\&as_sdt=0,5)]. A perspective on treating neural networks as circuits.
 
-*   [Compositional Explanations of Neurons](https://proceedings.neurips.cc/paper/2020/hash/c74956ffb38ba48ed6ce977af6727275-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15725346730266402738\&hl=en\&as_sdt=0,5)]. \[[Project (⭐23)](https://github.com/jayelm/compexp)]. A concept-composition version of network dissection.
+*   [Compositional Explanations of Neurons](https://proceedings.neurips.cc/paper/2020/hash/c74956ffb38ba48ed6ce977af6727275-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15725346730266402738\&hl=en\&as_sdt=0,5)]. \[[Project (⭐24)](https://github.com/jayelm/compexp)]. A concept-composition version of network dissection.
 
 *   [This Looks Like That: Deep Learning for Interpretable Image Recognition](http://papers.NeurIPS.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf) - ***NeurIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=9461838581952136719\&hl=en\&as_sdt=0,5)].
 
 *   [Unsupervised learning by competing hidden units](https://www.pnas.org/content/pnas/116/16/7723.full.pdf) - ***Proceedings of the National Academy of Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=1228003598355915526\&hl=en\&as_sdt=0,5)].
 
-*   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐129)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
+*   [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐130)](https://github.com/MadryLab/backgrounds_challenge)]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
 
 *   [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://proceedings.neurips.cc/paper/2018/hash/5fc34ed307aac159a30d81181c99847e-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=401428033641216502\&hl=en\&as_sdt=0,5)]. Maching the learned pattern of neurons in different neural networks.
 
@@ -1483,16 +1497,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [ChemCrow: Augmenting large-language models with chemistry tools](https://openreview.net/forum?id=wdGIL6lx3l) - ***NeurIPS AI for Science Workshop***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8711939262720486725\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://arxiv.org/abs/2304.05376)].
 
-*   [LEGAL-BERT: The Muppets straight out of Law School](https://aclanthology.org/2020.findings-emnlp.261/) - ***EMNLP'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11254432523766039890\&hl=en\&as_sdt=0,5)]. Generating answers to legal questions, analyze contracts, and summarizing legal documents, making legal knowledge more accessible to non-experts.
-
-*   [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506) - ***Bioinformatics***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2783127196632783403\&hl=en\&as_sdt=0,5)]. Answering medical questions, identifying relevant clinical trials, and diagnosing diseases based on symptoms, making medical information more accessible to the general public.
-
-*   [Finbert: A pre-trained financial language representation model for financial text mining](https://dl.acm.org/doi/abs/10.5555/3491440.3492062) - ***IJCAI'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17844713837232165872\&hl=en\&as_sdt=0,5)]. Predicting stock market trends, analyzing financial documents, and generating summaries of economic news articles, helping to disseminate financial knowledge.
-
-*   [SciBERT: A Pretrained Language Model for Scientific Text](https://aclanthology.org/D19-1371/) - ***EMNLP'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7377999893003631695\&hl=en\&as_sdt=0,5)]. Searching and synthesizing scientific literature, aiding researchers in hypothesis generation, and assisting with experimental design, making scientific knowledge more accessible.
-
-*   [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://aclanthology.org/2020.findings-emnlp.139/) - ***EMNLP'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9055786889913621082\&hl=en\&as_sdt=0,5)]. Completing code, generating programming documentation, and providing technical support, making programming knowledge more accessible to non-experts.
-
 *   [Reproducibility](https://www.science.org/doi/full/10.1126/science.1250475) - ***Science***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=676974831306442279\&hl=en\&as_sdt=0,10)].
 
 *   [A manifesto for reproducible science](https://www.nature.com/articles/s41562-016-0021) - ***Nature Human Behavior***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=9515807942859203900\&hl=en\&as_sdt=0,10)].
@@ -1505,7 +1509,17 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Six factors affecting reproducibility in life science research and how to handle them](https://www.nature.com/articles/d42473-019-00004-y) - ***Nature Advertisement***.
 
-*   [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory](https://ieeexplore.ieee.org/abstract/document/10059206) - ***Transactions on Knowledge and Data Engineering***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=949715967083833369\&hl=en\&as_sdt=0,10)].
+*   [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory](https://ieeexplore.ieee.org/abstract/document/10059206) - ***IEEE Transactions on Knowledge and Data Engineering***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=949715967083833369\&hl=en\&as_sdt=0,10)].
+
+*   [LEGAL-BERT: The Muppets straight out of Law School](https://aclanthology.org/2020.findings-emnlp.261/) - ***EMNLP'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11254432523766039890\&hl=en\&as_sdt=0,5)]. Generating answers to legal questions, analyze contracts, and summarizing legal documents, making legal knowledge more accessible to non-experts.
+
+*   [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506) - ***Bioinformatics***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2783127196632783403\&hl=en\&as_sdt=0,5)]. Answering medical questions, identifying relevant clinical trials, and diagnosing diseases based on symptoms, making medical information more accessible to the general public.
+
+*   [Finbert: A pre-trained financial language representation model for financial text mining](https://dl.acm.org/doi/abs/10.5555/3491440.3492062) - ***IJCAI'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17844713837232165872\&hl=en\&as_sdt=0,5)]. Predicting stock market trends, analyzing financial documents, and generating summaries of economic news articles, helping to disseminate financial knowledge.
+
+*   [SciBERT: A Pretrained Language Model for Scientific Text](https://aclanthology.org/D19-1371/) - ***EMNLP'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7377999893003631695\&hl=en\&as_sdt=0,5)]. Searching and synthesizing scientific literature, aiding researchers in hypothesis generation, and assisting with experimental design, making scientific knowledge more accessible.
+
+*   [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://aclanthology.org/2020.findings-emnlp.139/) - ***EMNLP'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9055786889913621082\&hl=en\&as_sdt=0,5)]. Completing code, generating programming documentation, and providing technical support, making programming knowledge more accessible to non-experts.
 
 \*[Back to Top](#c)
 
@@ -1743,13 +1757,15 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 #### Commonsense Knowledgebase
 
+*   [wikiHow](https://www.wikihow.com/Main-Page) - ***wikiHow\.com***. wikiHow is on website hosting step-by-step "How-to" procedural instructions across various domains and topics.
+
 *   [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://faculty.cc.gatech.edu/~isbell/classes/reading/papers/lenat95cyc.pdf) - ***Communications of the ACM***, 1995. \[[All Versions](https://scholar.google.com/scholar?cluster=6505009388871605141\&hl=en\&as_sdt=0,5)]. The first attempt to build large-scale commonse knoweldgebase from human knowledge.
 
 *   [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://arxiv.org/pdf/1612.03975.pdf) - ***AAAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7089916805257737701\&hl=en\&as_sdt=0,5)]. Latest version of ConceptNet.
 
 *   [The Public Acquisition of Commonsense Knowledge](https://www.aaai.org/Library/Symposia/Spring/2002/ss02-09-011.php) - ***Proceedings of AAAI Spring Symposium on Acquiring (and Using) Linguistic (and World) Knowledge for Information Access***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=12533779219524472080\&hl=en\&as_sdt=0,5)]. The first attempt for acquring commonsense knowlege from humans' activities on the internet.
 
-*   [Open Mind Common Sense: Knowledge Acquisition from the General Public](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.914\&rep=rep1\&type=pdf) - ***OTM Confederated International Conferences'02***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=11431785236825227404\&hl=en\&as_sdt=0,5)].
+*   [Open Mind Common Sense: Knowledge Acquisition from the General Public](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.914\&rep=rep1\&type=pdf) - ***OTM Confederated International Conferences'02***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=11431785236825227404\&hl=en\&as_sdt=0,5)]..
 
 *   [Verbosity: A Game for Collecting Common-Sense Facts](http://www.aladdin.cs.cmu.edu/papers/pdfs/y2006/verbosity.pdf) - ***CHI'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=7793704394155465847\&hl=en\&as_sdt=0,5)].
 
@@ -1931,11 +1947,13 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Unsupervised Structure Learning of Stochastic And-Or Grammars](http://www.stat.ucla.edu/~sczhu/papers/Conf_2013/Learning_AoG_NeurIPS_2013.pdf) - ***NeurIPS'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=4354984630817844670)].
 
-*   [Algorithms of Adaptation in Inductive Inference](https://psyarxiv.com/ysndt) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16222039361294164246\&hl=en\&as_sdt=0,5)].
+*   [Algorithms of Adaptation in Inductive Inference](https://psyarxiv.com/ysndt) - ***Cognitive Psychology***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16222039361294164246\&hl=en\&as_sdt=0,5)].
 
 *   [A representational analysis of numeration systems](https://www.sciencedirect.com/science/article/pii/0010027795006743) - ***Cognition***, 1995. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=8852566070856662412)].
 
 *   [Learning Program Representations for Food Images and Cooking Recipes](https://openaccess.thecvf.com/content/CVPR2022/html/Papadopoulos_Learning_Program_Representations_for_Food_Images_and_Cooking_Recipes_CVPR_2022_paper.html) - ***CVPR'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=7690010749576063125)].
+
+*   [Reasoning about Procedures with Natural Language Processing: A Tutorial](https://arxiv.org/abs/2205.07455) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11364086808527515615\&hl=en\&as_sdt=0,5)].
 
 \*[Back to Top](#c)
 
@@ -2029,7 +2047,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340v2.pdf) - ***ECCV'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=2027060030559987993\&hl=en\&as_sdt=0,5)].
 
-*   [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project (⭐994)](https://github.com/JosephKJ/OWOD)].
+*   [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project (⭐999)](https://github.com/JosephKJ/OWOD)].
 
 *   [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323) - ***MM'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?q=related:FZZr2BK0U6YJ:scholar.google.com/\&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes\&hl=en\&as_sdt=0,5)].
 

@@ -246,7 +246,7 @@ Thanks to all [contributors (⭐3.6k)](https://github.com/zudochkin/awesome-news
 
 ### R
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐647)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐652)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby
 
@@ -273,11 +273,12 @@ Thanks to all [contributors (⭐3.6k)](https://github.com/zudochkin/awesome-news
 ### Python
 
 *   [Python Weekly](https://www.pythonweekly.com/). A free weekly newsletter featuring curated news, articles, new releases, jobs etc related to Python.
-*   [Pycoders Weekly](https://pycoders.com/). A free weekly e-mail newsletter, on Fridays, for those interested in python development and various topics around python.
+*   [PyCoder's Weekly](https://pycoders.com/). A free, weekly email newsletter for those interested in Python development and various topics around Python and the communi‍‍‍ty.
 *   [Awesome Python Newsletter](https://python.libhunt.com/newsletter). A weekly overview of the most popular Python news, articles and packages.
 *   [Data Science Simplified](https://mathdatasimplified.com/). A daily Python and data science snippet.
 *   [Python Morsels Newsletter](https://www.pythonmorsels.com/newsletter/). One Python tip every week, sent on Wednesdays.
 *   [Python Trending Weekly](https://pythoncat.substack.com). A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more. It is written in Chinese, but most of the shared links come from the English-speaking world.
+*   [The Real Python Newsletter](https://realpython.com/newsletter/). Weekly programming and career tips for Python developers, including short & sweet "Python Tricks" code snippets.
 
 ### Groovy
 

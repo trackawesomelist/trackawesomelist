@@ -6,6 +6,12 @@
 
 [ [Daily](/content/TheComputerM/awesome-svelte/README.md) / Weekly / [Overview](/content/TheComputerM/awesome-svelte/readme/README.md) ]
 
+## [Jan 29 - Feb 04, 2024](/content/2024/5/README.md)
+
+### Form / Checkbox
+
+*   [Formsnap](https://www.formsnap.dev/docs/introduction) - High level Svelte components for forms, built on top of Superforms and Zod.
+
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
 ### UI Libraries
@@ -133,7 +139,7 @@
 
 ### Scaffold / Checkbox
 
-*   [create-vite (⭐62k)](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) - Generates scaffold for a vite + svelte app.
+*   [create-vite (⭐63k)](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) - Generates scaffold for a vite + svelte app.
 *   [create-svelte (⭐17k)](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) - A CLI for creating a new SvelteKit project.
 
 ### Routers / Checkbox

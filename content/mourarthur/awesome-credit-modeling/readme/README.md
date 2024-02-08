@@ -2,7 +2,7 @@
 
 A collection of awesome papers, articles and various resources on credit and credit risk modeling
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mourarthur/awesome-credit-modeling/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mourarthur/awesome-credit-modeling](https://github.com/mourarthur/awesome-credit-modeling) · ⭐ 66 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mourarthur/awesome-credit-modeling/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mourarthur/awesome-credit-modeling](https://github.com/mourarthur/awesome-credit-modeling) · ⭐ 104 · 🏷️ Miscellaneous
 
 [ [Daily](/content/mourarthur/awesome-credit-modeling/README.md) / [Weekly](/content/mourarthur/awesome-credit-modeling/week/README.md) / Overview ]
 
@@ -73,6 +73,8 @@ Credit scoring is the term used to describe formal statistical methods used for 
 *   [The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients](https://www.sciencedirect.com/science/article/abs/pii/S0957417407006719) - This research compares the predictive accuracy of probability of default among six data mining methods. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification.
 
 *   [Super-App Behavioral Patterns in Credit Risk Models: Financial, Statistical and Regulatory Implications](https://arxiv.org/abs/2005.14658) - Presents the impact of alternative data that originates from an app-based marketplace, in contrast to traditional bureau data, upon credit scoring models. These alternative data sources have shown themselves to be immensely powerful in predicting borrower behavior in segments traditionally underserved by banks and financial institutions. At the same time alternative data must be carefully validated to overcome regulatory hurdles across diverse jurisdictions.
+
+*   [Credit scoring methods: Latest trends and points to consider](https://www.sciencedirect.com/science/article/pii/S2405918822000095) - "(...) This article aims at providing a systemic review of the most recent (2016–2021) articles, identifying trends in credit scoring using a fixed set of questions. The survey methodology and questionnaire align with previous similar research that analyses articles on credit scoring published in 1991–2015. We seek to compare our results with previous periods and highlight some of the recent best practices in the field that might be useful for future researchers."
 
 ## Institutional Credit Risk
 

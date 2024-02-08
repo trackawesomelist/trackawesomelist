@@ -65,7 +65,8 @@ A collection of awesome things regarding the React ecosystem.
 #### React Development Tools
 
 *   [create-react-app (⭐101k)](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
-*   [vite (⭐62k)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
+*   [vite (⭐63k)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
+*   [million (⭐14k)](https://github.com/aidenybai/million) - An extremely fast and lightweight optimizing compiler
 *   [reactotron (⭐14k)](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
 *   [eslint-plugin-react (⭐8.7k)](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 *   [why-did-you-render (⭐11k)](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
@@ -156,7 +157,7 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Components Sandboxes
 
-*   [storybook (⭐81k)](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
+*   [storybook (⭐82k)](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
 *   [react-styleguidist (⭐11k)](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 *   [react-cosmos (⭐8k)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 
@@ -206,7 +207,7 @@ A collection of awesome things regarding the React ecosystem.
 *   [react-spring (⭐27k)](https://github.com/pmndrs/react-spring) - A spring physics based React animation library
 *   [framer-motion (⭐21k)](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 *   [auto-animate (⭐11k)](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
-*   [react-tsparticles (⭐6.2k)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
+*   [react-tsparticles (⭐6.3k)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
 *   [react-parallax-tilt (⭐852)](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
 
 #### React Integration

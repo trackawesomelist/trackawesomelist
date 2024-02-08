@@ -2,9 +2,39 @@
 
 Explore a curated selection of AI tools and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 63 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 73 · 🏷️ Computer Science
 
 [ [Daily](/content/Hyraze/ai-collective-tools/README.md) / Weekly / [Overview](/content/Hyraze/ai-collective-tools/readme/README.md) ]
+
+## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
+
+### Chatbots
+
+*   [Tidio](https://www.tidio.com/) - Tidio Live Chat & AI Chatbots , Accelerate your growth with AI customer service `#freemium`
+
+### Code Assistant
+
+*   [Sizzle AI](https://web.szl.ai/) - Sizzle isn't just any app It's your personalized AI-powered tutor with the mission to make learning amazing for all.Search any Maths, coding Problems with Sizzle. `#free`
+
+### Dating
+
+*   [DreamGF](https://dreamgf.ai/) - DreamGF uses AI algorithms to generate virtual partners according to user preferences. Users can customize the appearance, personality, and other traits. `#freemium`
+
+### Design Generator
+
+*   [svg.io](https://svg.io) - The power of AI with our Free Text-to-SVG Generator! Effortlessly convert your text prompts into stunning SVG images using our advanced AI technology. `free`
+
+### Image Generator
+
+*   [Leonardo](https://leonardo.ai) - Text-to-image Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency `#free`
+*   [pica-ai](https://www.pica-ai.com/) - Experience funny or realistic face swapping effects. Begin by uploading your photo!. `freemium`
+*   [Rentoor](https://rentoor.vercel.app) - Enhance your images with Rentoor's super-resolution feature, restoring clarity and detail for stunning visuals. `freemium`
+*   [stockimg.ai](https://stockimg.ai/) - Stockimg is an all in one design and content creation tool powered by AI. You can easily generate logo, illustration, wallpaper, poster and more. `#freemium`
+
+### Video Generator
+
+*   [FabDream AI](https://www.fabdream.art/) - Discover the world of Ai digital art through the lens of Swiss-based artist Fabio Comparelli aka fabdream. Immerse yourself in visually stunning Quality videos. `#freemium`
+*   [pika.art](https://pika.art/) - An idea-to-video platform that brings your creativity to motion. `#freemium`
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
@@ -228,7 +258,7 @@ Explore a curated selection of AI tools and resources
 *   [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. `#opensource` `#free`
 *   [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. `#opensource` `#free`
 *   [OPT](https://opt.alpa.ai/) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. `#opensource` `#free`
-*   [Qwen (⭐7.7k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
+*   [Qwen (⭐8.9k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
 
 ### Productivity
 
@@ -516,10 +546,6 @@ Explore a curated selection of AI tools and resources
 *   [Quillbot Paraphraser](https://try.quillbot.com/) - Rewrite text for free. `#freemium`
 *   [Rewriteit AI](https://rewriteit.ai/) - Rewrite with Confidence: Enhance Your Writing with AI Technology `#free`
 *   [StudyCrumb](https://studycrumb.com/paraphrasing-tool) - This essay rephraser can change the wording of any content `#free`
-
-### Presentations
-
-*   [Journey.io](https://journey.io/) - Journey.io is a storytelling platform that enables users to create interactive presentations, combining videos, slides, text, and embeds to captivate their audience. `#freemium`
 
 ### Productivity
 

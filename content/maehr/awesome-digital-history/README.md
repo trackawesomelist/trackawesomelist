@@ -6,6 +6,16 @@ Find primary sources online and learn how to research history digitally.
 
 [ Daily / [Weekly](/content/maehr/awesome-digital-history/week/README.md) / [Overview](/content/maehr/awesome-digital-history/readme/README.md) ]
 
+## [Jan 24, 2024](/content/2024/01/24/README.md)
+
+### Archives and primary sources / Africa
+
+*   [West African Arabic Manuscript Database](https://islam.zmo.de/s/westafrica/page/home) - A comprehensive collection of manuscripts that provides insight into the Islamic scholarly tradition in West Africa.
+
+### Learning / Switzerland
+
+*   [Introduction to Python for Humanists](https://python-textbook.pythonhumanities.com/intro.html) - A textbook offering a comprehensive introduction to Python programming, tailored for researchers and students in the humanities.
+
 ## [Dec 26, 2023](/content/2023/12/26/README.md)
 
 ### Archives and primary sources / Africa
@@ -315,8 +325,8 @@ Find primary sources online and learn how to research history digitally.
 
 *   [Computer History (⭐2.5k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
 *   [Data Visualization (⭐3.5k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
-*   [Research Tools (⭐1.8k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
-*   [Scientific Writing (⭐634)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Scientific writing can extend beyond LaTeX, made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.
+*   [Research Tools (⭐1.9k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
+*   [Scientific Writing (⭐642)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Scientific writing can extend beyond LaTeX, made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.
 
 ## [Nov 16, 2020](/content/2020/11/16/README.md)
 

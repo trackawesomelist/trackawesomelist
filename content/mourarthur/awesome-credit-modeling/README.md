@@ -2,9 +2,15 @@
 
 A collection of awesome papers, articles and various resources on credit and credit risk modeling
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mourarthur/awesome-credit-modeling/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mourarthur/awesome-credit-modeling](https://github.com/mourarthur/awesome-credit-modeling) · ⭐ 66 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mourarthur/awesome-credit-modeling/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mourarthur/awesome-credit-modeling](https://github.com/mourarthur/awesome-credit-modeling) · ⭐ 104 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/mourarthur/awesome-credit-modeling/week/README.md) / [Overview](/content/mourarthur/awesome-credit-modeling/readme/README.md) ]
+
+## [Feb 02, 2024](/content/2024/02/02/README.md)
+
+### Credit Scoring
+
+*   [Credit scoring methods: Latest trends and points to consider](https://www.sciencedirect.com/science/article/pii/S2405918822000095) - "(...) This article aims at providing a systemic review of the most recent (2016–2021) articles, identifying trends in credit scoring using a fixed set of questions. The survey methodology and questionnaire align with previous similar research that analyses articles on credit scoring published in 1991–2015. We seek to compare our results with previous periods and highlight some of the recent best practices in the field that might be useful for future researchers."
 
 ## [May 15, 2021](/content/2021/05/15/README.md)
 

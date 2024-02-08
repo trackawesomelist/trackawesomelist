@@ -6,6 +6,12 @@ A collection of awesome things regarding React ecosystem
 
 [ [Daily](/content/enaqx/awesome-react/README.md) / Weekly / [Overview](/content/enaqx/awesome-react/readme/README.md) ]
 
+## [Jan 29 - Feb 04, 2024](/content/2024/5/README.md)
+
+### React Development Tools
+
+*   [million (⭐14k)](https://github.com/aidenybai/million) - An extremely fast and lightweight optimizing compiler
+
 ## [Jan 22 - Jan 28, 2024](/content/2024/4/README.md)
 
 ### React Frameworks
@@ -86,7 +92,7 @@ A collection of awesome things regarding React ecosystem
 
 ### React Development Tools
 
-*   [vite (⭐62k)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
+*   [vite (⭐63k)](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
 *   [why-did-you-render (⭐11k)](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
 
 ### React Frameworks
@@ -153,7 +159,7 @@ A collection of awesome things regarding React ecosystem
 ### React Graphics and Animations
 
 *   [auto-animate (⭐11k)](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
-*   [react-tsparticles (⭐6.2k)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
+*   [react-tsparticles (⭐6.3k)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles effects
 
 ### React Integration
 
@@ -350,7 +356,7 @@ A collection of awesome things regarding React ecosystem
 
 ### React Components Sandboxes
 
-*   [storybook (⭐81k)](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
+*   [storybook (⭐82k)](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
 *   [react-styleguidist (⭐11k)](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 *   [react-cosmos (⭐8k)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 

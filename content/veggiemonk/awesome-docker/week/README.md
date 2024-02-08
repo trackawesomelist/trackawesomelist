@@ -6,6 +6,21 @@
 
 [ [Daily](/content/veggiemonk/awesome-docker/README.md) / Weekly / [Overview](/content/veggiemonk/awesome-docker/readme/README.md) ]
 
+## [Jan 29 - Feb 04, 2024](/content/2024/5/README.md)
+
+### Web / Other
+
+*   [dockemon (⭐505)](https://github.com/ProductiveOps/dokemon) - Docker Container Management GUI by [@productiveops](https://github.com/ProductiveOps)
+*   [dockge (⭐7.1k)](https://github.com/louislam/dockge) - easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager by [@louislam](https://github.com/louislam).
+
+### CI/CD / Other
+
+*   [Gantry (⭐12)](https://github.com/shizunge/gantry) - Automatically update selected Docker swarm services.
+
+### Garbage Collection / Other
+
+*   [Docuum (⭐539)](https://github.com/stepchowfun/docuum) - Least recently used (LRU) eviction of Docker images by [@stepchowfun](https://github.com/stepchowfun)
+
 ## [Jan 22 - Jan 28, 2024](/content/2024/4/README.md)
 
 ### IDE integrations
@@ -25,7 +40,7 @@
 
 ### CI/CD / Other
 
-*   [dockcheck (⭐594)](https://github.com/mag37/dockcheck) - A script checking updates for docker images without pulling then auto-update selected/all containers. With notifications, pruning and more.
+*   [dockcheck (⭐648)](https://github.com/mag37/dockcheck) - A script checking updates for docker images without pulling then auto-update selected/all containers. With notifications, pruning and more.
 
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
@@ -37,7 +52,7 @@
 
 ### Terminal / Terminal UI
 
-*   [oxker (⭐345)](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers. Written in [Rust](https://www.rust-lang.org/), making heavy use of [ratatui (⭐5.9k)](https://github.com/tui-rs-revival/ratatui) & [Bollard (⭐639)](https://github.com/fussybeaver/bollard), by [@mrjackwills](https://github.com/mrjackwills)
+*   [oxker (⭐363)](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers. Written in [Rust](https://www.rust-lang.org/), making heavy use of [ratatui (⭐5.9k)](https://github.com/tui-rs-revival/ratatui) & [Bollard (⭐671)](https://github.com/fussybeaver/bollard), by [@mrjackwills](https://github.com/mrjackwills)
 
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
@@ -244,7 +259,7 @@
 
 ### Security
 
-*   [Checkov (⭐6.2k)](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them. By [@bridgecrew](https://github.com/bridgecrewio)
+*   [Checkov (⭐6.3k)](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them. By [@bridgecrew](https://github.com/bridgecrewio)
 
 ## [Sep 05 - Sep 11, 2022](/content/2022/36/README.md)
 
@@ -540,7 +555,7 @@
 *   [docker-alpine (⭐5.7k)](https://github.com/gliderlabs/docker-alpine) - A super small Docker base image *(5MB)* using Alpine Linux by [@gliderlabs](https://github.com/gliderlabs)
 *   [docker-gen (⭐4.3k)](https://github.com/jwilder/docker-gen) - Generate files from docker container meta-data by [@jwilder](https://github.com/jwilder)
 *   [GoSu (⭐4.5k)](https://github.com/tianon/gosu) - Run this specific application as this specific user and get out of the pipeline (entrypoint script tool) by [@tianon](https://github.com/tianon)
-*   [is-docker (⭐210)](https://github.com/sindresorhus/is-docker) - Check if the process is running inside a Docker container by [@sindresorhus (⭐285k)](https://github.com/sindresorhus/awesome)
+*   [is-docker (⭐210)](https://github.com/sindresorhus/is-docker) - Check if the process is running inside a Docker container by [@sindresorhus (⭐287k)](https://github.com/sindresorhus/awesome)
 *   [lstags (⭐315)](https://github.com/ivanilves/lstags) - sync Docker images across registries by [@ivanilves](https://github.com/ivanilves)
 *   [NVIDIA-Docker (⭐17k)](https://github.com/NVIDIA/nvidia-docker) - The NVIDIA Container Runtime for Docker by [@NVIDIA](https://github.com/nvidia)
 *   [su-exec (⭐946)](https://github.com/ncopa/su-exec) - This is a simple tool that will simply execute a program with different privileges. The program will be executed directly and not run as a child, like su and sudo does, which avoids TTY and signal issues. Why reinvent gosu? This does more or less exactly the same thing as gosu but it is only 10kb instead of 1.8MB. By [ncopa](https://github.com/ncopa)
@@ -680,7 +695,7 @@
 *   [batect (⭐687)](https://github.com/batect/batect) - build and testing environments as code tool: Dockerised build and testing environments made easy by [@charleskorn](https://github.com/charleskorn)
 *   [Binci (⭐672)](https://github.com/binci/binci) - Containerize your development workflow. (formerly DevLab by [@TechnologyAdvice](https://github.com/TechnologyAdvice))
 *   [Boot2Docker (⭐8.3k)](https://github.com/boot2docker/boot2docker) :skull: - Docker for OSX and Windows
-*   [coder (⭐6.1k)](https://github.com/coder/coder) - remote development machines powered by Terraform or Docker by [@coder](https://github.com/coder)
+*   [coder (⭐6.2k)](https://github.com/coder/coder) - remote development machines powered by Terraform or Docker by [@coder](https://github.com/coder)
 *   [construi (⭐23)](https://github.com/lstephen/construi) - Run your builds inside a Docker defined environment by [@lstephen](https://github.com/lstephen)
 *   [Crashcart (⭐268)](https://github.com/oracle/crashcart) - Sideload Linux binaries into a running container for troubleshooting by [@Oracle](https://github.com/oracle)
 *   [dde (⭐40)](https://github.com/whatwedo/dde) :construction: - Local development environment toolset based on Docker. By [@whatwedo](https://github.com/whatwedo)
@@ -804,7 +819,7 @@
 *   [Awesome Compose (⭐28k)](https://github.com/docker/awesome-compose) - Docker Compose samples
 *   [Awesome Kubernetes (⭐15k)](https://github.com/ramitsurana/awesome-kubernetes) by [@ramitsurana](https://github.com/ramitsurana)
 *   [Awesome Linux Container (⭐1.6k)](https://github.com/Friz-zy/awesome-linux-containers) more general about container than this repo, by [@Friz-zy](https://github.com/Friz-zy).
-*   [Awesome Selfhosted (⭐165k)](https://github.com/awesome-selfhosted/awesome-selfhosted) list of Free Software network services and web applications which can be hosted locally by running in a classical way (setup local web server and run applications from there) or in a Docker container. By [@Kickball](https://github.com/Kickball)
+*   [Awesome Selfhosted (⭐167k)](https://github.com/awesome-selfhosted/awesome-selfhosted) list of Free Software network services and web applications which can be hosted locally by running in a classical way (setup local web server and run applications from there) or in a Docker container. By [@Kickball](https://github.com/Kickball)
 *   [Awesome Sysadmin (⭐21k)](https://github.com/n1trux/awesome-sysadmin) by [@n1trux](https://github.com/n1trux)
 *   [ToolsOfTheTrade (⭐16k)](https://github.com/cjbarber/ToolsOfTheTrade) a list of SaaS and On premise applications by [@cjbarber](https://github.com/cjbarber)
 

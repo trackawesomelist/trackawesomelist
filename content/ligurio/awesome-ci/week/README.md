@@ -6,6 +6,24 @@ List of Continuous Integration services
 
 [ [Daily](/content/ligurio/awesome-ci/README.md) / Weekly / [Overview](/content/ligurio/awesome-ci/readme/README.md) ]
 
+## [Jan 29 - Feb 04, 2024](/content/2024/5/README.md)
+
+- Name: [Dagger](https://dagger.io/)
+
+  Description: Application Delivery as Code that Runs Anywhere
+
+  Features: 
+
+  Supported repositories: GitHub, GitLab, Gitea
+
+  Documentation: [Documentation](https://docs.dagger.io/)
+
+  Price: [Open Source (⭐9.6k)](https://github.com/dagger/dagger)
+
+  Stars: 
+
+
+
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
 - Name: [Continuous](https://continuous.sh/)
@@ -26,7 +44,7 @@ List of Continuous Integration services
 
 ## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
 
-- Name: [Pipelight (⭐207)](https://github.com/pipelight/pipelight)
+- Name: [Pipelight (⭐249)](https://github.com/pipelight/pipelight)
 
   Description: Tiny rust cli to run automation pipelines.
 
@@ -36,7 +54,7 @@ List of Continuous Integration services
 
   Documentation: [Documentation](https://pipelight.dev)
 
-  Price: [Free & Open Source (⭐207)](https://github.com/pipelight/pipelight/LICENSE.md)
+  Price: [Free & Open Source (⭐249)](https://github.com/pipelight/pipelight/LICENSE.md)
 
   Stars: [![Stars](https://img.shields.io/github/stars/pipelight/pipelight.svg)](https://github.com/pipelight/pipelight)
 
@@ -104,7 +122,7 @@ List of Continuous Integration services
 
   Features: It consists of Tekton Pipelines, which provides the building blocks (as Kubernetes Custom Resources you can use to create your pipelines), and of supporting components, such as Tekton CLI and Tekton Catalog, that make Tekton a complete ecosystem
 
-  Supported repositories: GitHub, Gitlab, Bitbucket... [See triggers-examples (⭐520)](https://github.com/tektoncd/triggers/tree/main/examples/v1beta1), but extensible/customizable to support others
+  Supported repositories: GitHub, Gitlab, Bitbucket... [See triggers-examples (⭐526)](https://github.com/tektoncd/triggers/tree/main/examples/v1beta1), but extensible/customizable to support others
 
   Documentation: [Documentation](https://tekton.dev/docs/)
 
@@ -341,7 +359,7 @@ List of Continuous Integration services
 
   Documentation: [Documentation](https://kraken.ci/docs/)
 
-  Price: [Open Source (⭐113)](https://github.com/kraken-ci/kraken)
+  Price: [Open Source (⭐115)](https://github.com/kraken-ci/kraken)
 
   Stars: [![Stars](https://img.shields.io/github/stars/kraken-ci/kraken)](https://github.com/kraken-ci/kraken)
 
@@ -451,7 +469,7 @@ List of Continuous Integration services
 
 ## [Feb 03 - Feb 09, 2020](/content/2020/5/README.md)
 
-- Name: [Abstruse CI (⭐908)](https://github.com/bleenco/abstruse)
+- Name: [Abstruse CI (⭐907)](https://github.com/bleenco/abstruse)
 
   Description: Self-Hosted, Open-Source CI Platform. Based on NodeJS and Docker.
 
@@ -459,7 +477,7 @@ List of Continuous Integration services
 
   Supported repositories: GitHub, GitLab, BitBucket, Gogs
 
-  Documentation: [Documentation (⭐908)](https://github.com/bleenco/abstruse/tree/master/docs)
+  Documentation: [Documentation (⭐907)](https://github.com/bleenco/abstruse/tree/master/docs)
 
   Price: [Open Source](https://abstruse.bleenco.io)
 
@@ -558,7 +576,7 @@ List of Continuous Integration services
 
   Description: Mobile Continuous Integration and Delivery.
 
-  Features: [Source code (⭐814)](https://github.com/bitrise-io/bitrise) is available
+  Features: [Source code (⭐818)](https://github.com/bitrise-io/bitrise) is available
 
   Supported repositories: GitHub, BitBucket, Gitlab, Custom
 
@@ -588,7 +606,7 @@ List of Continuous Integration services
 
   Description: A build automation platform which gives you complete control, without the pain of running your own CI system.
 
-  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐773)](https://github.com/buildkite/agent)
+  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐775)](https://github.com/buildkite/agent)
 
   Supported repositories: GitHub, Bitbucket, GitLab, Custom
 

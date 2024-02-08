@@ -2,7 +2,7 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 708 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 721 · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / Overview ]
 
@@ -11,7 +11,7 @@ A curated list of awesome developer-first tools products.
 # Awesome Developer-First [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome developer-first products.\
-(Shameless plug) You might like [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter I created).\
+(👀 Shameless plug) You might like [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter I created).\
 You can follow [Agam](https://twitter.com/agammore) and [flo](https://twitter.com/fmerian) for more dev related content :)
 
 The definition of developer-first for this repo is:
@@ -25,13 +25,14 @@ The definition of developer-first for this repo is:
 + 👀 Watch this repo to get notifications about new products we find
 ```
 
-For the latest additions [click here (⭐703)](https://github.com/agamm/awesome-developer-first/commits/main).
+For the latest additions [click here (⭐721)](https://github.com/agamm/awesome-developer-first/commits/main).
 
 ## Contents
 
 *   [Analytics](#analytics)
 *   [Authentication & Identity](#authentication--identity)
 *   [Automation](#automation)
+*   [Backend-as-a-Service](#backend-as-a-service)
 *   [CI/CD](#cicd)
 *   [CMS (headless)](#cms-headless)
 *   [Code Quality](#code-quality)
@@ -74,9 +75,9 @@ For the latest additions [click here (⭐703)](https://github.com/agamm/awesome-
 *   [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events.
 *   [Mixpanel](https://mixpanel.com/) - Product analytics and dashboards.
 *   [Pirsch](https://pirsch.io/) - Privacy-friendly web analytics with a backend integration and API.
-*   [Plausible](https://plausible.io/) - Simple, privacy-friendly, and open-source web analytics tool. ![Plausible](https://img.shields.io/github/contributors-anon/plausible/analytics?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
-*   [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, blazingly fast analytics tool.
-*   [PostHog](https://posthog.com/) - Open-source product analytics platform. ![PostHog](https://img.shields.io/github/contributors-anon/posthog/posthog?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [Plausible](https://plausible.io/) - Simple, privacy-friendly, and open-source web analytics tool. [![Plausible](https://img.shields.io/github/stars/plausible/analytics?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/plausible/analytics)
+*   *   [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, blazingly fast analytics tool.
+*   [PostHog](https://posthog.com/) - Open-source product analytics platform. [![PostHog](https://img.shields.io/github/stars/posthog/posthog?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/posthog/posthog)
 *   [Segment](https://segment.com/) - Collect user data and send it to your other tools.
 *   [Tinybird](https://www.tinybird.co/) - Real-time data streams to APIs.
 
@@ -92,14 +93,15 @@ For the latest additions [click here (⭐703)](https://github.com/agamm/awesome-
 *   [Corbado](https://corbado.com) - Passkey-first authentication as a service.
 *   [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
 *   [FusionAuth](https://fusionauth.io/) - Security-centric authentication as a Service, including self-hosting.
-*   [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant. ![Hanko](https://img.shields.io/github/contributors-anon/teamhanko/hanko?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant. [![Hanko](https://img.shields.io/github/stars/teamhanko/hanko?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/teamhanko/hanko)
+*   [Kinde](https://kinde.com/) - Authentification and user management as a service.
 *   [LoginRadius](https://www.loginradius.com/) - Managed user authentication service with SSO.
 *   [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
 *   [Okta](https://developer.okta.com/) - Embeddable authentication with SSO.
 *   [Ory](https://ory.sh/) - Open-source identity & access-control solutions (also available as a service).
 *   [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
 *   [Permit.io](https://www.permit.io/) - Permissions and access-control as a service.
-*   [SuperTokens](https://supertokens.io/) - Open-source and hosted email & Oauth authentication with prebuilt UI. ![SuperTokens](https://img.shields.io/github/contributors-anon/supertokens/supertokens-core?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [SuperTokens](https://supertokens.io/) - Open-source and hosted email & Oauth authentication with prebuilt UI. [![SuperTokens](https://img.shields.io/github/stars/supertokens/supertokens-core?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/supertokens/supertokens-core)
 *   [Userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
 *   [WorkOS](https://workos.com/) - Enterprise SSO and more out-of-the-box enterprise features.
 
@@ -107,8 +109,15 @@ For the latest additions [click here (⭐703)](https://github.com/agamm/awesome-
 
 *Automate workflows via APIs and SDKs.*
 
-*   [n8n](http://n8n.io/) - Free and source-available fair-code licensed workflow automation tool. ![n8n](https://img.shields.io/github/contributors-anon/n8n-io/n8n?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
-*   [Trigger.dev](http://trigger.dev/) - Open-source platform to create workflows from APIs, on a schedule or on demand. ![trigger.dev](https://img.shields.io/github/contributors-anon/triggerdotdev/trigger.dev?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [n8n](http://n8n.io/) - Free and source-available fair-code licensed workflow automation tool. [![n8n](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/n8n-io/n8n)
+*   [Trigger.dev](http://trigger.dev/) - Open-source platform to create workflows from APIs, on a schedule or on demand. [![trigger.dev](https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/triggerdotdev/trigger.dev)
+
+## Backend-as-a-Service
+
+*Abstract away all the backend hassles with an out-of-the-box suite of backend solutions.*
+
+*   [Appwrite](https://appwrite.io/) - End-to-end backend server for frontend and mobile developers. [![Appwrite](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/appwrite/appwrite)
+*   [Supabase](https://supabase.io/) - Hosted and open source managed Postgres DB like Firebase. [![Supabase](https://img.shields.io/github/stars/supabase/supabase?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/supabase/supabase)
 
 ## CI/CD
 
@@ -117,7 +126,7 @@ For the latest additions [click here (⭐703)](https://github.com/agamm/awesome-
 *   [CircleCI](https://circleci.com/) - YML to configure your builds, parallel jobs, jobs marketplace.
 *   [Depot](https://depot.dev) - Drop-in replacement to build Docker images faster in CI.
 *   [GitLab](https://gitlab.com/) - Open-source CI and hosted solution with Github-like abilities.
-*   [Gitpod](https://www.gitpod.io/) - Automated cloud dev environments. ![Gitpod](https://img.shields.io/github/contributors-anon/gitpod-io/gitpod?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [Gitpod](https://www.gitpod.io/) - Automated cloud dev environments. [![Gitpod](https://img.shields.io/github/stars/gitpod-io/gitpod?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/gitpod-io/gitpod)
 *   [Spacelift](https://spacelift.io/) - CI/CD platform for infrastructure-as-code, currently supporting Terraform, Pulumi, AWS CloudFormation, and Kubernetes.
 
 ## CMS (headless)
@@ -126,9 +135,9 @@ For the latest additions [click here (⭐703)](https://github.com/agamm/awesome-
 
 *   [Contentful](http://contentful.com/) - CMS as an API.
 *   [ElegantCMS](https://www.elegantcms.io/) - Headless CMS builder.
-*   [Ghost](https://ghost.org/) - Blog platform, can be used as headless CMS (ex. [with Hexo](https://ghost.org/docs/api/v3/hexo/)). ![Ghost](https://img.shields.io/github/contributors-anon/tryghost/ghost?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [Ghost](https://ghost.org/) - Blog platform, can be used as headless CMS (ex. [with Hexo](https://ghost.org/docs/api/v3/hexo/)). [![Ghost](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/tryghost/ghost)
 *   [Sanity](https://sanity.io/) - Headless CMS, treat content as data.
-*   [Strapi](https://strapi.io/) - Open-source headless CMS, 100% JavaScript. ![Strapi](https://img.shields.io/github/contributors-anon/strapi/strapi?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [Strapi](https://strapi.io/) - Open-source headless CMS, 100% JavaScript. [![Strapi](https://img.shields.io/github/stars/strapi/strapi?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/strapi/strapi)
 
 ## Code Quality
 
@@ -152,10 +161,9 @@ For the latest additions [click here (⭐703)](https://github.com/agamm/awesome-
 
 *   [Airtable](https://airtable.com/) - Database and spreadsheet hybrid with an API.
 *   [Apitable](https://apitable.com/) - API-oritented Airtable alternative.
-*   [CrateDB](https://crate.io/) - Distributed open-source SQL database for real-time analytics. ![Crate](https://img.shields.io/github/contributors-anon/crate/crate?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [CrateDB](https://crate.io/) - Distributed open-source SQL database for real-time analytics. [![Crate](https://img.shields.io/github/stars/crate/crate?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/crate/crate)
 *   [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any kind of database.
 *   [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
-*   [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase. ![Supabase](https://img.shields.io/github/contributors-anon/supabase/supabase?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
 *   [Upstash](https://upstash.com/) - Serverless tailored redis provider.
 
 ## Debugging
@@ -202,7 +210,7 @@ For the latest additions [click here (⭐703)](https://github.com/agamm/awesome-
 
 *   [Bump.sh](https://bump.sh/) - API documentation and change management solution.
 *   [DeveloperHub](https://developerhub.io/) - Collaborative developer documentation platform.
-*   [Mintlify](https://www.mintlify.com/) - AI powered code documentation, IDE extension (open source). ![Mintlify](https://img.shields.io/github/contributors-anon/mintlify/writer?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [Mintlify](https://www.mintlify.com/) - AI powered code documentation, IDE extension (open source). [![Mintlify](https://img.shields.io/github/stars/mintlify/writer?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/mintlify/writer)
 *   [ReadMe](https://readme.com/) - Personalized and dynamic developer docs.
 *   [Swimm](https://swimm.io/) - Docs that are coupled with your code, auto-synced, works with your IDE.
 
@@ -221,10 +229,10 @@ For the latest additions [click here (⭐703)](https://github.com/agamm/awesome-
 *Control production features with conditional flags in your code.*
 
 *   [Flagsmith](https://flagsmith.com/) - Feature flags-as-a-service platform simplified.
-*   [GrowthBook](https://www.growthbook.io/) - Open-source feature flag and experimentation platform. ![GrowthBook](https://img.shields.io/github/contributors-anon/growthbook/growthbook?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [GrowthBook](https://www.growthbook.io/) - Open-source feature flag and experimentation platform. [![GrowthBook](https://img.shields.io/github/stars/growthbook/growthbook?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/growthbook/growthbook)
 *   [LaunchDarkly](https://launchdarkly.com/) - Feature flags-as-a-service platform.
 *   [Split](https://www.split.io/) - Feature flags platform with data analytics.
-*   [Unleash](https://www.getunleash.io/) - Open-source, privacy-first, and enterprise-ready feature management solution. ![Unleash](https://img.shields.io/github/contributors-anon/unleash/unleash?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [Unleash](https://www.getunleash.io/) - Open-source, privacy-first, and enterprise-ready feature management solution. [![Unleash](https://img.shields.io/github/stars/unleash/unleash?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/unleash/unleash)
 
 ## GEO
 
@@ -250,14 +258,14 @@ For the latest additions [click here (⭐703)](https://github.com/agamm/awesome-
 *Declare your infrastructure and reproducibly provision cloud infrastrucure from it.*
 
 *   [Pulumi](https://www.pulumi.com/) -  Developer-first IaC with Python, TypeScript, Go and more languages...
-*   [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...). ![Terraform](https://img.shields.io/github/contributors-anon/hashicorp/terraform?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...). [![Terraform](https://img.shields.io/github/stars/hashicorp/terraform?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/hashicorp/terraform)
 
 ## Integrations
 
 *Integration management systems or products that ease integration development.*
 
 *   [Apideck](https://www.apideck.com) - Integration marketplace builder, one-API with 3rd parties for quick development.
-*   [Revert](https://revert.dev) - Open-source unified API to build B2B product integrations. ![Revert](https://img.shields.io/github/contributors-anon/revertinc/revert?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [Revert](https://revert.dev) - Open-source unified API to build B2B product integrations. [![Revert](https://img.shields.io/github/stars/revertinc/revert?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/revertinc/revert)
 *   [Sequin](https://sequin.io/) - Interface with third-party services using SQL.
 *   [Vessel](https://www.vessel.dev/) - Developer-first, native integration platform for GTM tools.
 
@@ -277,6 +285,7 @@ For the latest additions [click here (⭐703)](https://github.com/agamm/awesome-
 *   [Hunter.io](https://hunter.io/) - Email lead and validation APIs.
 *   [Imitate Email](https://imitate.email) - End-to-end email testing tool.
 *   [Lob](https://www.lob.com/) - Email and address verification.
+*   [Loops](https://loops.so/) - REST API to manage contact properties, send events and transactional emails.
 *   [Mailgun](https://www.mailgun.com/) - Send, track, and receive emails.
 *   [Resend](https://resend.com/) - Email API to build, test, and deliver transactional emails.
 *   [Sendgrid](https://sendgrid.com/) - Email API.
@@ -301,7 +310,7 @@ For the latest additions [click here (⭐703)](https://github.com/agamm/awesome-
 *   [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
 *   [Knock](https://knock.app) - Notifications as a service.
 *   [MagicBell](https://www.magicbell.com/) - Real-time notification system with API & UI components.
-*   [Novu](https://novu.co/) - Open-source notification (Email, SMS, Direct, and Push) management. ![Novu](https://img.shields.io/github/contributors-anon/novuhq/novu?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [Novu](https://novu.co/) - Open-source notification (Email, SMS, Direct, and Push) management. [![Novu](https://img.shields.io/github/stars/novuhq/novu?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/novuhq/novu)
 *   [Stream](https://getstream.io/) - Feed and chat as a service.
 *   [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
 *   [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
@@ -323,6 +332,7 @@ For the latest additions [click here (⭐703)](https://github.com/agamm/awesome-
 
 *   [Airbrake](https://airbrake.io) - Error monitoring in production.
 *   [Better Stack](https://betterstack.com/) - Uptime monitoring, incident management, and status pages.
+*   [Highlight.io](https://www.highlight.io/) - Full-stack monitoring platform. [![Highlight.io](https://img.shields.io/github/stars/highlight/highlight?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/highlight/highlight)
 *   [KeenIO](https://keen.io/) - Event streaming platform.
 *   [LogRocket](https://logrocket.com/) - Replay bugs users had.
 *   [Rollbar](https://rollbar.com/) - Reports errors in production.
@@ -332,7 +342,7 @@ For the latest additions [click here (⭐703)](https://github.com/agamm/awesome-
 
 *Interactions with natural language.*
 
-*   [CometLLM (⭐332)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. ![Comet](https://img.shields.io/github/contributors-anon/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [CometLLM (⭐355)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
 *   [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google.
 
 ## Orchestration
@@ -377,7 +387,7 @@ For the latest additions [click here (⭐703)](https://github.com/agamm/awesome-
 *Fetching data from websites not via an intended API.*
 
 *   [Apify](https://apify.com/) - Turn websites to an API.
-*   [browserless](https://browserless.io) - Browser automation deployed to the could. ![browserless](https://img.shields.io/github/contributors-anon/browserless/browserless?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [browserless](https://browserless.io) - Browser automation deployed to the could. [![browserless](https://img.shields.io/github/stars/browserless/browserless?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/browserless/browserless)
 *   [Crawlbase](https://proxycrawl.com/) - Scrape hard-to-scrape websites with proxies.
 *   [ScrapingANT](https://scrapingant.com/) - Scrape with headless chrome.
 *   [ScrapingBee](https://www.scrapingbee.com/) - Using headless browsers and proxies to scrape without being blocked.
@@ -389,9 +399,9 @@ For the latest additions [click here (⭐703)](https://github.com/agamm/awesome-
 *Index and search your content as a service API.*
 
 *   [Algolia](https://www.algolia.com/) - Search as a service and full suite of search APIs.
-*   [Meilisearch](https://www.meilisearch.com/) - Open-source, fast and relevant search engine. ![Meilisearch](https://img.shields.io/github/contributors-anon/meilisearch/meilisearch?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [Meilisearch](https://www.meilisearch.com/) - Open-source, fast and relevant search engine. [![Meilisearch](https://img.shields.io/github/stars/meilisearch/meilisearch?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/meilisearch/meilisearch)
 *   [Swiftype](https://swiftype.com/) - Search as a service (crawlers and React ready).
-*   [Typesense Cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service. ![Typesense](https://img.shields.io/github/contributors-anon/typesense/typesense?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [Typesense Cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service. [![Typesense](https://img.shields.io/github/stars/typesense/typesense?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/typesense/typesense)
 *   [Websolr](https://www.websolr.com/) - Open-source and hosted search with Solr.
 
 ## Security
@@ -400,7 +410,7 @@ For the latest additions [click here (⭐703)](https://github.com/agamm/awesome-
 
 *   [Bearer](https://www.bearer.com/) - Static application security testing (SAST) tool for JavaScript and Ruby stacks.
 *   [GitGuardian](https://www.gitguardian.com/) - Real-time GitHub activity scanner.
-*   [Infisical](https://infisical.com) - Open-source, end-to-end encrypted secrets manager. ![Infisical](https://img.shields.io/github/contributors-anon/infisical/infisical?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [Infisical](https://infisical.com) - Open-source, end-to-end encrypted secrets manager. [![Infisical](https://img.shields.io/github/stars/infisical/infisical?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/infisical/infisical)
 *   [Snyk](https://snyk.io/) - Vulnerability scanner for code, dependencies, containers, and infrastructure as code.
 *   [Socket](https://socket.dev/) - Detect and block open-source supply chain attacks.
 
@@ -419,8 +429,9 @@ For the latest additions [click here (⭐703)](https://github.com/agamm/awesome-
 *   [Blackfire.io](https://blackfire.io/) - Performance testing.
 *   [Chromatic](https://www.chromatic.com/) - Visual UI testing for storybook.
 *   [Ddosify](https://ddosify.com/) - Distributed Performance Testing Platform.
-*   [Firecamp](https://firecamp.io) - DX first open-source API dev tool alternative to Postman. ![Firecamp](https://img.shields.io/github/contributors-anon/firecamp-dev/firecamp?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [Firecamp](https://firecamp.io) - DX first open-source API dev tool alternative to Postman. [![Firecamp](https://img.shields.io/github/stars/firecamp-dev/firecamp?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/firecamp-dev/firecamp)
 *   [Loadmill](https://www.loadmill.com/) - Generate tests from user behavior.
+*   [Octomind](https://www.octomind.dev/) -  Auto-generated, run and maintained Playwright UI tests with AI-assisted test case discovery.
 *   [Percy](https://percy.io/) - Continuous visual testing.
 *   [Testim](https://www.testim.io/) - Frontend testing.
 
@@ -428,5 +439,5 @@ For the latest additions [click here (⭐703)](https://github.com/agamm/awesome-
 
 ## Contributing
 
-See here: [CONTRIBUTING.md (⭐703)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md (⭐721)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
 

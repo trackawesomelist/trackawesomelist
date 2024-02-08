@@ -2,9 +2,15 @@
 
 Protection of natural persons with regard to the processing of personal data and on the free movement of such data.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bakke92/awesome-gdpr/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bakke92/awesome-gdpr](https://github.com/bakke92/awesome-gdpr) · ⭐ 148 · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bakke92/awesome-gdpr/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bakke92/awesome-gdpr](https://github.com/bakke92/awesome-gdpr) · ⭐ 151 · 🏷️ Security
 
 [ [Daily](/content/bakke92/awesome-gdpr/README.md) / Weekly / [Overview](/content/bakke92/awesome-gdpr/readme/README.md) ]
+
+## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
+
+### Records of Processing (art. 30)
+
+*   [Iubenda - Register of data processing activities](https://www.iubenda.com/en/internal-privacy-management)
 
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
@@ -93,11 +99,11 @@ Protection of natural persons with regard to the processing of personal data and
 
 ### Privacy by Design - Guides for developers (art. 25)
 
-*   [CNIL - GDPR Developer Guide (⭐307)](https://github.com/LINCnil/GDPR-Developer-Guide)
+*   [CNIL - GDPR Developer Guide (⭐308)](https://github.com/LINCnil/GDPR-Developer-Guide)
 
 ### Tools
 
-*   [Website Evidence Collector (WEC) (⭐373)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
+*   [Website Evidence Collector (WEC) (⭐401)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
 
 ### Publications
 
@@ -152,7 +158,7 @@ Protection of natural persons with regard to the processing of personal data and
 *   [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
 *   [Google, SRE: Managing Incidents](https://landing.google.com/sre/sre-book/chapters/managing-incidents/)
 *   [Troy Hunt: Data breach disclosure 101](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
-*   [Awesome Incident Response (⭐6.8k)](https://github.com/meirwah/awesome-incident-response)
+*   [Awesome Incident Response (⭐6.9k)](https://github.com/meirwah/awesome-incident-response)
 *   [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) - Overview of fines and penalties.
 
 ### Data Protection Authorities (art. 51 -59)
@@ -176,5 +182,5 @@ Protection of natural persons with regard to the processing of personal data and
 ### Related
 
 *   [Privacy Respecting (⭐1.9k)](https://github.com/nikitavoloboev/privacy-respecting)
-*   [Awesome: Security (⭐285k)](https://github.com/sindresorhus/awesome#security)
+*   [Awesome: Security (⭐287k)](https://github.com/sindresorhus/awesome#security)
 *   [Awesome: Humane Tech (⭐3k)](https://github.com/humanetech-community/awesome-humane-tech#readme)

@@ -2,9 +2,24 @@
 
 The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 491 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 553 · 🏷️ Computer Science
 
 [ [Daily](/content/mostafatouny/awesome-theoretical-computer-science/README.md) / Weekly / [Overview](/content/mostafatouny/awesome-theoretical-computer-science/readme/README.md) ]
+
+## [Jan 22 - Jan 28, 2024](/content/2024/4/README.md)
+
+### Lecture Notes / Monograph
+
+*   [Chekuri. Approximation Algorithmis Illinois](https://courses.engr.illinois.edu/cs583/fa2021/) - A broad introduction to results and techniques with an emphasis on fundamental problems and widely applicable tools. Also more advanced and specialized topics.
+*   [Dinitz. Approximation Algorithms. Johns Hopkins](https://www.cs.jhu.edu/~mdinitz/classes/ApproxAlgorithms/Spring2021/) - It includes greedy, local search, dynamic programming, randomized rounding, tree embeddings, and semidefinite programming.
+*   [Gupta & Ravi. Approximation Algorithms. CMU](http://www.cs.cmu.edu/afs/cs/academic/class/15854-f05/www/) - It includes convex programming-based, randomness, and metric methods.
+
+### Books / Monograph
+
+*   [Williamson & Shmoys. The Design of Approximation Algorithms](https://www.designofapproxalgs.com/) - It includes greedy, local search algorithms, dynamic programming, linear and semidefinite programming, and randomization.
+*   [Du & Ko. Design and Analysis of Approximation Algorithms](https://u.pcloud.link/publink/show?code=XZpzNWXZSCkVs6BKd5RzyNhoRzfJCJoaqSok) - A technique-oriented approach provides a unified view. It includes detailed algorithms, proofs, analyses, examples, and applications from research papers.
+*   [Vijay Vazirani. Approximation Algorithms](https://u.pcloud.link/publink/show?code=XZgHNWXZkdvT8L18drSSgLP9vqBIDmbPreD7)
+*   Fedor Fomin. Parametrized Algorithms - Modern comprehensive explanation of recent tools and techniques with exercises, for graduate students.
 
 ## [Sep 25 - Oct 01, 2023](/content/2023/39/README.md)
 
@@ -143,8 +158,8 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 ### Network Groups / Monograph
 
-*   [Mathematics (⭐7.5k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
-*   P.S. See also [Math (⭐2.8k)](https://github.com/ossu/math) and [CS (⭐149k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
+*   [Mathematics (⭐7.9k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
+*   P.S. See also [Math (⭐3.3k)](https://github.com/ossu/math) and [CS (⭐157k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
 
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 
@@ -349,8 +364,8 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 *   [Copeland, Posy & Shagrir (editors). Computability: Turing, Gödel, Church, and Beyond](https://mitpress.mit.edu/books/computability) - Computer scientists, mathematicians, and philosophers discuss the conceptual foundations of the notion of computability as well as recent theoretical developments.
 *   [Pudlák. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction](https://www.springer.com/gp/book/9783319001180) - Presents a wide range of results in logic and computational complexity.
-*   [Demaine. Games, Puzzles, and Computation](https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226) - It shows that games and puzzles can serve as powerful models of computation, Offering a new way of thinking about computation.
 *   [Knuth. The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) - A legendary series by Donald Knuth on design and analysis of algorithms.
+*   [Demaine. Games, Puzzles, and Computation](https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226) - It shows that games and puzzles can serve as powerful models of computation, Offering a new way of thinking about computation.
 *   [Lindell. Tutorials on the Foundations of Cryptography](https://link.springer.com/book/10.1007/978-3-319-57048-8) - Advanced tutorials appropriate for self-study by experienced researchers,
 *   [Goldreich. Modern Cryptography, Probabilistic Proofs and Pseudorandomness](https://www.wisdom.weizmann.ac.il/~oded/book1.html) - An introduction to the interwoven domains of cryptography, proofs and randomness.
 *   [Feynman. Feynman And Computation: Exploring The Limits Of Computers](https://www.taylorfrancis.com/books/feynman-computation-anthony-hey/e/10.1201/9780429500459)
@@ -482,6 +497,6 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 *   [PolyTCS](https://polytcs.wordpress.com/) - A project which promotes massive collaborations to solve theoretical computer science problems.
 *   [Complexity Network](https://sites.google.com/view/complexitynetwork/home) - Hosts collaboration between the three computational complexity groups at Imperial College London, University of Oxford and University of Warwick. It promotes smooth flow of ideas between the three groups and beyond.
 *   [List of TCS Conferences and Workshops](https://cstheory.blogoverflow.com/theoretical-computer-science-conferences-and-workshops/) - A list of conferences and workshops in theoretical computer science.
-*   [Algorithms (⭐15k)](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
-*   [Cryptography (⭐4.9k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
-*   [Quantum Computing (⭐2.2k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
+*   [Algorithms (⭐17k)](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
+*   [Cryptography (⭐5.2k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
+*   [Quantum Computing (⭐2.3k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing

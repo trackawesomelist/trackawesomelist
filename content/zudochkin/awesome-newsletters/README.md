@@ -6,6 +6,13 @@ A list of amazing Newsletters
 
 [ Daily / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 
+## [Jan 29, 2024](/content/2024/01/29/README.md)
+
+### Python / Svelte
+
+*   [PyCoder's Weekly](https://pycoders.com/). A free, weekly email newsletter for those interested in Python development and various topics around Python and the communi‍‍‍ty.
+*   [The Real Python Newsletter](https://realpython.com/newsletter/). Weekly programming and career tips for Python developers, including short & sweet "Python Tricks" code snippets.
+
 ## [Dec 26, 2023](/content/2023/12/26/README.md)
 
 ### General Web Development
@@ -773,7 +780,7 @@ A list of amazing Newsletters
 
 ### R / Svelte
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐647)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐652)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby / Svelte
 
@@ -791,7 +798,6 @@ A list of amazing Newsletters
 ### Python / Svelte
 
 *   [Python Weekly](https://www.pythonweekly.com/). A free weekly newsletter featuring curated news, articles, new releases, jobs etc related to Python.
-*   [Pycoders Weekly](https://pycoders.com/). A free weekly e-mail newsletter, on Fridays, for those interested in python development and various topics around python.
 *   [Awesome Python Newsletter](https://python.libhunt.com/newsletter). A weekly overview of the most popular Python news, articles and packages.
 
 ### Groovy / Svelte

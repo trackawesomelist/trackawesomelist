@@ -2,7 +2,7 @@
 
 👔 How to transition from software development to engineering management
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-engineering-team-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) · ⭐ 1.5K · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-engineering-team-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) · ⭐ 1.8K · 🏷️ Business
 
 [ [Daily](/content/kdeldycke/awesome-engineering-team-management/README.md) / [Weekly](/content/kdeldycke/awesome-engineering-team-management/week/README.md) / Overview ]
 
@@ -18,9 +18,9 @@
 
 <p align="center">
   <a href="https://github.com/sponsors/kdeldycke">
-    <strong>Yᴏᴜʀ Mᴀɴᴀɢᴇᴍᴇɴᴛ & Tᴇᴀᴍ Pʀᴏᴅᴜᴄᴛ ʜᴇʀᴇ!</strong>
+    <strong>Yᴏᴜʀ Pʀᴏᴅᴜᴄᴛ ʜᴇʀᴇ!</strong>
     <br/>
-    <sup>Add a link to your company or project here: back me up via a GitHub sponsorship.</sup>
+    <sup>Add a link to your company or project here: purchase a GitHub sponsorship.</sup>
   </a>
 </p>
 
@@ -38,9 +38,9 @@ A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sin
 *   You're stuck into the day-to-day operations of the job?
 *   How can I move up to the next level?
 
-You'll find answers in this guide! It stands out from generic leadership and management literature, by providing uncompromising insights and practical advices to bootstrap your journey into the management career track, from a technical background.
+You'll find answers in this guide! It stands out from generic leadership and management literature, by providing uncompromising insights and practical advices. It will bootstrap your journey into the management career track, from a technical background.
 
-This list provides a progression to help with the transition to management. From general to specifics. It starts with an overview of the role, then describes its requirements, and its position relative to others. Then we delves into the day-to-day tools of the trade, both organizational and behavioral. At last we discuss about some of the dark sides of the job.
+This list helps in the transition to management, with a progression from general to specifics. It starts with an overview of the role, then describes its requirements, and its position relative to others. Then we details the day-to-day tools of the trade, both organizational and behavioral. At last we discuss some of the dark sides of the job.
 
 ## Contents
 
@@ -127,7 +127,7 @@ This list provides a progression to help with the transition to management. From
 
 ## Engineering to Management Transition
 
-The first step. The hardest: how to requalify oneself from an Individual Contributor (IC) to a front-line manager.
+The first step. The hardest. How to requalify oneself from an Individual Contributor (IC) to a front-line manager.
 
 *   You always been a developer. Being offered [a management position is not a promotion. It is a change in career](https://fractio.nl/2014/09/19/not-a-promotion-a-career-change/).
 
@@ -165,7 +165,7 @@ You got the title and the pay grade. Congratulation! This doesn't make you a man
 
 *   [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - “Google's data indicated that psychological safety, more than anything else, was critical to making a team work. (…) The behaviors that create psychological safety — conversational turn-taking and empathy — are part of the same unwritten rules we often turn to, as individuals, when we need to establish a bond.”
 
-*   [Paper we love: Software Engineering Organizations (⭐76k)](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) - “The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.”
+*   [Paper we love: Software Engineering Organizations (⭐81k)](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) - “The practice of software engineering, and its history is, itself, a complex study in humanity, coordination, and communication.”
 
 *   [Developer Tropes: "Google does it"](https://tomaytotomato.com/developer-tropes-2/) - It's [cargo-cultish](https://en.wikipedia.org/wiki/Cargo_cult) to imitate the big names in our industry as a path to success. Instead, the take home from this article “would be that managers and other leaders should be like ecologists; who measure, observe and nurture their ecosystems. Doing so will help build a unique workplace that will yield great results.”
 
@@ -253,7 +253,7 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 *   [5 Things I've Learned in 20 Years of Programming](https://daedtech.com/5-things-ive-learned-in-20-years-of-programming/) - “A programmer with 5 years of experienced has more industry tenure than half of the entire industry.” Also see this follow-up comment of [10 things I've learned after 35 years](https://news.ycombinator.com/item?id=21612990).
 
-*   [Devs I really enjoy pairing with](https://twitter.com/ScribblingOn/status/1002598672444448768) - “Don't act like know-it-alls; Openly admit if they don't know something; Try to figure stuff out together”.
+*   [Devs I really enjoy pairing with](https://twitter.com/ScribblingOn/status/1002598672444448768) - “Don't act like know-it-all; Openly admit if they don't know something; Try to figure stuff out together”.
 
 *   [All the best engineering advice I stole from non-technical people](https://medium.com/@bellmar/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f) - “It's intriguing that the stuff that really seems to make a difference in the quality of software never seems to be about software.”
 
@@ -285,9 +285,9 @@ You're in a competitive sector in which talents are in high demand. Be prepared 
 
 By targeting the right place to post your job offer to, you're increasing your chances of targeting the right candidates.
 
-*   [Awesome Job Boards (⭐834)](https://github.com/tramcar/awesome-job-boards) - Niche job boards by domains, technology, roles and area.
+*   [Awesome Job Boards (⭐1.1k)](https://github.com/tramcar/awesome-job-boards) - Niche job boards by domains, technology, roles and area.
 
-*   [Hiring Without Whiteboards (⭐38k)](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
+*   [Hiring Without Whiteboards (⭐40k)](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
 
 ### Hiring Process
 
@@ -301,7 +301,7 @@ High-growth company will all need to industrialize the hiring process at one poi
 
 *   [Job Interviewing Guide](https://www.homerun.co/artofwork/guides/job-interviewing) - A detailed description of a hiring process, a great source of inspiration for when your company gets big enough to start to formalize things up.
 
-*   [Open Sourced Interview Process (⭐381)](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”
+*   [Open Sourced Interview Process (⭐391)](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs published their process “to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions.”
 
 *   [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring) - “Testing programmers at something they aren't actually expected to be good at and expecting to learn something about how they would work at your company is delusional, and I think these kind of interviews only serve to make the hiring team feel smarter and ensure better outcomes for engineers with traditional CS backgrounds.”
 
@@ -309,13 +309,13 @@ High-growth company will all need to industrialize the hiring process at one poi
 
 List of questions that can be used when vetting potential candidates, and topics to draw inspiration from to be used as conversation starters.
 
-*   [The Technical Interview is an Ego Trip](https://web.archive.org/web/20221101193146/https://kowsheek.com/the-technical-interview-is-an-ego-trip/) - Starts with anecdote of developers using a job interview as a vehicule to demonstrate their superiority. Then the author details a reasonable interview process that is trying to not waste anyone's time.
+*   [The Technical Interview is an Ego Trip](https://web.archive.org/web/20221101193146/https://kowsheek.com/the-technical-interview-is-an-ego-trip/) - Starts with anecdote of developers using a job interview as a vehicle to demonstrate their superiority. Then the author details a reasonable interview process that is trying to not waste anyone's time.
 
 *   [The Intangible Skills You Can't Interview For](https://staysaasy.com/leadership/2021/04/12/the-intangible-skills-you-cant-interview-for.html) - “1) Cut-Through on Crappy Tasks; 2) Knowing How to Finish; 3) Knowing How to Start; 4) Giving (And Receiving) Diagonal Feedback; 5) Harnessing the Value of Intangibles.”
 
-*   [Back-End Developer Interview Questions (⭐14k)](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A great source of inspiration.
+*   [Back-End Developer Interview Questions (⭐15k)](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A great source of inspiration.
 
-*   [Engineering Leadership Interviews (⭐93)](https://github.com/kaushikb9/em-interviews) - An outline on how to recruit for engineering manager roles.
+*   [Engineering Leadership Interviews (⭐104)](https://github.com/kaushikb9/em-interviews) - An outline on how to recruit for engineering manager roles.
 
 *   [Reverse interview (⭐26k)](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview. Be prepared to answer them as a manager.
 
@@ -341,9 +341,9 @@ The absence of coding exercise will left the door open to fraud. OTOH, if elitis
 
 *   [FizzBuzz 2.0: Pragmatic Programming Questions for Software Engineers](https://web.archive.org/web/20211020130141/https://triplebyte.com/blog/fizzbuzz-2-0-pragmatic-programming-questions-for-software-engineers) - Five multiple-choice questions to easily separate the real software engineers from the rest.
 
-*   [FizzBuzz Enterprise Edition (⭐19k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A satire of over-engineering for the sake of enterprise-grade software.
+*   [FizzBuzz Enterprise Edition (⭐20k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A satire of over-engineering for the sake of enterprise-grade software.
 
-*   [Awesome Interviews (⭐57k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A huge database of questions sorted by topic to get inspiration from.
+*   [Awesome Interviews (⭐64k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A huge database of questions sorted by topic to get inspiration from.
 
 ### Negotiation
 
@@ -443,7 +443,7 @@ Expansive lists of well-known models and concepts.
 
 *   [A Few Rules](https://www.collaborativefund.com/blog/a-few-rules/) - A formalized list of some wisdom you probably encountered elsewhere.
 
-*   [Awesome Concepts (⭐454)](https://github.com/lukasz-madon/awesome-concepts) - Laws, principles, mental models and cognitive biases.
+*   [Awesome Concepts (⭐463)](https://github.com/lukasz-madon/awesome-concepts) - Laws, principles, mental models and cognitive biases.
 
 *   [UX Core](https://keepsimple.io/uxcore) - 105 cognitive biases with simple descriptions, brief and detailed examples.
 
@@ -495,11 +495,13 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 
 *   [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/) - “A tool for gaining a shared understanding of responsibilities”.
 
-*   [When your coworker does great work, tell their manager](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/) - Highlighting unseen work in public allows managers to recognize efforts their reports are doing. Still, there is some cases in which it might put your collegue in a tight spot. So always ask if it's ok first.
+*   [When your coworker does great work, tell their manager](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/) - Highlighting unseen work in public allows managers to recognize efforts their reports are doing. Still, there is some cases in which it might put your colleague in a tight spot. So always ask if it's ok first.
 
 *   [Eye Candy QA](https://techreflect.net/2020/01/05/eye-candy-qa-2005-2011/) - Retelling of author's job at Apple: “John Louch was my boss. (…) John always shared everything with us, even the *don't share this with your team* stuff. We were people he trusted, so it was as it should be. It made you feel like you were part of something greater.” Or why sharing some open secret promote strong trust in your entourage.
 
-*   [A conversation with Elon Musk about Starship](https://youtu.be/cIQ36Kt7UVg?t=203) - In a team with very talented contributors, everyone's is a chief engineer: you are expected to challenge the status-quo and questions other department's constraints. This allow smart engineers to avoid the trap of optimizing for something that should not exist in the first place.
+*   [The Apollo Syndrome](https://www.teamtechnology.co.uk/tt/t-articl/apollo.htm) - A phenomenon discovered by Dr Meredith Belbin, and exposed in his 1981 [book on Management Teams](https://www.amazon.com/dp/1856178072?\&linkCode=ll1\&tag=kevideld-20\&linkId=486a53a41992fa334ccd6de4b3f689e1\&language=en_US\&ref_=as_li_ss_tl), where teams of highly capable individuals can, collectively, perform badly.
+
+*   [A conversation with Elon Musk about Starship](https://youtu.be/cIQ36Kt7UVg?t=203) - In a team with very talented contributors, everyone's is a chief engineer: you are expected to challenge the status-quo and questions other department's constraints. This allow smart engineers to avoid the trap of optimizing for something that should not exist in the first place. Might be a cure for the Apollo Syndrome.
 
 *   [Symptoms of Groupthink](https://web.archive.org/web/20210925184712/https://courses.washington.edu/psii101/Powerpoints/Symptoms%20of%20Groupthink.htm) - Overconfidence, tunnel vision and conformity pressure can led a group astray.
 
@@ -533,7 +535,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 *   [Living with Complexity, by Donald A. Norman](https://www.amazon.com/Living-Complexity-Donald-Norman-2010/dp/B00DEKM5GK?_encoding=UTF8\&qid=1686404524\&sr=1-1\&linkCode=ll1\&tag=kevideld-20\&linkId=497ae387bbd398624d897bdfbf90f7b6\&language=en_US\&ref_=as_li_ss_tl) - In which we learn that, based on [Tesler's law of the conservation of complexity](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity), “the total complexity of a system is a constant: as you make the person's interaction simpler, the hidden complexity behind the scenes increases. Make one part of the system simpler, said Tesler, and the rest of the system gets more complex.”
 
-*   [The Efficiency-Destroying Magic of Tidying Up](https://flocrivello.com/the-efficiency-destroying-magic-of-tidying-up/) - “Efficiency tends to look messy, and good looks tend to be inefficient.” A reminder that sometimes we should just accept [the messiness of the world (⭐22k)](https://github.com/kdeldycke/awesome-falsehood).
+*   [The Efficiency-Destroying Magic of Tidying Up](https://flocrivello.com/the-efficiency-destroying-magic-of-tidying-up/) - “Efficiency tends to look messy, and good looks tend to be inefficient.” A reminder that sometimes we should just accept [the messiness of the world (⭐23k)](https://github.com/kdeldycke/awesome-falsehood).
 
 *   [I try to optimize my code around reducing state, coupling, complexity and code, in that order](https://news.ycombinator.com/item?id=11042400) - An engineer's perspective on which priorities should be addressed first to increase robustness of systems.
 
@@ -545,7 +547,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 *   [Choose Well-known Technology](https://news.ycombinator.com/item?id=23445535) - A rephrasing of the above advice. “Choose the technology: 1. You know in and out, and are immediately productive with; 2. Which is sure to be around in 5-7 years, preferably 10-15; 3. For which you are comfortable hiring the next 15 engineers.”
 
-*   [Industry Data Models](http://www.databaseanswers.org/data_models/) - A huge list of database templates to represent any business process.
+*   [Industry Data Models](https://web.archive.org/web/20220330034214/http://databaseanswers.org/data_models/) - A huge list of database templates collected over 25 years by Barry Williams to represent any business process.
 
 *   [I thought that using loops was cheating…](https://www.facebook.com/spliceofficial/photos/a.555206991212765/679408552125941/?type=1\&theater) - How much is too much? Libraries, whether software or audio loops, are tools. A typical case of [NIH syndrome](https://en.wikipedia.org/wiki/Not_invented_here) transposed to music production.
 
@@ -561,7 +563,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 *   [Software Engineering's Greatest Hits](https://www.youtube.com/watch?v=HrVtA-ue-x0) - When scientific method meet the practice of software development. My takeaways: the best metric is less lines of code, there is no 10x developers, too much unused configuration options, pair programing is for transfer of domain-specific knowledge and hackathon don't produce long term projects.
 
-*   [Code reviews at Google (⭐19k)](https://github.com/google/eng-practices/blob/master/review/reviewer/speed.md#why-should-code-reviews-be-fast-why) - “Why Should Code Reviews Be Fast? (…) To optimize for the speed at which a team of developers can produce a product together, as opposed to optimizing for the speed at which an individual developer can write code.”
+*   [Code reviews at Google (⭐20k)](https://github.com/google/eng-practices/blob/master/review/reviewer/speed.md#why-should-code-reviews-be-fast-why) - “Why Should Code Reviews Be Fast? (…) To optimize for the speed at which a team of developers can produce a product together, as opposed to optimizing for the speed at which an individual developer can write code.”
 
 *   [Google Engineering Practices](https://google.github.io/eng-practices/) - Explains how to perform code reviews and how to submit them.
 
@@ -595,7 +597,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 *   [A guide to distributed teams](https://increment.com/teams/a-guide-to-distributed-teams/) - A nice wrap up on the numerous dispositions required to have a highly effective distributed team.
 
-*   [Awesome Remote Job (⭐26k)](https://github.com/lukasz-madon/awesome-remote-job) - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
+*   [Awesome Remote Job (⭐27k)](https://github.com/lukasz-madon/awesome-remote-job) - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
 
 ## Meetings
 
@@ -615,7 +617,7 @@ The most important meetings you'll have are frequent 1:1s with your direct repor
 
 *   [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/) - A personal list of high-level questions from a manager.
 
-*   [1 on 1 Meeting Questions (⭐9.4k)](https://github.com/VGraupera/1on1-questions) - A mega list in which most of them are great starters for conversation, some others are clearly bad ideas. A great source of inspiration nonetheless, but choose carefully.
+*   [1 on 1 Meeting Questions (⭐9.5k)](https://github.com/VGraupera/1on1-questions) - A mega list in which most of them are great starters for conversation, some others are clearly bad ideas. A great source of inspiration nonetheless, but choose carefully.
 
 ### Standups
 
@@ -643,11 +645,11 @@ The Product Manager is supposed to be the *voice of the market*. Here are more l
 
 *   “You're the broker for a lot of unstructured information and have to fend off all kinds of disruptive influences to land even close to where you're trying to go.” ([source](https://news.ycombinator.com/item?id=19050555))
 
-*   [Awesome Product Management (⭐1.1k)](https://github.com/dend/awesome-product-management) - A reference. All the missing pieces are found below.
+*   [Awesome Product Management (⭐1.2k)](https://github.com/dend/awesome-product-management) - A reference. All the missing pieces are found below.
 
 *   [Principles for Great Product Managers](https://reeve.blog/blog/principles/) - A concise wrap-up of all dimensions a PM oprates along.
 
-*   [Open Product Management (⭐3.6k)](https://github.com/tron1991/open-product-management) - Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.
+*   [Open Product Management (⭐3.7k)](https://github.com/tron1991/open-product-management) - Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.
 
 *   [Things Many People Find Too Obvious To Have Told You Already](https://twitter.com/patio11/status/936615043126370306) - A set of heuristics on tech companies and the ecosystem they live in.
 
@@ -655,7 +657,7 @@ The Product Manager is supposed to be the *voice of the market*. Here are more l
 
 *   [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html) - Lots of wisdom about space program management.
 
-*   [How to exit vim, the Product Manager way (⭐6.5k)](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
+*   [How to exit vim, the Product Manager way (⭐6.7k)](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
 
 ### Hiring PMs
 
@@ -713,7 +715,7 @@ On how to focus on user's problem to have your product delivers value.
 
 How to find users, grow your customer base and make people talks about you product.
 
-*   [Marketing for Engineers (⭐12k)](https://github.com/LisaDziuba/Marketing-for-Engineers) - Lots of resources to help bootstrap your marketing activies and solve practical tasks.
+*   [Marketing for Engineers (⭐13k)](https://github.com/LisaDziuba/Marketing-for-Engineers) - Lots of resources to help bootstrap your marketing activities and solve practical tasks.
 
 *   [How the biggest consumer apps got their first 1,000 users](https://www.lennyrachitsky.com/p/how-the-biggest-consumer-apps-got) - How the biggest apps out there started: from going to your user directly (both online and offline), creating FOMO and word-of-mouth, to build a community first and get press.
 
@@ -893,7 +895,7 @@ Once you have the right structure and content thanks to advices above, you can n
 
 *   [Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication) - Microsoft's guide on how to improve writing to be more inclusive and diverse.
 
-*   [alex (⭐4.6k)](https://github.com/get-alex/alex) - Whether your own or someone else's writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
+*   [alex (⭐4.7k)](https://github.com/get-alex/alex) - Whether your own or someone else's writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
 
 *   [BlaBlaMeter - Bullshit detection tool](http://www.blablameter.com/) - Produce a normalized metric of the bullshit content of a text.
 
@@ -931,7 +933,7 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 
 *   [Amazon Wants to 'Win at Games.' So Why Hasn't It?](https://www.wired.com/story/amazon-wants-to-win-at-games-so-why-hasnt-it/) - “Any product manager can go between any business—from groceries to film to games to Kindle. The skillset is interchangeable. They just have to learn the particular market.”
 
-*   “Since managers are not tied to a sector (in the way nurses or musicians are), the good ones tend to go where they are payed good money and the bad ones end up wreaking havoc where they are payed at least some money. That, also, is [Baumol](https://en.wikipedia.org/wiki/Baumol%27s_cost_disease) in action.” ([source](https://news.ycombinator.com/item?id=20448929)) - Explains how the pool of professional managers gets distributed into the various sectors of the economy.
+*   “Since managers are not tied to a sector (in the way nurses or musicians are), the good ones tend to go where they are paid good money and the bad ones end up wreaking havoc where they are paid at least some money. That, also, is [Baumol](https://en.wikipedia.org/wiki/Baumol%27s_cost_disease) in action.” ([source](https://news.ycombinator.com/item?id=20448929)) - Explains how the pool of professional managers gets distributed into the various sectors of the economy.
 
 ### Promotion
 
@@ -979,6 +981,8 @@ It's not only about the salary, but the whole package: equity, bonuses, perks, a
 
 *   [L8-L10 salaries at AWS](https://news.ycombinator.com/item?id=21823987) - A reference point to what $M+ compensation packages looks like.
 
+*   [Why new hires often get paid more than existing employees](https://bloomberry.com/why-new-hires-often-get-paid-more-than-existing-employees/) - “and why the best way to get a bigger pay is to move to a new job.”
+
 *   [Salaries never stay secrets forever. Hiding them only delays the inevitable.](https://news.ycombinator.com/item?id=2439478)
 
 ### Equity
@@ -1007,13 +1011,15 @@ Here we are, at the intersection of power and influence lies the political game.
 
 *   [The 48 Laws of Power](https://www.amazon.com/dp/0140280197?\&linkCode=ll1\&tag=kevideld-20\&linkId=bf129d7f7a3495a445cf2bf667d3d3c6\&language=en_US\&ref_=as_li_ss_tl) - By Robert Greene. Can teach you how to cover your ass and be effective in a highly political org.
 
+*   [7 Rules of Power](https://www.amazon.com/Rules-Power-Surprising-but-True-Advice-Advance/dp/1637741227?_encoding=UTF8\&qid=\&sr=\&linkCode=ll1\&tag=kevideld-20\&linkId=1a2a7107ccffa7b19e03cdb88e616daf\&language=en_US\&ref_=as_li_ss_tl) - By Jeffery Pfeffer. Tells you [how to play office politics if success in the workplace is the only thing you care about](https://news.ycombinator.com/item?id=39084979).
+
 *   [Selectorate theory](https://en.wikipedia.org/wiki/Selectorate_theory) - “In selectorate theory, three groups of people affect leaders. These groups are the nominal selectorate, the real selectorate, and the winning coalition. (…) To remain in power, leaders must maintain their winning coalition.”
 
 *   [Circulation of elite](https://en.wikipedia.org/wiki/Circulation_of_elite) - “Changes of regime, revolutions, and so on occur not when rulers are overthrown from below, but when one elite replaces another.”
 
-*   [The Rules for Rulers](https://www.youtube.com/watch?v=rStL7niR7gs) - “Smart key supporters will always watch the balance of power, ready to change allegience if the ruler look to be the loser in a shifting web of alliances. (…) Buy all the loyalty you can, because loyalty, in dictatorial organizations of all kinds, is everything.”
+*   [The Rules for Rulers](https://www.youtube.com/watch?v=rStL7niR7gs) - “Smart key supporters will always watch the balance of power, ready to change allegiance if the ruler look to be the loser in a shifting web of alliances. (…) Buy all the loyalty you can, because loyalty, in dictatorial organizations of all kinds, is everything.”
 
-*   “Playing the game well is now front and center” ([source](https://news.ycombinator.com/item?id=21925738)), or why the [Key practices for achieving large professional goals](https://nodramadevops.com/2019/12/key-practices-for-achieving-large-professional-goals/) is missing the parts about office politics.
+*   “Playing the game well is now front and center” ([source](https://news.ycombinator.com/item?id=21925738)), or why the [key practices for achieving large professional goals](https://nodramadevops.com/2019/12/key-practices-for-achieving-large-professional-goals/) is missing the parts about office politics.
 
 *   [“Company I've worked for had manager who tried to ship features over the weekend with a ragtag team of developers who don't understand why that's a bad idea.”](https://news.ycombinator.com/item?id=22285123) - Tactics of hustling managers, and how the company reacting to that kind of manager makes or break a good place to work.
 
@@ -1039,7 +1045,7 @@ Here we are, at the intersection of power and influence lies the political game.
 
 ## Re-organizations
 
-As a manager, you have direct responsability of the structure of the team. Past a certain size (around 8 to 12 depending on sources), you no longer have time to work with direct ICs, so you need to re-organize the team.
+As a manager, you have direct responsibility of the structure of the team. Past a certain size (around 8 to 12 depending on sources), you no longer have time to work with direct ICs, so you need to re-organize the team.
 
 At a company level, re-orgs are mostly strategic and your influence on them depends on your political acumen.
 
@@ -1073,7 +1079,7 @@ At a company level, re-orgs are mostly strategic and your influence on them depe
 
 ### Acquisition
 
-A special case of re-org, that might take the form of inclusion, absorbtion or dissolution of the acquired company.
+A special case of re-org, that might take the form of inclusion, absorption or dissolution of the acquired company.
 
 *   [How the Digg team was acquihired](https://lethain.com/digg-acquihire/) - Acqui-hire of a whole team can be seen as a type of reorg. In which managers will have to negotiate the new employment contracts in bulk in one or two days: “Because acquihires are “star” oriented, if you're a senior leaders who doesn't explicitly refuse to move forward, pressure will converge on you from all sides”.
 
@@ -1171,7 +1177,7 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ## Footnotes
 
-The [header image (⭐1.5k)](https://github.com/kdeldycke/awesome-engineering-team-management/blob/main/assets/awesome-management-header.png) is based on a modified [photo taken in November 2017](https://unsplash.com/photos/6dDHofabCQ8) by [Werner Du plessis](https://unsplash.com/@werner01).
+The [header image (⭐1.8k)](https://github.com/kdeldycke/awesome-engineering-team-management/blob/main/assets/awesome-management-header.png) is based on a modified [photo taken in November 2017](https://unsplash.com/photos/6dDHofabCQ8) by [Werner Du plessis](https://unsplash.com/@werner01).
 
 <!--lint disable no-undefined-references-->
 
