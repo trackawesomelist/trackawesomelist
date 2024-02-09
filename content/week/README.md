@@ -797,6 +797,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Digital Library Federation (DLF) 2024 Forum](https://forum2024.diglib.org) – July 29–31 at Michigan State U., East Lansing, Michigan, USA.
 *   [International Conference on Document Analysis and Recognition (ICDAR) 2024](https://icdar2024.net) – Aug. 30–Sep. 4 in Athens, Greece.
 
+#### [52. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+
+##### Miscellaneous / Checkbox
+
+*   [css-3d-progress (⭐0)](https://github.com/rofixro/css-3d-progress) - A 3D Progress Bar component
+
 ---
 
 - Next: [Jan 29 - Feb 04, 2024](&#x2F;content&#x2F;2024&#x2F;5&#x2F;README.md)
@@ -1028,7 +1034,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 - [Awesome Actions](/content/sdras/awesome-actions/README.md) - ([Source ⭐ 20K, 📝 21&#x2F;10&#x2F;15 ](https://github.com/sdras/awesome-actions)) - A curated list of awesome actions to use on GitHub
 - [Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md) - ([Source ⭐ 2.9K, 📝 22&#x2F;11&#x2F;14 ](https://github.com/alfred-workflows/awesome-alfred-workflows)) - A curated list of awesome alfred workflows
-- [Awesome Bash](/content/awesome-lists/awesome-bash/README.md) - ([Source ⭐ 6.8K, 📝 01&#x2F;06 ](https://github.com/awesome-lists/awesome-bash)) - A curated list of delightful Bash scripts and resources.
+- [Awesome Bash](/content/awesome-lists/awesome-bash/README.md) - ([Source ⭐ 6.9K, 📝 01&#x2F;06 ](https://github.com/awesome-lists/awesome-bash)) - A curated list of delightful Bash scripts and resources.
 - [Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md) - ([Source ⭐ 2.8K, 📝 23&#x2F;10&#x2F;24 ](https://github.com/stefanbuck/awesome-browser-extensions-for-github)) - A collection of awesome browser extensions for GitHub.
 - [Awesome Ci](/content/ligurio/awesome-ci/README.md) - ([Source ⭐ 3.4K, 📝 02&#x2F;02 ](https://github.com/ligurio/awesome-ci)) - List of Continuous Integration services
 - [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 12K, 📝 23&#x2F;09&#x2F;12 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
@@ -1132,7 +1138,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md) - ([Source ⭐ 1.6K, 📝 18&#x2F;10&#x2F;30 ](https://github.com/TalAter/awesome-service-workers)) - :nut_and_bolt: A collection of awesome resources for learning Service Workers
 - [Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md) - ([Source ⭐ 1.7K, 📝 23&#x2F;08&#x2F;09 ](https://github.com/agarrharr/awesome-static-website-services)) - 📄 🛠 A curated list of awesome static websites services
 - [Awesome Storybook](/content/lauthieb/awesome-storybook/README.md) - ([Source ⭐ 295, 📝 22&#x2F;11&#x2F;12 ](https://github.com/lauthieb/awesome-storybook)) - A collection of awesome resources about @storybookjs ecosystem 🎨
-- [Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md) - ([Source ⭐ 1.2K, 📝 02&#x2F;02 ](https://github.com/TheComputerM/awesome-svelte)) - ⚡ A curated list of awesome Svelte resources
+- [Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md) - ([Source ⭐ 1.2K, 📝 02&#x2F;09 ](https://github.com/TheComputerM/awesome-svelte)) - ⚡ A curated list of awesome Svelte resources
 - [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 12K, 📝 01&#x2F;12 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
 - [Awesome Text Editing](/content/dok/awesome-text-editing/README.md) - ([Source ⭐ 245, 📝 20&#x2F;06&#x2F;18 ](https://github.com/dok/awesome-text-editing)) - Collection of text editing resources and libraries for the web
 - [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 4.3K, 📝 23&#x2F;12&#x2F;26 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
