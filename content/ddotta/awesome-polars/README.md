@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Feb 09, 2024](/content/2024/02/09/README.md)
+
+### Libraries/Packages/Scripts / Python
+
+*   [Python package polars-ds (⭐117)](https://github.com/abstractqqq/polars_ds_extension) - Python package that contains multiple extension to simplify common numerical/string data analysis procedures by [@abstractqqq](https://github.com/abstractqqq).
+
 ## [Feb 08, 2024](/content/2024/02/08/README.md)
 
 ### Libraries/Packages/Scripts / Python

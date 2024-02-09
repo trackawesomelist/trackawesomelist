@@ -59,6 +59,7 @@ A curated list of Artificial Intelligence Top Tools
 ### Related Awesome Lists / Deep Learning
 
 *   [Awesome AI Books (⭐41)](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
+*   [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
 
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 

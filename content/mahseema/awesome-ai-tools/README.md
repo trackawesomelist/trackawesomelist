@@ -6,6 +6,12 @@ A curated list of Artificial Intelligence Top Tools
 
 [ Daily / [Weekly](/content/mahseema/awesome-ai-tools/week/README.md) / [Overview](/content/mahseema/awesome-ai-tools/readme/README.md) ]
 
+## [Feb 09, 2024](/content/2024/02/09/README.md)
+
+### Related Awesome Lists / Deep Learning
+
+*   [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
+
 ## [Feb 08, 2024](/content/2024/02/08/README.md)
 
 ### Text / Writing assistants
