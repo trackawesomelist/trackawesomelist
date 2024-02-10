@@ -769,6 +769,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Domain-specific languages: an annotated bibliography](https://dl.acm.org/doi/abs/10.1145/352029.352035) - ***ACM SIGPLAN Notices***, 2000. \[[All Versions](https://scholar.google.com/scholar?cluster=8845429548327315750\&hl=en\&as_sdt=0,5)]. A survey on the topic of domain-specific languages as used for the construction and maintenance of software systems.
 
+*   [Usability Evaluation of Domain-Specific Languages](http://www-ctp.di.fct.unl.pt/QUASAR/Resources/Papers/2012/Barisic2012SEDES.pdf) - ***ICQICT'12***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=3047215455890195199\&hl=en\&as_sdt=0,5)]. An initiative arguing that a systematic approach based on User Interface experimental validation techniques should be used to assess the impact of new DSLs.
+
 \*[Back to Top](#c)
 
 #### Design Practises

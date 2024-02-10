@@ -6,6 +6,16 @@ A list of awesome AI in libraries, archives, and museum collections from around 
 
 [ Daily / [Weekly](/content/AI4LAM/awesome-ai4lam/week/README.md) / [Overview](/content/AI4LAM/awesome-ai4lam/readme/README.md) ]
 
+## [Feb 10, 2024](/content/2024/02/10/README.md)
+
+### Learning Resources / Computer vision
+
+*   [Computer Vision for Heritage Collections](https://docs.google.com/document/d/1FpKfX4hI38ZKG81osa3bXgitEArxK45NKmT6NOyrnJk) – French-language 2 hr workshop designed to introduce computer vision applications to cultural heritage professionals
+
+### Conferences and Workshops / Upcoming Conferences and Workshops
+
+*   [BitCurator Forum](https://bitcuratorconsortium.org/forum) – Mar. 19–22 virtual event on digital forensics, digital archives, and related digital analysis workflows
+
 ## [Feb 07, 2024](/content/2024/02/07/README.md)
 
 ### Learning Resources / Other "awesome" lists in AI and ML
@@ -15,7 +25,7 @@ A list of awesome AI in libraries, archives, and museum collections from around 
 *   [Awesome Deep Vision (⭐11k)](https://github.com/kjw0612/awesome-deep-vision#readme)
 *   [Awesome Document Understanding (⭐1k)](https://github.com/tstanislawek/awesome-document-understanding#readme)
 *   [Awesome Image Classification (⭐2.7k)](https://github.com/weiaicunzai/awesome-image-classification#readme)
-*   [Awesome Machine Learning (⭐62k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
+*   [Awesome Machine Learning (⭐63k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
 *   [Awesome Machine Learning & Deep Learning Tutorials (⭐15k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
 *   [Awesome Natural Language Generation (⭐434)](https://github.com/accelerated-text/awesome-nlg#readme)
 *   [Awesome NLP (⭐16k)](https://github.com/keon/awesome-nlp#readme)
@@ -36,7 +46,7 @@ A list of awesome AI in libraries, archives, and museum collections from around 
 
 ### Conferences and Workshops / Upcoming Conferences and Workshops
 
-*   [Digital Library Federation (DLF) 2024 Forum](https://forum2024.diglib.org) – July 29–31 at Michigan State U., East Lansing, Michigan, USA.
+*   [Digital Library Federation (DLF) 2024 Forum](https://forum2024.diglib.org) – Jul. 29–31 at Michigan State U., East Lansing, Michigan, USA.
 *   [International Conference on Document Analysis and Recognition (ICDAR) 2024](https://icdar2024.net) – Aug. 30–Sep. 4 in Athens, Greece.
 
 ## [Jan 25, 2024](/content/2024/01/25/README.md)

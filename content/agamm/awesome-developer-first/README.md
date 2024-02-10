@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Feb 10, 2024](/content/2024/02/10/README.md)
+
+### Misc
+
+*   [Defer](https://defer.run/) - Serverless Node.js background jobs.
+
 ## [Feb 06, 2024](/content/2024/02/06/README.md)
 
 ### Monitoring

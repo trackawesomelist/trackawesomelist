@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Feb 10, 2024](/content/2024/02/10/README.md)
+
+### Domain Specific Language / Design Theory
+
+*   [Usability Evaluation of Domain-Specific Languages](http://www-ctp.di.fct.unl.pt/QUASAR/Resources/Papers/2012/Barisic2012SEDES.pdf) - ***ICQICT'12***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=3047215455890195199\&hl=en\&as_sdt=0,5)]. An initiative arguing that a systematic approach based on User Interface experimental validation techniques should be used to assess the impact of new DSLs.
+
 ## [Feb 09, 2024](/content/2024/02/09/README.md)
 
 ### Domain Specific Language / Design Practises

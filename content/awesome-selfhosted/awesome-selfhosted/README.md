@@ -8,6 +8,10 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Feb 10, 2024](/content/2024/02/10/README.md)
 
+### Software / Media Streaming - Audio Streaming
+
+*   [HoloPlay](https://app.holoplay.io) `⚠` - Web app using Invidious API for listening to Youtube audio sources. ([Source Code (⭐54)](https://github.com/stephane-r/holoplay-pwa)) `MIT` `Nodejs/Docker`
+
 ### Software / Software Development - FaaS & Serverless
 
 *   [CASE](https://case.app) - Lightweight BaaS (Backend As A Service) requiring minimal coding, with database, admin panel, API, and Javascript SDK. ([Source Code (⭐172)](https://github.com/casejs/case)) `MIT` `Nodejs`

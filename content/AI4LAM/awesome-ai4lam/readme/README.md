@@ -57,7 +57,7 @@ This list is a collection of resources, tools, projects, and other materials for
 
 This list is maintained by the [AI4LAM](https://www.ai4lam.org/) community. Its aim is to support knowledge sharing, innovation, and collaboration in applying AI to LAM.
 
-## Learning Resources<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
+## Learning Resources<a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
 
 Please note: the appearance of a resource on this list does not constitute an official endorsement by AI4LAM.
 
@@ -77,17 +77,18 @@ Please note: the appearance of a resource on this list does not constitute an of
 ### Computer vision
 
 *   [A Gentle Introduction to Computer Vision](https://machinelearningmastery.com/what-is-computer-vision/) – from Machine Learning Mastery
+*   [Computer Vision for Heritage Collections](https://docs.google.com/document/d/1FpKfX4hI38ZKG81osa3bXgitEArxK45NKmT6NOyrnJk) – French-language 2 hr workshop designed to introduce computer vision applications to cultural heritage professionals
 *   [Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification](https://programminghistorian.org/en/lessons/computer-vision-deep-learning-pt1) – two-part intro by the Programming Historian
 
 ### Natural language processing
 
 *   [A Code-First Introduction to NLP](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) – by Rachel Thomas of fast.ai
-*   [NLP course](https://lena-voita.github.io/nlp_course.html) and associated [GitHub repo](https://github.com/yandexdataschool/nlp_course#readme) – by Elena Voita
+*   [NLP course](https://lena-voita.github.io/nlp_course.html) and associated [GitHub repo (⭐9.2k)](https://github.com/yandexdataschool/nlp_course#readme) – by Elena Voita
 *   [NLP accelerated class](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw) – by Machine Learning University
 *   [Overview of deep learning techniques applied to NLP (2018)](https://nlpoverview.com/index.html)
 *   [Deep Learning for NLP](https://machinelearningmastery.com/category/natural-language-processing/) – from Machine Learning Mastery
-*   [Hands-on NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial#readme)
-*   [NLP in Python - Quickstart Guide](https://github.com/NirantK/NLP_Quickbook#readme)
+*   [Hands-on NLTK Tutorial (⭐535)](https://github.com/hb20007/hands-on-nltk-tutorial#readme)
+*   [NLP in Python - Quickstart Guide (⭐557)](https://github.com/NirantK/NLP_Quickbook#readme)
 *   [Deep Learning for NLP With Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html)
 
 ### Generative AI
@@ -102,7 +103,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 *   [Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118), by Google
 *   [Generative AI for Beginners - A Course](https://microsoft.github.io/generative-ai-for-beginners/#/), by Microsoft
 *   [Understanding LLMs – A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
-*   [Large Language Model Course](https://github.com/mlabonne/llm-course#readme)
+*   [Large Language Model Course (⭐23k)](https://github.com/mlabonne/llm-course#readme)
 *   [A Generative AI Primer](https://nationalcentreforai.jiscinvolve.org/wp/2023/10/16/generative-ai-primer/), by the UK's National Centre for AI
 
 ### AI in galleries, libraries, archives and museums
@@ -112,37 +113,37 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Other "awesome" lists in AI and ML
 
-*   [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-*   [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp#readme)
-*   [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
-*   [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
-*   [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
-*   [Awesome Document Understanding](https://github.com/tstanislawek/awesome-document-understanding#readme)
-*   [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai#readme)
-*   [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification#readme)
-*   [Awesome Jupyter GLAM](https://github.com/LibraryCarpentry/awesome-jupyter-glam#readme)
-*   [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
-*   [Awesome Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
-*   [Awesome Natural Language Generation](https://github.com/accelerated-text/awesome-nlg#readme)
-*   [Awesome NLP](https://github.com/keon/awesome-nlp#readme)
-*   [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning#readme)
-*   [Awesome Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme)
-*   [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer#readme)
-*   [Awesome XAI](https://github.com/altamiracorp/awesome-xai#readme)
+*   [Awesome Computer Vision (⭐19k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
+*   [Awesome Deep Learning for Natural Language Processing (NLP) (⭐1.2k)](https://github.com/brianspiering/awesome-dl4nlp#readme)
+*   [Awesome Deep Learning (⭐22k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
+*   [Awesome Deep Learning Resources (⭐1.6k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
+*   [Awesome Deep Vision (⭐11k)](https://github.com/kjw0612/awesome-deep-vision#readme)
+*   [Awesome Document Understanding (⭐1k)](https://github.com/tstanislawek/awesome-document-understanding#readme)
+*   [Awesome Generative AI (⭐4k)](https://github.com/steven2358/awesome-generative-ai#readme)
+*   [Awesome Image Classification (⭐2.7k)](https://github.com/weiaicunzai/awesome-image-classification#readme)
+*   [Awesome Jupyter GLAM (⭐19)](https://github.com/LibraryCarpentry/awesome-jupyter-glam#readme)
+*   [Awesome Machine Learning (⭐63k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
+*   [Awesome Machine Learning & Deep Learning Tutorials (⭐15k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
+*   [Awesome Natural Language Generation (⭐434)](https://github.com/accelerated-text/awesome-nlg#readme)
+*   [Awesome NLP (⭐16k)](https://github.com/keon/awesome-nlp#readme)
+*   [Awesome Production Machine Learning (⭐15k)](https://github.com/EthicalML/awesome-production-machine-learning#readme)
+*   [Awesome Software Engineering for Machine Learning (⭐1.2k)](https://github.com/SE-ML/awesome-seml#readme)
+*   [Awesome Visual Transformer (⭐3.2k)](https://github.com/dk-liang/Awesome-Visual-Transformer#readme)
+*   [Awesome XAI (⭐113)](https://github.com/altamiracorp/awesome-xai#readme)
 *   [The NLP Index](https://index.quantumstat.com)
 
-## Tools and Frameworks<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
+## Tools and Frameworks<a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
 
 Note: datasets for training and testing are listed in a [separate section](#datasets) of this document.
 
 ### Document analysis, transcription, and labeling
 
 *   [Callico](https://teklia.com/blog/open-sourcing-callico/) – open-source web platform for document annotation
-*   [Distributed Annotation 'n' Enrichment (DANE)](https://github.com/CLARIAH/DANE#readme) – compute task assignment & file storage for automatic annotation of content ([CLARIAH](https://www.clariah.nl/about-clariah), Norway)
-*   [HTRFLOW demo](https://huggingface.co/spaces/Riksarkivet/htr_demo) and associated [GitHub repo](https://github.com/Swedish-National-Archives-AI-lab/htrflow_app) – explore AI models for Handwritten Text Recogntion (Swedish National Archives)
+*   [Distributed Annotation 'n' Enrichment (DANE) (⭐2)](https://github.com/CLARIAH/DANE#readme) – compute task assignment & file storage for automatic annotation of content ([CLARIAH](https://www.clariah.nl/about-clariah), Norway)
+*   [HTRFLOW demo](https://huggingface.co/spaces/Riksarkivet/htr_demo) and associated [GitHub repo (⭐22)](https://github.com/Swedish-National-Archives-AI-lab/htrflow_app) – explore AI models for Handwritten Text Recogntion (Swedish National Archives)
 *   [Label Studio](https://labelstud.io) – data labeling platform to fine-tune LLMs, prepare training data, or validate AI models
 *   [OCR correction](https://bnl.public.lu/en.html) – OCR correction tools (Bibliothèque nationale, Luxembourg)
-*   [Surya](https://github.com/VikParuchuri/surya#readme) – multilingual document OCR toolkit with line-level text detection
+*   [Surya (⭐4.1k)](https://github.com/VikParuchuri/surya#readme) – multilingual document OCR toolkit with line-level text detection
 *   [Text models from the National Library of Sweden](https://huggingface.co/KBLab) – available on Hugging Face
 *   [Transkribus](https://readcoop.eu/transkribus/) – transcription, recognition, & searching of historical documents
 
@@ -152,7 +153,7 @@ Note: datasets for training and testing are listed in a [separate section](#data
 *   [Annotorious](https://annotorious.github.io) – JavaScript image annotation library
 *   [Audiovisual Metadata Platform (AMP)](https://uisapp2.iu.edu/confluence-prd/display/AMP/AMP%3A+Audiovisual+Metadata+Platform) – generation of metadata for discovery & use of digital audio & video collections (Indiana U., USA)
 *   [CAMPI](https://kilthub.cmu.edu/articles/preprint/CAMPI_Computer-Aided_Metadata_Generation_for_Photo_archives_Initiative/12791807) – Computer-Aided Metadata Generation for Photo archives Initiative (Carnegie Mellonw U., USA)
-*   [inaFaceAnalyzer](https://github.com/ina-foss/inaFaceAnalyzer#readme) – Python toolbox for face-based description of gender representation in media (Institut National de l'Audiovisuel, France)
+*   [inaFaceAnalyzer (⭐14)](https://github.com/ina-foss/inaFaceAnalyzer#readme) – Python toolbox for face-based description of gender representation in media (Institut National de l'Audiovisuel, France)
 *   [Newspaper Navigator](https://labs.loc.gov/work/experiments/newspaper-navigator/) – explore visual & textual content in the *Chronicling America* digitized newspaper collection (Library of Congress, USA)
 *   [Oodi](https://medium.com/headai-customer-stories/customer-story-oodi-1d1ef2554bb6) – virtual information assistant (Helsinki Central Library)
 *   [ReTV](https://retv-project.eu) – video analysis & summarization (Modul Univesrity, Austria)
@@ -160,7 +161,7 @@ Note: datasets for training and testing are listed in a [separate section](#data
 
 ### Indexing and classification
 
-*   [Annif](https://annif.org) and [associated tutorial](https://github.com/NatLibFi/Annif-tutorial) – tool for automated subject indexing and classification (National Library of Finland)
+*   [Annif](https://annif.org) and [associated tutorial (⭐33)](https://github.com/NatLibFi/Annif-tutorial) – tool for automated subject indexing and classification (National Library of Finland)
 
 ### Search and retrieval
 
@@ -174,22 +175,22 @@ Note: datasets for training and testing are listed in a [separate section](#data
 
 *   [BERTopic](https://maartengr.github.io/BERTopic/index.html) – topic modeling technique that leverages Transformers and c-TF-IDF
 *   [Chatbot for Luxembourgish newspapers](https://chat.eluxemburgensia.lu/login?next=/) – uses ChatGPT and understands French, German and English (Bibliothèque nationale de Luxembourg)
-*   [Norwegian Transformer Model (NoTraM)](https://github.com/NBAiLab/notram#readme) – transformer model for Norwegian and Nordic languages (National Library of Norway)
-*   [Swedish BERT](https://github.com/Kungbib/swedish-bert-models#readme) – BERT model for the Swedish language (Royal Library of Sweden)
+*   [Norwegian Transformer Model (NoTraM) (⭐103)](https://github.com/NBAiLab/notram#readme) – transformer model for Norwegian and Nordic languages (National Library of Norway)
+*   [Swedish BERT (⭐134)](https://github.com/Kungbib/swedish-bert-models#readme) – BERT model for the Swedish language (Royal Library of Sweden)
 *   [Visual AI](https://www.robots.ox.ac.uk/~vgg/projects/visualai/index.html) – open-world interpretable visual transformer (UK)
 
-## Datasets<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
+## Datasets<a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
 
 *   [Datasets from the National Library of Sweden](https://huggingface.co/KBLab) – available on Hugging Face
-*   [Gensim datasets](https://github.com/piskvorky/gensim-data#readme) – repository of datasets for unstructured text processing
+*   [Gensim datasets (⭐927)](https://github.com/piskvorky/gensim-data#readme) – repository of datasets for unstructured text processing
 *   [HTR-United](https://htr-united.github.io) – datasets for training transcription or segmentation models
 *   [Kaggle datasets](https://www.kaggle.com/datasets)
-*   [nlp-datasets](https://github.com/niderhoff/nlp-datasets#readme) – free/public domain datasets with text data for use in NLP
+*   [nlp-datasets (⭐5.6k)](https://github.com/niderhoff/nlp-datasets#readme) – free/public domain datasets with text data for use in NLP
 *   [Open Library data dumps](https://openlibrary.org/developers/dumps) – from the Internet Archive
 *   [Registry of Open Data on AWS](https://registry.opendata.aws) – datasets tagged by topic
 *   [HTR datasets in Zenodo](https://zenodo.org/search?q=metadata.subjects.subject%3A%22handwritten%20text%20recognition%22\&l=list\&p=1\&s=10\&sort=bestmatch) – based on subject search in Zenodo
 
-## Projects, Initiatives, and Case Studies<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
+## Projects, Initiatives, and Case Studies<a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
 
 ### Project lists & directories
 
@@ -203,7 +204,7 @@ Note: datasets for training and testing are listed in a [separate section](#data
 *   [Machine Learning with Archive Collections](https://blog.archiveshub.jisc.ac.uk/2022/02/28/machine-learning-with-archive-collections/)
 *   [Vatican Manuscripts](https://www.youtube.com/watch?v=8khPUtwaVaw) – machine transcription in the Vatican Secret Archive
 
-## Policies and recommendations<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
+## Policies and recommendations<a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
 
 ### Statements by organizations and government bodies
 
@@ -226,7 +227,7 @@ Note: datasets for training and testing are listed in a [separate section](#data
 *   [A Comprehensive AI Policy Education Framework for University Teaching and Learning](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-023-00408-3) by C. K. Y. Chan in *International Journal of Educational Technology in Higher Education*, 20(38), 2023.
 *   [A Framework for U.S. AI Governance: Creating a Safe and Thriving AI Sector](https://computing.mit.edu/wp-content/uploads/2023/11/AIPolicyBrief.pdf) white paper by the MIT Schwarzman College of Computing, Dec. 11, 2023. (See also [related article in MIT News](https://news.mit.edu/2023/mit-group-releases-white-papers-governance-ai-1211).)
 
-## Conferences and Workshops<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
+## Conferences and Workshops<a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
 
 The annual *Fantastic Futures* conference is the main conference series for the AI4LAM community. Various other conferences and workshops are relevant to the community and may be included in the list below.
 
@@ -234,8 +235,9 @@ The annual *Fantastic Futures* conference is the main conference series for the 
 
 👋🏻 **Note**: AI4LAM's [conferences tracker Google sheet](https://docs.google.com/spreadsheets/d/1jO8dKt0CuhZKq382OZRdMSGOU3OpJhgK2nJ-FAynbeo/edit#gid=1287495458) has a more complete list of events. The following is a list of larger and/or especially relevant events for AI4LAM.
 
+*   [BitCurator Forum](https://bitcuratorconsortium.org/forum) – Mar. 19–22 virtual event on digital forensics, digital archives, and related digital analysis workflows
 *   [IIPC General Assembly & Web Archiving Conference](https://netpreserve.org/ga2024/) – Apr. 24–26 at the Bibliothèque nationale de France, Paris, France.
-*   [Digital Library Federation (DLF) 2024 Forum](https://forum2024.diglib.org) – July 29–31 at Michigan State U., East Lansing, Michigan, USA.
+*   [Digital Library Federation (DLF) 2024 Forum](https://forum2024.diglib.org) – Jul. 29–31 at Michigan State U., East Lansing, Michigan, USA.
 *   [International Conference on Document Analysis and Recognition (ICDAR) 2024](https://icdar2024.net) – Aug. 30–Sep. 4 in Athens, Greece.
 *   [International Conference on Digital Preservation (iPRES) 2024](https://ipres2024.pubpub.org) – Sep. 16–20 in Ghent & Flanders, Belgium.
 *   [Fantastic Futures 2024](https://www.nfsa.gov.au/fantastic-futures-canberra-2024-artificial-intelligence-libraries-archives-and-museums) – Oct. 16–18 at the National Film and Sound Archive of Australia (NFSA), Canberra, Australia.
@@ -251,7 +253,7 @@ The annual *Fantastic Futures* conference is the main conference series for the 
 *   [ai4Libraries Conference](https://www.ai4libraries.org) – Oct. 19 virtual event hosted by Georgia Tech Library, Atlanta, Georgia, USA.
 *   [Fantastic Futures 2023](https://ff2023.archive.org) – Nov. 15–17 at Internet Archive Canada Headquarters, Vancouver, British Columbia, Canada.
 
-## Journals and Magazines<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
+## Journals and Magazines<a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
 
 *   [AI & Society](https://link.springer.com/journal/146/articles)
 *   [AI Magazine](https://onlinelibrary.wiley.com/loi/23719621)
@@ -280,10 +282,10 @@ The AI4LAM community's home page is [https://ai4lam.org](https://ai4lam.org/). T
 
 ## Contributions
 
-Your help and participation in enhancing this awesome list are very much welcome! Please use the [issue ticket system](https://github.com/AI4LAM/awesome-ai4lam/issues) to request additions or changes, or to make other contributions to this repository. For more information, please visit the [guidelines for contributing](https://github.com/AI4LAM/awesome-ai4lam/blob/main/README.md/CONTRIBUTING.md).
+Your help and participation in enhancing this awesome list are very much welcome! Please use the [issue ticket system (⭐23)](https://github.com/AI4LAM/awesome-ai4lam/issues) to request additions or changes, or to make other contributions to this repository. For more information, please visit the [guidelines for contributing](https://github.com/AI4LAM/awesome-ai4lam/blob/main/README.md/CONTRIBUTING.md).
 
 <p align="center">
-<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition">
+<a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5">
   <img alt="Click button to suggest an addition" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition.svg">
  </a>
 </p>

@@ -11,6 +11,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Domain Specific Language / Design Theory
 
 *   [Domain Engineering](https://en.wikipedia.org/wiki/Domain_engineering) - ***Wikipedia***. Wikipedia encyclopedia entry on Domain Engineering.
+*   [Usability Evaluation of Domain-Specific Languages](http://www-ctp.di.fct.unl.pt/QUASAR/Resources/Papers/2012/Barisic2012SEDES.pdf) - ***ICQICT'12***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=3047215455890195199\&hl=en\&as_sdt=0,5)]. An initiative arguing that a systematic approach based on User Interface experimental validation techniques should be used to assess the impact of new DSLs.
 
 ### Domain Specific Language / Design Practises
 

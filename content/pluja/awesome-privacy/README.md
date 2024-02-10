@@ -6,11 +6,17 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ Daily / [Weekly](/content/pluja/awesome-privacy/week/README.md) / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
-## [Feb 08, 2024](/content/2024/02/08/README.md)
+## [Feb 10, 2024](/content/2024/02/10/README.md)
 
 ### ChatGPT
 
-*   [LMStudio](https://lmstudio.ai/) - Run LLMs on your laptop, entirely offline with a beautiful UI.
+*   [Jan (⭐9.1k)](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+
+### Copilot
+
+*   [Continue (⭐6.8k)](https://github.com/continuedev/continue) - Open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
+
+## [Feb 08, 2024](/content/2024/02/08/README.md)
 
 ### Mario Kart
 
@@ -47,9 +53,9 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Copilot
 
-*   [Localpilot (⭐3.2k)](https://github.com/danielgross/localpilot) - Use GitHub Copilot locally on your Macbook with one-click.
 *   [Fauxpilot (⭐14k)](https://github.com/fauxpilot/fauxpilot) - an open-source,local alternative to GitHub Copilot server
     *   [vscode-fauxpilot (⭐189)](https://github.com/Venthe/vscode-fauxpilot) - vscode extension for fauxpilot. **reminder**: use [vscodium](https://vscodium.com/) instead!
+*   [Localpilot (⭐3.2k)](https://github.com/danielgross/localpilot) - Use GitHub Copilot locally on your Macbook with one-click.
 
 ## [Oct 20, 2023](/content/2023/10/20/README.md)
 
@@ -124,10 +130,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ## [Aug 05, 2023](/content/2023/08/05/README.md)
 
-### Cloud Storage
-
-*   [Skiff Drive](https://skiff.com/drive) - Skiff Drive protects your dataq with end-to-end encryption.
-
 ### Password Managers
 
 *   [Proton Pass](https://proton.me/pass) - Open-source and encrypted password manager by Proton.
@@ -201,7 +203,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Copilot
 
-*   [Turbopilot (⭐3.8k)](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU.
+*   [Turbopilot (⭐3.8k)](https://github.com/ravenscroftj/turbopilot) - \[Archived] Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU.
 
 ## [Apr 05, 2023](/content/2023/04/05/README.md)
 
@@ -554,7 +556,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Third-Party owned
 
 *   [Mailfence](https://mailfence.com) - Secure and private email.
-*   [Skiff](https://skiff.com) - Privacy-first, end-to-end encrypted, open-source email.
 
 ## [Sep 19, 2022](/content/2022/09/19/README.md)
 
@@ -668,12 +669,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Audio
 
 *   [Jetispot (⭐338)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
-
-## [Jul 13, 2022](/content/2022/07/13/README.md)
-
-### Office
-
-*   [Skiff](https://skiff.com/) - End-to-end encrypted real-time document collaboration and file storage.
 
 ## [Jul 11, 2022](/content/2022/07/11/README.md)
 

@@ -10,7 +10,11 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### ChatGPT
 
-*   [LMStudio](https://lmstudio.ai/) - Run LLMs on your laptop, entirely offline with a beautiful UI.
+*   [Jan (⭐9.1k)](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+
+### Copilot
+
+*   [Continue (⭐6.8k)](https://github.com/continuedev/continue) - Open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 
 ### Mario Kart
 
@@ -47,9 +51,9 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Copilot
 
-*   [Localpilot (⭐3.2k)](https://github.com/danielgross/localpilot) - Use GitHub Copilot locally on your Macbook with one-click.
 *   [Fauxpilot (⭐14k)](https://github.com/fauxpilot/fauxpilot) - an open-source,local alternative to GitHub Copilot server
     *   [vscode-fauxpilot (⭐189)](https://github.com/Venthe/vscode-fauxpilot) - vscode extension for fauxpilot. **reminder**: use [vscodium](https://vscodium.com/) instead!
+*   [Localpilot (⭐3.2k)](https://github.com/danielgross/localpilot) - Use GitHub Copilot locally on your Macbook with one-click.
 
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
@@ -121,10 +125,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   [mCaptcha](http://mcaptcha.org/) ([repo (⭐1.4k)](https://github.com/mCaptcha/mCaptcha)) - An open-source CAPTCHA system with seamless UX.  mCaptcha uses SHA256 based proof-of-work (PoW) to rate limit users.
 
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
-
-### Cloud Storage
-
-*   [Skiff Drive](https://skiff.com/drive) - Skiff Drive protects your dataq with end-to-end encryption.
 
 ### Password Managers
 
@@ -199,7 +199,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Copilot
 
-*   [Turbopilot (⭐3.8k)](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU.
+*   [Turbopilot (⭐3.8k)](https://github.com/ravenscroftj/turbopilot) - \[Archived] Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU.
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
@@ -528,7 +528,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Third-Party owned
 
 *   [Mailfence](https://mailfence.com) - Secure and private email.
-*   [Skiff](https://skiff.com) - Privacy-first, end-to-end encrypted, open-source email.
 
 ### Speech to Text
 
@@ -640,10 +639,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 ### Databases
 
 *   [Pocketbase](https://pocketbase.io/) - Open Source backend in 1 file written in Go.
-
-### Office
-
-*   [Skiff](https://skiff.com/) - End-to-end encrypted real-time document collaboration and file storage.
 
 ### Search Engines
 

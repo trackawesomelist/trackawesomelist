@@ -8,6 +8,10 @@ A curated list of awesome developer-first tools products.
 
 ## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
 
+### Misc
+
+*   [Defer](https://defer.run/) - Serverless Node.js background jobs.
+
 ### Monitoring
 
 *   [Highlight.io](https://www.highlight.io/) - Full-stack monitoring platform. [![Highlight.io](https://img.shields.io/github/stars/highlight/highlight?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/highlight/highlight)

@@ -264,16 +264,17 @@ When using cloud-based AI services, the data you input is often collected and st
 #### ChatGPT
 
 *   [llama.cpp (⭐50k)](https://github.com/ggerganov/llama.cpp) - Inference of Facebook's LLaMA model in pure C/C++ so it can run locally on a CPU.
-*   [LMStudio](https://lmstudio.ai/) - Run LLMs on your laptop, entirely offline with a beautiful UI.
+*   [Jan (⭐9.1k)](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 *   [LocalAI (⭐16k)](https://github.com/go-skynet/LocalAI) - Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware.
 *   [ollama (⭐36k)](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally.
 
 #### Copilot
 
-*   [Turbopilot (⭐3.8k)](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU.
-*   [Localpilot (⭐3.2k)](https://github.com/danielgross/localpilot) - Use GitHub Copilot locally on your Macbook with one-click.
+*   [Continue (⭐6.8k)](https://github.com/continuedev/continue) - Open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 *   [Fauxpilot (⭐14k)](https://github.com/fauxpilot/fauxpilot) - an open-source,local alternative to GitHub Copilot server
     *   [vscode-fauxpilot (⭐189)](https://github.com/Venthe/vscode-fauxpilot) - vscode extension for fauxpilot. **reminder**: use [vscodium](https://vscodium.com/) instead!
+*   [Localpilot (⭐3.2k)](https://github.com/danielgross/localpilot) - Use GitHub Copilot locally on your Macbook with one-click.
+*   [Turbopilot (⭐3.8k)](https://github.com/ravenscroftj/turbopilot) - \[Archived] Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU.
 
 #### ElevenLabs Text To Speech
 
@@ -359,7 +360,6 @@ Google captchas use cookies to track users and rank their IPs.
 *   [Peergos](https://peergos.org/) - Secure and private space online where you can store, share and view your photos, videos, music and documents. Also includes a calendar, news feed, task lists, chat and email client. Open source and self-hostable.
 *   [Proton Drive](https://proton.me/drive) - End-to-end encrypted Swiss vault for your files that protects your data. [Read this article over Climate activist arrest](https://protonmail.com/blog/climate-activist-arrest/).
 *   [PrivateStorage](https://private.storage/) - Accountless, privacy-focused cloud storage and folder synchronization with client-side encryption.
-*   [Skiff Drive](https://skiff.com/drive) - Skiff Drive protects your dataq with end-to-end encryption.
 
 **Other useful tools**
 
@@ -728,7 +728,6 @@ No servers involved. Everything goes directly from one peer to the other peer. N
 *   [Tutanota](https://tutanota.com/) - Secure email for everybody. Open Source.
 *   [Riseup](https://riseup.net/en/about-us) - Online communication tools for people and groups working on liberatory social change.
 *   [Mailfence](https://mailfence.com) - Secure and private email.
-*   [Skiff](https://skiff.com) - Privacy-first, end-to-end encrypted, open-source email.
 
 ### Self-Hosted
 
@@ -908,7 +907,6 @@ These providers offer apps and services filled with data trackers. Also, most of
 *   [OnlyOffice](https://www.onlyoffice.com/) - Free and open source online office for collaboration.
 *   [Cryptpad](https://cryptpad.fr/) - Collaboration suite, encrypted and open-source.
 *   [Etherpad](https://etherpad.org/) - Highly customizable open source online editor providing collaborative editing in really real-time.
-*   [Skiff](https://skiff.com/) - End-to-end encrypted real-time document collaboration and file storage.
 
 ## Online Phone Providers
 
