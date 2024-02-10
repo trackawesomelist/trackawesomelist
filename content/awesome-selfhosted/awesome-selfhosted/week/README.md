@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ [Daily](/content/awesome-selfhosted/awesome-selfhosted/README.md) / Weekly / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
+
+### Software / Software Development - FaaS & Serverless
+
+*   [CASE](https://case.app) - Lightweight BaaS (Backend As A Service) requiring minimal coding, with database, admin panel, API, and Javascript SDK. ([Source Code (⭐172)](https://github.com/casejs/case)) `MIT` `Nodejs`
+
 ## [Jan 22 - Jan 28, 2024](/content/2024/4/README.md)
 
 ### Software / Communication - Custom Communication Systems
@@ -58,7 +64,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Wikis
 
-*   [WikiDocs](http://wikidocs.it) - A databaseless markdown flat-file wiki engine. ([Demo](https://demo.wikidocs.it), [Source Code (⭐140)](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
+*   [WikiDocs](http://wikidocs.it) - A databaseless markdown flat-file wiki engine. ([Demo](https://demo.wikidocs.it), [Source Code (⭐145)](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
 
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 

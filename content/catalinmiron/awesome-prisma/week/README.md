@@ -2,9 +2,15 @@
 
 A collection of awesome things regarding Prisma ecosystem.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/catalinmiron/awesome-prisma/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 catalinmiron/awesome-prisma](https://github.com/catalinmiron/awesome-prisma) · ⭐ 565 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/catalinmiron/awesome-prisma/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 catalinmiron/awesome-prisma](https://github.com/catalinmiron/awesome-prisma) · ⭐ 580 · 🏷️ Miscellaneous
 
 [ [Daily](/content/catalinmiron/awesome-prisma/README.md) / Weekly / [Overview](/content/catalinmiron/awesome-prisma/readme/README.md) ]
+
+## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
+
+### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools
+
+*   [Hubql - Visualization platform with Prisma schema support](https://www.hubql.com/prisma)
 
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
@@ -16,7 +22,7 @@ A collection of awesome things regarding Prisma ecosystem.
 
 ### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools
 
-*   [Prisma Editor - A powerful tool to visualize and edit Prisma Schema (⭐391)](https://github.com/mohammed-bahumaish/prisma-editor)
+*   [Prisma Editor - A powerful tool to visualize and edit Prisma Schema (⭐616)](https://github.com/mohammed-bahumaish/prisma-editor)
 
 ## [Sep 26 - Oct 02, 2022](/content/2022/39/README.md)
 
@@ -32,35 +38,35 @@ A collection of awesome things regarding Prisma ecosystem.
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [Wasp (⭐8.8k)](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
+*   [Wasp (⭐9.4k)](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
 
 ## [May 09 - May 15, 2022](/content/2022/19/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Schemix - Generate Prisma Schemas with TypeScript (⭐458)](https://github.com/ridafkih/schemix)
+*   [Schemix - Generate Prisma Schemas with TypeScript (⭐464)](https://github.com/ridafkih/schemix)
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Prisma Yup Generator - Prisma 2+ generator to emit Yup schemas from your Prisma schema (⭐50)](https://github.com/omar-dulaimi/prisma-yup-generator)
+*   [Prisma Yup Generator - Prisma 2+ generator to emit Yup schemas from your Prisma schema (⭐51)](https://github.com/omar-dulaimi/prisma-yup-generator)
 
 ## [Feb 07 - Feb 13, 2022](/content/2022/6/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Prisma Redis Middleware - cache queries in Redis (⭐353)](https://github.com/Asjas/prisma-redis-middleware)
+*   [Prisma Redis Middleware - cache queries in Redis (⭐350)](https://github.com/Asjas/prisma-redis-middleware)
 
 ## [Dec 20 - Dec 26, 2021](/content/2021/51/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
-*   [NestJS and Prisma Yarn Monorepo Starter Template (⭐121)](https://github.com/alitnk/nest-prisma-monorepo)
+*   [NestJS and Prisma Yarn Monorepo Starter Template (⭐124)](https://github.com/alitnk/nest-prisma-monorepo)
 
 ### :safety_vest: Community Prisma Tools / :man_technologist: Prisma Clients
 
-*   [Prisma Client Python (⭐1.4k)](https://github.com/RobertCraigie/prisma-client-py)
+*   [Prisma Client Python (⭐1.5k)](https://github.com/RobertCraigie/prisma-client-py)
 
 ## [Nov 22 - Nov 28, 2021](/content/2021/47/README.md)
 
@@ -78,7 +84,7 @@ A collection of awesome things regarding Prisma ecosystem.
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Declarative Authorisation Middleware (⭐74)](https://github.com/joindeed/prisma-auth)
+*   [Declarative Authorisation Middleware (⭐77)](https://github.com/joindeed/prisma-auth)
 
 ## [Sep 13 - Sep 19, 2021](/content/2021/37/README.md)
 
@@ -100,44 +106,44 @@ A collection of awesome things regarding Prisma ecosystem.
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Caching Prisma (⭐54)](https://github.com/joellefkowitz/cached-prisma)
-*   [prettier-plugin-prisma (⭐204)](https://github.com/umidbekk/prettier-plugin-prisma)
+*   [Caching Prisma (⭐59)](https://github.com/joellefkowitz/cached-prisma)
+*   [prettier-plugin-prisma (⭐208)](https://github.com/umidbekk/prettier-plugin-prisma)
 
 ## [Jul 26 - Aug 01, 2021](/content/2021/30/README.md)
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [tRPC Prisma Starter (⭐629)](https://github.com/trpc/examples-next-prisma-starter) - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
+*   [tRPC Prisma Starter (⭐638)](https://github.com/trpc/examples-next-prisma-starter) - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
 
 ## [Jul 12 - Jul 18, 2021](/content/2021/28/README.md)
 
 ### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools
 
-*   [Prisma ERD Generator (⭐703)](https://github.com/keonik/prisma-erd-generator)
+*   [Prisma ERD Generator (⭐733)](https://github.com/keonik/prisma-erd-generator)
 
 ## [Apr 19 - Apr 25, 2021](/content/2021/16/README.md)
 
 ### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools
 
-*   [Prisma ERD Visualizer (⭐202)](https://github.com/skn0tt/prisma-erd)
-*   [prisma-uml (⭐112)](https://github.com/emyann/prisma-uml)
-*   [DBML Generator (⭐597)](https://github.com/notiz-dev/prisma-dbml-generator)
+*   [Prisma ERD Visualizer (⭐211)](https://github.com/skn0tt/prisma-erd)
+*   [prisma-uml (⭐111)](https://github.com/emyann/prisma-uml)
+*   [DBML Generator (⭐607)](https://github.com/notiz-dev/prisma-dbml-generator)
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [Calendso (⭐26k)](https://github.com/calendso/calendso)
+*   [Calendso (⭐27k)](https://github.com/calendso/calendso)
 
 ## [Jan 11 - Jan 17, 2021](/content/2021/2/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Documentation Generator (⭐503)](https://github.com/pantharshit00/prisma-docs-generator)
+*   [Documentation Generator (⭐511)](https://github.com/pantharshit00/prisma-docs-generator)
 
 ## [Sep 28 - Oct 04, 2020](/content/2020/39/README.md)
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [NestJS Crud Prisma (⭐59)](https://github.com/silicon-hills/nestjs-crud-prisma) - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD (⭐3.8k)](https://github.com/nestjsx/crud))
+*   [NestJS Crud Prisma (⭐59)](https://github.com/silicon-hills/nestjs-crud-prisma) - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD (⭐3.9k)](https://github.com/nestjsx/crud))
 
 ## [Aug 31 - Sep 06, 2020](/content/2020/35/README.md)
 
@@ -149,13 +155,13 @@ A collection of awesome things regarding Prisma ecosystem.
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Prisma Schema SDL (⭐108)](https://github.com/amplication/prisma-schema-dsl)
+*   [Prisma Schema SDL (⭐110)](https://github.com/amplication/prisma-schema-dsl)
 
 ## [Aug 17 - Aug 23, 2020](/content/2020/33/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Multi-tenancy with Prisma (⭐377)](https://github.com/errorname/prisma-multi-tenant)
+*   [Multi-tenancy with Prisma (⭐381)](https://github.com/errorname/prisma-multi-tenant)
 
 ## [Jul 20 - Jul 26, 2020](/content/2020/29/README.md)
 
@@ -181,7 +187,7 @@ A collection of awesome things regarding Prisma ecosystem.
 *   [Prisma schema - convert schema.prisma file to javascript object or from Snake case to Camel case](https://paljs.com/cli/schema)
 *   [Prisma admin React component](https://paljs.com/prisma-admin)
 *   [Starter Template for NestJS and Prisma (⭐18)](https://github.com/fivethree-team/nestjs-prisma-starter)
-*   [prisma-relay-cursor-connection (⭐257)](https://github.com/devoxa/prisma-relay-cursor-connection)
+*   [prisma-relay-cursor-connection (⭐258)](https://github.com/devoxa/prisma-relay-cursor-connection)
 
 ## [Jun 22 - Jun 28, 2020](/content/2020/25/README.md)
 
@@ -203,7 +209,7 @@ A collection of awesome things regarding Prisma ecosystem.
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Testing Prisma with PostgreSQL and Jest (⭐105)](https://github.com/ctrlplusb/prisma-pg-jest)
+*   [Testing Prisma with PostgreSQL and Jest (⭐106)](https://github.com/ctrlplusb/prisma-pg-jest)
 
 ### :trophy: Tutorials / :gear: Schema Visualization Tools
 
@@ -214,7 +220,7 @@ A collection of awesome things regarding Prisma ecosystem.
 ### :books: Docs
 
 *   [Prisma Docs](https://www.prisma.io/docs/)
-*   [Prisma Examples (⭐5.6k)](https://github.com/prisma/prisma-examples)
+*   [Prisma Examples (⭐5.7k)](https://github.com/prisma/prisma-examples)
 
 ### :studio_microphone: Events
 
@@ -227,7 +233,7 @@ A collection of awesome things regarding Prisma ecosystem.
 *   [Prisma 2 Scratchpad (⭐12)](https://github.com/ctrlplusb/prisma2-template)
 *   [nx-nest-graphql (⭐12)](https://github.com/beeman/nx-nest-graphql)
 *   [Prisma plugin for the IntelliJ Platform (⭐42)](https://github.com/gabrielcolson/intellij-prisma)
-*   [Gatsby with prisma-client (⭐13)](https://github.com/LekoArts/gatsby-with-prisma-client)
+*   [Gatsby with prisma-client (⭐14)](https://github.com/LekoArts/gatsby-with-prisma-client)
 
 ### :thinking: How Tos / :gear: Schema Visualization Tools
 
@@ -253,7 +259,7 @@ A collection of awesome things regarding Prisma ecosystem.
 
 ### :family_man_woman_girl_boy: Community / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [GitHub (⭐35k)](https://github.com/prisma/prisma/)
+*   [GitHub (⭐36k)](https://github.com/prisma/prisma/)
 *   [Website](https://prisma.io)
 *   [Docs](https://prisma.io/docs/)
 *   [Blog](https://prisma.io/blog)
@@ -262,6 +268,6 @@ A collection of awesome things regarding Prisma ecosystem.
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [Tottem (⭐970)](https://github.com/poulainv/tottem)
+*   [Tottem (⭐972)](https://github.com/poulainv/tottem)
 *   [Tomorrow](https://www.tomorrowapp.io/)
 *   [Predict Covid](https://predictcovid.com/)

@@ -6,6 +6,20 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 [ Daily / [Weekly](/content/ziadoz/awesome-php/week/README.md) / [Overview](/content/ziadoz/awesome-php/readme/README.md) ]
 
+## [Feb 10, 2024](/content/2024/02/10/README.md)
+
+### Table of Contents / Content Management Systems (CMS)
+
+*   [Magento (⭐11k)](https://github.com/magento/magento2) - The most popular e-commerce platform.
+
+### Table of Contents / Markup and CSS
+
+*   [PHP CSS Parser (⭐1.7k)](https://github.com/MyIntervals/PHP-CSS-Parser) - A Parser for CSS Files written in PHP.
+
+### Configuration / PHP Internals Reading
+
+*   [PHP RFC Watch (⭐127)](https://github.com/beberlei/php-rfc-watch) - Watch the latest PHP [RFCs](https://wiki.php.net/rfc).
+
 ## [Feb 08, 2024](/content/2024/02/08/README.md)
 
 ### Table of Contents / Scraping
@@ -137,7 +151,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Content Management Systems (CMS)
 
 *   [Concrete5](https://www.concretecms.com/) - A CMS targeting users with a minimum of technical skills.
-*   [Magento](https://business.adobe.com/products/magento/magento-commerce.html) - The most popular e-commerce platform.
 *   [Pico CMS](https://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
 
 ### Table of Contents / Components
@@ -158,7 +171,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Email
 
-*   [Stampie (⭐294)](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
+*   [Stampie (⭐294)](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/en-us), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
 
 ### Table of Contents / Testing
 
@@ -180,7 +193,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Architectural
 
 *   [Design Patterns PHP (⭐22k)](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - A repository of software patterns implemented in PHP.
-*   [Patchwork](https://patchwork2.org/) - A library for redefining userland functions.
 
 ### Table of Contents / Debugging and Profiling
 
@@ -299,7 +311,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [Essence (⭐767)](https://github.com/essence/essence) - A library for extracting web media.
 *   [Embera (⭐325)](https://github.com/mpratt/Embera) - An Oembed consumer library.
-*   [PHP CSS Parser (⭐1.7k)](https://github.com/sabberworm/PHP-CSS-Parser) - A Parser for CSS Files written in PHP.
 *   [Shiki PHP (⭐260)](https://github.com/spatie/shiki-php) - A [Shiki (⭐6.9k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
 *   [VObject (⭐557)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 
@@ -486,7 +497,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Configuration / PHP Internals Reading
 
 *   [Externals](https://externals.io/) - PHP internal discussions.
-*   [PHP RFC Watch](https://php-rfc-watch.beberlei.de/) - Watch the latest PHP [RFCs](https://wiki.php.net/rfc).
 
 ## [May 29, 2020](/content/2020/05/29/README.md)
 
@@ -1302,12 +1312,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [Chronos (⭐1.3k)](https://github.com/cakephp/chronos) - A DateTime API extension supporting both mutable and immutable date/time.
 
-## [Jun 12, 2016](/content/2016/06/12/README.md)
-
-### Configuration / PHP Books
-
-*   [PHP Pandas](https://daylerees.com/php-pandas/) - A book about learning to write PHP by Dayle Rees.
-
 ## [Jun 01, 2016](/content/2016/06/01/README.md)
 
 ### Table of Contents / Data Structure and Storage
@@ -1374,7 +1378,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Scraping
 
 *   [Embed (⭐2.1k)](https://github.com/oscarotero/Embed) - An information extractor from any web service or page.
-*   [Goutte (⭐9.3k)](https://github.com/FriendsOfPHP/Goutte) - A simple web scraper.
 *   [PHP Spider (⭐1.3k)](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
 
 ### Table of Contents / URL
