@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/ellisonleao/magictools/week/README.md) / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [Feb 11, 2024](/content/2024/02/11/README.md)
+
+### Engines and Frameworks / Voxel Editors
+
+*   :tada: [Foster (⭐288)](https://github.com/FosterFramework/Foster) - A small cross-platform 2D game framework in C#.
+
 ## [Feb 08, 2024](/content/2024/02/08/README.md)
 
 ### Complete Game Sources / Voxel Editors

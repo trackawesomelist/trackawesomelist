@@ -8,6 +8,10 @@
 
 ## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
 
+### Engines and Frameworks / Voxel Editors
+
+*   :tada: [Foster (⭐288)](https://github.com/FosterFramework/Foster) - A small cross-platform 2D game framework in C#.
+
 ### Complete Game Sources / Voxel Editors
 
 *   :tada: [Barotrauma (⭐1.6k)](https://github.com/Regalis11/Barotrauma)

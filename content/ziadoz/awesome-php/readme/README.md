@@ -287,7 +287,7 @@ Please see [CONTRIBUTING (⭐30k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Email Reply Parser (⭐624)](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
 *   [Email Validator (⭐161)](https://github.com/nojacko/email-validator) - A small email address validation library.
 *   [Fetch (⭐501)](https://github.com/tedious/Fetch) - An IMAP library.
-*   [Mautic (⭐6.4k)](https://github.com/mautic/mautic) - Email marketing automation
+*   [Mautic (⭐6.5k)](https://github.com/mautic/mautic) - Email marketing automation
 *   [PHPMailer (⭐20k)](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
 *   [PHP IMAP (⭐1.6k)](https://github.com/barbushin/php-imap) - A library to access mailboxes via POP3, IMAP and NNTP.
 *   [Stampie (⭐294)](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/en-us), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
@@ -426,12 +426,12 @@ Please see [CONTRIBUTING (⭐30k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Better Reflection (⭐1.2k)](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
 *   [Code Climate](https://codeclimate.com) - An automated code review.
 *   [GrumPHP (⭐4.1k)](https://github.com/phpro/grumphp) - A PHP code-quality tool.
+*   [PHP Magic Number Detector (⭐539)](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
 *   [PHP Parser (⭐16k)](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 *   [PHP Semantic Versioning Checker (⭐425)](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
 *   [Phpactor (⭐1.2k)](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
 *   [PHPLOC (⭐2.3k)](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
 *   [PHPQA (⭐559)](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
-*   [Qafoo Quality Analyzer (⭐492)](https://github.com/Qafoo/QualityAnalyzer) - A tool to visualize metrics and source code.
 *   [Rector (⭐8k)](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
 *   [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code (⭐445)](https://github.com/scrutinizer-ci/php-analyzer).
 *   [UBench (⭐567)](https://github.com/devster/ubench) - A simple micro-benchmark library.
@@ -562,6 +562,7 @@ Please see [CONTRIBUTING (⭐30k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Elephant.io (⭐1.2k)](https://github.com/Wisembly/Elephant.io) - Yet another web socket library.
 *   [Evenement (⭐1.2k)](https://github.com/igorw/evenement) - An event dispatcher library.
 *   [Event (⭐1.5k)](https://github.com/thephpleague/event) - An event library with a focus on domain events.
+*   [Fast CGI Client (⭐544)](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket.
 *   [Pawl (⭐564)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
 *   [Prooph Event Store (⭐548)](https://github.com/prooph/event-store) - An event source component to persist event messages
 *   [PHP Defer (⭐272)](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
@@ -597,6 +598,7 @@ Please see [CONTRIBUTING (⭐30k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Dompdf (⭐10k)](https://github.com/dompdf/dompdf) - A HTML to PDF converter.
 *   [Gotenberg (⭐156)](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
 *   [Snappy (⭐4.3k)](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
+*   [TCPDF](https://tcpdf.org/) - An open source PHP class for generating PDF documents.
 
 ### Office
 

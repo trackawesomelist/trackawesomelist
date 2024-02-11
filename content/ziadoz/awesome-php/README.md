@@ -6,6 +6,20 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 [ Daily / [Weekly](/content/ziadoz/awesome-php/week/README.md) / [Overview](/content/ziadoz/awesome-php/readme/README.md) ]
 
+## [Feb 11, 2024](/content/2024/02/11/README.md)
+
+### Table of Contents / Code Analysis
+
+*   [PHP Magic Number Detector (⭐539)](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
+
+### Table of Contents / Event
+
+*   [Fast CGI Client (⭐544)](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket.
+
+### Table of Contents / PDF
+
+*   [TCPDF](https://tcpdf.org/) - An open source PHP class for generating PDF documents.
+
 ## [Feb 10, 2024](/content/2024/02/10/README.md)
 
 ### Table of Contents / Content Management Systems (CMS)
@@ -1324,12 +1338,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [noCAPTCHA (⭐354)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 
-## [May 13, 2016](/content/2016/05/13/README.md)
-
-### Table of Contents / Code Analysis
-
-*   [Qafoo Quality Analyzer (⭐492)](https://github.com/Qafoo/QualityAnalyzer) - A tool to visualize metrics and source code.
-
 ## [May 08, 2016](/content/2016/05/08/README.md)
 
 ### Table of Contents / Testing
@@ -1625,7 +1633,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Email
 
-*   [Mautic (⭐6.4k)](https://github.com/mautic/mautic) - Email marketing automation
+*   [Mautic (⭐6.5k)](https://github.com/mautic/mautic) - Email marketing automation
 
 ## [Feb 12, 2016](/content/2016/02/12/README.md)
 
