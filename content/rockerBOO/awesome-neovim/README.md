@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [artemave/workspace-diagnostics.nvim (⭐29)](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
 
+### Terminal Integration / Diagnostics
+
+*   [RAprogramm/nekifoch (⭐4)](https://github.com/RAprogramm/nekifoch) - Managing Kitty terminal font settings.
+
 ## [Feb 08, 2024](/content/2024/02/08/README.md)
 
 ### Programming Languages Support / Diagnostics
@@ -72,7 +76,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [gsuuon/model.nvim (⭐204)](https://github.com/gsuuon/model.nvim) - Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
+*   [gsuuon/model.nvim (⭐220)](https://github.com/gsuuon/model.nvim) - Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
 
 ## [Jan 27, 2024](/content/2024/01/27/README.md)
 
@@ -207,7 +211,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Diagnostics
 
-*   [linrongbin16/gentags.nvim (⭐8)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
+*   [linrongbin16/gentags.nvim (⭐10)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
 
 ## [Dec 26, 2023](/content/2023/12/26/README.md)
 

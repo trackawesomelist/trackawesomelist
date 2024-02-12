@@ -6,6 +6,16 @@
 
 [ [Daily](/content/vitejs/awesome-vite/README.md) / Weekly / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
+
+### Framework-agnostic Plugins / Transformers
+
+*   [css-media-splitter/vite-plugin (⭐3)](https://github.com/levchak0910/css-media-splitter) - Extracts all `@media` At-rules into a dedicated `.css` files and download it only when matches the media query.
+
+### React / Loaders
+
+*   [vite-plugin-react-rich-svg (⭐2)](https://github.com/iGoodie/vite-plugin-react-rich-svg) - Seamless SVG loader with versatile import options; such as DataURI, SVGR Component and Raw HTML Code.
+
 ## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
 
 ### Framework-agnostic Plugins / Integrations
@@ -26,7 +36,7 @@
 
 ### Templates / React
 
-*   [react-component-library-vite (⭐0)](https://github.com/gsharath/react-component-library-vite) - A library template for with `React`, `Javascript`,`Styled-Components`, `Vitest`, `React Testing Library`, `Storybook`.
+*   [react-component-library-vite (⭐1)](https://github.com/gsharath/react-component-library-vite) - A library template for with `React`, `Javascript`,`Styled-Components`, `Vitest`, `React Testing Library`, `Storybook`.
 
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
@@ -1133,7 +1143,7 @@
 
 ### Open Source / Community
 
-*   [Nhost (⭐7.3k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐7.4k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 
 ## [May 30 - Jun 05, 2022](/content/2022/22/README.md)
 

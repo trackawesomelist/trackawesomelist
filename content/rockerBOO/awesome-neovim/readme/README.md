@@ -200,7 +200,7 @@ Collections of awesome neovim plugins.
 *   [dpayne/CodeGPT.nvim (⭐725)](https://github.com/dpayne/CodeGPT.nvim) - Provides commands to interact with ChatGPT, the focus is around code related usages.
 *   [jackMort/ChatGPT.nvim (⭐3.1k)](https://github.com/jackMort/ChatGPT.nvim) - Effortless Natural Language Generation with OpenAI's ChatGPT API.
 *   [CamdenClark/flyboy (⭐37)](https://github.com/CamdenClark/flyboy) - Simple interaction with ChatGPT in a markdown buffer. Supports GPT-4 and Azure OpenAI.
-*   [gsuuon/model.nvim (⭐204)](https://github.com/gsuuon/model.nvim) - Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
+*   [gsuuon/model.nvim (⭐220)](https://github.com/gsuuon/model.nvim) - Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
 *   [dense-analysis/neural (⭐383)](https://github.com/dense-analysis/neural) - Integrate LLMs for generating code, interacting with chat bots, and more.
 *   [jpmcb/nvim-llama (⭐171)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
 *   [David-Kunz/gen.nvim (⭐578)](https://github.com/David-Kunz/gen.nvim) - Generate text using LLMs (via Ollama) with customizable prompts.
@@ -738,7 +738,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [ariel-frischer/bmessages.nvim (⭐32)](https://github.com/ariel-frischer/bmessages.nvim) - Replace the default :messages window with a configurable, auto-updating buffer.
 *   [LintaoAmons/easy-commands.nvim (⭐56)](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands.
 *   [backdround/tabscope.nvim (⭐30)](https://github.com/backdround/tabscope.nvim) - Make tab-local buffers.
-*   [linrongbin16/gentags.nvim (⭐8)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
+*   [linrongbin16/gentags.nvim (⭐10)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
 *   [theKnightsOfRohan/csvlens.nvim (⭐16)](https://github.com/theKnightsOfRohan/csvlens.nvim) - A port of [YS-L/csvlens (⭐1.9k)](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 
 ## Terminal Integration
@@ -761,6 +761,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [chomosuke/term-edit.nvim (⭐168)](https://github.com/chomosuke/term-edit.nvim) - Allowing you to edit your command in the terminal just like any other buffer.
 *   [mikesmithgh/kitty-scrollback.nvim (⭐260)](https://github.com/mikesmithgh/kitty-scrollback.nvim) - Open your Kitty scrollback buffer. Ameowzing.
 *   [niuiic/terminal.nvim (⭐12)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
+*   [RAprogramm/nekifoch (⭐4)](https://github.com/RAprogramm/nekifoch) - Managing Kitty terminal font settings.
 
 ## Debugging
 

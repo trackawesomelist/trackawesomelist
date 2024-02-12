@@ -2,9 +2,22 @@
 
 A curated list of awesome programmers and software projects you can support!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/uraimo/awesome-software-patreons/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uraimo/awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) · ⭐ 474 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/uraimo/awesome-software-patreons/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uraimo/awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) · ⭐ 476 · 🏷️ Miscellaneous
 
 [ [Daily](/content/uraimo/awesome-software-patreons/README.md) / Weekly / [Overview](/content/uraimo/awesome-software-patreons/readme/README.md) ]
+
+## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
+
+### Open Source Projects
+
+*   [Neovim](https://opencollective.com/neovim) - Vim-fork focused on extensibility and usability.
+*   [PHPStan](https://github.com/phpstan) - PHP static analyzer.
+*   [Termux](https://termux.dev/en/donate) - Android terminal emulator.
+*   [Kitbashery](https://github.com/sponsors/Kitbashery) - 3D kitbashing solution & CC0 model library.
+
+### Open Source Projects / Libraries
+
+*   [ApexCharts](https://opencollective.com/apexchartsjs) - JavaScript charts library.
 
 ## [Jan 22 - Jan 28, 2024](/content/2024/4/README.md)
 
@@ -23,6 +36,9 @@ A curated list of awesome programmers and software projects you can support!
 ### Open Source Projects
 
 *   [NewPipe](https://liberapay.com/TeamNewPipe) - FLOSS video player on Android for services like YouTube, Soundcloud etc.
+
+### Open Source Projects / Messaging and social media
+
 *   [Nitter](https://www.patreon.com/nitter), [#2](https://liberapay.com/zedeus), [#3](https://github.com/sponsors/zedeus) - Free and open source Twitter client focused on privacy.
 
 ### Open Source Projects / Libraries
@@ -89,22 +105,20 @@ A curated list of awesome programmers and software projects you can support!
 *   [Marc Jeanmougin](https://www.patreon.com/marcjeanmougin) - Inkscape contributor.
 *   [Morevna Project](https://www.patreon.com/morevna) - Various contributions to open source animation tools and animated shorts sources released under CC.
 *   [Øyvind Kolås](https://www.patreon.com/pippin), [#2](https://liberapay.com/pippin/) - Lead developer of babl & GEGL libraries used in the graphics editor GIMP.
+*   [Pablo Dobarro](https://www.patreon.com/pablodp606) - Sculpting improvements for Blender.
 *   [Tavmjong Bah](https://www.patreon.com/tavmjong) - Working on Inkscape vector graphics editor.
 *   [ZeMarmot](https://www.patreon.com/zemarmot), [#2](https://www.tipeee.com/zemarmot), [#3](https://liberapay.com/ZeMarmot/) - 2D animation film project to be released under CC. GIMP contributions from Jehan Pagès, art and direction by Aryeom Han.
 
 ### Open Source Projects / Hardware related
 
-*   [Alyssa Rosenzweig](https://liberapay.com/alyssa/) - FOSS graphics driver work (Panfrost, Asahi) and contributions to several other projects.
 *   [Damien Maguire](https://www.patreon.com/evbmw) - Electric vehicle projects.
 *   [Espruino](https://www.patreon.com/espruino) - JavaScript interpreter for microcontrollers.
 *   [Frank Buss](https://www.patreon.com/frankbuss) - FPGA and other hardware projects.
 *   [GitClear](https://github.com/sponsors/gitclear) - Improved Linux support for touchpads.
 *   [Hector Martin "marcan"](https://www.patreon.com/marcan), [#2](https://github.com/sponsors/marcan) - Asahi, Linux support for Apple Silicon Macs.
-*   [Micah Elizabeth Scott](https://www.patreon.com/scanlime) - Videos and hardware.
 *   [Nefarius Software Solutions](https://www.patreon.com/nefarius) - Windows drivers for the Sony DualShock controller and others.
 *   [Pinout.xyz](https://www.patreon.com/gadgetoid) - Pinout diagrams for various microcontrollers.
 *   [Professor Abrasive](https://www.patreon.com/prof_abrasive) - Retro gaming.
-*   [Pablo Dobarro](https://www.patreon.com/pablodp606) - Sculpting improvements for Blender.
 
 ### People Doing Open Source Work / Hardware related
 
@@ -148,9 +162,7 @@ A curated list of awesome programmers and software projects you can support!
 
 ### Open Source Projects
 
-*   [GIMP](https://liberapay.com/GIMP/) - GNU Image Manipulation Program.
 *   [JabRef](https://liberapay.com/JabRef) - Software for bibliography management
-*   [OpenRGB](https://www.patreon.com/CalcProgrammer1) - RGB lighting control application.
 
 ### Open Source Projects / Operating Systems
 
@@ -158,15 +170,23 @@ A curated list of awesome programmers and software projects you can support!
 *   [GrapheneOS](https://github.com/sponsors/thestinger) - A privacy and security focused mobile OS with Android app compatibility.
 *   [Mobian](https://liberapay.com/mobian/) - Debian for mobile.
 
+### Open Source Projects / Open Source Art
+
+*   [GIMP](https://liberapay.com/GIMP/) - GNU Image Manipulation Program.
+
+### Open Source Projects / Hardware related
+
+*   [OpenRGB](https://www.patreon.com/CalcProgrammer1) - RGB lighting control application.
+
 ## [Apr 26 - May 02, 2021](/content/2021/17/README.md)
-
-### Open Source Projects / Messaging and social media
-
-*   [BookWyrm](https://www.patreon.com/bookwyrm), [#2](https://opencollective.com/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub.
 
 ### Open Source Projects
 
 *   [Zrythm](https://liberapay.com/Zrythm) - A highly automated and intuitive digital audio workstation.
+
+### Open Source Projects / Messaging and social media
+
+*   [BookWyrm](https://www.patreon.com/bookwyrm), [#2](https://opencollective.com/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub.
 
 ### People Doing Open Source Work / Hardware related
 
@@ -178,8 +198,6 @@ A curated list of awesome programmers and software projects you can support!
 
 ### Open Source Projects
 
-*   [Invidious](https://liberapay.com/omarroth/) - An alternative web front-end to YouTube.
-*   [Oni](https://www.patreon.com/onivim) - Modal code editor.
 *   [Open Source BIM Collective](https://opencollective.com/opensourcebim) - Tools for building information modeling.
 *   [PHPUnit](https://github.com/sponsors/sebastianbergmann) - PHPUnit and related projects.
 *   [Thirty Bees](https://forum.thirtybees.com/support-thirty-bees/) - Ecommerce software.
@@ -187,8 +205,7 @@ A curated list of awesome programmers and software projects you can support!
 
 ### Open Source Projects / Libraries
 
-*   [ApexCharts](https://www.patreon.com/junedchhipa), [#2](https://opencollective.com/apexchartsjs) - JavaScript charts library.
-*   [Dear ImGui (⭐53k)](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
+*   [Dear ImGui (⭐54k)](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
 *   [Hapi.js](https://opencollective.com/hapijs) - Node.js framework.
 
 ### People Doing Open Source Work / Hardware related
@@ -198,12 +215,6 @@ A curated list of awesome programmers and software projects you can support!
 *   [Raph Levien](https://github.com/sponsors/raphlinus) - druid and other Rust projects.
 *   [Scarlett Moore](https://www.patreon.com/sgclark) - KDE contributor.
 *   [skypjack](https://github.com/sponsors/skypjack) - C++ libraries such as uvw and EnTT.
-
-## [Feb 15 - Feb 21, 2021](/content/2021/7/README.md)
-
-### Open Source Projects
-
-*   [AngouriMath](https://www.patreon.com/AngouriMath) - Computer/symbolic algebra library for .NET.
 
 ## [Feb 08 - Feb 14, 2021](/content/2021/6/README.md)
 
@@ -245,22 +256,19 @@ A curated list of awesome programmers and software projects you can support!
 
 *   [Adam King](https://github.com/sponsors/notadamking) - RLTrader, Tensortrade and other trading related projects.
 
-## [Sep 28 - Oct 04, 2020](/content/2020/39/README.md)
-
-### Open Source Projects
-
-*   [Kitbashery](https://www.patreon.com/kitbashery) - 3D kitbashing solution & CC0 model library.
-
 ## [Jun 01 - Jun 07, 2020](/content/2020/22/README.md)
 
 ### Open Source Projects
 
 *   [F-Droid](https://opencollective.com/f-droid), [#2](https://liberapay.com/F-Droid-Data/), [#3](https://opencollective.com/f-droid-euro) - An installable catalogue of FOSS applications for the Android platform.
-*   [MyPaint](https://opencollective.com/mypaint) - Painting and drawing program that works nicely with pressure-sensitive tablets, and its dynamic brush engine library.
 
 ### Open Source Projects / Messaging and social media
 
 *   [Secure Scuttlebutt](https://opencollective.com/secure-scuttlebutt-consortium) - A distributed and secure peer-to-peer protocol and social network.
+
+### Open Source Projects / Open Source Art
+
+*   [MyPaint](https://opencollective.com/mypaint) - Painting and drawing program that works nicely with pressure-sensitive tablets, and its dynamic brush engine library.
 
 ## [Apr 27 - May 03, 2020](/content/2020/17/README.md)
 
@@ -314,11 +322,10 @@ A curated list of awesome programmers and software projects you can support!
 ### Open Source Projects
 
 *   [Duplicati](https://opencollective.com/duplicati) - Backup client.
-*   [Lollipop Cloud](https://opencollective.com/lollipop-cloud-team) - Cheap, easy, self-hosted clouds for everyone.
 *   [Olive](https://www.patreon.com/olivevideoeditor) - High quality video editing and compositing software.
 *   [Open Broadcaster Software](https://www.patreon.com/obsproject), [#2](https://opencollective.com/obsproject) - Video recording and live streaming software.
 *   [Remmina](https://remmina.org/donations/) - Remote desktop client.
-*   [V Programming Language](https://www.patreon.com/vlang), [#2](https://www.paypal.com/donate/?token=u2pjZRmcQ2ZHaiP2Ce_wYNgGYrjrOL0xc_1zq9iDrO0uElfo24bMYFuSh48Hrpgm_66GF0\&country.x=US\&locale.x=US) - Statically typed compiled programming language similar to Go, influenced by Oberon, Rust, Swift.
+*   [V Programming Language](https://www.patreon.com/vlang) - Statically typed compiled programming language similar to Go, influenced by Oberon, Rust, Swift.
 
 ### Open Source Projects / Messaging and social media
 
@@ -417,8 +424,11 @@ A curated list of awesome programmers and software projects you can support!
 
 ### Open Source Projects
 
-*   [Improved Initiative](https://www.patreon.com/improvedinitiative) - D\&D tabletop role-playing game combat tracker.
 *   [iTerm2](https://www.patreon.com/gnachman) - macOS terminal replacement.
+
+### Open Source Projects / Games
+
+*   [Improved Initiative](https://www.patreon.com/improvedinitiative) - D\&D tabletop role-playing game combat tracker.
 
 ## [May 20 - May 26, 2019](/content/2019/20/README.md)
 
@@ -442,7 +452,6 @@ A curated list of awesome programmers and software projects you can support!
 
 ### Open Source Projects
 
-*   [Latte Dock](https://liberapay.com/latte-dock) - Replacement dock for Plasma desktops.
 *   [NativeScript-Vue](https://www.patreon.com/rigor789) - Native mobile applications with NativeScript and Vue.
 
 ### Open Source Projects / Messaging and social media
@@ -466,13 +475,13 @@ A curated list of awesome programmers and software projects you can support!
 
 ## [Feb 11 - Feb 17, 2019](/content/2019/6/README.md)
 
-### Open Source Projects
-
-*   [DIGImend](https://www.patreon.com/spbnick) - Improving Linux support for (non-Wacom) graphics tablets.
-
 ### Open Source Projects / Games
 
 *   [Cxbx-reloaded](https://www.patreon.com/LukeUsher) - Xbox emulator for Windows.
+
+### Open Source Projects / Hardware related
+
+*   [DIGImend](https://www.patreon.com/spbnick) - Improving Linux support for (non-Wacom) graphics tablets.
 
 ### People Doing Open Source Work / Hardware related
 
@@ -480,10 +489,6 @@ A curated list of awesome programmers and software projects you can support!
 *   [Ryan C. Gordon](https://www.patreon.com/icculus), [#2](https://liberapay.com/icculus/) - Linux ports of games, game-related utilities.
 
 ## [Feb 04 - Feb 10, 2019](/content/2019/5/README.md)
-
-### Open Source Projects
-
-*   [Termux](https://www.patreon.com/termux) - Android terminal emulator.
 
 ### Open Source Projects / Messaging and social media
 
@@ -507,10 +512,7 @@ A curated list of awesome programmers and software projects you can support!
 ### Open Source Projects
 
 *   [Albert launcher](https://www.patreon.com/albertlauncher) - Keyboard launcher written in C++/Qt.
-*   [LibrePCB](https://www.patreon.com/librepcb) - Software to develop printed circuit boards.
-*   [Neovim](https://salt.bountysource.com/teams/neovim) - Vim-fork focused on extensibility and usability.
 *   [Perkeep](https://opencollective.com/perkeep) - Personal storage system.
-*   [PHPStan](https://www.patreon.com/phpstan) - PHP static analyzer.
 *   [Webpack](https://opencollective.com/webpack) - JavaScript module bundler.
 
 ### Open Source Projects / Messaging and social media
@@ -528,6 +530,10 @@ A curated list of awesome programmers and software projects you can support!
 
 *   [Lutris](https://www.patreon.com/lutris), [#2](https://liberapay.com/Lutris) - Game launcher & platform.
 *   [Xenia](https://www.patreon.com/xenia_project) - Xbox 360 emulator.
+
+### Open Source Projects / Hardware related
+
+*   [LibrePCB](https://www.patreon.com/librepcb) - Software to develop printed circuit boards.
 
 ### People Doing Open Source Work / Hardware related
 
@@ -549,7 +555,6 @@ A curated list of awesome programmers and software projects you can support!
 
 ### Open Source Projects
 
-*   [Armory](https://armory3d.org/fund) - 3D game engine for Blender.
 *   [bcachefs](https://www.patreon.com/bcachefs) - Linux filesystem.
 *   [Blender](https://fund.blender.org/) - 3D creation suite
 *   [Calibre](https://www.patreon.com/kovidgoyal) - E-books manager.
@@ -557,12 +562,10 @@ A curated list of awesome programmers and software projects you can support!
 *   [DokuWiki](https://www.patreon.com/dokuwiki) - Wiki application.
 *   [Homebrew](https://www.patreon.com/homebrew) - Package manager for macOS.
 *   [MuseScore](https://www.patreon.com/musescore) - Music notation software.
-*   [OctoPrint](https://www.patreon.com/foosel) - Web interface for 3D printers.
 *   [OpenShot](https://www.patreon.com/openshot) - Video editor.
 *   [Paperwork](https://www.patreon.com/openpaper) - Personal document manager.
 *   [PlantUML](https://www.patreon.com/plantuml) - UML diagram creation software.
 *   [Project Lombok](https://www.patreon.com/lombok) - Java editor plugin.
-*   [Synfig](https://www.patreon.com/synfig), [#2](https://opencollective.com/synfig) - 2D animation software.
 *   [SysV init](https://www.patreon.com/sysvinit) - System V init implementation.
 *   [Tiled](https://www.patreon.com/bjorn), [#2](https://opencollective.com/tiled), [#3](https://liberapay.com/Tiled) - A 2D game level editor.
 *   [Transmission](https://transmissionbt.com/donate/) - BitTorrent client.
@@ -589,6 +592,14 @@ A curated list of awesome programmers and software projects you can support!
 ### Open Source Projects / Games
 
 *   [Libretro Team](https://www.patreon.com/libretro) - Libretro, RetroArch and Lakka.
+
+### Open Source Projects / Open Source Art
+
+*   [Synfig](https://www.patreon.com/synfig), [#2](https://opencollective.com/synfig) - 2D animation software.
+
+### Open Source Projects / Hardware related
+
+*   [OctoPrint](https://www.patreon.com/foosel) - Web interface for 3D printers.
 
 ### People Doing Open Source Work / Hardware related
 
@@ -618,13 +629,8 @@ A curated list of awesome programmers and software projects you can support!
 
 *   [DistroWatch](https://www.patreon.com/distrowatch) - Reviews and tutorials for Linux/BSD.
 
-### Other kinds of content / Videos
-
-*   [CS Dojo](https://www.patreon.com/csdojo) - Programming videos.
-
 ### Other kinds of content / Podcasts
 
-*   [CPP Cast](https://www.patreon.com/CppCast) - Podcast for C++ developers.
 *   [The Debug Log](https://www.patreon.com/thedebuglog) - Game development.
 
 ## [Oct 01 - Oct 07, 2018](/content/2018/40/README.md)
@@ -632,6 +638,9 @@ A curated list of awesome programmers and software projects you can support!
 ### Open Source Projects
 
 *   [Compiler Explorer](https://www.patreon.com/mattgodbolt) - Online decompiler and compiler explorer.
+
+### Open Source Projects / Messaging and social media
+
 *   [Dekko Project](https://www.patreon.com/dekkoproject) - Ubuntu email client.
 
 ### Open Source Projects / Libraries

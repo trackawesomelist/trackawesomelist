@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [artemave/workspace-diagnostics.nvim (⭐29)](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
 
+### Terminal Integration / Diagnostics
+
+*   [RAprogramm/nekifoch (⭐4)](https://github.com/RAprogramm/nekifoch) - Managing Kitty terminal font settings.
+
 ## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
 
 ### (requires Neovim 0.5)
@@ -64,7 +68,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [gsuuon/model.nvim (⭐204)](https://github.com/gsuuon/model.nvim) - Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
+*   [gsuuon/model.nvim (⭐220)](https://github.com/gsuuon/model.nvim) - Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
 
 ### Marks / Diagnostics
 
@@ -186,7 +190,7 @@ Collections of awesome neovim plugins.
 *   [ariel-frischer/bmessages.nvim (⭐32)](https://github.com/ariel-frischer/bmessages.nvim) - Replace the default :messages window with a configurable, auto-updating buffer.
 *   [LintaoAmons/easy-commands.nvim (⭐56)](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands.
 *   [backdround/tabscope.nvim (⭐30)](https://github.com/backdround/tabscope.nvim) - Make tab-local buffers.
-*   [linrongbin16/gentags.nvim (⭐8)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
+*   [linrongbin16/gentags.nvim (⭐10)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
 
 ### Git / Diagnostics
 

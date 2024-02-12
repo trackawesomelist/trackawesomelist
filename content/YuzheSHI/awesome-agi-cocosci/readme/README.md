@@ -715,7 +715,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Language as shaped by the environment: linguistic construal in a collaborative spatial task](https://www.nature.com/articles/s41599-020-0404-9.pdf) - ***Nature Humanities and Social Sciences Communications***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7842508027049437987\&hl=en\&as_sdt=0,5)]. \[[Code & Data](https://osf.io/sxtaq)]. \[[Dialogue Experimental Toolkit(DiET)](https://dialoguetoolkit.github.io/chattool/)].
 
-*   [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733\&hl=en\&as_sdt=0,5)]. \[[OSMnx Tool (⭐4.5k)](https://github.com/gboeing/osmnx)]. \[[OpenStreetMap Website](https://www.openstreetmap.org/)].
+*   [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733\&hl=en\&as_sdt=0,5)]. \[[OSMnx Tool (⭐4.6k)](https://github.com/gboeing/osmnx)]. \[[OpenStreetMap Website](https://www.openstreetmap.org/)].
 
 *   [Saying what you mean in dialogue: A study in conceptual and semantic co-ordination](https://www.speech.kth.se/~edlund/bielefeld/references/garrod-and-anderson-1987.pdf) - ***Cognition***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=15377075954534820544\&hl=en\&as_sdt=0,5)].
 
@@ -763,7 +763,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [The complete guide to (external) Domain Specific Languages](https://tomassetti.me/domain-specific-languages/). An introduction to Domain Specific Languages (DSL) based on 19 DSL cases.
 
-*   [When and how to develop domain-specific languages](https://dl.acm.org/doi/abs/10.1145/1118890.1118892) - ***ACM Computing Surveys***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=8598236436890577027\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://john.cs.olemiss.edu/~hcc/csci658/notes/localcopy/WhenDSL.pdf)]. A survey on patterns in the decision, analysis, design, and implementation phases of DSL development.
+*   [When and How to Develop Domain-Specific Languages](https://people.cs.ksu.edu/~schmidt/505f14/Lectures/WhenDSL.pdf) - ***ACM Computing Surveys***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=8598236436890577027\&hl=en\&as_sdt=0,5)]. A review on DSL development methodologies that identify patterns in the decision, analysis, design, and implementation phases of DSL development.
 
 *   [Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378) - ***OOPSLA Workshop on Domain-Specific Modeling (DSM' 09)***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=1962567819031018744\&hl=en\&as_sdt=0,5)]. Guidelines to support a DSL developer to achieve better quality of the language design and a better acceptance among its users.
 
@@ -1797,8 +1797,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf) - ***Foundations and Trends in Programming Languages***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=5442933587668978421\&hl=en\&as_sdt=0,5)]. Sumit Gulwani's comprehensive review on program synthesis.
 
-*   [When and How to Develop Domain-Specific Languages](https://people.cs.ksu.edu/~schmidt/505f14/Lectures/WhenDSL.pdf) - ***ACM Computing Surveys***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=8598236436890577027\&hl=en\&as_sdt=0,5)]. A review on DSL development methodologies that identify patterns in the decision, analysis, design, and implementation phases of DSL development.
-
 *   [The Discovery of the Equator or Concept Driven Learning](https://www.ijcai.org/Proceedings/83-1/Papers/109.pdf) - ***IJCAI'83***, 1983. \[[All Versions](https://scholar.google.com/scholar?cluster=15712225225140903169\&hl=en\&as_sdt=0,5)]. The original paper on second-order metarules.
 
 *   [Towards combining inductive logic programming with Bayesian networks](https://link.springer.com/chapter/10.1007%2F3-540-44797-0_10) - ***ILP'01***, 2001. \[[All Versions](https://scholar.google.com/scholar?cluster=2904180673047700407\&hl=en\&as_sdt=0,5)].
@@ -1856,6 +1854,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 *   [Synthesizing theories of human language with Bayesian program induction](http://cap.csail.mit.edu/sites/default/files/research-pdfs/Synthesizing%20theories%20of%20human%20language%20with%20Bayesian%20program%20induction.pdf) - ***Nature Communications***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=8603772394100237159\&hl=en\&as_sdt=0,5)].
 
 *   [From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought](https://arxiv.org/abs/2306.12672) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=13778788929096574993\&hl=en\&as_sdt=0,5)]. Rational meaning construction, a computational framework for language-informed thinking that combines neural language models with probabilistic models for rational inference. Linguistic meaning is framed as a context-sensitive mapping from natural language into a probabilistic language of thought (PLoT)--a general-purpose symbolic substrate for generative world modeling.
+
+*   [Latent Programmer: Discrete Latent Codes for Program Synthesis](https://proceedings.mlr.press/v139/hong21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9789877360194738968\&hl=en\&as_sdt=0,5)]. Paper introducing the Latent Programmer, a program synthesis method that first predicts a discrete latent code from input/output examples, and then generates the program in the target language.
 
 \*[Back to Top](#c)
 

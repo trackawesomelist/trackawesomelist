@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Feb 12, 2024](/content/2024/02/12/README.md)
+
+### Development tools / Web Servers
+
+*   [envio-cli/envio (⭐646)](https://github.com/envio-cli/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/envio-cli/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/envio-cli/envio/actions/workflows/CICD.yml)
+
 ## [Feb 08, 2024](/content/2024/02/08/README.md)
 
 ### Applications
@@ -45,7 +51,7 @@ A curated list of Rust code and resources.
 
 ## [Jan 20, 2024](/content/2024/01/20/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [beerus (⭐206)](https://github.com/eigerco/beerus) - Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ and powered by Rust 🦀 [![GitHub Workflow Status](https://github.com/eigerco/beerus/actions/workflows/test.yml/badge.svg)](https://github.com/eigerco/beerus/actions/workflows/test.yml)
 
@@ -88,7 +94,7 @@ A curated list of Rust code and resources.
 
 ## [Jan 04, 2024](/content/2024/01/04/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [polkadot-sdk (⭐1.2k)](https://github.com/paritytech/polkadot-sdk) — The Parity Polkadot Blockchain SDK
 
@@ -114,7 +120,7 @@ A curated list of Rust code and resources.
 
 *   [joshuto (⭐3.1k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 *   [xplr (⭐3.8k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-*   [yazi (⭐5.5k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
+*   [yazi (⭐6.1k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ## [Dec 30, 2023](/content/2023/12/30/README.md)
 
@@ -260,7 +266,7 @@ A curated list of Rust code and resources.
 
 *   [hickory-dns](https://crates.io/crates/trust-dns) — A DNS-server [![Build Status](https://github.com/hickory-dns/hickory-dns/workflows/test/badge.svg?branch=main)](https://github.com/hickory-dns/hickory-dns/actions?query=workflow%3Atest)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [Sui (⭐5.5k)](https://github.com/MystenLabs/sui) — A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language.
 
@@ -310,7 +316,7 @@ A curated list of Rust code and resources.
 
 ## [Sep 15, 2023](/content/2023/09/15/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [wagyu (⭐597)](https://github.com/howardwu/wagyu) \[[wagyu](https://crates.io/crates/wagyu)] — Rust library for generating cryptocurrency wallets
 
@@ -474,7 +480,7 @@ A curated list of Rust code and resources.
 
 ## [Jul 02, 2023](/content/2023/07/02/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [cairo-vm (⭐437)](https://github.com/lambdaclass/cairo-vm) — Rust implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-vm/actions/workflows/rust.yml)
 
@@ -579,7 +585,7 @@ A curated list of Rust code and resources.
 
 ## [Jun 11, 2023](/content/2023/06/11/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [artemis (⭐1.9k)](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots in Rust.
 
@@ -595,7 +601,7 @@ A curated list of Rust code and resources.
 
 ## [Jun 08, 2023](/content/2023/06/08/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [svm-rs (⭐214)](https://github.com/alloy-rs/svm-rs) - Solidity-Compiler Version Manager.
 
@@ -659,7 +665,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [Atomic-Server (⭐664)](https://github.com/atomicdata-dev/atomic-server/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml)
+*   [Atomic-Server (⭐679)](https://github.com/atomicdata-dev/atomic-server/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml)
 
 ### Libraries / Data structures
 
@@ -681,7 +687,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Payments
 
-*   [hyperswitch (⭐9.1k)](https://github.com/juspay/hyperswitch) — An open source payments orchestrator that lets you connect with multiple payment processors and route payment traffic effortlessly, all with a single API integration ![GitHub last commit](https://img.shields.io/github/last-commit/juspay/hyperswitch?style=flat-square)
+*   [hyperswitch (⭐9.2k)](https://github.com/juspay/hyperswitch) — An open source payments orchestrator that lets you connect with multiple payment processors and route payment traffic effortlessly, all with a single API integration ![GitHub last commit](https://img.shields.io/github/last-commit/juspay/hyperswitch?style=flat-square)
 
 ## [Apr 13, 2023](/content/2023/04/13/README.md)
 
@@ -711,11 +717,11 @@ A curated list of Rust code and resources.
 
 ### Development tools / Profiling
 
-*   [Bencher (⭐270)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
+*   [Bencher (⭐285)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
 
 ## [Mar 27, 2023](/content/2023/03/27/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [madara (⭐428)](https://github.com/keep-starknet-strange/madara) - Kaioshin is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate and written in Rust 🦀. [![GitHub Workflow Status](https://github.com/keep-starknet-strange/madara/actions/workflows/test.yml/badge.svg)](https://github.com/keep-starknet-strange/madara/actions/workflows/test.yml)
 
@@ -1002,7 +1008,7 @@ A curated list of Rust code and resources.
 
 ## [Nov 25, 2022](/content/2022/11/25/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [cairo (⭐1.3k)](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation. This is also the native language of [StarkNet](https://www.starknet.io/en), a ZK-Rollup using STARK proofs ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square\&logo=github)
 *   [sigma-rust (⭐69)](https://github.com/ergoplatform/sigma-rust) — Rust implementation of ErgoTree interpreter and wallet-related features.
@@ -1052,7 +1058,7 @@ A curated list of Rust code and resources.
 
 ## [Oct 01, 2022](/content/2022/10/01/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [ibc-rs (⭐405)](https://github.com/informalsystems/hermes) - Rust implementation of the [Interblockchain Communication](https://ibc.cosmos.network/) protocol
 
@@ -1221,7 +1227,7 @@ A curated list of Rust code and resources.
 
 ## [Jul 22, 2022](/content/2022/07/22/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [Holochain (⭐878)](https://github.com/holochain/holochain) — Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build. [![detect critical check failures](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml/badge.svg)](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml)
 
@@ -1254,7 +1260,7 @@ A curated list of Rust code and resources.
 
 ## [Jun 30, 2022](/content/2022/06/30/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [ethabi (⭐497)](https://github.com/rust-ethereum/ethabi) - Encode and decode smart contract invocations.
 *   [ethers-rs (⭐2.3k)](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation in Rust. ![Build Status](https://github.com/gakonst/ethers-rs/workflows/Tests/badge.svg)
@@ -1394,7 +1400,7 @@ A curated list of Rust code and resources.
 
 ## [Apr 18, 2022](/content/2022/04/18/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [electrumrs (⭐917)](https://github.com/romanz/electrs) — An efficient re-implementation of Electrum Server in Rust.
 *   [rust-lightning (⭐1.1k)](https://github.com/lightningdevkit/rust-lightning) [![Crate](https://img.shields.io/crates/v/lightning.svg?logo=rust)](https://crates.io/crates/lightning) — Bitcoin Lightning library written in Rust. The main crate,`lightning`, does not handle networking, persistence, or any other I/O. Thus,it is runtime-agnostic, but users must implement basic networking logic, chain interactions, and disk storage.po on linking crate.
@@ -1417,7 +1423,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Web Servers
 
-*   [orhun/rustypaste (⭐622)](https://github.com/orhun/rustypaste) — A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/actions/workflow/status/orhun/rustypaste/ci.yml?branch=master\&label=build)
+*   [orhun/rustypaste (⭐629)](https://github.com/orhun/rustypaste) — A minimal file upload/pastebin service ![https://github.com/orhun/rustypaste/actions](https://img.shields.io/github/actions/workflow/status/orhun/rustypaste/ci.yml?branch=master\&label=build)
 
 ### Development tools / Web Servers
 
@@ -1876,7 +1882,7 @@ A curated list of Rust code and resources.
 
 ## [Sep 27, 2021](/content/2021/09/27/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [rust-bitcoin (⭐1.7k)](https://github.com/rust-bitcoin/rust-bitcoin) — Library with support for de/serialization, parsing and executing on data structures and network messages related to Bitcoin.
 
@@ -1934,7 +1940,7 @@ A curated list of Rust code and resources.
 
 ## [Aug 21, 2021](/content/2021/08/21/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [Parity-Bitcoin (⭐723)](https://github.com/paritytech/parity-bitcoin) — The Parity Bitcoin client
 
@@ -2001,7 +2007,7 @@ A curated list of Rust code and resources.
 
 ## [Aug 16, 2021](/content/2021/08/16/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [interBTC (⭐235)](https://github.com/interlay/interbtc) — Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.
 
@@ -2015,7 +2021,7 @@ A curated list of Rust code and resources.
 
 *   [MaidSafe](https://github.com/maidsafe) — A decentralized platform.
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [Bitcoin Satoshi's Vision (⭐56)](https://github.com/brentongunning/rust-sv) \[[sv](https://crates.io/crates/sv)] — A Rust library for working with Bitcoin SV .
 *   [hdwallet (⭐31)](https://github.com/jjyr/hdwallet) \[[hdwallet](https://crates.io/crates/hdwallet)] — BIP-32 HD wallet related key derivation utilities.
@@ -2091,7 +2097,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [nickgerace/gfold (⭐266)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
+*   [nickgerace/gfold (⭐267)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
 
 ### Applications / Text editors
 
@@ -2279,7 +2285,7 @@ A curated list of Rust code and resources.
 
 ## [Jul 25, 2021](/content/2021/07/25/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [Diem (⭐17k)](https://github.com/diem/diem) — Diem’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
 
@@ -2476,7 +2482,7 @@ A curated list of Rust code and resources.
 
 ## [Jul 02, 2021](/content/2021/07/02/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [Solana (⭐11k)](https://github.com/solana-labs/solana) — Incredibly fast, highly scalable blockchain using Proof-of-History.
 
@@ -2517,7 +2523,7 @@ A curated list of Rust code and resources.
 
 ## [May 05, 2021](/content/2021/05/05/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [Nimiq (⭐74)](https://github.com/nimiq/core-rs) — Rust implementation of Nimiq node
 
@@ -2609,7 +2615,7 @@ A curated list of Rust code and resources.
 
 ## [Feb 12, 2021](/content/2021/02/12/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [Forest (⭐584)](https://github.com/ChainSafe/forest) - Rust Filecoin implementation [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
 
@@ -2652,7 +2658,7 @@ A curated list of Rust code and resources.
 
 ## [Jan 23, 2021](/content/2021/01/23/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [near/nearcore (⭐2.2k)](https://github.com/near/nearcore) — decentralized smart-contract platform for low-end mobile devices.
 
@@ -2673,7 +2679,7 @@ A curated list of Rust code and resources.
 
 ## [Nov 22, 2020](/content/2020/11/22/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [Phala-Network/phala-blockchain (⭐327)](https://github.com/Phala-Network/phala-blockchain) — Confidential smart contract blockchain based on Intel SGX and Substrate
 
@@ -2708,7 +2714,7 @@ A curated list of Rust code and resources.
 
 *   [Polaris (⭐1.3k)](https://github.com/agersant/polaris) — A music streaming application.
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [coinbase-pro-rs (⭐139)](https://github.com/inv2004/coinbase-pro-rs) — Coinbase pro client in Rust, supports sync/async/websocket
 *   [ethaddrgen (⭐168)](https://github.com/Limeth/ethaddrgen) — Custom Ethereum vanity address generator made in Rust
@@ -2789,7 +2795,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Web Servers
 
-*   [svenstaro/miniserve (⭐5.3k)](https://github.com/svenstaro/miniserve) — A small, self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP [![build badge](https://github.com/svenstaro/miniserve/workflows/CI/badge.svg?branch=master)](https://github.com/svenstaro/miniserve/actions)
+*   [svenstaro/miniserve (⭐5.4k)](https://github.com/svenstaro/miniserve) — A small, self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP [![build badge](https://github.com/svenstaro/miniserve/workflows/CI/badge.svg?branch=master)](https://github.com/svenstaro/miniserve/actions)
 
 ### Development tools / Web Servers
 
@@ -3218,14 +3224,14 @@ A curated list of Rust code and resources.
 
 *   [Vim](https://vim.sourceforge.io/) — the ubiquitous text editor
     *   [autozimu/LanguageClient-neovim (⭐3.5k)](https://github.com/autozimu/LanguageClient-neovim) — [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
-    *   [crates.nvim (⭐688)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
+    *   [crates.nvim (⭐700)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
     *   [rust-tools.nvim (⭐2.2k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
     *   [rust.vim (⭐3.7k)](https://github.com/rust-lang/rust.vim) — provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     *   [vim-racer (⭐627)](https://github.com/racer-rust/vim-racer) — allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
 
 ## [Jun 16, 2020](/content/2020/06/16/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [tendermint-rs (⭐564)](https://github.com/informalsystems/tendermint-rs) - Rust implementation of Tendermint blockchain data structures and clients
 
@@ -3255,7 +3261,7 @@ A curated list of Rust code and resources.
 
 ## [Apr 21, 2020](/content/2020/04/21/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [Joystream (⭐1.4k)](https://github.com/Joystream/joystream) — A user governed video platform
 
@@ -3350,7 +3356,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Text search
 
-*   [meilisearch/MeiliSearch (⭐41k)](https://github.com/meilisearch/MeiliSearch) — Ultra relevant, instant and typo-tolerant full-text search API. [![Build Status](https://github.com/meilisearch/MeiliSearch/workflows/Cargo%20test/badge.svg?branch=master)](https://github.com/meilisearch/MeiliSearch/actions)
+*   [meilisearch/MeiliSearch (⭐42k)](https://github.com/meilisearch/MeiliSearch) — Ultra relevant, instant and typo-tolerant full-text search API. [![Build Status](https://github.com/meilisearch/MeiliSearch/workflows/Cargo%20test/badge.svg?branch=master)](https://github.com/meilisearch/MeiliSearch/actions)
 
 ## [Jan 29, 2020](/content/2020/01/29/README.md)
 
@@ -3465,7 +3471,7 @@ A curated list of Rust code and resources.
 
 ## [Jan 07, 2020](/content/2020/01/07/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [CITA (⭐1.3k)](https://github.com/citahub/cita) — A high performance blockchain kernel for enterprise users.
 
@@ -3502,13 +3508,13 @@ A curated list of Rust code and resources.
 
 ## [Jul 03, 2019](/content/2019/07/03/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [zcash (⭐4.8k)](https://github.com/zcash/zcash) — Zcash is an implementation of the "Zerocash" protocol.
 
 ## [Jun 17, 2019](/content/2019/06/17/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [ChainX (⭐305)](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
 *   [Grin (⭐5k)](https://github.com/mimblewimble/grin/) — Evolution of the MimbleWimble protocol

@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Feb 12, 2024](/content/2024/02/12/README.md)
+
+### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
+
+*   [Latent Programmer: Discrete Latent Codes for Program Synthesis](https://proceedings.mlr.press/v139/hong21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9789877360194738968\&hl=en\&as_sdt=0,5)]. Paper introducing the Latent Programmer, a program synthesis method that first predicts a discrete latent code from input/output examples, and then generates the program in the target language.
+
 ## [Feb 10, 2024](/content/2024/02/10/README.md)
 
 ### Domain Specific Language / Design Theory
@@ -80,12 +86,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378) - ***OOPSLA Workshop on Domain-Specific Modeling (DSM' 09)***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=1962567819031018744\&hl=en\&as_sdt=0,5)]. Guidelines to support a DSL developer to achieve better quality of the language design and a better acceptance among its users.
 
-## [Jan 05, 2024](/content/2024/01/05/README.md)
-
-### Domain Specific Language / Design Theory
-
-*   [When and how to develop domain-specific languages](https://dl.acm.org/doi/abs/10.1145/1118890.1118892) - ***ACM Computing Surveys***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=8598236436890577027\&hl=en\&as_sdt=0,5)]. \[[Preprint](https://john.cs.olemiss.edu/~hcc/csci658/notes/localcopy/WhenDSL.pdf)]. A survey on patterns in the decision, analysis, design, and implementation phases of DSL development.
-
 ## [Jan 04, 2024](/content/2024/01/04/README.md)
 
 ### Explainability / Trustworthy AI
@@ -142,7 +142,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Communications / Pragmatics
 
 *   [The SocialAI School: Insights from Developmental Psychology Towards Artificial Socio-Cultural Agents](https://arxiv.org/abs/2307.07871) - ***ICML'23 Workshop on Theory-of-Mind***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11933410239580707313\&hl=en\&as_sdt=0,5)]. \[[Project](https://sites.google.com/view/socialai-school)].
-*   [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733\&hl=en\&as_sdt=0,5)]. \[[OSMnx Tool (⭐4.5k)](https://github.com/gboeing/osmnx)]. \[[OpenStreetMap Website](https://www.openstreetmap.org/)].
+*   [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733\&hl=en\&as_sdt=0,5)]. \[[OSMnx Tool (⭐4.6k)](https://github.com/gboeing/osmnx)]. \[[OpenStreetMap Website](https://www.openstreetmap.org/)].
 *   [Saying what you mean in dialogue: A study in conceptual and semantic co-ordination](https://www.speech.kth.se/~edlund/bielefeld/references/garrod-and-anderson-1987.pdf) - ***Cognition***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=15377075954534820544\&hl=en\&as_sdt=0,5)].
 *   [Conversation, co-ordination and convention: an empirical investigation of how groups establish linguistic conventions](http://www.sfs.uni-tuebingen.de/~gjaeger/lehre/ws0708/spieltheorie/garrod.pdf) - ***Cognition***, 1994. \[[All Versions](https://scholar.google.com/scholar?cluster=3784850469297049700\&hl=en\&as_sdt=0,5)].
 
@@ -391,7 +391,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Jun 16, 2023](/content/2023/06/16/README.md)
 
-### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
+### Domain Specific Language / Design Theory
 
 *   [When and How to Develop Domain-Specific Languages](https://people.cs.ksu.edu/~schmidt/505f14/Lectures/WhenDSL.pdf) - ***ACM Computing Surveys***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=8598236436890577027\&hl=en\&as_sdt=0,5)]. A review on DSL development methodologies that identify patterns in the decision, analysis, design, and implementation phases of DSL development.
 

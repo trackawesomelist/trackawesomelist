@@ -220,7 +220,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [gravity-ui-vite-template (⭐1)](https://github.com/gravity-ui/gravity-ui-vite-example) - Template with Gravity UI ecosystem (React, TypeScript, Gravity UI, Vite, Husky, ESLint, Prettier, Lint-staged).
 *   [vite-react-component-library-starter (⭐9)](https://github.com/rayyamhk/vite-react-component-library-starter) - A starter template for creating React component libraries with `TypeScript`, `Tailwind CSS`, `Storybook`, `Vitest`, `ESLint`, `Prettier`, `Husky`, and `GitHub Action`.
 *   [vite-template-awesome-soho (⭐0)](https://github.com/comnori/vite-template-awesome-soho) - `DevContainer` Template for creating `React 18`, `Javascript + JSDoc`, `React Router`, `Ant Design`, `ESLint`, `EditorConfig`, `.env`, `SonarLint`, `Vitest`.
-*   [react-component-library-vite (⭐0)](https://github.com/gsharath/react-component-library-vite) - A library template for with `React`, `Javascript`,`Styled-Components`, `Vitest`, `React Testing Library`, `Storybook`.
+*   [react-component-library-vite (⭐1)](https://github.com/gsharath/react-component-library-vite) - A library template for with `React`, `Javascript`,`Styled-Components`, `Vitest`, `React Testing Library`, `Storybook`.
 
 #### Svelte
 
@@ -457,6 +457,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-plugin-public-typescript (⭐7)](https://github.com/hemengke1997/vite-plugin-public-typescript) - Inject Typescript into `index.html`.
 *   [unplugin-generate-component-name (⭐14)](https://github.com/CCherry07/unplugin-generate-component-name) - Automatically generate component's name.
 *   [@laynezh/vite-plugin-lib-assets (⭐41)](https://github.com/laynezh/vite-plugin-lib-assets) - Extracts resource files referenced in `library mode` instead of embedded them as base64.
+*   [css-media-splitter/vite-plugin (⭐3)](https://github.com/levchak0910/css-media-splitter) - Extracts all `@media` At-rules into a dedicated `.css` files and download it only when matches the media query.
 
 #### Helpers
 
@@ -620,6 +621,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Loaders
 
 *   [vite-plugin-svgr (⭐441)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
+*   [vite-plugin-react-rich-svg (⭐2)](https://github.com/iGoodie/vite-plugin-react-rich-svg) - Seamless SVG loader with versatile import options; such as DataURI, SVGR Component and Raw HTML Code.
 
 #### Transformers
 
@@ -895,7 +897,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   [îles (⭐1k)](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
 *   [Astro (⭐39k)](https://github.com/withastro/astro) - Modern Static Site Builder.
 *   [Hathora (⭐534)](https://github.com/hathora/hathora) - Multiplayer game framework.
-*   [Nhost (⭐7.3k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐7.4k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 *   [Ladle (⭐2.4k)](https://github.com/tajo/ladle) - Tool for developing and testing component stories powered by Vite and React.
 *   [IslandJS (⭐412)](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
 *   [Vituum (⭐264)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
