@@ -16,7 +16,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 A collection of awesome .NET libraries, tools, frameworks, and software.
 
-Inspired by [awesome-ruby (⭐13k)](https://github.com/markets/awesome-ruby), [awesome-php (⭐30k)](https://github.com/ziadoz/awesome-php), [awesome-python (⭐196k)](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks (⭐40k)](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks (⭐2.2k)](https://github.com/dreikanter/ruby-bookmarks).
+Inspired by [awesome-ruby (⭐13k)](https://github.com/markets/awesome-ruby), [awesome-php (⭐30k)](https://github.com/ziadoz/awesome-php), [awesome-python (⭐197k)](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks (⭐40k)](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks (⭐2.2k)](https://github.com/dreikanter/ruby-bookmarks).
 
 Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard (⭐18k)](https://github.com/quozd/awesome-dotnet/blob/master/CONTRIBUTING.md) pages first. We accept proprietary and commercial software too.
 
@@ -312,8 +312,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [mojoPortal  (⭐189)](https://github.com/i7media/mojoportal) - MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# ASP.NET
 *   [N2CMS (⭐362)](https://github.com/n2cms/n2cms) - Open source, lightweight, code-first CMS able to seamlessly integrate into any MVC project.
 *   [Orchard  (⭐2.4k)](https://github.com/OrchardCMS/Orchard) - Free, open source, community-focused project aimed at delivering applications and reusable components on the ASP.NET platform
-*   [Piranha CMS](https://github.com/PiranhaCMS/Piranha) - Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix. <https://piranhacms.org>
-*   [Umbraco (⭐4.1k)](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free open source Content Management System built on the ASP.NET platform
+*   [Piranha CMS (⭐1.9k)](https://github.com/PiranhaCMS/piranha.core) - Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix. <https://piranhacms.org>
+*   [Umbraco (⭐4.2k)](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free open source Content Management System built on the ASP.NET platform
 *   [DotNetNuke](https://www.dnnsoftware.com/community/download) - DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.
 *   [BlogEngine.NET (⭐943)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
 *   [Squidex (⭐2.1k)](https://github.com/Squidex/squidex) ![GitHub stars](https://img.shields.io/github/stars/Squidex/squidex?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Squidex/squidex?style=flat-square\&cacheSeconds=86400) - Open source headless CMS and content management hub.  <https://squidex.io>
@@ -339,6 +339,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 *   [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C#, F# and VB code in the browser. The .Net equivalent of JSFiddle.
 *   [Sharplab](https://sharplab.io/) - Run C# code using different branches and versions of Roslyn, see the IL that was produced and examine the JIT's output.
+*   [Entity Framework Playground](https://efplayground.io) - Examine the generated SQL for migrations and queries by writing `DbContext` and queries using it in the browser. Learn by example, compare different versions of Entity Framework and providers such as MS SQL, PostgreSql and Sqlite.
 
 ## Compilers, Transpilers and Languages
 
@@ -479,8 +480,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Stripe.Net (⭐1.3k)](https://github.com/stripe/stripe-dotnet) - Stripe.net is a full service .NET API for <https://stripe.com/>
 *   [Virto Commerce (⭐1.2k)](https://github.com/VirtoCommerce/vc-platform) - Virto Commerce is the second generation release and is the only enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.5 with extensive use of MVC, IoC, EF, Azure, AngularJS and many other cutting edge technologies. It can be deployed in Microsoft Cloud (Azure), Amazon Web Services (AWS) and on-premise. <https://virtocommerce.com>
 *   [SimplCommerce (⭐4.1k)](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
-*   [GrandNode (⭐918)](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB.
-*   [Square (⭐27)](https://github.com/square/connect-csharp-sdk) - The official SDK for Square payments and other Square APIs.
+*   [GrandNode (⭐928)](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB.
 *   [Adyen (⭐94)](https://github.com/Adyen/adyen-dotnet-api-library) - The official Adyen Payment API Library for .NET
 
 ## Emulators
@@ -540,6 +540,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [UnrealCLR (⭐3k)](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET Core integration
 *   [osu!framework (⭐1.5k)](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
 *   [DotRecast (⭐312)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
+*   [Foster (⭐288)](https://github.com/FosterFramework/Foster) - Foster is a small cross-platform 2D game framework in C#.
 
 ## GIS
 

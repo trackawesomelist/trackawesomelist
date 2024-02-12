@@ -6,6 +6,20 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 [ [Daily](/content/quozd/awesome-dotnet/README.md) / Weekly / [Overview](/content/quozd/awesome-dotnet/readme/README.md) ]
 
+## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
+
+### CMS
+
+*   [Piranha CMS (⭐1.9k)](https://github.com/PiranhaCMS/piranha.core) - Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix. <https://piranhacms.org>
+
+### Code Snippets
+
+*   [Entity Framework Playground](https://efplayground.io) - Examine the generated SQL for migrations and queries by writing `DbContext` and queries using it in the browser. Learn by example, compare different versions of Entity Framework and providers such as MS SQL, PostgreSql and Sqlite.
+
+### Game
+
+*   [Foster (⭐288)](https://github.com/FosterFramework/Foster) - Foster is a small cross-platform 2D game framework in C#.
+
 ## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
 
 ### Office
@@ -638,7 +652,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### E-Commerce and Payments
 
-*   [GrandNode (⭐918)](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB.
+*   [GrandNode (⭐928)](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB.
 
 ## [Mar 01 - Mar 07, 2021](/content/2021/9/README.md)
 
@@ -1220,10 +1234,6 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 *   [Stuntman](https://rimdev.io/stuntman/) - Stuntman is a library for impersonating users during development leveraging .NET Claims Identity.
 
-### CMS
-
-*   [Piranha CMS](https://github.com/PiranhaCMS/Piranha) - Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix. <https://piranhacms.org>
-
 ### Compilers, Transpilers and Languages
 
 *   [Hybridizer](https://www.altimesh.com/hybridizer-essentials/) - CIL (C#, VB.Net, F#) to CUDA compiler. **\[$]**
@@ -1308,12 +1318,6 @@ A collection of awesome .NET libraries, tools, frameworks and software
 ### Web Frameworks
 
 *   [ASP.NET MVC](https://dotnet.microsoft.com/apps/aspnet) - ASP.NET is a free web framework for building great web sites and applications
-
-## [Mar 04 - Mar 10, 2019](/content/2019/9/README.md)
-
-### E-Commerce and Payments
-
-*   [Square (⭐27)](https://github.com/square/connect-csharp-sdk) - The official SDK for Square payments and other Square APIs.
 
 ## [Feb 11 - Feb 17, 2019](/content/2019/6/README.md)
 
@@ -3031,7 +3035,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 ### CMS
 
 *   [Orchard  (⭐2.4k)](https://github.com/OrchardCMS/Orchard) - Free, open source, community-focused project aimed at delivering applications and reusable components on the ASP.NET platform
-*   [Umbraco (⭐4.1k)](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free open source Content Management System built on the ASP.NET platform
+*   [Umbraco (⭐4.2k)](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free open source Content Management System built on the ASP.NET platform
 
 ### Testing
 
