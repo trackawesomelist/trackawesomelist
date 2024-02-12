@@ -16,7 +16,7 @@
 
 ### Packages / Debugging / Profiling
 
-*   [njsTrace (⭐358)](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function.
+*   [njsTrace (⭐360)](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function.
 
 ### Packages / Testing
 
@@ -30,8 +30,8 @@
 
 ### Structural Migrations
 
-*   [Lobos (⭐267)](https://github.com/budu/lobos)
-*   [Ragtime (⭐587)](https://github.com/weavejester/ragtime)
+*   [Lobos (⭐266)](https://github.com/budu/lobos)
+*   [Ragtime (⭐588)](https://github.com/weavejester/ragtime)
 *   [Drift (⭐121)](https://github.com/macourtney/drift)
 
 ### Type System

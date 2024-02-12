@@ -42,7 +42,7 @@
 
 ### Memory Allocation
 
-*   [Boehm GC (⭐2.6k)](https://github.com/ivmai/bdwgc) - Conservative garbage collector for C and C++. \[similar to X11] [website](http://www.hboehm.info/gc/)
+*   [Boehm GC (⭐2.7k)](https://github.com/ivmai/bdwgc) - Conservative garbage collector for C and C++. \[similar to X11] [website](http://www.hboehm.info/gc/)
 
 ## [6. Awesome Ava](/content/avajs/awesome-ava/README.md)
 
@@ -54,13 +54,13 @@
 
 ### Testing
 
-*   [crytic (⭐61)](https://github.com/hanneskaeufler/crytic) - Mutation testing framework
+*   [crytic (⭐66)](https://github.com/hanneskaeufler/crytic) - Mutation testing framework
 
 ## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Feast (⭐4.7k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
+*   [Feast (⭐5.1k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
 
 ---
 

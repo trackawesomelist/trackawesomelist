@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 06, 2022
 
-3 awesome lists updated today.
+2 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -36,13 +36,7 @@
 *   ⭐️ [An insightful executive summary of ChatGPT](https://twitter.com/swyx/status/1599189032529178624)
 *   [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html)
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Go / Phoenix
-
-*   [Golang by Example](https://golangbyexample.com)
-
-## [3. Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/README.md)
+## [2. Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/README.md)
 
 ### Official Resource
 
@@ -109,4 +103,4 @@
 ---
 
 - Prev: [Dec 07, 2022](/content/2022/12/07/README.md)
-- Next: [Dec 04, 2022](/content/2022/12/04/README.md)
+- Next: [Dec 05, 2022](/content/2022/12/05/README.md)

@@ -36,7 +36,7 @@
 
 ### Native Apps (open source)
 
-*   [Transportr (⭐914)](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler (⭐350)](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
+*   [Transportr (⭐976)](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler (⭐372)](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
 
 ## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
@@ -54,7 +54,7 @@
 
 ### ORM and SQL generation
 
-*   [Toucan (⭐568)](https://github.com/metabase/toucan)
+*   [Toucan (⭐572)](https://github.com/metabase/toucan)
 
 ## [8. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 

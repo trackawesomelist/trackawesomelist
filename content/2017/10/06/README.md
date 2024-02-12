@@ -91,7 +91,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Red Teaming (⭐5k)](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+- Repository: [Red Teaming (⭐6.2k)](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 
   Description: List of Awesome Red Team / Red Teaming Resources
 

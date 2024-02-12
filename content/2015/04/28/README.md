@@ -16,13 +16,13 @@
 
 ### Queue
 
-*   [amqp (⭐646)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
+*   [amqp (⭐655)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / NoSQL
 
-*   [PHPMongo (⭐238)](https://github.com/sokil/php-mongo) - A MongoDB ORM.
+*   [PHPMongo (⭐243)](https://github.com/sokil/php-mongo) - A MongoDB ORM.
 
 ## [4. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 
@@ -38,11 +38,11 @@
 
 ### Reproducible Research
 
-*   [Sweave](https://www.statistik.lmu.de/\~leisch/Sweave/) - A package designed to write LaTeX reports using R.
+*   [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - A package designed to write LaTeX reports using R.
 
 ### R Development
 
-*   [installr (⭐247)](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
+*   [installr (⭐264)](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
 
 ## [6. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 

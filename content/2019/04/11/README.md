@@ -75,7 +75,7 @@
 
 ### Graphics
 
-*   [Blend2D (⭐1.3k)](https://github.com/blend2d/blend2d) - 2D vector graphics engine powered by a JIT compiler. \[Zlib] [website](https://blend2d.com/)
+*   [Blend2D (⭐1.4k)](https://github.com/blend2d/blend2d) - 2D vector graphics engine powered by a JIT compiler. \[Zlib] [website](https://blend2d.com/)
 
 ## [11. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -85,19 +85,19 @@
 
 ## [12. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
-### Vue with Electron   [↗](https://awesomestacks.dev/vue-with-electron) / Resources
+### Vue with Electron [↗](https://awesomestacks.dev/vue-with-electron) / Resources
 
 *   [Vue Router](https://router.vuejs.org/) - [🐙 (⭐19k)](https://github.com/vuejs/vue-router) - Vue Router is the official router for Vue.js.
 *   [Vue CLI](https://cli.vuejs.org/) - [🐙 (⭐30k)](https://github.com/vuejs/vue-cli) - An approachable core library that focuses on the view layer only.
-*   [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙 (⭐106k)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+*   [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙 (⭐110k)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
 *   [electron-builder](https://www.electron.build) - [🐙 (⭐13k)](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box.
-*   [Vuex](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 (⭐59k)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
+*   [Vuex](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 (⭐60k)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
 *   [Vue.js & Electron: The easy way. – Mikeal](https://medium.com/@mikeal/vue-js-electron-the-easy-way-adc3ca09234a)
 *   [How to use Vue.js with Electron and Vuex](https://alligator.io/vuejs/vue-electron/)
 
-### Unity Game Development boilerplate   [↗](https://awesomestacks.dev/unity-Game-Development-boilerplate) / Resources
+### Unity Game Development boilerplate [↗](https://awesomestacks.dev/unity-Game-Development-boilerplate) / Resources
 
-*   [Unity](https://unity.com/) - [🛠](https://stackshare.io/unity-3d) - [🐙 (⭐10k)](https://github.com/Unity-Technologies/UnityCsReference) - The C# part of the Unity engine and editor source code. May be used for reference purposes only.
+*   [Unity](https://unity.com/) - [🛠](https://stackshare.io/unity-3d) - [🐙 (⭐11k)](https://github.com/Unity-Technologies/UnityCsReference) - The C# part of the Unity engine and editor source code. May be used for reference purposes only.
 *   [First steps with Plastic SCM in Unity](https://www.youtube.com/playlist?list=PL29P1RRr5_NzEhAustJCTwdahs60JvcMm)
 *   [Plastic SCM for Games](https://www.plasticscm.com/games)
 

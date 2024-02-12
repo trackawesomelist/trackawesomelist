@@ -81,7 +81,7 @@
 
 ### Functional
 
-*   [haunted (⭐2.5k)](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
+*   [haunted (⭐2.6k)](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 
 ## [9. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 

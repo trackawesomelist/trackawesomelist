@@ -10,18 +10,18 @@
 
 ### Tools / update
 
-*   [Husky (⭐28k)](https://github.com/typicode/husky) - Manage git hooks with a nice user interface.
-*   [Overcommit (⭐3.7k)](https://github.com/sds/overcommit) - A fully configurable and extendable git hook manager.
+*   [Husky (⭐31k)](https://github.com/typicode/husky) - Manage git hooks with a nice user interface.
+*   [Overcommit (⭐3.9k)](https://github.com/sds/overcommit) - A fully configurable and extendable git hook manager.
 
 ## [2. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Multimedia content processing
 
-*   [libear (⭐18)](https://github.com/ebu/libear) - A C++11 library to render ADM content according to Recommendation ITU-R BS.2127.
+*   [libear (⭐22)](https://github.com/ebu/libear) - A C++11 library to render ADM content according to Recommendation ITU-R BS.2127.
 
 ### Radio Production
 
-*   [Rivendell (⭐154)](https://github.com/ElvishArtisan/rivendell) - Complete radio broadcast automation solution, translated to many languages and used worldwide.
+*   [Rivendell (⭐177)](https://github.com/ElvishArtisan/rivendell) - Complete radio broadcast automation solution, translated to many languages and used worldwide.
 
 ## [3. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 

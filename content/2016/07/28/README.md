@@ -90,7 +90,7 @@
 
 ### Command-Line Productivity
 
-*   [aliases (⭐472)](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for bash
+*   [aliases (⭐499)](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for bash
 
 ## [6. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
@@ -115,7 +115,6 @@
 
 ### Podcasts and Episodes / Podcasts
 
-*   [TrustedSec Podcast](https://www.trustedsec.com/podcast/) - From the people at TrustedSec, leaders in Social Engineering, their episodes often go into recent vehicle vulnerabilities and exploits.
 *   [Security Ledger](https://soundcloud.com/securityledger) - A podcast focusing on interviewing security experts about topics related to security.
 
 ### Podcasts and Episodes / Episodes
@@ -126,7 +125,6 @@
 
 ### Miscellaneous / Episodes
 
-*   [CANtact](http://linklayer.github.io/cantact/) - "The Open Source Car Tool" designed to help you hack your car. You can buy one or make your own following the guide here.
 *   [Freematics OBD-II Telematics Kit](http://freematics.com/pages/products/arduino-telematics-kit-3/) - Arduino-based OBD-II Bluetooth adapter kit has both an OBD-II device and a data logger, and it comes with GPS, an accelerometer and gyro, and temperature sensors.
 *   [GoodThopter12](http://goodfet.sourceforge.net/hardware/goodthopter12/) - Crafted by a well-known hardware hacker, this board is a general board that can be used for exploration of automotive networks.
 *   [USB2CAN](http://www.8devices.com/products/usb2can/) - Cheap USB to CAN connector that will register a device on linux that you can use to get data from a CAN network.
@@ -137,16 +135,16 @@
 ### Applications / Episodes
 
 *   [Kayak](http://kayak.2codeornot2code.org/) - Java application for CAN bus diagnosis and monitoring.
-*   [UDSim (⭐245)](https://github.com/zombieCraig/UDSim/) - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
+*   [UDSim (⭐264)](https://github.com/zombieCraig/UDSim/) - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
 *   [RomRaider](http://www.romraider.com/) - An open source tuning suite for the Subaru engine control unit that lets you view and log data and tune the ECU.
 
 ### Libraries and Tools / Python
 
-*   [c0f (⭐80)](https://github.com/zombieCraig/c0f/) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
+*   [c0f (⭐82)](https://github.com/zombieCraig/c0f/) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
 
 ### Libraries and Tools / Go
 
-*   [CANNiBUS (⭐101)](https://github.com/Hive13/CANiBUS/) - A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.
+*   [CANNiBUS (⭐105)](https://github.com/Hive13/CANiBUS/) - A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.
 
 ### Libraries and Tools / JavaScript
 
@@ -158,17 +156,17 @@
 ### Coordinated disclosure / JavaScript
 
 *   Security
-    *   [Application Security (⭐5.7k)](https://github.com/paragonie/awesome-appsec)
-    *   [Security (⭐10k)](https://github.com/sbilly/awesome-security)
-    *   [Capture the Flag (⭐8.2k)](https://github.com/apsdehal/awesome-ctf)
-    *   [Malware Analysis (⭐10k)](https://github.com/rshipp/awesome-malware-analysis)
-    *   [Android Security (⭐7.1k)](https://github.com/ashishb/android-security-awesome)
-    *   [Hacking (⭐10k)](https://github.com/carpedm20/awesome-hacking)
-    *   [Honeypots (⭐7.1k)](https://github.com/paralax/awesome-honeypots)
-    *   [Incident Response (⭐6.4k)](https://github.com/meirwah/awesome-incident-response)
+    *   [Application Security (⭐5.9k)](https://github.com/paragonie/awesome-appsec)
+    *   [Security (⭐11k)](https://github.com/sbilly/awesome-security)
+    *   [Capture the Flag (⭐8.9k)](https://github.com/apsdehal/awesome-ctf)
+    *   [Malware Analysis (⭐11k)](https://github.com/rshipp/awesome-malware-analysis)
+    *   [Android Security (⭐7.5k)](https://github.com/ashishb/android-security-awesome)
+    *   [Hacking (⭐12k)](https://github.com/carpedm20/awesome-hacking)
+    *   [Honeypots (⭐7.7k)](https://github.com/paralax/awesome-honeypots)
+    *   [Incident Response (⭐6.9k)](https://github.com/meirwah/awesome-incident-response)
 *   Meta
-    *   [awesome (⭐262k)](https://github.com/sindresorhus/awesome)
-    *   [lists (⭐9.1k)](https://github.com/jnv/lists)
+    *   [awesome (⭐287k)](https://github.com/sindresorhus/awesome)
+    *   [lists (⭐9.4k)](https://github.com/jnv/lists)
 
 ---
 

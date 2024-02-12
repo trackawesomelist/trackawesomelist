@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 28, 2019
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,8 +16,8 @@
 
 ### Components
 
-*   [Material-UI Chip Input (⭐743)](https://github.com/TeamWertarbyte/material-ui-chip-input) - Material-UI chip input inspired by Angular Material chip input.
-*   [Material-UI Upload (⭐37)](https://github.com/corpix/material-ui-upload) - Upload controls made in Material-UI using FileAPI.
+*   [Material-UI Chip Input (⭐739)](https://github.com/TeamWertarbyte/material-ui-chip-input) - Material-UI chip input inspired by Angular Material chip input.
+*   [Material-UI Upload (⭐36)](https://github.com/corpix/material-ui-upload) - Upload controls made in Material-UI using FileAPI.
 *   [Super Select Field (⭐266)](https://github.com/Sharlaan/material-ui-superselectfield) - Multi-selection autocomplete dropdown component for Material-UI.
 *   [Material JSON Schema Form (⭐4)](https://github.com/nadunindunil/material-jsonschema-form) - Material-UI form generated from json.
 
@@ -26,13 +26,7 @@
 *   [TagSpaces](https://www.tagspaces.org/) - An offline, open source, file manager.
 *   [NPM registry browser](https://topheman.github.io/npm-registry-browser/) - An open source web app that lets you search the npm registry and browse packages details.
 
-## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
-
-### Form Components / Date / Time picker
-
-*   [react-datepicker2 (⭐231)](https://github.com/mberneti/react-datepicker2) - [demo](https://mberneti.github.io/react-datepicker2/) - [docs](https://mberneti.github.io/react-datepicker2/) A simple and reusable datepicker component (with persian jalali calendar support).
-
-## [4. Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/README.md)
+## [3. Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/README.md)
 
 ### SVG
 
@@ -109,7 +103,7 @@
 *   [Keyframer](http://alexberg.in/keyframer/) - Tool that help visualize animation components and output the code required.
 *   [CSS Animation Kit](http://angrytools.com/css/animation/) - Select any predefined samples from top panel. Below samples there is a timeline of @keyframes. Timeline has 101 keyframes ( 0% to 100%) direction from left to right. Highlighted keyframe indicate that some style is assigned to that point. You can add new style at selected point.
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Source Code Repos
 
@@ -183,7 +177,6 @@
 *   [crossbrowsertesting.com](https://crossbrowsertesting.com) - Manual, Visual, and Selenium Browser Testing in the cloud - [free for Open Source](https://crossbrowsertesting.com/open-source)
 *   [everystep-automation.com](https://www.everystep-automation.com/) — Records and replays all steps made in a web browser and creates scripts, free with fewer options
 *   [gridlastic.com](https://www.gridlastic.com/) — Selenium Grid testing with a free plan of up to 4 simultaneous selenium nodes/10 grid starts/4,000 test minutes/month
-*   [saucelabs.com](https://saucelabs.com/) — Cross-browser, Selenium, and mobile testing. The free plan includes 2000 credits per week. They also provide free licenses for selected open-source projects, which can be requested [here](https://opensource.saucelabs.com/).
 *   [testingbot.com](https://testingbot.com/) — Selenium Browser and Device Testing, [free for Open Source](https://testingbot.com/open-source)
 *   [tesults.com](https://www.tesults.com) — Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free projects.
 
@@ -265,7 +258,6 @@
 
 ### CDN and Protection
 
-*   [PageCDN.com](https://pagecdn.com/) - Offers free Public CDN for everyone and free Private CDN for open source/nonprofits.
 *   [raw.githack.com](https://raw.githack.com/) — A modern replacement of **rawgit.com** which simply hosts file using Cloudflare
 *   [section.io](https://www.section.io/) — A simple way to spin up and manage a complete Varnish Cache solution. Supposedly free forever for one site
 *   [toranproxy.com](https://toranproxy.com/) — Proxy for Packagist and GitHub. Never fail CD. Free for personal use, one developer, no support
@@ -363,7 +355,7 @@
 *   [landen.co](https://www.landen.co) — Generate, edit, and publish beautiful websites and landing pages for your startup. All without code. The free tier allows you to have one website, fully customizable and published on the web.
 *   [lensdump.com](https://lensdump.com/) - Free cloud image hosting.
 *   [marvelapp.com](https://marvelapp.com/) — Design, prototyping, and collaboration, free plan limited to one user and project.
-*   [Pencil (⭐8.8k)](https://github.com/evolus/pencil) - Open source design tool using Electron.
+*   [Pencil (⭐8.9k)](https://github.com/evolus/pencil) - Open source design tool using Electron.
 *   [pexels.com](https://www.pexels.com/) - Free stock photos for commercial use. Has a free API that allows you to search photos by keywords.
 *   [photopea.com](https://www.photopea.com) — A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).
 *   [pixlr.com](https://pixlr.com/) — Free online browser editor on the level of commercial ones.
@@ -424,7 +416,7 @@
 *   [superfeedr.com](https://superfeedr.com/) — Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
 *   [SurveyMonkey.com](https://www.surveymonkey.com) — Create online surveys. Analyze the results online. The free plan allows only 10 questions and 100 responses per survey.
 
-## [6. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
+## [5. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
 
 ### Books
 
@@ -434,35 +426,35 @@
 
 *   \[A journey through OKRs] (<https://www.hotpmo.com/blog/a-journey-through-okr>) : An introduction to OKRs and their application in portfolio project management.
 
-## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [6. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Extensions
 
 *   [Next Cookie (⭐190)](https://github.com/tokuda109/next-cookie) - Cookie serializer and deserializer library for Next.js.
 
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Talks
 
 *   [Meeting Cpp](https://www.youtube.com/user/MeetingCPP/videos) - Meeting C++ Youtube Channel
 
-## [9. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
+## [8. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
 
 ### Platforms and toolkits
 
 *   [Spacy](https://spacy.io/) - Industrial-strength  National Language Processing in Python.
 
-## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Queue
 
-*   🍰 [Queue plugin (⭐295)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
+*   🍰 [Queue plugin (⭐296)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
 
 ### File Manipulation
 
 *   [Josbeir/Filesystem plugin (⭐20)](https://github.com/josbeir/cakephp-filesystem) - Abstract [Flysystem](https://flysystem.thephpleague.com/) + file entity based upload plugin.
 
-## [11. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
+## [10. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
 ### Tools and Plugins
 

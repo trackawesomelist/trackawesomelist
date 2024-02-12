@@ -14,7 +14,7 @@
 
 ### Online Resources / Other Lists Online
 
-*   [AWS Tool Arsenal (⭐8.4k)](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of tools for testing and securing AWS environments.
+*   [AWS Tool Arsenal (⭐8.6k)](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of tools for testing and securing AWS environments.
 
 ## [2. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Anti Forensics (⭐536)](https://github.com/remiflavien1/awesome-anti-forensic) - A collection of awesome tools used to counter forensics activities.
+*   [Awesome Anti Forensics (⭐604)](https://github.com/remiflavien1/awesome-anti-forensic) - A collection of awesome tools used to counter forensics activities.
 
 ## [5. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Algorithms and Data structures
 
-*   [bitmap (⭐32)](https://github.com/hashd/bitmap-elixir) - Pure Elixir implementation of [bitmaps](https://en.wikipedia.org/wiki/Bitmap).
+*   [bitmap (⭐33)](https://github.com/hashd/bitmap-elixir) - Pure Elixir implementation of [bitmaps](https://en.wikipedia.org/wiki/Bitmap).
 
 ## [2. Awesome R](/content/qinwf/awesome-R/README.md)
 
@@ -20,7 +20,7 @@
 
 ### HTML Widgets
 
-*   [threejs (⭐280)](https://github.com/bwlewis/rthreejs) - Interactive 3D scatter plots and globes.
+*   [threejs (⭐296)](https://github.com/bwlewis/rthreejs) - Interactive 3D scatter plots and globes.
 
 ### Reproducible Research
 
@@ -36,7 +36,7 @@
 
 ### Database Management
 
-*   [RHive (⭐124)](https://github.com/nexr/RHive) - R extension facilitating distributed computing via Apache Hive.
+*   [RHive (⭐123)](https://github.com/nexr/RHive) - R extension facilitating distributed computing via Apache Hive.
 
 ### Network Analysis
 

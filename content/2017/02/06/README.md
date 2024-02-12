@@ -39,7 +39,7 @@
 
 ## [6. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
-### Project Sharing Platforms / Eagle
+### Project Sharing Platforms / Altium
 
 *   [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
 
@@ -60,7 +60,7 @@
 
 ### Machine Learning
 
-*   [mlpack (⭐4.6k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
+*   [mlpack (⭐4.7k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
 
 ---
 

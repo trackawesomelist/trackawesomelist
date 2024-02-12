@@ -33,25 +33,25 @@
 
 ### Third-Party Packages / Editors
 
-*   [django-summernote (⭐984)](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
+*   [django-summernote (⭐988)](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
 
 ## [3. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Infrastructure as Code Analysis / Containers
 
-*   [Trivy (⭐14k)](https://github.com/aquasecurity/trivy) - *Aqua Security* - Simple and comprehensive vulnerability scanner for containers.
+*   [Trivy (⭐20k)](https://github.com/aquasecurity/trivy) - *Aqua Security* - Simple and comprehensive vulnerability scanner for containers.
 
 ## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
-*   [MeTube (⭐2.2k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
+*   [MeTube (⭐2.5k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
 
 ## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Customization / Directory Navigation
 
-*   [powerlevel10k (⭐36k)](https://github.com/romkatv/powerlevel10k) - Super flexible awesome powerline ZSH theme
+*   [powerlevel10k (⭐39k)](https://github.com/romkatv/powerlevel10k) - Super flexible awesome powerline ZSH theme
 
 ### System Utilities / Directory Navigation
 
@@ -59,15 +59,15 @@
 
 ### Downloading and Serving / Directory Navigation
 
-*   [httpie (⭐28k)](https://github.com/httpie/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
+*   [httpie (⭐30k)](https://github.com/httpie/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
 
 ### Applications / Directory Navigation
 
-*   [kanban.bash (⭐791)](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity bash hackers (csv-based)
+*   [kanban.bash (⭐854)](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity bash hackers (csv-based)
 
 ### Shell Script Development / Directory Navigation
 
-*   [powscript (⭐140)](https://github.com/coderofsalvation/powscript) - bash transpiler written in bash (coffeescript for bash)
+*   [powscript (⭐147)](https://github.com/coderofsalvation/powscript) - bash transpiler written in bash (coffeescript for bash)
 *   [Bash Official Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 *   [The Linux Documentation Project: Bash Programming - Intro/How-to](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 *   [The Linux Documentation Project: Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
@@ -170,7 +170,7 @@
 
 ### C, C++
 
-*   [with-c-syntax (⭐128)](https://github.com/y2q-actionman/with-c-syntax) - a fun package which introduces the C language syntax into Common Lisp. (Yes, this package is not for practical coding, I think.) WTFPL Licence.
+*   [with-c-syntax (⭐133)](https://github.com/y2q-actionman/with-c-syntax) - a fun package which introduces the C language syntax into Common Lisp. (Yes, this package is not for practical coding, I think.) WTFPL Licence.
 
 ### Function extensions
 
@@ -190,7 +190,7 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [gs-quant (⭐2.1k)](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
+*   [gs-quant (⭐2.3k)](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
 
 ## [12. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 

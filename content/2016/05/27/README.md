@@ -8,9 +8,9 @@
 
 ## [1. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
-### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
+### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [Português do Brasil (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
+*   [Português do Brasil (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
 
 ## [2. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Graphic Displays
 
-*   [ggtree (⭐669)](https://github.com/GuangchuangYu/ggtree) - Visualization and annotation of phylogenetic tree.
+*   [ggtree (⭐772)](https://github.com/GuangchuangYu/ggtree) - Visualization and annotation of phylogenetic tree.
 
 ## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

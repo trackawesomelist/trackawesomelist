@@ -10,24 +10,24 @@
 
 ### Software / Personal Dashboards
 
-*   [LinkStack](https://linkstack.org/) - Link all your social media platforms easily accessible on one page, customizable through an intuitive, easy to use user/admin interface (alternative to Linktree and Manylink). ([Demo](https://linksta.cc/), [Source Code (⭐1.3k)](https://github.com/LinkStackOrg/LinkStack)) `AGPL-3.0` `PHP/Docker`
+*   [LinkStack](https://linkstack.org/) - Link all your social media platforms easily accessible on one page, customizable through an intuitive, easy to use user/admin interface (alternative to Linktree and Manylink). ([Demo](https://linksta.cc/), [Source Code (⭐1.6k)](https://github.com/LinkStackOrg/LinkStack)) `AGPL-3.0` `PHP/Docker`
 
 ## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [yaocccc/nvim-hl-mdcodeblock.lua (⭐23)](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua) - Highlight markdown codeblock using Tree-sitter.
+*   [yaocccc/nvim-hl-mdcodeblock.lua (⭐28)](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua) - Highlight markdown codeblock using Tree-sitter.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [nyngwang/nvimgelion (⭐71)](https://github.com/nyngwang/nvimgelion) - Neon Genesis Evangelion but for Vimmers.
+*   [nyngwang/nvimgelion (⭐86)](https://github.com/nyngwang/nvimgelion) - Neon Genesis Evangelion but for Vimmers.
 
 ## [3. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### System and Customization
 
 *   [GDM Settings](https://gdm-settings.github.io) - A settings app for GDM (GNOME's Login Screen a.k.a GNOME Display Manager).
-*   [AdwSteamGtk (⭐113)](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam (⭐884)](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
+*   [AdwSteamGtk (⭐133)](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam (⭐973)](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
 
 ## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -297,17 +297,17 @@
 
 ### Tools & Software / Acquisition
 
-*   [Scoop (⭐71)](https://github.com/harvard-lil/scoop) - High-fidelity, browser-based, single-page web archiving library and CLI for witnessing the web. *(Stable)*
+*   [Scoop (⭐82)](https://github.com/harvard-lil/scoop) - High-fidelity, browser-based, single-page web archiving library and CLI for witnessing the web. *(Stable)*
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Related Awesome Lists / Galleries
+### Related Awesome Lists / Deforum
 
-*   [kyrolabs/awesome-langchain (⭐5.4k)](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
+*   [kyrolabs/awesome-langchain (⭐6.1k)](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
 
-### Inbox: Large Language Models (LLMs) / Embeddings and Semantic Search
+### Embeddings and Semantic Search / Prompt Engineering for Text-to-image
 
-*   [neuml/txtai (⭐5.3k)](https://github.com/neuml/txtai): semantic search and workflows powered by language models
+*   [neuml/txtai (⭐6.3k)](https://github.com/neuml/txtai): semantic search and workflows powered by language models
 
 ## [8. Awesome React](/content/enaqx/awesome-react/README.md)
 
@@ -318,12 +318,11 @@
 ### React State Management and Data Fetching
 
 *   [rxdb (⭐20k)](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
-*   [watermelondb (⭐9.5k)](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps
 
 ### React Maps
 
-*   [react-map-gl (⭐7.3k)](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
-*   [react-leaflet (⭐4.8k)](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
+*   [react-map-gl (⭐7.5k)](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
+*   [react-leaflet (⭐4.9k)](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 
 ### React Charts
 
@@ -331,7 +330,7 @@
 
 ### React Renderers
 
-*   [remotion (⭐17k)](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
+*   [remotion (⭐18k)](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
 
 ### React Native General Resources
 
@@ -340,11 +339,11 @@
 ### React Native Navigation
 
 *   [react-navigation (⭐23k)](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
-*   [expo-router (⭐1.3k)](https://github.com/expo/router) - The File-based router for universal React Native apps
+*   [expo-router (⭐1.4k)](https://github.com/expo/router) - The File-based router for universal React Native apps
 
 ### React Native Libraries
 
-*   [react-native-device-info (⭐6.2k)](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
+*   [react-native-device-info (⭐6.3k)](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
 
 ## [9. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 

@@ -59,7 +59,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [KChat (⭐120)](https://github.com/php-kchat/kchat) - PHP Based Live Chat Application. `Apache-2.0` `PHP`
+*   [KChat (⭐125)](https://github.com/php-kchat/kchat) - PHP Based Live Chat Application. `Apache-2.0` `PHP`
 
 ### Software / Communication - Email - Mail Transfer Agents
 
@@ -67,7 +67,7 @@
 
 ### Software / Internet of Things (IoT)
 
-*   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐320)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java/Docker/K8S`
+*   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐342)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java/Docker/K8S`
 
 ## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
@@ -96,18 +96,18 @@
 
 ### Tools / update
 
-*   [Husky (⭐28k)](https://github.com/typicode/husky) - Manage git hooks with a nice user interface.
-*   [Overcommit (⭐3.7k)](https://github.com/sds/overcommit) - A fully configurable and extendable git hook manager.
+*   [Husky (⭐31k)](https://github.com/typicode/husky) - Manage git hooks with a nice user interface.
+*   [Overcommit (⭐3.9k)](https://github.com/sds/overcommit) - A fully configurable and extendable git hook manager.
 
 ## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
-*   [libear (⭐18)](https://github.com/ebu/libear) - A C++11 library to render ADM content according to Recommendation ITU-R BS.2127.
+*   [libear (⭐22)](https://github.com/ebu/libear) - A C++11 library to render ADM content according to Recommendation ITU-R BS.2127.
 
 ### Radio Production
 
-*   [Rivendell (⭐154)](https://github.com/ElvishArtisan/rivendell) - Complete radio broadcast automation solution, translated to many languages and used worldwide.
+*   [Rivendell (⭐177)](https://github.com/ElvishArtisan/rivendell) - Complete radio broadcast automation solution, translated to many languages and used worldwide.
 
 ## [12. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
@@ -613,11 +613,11 @@
 
 ### Icons
 
-*   [iconify-react (⭐194)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
+*   [iconify-react (⭐197)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
 
 ### Form Components / Star Rating
 
-*   [react-awesome-stars-rating (⭐26)](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
+*   [react-awesome-stars-rating (⭐27)](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
 
 ## [21. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -759,8 +759,8 @@
 
 ### Automation / Code libraries and bindings
 
-*   [MultiScanner (⭐593)](https://github.com/mitre/multiscanner) - File analysis framework written in Python that assists in evaluating a set of files by automatically running a suite of tools against them and aggregating the output.
-*   [libcrafter (⭐290)](https://github.com/pellegre/libcrafter) - High level C++ network packet sniffing and crafting library.
+*   [MultiScanner (⭐600)](https://github.com/mitre/multiscanner) - File analysis framework written in Python that assists in evaluating a set of files by automatically running a suite of tools against them and aggregating the output.
+*   [libcrafter (⭐291)](https://github.com/pellegre/libcrafter) - High level C++ network packet sniffing and crafting library.
 
 ### Security monitoring / Service and performance monitoring
 
@@ -780,7 +780,7 @@
 
 ### Files / Runner
 
-*   [PDF.js (⭐44k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
+*   [PDF.js (⭐45k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
 
 ## [36. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 

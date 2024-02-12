@@ -18,7 +18,7 @@
 
 *   [fre:ac (⭐1.1k)](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
 *   [Jack (⭐11)](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
-*   [K3b (⭐113)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
+*   [K3b (⭐119)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
 *   [lltag (⭐30)](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
 *   [Rubyripper (⭐110)](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
 *   [split2flac (⭐250)](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
@@ -78,7 +78,7 @@
 
 ### Miscellaneous
 
-*   [kezban (⭐39)](https://github.com/ertugrulcetin/kezban)
+*   [kezban (⭐41)](https://github.com/ertugrulcetin/kezban)
 
 ---
 

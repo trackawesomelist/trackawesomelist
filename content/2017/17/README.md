@@ -174,7 +174,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Bowtie (⭐760)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
+*   [Bowtie (⭐762)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
 
 ## [14. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -184,16 +184,16 @@
 
 ### DVB & WiFi
 
-*   [ts2mpa (⭐4)](https://github.com/njh/ts2mpa) - Simple tool to extract MPEG Audio from a MPEG Transport Stream (TS).
+*   [ts2mpa (⭐5)](https://github.com/njh/ts2mpa) - Simple tool to extract MPEG Audio from a MPEG Transport Stream (TS).
 
 ### Hybrid Radio
 
 *   [RadioDNS for Node.js (⭐6)](https://github.com/bbc/node-radiodns) - Perform RadioDNS resolutions and service lookups in node.js.
-*   [RadioVIS Stomp Server (⭐11)](https://github.com/bbc/node-radiovis-stomp-server) - RadioVIS STOMP server written in node.js.
+*   [RadioVIS Stomp Server (⭐12)](https://github.com/bbc/node-radiovis-stomp-server) - RadioVIS STOMP server written in node.js.
 
 ### Network & Storage Testing
 
-*   [Fio (⭐4.1k)](https://github.com/axboe/fio) - Flexible I/O Tester
+*   [Fio (⭐4.6k)](https://github.com/axboe/fio) - Flexible I/O Tester
 *   [iPerf3](https://iperf.fr/) - The TCP, UDP and SCTP network bandwidth measurement tool.
 
 ### Software-defined radio
@@ -211,7 +211,7 @@
 
 ### Tools / Libraries
 
-*   [Palettable (⭐702)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+*   [Palettable (⭐719)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 
 ### Color Palettes / Web App
 
@@ -230,9 +230,9 @@
 
 ## [18. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
-### Other useful repositories
+### Other Useful Repositories
 
-- Repository: [Probable Wordlists (⭐7.7k)](https://github.com/berzerk0/Probable-Wordlists)
+- Repository: [Probable Wordlists (⭐8.3k)](https://github.com/berzerk0/Probable-Wordlists)
 
   Description: Wordlists sorted by probability originally created for password generation and testing
 
@@ -321,13 +321,13 @@
 
 ### Shell Package Management / Directory Navigation
 
-*   [dotdrop (⭐1.6k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
+*   [dotdrop (⭐1.7k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 
 ## [27. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Open-source sites / Lists
 
-*   [RTEI (⭐14)](https://github.com/okfn/rtei) – Right to Education Index website (OKFN).
+*   [RTEI (⭐15)](https://github.com/okfn/rtei) – Right to Education Index website (OKFN).
 
 ## [28. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
@@ -430,7 +430,7 @@
 
 ### Authentication and OAuth
 
-*   [Monban (⭐373)](https://github.com/halogenandtoast/monban) - A very simple and extensible user authentication library for rails.
+*   [Monban (⭐372)](https://github.com/halogenandtoast/monban) - A very simple and extensible user authentication library for rails.
 
 ### E-Commerce and Payments
 
@@ -498,7 +498,7 @@
 ### Contents / Community
 
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
-*   [Github (⭐35k)](https://github.com/developit/preact)
+*   [Github (⭐36k)](https://github.com/developit/preact)
 *   [Twitter](https://twitter.com/preactjs)
 
 ### Contents / Toolkits
@@ -507,18 +507,18 @@
 
 ### Contents / Components
 
-*   [Preact Material Components (⭐547)](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
+*   [Preact Material Components (⭐548)](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
 
 ### Contents / Related Libraries
 
-*   [React (⭐214k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+*   [React (⭐217k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 *   [Inferno (⭐16k)](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 
 ## [42. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Testing
 
-*   [Mockery (⭐10k)](https://github.com/mockery/mockery) - A mock object library for testing.
+*   [Mockery (⭐11k)](https://github.com/mockery/mockery) - A mock object library for testing.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 18 - Jan 24, 2021
 
-54 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -139,18 +139,18 @@
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
-*   [near/nearcore (⭐2.1k)](https://github.com/near/nearcore) — decentralized smart-contract platform for low-end mobile devices.
+*   [near/nearcore (⭐2.2k)](https://github.com/near/nearcore) — decentralized smart-contract platform for low-end mobile devices.
 
 ### Applications / System tools
 
-*   [cristianoliveira/funzzy (⭐207)](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/)
+*   [cristianoliveira/funzzy (⭐216)](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/)
 
 ### Libraries / GUI
 
-*   [ImGui (⭐51k)](https://github.com/ocornut/imgui)
-    *   [imgui-rs (⭐2.3k)](https://github.com/imgui-rs/imgui-rs) — Rust bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
+*   [ImGui (⭐54k)](https://github.com/ocornut/imgui)
+    *   [imgui-rs (⭐2.5k)](https://github.com/imgui-rs/imgui-rs) — Rust bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
 
 ## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -193,7 +193,7 @@
 
 ### Projects / Boilerplate
 
-*   [launchr (⭐220)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
+*   [launchr (⭐224)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
 
 ## [8. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
@@ -208,10 +208,6 @@
 *   [Data Science in Education Using R](https://datascienceineducation.com/) - This book is primarily about learning to use R as a tool for data science in education. Authors: Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez.
 
 ## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
-
-### Tools
-
-*   🔧 [create-tailwind-plugin (⭐21)](https://github.com/Landish/create-tailwind-plugin) - Plugin scaffolder for Tailwind CSS.
 
 ### UI Libraries, Components & Templates
 
@@ -231,16 +227,16 @@
 
 ### Related awesome / Object detection and object tracking
 
-*   [Awesome point cloud analysis :octocat: (⭐3.8k)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
-*   [Awesome robotics :octocat: (⭐3.4k)](https://github.com/Kiloreux/awesome-robotics#readme)
-*   [Awesome robotics libraries :octocat: (⭐1.9k)](https://github.com/jslee02/awesome-robotics-libraries#readme)
-*   [Awesome artificial intelligence :octocat: (⭐8.1k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
+*   [Awesome point cloud analysis :octocat: (⭐3.9k)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
+*   [Awesome robotics :octocat: (⭐3.7k)](https://github.com/Kiloreux/awesome-robotics#readme)
+*   [Awesome robotics libraries :octocat: (⭐2k)](https://github.com/jslee02/awesome-robotics-libraries#readme)
+*   [Awesome artificial intelligence :octocat: (⭐8.4k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 *   [Awesome computer vision :octocat: (⭐19k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-*   [Awesome machine learning :octocat: (⭐60k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
-*   [Awesome deep learning :octocat: (⭐21k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
-*   [Awesome reinforcement learning :octocat: (⭐8.3k)](https://github.com/aikorea/awesome-rl/#readme)
-*   [Awesome SLAM datasets :octocat: (⭐1.4k)](https://github.com/youngguncho/awesome-slam-datasets#readme)
-*   [Awesome vehicle security and car hacking :octocat: (⭐2.5k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
+*   [Awesome machine learning :octocat: (⭐62k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
+*   [Awesome deep learning :octocat: (⭐22k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
+*   [Awesome reinforcement learning :octocat: (⭐8.5k)](https://github.com/aikorea/awesome-rl/#readme)
+*   [Awesome SLAM datasets :octocat: (⭐1.5k)](https://github.com/youngguncho/awesome-slam-datasets#readme)
+*   [Awesome vehicle security and car hacking :octocat: (⭐2.7k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
 ## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -262,11 +258,11 @@
 
 ### HTTP
 
-*   [WebApiClient (⭐1.9k)](https://github.com/dotnetcore/WebApiClient) An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
+*   [WebApiClient (⭐2k)](https://github.com/dotnetcore/WebApiClient) An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
 
 ### Misc
 
-*   [Quickenshtein (⭐252)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
+*   [Quickenshtein (⭐265)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
 
 ## [14. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -527,11 +523,7 @@
 
 ### Software / DNS
 
-*   [blocky (⭐3k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go/Docker`
-
-### Software / Personal Dashboards
-
-*   [Dashboard (⭐894)](https://github.com/phntxx/dashboard) - Minimalist homepage for organizing your web applications and bookmarks using JSON-files. `MIT` `Nodejs/Docker`
+*   [blocky (⭐3.3k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go/Docker`
 
 ## [21. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -553,7 +545,7 @@
 
 ### Python / Natural Language Processing
 
-*   [Rasa (⭐17k)](https://github.com/RasaHQ/rasa) - A "machine learning framework to automate text-and voice-based conversations."
+*   [Rasa (⭐18k)](https://github.com/RasaHQ/rasa) - A "machine learning framework to automate text-and voice-based conversations."
 
 ## [24. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
@@ -563,41 +555,41 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [2D Day/Night Cycle (⭐278)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D (Godot 3.x).
+*   [2D Day/Night Cycle (⭐297)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D (Godot 3.x).
 
 ### Plugins and scripts / Godot version unknown
 
-*   [GDSerCommPlugin (⭐57)](https://github.com/NangiDev/GDSerCommPlugin) - A plugin to read Arduino serial input (needs custom engine modules).
+*   [GDSerCommPlugin (⭐61)](https://github.com/NangiDev/GDSerCommPlugin) - A plugin to read Arduino serial input (needs custom engine modules).
 
 ### Modules / Various Godot versions
 
-*   [Entity Spell System (⭐115)](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs (Godot 3.2, 4.0).
-*   [godot-anl (⭐103)](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library (⭐75)](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
-*   [godot-python (⭐1.6k)](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
-*   [godot-voxel (⭐1.9k)](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds (Godot 3.1+).
-*   [Gdnet for Godot 3 (⭐115)](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
+*   [Entity Spell System (⭐137)](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs (Godot 3.2, 4.0).
+*   [godot-anl (⭐107)](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library (⭐76)](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
+*   [godot-python (⭐1.7k)](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
+*   [godot-voxel (⭐2.2k)](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds (Godot 3.1+).
+*   [Gdnet for Godot 3 (⭐122)](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
 
 ### Modules / Godot 3.2+
 
-*   [godotcord (⭐50)](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
-*   [godot-apple-id (⭐30)](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
-*   [Godot-Slicer (⭐107)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐1.6k)](https://github.com/DavidArayan/ezy-slice) for Godot.
-*   [Goost (⭐440)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
+*   [godotcord (⭐52)](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
+*   [godot-apple-id (⭐32)](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
+*   [Godot-Slicer (⭐110)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐1.7k)](https://github.com/DavidArayan/ezy-slice) for Godot.
+*   [Goost (⭐453)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
 *   [PortAudio (⭐13)](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use [PortAudio](http://www.portaudio.com).
 
 ### Modules / Godot 3.1
 
-*   [FMOD Integration (⭐174)](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot.
+*   [FMOD Integration (⭐175)](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot.
 
 ### Modules / Godot version unknown
 
-*   [godot-enet-better (⭐93)](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
-*   [Head tracking using OpenCV (⭐42)](https://github.com/antarktikali/godot-opencv-gpu-perspective)
-*   [Open Adaptive Music Library (⭐57)](https://github.com/oamldev/oamlGodotModule)
+*   [godot-enet-better (⭐92)](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
+*   [Head tracking using OpenCV (⭐43)](https://github.com/antarktikali/godot-opencv-gpu-perspective)
+*   [Open Adaptive Music Library (⭐58)](https://github.com/oamldev/oamlGodotModule)
 *   [NativeDialogs (⭐22)](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot.
 *   [RawPacker (⭐22)](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
-*   [spine (⭐128)](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
-*   [WaterSplash 2D node (⭐37)](https://github.com/laverneth/water)
+*   [spine (⭐129)](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
+*   [WaterSplash 2D node (⭐38)](https://github.com/laverneth/water)
 
 ### Bash scripts / Godot version unknown
 
@@ -607,7 +599,7 @@
 
 ### Other / Godot version unknown
 
-*   [gd2cs.py (⭐58)](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
+*   [gd2cs.py (⭐73)](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
 
 ## [25. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
 
@@ -619,21 +611,21 @@
 
 ### Infrastructure as Code Analysis / Containers
 
-*   [Hadolint (⭐7.6k)](https://github.com/hadolint/hadolint) - *Hadolint* - Checks a Dockerfile against known rules and validates inline bash code in RUN statements.
+*   [Hadolint (⭐9.3k)](https://github.com/hadolint/hadolint) - *Hadolint* - Checks a Dockerfile against known rules and validates inline bash code in RUN statements.
 
 ### Infrastructure as Code Analysis / Terraform
 
-*   [Regula (⭐790)](https://github.com/fugue/regula) - *Fugue* - Evaluate Terraform infrastructure-as-code for potential security misconfigurations and compliance violations prior to deployment.
+*   [Regula (⭐908)](https://github.com/fugue/regula) - *Fugue* - Evaluate Terraform infrastructure-as-code for potential security misconfigurations and compliance violations prior to deployment.
 
 ## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
-*   [phx\_gen\_auth (⭐784)](https://github.com/aaronrenner/phx_gen_auth) - An authentication system generator for Phoenix 1.5 applications.
+*   [phx\_gen\_auth (⭐782)](https://github.com/aaronrenner/phx_gen_auth) - An authentication system generator for Phoenix 1.5 applications.
 
 ### Security
 
-*   [Ockam (⭐3.7k)](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
+*   [Ockam (⭐4.2k)](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
 
 ## [28. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
@@ -649,7 +641,7 @@
 
 ### Tools and session management
 
-*   [libtmux (⭐915)](https://github.com/tmux-python/libtmux) Python API for tmux
+*   [libtmux (⭐935)](https://github.com/tmux-python/libtmux) Python API for tmux
 *   [teamocil (⭐2.3k)](https://github.com/remi/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
 *   [tmuxp (⭐3.8k)](https://github.com/tmux-python/tmuxp) :computer: tmux session manager and python library
 
@@ -668,7 +660,7 @@
 
 ### no-std crates / WIP
 
-*   [embassy (⭐3k)](https://github.com/akiles/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
+*   [embassy (⭐0)](https://github.com/akiles/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
 
 ## [31. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
@@ -680,7 +672,7 @@
 
 ### CRM
 
-*   [Hitobito (⭐316)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito (⭐325)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
 ## [33. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
@@ -776,7 +768,7 @@
 
 ### Databases / ORMs
 
-*   [Piccolo (⭐1.1k)](https://github.com/piccolo-orm/piccolo) - An async ORM and query builder, supporting Postgres and SQLite, with batteries (migrations, security, etc).
+*   [Piccolo (⭐1.2k)](https://github.com/piccolo-orm/piccolo) - An async ORM and query builder, supporting Postgres and SQLite, with batteries (migrations, security, etc).
     *   [FastAPI Examples (⭐18)](https://github.com/piccolo-orm/piccolo_examples) - Using FastAPI with Piccolo.
 
 ### Tutorials / Other Tools
@@ -831,11 +823,11 @@
 
 ### Demo
 
-*   [Sitecore MVP (⭐63)](https://github.com/Sitecore/MVP-Site) - The source code of real Sitecore MVP website built with Sitecore 10 and SXAworking in containers.
+*   [Sitecore MVP (⭐63)](https://github.com/Sitecore/MVP-Site) - The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers.
 
 ### Containers
 
-*   [Sitecore Docker Tools (⭐25)](https://github.com/sitecore/docker-tools) - Set of utilities to improve developer experience when running Sitecore in a Docker environment. This an image with development scripts and entrypoints that can be used during Sitecore container builds and a PowerShell module with functions used on the Sitecore container host to initialize the Sitecore Docker environment.
+*   [Sitecore Docker Tools (⭐26)](https://github.com/sitecore/docker-tools) - Set of utilities to improve developer experience when running Sitecore in a Docker environment. This an image with development scripts and entrypoints that can be used during Sitecore container builds and a PowerShell module with functions used on the Sitecore container host to initialize the Sitecore Docker environment.
 
 ### Publishing
 
@@ -888,12 +880,12 @@
 
 ### Database
 
-*   [next.jdbc (⭐674)](https://github.com/seancorfield/next-jdbc)
-*   [clojure.java.jdbc (⭐709)](https://github.com/clojure/java.jdbc)
+*   [next.jdbc (⭐705)](https://github.com/seancorfield/next-jdbc)
+*   [clojure.java.jdbc (⭐708)](https://github.com/clojure/java.jdbc)
 
 ### Text Processing
 
-*   [lmgrep (⭐187)](https://github.com/dainiusjocas/lucene-grep)
+*   [lmgrep (⭐188)](https://github.com/dainiusjocas/lucene-grep)
 
 ## [50. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -906,31 +898,17 @@
 *   [Second Career Devs](https://secondcareerdevs.com/) - Each episode of the Second Career Devs podcast focuses on a guest who became a software engineer after a previous career.
 *   [The Hackersploit Podcast](https://www.listennotes.com/podcasts/the-hackersploit-podcast-alexis-rwTafnO1K9c/) - The HackerSploit podcast is aimed at educating anyone interested in Infosec, Hacking or Cybersecurity.
 
-## [51. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### BETA / Non-X86
-
-*   [MIA 99-42: The Fragment System: Further Specification](https://beta.cs.au.dk/Manuals/latest/beta/fragment.html) - Mjølner Informatics
-
-### JavaScript / React
-
-*   [React Book, your beginner guide to React (⭐1.3k)](https://github.com/softchris/react-book/) - Chris Noring
-
-### JavaScript / Vue.js
-
-*   [30 Days Of Vue](https://www.newline.co/30-days-of-vue) - Hassan Djirdeh (HTML; *email required for PDF*)
-
-## [52. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-gauge (⭐12)](https://github.com/chrisheanan/vue-gauge) - Vue.js component to create animated svg gauge charts
+*   [vue-gauge (⭐13)](https://github.com/chrisheanan/vue-gauge) - Vue.js component to create animated svg gauge charts
 
 ### Components & Libraries / Utilities
 
 *   [v-fetch (⭐6)](https://github.com/shaynekasai/v-fetch) - Vue.js directive to make AJAX requests.
 
-## [53. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [52. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Frameworks and Stacks
 
@@ -948,7 +926,7 @@
 
 *   [PyQtGraph (⭐3.2k)](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications.
 
-## [54. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [53. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Gaming
 
@@ -956,7 +934,7 @@
 
 ### Miscellaneous
 
-*   [Web Monetization (⭐270)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
+*   [Web Monetization (⭐275)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
 
 ---
 

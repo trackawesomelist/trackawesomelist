@@ -10,7 +10,7 @@
 
 ### Date and Time
 
-*   [calendar (⭐458)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
+*   [calendar (⭐459)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
 
 ## [2. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
@@ -22,14 +22,14 @@
 
 ### Scroll / Other
 
-*   [ScrollMenu (⭐203)](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
+*   [ScrollMenu (⭐204)](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
 
 ## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### System Utilities / Directory Navigation
 
 *   [htop (⭐5.8k)](https://github.com/hishamhm/htop) - A ncurses based interactive process viewer which aims to be a better `top`
-*   [powertop (⭐817)](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
+*   [powertop (⭐870)](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
 
 ## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

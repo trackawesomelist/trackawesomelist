@@ -35,7 +35,7 @@
 
 ### Projection Mapping • VJing
 
-*   [VirtualMapper (⭐219)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
+*   [VirtualMapper (⭐225)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 

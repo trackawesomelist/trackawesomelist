@@ -10,7 +10,7 @@
 
 ### JavaScript / Data Analysis / Data Visualization
 
-*   [datakit (⭐291)](https://github.com/nathanepstein/datakit) - A lightweight framework for data analysis in JavaScript
+*   [datakit (⭐292)](https://github.com/nathanepstein/datakit) - A lightweight framework for data analysis in JavaScript
 
 ## [2. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Tools / App Vulnerability Scanners
 
-*   [QARK (⭐3k)](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan apps for security issues
+*   [QARK (⭐3.1k)](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan apps for security issues
 
 ## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

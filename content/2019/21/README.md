@@ -43,7 +43,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [Touch Bar Simulator (⭐1.8k)](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Touch Bar Simulator (⭐1.9k)](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Communication / Collaboration and Team Tools
 
@@ -51,7 +51,7 @@
 
 ### Audio and Video Tools / File Sharing
 
-*   [Gifski (⭐7.1k)](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/no/app/gifski/id1351639930?mt=12)
+*   [Gifski (⭐7.3k)](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/no/app/gifski/id1351639930?mt=12)
 
 ### Utilities / Productivity
 
@@ -267,7 +267,7 @@
 
 ### Sample Projects / PHP
 
-*   [Eric Evans DDD Cargo Sample (⭐794)](https://github.com/codeliner/php-ddd-cargo-sample) - PHP 7 Version of the cargo sample used in Eric Evans DDD book
+*   [Eric Evans DDD Cargo Sample (⭐797)](https://github.com/codeliner/php-ddd-cargo-sample) - PHP 7 Version of the cargo sample used in Eric Evans DDD book
 
 ## [16. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
@@ -313,7 +313,7 @@
 
 ## [22. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
-### Vue Enterprise Boilerplate   [↗](https://awesomestacks.dev/vue-enterprise-boilerplate) / Resources
+### Vue Enterprise Boilerplate [↗](https://awesomestacks.dev/vue-enterprise-boilerplate) / Resources
 
 *   [Vuex](https://vuex.vuejs.org/) - [🐙 (⭐28k)](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js.
 
@@ -339,71 +339,71 @@
 *   [Sobell's Book](http://www.sobell.com/CR3/index.html) - A practical guide to commands, editors, and shell programming.
 *   [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 *   [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
-*   [learnyoubash (⭐709)](https://github.com/denysdovhan/learnyoubash) - An interactive workshopper which will teach you how to use the terminal and write your the first Bash script.
+*   [learnyoubash (⭐719)](https://github.com/denysdovhan/learnyoubash) - An interactive workshopper which will teach you how to use the terminal and write your the first Bash script.
 
 ### Command-Line Productivity
 
-*   [aliases (⭐494)](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.
+*   [aliases (⭐509)](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.
 *   [bashhub (⭐1.2k)](https://github.com/rcaloras/bashhub-client) - Bash history in the cloud. Indexed and searchable :cloud:.
 *   [bashmarks (⭐1.8k)](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell.
-*   [commacd (⭐354)](https://github.com/shyiko/commacd) - A faster way to move around in Bash.
-*   [has (⭐556)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path.
-*   [hstr (⭐3.7k)](https://github.com/dvorka/hstr) - Bash History Suggest Box.
-*   [qfc (⭐566)](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh.
+*   [commacd (⭐357)](https://github.com/shyiko/commacd) - A faster way to move around in Bash.
+*   [has (⭐594)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path.
+*   [hstr (⭐3.8k)](https://github.com/dvorka/hstr) - Bash History Suggest Box.
+*   [qfc (⭐569)](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh.
 
 ### Customization
 
-*   [bash-git-prompt (⭐6.5k)](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy Bash prompt for Git users.
-*   [bash-powerline (⭐868)](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
+*   [bash-git-prompt (⭐6.6k)](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy Bash prompt for Git users.
+*   [bash-powerline (⭐874)](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
 *   [bashstrap (⭐1.6k)](https://github.com/barryclark/bashstrap) - A quick way to spruce up macOS terminal.
-*   [git-prompt (⭐325)](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules.
-*   [gittify (⭐66)](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases.
-*   [liquidprompt (⭐4.3k)](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
-*   [mysql-colorize (⭐95)](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client.
+*   [git-prompt (⭐326)](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules.
+*   [gittify (⭐69)](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases.
+*   [liquidprompt (⭐4.4k)](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
+*   [mysql-colorize (⭐98)](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client.
 *   [oh-my-git (⭐3.6k)](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh.
-*   [progress-bar.sh (⭐221)](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progressbar for `bash`, give it a duration and it will do the rest.
+*   [progress-bar.sh (⭐225)](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progressbar for `bash`, give it a duration and it will do the rest.
 *   [sexy-bash-prompt (⭐1.1k)](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
 *   [bash-sensible (⭐2k)](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults.
 
 ### Data
 
-*   [BigBash (⭐280)](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary.
+*   [BigBash (⭐282)](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary.
 
 ### For Developers
 
 *   [bocker (⭐11k)](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash.
-*   [git-sh (⭐727)](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
+*   [git-sh (⭐732)](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
 
 ### Downloading and Serving
 
-*   [balls (⭐846)](https://github.com/jneen/balls) - Bash on Balls.
+*   [balls (⭐853)](https://github.com/jneen/balls) - Bash on Balls.
 *   [bashttpd (⭐1.5k)](https://github.com/avleen/bashttpd) - A web server written in Bash.
 *   [Dropbox-Uploader (⭐6.5k)](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox.
-*   [ngincat (⭐169)](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat.
+*   [ngincat (⭐171)](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat.
 *   [xiringuito (⭐1.1k)](https://github.com/ivanilves/xiringuito) - SSH-based VPN for poors.
 
 ### Applications
 
-*   [bashblog (⭐1.5k)](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting.
+*   [bashblog (⭐1.6k)](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting.
 *   [pushbullet-bash (⭐228)](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API.
-*   [todo.sh (⭐5.3k)](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file.
-*   [cheapci (⭐180)](https://github.com/ianmiell/cheapci) - A continuous integration framework implemented in bash.
+*   [todo.sh (⭐5.4k)](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file.
+*   [cheapci (⭐182)](https://github.com/ianmiell/cheapci) - A continuous integration framework implemented in bash.
 
 ### Games
 
-*   [bash2048 (⭐878)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game.
+*   [bash2048 (⭐885)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game.
 *   [minesweeper (⭐54)](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper.
 
 ### Website
 
-*   [Bash One-Liners](http://www.bashoneliners.com/) -  A collection of practical or just pure awesome bash one-liners ([repos (⭐202)](https://github.com/janosgyerik/bashoneliners) by @[janosgyerik](https://github.com/janosgyerik)).
+*   [Bash One-Liners](http://www.bashoneliners.com/) -  A collection of practical or just pure awesome bash one-liners ([repos (⭐204)](https://github.com/janosgyerik/bashoneliners) by @[janosgyerik](https://github.com/janosgyerik)).
 *   [commandlinefu](http://www.commandlinefu.com/) -  A repository for the most elegant and useful UNIX commands.
 
 ### Shell Package Management
 
 *   [bash-it (⭐14k)](https://github.com/Bash-it/bash-it) - A community Bash framework.
 *   [basher (⭐1.1k)](https://github.com/basherpm/basher) - A package manager for shell scripts.
-*   [bpkg (⭐1.8k)](https://github.com/bpkg/bpkg) - A lightweight bash package manager.
+*   [bpkg (⭐1.9k)](https://github.com/bpkg/bpkg) - A lightweight bash package manager.
 *   [homeshick (⭐2k)](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
 
 ### Community
@@ -414,14 +414,14 @@
 
 ### Books
 
-*   :books: :fire: [TypeScript Quickly](https://www.manning.com/books/typescript-quickly) Learn modern TypeScript and build your own blockchain; Supporting code samples :octocat:[yfain/getts (⭐116)](https://github.com/yfain/getts)
+*   :books: :fire: [TypeScript Quickly](https://www.manning.com/books/typescript-quickly) Learn modern TypeScript and build your own blockchain; Supporting code samples :octocat:[yfain/getts (⭐119)](https://github.com/yfain/getts)
 *   :books: [Angular Development with Typescript, Second Edition (MEAP October 2017)](https://www.manning.com/books/angular-development-with-typescript-second-edition) Angular Development with Typescript, Second Edition is an intermediate-level tutorial that introduces Angular and TypeScript to developers comfortable with building web applications using other frameworks and tools. (by Yakov Fain and Anton Moiseev; Manning)
 
 ## [26. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Example Projects
 
-*   [Angular Webapp secured with Keycloak (⭐334)](https://github.com/CodepediaOrg/bookmarks.dev)
+*   [Angular Webapp secured with Keycloak (⭐343)](https://github.com/CodepediaOrg/bookmarks.dev)
 
 ### Miscellaneous
 
@@ -450,9 +450,9 @@
 
 ### Python
 
-*   [cl4py (⭐82)](https://github.com/marcoheisig/cl4py) - The library cl4py (pronounce as clappy) allows Python programs to call Common Lisp libraries. [MIT](https://opensource.org/licenses/MIT).
-*   [py4cl (⭐200)](https://github.com/bendudson/py4cl) - A library that allows Common Lisp code to access Python libraries. It is basically the inverse of cl4py. [MIT](https://opensource.org/licenses/MIT).
-*   [cl-python (⭐357)](https://github.com/metawilm/cl-python) - an implementation of Python in Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html), not under active development.
+*   [cl4py (⭐84)](https://github.com/marcoheisig/cl4py) - The library cl4py (pronounce as clappy) allows Python programs to call Common Lisp libraries. [MIT](https://opensource.org/licenses/MIT).
+*   [py4cl (⭐211)](https://github.com/bendudson/py4cl) - A library that allows Common Lisp code to access Python libraries. It is basically the inverse of cl4py. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-python (⭐364)](https://github.com/metawilm/cl-python) - an implementation of Python in Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html), not under active development.
 
 ### Utils / Third-party APIs
 
@@ -520,7 +520,7 @@
 
 ### Related Awesome Lists / Mocking
 
-*   [Awesome Annotation Processing (⭐408)](https://github.com/gunnarmorling/awesome-annotation-processing)
+*   [Awesome Annotation Processing (⭐427)](https://github.com/gunnarmorling/awesome-annotation-processing)
 
 ## [36. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -533,7 +533,7 @@
 
 ### Open Source / Other
 
-*   [Tockler (⭐788)](https://github.com/MayGo/tockler) - Tracks your time.
+*   [Tockler (⭐809)](https://github.com/MayGo/tockler) - Tracks your time.
 
 ## [38. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -545,8 +545,8 @@
 
 ### Data Manipulation
 
-*   [snakecase (⭐130)](https://github.com/Tazinho/snakecase) - Automatically parse and convert strings into cases like snake or camel among others.
-*   [DataExplorer (⭐451)](https://github.com/boxuancui/DataExplorer) - Fast exploratory data analysis with minimum code.
+*   [snakecase (⭐143)](https://github.com/Tazinho/snakecase) - Automatically parse and convert strings into cases like snake or camel among others.
+*   [DataExplorer (⭐483)](https://github.com/boxuancui/DataExplorer) - Fast exploratory data analysis with minimum code.
 
 ### Graphic Displays
 
@@ -562,12 +562,12 @@
 ### Bioinformatics and Biostatistics
 
 *   [glmmTMB](https://cran.r-project.org/web/packages/glmmTMB/index.html) - Generalized mixed-effects models, handling user-specified matrix of residual covariance, relevant for the anaysis of repeated observations in longitudinal trials.
-*   [lme4 (⭐529)](https://github.com/lme4/lme4) - Generalized mixed-effects models.
+*   [lme4 (⭐583)](https://github.com/lme4/lme4) - Generalized mixed-effects models.
 *   [nlme](https://cran.r-project.org/web/packages/nlme/index.html) - Mixed-effects models, handling user-specified matrix of residual covariance, relevant for the anaysis of repeated observations in longitudinal trials.
 
 ### Finance
 
-*   [scorecard (⭐142)](https://github.com/ShichenXie/scorecard) - Credit Risk Scorecard
+*   [scorecard (⭐157)](https://github.com/ShichenXie/scorecard) - Credit Risk Scorecard
 
 ### Spatial
 
@@ -593,23 +593,23 @@
 
 ### Asynchronous Event Loop
 
-*   [libuv (⭐22k)](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O. \[BSD]
+*   [libuv (⭐23k)](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O. \[BSD]
 
 ### Containers
 
-*   [dynamic\_bitset (⭐136)](https://github.com/pinam45/dynamic_bitset) - A C++17 header-only dynamic bitset. \[MIT]
+*   [dynamic\_bitset (⭐140)](https://github.com/pinam45/dynamic_bitset) - A C++17 header-only dynamic bitset. \[MIT]
 
 ### CSV
 
-*   [Vince's CSV Parser (⭐760)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
+*   [Vince's CSV Parser (⭐798)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
 
 ### Internationalization
 
-*   [utf8proc (⭐929)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. \[MIT]
+*   [utf8proc (⭐961)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. \[MIT]
 
 ### Web Application Framework
 
-*   [Drogon (⭐10k)](https://github.com/an-tao/drogon) - A C++14/17 based, high-performance HTTP application framework. \[MIT]
+*   [Drogon (⭐11k)](https://github.com/an-tao/drogon) - A C++14/17 based, high-performance HTTP application framework. \[MIT]
 
 ## [41. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -666,16 +666,16 @@
 ### Platforms
 
 *   [Android (⭐10k)](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
-*   [React Native (⭐33k)](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
-*   [Adafruit IO (⭐46)](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
+*   [React Native (⭐34k)](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
+*   [Adafruit IO (⭐49)](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
 
 ### Programming Languages
 
-*   [C/C++ (⭐49k)](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
+*   [C/C++ (⭐52k)](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 
 ### Front-End Development
 
-*   [Storybook (⭐337)](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
+*   [Storybook (⭐345)](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
 
 ### Back-End Development
 

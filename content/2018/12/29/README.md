@@ -54,7 +54,7 @@
 
 ### Logging / Text-Based User Interfaces
 
-*   [p6spy (⭐1.9k)](https://github.com/p6spy/p6spy) - Enables logging for all JDBC transactions without changes to the code.
+*   [p6spy (⭐2k)](https://github.com/p6spy/p6spy) - Enables logging for all JDBC transactions without changes to the code.
 
 ### Messaging / Text-Based User Interfaces
 
@@ -71,7 +71,7 @@
 
 ### Security / Other
 
-*   [Kalium (⭐207)](https://github.com/abstractj/kalium) - Binding for the Networking and Cryptography (NaCl) library.
+*   [Kalium (⭐208)](https://github.com/abstractj/kalium) - Binding for the Networking and Cryptography (NaCl) library.
 
 ### Websites / Other
 
@@ -82,7 +82,7 @@
 
 ### Serialization
 
-*   [nanopb (⭐3.7k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
+*   [nanopb (⭐3.9k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
 
 ## [9. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

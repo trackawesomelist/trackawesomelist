@@ -10,7 +10,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [react-native (⭐112k)](https://github.com/facebook/react-native) - A framework for building native apps with React.
+*   [react-native (⭐114k)](https://github.com/facebook/react-native) - A framework for building native apps with React.
 
 ## [2. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
@@ -20,7 +20,7 @@
 *   [Canvas Colour Cycling](http://www.effectgames.com/demos/canvascycle/) \[[show me the code](http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5)] • This demo is an implementation of a full 8-bit color cycling engine, rendered into an HTML5 Canvas in real-time.
 *   [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) \[[show me the code](http://cssdeck.com/labs/zeaklousedit)] • A great example about how to create circular rings using canvas.
 *   [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended) • Thid demo renders a 3d model of Apple iPod with sphere environmental mapping technique.
-*   [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) \[[show me the code (⭐203)](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)] • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.
+*   [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) \[[show me the code (⭐207)](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)] • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.
 *   [Fibrous Texture](http://cssdeck.com/labs/full/fibrous) \[[show me the code](http://cssdeck.com/labs/fibrous)] • Simple canvas based animation; draws random lines across the field. Makes an interesting papery pattern that becomes increasingly detailed with each iteration.
 *   [Image Nodes](http://cssdeck.com/labs/full/image-nodes) \[[show me the code](http://cssdeck.com/labs/image-nodes)] • Interactive nodes built from image data. Use the mouse to play.
 *   [JS Metaballs](http://cssdeck.com/labs/full/js-metaballs) \[[show me the code](http://cssdeck.com/labs/js-metaballs)] • Experiment for Chrome. Mix of webkit-filter and canvas for a metaballs effect.
@@ -43,8 +43,8 @@
 ### Resources / Twitter
 
 *   [@jeresig](https://twitter.com/jeresig) - Creator of [Processing.js (⭐1.7k)](https://github.com/jeresig/processing-js)
-*   [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js (⭐89k)](https://github.com/mrdoob/three.js)
-*   [@soulwire](https://twitter.com/soulwire) - Creator of [sketch.js (⭐4k)](https://github.com/soulwire/sketch.js) and actively creating and sharing canvas/WebGL experiments
+*   [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js (⭐97k)](https://github.com/mrdoob/three.js)
+*   [@soulwire](https://twitter.com/soulwire) - Creator of [sketch.js (⭐4.1k)](https://github.com/soulwire/sketch.js) and actively creating and sharing canvas/WebGL experiments
 *   [@spielzeugz](https://twitter.com/spielzeugz) - Actively creating and sharing canvas experiments
 *   [@paul\_irish](https://twitter.com/paul_irish) - Active contributor and write a [reference post about requestAnimationFrame](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
 

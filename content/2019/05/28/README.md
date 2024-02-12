@@ -68,12 +68,12 @@
 *   [HaxeFlixel showcase](https://haxeflixel.com/showcase/)
 *   [itch.io showcase](https://itch.io/games/made-with-haxe)
 *   [HaxePunk showcase](https://haxepunk.com/games/)
-*   [Flambe showcase (⭐740)](https://github.com/aduros/flambe/wiki/Showcase)
+*   [Flambe showcase (⭐739)](https://github.com/aduros/flambe/wiki/Showcase)
 *   [Kha showcase (⭐1.4k)](https://github.com/Kode/Kha/wiki/Games-Built-With-Kha)
 
 ### Other haxe lists / Video
 
-*   [awesome haxe (⭐83)](https://github.com/nadako/awesome-haxe)
+*   [awesome haxe (⭐84)](https://github.com/nadako/awesome-haxe)
 *   [awesome snowkit (⭐118)](https://github.com/anissen/awesome-snowkit)
 *   [awesome haxe js (⭐28)](https://github.com/MatthijsKamstra/awesome-haxe-js)
 
@@ -120,11 +120,11 @@
 ### Editable data grid / spreadsheet
 
 *   [gigatables-react (⭐140)](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
-*   [react-data-grid (⭐6.3k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
+*   [react-data-grid (⭐6.5k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
 
 ### Menu
 
-*   [react-burger-menu (⭐4.9k)](https://github.com/negomi/react-burger-menu) - An off-canvas sidebar with effects and styles.
+*   [react-burger-menu (⭐5k)](https://github.com/negomi/react-burger-menu) - An off-canvas sidebar with effects and styles.
 
 ### Collapse
 
@@ -132,15 +132,15 @@
 
 ### Chart
 
-*   [rumble-charts (⭐345)](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
+*   [rumble-charts (⭐346)](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
 
 ### Audio / Video
 
-*   [react-player (⭐8.3k)](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
+*   [react-player (⭐8.6k)](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
 
 ### Time / Date / Age
 
-*   [timeago-react (⭐407)](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
+*   [timeago-react (⭐413)](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
 
 ### Miscellaneous
 
@@ -148,7 +148,7 @@
 
 ### Form Components / Date / Time picker
 
-*   [react-simple-timefield (⭐94)](https://github.com/antonfisher/react-simple-timefield) - [demo](https://antonfisher.com/react-simple-timefield/) - Simple time input field.
+*   [react-simple-timefield (⭐96)](https://github.com/antonfisher/react-simple-timefield) - [demo](https://antonfisher.com/react-simple-timefield/) - Simple time input field.
 
 ### Form Components / Sortable List
 
@@ -156,15 +156,15 @@
 
 ### Form Components / Image Editing
 
-*   [react-avatar-editor (⭐2.2k)](https://github.com/mosch/react-avatar-editor) - Facebook-like, avatar / profile picture component.
+*   [react-avatar-editor (⭐2.3k)](https://github.com/mosch/react-avatar-editor) - Facebook-like, avatar / profile picture component.
 
 ### Form Components / Form Component Collections
 
-*   [formsy-react-components (⭐287)](https://github.com/twisty/formsy-react-components) - A set of React JS components for use in a formsy-react form.
+*   [formsy-react-components (⭐288)](https://github.com/twisty/formsy-react-components) - A set of React JS components for use in a formsy-react form.
 
 ### Component Collections / Material Design
 
-*   [react-admin (⭐23k)](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
+*   [react-admin (⭐24k)](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
 
 ### Reporter / Visibility Reporter
 
@@ -172,11 +172,11 @@
 
 ### Reporter / Measurement Reporter
 
-*   [react-container-dimensions (⭐229)](https://github.com/okonet/react-container-dimensions) - Wrapper component that detects element resize.
+*   [react-container-dimensions (⭐231)](https://github.com/okonet/react-container-dimensions) - Wrapper component that detects element resize.
 
 ### Portal / Mouse Events
 
-*   [react-layer-stack (⭐159)](https://github.com/fckt/react-layer-stack) - Simple but ubiquitously powerful and agnostic layering system for React.
+*   [react-layer-stack (⭐160)](https://github.com/fckt/react-layer-stack) - Simple but ubiquitously powerful and agnostic layering system for React.
 
 ### Data Store / Mouse Events
 
@@ -196,7 +196,7 @@
 
 ### Utilities / Mouse Events
 
-*   [react-translate-component (⭐323)](https://github.com/martinandert/react-translate-component) - Multi-lingual/localized text content.
+*   [react-translate-component (⭐321)](https://github.com/martinandert/react-translate-component) - Multi-lingual/localized text content.
 
 ### i18n / Mouse Events
 
@@ -209,11 +209,11 @@
 
 ### UI / Mouse Events
 
-*   [react-static-container (⭐223)](https://github.com/reactjs/react-static-container) - Renders static content efficiently.
+*   [react-static-container (⭐222)](https://github.com/reactjs/react-static-container) - Renders static content efficiently.
 
 ### App Size / Lazy Load
 
-*   [babel-plugin-transform-react-remove-prop-types (⭐896)](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
+*   [babel-plugin-transform-react-remove-prop-types (⭐898)](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
 
 ### Test / Lazy Load
 
@@ -221,7 +221,7 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [jsonx (⭐159)](https://github.com/repetere/jsonx) - React JSON Syntax.
+*   [jsonx (⭐164)](https://github.com/repetere/jsonx) - React JSON Syntax.
 
 ---
 

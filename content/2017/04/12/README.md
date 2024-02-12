@@ -43,10 +43,10 @@
 
 ## [4. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
-### Forums
+### Community / Forums
 
-*   [/r/dataengineering](https://www.reddit.com/r/dataengineering/) News, tips and background on Data Engineering
-*   [/r/etl](https://www.reddit.com/r/ETL/) Subreddit focused on ETL
+*   [/r/dataengineering](https://www.reddit.com/r/dataengineering/) - News, tips and background on Data Engineering.
+*   [/r/etl](https://www.reddit.com/r/ETL/) - Subreddit focused on ETL.
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

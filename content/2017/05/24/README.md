@@ -18,7 +18,7 @@
 
 ### Networking
 
-*   [Breep (⭐115)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
+*   [Breep (⭐116)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
 
 ## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

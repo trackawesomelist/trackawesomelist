@@ -29,7 +29,7 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q\&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [Source Code (⭐776)](https://github.com/Erudika/scoold)) `Apache-2.0` `Java/Docker/K8S`
+*   [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q\&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [Source Code (⭐794)](https://github.com/Erudika/scoold)) `Apache-2.0` `Java/Docker/K8S`
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -78,15 +78,15 @@
 
 ### Web Technologies and Services
 
-*   [curl (⭐186)](https://github.com/jeroen/curl) - A Modern and Flexible Web Client for R.
+*   [curl (⭐207)](https://github.com/jeroen/curl) - A Modern and Flexible Web Client for R.
 
 ### Machine Learning
 
-*   [ranger (⭐697)](https://github.com/imbs-hl/ranger) - A Fast Implementation of Random Forests.
+*   [ranger (⭐741)](https://github.com/imbs-hl/ranger) - A Fast Implementation of Random Forests.
 
 ### R Development
 
-*   [sinew (⭐157)](https://github.com/metrumresearchgroup/sinew) - Generate roxygen2 skeletons populated with information scraped from the function script.
+*   [sinew (⭐164)](https://github.com/metrumresearchgroup/sinew) - Generate roxygen2 skeletons populated with information scraped from the function script.
 
 ---
 

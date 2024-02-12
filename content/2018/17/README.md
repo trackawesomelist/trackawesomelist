@@ -63,31 +63,23 @@ Naver Map: <http://naver.me/FjThMRso>
 
 *   [CircuitPeople](https://circuitpeople.com) - No frills 2D layer viewer for Gerbers, without the excessive processing.
 
-### Free EDA Packages / Installable
-
-*   [DipTrace](https://diptrace.com) - Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version.
-
 ### CAD Specific / KiCad
 
 *   [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
 *   [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial.
 
-### PCB Batching Services / Eagle
+### PCB Batching Services / Altium
 
 *   [Dirty PCBs](http://dirtypcbs.com/store/pcbs) - Low cost PCB batching service that prides itself on its "dirty" quality.
 
-### Part Search Engines / Eagle
-
-*   [Findchips](https://www.findchips.com/) - Part search from Supply Frame.
-
-### Development Board Retailers / Eagle
+### Development Board Retailers / Altium
 
 *   [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
 *   [Adafruit](https://www.adafruit.com/) - Another retailer and designer with excellent selection and tutorials.
 
 ### Forums / Discussion
 
-*   [EEVBlog forum](https://www.eevblog.com/forum/) - Probably the largest and most active forum to discuss electronic engineering topics.
+*   [EEVBlog forum](https://www.eevblog.com/forum/) - Probably the largest and most active forum to discuss Electronic Engineering topics.
 *   [/r/electronics](https://www.reddit.com/r/electronics/) and [/r/ECE](https://www.reddit.com/r/ECE/) are the two most active sub-reddits for EE topics.
 
 ### Videos / Help
@@ -158,45 +150,45 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Keyboard
 
-*   [KeyboardObserver (⭐162)](https://github.com/morizotter/KeyboardObserver) - For less complicated keyboard event handling.
-*   [KeyboardMan (⭐352)](https://github.com/nixzhu/KeyboardMan) - KeyboardMan helps you make keyboard animation.
+*   [KeyboardObserver (⭐161)](https://github.com/morizotter/KeyboardObserver) - For less complicated keyboard event handling.
+*   [KeyboardMan (⭐351)](https://github.com/nixzhu/KeyboardMan) - KeyboardMan helps you make keyboard animation.
 *   [Typist (⭐1.1k)](https://github.com/totocaster/Typist) - Small, drop-in Swift UIKit keyboard manager for iOS apps-helps manage keyboard's screen presence and behavior without notification center.
 *   [KeyboardHideManager (⭐56)](https://github.com/bonyadmitr/KeyboardHideManager) - Codeless manager to hide keyboard by tapping on views for iOS written in Swift
-*   [Toolbar (⭐456)](https://github.com/1amageek/Toolbar) - Awesome autolayout Toolbar.
+*   [Toolbar (⭐457)](https://github.com/1amageek/Toolbar) - Awesome autolayout Toolbar.
 *   [IHKeyboardAvoiding (⭐1.4k)](https://github.com/IdleHandsApps/IHKeyboardAvoiding) - A drop-in universal solution for keeping any UIView visible when the keyboard is being shown - no more UIScrollViews!
 *   [NumPad (⭐83)](https://github.com/efremidze/NumPad) - Number Pad (inspired by Square's design).
 
 ### Utility / Collection View Layout
 
-*   [SwiftRandom (⭐561)](https://github.com/thellimist/SwiftRandom) - Generator for random data.
+*   [SwiftRandom (⭐559)](https://github.com/thellimist/SwiftRandom) - Generator for random data.
 *   [RandomKit (⭐1.5k)](https://github.com/nvzqz/RandomKit/) - Random data generation in Swift.
-*   [SwiftParsec (⭐223)](https://github.com/davedufresne/SwiftParsec) - A parser combinator library written in the Swift programming language.
+*   [SwiftParsec (⭐226)](https://github.com/davedufresne/SwiftParsec) - A parser combinator library written in the Swift programming language.
 *   [Datez (⭐261)](https://github.com/SwiftKitz/Datez) - Swift library for dealing with `NSDate`, `NSCalendar`, and `NSDateComponents`.
-*   [BFKit-Swift (⭐996)](https://github.com/FabrizioBrancati/BFKit-Swift) - A Swift collection of useful classes to develop Apps faster.
-*   [DeviceGuru (⭐458)](https://github.com/InderKumarRathore/DeviceGuru/) - DeviceGuru is a simple lib (Swift) to know the exact type of the device, e.g. iPhone 6 or iPhone 6s.
-*   [RateLimit (⭐919)](https://github.com/soffes/RateLimit) - Simple utility for only executing code every so often.
-*   [AssistantKit (⭐579)](https://github.com/anatoliyv/AssistantKit) - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.
-*   [SwiftLinkPreview (⭐1.3k)](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
+*   [BFKit-Swift (⭐997)](https://github.com/FabrizioBrancati/BFKit-Swift) - A Swift collection of useful classes to develop Apps faster.
+*   [DeviceGuru (⭐465)](https://github.com/InderKumarRathore/DeviceGuru/) - DeviceGuru is a simple lib (Swift) to know the exact type of the device, e.g. iPhone 6 or iPhone 6s.
+*   [RateLimit (⭐918)](https://github.com/soffes/RateLimit) - Simple utility for only executing code every so often.
+*   [AssistantKit (⭐583)](https://github.com/anatoliyv/AssistantKit) - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.
+*   [SwiftLinkPreview (⭐1.4k)](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 *   [BundleInfos (⭐1)](https://github.com/rollmind/BundleInfos) - Simple getter for Bundle informations. like short version from bundle.
-*   [ReadabilityKit (⭐821)](https://github.com/exyte/ReadabilityKit) - Metadata extractor for news, articles and full-texts in Swift.
+*   [ReadabilityKit (⭐826)](https://github.com/exyte/ReadabilityKit) - Metadata extractor for news, articles and full-texts in Swift.
 *   [SwiftTweaks (⭐1.4k)](https://github.com/Khan/SwiftTweaks) - Tweak your iOS app without recompiling!
-*   [SwiftSortUtils (⭐60)](https://github.com/dsmatter/SwiftSortUtils) - This library takes a shot at making sorting in Swift more pleasant. It also allows you to reuse your old NSSortDescriptor instances in Swift.
+*   [SwiftSortUtils (⭐61)](https://github.com/dsmatter/SwiftSortUtils) - This library takes a shot at making sorting in Swift more pleasant. It also allows you to reuse your old NSSortDescriptor instances in Swift.
 *   [Retry (⭐499)](https://github.com/icanzilb/Retry) - Haven't you wished for `try` to sometimes try a little harder? Meet `retry` .
 *   [ObjectiveKit (⭐846)](https://github.com/marmelroy/ObjectiveKit) - Swift-friendly API for Objective C runtime functions.
-*   [MoyaSugar (⭐189)](https://github.com/devxoul/MoyaSugar) -  Syntactic sugar for Moya.
+*   [MoyaSugar (⭐190)](https://github.com/devxoul/MoyaSugar) -  Syntactic sugar for Moya.
 *   [SwifterSwift (⭐13k)](https://github.com/SwifterSwift/SwifterSwift) -  A handy collection of more than 400 native Swift 4 extensions to boost your productivity.
-*   [OpenSourceController (⭐51)](https://github.com/floriangbh/OpenSourceController) - The simplest way to display the libraries licences used in your application.
+*   [OpenSourceController (⭐52)](https://github.com/floriangbh/OpenSourceController) - The simplest way to display the libraries licences used in your application.
 *   [FluxCapacitor (⭐123)](https://github.com/marty-suzuki/FluxCapacitor) - FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias.
 *   [Closures (⭐1.7k)](https://github.com/vhesener/Closures) - Swifty closures for UIKit and Foundation.
 
-### Extensions (Xcode 8+) / Collection View Layout
+### Extensions / Collection View Layout
 
 *   [CleanClosureXcode (⭐185)](https://github.com/BalestraPatrick/CleanClosureXcode) - An Xcode Source Editor extension to clean the closure syntax.
-*   [SwiftInitializerGenerator (⭐717)](https://github.com/Bouke/SwiftInitializerGenerator) - Xcode 8 Source Code Extension to Generate Swift Initializers.
+*   [SwiftInitializerGenerator (⭐716)](https://github.com/Bouke/SwiftInitializerGenerator) - Xcode 8 Source Code Extension to Generate Swift Initializers.
 *   [XcodeEquatableGenerator (⭐191)](https://github.com/sergdort/XcodeEquatableGenerator) - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.
-*   [Import (⭐846)](https://github.com/markohlebar/Import) - Xcode extension for adding imports from anywhere in the code.
+*   [Import (⭐847)](https://github.com/markohlebar/Import) - Xcode extension for adding imports from anywhere in the code.
 *   [Mark (⭐158)](https://github.com/velyan/Mark) - Xcode extension for generating MARK comments.
-*   [XShared (⭐74)](https://github.com/Otbivnoe/XShared) - Xcode extension which allows you copying the code with special formatting quotes for social (Slack, Telegram).
+*   [XShared (⭐73)](https://github.com/Otbivnoe/XShared) - Xcode extension which allows you copying the code with special formatting quotes for social (Slack, Telegram).
 *   [DocumenterXcode (⭐35)](https://github.com/serhii-londar/DocumenterXcode) - Attempt to give a new life for VVDocumenter-Xcode as source editor extension.
 *   [XVim2 (⭐2.3k)](https://github.com/XVimProject/XVim2) - Vim key-bindings for Xcode 9.
 
@@ -246,7 +238,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Testing
 
-*   [Expectations (⭐394)](https://github.com/clojure-expectations/expectations)
+*   [Expectations (⭐395)](https://github.com/clojure-expectations/expectations)
 
 ## [22. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -278,9 +270,9 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ## [23. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### Visualizations
+### GTFS Based Visualizations
 
-*   [Mapnificent](https://www.mapnificent.net/) - Shows areas you can reach with public transport in a given time. Open-source [on GitHub (⭐359)](https://github.com/mapnificent/mapnificent), live at <https://www.mapnificent.net/>.
+*   [Mapnificent](https://www.mapnificent.net/) - Shows areas you can reach with public transport in a given time. Open-source [on GitHub (⭐368)](https://github.com/mapnificent/mapnificent), live at <https://www.mapnificent.net/>.
 
 ## [24. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -356,7 +348,7 @@ Naver Map: <http://naver.me/FjThMRso>
 ### Projects Using Vue.js / Open Source
 
 *   [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator
-*   [Socialhome (⭐345)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
+*   [Socialhome (⭐351)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 
 ### Components & Libraries / UI Components
 
@@ -409,15 +401,15 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Game Engine
 
-*   [EnTT (⭐8.8k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
+*   [EnTT (⭐9.2k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
 
 ### Machine Learning
 
-*   [VLFeat (⭐1.5k)](https://github.com/vlfeat/vlfeat) - The VLFeat open source library implements popular computer vision algorithms specialising in image understanding and local featurexs extraction and matching. \[BSD-2-Clause] [website](http://www.vlfeat.org/)
+*   [VLFeat (⭐1.6k)](https://github.com/vlfeat/vlfeat) - The VLFeat open source library implements popular computer vision algorithms specialising in image understanding and local featurexs extraction and matching. \[BSD-2-Clause] [website](http://www.vlfeat.org/)
 
 ### Networking
 
-*   [ENet (⭐2.4k)](https://github.com/lsalzman/enet) - Reliable UDP networking library. \[MIT] [website](http://enet.bespin.org/)
+*   [ENet (⭐2.5k)](https://github.com/lsalzman/enet) - Reliable UDP networking library. \[MIT] [website](http://enet.bespin.org/)
 
 ## [38. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 

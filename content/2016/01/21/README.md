@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 21, 2016
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -38,29 +38,23 @@
 
 *   [LuaJ](http://www.luaj.org/luaj/3.0/README.html) - Java-centric implementation of lua vm built to leverage standard Java features.
 
-## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### OpenResty / PicoLisp
-
-*   [Programming OpenResty](https://www.gitbook.com/book/openresty/programming-openresty/details)
-
-## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Date and Time
 
-*   [filtrex (⭐189)](https://github.com/rcdilorenzo/filtrex) - A library for performing and validating complex SQL-like filters from a client (e.g. smart filters).
+*   [filtrex (⭐192)](https://github.com/rcdilorenzo/filtrex) - A library for performing and validating complex SQL-like filters from a client (e.g. smart filters).
 
 ### Macros
 
 *   [pipe\_here (⭐34)](https://github.com/vic/pipe_here) - Easily pipe values into any argument position.
 
-## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / T companies
 
 *   TrackMaven <http://engineroom.trackmaven.com/>
 
-## [9. Codeface](/content/chrissimpkins/codeface/README.md)
+## [8. Codeface](/content/chrissimpkins/codeface/README.md)
 
 ### The Gallery
 
@@ -90,7 +84,7 @@ or use one of the following commands to pull a font archive with `curl`:
 
     $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.tar.xz
 
-## [10. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
+## [9. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 
 ### Rich-text editors using contenteditable
 

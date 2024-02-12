@@ -1,30 +1,24 @@
 # Awesome List Updates on Jun 19, 2017
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
-
-### Java VM / Java
-
-*   [Jersey](https://jersey.github.io/) - RESTful services in Java. JAX-RS reference implementation.
-
-## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [1. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
 *   [akka.net (⭐4.5k)](https://github.com/akkadotnet/akka.net) - Toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
 
-## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Key-value Data Model
 
 *   [BTDB (⭐126)](https://github.com/Bobris/BTDB) - Key Value Database in .Net with Object DB Layer, RPC, dynamic IL and much more
 
-## [4. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
+## [3. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 
 ### Frameworks / UI Frameworks
 
@@ -34,7 +28,7 @@
 
 *   [AS3Icy (⭐28)](https://github.com/claus/as3icy) - Decode and play live MP3 streams from Shoutcast, Icecast and Limewire.
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Date
 
@@ -56,13 +50,13 @@
 
 *   [Workaholic (⭐115)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
 
-## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / O companies
 
 *   Opensooq <http://engineering.opensooq.com/>
 
-## [7. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
+## [6. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 
 ### Blogs
 

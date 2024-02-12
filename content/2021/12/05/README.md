@@ -10,13 +10,13 @@
 
 ### Shell Script Development
 
-*   [bash-modules (⭐117)](https://github.com/vlisivka/bash-modules) - A collection of modules for unofficial strict mode.
+*   [bash-modules (⭐118)](https://github.com/vlisivka/bash-modules) - A collection of modules for unofficial strict mode.
 
 ## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Game Frameworks / XML
 
-*   [Dagon (⭐291)](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
+*   [Dagon (⭐290)](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

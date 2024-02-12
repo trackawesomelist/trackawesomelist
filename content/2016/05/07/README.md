@@ -10,7 +10,7 @@
 
 ### Utility / Barcode
 
-*   [SwiftyUtils (⭐539)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
+*   [SwiftyUtils (⭐543)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
 
 ## [2. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
@@ -58,7 +58,7 @@
 
 ### For Electron / Other
 
-*   [electron-rebuild (⭐956)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
+*   [electron-rebuild (⭐972)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
 
 ## [6. Colorful](/content/Siddharth11/Colorful/README.md)
 

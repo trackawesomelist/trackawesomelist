@@ -1,48 +1,42 @@
 # Awesome List Updates on Feb 14, 2021
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
-
-### Plugins
-
-*   💼 [Downwind CSS Easings (⭐5)](https://github.com/downwindcss/easings) - Extends `transition-timing-function` utilities.
-
-## [2. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [1. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Web
 
 *   [moiva](https://moiva.io) - Discover and compare packages.
 
-## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Board support crates / STMicroelectronics
 
 *   [`stm32f3-discovery`](https://crates.io/crates/stm32f3-discovery) Board Support Crate for the [STM32F3DISCOVERY](http://www.st.com/en/evaluation-tools/stm32f3discovery.html) used in [Rust Embedded Discovery book](https://rust-embedded.github.io/discovery/index.html) - ![crates.io](https://img.shields.io/crates/v/stm32f3-discovery)
 
-## [4. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / CLI utils
 
-*   [cliffy (⭐758)](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
+*   [cliffy (⭐831)](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
 
-## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Apps/Websites / Community
 
 *   [aitrack.work](https://aitrack.work) - A task-based time tracker for everyday use.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [oh-vue-icons (⭐209)](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
+*   [oh-vue-icons (⭐223)](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
 
-## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [6. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Containers
 
@@ -52,7 +46,7 @@
 
 *   [Gutters for Sitecore Data Exchange Framework (⭐1)](https://github.com/KayeeNL/Sitecore.DataExchange.Gutters) - Collection of 3 gutters for DEF to provide a quick solution for context item of an item within the tree: `ItemDisabled`, `PipelineBatch` and `PipelineStep`.
 
-## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Why Articles
 

@@ -10,7 +10,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [DataFormsJS (⭐171)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
+*   [DataFormsJS (⭐175)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
 
 ## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Table of Contents / Framework Extras
 
-*   [LaravelS (⭐3.6k)](https://github.com/hhxsv5/laravel-s) - Glue for using Swoole in Laravel or Lumen.
+*   [LaravelS (⭐3.8k)](https://github.com/hhxsv5/laravel-s) - An out-of-the-box adapter between Laravel/Lumen and Swoole.
 
 ### Table of Contents / Micro Frameworks
 
@@ -94,11 +94,11 @@
 
 ### Asynchronous Event Loop
 
-*   [libhv (⭐5.9k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
+*   [libhv (⭐6.1k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
 
 ### Logging
 
-*   [Quill (⭐928)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
+*   [Quill (⭐1k)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
 
 ## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -112,7 +112,7 @@
 
 ### WebSocket
 
-*   [Websocket.Client (⭐617)](https://github.com/Marfusios/websocket-client) - A multiplatform wrapper over native C# class ClientWebSocket with built-in reconnection and error handling.
+*   [Websocket.Client (⭐637)](https://github.com/Marfusios/websocket-client) - A multiplatform wrapper over native C# class ClientWebSocket with built-in reconnection and error handling.
 
 ---
 

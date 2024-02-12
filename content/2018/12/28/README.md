@@ -10,7 +10,7 @@
 
 ### Software / DNS - Servers
 
-*   [CoreDNS](https://coredns.io/) - Flexible DNS server. ([Source Code (⭐11k)](https://github.com/coredns/coredns)) `Apache-2.0` `Go`
+*   [CoreDNS](https://coredns.io/) - Flexible DNS server. ([Source Code (⭐12k)](https://github.com/coredns/coredns)) `Apache-2.0` `Go`
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

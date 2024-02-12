@@ -16,7 +16,7 @@
 
 ### Testing / Fixtures
 
-*   [jFairy (⭐728)](https://github.com/Devskiller/jfairy) - Fake data generator.
+*   [jFairy (⭐735)](https://github.com/Devskiller/jfairy) - Fake data generator.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Loader
 
-*   [react-spinners-css (⭐319)](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
+*   [react-spinners-css (⭐320)](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
 
 ## [8. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [MikroORM (⭐6.6k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
+*   :octocat: [MikroORM (⭐6.7k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
 
 ## [14. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
@@ -100,7 +100,7 @@
 *   [PyVideo](https://pyvideo.org/search.html?q=flask)
 *   [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
 *   [Python Flask Tutorial: Full-Featured Web App](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
-*   [Discover Flask - Full Stack Web Development with Flask (⭐4.4k)](https://github.com/realpython/discover-flask)
+*   [Discover Flask - Full Stack Web Development with Flask (⭐4.5k)](https://github.com/realpython/discover-flask)
 
 ### PaaS / Testing
 
@@ -121,13 +121,13 @@
 ### Serverless / Testing
 
 *   [Zappa (⭐12k)](https://github.com/Miserlou/Zappa)
-*   [Chalice (⭐9.8k)](https://github.com/aws/chalice)
+*   [Chalice (⭐10k)](https://github.com/aws/chalice)
 *   [AWS Lambda](https://aws.amazon.com/lambda/)
 *   [Google Cloud Functions](https://cloud.google.com/functions/)
 
 ### Open Source Projects / Testing
 
-*   [Airflow (⭐31k)](https://github.com/apache/airflow/tree/master/airflow/www)
+*   [Airflow (⭐33k)](https://github.com/apache/airflow/tree/master/airflow/www)
 
 ## [15. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Tools / Misc
 
-*   [ML Workspace (⭐3.2k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code).
+*   [ML Workspace (⭐3.3k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code).
 
 ## [21. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -386,7 +386,7 @@
 
 ### Applications / Games
 
-*   [swatteau/sokoban-rs (⭐144)](https://github.com/swatteau/sokoban-rs) — A Sokoban implementation
+*   [swatteau/sokoban-rs (⭐148)](https://github.com/swatteau/sokoban-rs) — A Sokoban implementation
 
 ## [37. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
@@ -419,7 +419,6 @@
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
-*   [AMAaaS](https://amaaas.com/index.php/AMAaaS/dashboard) - Android Malware Analysis as a Service, executed in a native Android environment.
 *   [Any Run](https://app.any.run/) - Interactive online malware analysis service for dynamic and static research of most types of threats using any environment.
 *   [Hybrid-Analysis](https://www.hybrid-analysis.com/) - Free powerful online sandbox by CrowdStrike.
 *   [Intezer](https://analyze.intezer.com/#/) - Intezer Analyze dives into Windows binaries to detect micro-code similarities to known threats, in order to provide accurate yet easy-to-understand results.
@@ -463,7 +462,7 @@
 
 ### Concepts / User-centric metrics
 
-*   Is it happening? - Did the navigation start successfully? Has the server responded? (e.g [FCP (⭐629)](https://github.com/csabapalfi/awesome-web-performance-metrics/#first-contentful-paint-fcp))
+*   Is it happening? - Did the navigation start successfully? Has the server responded? (e.g [FCP (⭐656)](https://github.com/csabapalfi/awesome-web-performance-metrics/#first-contentful-paint-fcp))
 *   Is it delightful/smooth? - Are the interactions smooth and natural, free of lag and jank?
 
 ### Interactivity metrics / Max Potential First Input Delay
@@ -573,11 +572,11 @@
 
 ### Audio
 
-*   [Verovio (⭐572)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
+*   [Verovio (⭐608)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
 
 ### Compression
 
-*   [bit7z (⭐481)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip shared libraries. \[MPL2]
+*   [bit7z (⭐536)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip shared libraries. \[MPL2]
 
 ### Integrated Development Environment
 
@@ -602,7 +601,7 @@
 
 ### Tools / Templates & Starter Kits
 
-*   [Wagtail Pipit (⭐193)](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
+*   [Wagtail Pipit (⭐215)](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
 
 ---
 

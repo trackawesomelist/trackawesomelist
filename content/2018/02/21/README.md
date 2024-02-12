@@ -58,7 +58,7 @@
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Pirated software download site blacklist / Package Managers
+### Mac App Download Sites / Pirated software download site blacklist
 
 *   Softasm：~~`https://softasm.com/`~~
 

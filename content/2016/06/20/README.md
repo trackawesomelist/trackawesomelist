@@ -23,8 +23,8 @@
 
 ### Contents / Tools
 
-*   [pico-test (⭐37)](https://github.com/jozanza/pico-test) - PICO-8 testing framework.
-*   [Lib-Pico8 (⭐165)](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
+*   [pico-test (⭐38)](https://github.com/jozanza/pico-test) - PICO-8 testing framework.
+*   [Lib-Pico8 (⭐168)](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
 *   [pico8-missing-builtins (⭐21)](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
 
 ### Contents / Hacks - undocumented PICO-8 features

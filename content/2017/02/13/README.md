@@ -69,8 +69,8 @@
 
 ### C++ / Natural Language Processing
 
-*   [frog (⭐72)](https://github.com/LanguageMachines/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
-*   [ucto (⭐60)](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
+*   [frog (⭐73)](https://github.com/LanguageMachines/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
+*   [ucto (⭐61)](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
 
 ### C++ / Speech Recognition
 
@@ -116,7 +116,7 @@
 
 ### Ruby / Misc
 
-*   [Listof (⭐26)](https://github.com/kevincobain2000/listof) - Community based data collection, packed in gem. Get list of pretty much anything (stop words, countries, non words) in txt, JSON or hash. [Demo/Search for a list](http://kevincobain2000.github.io/listof/)
+*   [Listof (⭐27)](https://github.com/kevincobain2000/listof) - Community based data collection, packed in gem. Get list of pretty much anything (stop words, countries, non words) in txt, JSON or hash. [Demo/Search for a list](http://kevincobain2000.github.io/listof/)
 
 ### SAS / General-Purpose Machine Learning
 
@@ -129,11 +129,11 @@
 
 ### SAS / Demos and Scripts
 
-*   [ML\_Tables (⭐124)](https://github.com/sassoftware/enlighten-apply/tree/master/ML_tables) - Concise cheat sheets containing machine learning best practices.
-*   [enlighten-apply (⭐124)](https://github.com/sassoftware/enlighten-apply) - Example code and materials that illustrate applications of SAS machine learning techniques.
-*   [enlighten-integration (⭐60)](https://github.com/sassoftware/enlighten-integration) - Example code and materials that illustrate techniques for integrating SAS with other analytics technologies in Java, PMML, Python and R.
-*   [enlighten-deep (⭐19)](https://github.com/sassoftware/enlighten-deep) - Example code and materials that illustrate using neural networks with several hidden layers in SAS.
-*   [dm-flow (⭐55)](https://github.com/sassoftware/dm-flow) - Library of SAS Enterprise Miner process flow diagrams to help you learn by example about specific data mining topics.
+*   [ML\_Tables (⭐126)](https://github.com/sassoftware/enlighten-apply/tree/master/ML_tables) - Concise cheat sheets containing machine learning best practices.
+*   [enlighten-apply (⭐126)](https://github.com/sassoftware/enlighten-apply) - Example code and materials that illustrate applications of SAS machine learning techniques.
+*   [enlighten-integration (⭐61)](https://github.com/sassoftware/enlighten-integration) - Example code and materials that illustrate techniques for integrating SAS with other analytics technologies in Java, PMML, Python and R.
+*   [enlighten-deep (⭐20)](https://github.com/sassoftware/enlighten-deep) - Example code and materials that illustrate using neural networks with several hidden layers in SAS.
+*   [dm-flow (⭐56)](https://github.com/sassoftware/dm-flow) - Library of SAS Enterprise Miner process flow diagrams to help you learn by example about specific data mining topics.
 
 ## [6. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
@@ -146,16 +146,16 @@
 ### Customization / Directory Navigation
 
 *   [bullet-train-oh-my-zsh-theme (⭐2.8k)](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain\_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
-*   [mysql-colorize (⭐97)](https://github.com/zpm-zsh/mysql-colorize) -  Colorization for mysql comand-line client
+*   [mysql-colorize (⭐95)](https://github.com/zpm-zsh/mysql-colorize) -  Colorization for mysql comand-line client
 
 ### Shell Script Development / Directory Navigation
 
-*   [crash (⭐56)](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
+*   [crash (⭐58)](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
 
 ### Shell Script Development / See also
 
-*   [awesome-fish (⭐3.5k)](https://github.com/jorgebucaran/awsm.fish)
-*   [awesome-zsh (⭐13k)](https://github.com/unixorn/awesome-zsh-plugins)
+*   [awesome-fish (⭐3.7k)](https://github.com/jorgebucaran/awsm.fish)
+*   [awesome-zsh (⭐14k)](https://github.com/unixorn/awesome-zsh-plugins)
 
 ## [8. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Functional programming
 
-*   [Optional (⭐846)](https://github.com/nlkl/Optional) - A robust option type for C#
+*   [Optional (⭐864)](https://github.com/nlkl/Optional) - A robust option type for C#
 
 ## [3. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -36,12 +36,12 @@
 
 ### Web frameworks / Clack plugins
 
-*   [Caveman (⭐749)](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [Caveman (⭐757)](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL](http://opensource.franz.com/preamble.html).
     Example projects: [Quickdocs](https://github.com/quickdocs)
 
 ### Javascript / Isomorphic web frameworks
 
-*   [JSCL (⭐849)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
+*   [JSCL (⭐863)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
 
 ## [5. Amas](/content/sindresorhus/amas/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Table of Contents / Date and Time
 
-*   [Yasumi (⭐899)](https://github.com/azuyalabs/yasumi) - An library to help you calculate the dates and names of holidays.
+*   [Yasumi (⭐1k)](https://github.com/azuyalabs/yasumi) - A library to help you calculate the dates and names of holidays.
 
 ## [8. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 

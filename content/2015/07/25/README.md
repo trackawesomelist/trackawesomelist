@@ -10,7 +10,7 @@
 
 ### Audio
 
-*   [SELA (⭐210)](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. \[MIT]
+*   [SELA (⭐211)](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. \[MIT]
 
 ## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -22,7 +22,7 @@
 
 ### R Development
 
-*   [drat (⭐142)](https://github.com/eddelbuettel/drat) - Creation and use of R repositories on GitHub or other repos.
+*   [drat (⭐151)](https://github.com/eddelbuettel/drat) - Creation and use of R repositories on GitHub or other repos.
 
 ## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 

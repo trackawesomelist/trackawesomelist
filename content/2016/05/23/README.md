@@ -29,29 +29,29 @@
 
 ### Authentication and OAuth
 
-*   [Rodauth (⭐1.5k)](https://github.com/jeremyevans/rodauth) - Authentication and account management framework for Rack applications.
+*   [Rodauth (⭐1.6k)](https://github.com/jeremyevans/rodauth) - Authentication and account management framework for Rack applications.
 
 ### Documentation
 
-*   [Hanna (⭐33)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
+*   [Hanna (⭐35)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
 
 ## [5. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Multimedia content processing
 
-*   [Bento4 (⭐1.5k)](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools.
+*   [Bento4 (⭐1.8k)](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools.
 
 ## [6. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Boilerplates / Other
 
-*   [bozon (⭐759)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
+*   [bozon (⭐757)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 
 ## [7. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### R Development
 
-*   [staticdocs (⭐637)](https://github.com/hadley/staticdocs) - Generate static html documentation for an R package.
+*   [staticdocs (⭐688)](https://github.com/hadley/staticdocs) - Generate static html documentation for an R package.
 
 ---
 

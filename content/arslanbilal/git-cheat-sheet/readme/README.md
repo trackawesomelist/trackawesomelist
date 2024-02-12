@@ -2,7 +2,7 @@
 
 :octocat: git and git flow cheat sheet
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/arslanbilal/git-cheat-sheet/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) · ⭐ 6.1K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/arslanbilal/git-cheat-sheet/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) · ⭐ 6.6K · 🏷️ Development Environment
 
 [ [Daily](/content/arslanbilal/git-cheat-sheet/README.md) / [Weekly](/content/arslanbilal/git-cheat-sheet/week/README.md) / Overview ]
 
@@ -15,20 +15,6 @@
     <img alt="Git" src="https://github.com/arslanbilal/git-cheat-sheet/raw/master/./Img/git-logo.png" height="190" width="455">
 </p>
 <hr>
-
-# Other Available Languages:
-
-1.  [Arabic Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-ar.md)
-2.  [Brazilian Portuguese Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-pt_BR.md)
-3.  [Chinese Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-zh.md)
-4.  [German Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-de.md)
-5.  [Greek Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-el.md)
-6.  [Hindi Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-hi.md)
-7.  [Korean Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-ko.md)
-8.  [Polish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-pl.md)
-9.  [Spanish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-es.md)
-10. [Turkish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-tr.md)
-11. [Bengali Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-bn.md)
 
 Git cheat sheet saves you from learning all the commands by heart.
 
@@ -543,7 +529,7 @@ to this,
 
 ## Git-Flow
 
-Improved [Git-flow (⭐5.2k)](https://github.com/petervanderdoes/gitflow-avh)
+Improved [Git-flow (⭐5.4k)](https://github.com/petervanderdoes/gitflow-avh)
 
 ### Index
 
@@ -713,4 +699,18 @@ git flow init -d
     <img alt="Git" src="https://github.com/arslanbilal/git-cheat-sheet/raw/master/Img/git-flow-commands-without-flow.png">
 </p>
 <hr>
+
+# Other Available Languages:
+
+1.  [Arabic Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-ar.md)
+2.  [Brazilian Portuguese Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-pt_BR.md)
+3.  [Chinese Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-zh.md)
+4.  [German Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-de.md)
+5.  [Greek Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-el.md)
+6.  [Hindi Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-hi.md)
+7.  [Korean Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-ko.md)
+8.  [Polish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-pl.md)
+9.  [Spanish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-es.md)
+10. [Turkish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-tr.md)
+11. [Bengali Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-bn.md)
 

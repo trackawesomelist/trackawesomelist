@@ -10,21 +10,21 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LLMFlow (⭐506)](https://github.com/stoyan-stoyanov/llmflows): Simple, Explicit and Transparent LLM Apps ![GitHub Repo stars](https://img.shields.io/github/stars/stoyan-stoyanov/llmflows?style=social)
+*   [LLMFlow (⭐560)](https://github.com/stoyan-stoyanov/llmflows): Simple, Explicit and Transparent LLM Apps ![GitHub Repo stars](https://img.shields.io/github/stars/stoyan-stoyanov/llmflows?style=social)
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Advanced Console UIs
 
-*   [bubble-table (⭐249)](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
+*   [bubble-table (⭐289)](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [GoNB (⭐297)](https://github.com/janpfeifer/gonb) - Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).
+*   [GoNB (⭐357)](https://github.com/janpfeifer/gonb) - Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
+### Large Language Models (LLMs)
 
 *   [A jargon-free explanation of how AI large language models work | Ars Technica](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/)
 
@@ -42,21 +42,21 @@
 
 ### Vue / Routing
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-routes (⭐0)](https://github.com/Vanilla-IceCream/vite-plugin-vue-routes) - File-based routing, similar to SvelteKit and Next.js App Router.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-routes (⭐1)](https://github.com/Vanilla-IceCream/vite-plugin-vue-routes) - File-based routing, similar to SvelteKit and Next.js App Router.
 
 ### Fastify / Integrations
 
-*   [vite-plugin-fastify (⭐2)](https://github.com/Vanilla-IceCream/vite-plugin-fastify) - Fastify plugin for Vite with Hot-module Replacement.
+*   [vite-plugin-fastify (⭐6)](https://github.com/Vanilla-IceCream/vite-plugin-fastify) - Fastify plugin for Vite with Hot-module Replacement.
 
 ### Fastify / Routing
 
-*   [vite-plugin-fastify-routes (⭐1)](https://github.com/Vanilla-IceCream/vite-plugin-fastify-routes) - File-based routing, similar to SvelteKit and Next.js App Router.
+*   [vite-plugin-fastify-routes (⭐4)](https://github.com/Vanilla-IceCream/vite-plugin-fastify-routes) - File-based routing, similar to SvelteKit and Next.js App Router.
 
 ## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Tools / Playground
 
-*   [sqlx-ts (⭐95)](https://github.com/JasonShin/sqlx-ts) - SQLx-ts is a CLI application featuring compile-time checked queries without a DSL and generates types against SQLs to keep your code type-safe
+*   [sqlx-ts (⭐115)](https://github.com/JasonShin/sqlx-ts) - SQLx-ts is a CLI application featuring compile-time checked queries without a DSL and generates types against SQLs to keep your code type-safe
 
 ## [7. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
@@ -73,9 +73,10 @@
 ### Libraries / C#
 
 *   C#: Entity Component System
-    *   🎉 [Arch (⭐482)](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
-    *   🎉 [DefaultEcs (⭐584)](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
-    *   🎉 [LeoECS (⭐161)](https://github.com/Leopotam/ecs) - ECS framework powered by C# with optional integration to Unity.
+    *   🎉 [Arch (⭐602)](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
+    *   🎉 [DefaultEcs (⭐617)](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
+    *   🔒 [Friflo.Engine.ECS (⭐44)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - Archetype based ECS with focus 🎯 on performance, cache locality and DX.
+    *   🎉 [LeoECS (⭐169)](https://github.com/Leopotam/ecs) - ECS framework powered by C# with optional integration to Unity.
 
 ### Specialty Topics / Shaders
 
@@ -93,7 +94,7 @@
     *   🆓 [Disco Diffusion](http://discodiffusion.com/) - Notebooks, models and techniques for AI art and animations.\[[Source (⭐7.4k)](https://github.com/alembics/disco-diffusion)]
     *   💸 [Midjourney](https://www.midjourney.com/home/) - Image generation accessed through Discord.
     *   💸 [Replicate](https://replicate.com/) - Run open source models with a cloud API.
-    *   💸 [Stable Diffusion (⭐61k)](https://github.com/CompVis/stable-diffusion) - Latent text-to-image diffusion model.
+    *   💸 [Stable Diffusion (⭐63k)](https://github.com/CompVis/stable-diffusion) - Latent text-to-image diffusion model.
 
 ## [9. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 

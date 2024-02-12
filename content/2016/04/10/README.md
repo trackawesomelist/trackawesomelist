@@ -32,7 +32,7 @@ git checkout --orphan <branch_name>
 
 ### CI
 
-*   [lambdacd (⭐671)](https://github.com/flosell/lambdacd)
+*   [lambdacd (⭐673)](https://github.com/flosell/lambdacd)
 
 ## [5. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
 

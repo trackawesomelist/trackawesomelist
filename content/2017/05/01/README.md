@@ -1,6 +1,6 @@
 # Awesome List Updates on May 01, 2017
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -29,12 +29,6 @@
 ### WebGL 2 / Particles
 
 *   [PicoGL.js](https://tsherif.github.io/picogl.js/) - Minimal WebGL 2-only rendering library.
-
-## [4. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
-
-### API Gateways / Edge Services / Scala
-
-*   [Annon (⭐325)](https://github.com/nebo15/annon.api) - Open source API gateway with built-in API management, authentication and status pages written in Elixir.
 
 ---
 

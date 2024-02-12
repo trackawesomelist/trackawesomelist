@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 13, 2019
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -33,17 +33,17 @@
 ### Resources / Examples
 
 *   [**Vue(2.0) + Node.js: A blog**](https://github.com/FatDong1/vue-blog) by @FatDong1
-*   [Vue.js and Ionic v4 examples (⭐48)](https://github.com/ModusCreateOrg/ionic-vue-examples/) - A set of examples of how to use Ionic v4 with Vue.js
+*   [Vue.js and Ionic v4 examples (⭐47)](https://github.com/ModusCreateOrg/ionic-vue-examples/) - A set of examples of how to use Ionic v4 with Vue.js
 
 ### Projects Using Vue.js / Open Source
 
 *   [Beep (⭐155)](https://github.com/ModusCreateOrg/beep) - Account Security Scanner built with Vue.js and Ionic 4
-*   [Vue CRUD (⭐809)](https://github.com/szczepanmasny/vue-crud) - Vue.js based REST-ful CRUD system. Vue CRUD allows you to easily create fast applications such as CMS or CRM.
+*   [Vue CRUD (⭐820)](https://github.com/szczepanmasny/vue-crud) - Vue.js based REST-ful CRUD system. Vue CRUD allows you to easily create fast applications such as CMS or CRM.
 
 ### Components & Libraries / UI Components
 
 *   [vue-date-picker (⭐101)](https://github.com/8788/vue-date-picker) - Lightweight datepicker component for Vue 2.x.
-*   [vue-ctk-date-time-picker (⭐856)](https://github.com/chronotruck/vue-ctk-date-time-picker) - A beautiful VueJS component to pick date & time (with range mode) :new:
+*   [vue-ctk-date-time-picker (⭐862)](https://github.com/chronotruck/vue-ctk-date-time-picker) - A beautiful VueJS component to pick date & time (with range mode) :new:
 
 ### Components & Libraries / UI Utilities
 
@@ -70,42 +70,13 @@
 
 *   [Wits (⭐86)](https://github.com/Samsung/Wits) - A tool for reloading tv app's JavaScript/CSS without reinstalling the app every time you make a change.
 
-## [8. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
-
-### Tools / General-purpose
-
-*   [radamsa](https://gitlab.com/akihe/radamsa) - A general-purpose fuzzer.
-*   [zzuf (⭐401)](https://github.com/samhocevar/zzuf) - A transparent application input fuzzer.
-
-### Tools / Binary
-
-*   [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) - A security-oriented fuzzer that employs a novel type of compile-time instrumentation and genetic algorithms to automatically discover clean, interesting test cases that trigger new internal states in the targeted binary.
-*   [WinAFL (⭐2k)](https://github.com/googleprojectzero/winafl) - A fork of AFL for fuzzing Windows binaries.
-*   [Driller (⭐790)](https://github.com/shellphish/driller) - An implementation of the [driller paper](https://www.cs.ucsb.edu/\~vigna/publications/2016_NDSS_Driller.pdf). This implementation was built on top of AFL with angr being used as a symbolic tracer.
-
-### Tools / Network protocol
-
-*   [boofuzz (⭐1.7k)](https://github.com/jtpereyda/boofuzz) - Network Protocol Fuzzing for Humans. Documentation is available at <http://boofuzz.readthedocs.io/>, including nifty quickstart guides.
-*   [LL-Fuzzer (⭐126)](https://github.com/mit-ll/LL-Fuzzer) - An automated NFC fuzzing framework for Android devices.
-*   [tlsfuzzer (⭐441)](https://github.com/tomato42/tlsfuzzer) - A SSL and TLS protocol test suite and fuzzer.
-*   [TumbleRF (⭐145)](https://github.com/riverloopsec/tumblerf) - A framework that orchestrates the application of fuzzing techniques to RF systems.
-*   [PULSAR (⭐324)](https://github.com/hgascon/pulsar) - A method for stateful black-box fuzzing of proprietary network protocols.
-
-### Tools / Driver
-
-*   [Charm (⭐17)](https://github.com/trusslab/charm) - A system solution that facilitates dynamic analysis of device drivers of mobile systems.
-
-### Platform / Driver
-
-*   [certfuzz (⭐252)](https://github.com/CERTCC/certfuzz) - It contains the source code for the CMU CERT Basic Fuzzing Framework (BFF) and the CERT Failure Observation Engine (FOE).
-
-## [9. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
+## [8. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ### Alertmanager / Miscellaneous
 
-*   [Awesome Prometheus Alerting Rules (⭐5k)](https://github.com/samber/awesome-prometheus-alerts) - Awesome List of Prometheus alerting rules.
+*   [Awesome Prometheus Alerting Rules (⭐5.7k)](https://github.com/samber/awesome-prometheus-alerts) - Awesome List of Prometheus alerting rules.
 
-## [10. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
+## [9. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### Network
 
@@ -116,7 +87,7 @@
 *   [Showcase View (⭐18)](https://github.com/DigitalSa1nt/Xama.JTPorts.ShowcaseView) - *Xamarin.Android* Native showcase view. An easy-to-use customizable show case view with circular reveal animation.
 *   [Animated Circle Loading View (⭐8)](https://github.com/DigitalSa1nt/Xama.JTPorts.AnimatedCircleLoadingView) - A determiante/indetermiante loading view animation.
 
-## [11. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+## [10. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
 ### Europe / Poland 🇵🇱
 
@@ -128,7 +99,7 @@
 Topics: Terraform, AWS, Devops\
 <https://twitter.com/antonbabenko>
 
-## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Communication / Collaboration and Team Tools
 

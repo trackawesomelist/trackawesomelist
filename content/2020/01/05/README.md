@@ -10,7 +10,7 @@
 
 ### Table of Contents / Static Analysis
 
-*   [PHP Architecture Tester (⭐743)](https://github.com/carlosas/phpat) - Easy to use architecture testing tool for PHP.
+*   [PHP Architecture Tester (⭐962)](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
 
 ## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 

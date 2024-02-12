@@ -31,19 +31,19 @@
 
 ### Clojure / Data Analysis
 
-*   [PigPen (⭐551)](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure.
+*   [PigPen (⭐552)](https://github.com/Netflix/PigPen) - Map-Reduce for Clojure.
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Petrel (⭐246)](https://github.com/AirSage/Petrel) - Tools for writing, submitting, debugging, and monitoring Storm topologies in pure Python.
+*   [Petrel (⭐247)](https://github.com/AirSage/Petrel) - Tools for writing, submitting, debugging, and monitoring Storm topologies in pure Python.
 *   [emcee (⭐1.4k)](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
 *   [Allen Downey’s Data Science Course (⭐41)](https://github.com/AllenDowney/DataScience) - Code for Data Science at Olin College, Spring 2014.
 *   [Allen Downey’s Think Bayes Code (⭐1.6k)](https://github.com/AllenDowney/ThinkBayes) - Code repository for Think Bayes.
-*   [Allen Downey’s Think Complexity Code (⭐96)](https://github.com/AllenDowney/ThinkComplexity) - Code for Allen Downey's book Think Complexity.
-*   [Allen Downey’s Think OS Code (⭐524)](https://github.com/AllenDowney/ThinkOS) - Text and supporting code for Think OS: A Brief Introduction to Operating Systems.
+*   [Allen Downey’s Think Complexity Code (⭐95)](https://github.com/AllenDowney/ThinkComplexity) - Code for Allen Downey's book Think Complexity.
+*   [Allen Downey’s Think OS Code (⭐535)](https://github.com/AllenDowney/ThinkOS) - Text and supporting code for Think OS: A Brief Introduction to Operating Systems.
 
 ## [3. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
@@ -235,8 +235,8 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ### Extensions / General Purpose
 
+*   [StyleToken (⭐48)](https://github.com/vcharnahrebel/style-token) — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
 *   [Synesthesia (⭐17)](https://github.com/dariusf/synesthesia) — a plugin for highlighting text with pretty colours.
-*   [StyleToken (⭐47)](https://github.com/vcharnahrebel/style-token) — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
 
 ## [14. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -249,8 +249,8 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 *   [rJava](http://cran.r-project.org/web/packages/rJava/) - Low-level R to Java interface.
 *   [rJython](http://cran.r-project.org/web/packages/rJython/index.html) - R interface to Python via Jython.
 *   [rPython](http://cran.r-project.org/web/packages/rPython/index.html) - Package allowing R to call Python.
-*   [runr (⭐86)](https://github.com/yihui/runr) - Run Julia and Bash from R.
-*   [RJulia (⭐142)](https://github.com/armgong/RJulia) - R package Call Julia.
+*   [runr (⭐85)](https://github.com/yihui/runr) - Run Julia and Bash from R.
+*   [RJulia (⭐143)](https://github.com/armgong/RJulia) - R package Call Julia.
 *   [R.matlab](http://cran.r-project.org/web/packages/R.matlab/index.html) - Read and write of MAT files together with R-to-MATLAB connectivity.
 *   [RSPerl](http://www.omegahat.org/RSPerl/) - A bidirectional interface for calling R from Perl and Perl from R.
 
@@ -308,7 +308,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ### Static Code Analysis
 
-*   [Cppcheck](http://cppcheck.sourceforge.net/) - A tool for static C/C++ code analysis. - [source (⭐5.1k)](https://github.com/danmar/cppcheck)
+*   [Cppcheck](http://cppcheck.sourceforge.net/) - A tool for static C/C++ code analysis. - [source (⭐5.3k)](https://github.com/danmar/cppcheck)
 *   [OCLint](http://oclint.org/) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C. - [source (⭐3.7k)](https://github.com/oclint/oclint)
 
 ### Websites
@@ -354,12 +354,12 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 ### Voice Command / Runner
 
 *   [annyang (⭐6.5k)](https://github.com/TalAter/annyang) - A JavaScript library for adding voice commands to your site, using speech recognition.
-*   [voix.js (⭐551)](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
+*   [voix.js (⭐550)](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
 
 ### API / Runner
 
-*   [bottleneck (⭐1.6k)](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
-*   [oauth-signature-js (⭐231)](https://github.com/bettiolo/oauth-signature-js) - JavaScript OAuth 1.0a signature generator for node and the browser.
+*   [bottleneck (⭐1.7k)](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
+*   [oauth-signature-js (⭐232)](https://github.com/bettiolo/oauth-signature-js) - JavaScript OAuth 1.0a signature generator for node and the browser.
 
 ## [21. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -477,13 +477,13 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ### Packages / Compression
 
-*   [tar-stream (⭐384)](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs (⭐340)](https://github.com/mafintosh/tar-fs).
+*   [tar-stream (⭐389)](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs (⭐345)](https://github.com/mafintosh/tar-fs).
 
 ## [23. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Code Analysis and Linters
 
-*   [Mascot](http://mascot.x9c.fr/) - Mascot is a style-checker for OCaml sources
+*   [Mascot](http://mascot.x9c.fr/) - Mascot is a style-checker for OCaml sources.
 
 ### Formal Software Verification
 
@@ -493,13 +493,13 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 ### General
 
 *   [(Functional) Alternatives to inheritance](http://ocamltutorials.blogspot.se/2013/06/alternatives-to-subtyping.html)
-*   [camlPDF (⭐179)](https://github.com/johnwhitington/camlpdf) – OCaml library for reading, writing and modifying PDF files.
+*   [camlPDF (⭐193)](https://github.com/johnwhitington/camlpdf) – OCaml library for reading, writing and modifying PDF files.
 
 ## [24. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Tutorials
 
-*   [D Template Tutorial (⭐221)](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
+*   [D Template Tutorial (⭐223)](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
 
 ### Blogs / Bare metal / kernel development
 

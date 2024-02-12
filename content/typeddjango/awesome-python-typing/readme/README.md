@@ -55,7 +55,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 *   [boto3-stubs](https://vemel.github.io/boto3_stubs_docs/) - Stubs for [boto3 (⭐8.4k)](https://github.com/boto/boto3).
 *   [botostubs (⭐95)](https://github.com/jeshan/botostubs) - Gives you code assistance for any boto3 API in any IDE.
 *   [celery-types (⭐51)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐23k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐612)](https://github.com/celery/django-celery-results), [ampq (⭐297)](https://github.com/celery/py-amqp), [kombu (⭐2.6k)](https://github.com/celery/kombu), [billiard (⭐383)](https://github.com/celery/billiard), [vine (⭐115)](https://github.com/celery/vine) and [ephem (⭐670)](https://github.com/brandon-rhodes/pyephem).
-*   [data-science-types (⭐198)](https://github.com/predictive-analytics-lab/data-science-types) - Stubs for [numpy (⭐25k)](http://github.com/numpy/numpy), [pandas (⭐40k)](https://github.com/pandas-dev/pandas), and [matplotlib (⭐18k)](https://github.com/matplotlib/matplotlib).
 *   [django-stubs (⭐1.3k)](https://github.com/typeddjango/django-stubs) - Stubs for [Django (⭐74k)](https://github.com/django/django).
 *   [djangorestframework-stubs (⭐374)](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF (⭐27k)](https://github.com/encode/django-rest-framework).
 *   [grpc-stubs (⭐33)](https://github.com/shabbyrobe/grpc-stubs) - Stubs for [grpc (⭐39k)](https://github.com/grpc/grpc).

@@ -34,9 +34,9 @@
 
 ## [5. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
-### Other useful repositories
+### Other Useful Repositories
 
-- Repository: [Pentest Cheatsheets (⭐3k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
+- Repository: [Pentest Cheatsheets (⭐3.6k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
 
   Description: Collection of the cheat sheets useful for pentesting
 

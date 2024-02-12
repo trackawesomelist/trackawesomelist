@@ -42,13 +42,13 @@
 
 *   [The OCP Kata](http://matteo.vaccari.name/blog/archives/293)
 *   [The Birthday Greetings Kata](http://matteo.vaccari.name/blog/archives/154)
-*   [Social Networking Kata (⭐33)](https://github.com/sandromancuso/social_networking_kata)
+*   [Social Networking Kata (⭐31)](https://github.com/sandromancuso/social_networking_kata)
 
 ## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Libraries / Python
 
-*   [partridge (⭐133)](https://github.com/remix/partridge) - A fast, forgiving Python GTFS reader built on pandas DataFrames.
+*   [partridge (⭐140)](https://github.com/remix/partridge) - A fast, forgiving Python GTFS reader built on pandas DataFrames.
 
 ## [7. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Markdown/Text Processors
 
-*   [markd (⭐105)](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
+*   [markd (⭐108)](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
 
 ## [12. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
@@ -149,17 +149,17 @@
 
 ### Packages / Testing
 
-*   [abstruse (⭐898)](https://github.com/bleenco/abstruse) - Continuous Integration server.
+*   [abstruse (⭐910)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Protocols
 
-*   [FluentFTP (⭐2.7k)](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
+*   [FluentFTP (⭐2.9k)](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
 
 ### Tools
 
-*   [Fake JSON Server (⭐368)](https://github.com/ttu/dotnet-fake-json-server) - Fake REST API for prototyping or as a CRUD Back End. No need to define types, uses dynamic typing. Data is stored to a single JSON file. Has authentication, WebSocket notifications, async long running operations, random generation for errors/delays and experimental GraphQL support.
+*   [Fake JSON Server (⭐371)](https://github.com/ttu/dotnet-fake-json-server) - Fake REST API for prototyping or as a CRUD Back End. No need to define types, uses dynamic typing. Data is stored to a single JSON file. Has authentication, WebSocket notifications, async long running operations, random generation for errors/delays and experimental GraphQL support.
 
 ## [15. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
@@ -171,7 +171,7 @@
 
 ### Open Source / Other
 
-*   [Tusk (⭐3.2k)](https://github.com/champloohq/tusk) - Unofficial Evernote app.
+*   [Tusk (⭐3.1k)](https://github.com/champloohq/tusk) - Unofficial Evernote app.
 
 ### Articles / Other
 
@@ -182,7 +182,7 @@
 ### Contents / Components
 
 *   [Preact Side Effect (⭐10)](https://github.com/ooade/preact-side-effect) - Create components whose nested prop changes map to a global side effect.
-*   [Preact Tiny Atom (⭐3)](https://github.com/KwanMan/preact-tiny-atom) - Preact Integration with [Tiny Atom (⭐118)](https://github.com/qubitproducts/tiny-atom).
+*   [Preact Tiny Atom (⭐3)](https://github.com/KwanMan/preact-tiny-atom) - Preact Integration with [Tiny Atom (⭐116)](https://github.com/qubitproducts/tiny-atom).
 
 ## [18. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -194,82 +194,82 @@
 
 ### Tools / Static Analysis Tools
 
-*   [ApkAnalyser (⭐986)](https://github.com/sonyxperiadev/ApkAnalyser)
-*   [APKInspector (⭐806)](https://github.com/honeynet/apkinspector/)
+*   [ApkAnalyser (⭐1k)](https://github.com/sonyxperiadev/ApkAnalyser)
+*   [APKInspector (⭐813)](https://github.com/honeynet/apkinspector/)
 *   [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
 *   [DroidLegacy](https://bitbucket.org/srl/droidlegacy)
 *   ~~[Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs)~~
 *   [FlowDroid](https://blogs.uni-paderborn.de/sse/tools/flowdroid/)
 *   [Android Decompiler](https://www.pnfsoftware.com/) – not free
 *   [Amandroid](http://amandroid.sireum.org/)
-*   [SmaliSCA (⭐303)](https://github.com/dorneanu/smalisca) - Smali Static Code Analysis
-*   [CFGScanDroid (⭐53)](https://github.com/douggard/CFGScanDroid) - Scans and compares CFG against CFG of malicious applications
-*   [Madrolyzer (⭐95)](https://github.com/maldroid/maldrolyzer) - extracts actionable data like C\&C, phone number etc.
+*   [SmaliSCA (⭐311)](https://github.com/dorneanu/smalisca) - Smali Static Code Analysis
+*   [CFGScanDroid (⭐56)](https://github.com/douggard/CFGScanDroid) - Scans and compares CFG against CFG of malicious applications
+*   [Madrolyzer (⭐99)](https://github.com/maldroid/maldrolyzer) - extracts actionable data like C\&C, phone number etc.
 *   [SPARTA](https://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](https://types.cs.washington.edu/checker-framework/)
-*   [DroidRA (⭐47)](https://github.com/serval-snt-uni-lu/DroidRA)
-*   [RiskInDroid (⭐78)](https://github.com/ClaudiuGeorgiu/RiskInDroid) - A tool for calculating the risk of Android apps based on their permissions, with an online demo available.
-*   [SUPER (⭐401)](https://github.com/SUPERAndroidAnalyzer/super) - Secure, Unified, Powerful and Extensible Rust Android Analyzer
+*   [DroidRA (⭐48)](https://github.com/serval-snt-uni-lu/DroidRA)
+*   [RiskInDroid (⭐86)](https://github.com/ClaudiuGeorgiu/RiskInDroid) - A tool for calculating the risk of Android apps based on their permissions, with an online demo available.
+*   [SUPER (⭐413)](https://github.com/SUPERAndroidAnalyzer/super) - Secure, Unified, Powerful and Extensible Rust Android Analyzer
 *   [ClassyShark (⭐7.4k)](https://github.com/google/android-classyshark) - Standalone binary inspection tool which can browse any Android executable and show important info.
 
 ### Tools / App Vulnerability Scanners
 
-*   [AndroBugs (⭐1k)](https://github.com/AndroBugs/AndroBugs_Framework)
+*   [AndroBugs (⭐1.1k)](https://github.com/AndroBugs/AndroBugs_Framework)
 *   [Nogotofail (⭐2.9k)](https://github.com/google/nogotofail)
 
 ### Tools / Dynamic Analysis Tools
 
-*   [Mobile-Security-Framework MobSF (⭐15k)](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework is an intelligent, all-in-one open-source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
+*   [Mobile-Security-Framework MobSF (⭐16k)](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework is an intelligent, all-in-one open-source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
 *   [AppUse](https://appsec-labs.com/AppUse/) – custom build for penetration testing
-*   [Drozer (⭐3.1k)](https://github.com/mwrlabs/drozer)
+*   [Drozer (⭐3.3k)](https://github.com/mwrlabs/drozer)
 *   [Xposed](https://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053) - equivalent of doing Stub-based code injection but without any modifications to the binary
-*   [Inspeckage (⭐2.6k)](https://github.com/ac-pm/Inspeckage) - Android Package Inspector - dynamic analysis with API hooks, start unexported activities, and more. (Xposed Module)
-*   [Android Hooker (⭐408)](https://github.com/AndroidHooker/hooker) - Dynamic Java code instrumentation (requires the Substrate Framework)
-*   [ProbeDroid (⭐193)](https://github.com/ZSShen/ProbeDroid) - Dynamic Java code instrumentation
+*   [Inspeckage (⭐2.7k)](https://github.com/ac-pm/Inspeckage) - Android Package Inspector - dynamic analysis with API hooks, start unexported activities, and more. (Xposed Module)
+*   [Android Hooker (⭐406)](https://github.com/AndroidHooker/hooker) - Dynamic Java code instrumentation (requires the Substrate Framework)
+*   [ProbeDroid (⭐194)](https://github.com/ZSShen/ProbeDroid) - Dynamic Java code instrumentation
 *   ~~[Android Tamer](https://androidtamer.com/) - Virtual / Live Platform for Android Security Professionals~~
-*   [DECAF (⭐743)](https://github.com/sycurelab/DECAF) - Dynamic Executable Code Analysis Framework based on QEMU (DroidScope is now an extension to DECAF)
-*   [CuckooDroid (⭐552)](https://github.com/idanr1986/cuckoo-droid) - Android extension for Cuckoo sandbox
+*   [DECAF (⭐760)](https://github.com/sycurelab/DECAF) - Dynamic Executable Code Analysis Framework based on QEMU (DroidScope is now an extension to DECAF)
+*   [CuckooDroid (⭐565)](https://github.com/idanr1986/cuckoo-droid) - Android extension for Cuckoo sandbox
 *   [Mem (⭐62)](https://github.com/MobileForensicsResearch/mem) - Memory analysis of Android (root required)
 *   [Crowdroid](http://www.ida.liu.se/labs/rtslab/publications/2011/spsm11-burguera.pdf) – unable to find the actual tool
 *   [AuditdAndroid (⭐44)](https://github.com/nwhusted/AuditdAndroid) – android port of auditd, not under active development anymore
 *   [Android Security Evaluation Framework](https://code.google.com/p/asef/) - not under active development anymore
-*   [Aurasium (⭐36)](https://github.com/xurubin/aurasium) – Practical security policy enforcement for Android apps via bytecode rewriting and in-place reference monitor.
-*   [Android Linux Kernel modules (⭐196)](https://github.com/strazzere/android-lkms)
+*   [Aurasium (⭐37)](https://github.com/xurubin/aurasium) – Practical security policy enforcement for Android apps via bytecode rewriting and in-place reference monitor.
+*   [Android Linux Kernel modules (⭐199)](https://github.com/strazzere/android-lkms)
 *   [StaDynA (⭐19)](https://github.com/zyrikby/StaDynA) - a system supporting security app analysis in the presence of dynamic code update features (dynamic class loading and reflection). This tool combines static and dynamic analysis of Android applications in order to reveal the hidden/updated behavior and extend static analysis results with this information.
 *   [DroidAnalytics (⭐28)](https://github.com/zhengmin1989/DroidAnalytics) - incomplete
-*   [Vezir Project (⭐93)](https://github.com/oguzhantopgul/Vezir-Project) - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
-*   [MARA (⭐593)](https://github.com/xtiankisutsa/MARA_Framework) - Mobile Application Reverse Engineering and Analysis Framework
+*   [Vezir Project (⭐97)](https://github.com/oguzhantopgul/Vezir-Project) - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
+*   [MARA (⭐606)](https://github.com/xtiankisutsa/MARA_Framework) - Mobile Application Reverse Engineering and Analysis Framework
 
 ### Tools / Reverse Engineering
 
-*   [emacs syntax coloring for smali files (⭐31)](https://github.com/strazzere/Emacs-Smali)
+*   [emacs syntax coloring for smali files (⭐30)](https://github.com/strazzere/Emacs-Smali)
 *   [vim syntax coloring for smali files](http://codetastrophe.com/smali.vim)
-*   [AndBug (⭐584)](https://github.com/swdunlop/AndBug)
-*   [Androguard (⭐4.6k)](https://github.com/androguard/androguard) – powerful, integrates well with other tools
+*   [AndBug (⭐595)](https://github.com/swdunlop/AndBug)
+*   [Androguard (⭐4.8k)](https://github.com/androguard/androguard) – powerful, integrates well with other tools
 *   [Apktool](https://ibotpeaches.github.io/Apktool/) – really useful for compilation/decompilation (uses smali)
-*   [Android Framework for Exploitation (⭐177)](https://github.com/appknox/AFE)
-*   [Bypass signature and permission checks for IPCs (⭐79)](https://github.com/iSECPartners/Android-KillPermAndSigChecks)
-*   [Android OpenDebug (⭐126)](https://github.com/iSECPartners/Android-OpenDebug) – make any application on the device debuggable (using cydia substrate).
-*   [Dex2Jar (⭐11k)](https://github.com/pxb1988/dex2jar) - dex to jar converter
+*   [Android Framework for Exploitation (⭐180)](https://github.com/appknox/AFE)
+*   [Bypass signature and permission checks for IPCs (⭐80)](https://github.com/iSECPartners/Android-KillPermAndSigChecks)
+*   [Android OpenDebug (⭐130)](https://github.com/iSECPartners/Android-OpenDebug) – make any application on the device debuggable (using cydia substrate).
+*   [Dex2Jar (⭐12k)](https://github.com/pxb1988/dex2jar) - dex to jar converter
 *   [Enjarify (⭐2.7k)](https://github.com/google/enjarify) - dex to jar converter from Google
-*   [Fino (⭐101)](https://github.com/sysdream/fino)
-*   [Frida](https://www.frida.re/) - inject javascript to explore applications and a [GUI tool (⭐167)](https://github.com/antojoseph/diff-gui) for it
+*   [Fino (⭐105)](https://github.com/sysdream/fino)
+*   [Frida](https://www.frida.re/) - inject javascript to explore applications and a [GUI tool (⭐170)](https://github.com/antojoseph/diff-gui) for it
 *   [Indroid](https://bitbucket.org/aseemjakhar/indroid) – thread injection kit
-*   [Introspy (⭐457)](https://github.com/iSECPartners/Introspy-Android)
+*   [Introspy (⭐461)](https://github.com/iSECPartners/Introspy-Android)
 *   [Jad](https://varaneckas.com/jad/) - Java decompiler
 *   [JD-GUI (⭐13k)](https://github.com/java-decompiler/jd-gui) - Java decompiler
 *   [CFR](http://www.benf.org/other/cfr/) - Java decompiler
-*   [Krakatau (⭐1.8k)](https://github.com/Storyyeller/Krakatau) - Java decompiler
-*   [FernFlower (⭐3k)](https://github.com/fesh0r/fernflower) - Java decompiler
+*   [Krakatau (⭐1.9k)](https://github.com/Storyyeller/Krakatau) - Java decompiler
+*   [FernFlower (⭐3.2k)](https://github.com/fesh0r/fernflower) - Java decompiler
 *   [Redexer (⭐155)](https://github.com/plum-umd/redexer) – apk manipulation
 *   [Bytecode viewer (⭐14k)](https://github.com/Konloch/bytecode-viewer)
-*   [Radare2 (⭐18k)](https://github.com/radare/radare2)
+*   [Radare2 (⭐19k)](https://github.com/radare/radare2)
 
 ### Tools / Fuzz Testing
 
 *   [Radamsa Fuzzer (⭐64)](https://github.com/anestisb/radamsa-android)
-*   [Honggfuzz (⭐2.8k)](https://github.com/google/honggfuzz)
-*   [Media Fuzzing Framework for Android (⭐327)](https://github.com/fuzzing/MFFA)
-*   [AndroFuzz (⭐36)](https://github.com/jonmetz/AndroFuzz)
+*   [Honggfuzz (⭐2.9k)](https://github.com/google/honggfuzz)
+*   [Media Fuzzing Framework for Android (⭐329)](https://github.com/fuzzing/MFFA)
+*   [AndroFuzz (⭐37)](https://github.com/jonmetz/AndroFuzz)
 
 ### Tools / Market Crawlers
 
@@ -279,7 +279,7 @@
 ### Tools / Misc Tools
 
 *   [AXMLPrinter2](http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar) - to convert binary XML files to human-readable XML files
-*   [adb autocomplete (⭐239)](https://github.com/mbrubeck/android-completion)
+*   [adb autocomplete (⭐243)](https://github.com/mbrubeck/android-completion)
 
 ### Academic/Research/Publications/Books / Research Papers
 
@@ -297,7 +297,7 @@
 
 ### Exploits/Vulnerabilities/Bugs / Malware
 
-*   [Android Malware Github repo (⭐952)](https://github.com/ashishb/android-malware)
+*   [Android Malware Github repo (⭐983)](https://github.com/ashishb/android-malware)
 *   [Android Malware Genome Project](http://www.malgenomeproject.org/policy.html) - contains 1260 malware samples categorized into 49 different malware families, free for research purposes.
 *   [Contagio Mobile Malware Mini Dump](http://contagiominidump.blogspot.com)
 
@@ -361,11 +361,11 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-inputmask (⭐118)](https://github.com/scleriot/vue-inputmask) - Vue.js directive to add Robin Herbots' inputmask library to your inputs (vanilla javascript).
+*   [vue-inputmask (⭐119)](https://github.com/scleriot/vue-inputmask) - Vue.js directive to add Robin Herbots' inputmask library to your inputs (vanilla javascript).
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-threejs (⭐761)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
+*   [vue-threejs (⭐772)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
 
 ## [25. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
@@ -384,7 +384,7 @@
 
 ### Python / Git
 
-*   [Privy (⭐238)](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data.
+*   [Privy (⭐240)](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data.
 
 ## [28. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -439,19 +439,19 @@
 
 ### Application Libraries
 
-*   [Core (⭐1k)](https://github.com/janestreet/core) – Jane Street Capital's full-fledged standard library overlay. A portable subset of Core is also available: [Core\_kernel (⭐214)](https://github.com/janestreet/core_kernel).
-*   [Minicli (⭐28)](https://github.com/UnixJunkie/minicli) – Minimalist library for command line parsing.
+*   [Core (⭐1.1k)](https://github.com/janestreet/core) – Jane Street Capital's full-fledged standard library overlay. A portable subset of Core is also available: [Core\_kernel (⭐218)](https://github.com/janestreet/core_kernel).
+*   [Minicli (⭐30)](https://github.com/UnixJunkie/minicli) – Minimalist library for command-line parsing.
 
 ### User Interface
 
-*   [lablqml (⭐156)](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
+*   [lablqml (⭐157)](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
 *   [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
 *   [TSDL](http://erratique.ch/software/tsdl) – Tsdl is an OCaml module providing thin bindings to the cross-platform SDL library.
-*   [Notty (⭐315)](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around a notion of composable images.
+*   [Notty (⭐336)](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around the notion of composable images.
 
 ### Security and Cryptography
 
-*   [cryptokit (⭐88)](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
+*   [cryptokit (⭐92)](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
 
 ## [31. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 

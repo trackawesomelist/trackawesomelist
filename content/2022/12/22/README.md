@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 22, 2022
 
-25 awesome lists updated today.
+24 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,13 +16,13 @@
 
 ### Host-based tools / Tarpits
 
-*   [USB Keystroke Injection Protection (⭐458)](https://github.com/google/ukip) - Daemon for blocking USB keystroke injection devices on Linux systems.
+*   [USB Keystroke Injection Protection (⭐468)](https://github.com/google/ukip) - Daemon for blocking USB keystroke injection devices on Linux systems.
 
 ## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Self-hosted
 
-*   [Memos (⭐20k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+*   [Memos (⭐23k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -48,13 +48,13 @@
 
 ### Web
 
-*   [Heroku Buildpack for V (⭐1)](https://github.com/zztkm/heroku-buildpack-v) - Deploy V apps on Heroku.
+*   [Heroku Buildpack for V (⭐2)](https://github.com/zztkm/heroku-buildpack-v) - Deploy V apps on Heroku.
 
 ## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### View components
 
-*   [Phlex (⭐939)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
+*   [Phlex (⭐988)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
 
 ## [7. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
@@ -78,7 +78,7 @@
 
 ### MongoDB
 
-*   [MongoKitten (⭐675)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
+*   [MongoKitten (⭐677)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
 
 ### Realm
 
@@ -86,11 +86,11 @@
 
 ### Documentation
 
-*   [SourceDocs (⭐363)](https://github.com/SourceDocs/SourceDocs) - Generate Markdown reference documentation that lives with your code.
+*   [SourceDocs (⭐364)](https://github.com/SourceDocs/SourceDocs) - Generate Markdown reference documentation that lives with your code.
 
 ### Events
 
-*   [OneWay (⭐57)](https://github.com/DevYeom/OneWay) - State management with unidirectional data flow.
+*   [OneWay (⭐64)](https://github.com/DevYeom/OneWay) - State management with unidirectional data flow.
 
 ### Fonts
 
@@ -108,13 +108,13 @@
 
 ### IDE
 
-*   *   [CSharp Analyzer by MongoDB (⭐15)](https://github.com/mongodb/mongo-csharp-analyzer) A free Visual Studio Extension for MongoDB users, helping translate your code into MongoDB queries
+*   *   [CSharp Analyzer by MongoDB (⭐21)](https://github.com/mongodb/mongo-csharp-analyzer) A free Visual Studio Extension for MongoDB users, helping translate your code into MongoDB queries
 
 ## [10. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
-*   [rpi-cookstrap (⭐10)](https://github.com/heeplr/rpi-cookstrap) - A lightweight, plugin based bakery shell script framework to customize, bootstrap & provision raspberry pi OS disk images.
+*   [rpi-cookstrap (⭐11)](https://github.com/heeplr/rpi-cookstrap) - A lightweight, plugin based bakery shell script framework to customize, bootstrap & provision raspberry pi OS disk images.
 
 ## [11. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -123,120 +123,13 @@
 *   [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 *   [Stanford - Developing apps for iOS](https://itunes.apple.com/us/itunes-u/developing-apps-for-ios-hd/id395605774) - Stanford's iTunes U course.
 
-## [12. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
-
-### Collectives & Practices
-
-- Name: [**Taller Estampa**](https://www.tallerestampa.com)
-
-  Locations: \[Barcelona]
-
-  Keywords: group of filmmakers, programmers and researchers who work in the fields of experimental audiovisual and digital environments.
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.tallerestampa.com)
-
-
-
-### Experiential Spaces & Experiences
-
-- Name: [**Cascade**](https://cascadeshow.com/)
-
-  Locations: \[LA]
-
-  Keywords: interactive art experience
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fcascadeshow.com%2F)
-
-
-
-### Creative Agencies
-
-- Name: [**SuperUber**](https://www.superuber.com/)
-
-  Locations: \[Rio de Janeiro] \[São Paulo]
-
-  Keywords: experiences that blend art, technology, architecture and design
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.superuber.com%2F)
-
-
-
-### Festivals & Conferences
-
-- Name: [**ISEA**](https://isea2022.isea-international.org/)
-
-  Locations: \[Barcelona] \[Paris]
-
-  Keywords: the crossroads where art, design, science, technology and society meet
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fisea2022.isea-international.org%2F)
-
-
-- Name: [**SXSW**](https://www.sxsw.com/)
-
-  Locations: \[Austin]
-
-  Keywords: film, music, interactive arts
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.sxsw.com%2F)
-
-
-
-### Education
-
-- Name: [**Goldsmiths**](https://www.gold.ac.uk/pg/ma-computational-arts/)
-
-  Locations: \[London]
-
-  Keywords: a degree which develops your arts practice through the expressive world of creative computation
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.gold.ac.uk%2Fpg%2Fma-computational-arts%2F)
-
-
-- Name: [**ITP**](https://tisch.nyu.edu/itp)
-
-  Locations: \[NYC]
-
-  Keywords: ITP/IMA offers four programs focused on creative and meaningful application of interactive tools and media.
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Ftisch.nyu.edu%2Fitp)
-
-
-- Name: [**MIT Medialab**](https://media.mit.edu/)
-
-  Locations: \[Boston]
-
-  Keywords: art, science, design, and technology build and play off one another in an environment designed for collaboration and inspiration
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fmedia.mit.edu%2F)
-
-
-- Name: [**Paris College of Art**](https://www.paris.edu/programs/graduate/master-transdisciplinary-new-media/)
-
-  Locations: \[Paris]
-
-  Keywords: designed for those who are interested in exploring the wide-ranging creative field of New Media
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.paris.edu%2Fprograms%2Fgraduate%2Fmaster-transdisciplinary-new-media%2F)
-
-
-- Name: [**University of the Arts**](https://www.arts.ac.uk/subjects/creative-computing/postgraduate/mres-creative-computing)
-
-  Locations: \[London]
-
-  Keywords: computational technologies in the context of creative computing research
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.arts.ac.uk%2Fsubjects%2Fcreative-computing%2Fpostgraduate%2Fmres-creative-computing)
-
-
-
-## [13. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [12. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Tools
 
 *   [RSA Encryption (⭐27)](https://github.com/vellt/RSA-Encryption-Flutter) - A simple UI for encrypting messages by [vellt](https://github.com/vellt).
 
-## [14. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [13. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Visual programming
 
@@ -244,47 +137,47 @@
 *   [Versoly](https://versoly.com/) - The no-code website builder that everyone loves to use.
 *   [Wized](https://www.wized.io) - Rapidly build real web applications without coding.
 
-## [15. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [14. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### JupyterLab Extensions
 
 *   [jupyter-panel-proxy (⭐11)](https://github.com/holoviz/jupyter-panel-proxy) - Automatically serve notebooks as [Panel](https://panel.holoviz.org) data apps at the `/panel` endpoint of your Jupyter server. <!--lint enable double-link-->
 
-## [16. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models (LLMs) / ChatGPT
-
-*   \[🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
-
-### Inbox: Large Language Models (LLMs) / Text-related Generative Tools
-
-*   [GPT-2 Output Detector](https://huggingface.co/openai-detector): tool that estimate is a given text is real or generated by GPT
-
-### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-image
+### Prompt Engineering / Prompt Engineering for Text-to-image
 
 *   [Midjourney artist reference - Google Sheets](https://docs.google.com/spreadsheets/d/1e2MZ1K6WMTUuxlPAQ_2A0rz-H55NBykb66TY7DuerVg/edit#gid=2088669480)
 
+### ChatGPT / Multi-agents
+
+*   \[🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
+
+### Text-related Generative Tools / Multi-agents
+
+*   [GPT-2 Output Detector](https://huggingface.co/openai-detector): tool that estimate is a given text is real or generated by GPT
+
+### Image Synthesis / Multi-agents
+
+*   [openai/point-e (⭐6.1k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
+
 ### Inbox: Stable Diffusion / Web UI for Stable Diffusion via Google Colab
 
-*   [camenduru/stable-diffusion-webui-colab (⭐14k)](https://github.com/camenduru/stable-diffusion-webui-colab): collection of stable diffusion webui colab for different checkpoints
+*   [camenduru/stable-diffusion-webui-colab (⭐15k)](https://github.com/camenduru/stable-diffusion-webui-colab): collection of stable diffusion webui colab for different checkpoints
 
-### Image Synthesis / Promptism
-
-*   [openai/point-e (⭐5.9k)](https://github.com/openai/point-e): OpenAI's point cloud diffusion for 3D model synthesis
-
-## [17. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [16. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### See Also / Books
 
 *   [awesome-molecular-docking (⭐29)](https://github.com/yangnianzu0515/awesome-molecular-docking) - A curated list of molecular docking software, datasets, and other closely related resources.
 
-## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [Postal](https://docs.postalserver.io/) - A complete and fully featured mail server for use by websites & web servers. ([Source Code (⭐13k)](https://github.com/postalserver/postal)) `MIT` `Docker/Ruby`
+*   [Postal](https://docs.postalserver.io/) - A complete and fully featured mail server for use by websites & web servers. ([Source Code (⭐14k)](https://github.com/postalserver/postal)) `MIT` `Docker/Ruby`
 
-## [19. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [18. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
@@ -298,19 +191,19 @@
 
 *   [MDBootstrap](https://mdbootstrap.com/) - Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & colossal community.
 
-## [20. Awesome List](/content/sindresorhus/awesome/README.md)
+## [19. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
-*   [Web Components (⭐2.4k)](https://github.com/web-padawan/awesome-web-components#readme)
+*   [Web Components (⭐2.5k)](https://github.com/web-padawan/awesome-web-components#readme)
 
-## [21. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
+## [20. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 
 ### Bindings
 
 *   [libvlc-zig (⭐5)](https://github.com/kassane/libvlc-zig) - Zig bindings for libVLC.
 
-## [22. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [21. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### IO Games
 
@@ -321,17 +214,17 @@
 
 *   [Honda Civic Type R](https://www.honda.co.jp/CIVICTYPE-R/configurator/) - Configurator (Japanese).
 
-## [23. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [22. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
-*   [h5 (⭐5)](https://github.com/gyt95/h5) A Monorepo-based mobile engineering project. (Monorepo + Pnpm + Vite3.x + Vue3.2+ + TypeScript4.x + VueRouter4.x + Pinia...)
+*   [h5 (⭐6)](https://github.com/gyt95/h5) A Monorepo-based mobile engineering project. (Monorepo + Pnpm + Vite3.x + Vue3.2+ + TypeScript4.x + VueRouter4.x + Pinia...)
 
 ### Projects Using Vue.js / Commercial Products
 
 *   [RunJS](https://runjs.app) - JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
 
-## [24. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [23. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Components
 
@@ -342,7 +235,7 @@
 *   Created by [@mateusortiz](https://github.com/mateusortiz) in 2014.
 *   Maintained by [@web-padawan](https://github.com/web-padawan) since 2018.
 
-## [25. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [24. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Official Resources
 
@@ -372,20 +265,20 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [blackCandy (⭐1k)](https://github.com/blackcandy-org/black_candy) - A music streaming app (using Rails 7.0).
+*   [blackCandy (⭐1.1k)](https://github.com/blackcandy-org/black_candy) - A music streaming app (using Rails 7.0).
 *   [dcaf\_case\_management (⭐84)](https://github.com/DARIAEngineering/dcaf_case_management) - A case management app (using Rails 7.0).
 *   [eol (⭐58)](https://github.com/EOL/deprecated_eol) - An encyclopedia app - using Rails 3.2 - [:earth\_africa:](https://eol.org/)
-*   [mastodon (⭐44k)](https://github.com/mastodon/mastodon) - A microblogging app (using Rails 6.1). - [:earth\_africa:](https://mastodon.social/about)
-*   [postal (⭐13k)](https://github.com/postalserver/postal) - A mail delivery platform (using Rails 5.2).
-*   [scholarsphere (⭐9)](https://github.com/psu-libraries/scholarsphere) - A digital assets management app - using Rails 6.1
+*   [mastodon (⭐45k)](https://github.com/mastodon/mastodon) - A microblogging app (using Rails 6.1). - [:earth\_africa:](https://mastodon.social/about)
+*   [postal (⭐14k)](https://github.com/postalserver/postal) - A mail delivery platform (using Rails 5.2).
+*   [scholarsphere (⭐10)](https://github.com/psu-libraries/scholarsphere) - A digital assets management app - using Rails 6.1
 
 ### Gems / Other external resources
 
 *   [rails\_admin (⭐7.8k)](https://github.com/railsadminteam/rails_admin) - A gem to create & manage admin panel for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_admin)
-*   [rails\_semantic\_logger (⭐260)](https://github.com/reidmorrison/rails_semantic_logger) - A gem to provide alternative logging approach for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_semantic_logger)
+*   [rails\_semantic\_logger (⭐279)](https://github.com/reidmorrison/rails_semantic_logger) - A gem to provide alternative logging approach for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_semantic_logger)
 *   [ranked-model (⭐1.1k)](https://github.com/brendon/ranked-model) - A gem to handle sorting for rows. [:red\_circle:](https://rubygems.org/gems/ranked-model)
-*   [rubocop-rails (⭐740)](https://github.com/rubocop/rubocop-rails) - A code style checking tool. [:red\_circle:](https://rubygems.org/gems/rubocop-rails)
-*   [view\_component (⭐3k)](https://github.com/ViewComponent/view_component) - A gem to introduce view components. [:red\_circle:](https://rubygems.org/gems/view_component)
+*   [rubocop-rails (⭐759)](https://github.com/rubocop/rubocop-rails) - A code style checking tool. [:red\_circle:](https://rubygems.org/gems/rubocop-rails)
+*   [view\_component (⭐3.1k)](https://github.com/ViewComponent/view_component) - A gem to introduce view components. [:red\_circle:](https://rubygems.org/gems/view_component)
 
 ---
 

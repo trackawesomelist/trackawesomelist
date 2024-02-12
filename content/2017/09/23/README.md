@@ -18,13 +18,13 @@
 
 *   [The OCP Kata](http://matteo.vaccari.name/blog/archives/293)
 *   [The Birthday Greetings Kata](http://matteo.vaccari.name/blog/archives/154)
-*   [Social Networking Kata (⭐33)](https://github.com/sandromancuso/social_networking_kata)
+*   [Social Networking Kata (⭐31)](https://github.com/sandromancuso/social_networking_kata)
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Libraries / Python
 
-*   [partridge (⭐133)](https://github.com/remix/partridge) - A fast, forgiving Python GTFS reader built on pandas DataFrames.
+*   [partridge (⭐140)](https://github.com/remix/partridge) - A fast, forgiving Python GTFS reader built on pandas DataFrames.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-inputmask (⭐118)](https://github.com/scleriot/vue-inputmask) - Vue.js directive to add Robin Herbots' inputmask library to your inputs (vanilla javascript).
+*   [vue-inputmask (⭐119)](https://github.com/scleriot/vue-inputmask) - Vue.js directive to add Robin Herbots' inputmask library to your inputs (vanilla javascript).
 
 ## [5. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

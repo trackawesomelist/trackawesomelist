@@ -89,41 +89,40 @@
 
 *   [Example tmux config (⭐1.8k)](https://github.com/tony/tmux-config) :green\_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar
 *   [practical tmux](https://mutelight.org/practical-tmux)
-*   [tmux-extra (⭐108)](https://github.com/brandur/tmux-extra) Configuration and scripts for sane Tmux default behavior
+*   [tmux-extra (⭐109)](https://github.com/brandur/tmux-extra) Configuration and scripts for sane Tmux default behavior
 
 ### Tools and session management
 
 *   [powerline (⭐14k)](https://github.com/powerline/powerline) Statusline plugin for vim, and provides statuslines and prompts for several other applications including tmux
-*   [tmuxifier (⭐1k)](https://github.com/jimeh/tmuxifier) Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
+*   [tmuxifier (⭐1.1k)](https://github.com/jimeh/tmuxifier) Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 *   [tmuxinator (⭐12k)](https://github.com/tmuxinator/tmuxinator) Manage complex tmux sessions easily
-*   [tmuxomatic (⭐1k)](https://github.com/oxidane/tmuxomatic) Intelligent tmux session management
 
 ### Plugins
 
-*   [tmux2html (⭐672)](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
+*   [tmux2html (⭐675)](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
 *   [tmux-plugins](https://github.com/tmux-plugins) Official tmux plugins
-    *   [tmux-continuum (⭐2.8k)](https://github.com/tmux-plugins/tmux-continuum) Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
+    *   [tmux-continuum (⭐2.9k)](https://github.com/tmux-plugins/tmux-continuum) Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
     *   [tmux-copycat (⭐1k)](https://github.com/tmux-plugins/tmux-copycat) A plugin that enhances tmux search
-    *   [tmux-fpp (⭐279)](https://github.com/tmux-plugins/tmux-fpp) Quickly open any path on your terminal window in your $EDITOR of choice!
-    *   [tmux-logging (⭐948)](https://github.com/tmux-plugins/tmux-logging) Easy logging and screen capturing for Tmux.
-    *   [tmux-open (⭐572)](https://github.com/tmux-plugins/tmux-open) Tmux key bindings for quick opening of a highlighted file or url
-    *   [tmux-pain-control (⭐667)](https://github.com/tmux-plugins/tmux-pain-control) standard pane key-bindings for tmux
+    *   [tmux-fpp (⭐280)](https://github.com/tmux-plugins/tmux-fpp) Quickly open any path on your terminal window in your $EDITOR of choice!
+    *   [tmux-logging (⭐963)](https://github.com/tmux-plugins/tmux-logging) Easy logging and screen capturing for Tmux.
+    *   [tmux-open (⭐583)](https://github.com/tmux-plugins/tmux-open) Tmux key bindings for quick opening of a highlighted file or url
+    *   [tmux-pain-control (⭐679)](https://github.com/tmux-plugins/tmux-pain-control) standard pane key-bindings for tmux
     *   [tmux-resurrect (⭐10k)](https://github.com/tmux-plugins/tmux-resurrect) Persists tmux environment across system restarts.
-    *   [tmux-sessionist (⭐370)](https://github.com/tmux-plugins/tmux-sessionist) Lightweight tmux utils for manipulating sessions
-    *   [tmux-sidebar (⭐493)](https://github.com/tmux-plugins/tmux-sidebar) A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
+    *   [tmux-sessionist (⭐379)](https://github.com/tmux-plugins/tmux-sessionist) Lightweight tmux utils for manipulating sessions
+    *   [tmux-sidebar (⭐505)](https://github.com/tmux-plugins/tmux-sidebar) A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
     *   [tmux-tpm (⭐10k)](https://github.com/tmux-plugins/tpm) Tmux Plugin Manager
-    *   [tmux-urlview (⭐243)](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan or tmux-fzf-url for a maintained alternative.)
-    *   [tmux-yank (⭐2.3k)](https://github.com/tmux-plugins/tmux-yank) Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
+    *   [tmux-urlview (⭐247)](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan or tmux-fzf-url for a maintained alternative.)
+    *   [tmux-yank (⭐2.4k)](https://github.com/tmux-plugins/tmux-yank) Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
 
 ### Plugins / Development and testing
 
-*   [tmux-example-plugin (⭐36)](https://github.com/tmux-plugins/tmux-example-plugin) Example Tmux plugin that actually demonstrates how to build plugins for Tmux
+*   [tmux-example-plugin (⭐37)](https://github.com/tmux-plugins/tmux-example-plugin) Example Tmux plugin that actually demonstrates how to build plugins for Tmux
 *   [tmux-test (⭐15)](https://github.com/tmux-plugins/tmux-test) A small framework for isolated testing of tmux plugins.
 
 ### Miscellaneous / Development and testing
 
 *   [Statically linked tmux](https://gist.github.com/rothgar/719ef460efc214c8d222) Install new version without root access
-*   [vim-tmux (⭐325)](https://github.com/tmux-plugins/vim-tmux) vim plugin for tmux.conf
+*   [vim-tmux (⭐327)](https://github.com/tmux-plugins/vim-tmux) vim plugin for tmux.conf
 
 ## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -135,17 +134,13 @@
 
 ### Table of Contents / Dependency Management Extras
 
-*   [Composed (⭐49)](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
-*   [Satis (⭐2.9k)](https://github.com/composer/satis) - A static Composer repository generator.
-*   [Toran Proxy](https://toranproxy.com) - A static Composer repository and proxy.
-
-### Table of Contents / Framework Extras
-
-*   [Symfony CMF (⭐734)](https://github.com/symfony-cmf/symfony-cmf) - A Content Management Framework to create custom CMS.
+*   [Composed (⭐52)](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
+*   [Satis (⭐3k)](https://github.com/composer/satis) - A static Composer repository generator.
+*   [Toran Proxy](https://toranproxy.com) - A Composer proxy for speed and reliability. (:warning: Toran Proxy is being phased out.)
 
 ### Table of Contents / Routers
 
-*   [Route (⭐604)](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
+*   [Route (⭐632)](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
 
 ### Table of Contents / Static Site Generators
 
@@ -154,214 +149,203 @@
 
 ### Table of Contents / HTTP
 
-*   [Guzzle (⭐22k)](https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
+*   [Guzzle (⭐23k)](https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
 
 ### Table of Contents / Scraping
 
-*   [Embed (⭐1.9k)](https://github.com/oscarotero/Embed) - An information extractor from any web service or page.
-*   [Goutte (⭐9.1k)](https://github.com/FriendsOfPHP/Goutte) - A simple web scraper.
+*   [Embed (⭐2.1k)](https://github.com/oscarotero/Embed) - An information extractor from any web service or page.
 *   [PHP Spider (⭐1.3k)](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
 
 ### Table of Contents / URL
 
-*   [Purl (⭐908)](https://github.com/jwage/purl) - A URL manipulation library.
-*   [Uri (⭐857)](https://github.com/thephpleague/uri) - Another URL manipulation library.
+*   [Purl (⭐912)](https://github.com/jwage/purl) - A URL manipulation library.
+*   [Uri (⭐990)](https://github.com/thephpleague/uri) - Another URL manipulation library.
 
 ### Table of Contents / Email
 
-*   [Email Reply Parser (⭐603)](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
-*   [Fetch (⭐500)](https://github.com/tedious/Fetch) - An IMAP library.
-*   [PHPMailer (⭐19k)](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
+*   [Email Reply Parser (⭐624)](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
+*   [Fetch (⭐501)](https://github.com/tedious/Fetch) - An IMAP library.
+*   [PHPMailer (⭐20k)](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
 
 ### Table of Contents / Files
 
-*   [CSV (⭐3k)](https://github.com/thephpleague/csv) - A CSV data manipulation library.
-*   [Gaufrette (⭐2.4k)](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
+*   [CSV (⭐3.2k)](https://github.com/thephpleague/csv) - A CSV data manipulation library.
+*   [Gaufrette (⭐2.5k)](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 
 ### Table of Contents / Imagery
 
-*   [Intervention Image (⭐13k)](https://github.com/Intervention/image) - Another image manipulation library.
+*   [Intervention Image (⭐14k)](https://github.com/Intervention/image) - Another image manipulation library.
 *   [PHP Image Workshop (⭐856)](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
 
 ### Table of Contents / Testing
 
-*   [Alice (⭐2.4k)](https://github.com/nelmio/alice) - An expressive fixture generation library.
-*   [Codeception (⭐4.6k)](https://github.com/Codeception/Codeception) - A full stack testing framework.
-*   [HTTP Mock (⭐387)](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
-*   [Peridot (⭐326)](https://github.com/peridot-php/peridot) - An event driven test framework.
-*   [Pho (⭐285)](https://github.com/danielstjules/pho) - Another behaviour driven development testing framework.
-*   [PHPSpec (⭐1.8k)](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
-*   [PHPUnit (⭐19k)](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
-
-### Table of Contents / Continuous Integration
-
-*   [SemaphoreCI](https://semaphoreci.com/) - A continuous integration platform for open source and private projects.
-*   [Travis CI](https://travis-ci.org/) - A continuous integration platform.
+*   [Alice (⭐2.5k)](https://github.com/nelmio/alice) - An expressive fixture generation library.
+*   [Codeception (⭐4.7k)](https://github.com/Codeception/Codeception) - A full stack testing framework.
+*   [PHPSpec (⭐1.9k)](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
+*   [PHPUnit (⭐20k)](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
 
 ### Table of Contents / Security
 
-*   [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium (⭐11k)](https://github.com/jedisct1/libsodium).
+*   [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium (⭐12k)](https://github.com/jedisct1/libsodium).
 *   [IniScan (⭐1.5k)](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
-*   [Optimus (⭐1.2k)](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
-*   [PHP Encryption (⭐3.5k)](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
-*   [PHPSecLib](http://phpseclib.sourceforge.net/) - A pure PHP secure communications library.
-*   [RandomLib (⭐831)](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
-*   [TCrypto (⭐56)](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
+*   [Optimus (⭐1.3k)](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
+*   [PHP Encryption (⭐3.7k)](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
+*   [RandomLib (⭐840)](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
+*   [TCrypto (⭐60)](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 
 ### Table of Contents / Passwords
 
-*   [GenPhrase (⭐111)](https://github.com/timoh6/GenPhrase) - A library for generating secure random passphrases.
-*   [PHP Password Lib (⭐372)](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
+*   [GenPhrase (⭐115)](https://github.com/timoh6/GenPhrase) - A library for generating secure random passphrases.
+*   [PHP Password Lib (⭐373)](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
 
 ### Table of Contents / Code Analysis
 
 *   [Code Climate](https://codeclimate.com) - An automated code review.
 *   [PHP Parser (⭐16k)](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 *   [PHPLOC (⭐2.3k)](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
-*   [PHPQA (⭐539)](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
-*   [UBench (⭐555)](https://github.com/devster/ubench) - A simple micro benchmark library.
+*   [PHPQA (⭐559)](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
+*   [UBench (⭐567)](https://github.com/devster/ubench) - A simple micro-benchmark library.
 
 ### Table of Contents / Architectural
 
-*   [RulerZ (⭐864)](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
+*   [RulerZ (⭐871)](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
 
 ### Table of Contents / Debugging and Profiling
 
-*   [PHP Console (⭐523)](https://github.com/Seldaek/php-console) - A web debugging console.
+*   [PHP Console (⭐530)](https://github.com/Seldaek/php-console) - A web debugging console.
 *   [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
-*   [xDebug (⭐2.7k)](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
-*   [XHProf (⭐2.5k)](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
+*   [xDebug (⭐3k)](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
+*   [XHProf (⭐2.6k)](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 
 ### Table of Contents / Navigation
 
-*   [KnpMenu (⭐1.3k)](https://github.com/KnpLabs/KnpMenu) - A menu library.
+*   [KnpMenu (⭐1.4k)](https://github.com/KnpLabs/KnpMenu) - A menu library.
 
 ### Table of Contents / Date and Time
 
-*   [Moment.php (⭐946)](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
+*   [Moment.php (⭐960)](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
 
 ### Table of Contents / Event
 
-*   [Ratchet (⭐5.8k)](https://github.com/ratchetphp/Ratchet) - A web socket library.
+*   [Ratchet (⭐6.1k)](https://github.com/ratchetphp/Ratchet) - A web socket library.
 
 ### Table of Contents / Logging
 
-*   [Monolog (⭐20k)](https://github.com/Seldaek/monolog) - A comprehensive logger.
+*   [Monolog (⭐21k)](https://github.com/Seldaek/monolog) - A comprehensive logger.
 
 ### Table of Contents / E-commerce
 
-*   [Money (⭐4.1k)](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
-*   [Shopware (⭐1.3k)](https://github.com/shopware/shopware) - Highly customizable e-commerce software
+*   [Money (⭐4.4k)](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
+*   [Shopware (⭐2.5k)](https://github.com/shopware/shopware) - Highly customizable e-commerce software
 
 ### Table of Contents / PDF
 
-*   [Dompdf (⭐9.2k)](https://github.com/dompdf/dompdf) - A HTML to PDF converter.
+*   [Dompdf (⭐10k)](https://github.com/dompdf/dompdf) - A HTML to PDF converter.
 
 ### Table of Contents / Office
 
-*   [PHPWord (⭐6.4k)](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
+*   [PHPWord (⭐7k)](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
 
 ### Table of Contents / Migrations
 
-*   [Migrations (⭐38)](https://github.com/icomefromthenet/Migrations) - A migration management library.
-*   [PHPMig (⭐559)](https://github.com/davedevelopment/phpmig) - Another migration management library.
+*   [Migrations (⭐40)](https://github.com/icomefromthenet/Migrations) - A migration management library.
+*   [PHPMig (⭐568)](https://github.com/davedevelopment/phpmig) - Another migration management library.
 
 ### Table of Contents / Queue
 
-*   [BunnyPHP (⭐628)](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
-*   [Tarantool Queue (⭐62)](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
+*   [BunnyPHP (⭐671)](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
+*   [Tarantool Queue (⭐63)](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
 *   [Thumper (⭐276)](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
 
 ### Table of Contents / Search
 
-*   [ElasticSearch PHP (⭐5k)](https://github.com/elastic/elasticsearch-php) - The official client library for [ElasticSearch](https://www.elastic.co/).
+*   [ElasticSearch PHP (⭐5.2k)](https://github.com/elastic/elasticsearch-php) - The official client library for [ElasticSearch](https://www.elastic.co/).
 
 ### Table of Contents / Command Line
 
-*   [Cilex (⭐623)](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
+*   [Cilex (⭐622)](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
 *   [CLI Menu (⭐1.9k)](https://github.com/php-school/cli-menu) - A library for building CLI menus.
-*   [CLIFramework (⭐424)](https://github.com/c9s/CLIFramework) - A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
-*   [CLImate (⭐1.8k)](https://github.com/thephpleague/climate) - A library for outputting colours and special formatting.
-*   [GetOptionKit (⭐140)](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
-*   [PsySH (⭐9.4k)](https://github.com/bobthecow/psysh) - Another PHP REPL.
-*   [ShellWrap (⭐743)](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
+*   [CLIFramework (⭐434)](https://github.com/c9s/CLIFramework) - A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
+*   [CLImate (⭐1.9k)](https://github.com/thephpleague/climate) - A library for outputting colors and special formatting.
+*   [GetOptionKit (⭐147)](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
+*   [PsySH (⭐9.6k)](https://github.com/bobthecow/psysh) - Another PHP REPL.
+*   [ShellWrap (⭐744)](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
 
 ### Table of Contents / Authentication and Authorization
 
-*   [Json Web Token (⭐6.8k)](https://github.com/lcobucci/jwt) - Json Tokens to authenticate and transmit information.
+*   [Json Web Token (⭐7.1k)](https://github.com/lcobucci/jwt) - Json Tokens to authenticate and transmit information.
 *   [Opauth (⭐1.7k)](https://github.com/opauth/opauth) - A multi-provider authentication framework.
-*   [PHP oAuthLib (⭐1.1k)](https://github.com/Lusitanian/PHPoAuthLib) - Another OAuth library.
 *   [Sentinel Social](https://cartalyst.com/manual/sentinel-social/2.0) - A library for social network authentication.
 *   [Sentinel](https://cartalyst.com/manual/sentinel/2.0) - A framework agnostic authentication & authorisation library.
 
 ### Table of Contents / Markup and CSS
 
 *   [Decoda (⭐196)](https://github.com/milesj/decoda) - A lightweight markup parser library.
-*   [Parsedown (⭐14k)](https://github.com/erusev/parsedown) - Another Markdown parser.
-*   [PHP Markdown (⭐3.3k)](https://github.com/michelf/php-markdown) - A Markdown parser.
+*   [Parsedown (⭐15k)](https://github.com/erusev/parsedown) - Another Markdown parser.
+*   [PHP Markdown (⭐3.4k)](https://github.com/michelf/php-markdown) - A Markdown parser.
 
 ### Table of Contents / Strings
 
-*   [Agent (⭐4.1k)](https://github.com/jenssegers/agent) - A PHP desktop/mobile user agent parser, based on Mobiledetect.
+*   [Agent (⭐4.4k)](https://github.com/jenssegers/agent) - A PHP desktop/mobile user agent parser, based on Mobiledetect.
 *   [Mobile-Detect (⭐10k)](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
-*   [Patchwork UTF-8 (⭐80)](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
-*   [URLify (⭐660)](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
+*   [Patchwork UTF-8 (⭐79)](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
+*   [URLify (⭐668)](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
 *   [UUID (⭐12k)](https://github.com/ramsey/uuid) - A library for generating UUIDs.
 
 ### Table of Contents / Numbers
 
-*   [PHP Conversion (⭐126)](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
-*   [PHP Units of Measure (⭐21)](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
+*   [PHP Conversion (⭐129)](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
+*   [PHP Units of Measure (⭐22)](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
 
 ### Table of Contents / Filtering and Validation
 
-*   [Filterus (⭐452)](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
-*   [MetaYaml (⭐100)](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
-*   [Respect Validation (⭐5.6k)](https://github.com/Respect/Validation) - A simple validation library.
+*   [Filterus (⭐456)](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
+*   [MetaYaml (⭐102)](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
+*   [Respect Validation (⭐5.7k)](https://github.com/Respect/Validation) - A simple validation library.
 *   [Upload (⭐1.7k)](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
-*   [Valitron (⭐1.5k)](https://github.com/vlucas/valitron) - Another validation library.
+*   [Valitron (⭐1.6k)](https://github.com/vlucas/valitron) - Another validation library.
 
 ### Table of Contents / API
 
-*   [API Platform](https://api-platform.com) - Expose in minutes an hypermedia REST API that embraces JSON-LD, Hydra format.
-*   [Drest (⭐87)](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
-*   [Hateoas (⭐996)](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
+*   [API Platform](https://api-platform.com) - Expose in minutes a hypermedia REST API that embraces JSON-LD, Hydra format.
+*   [Drest (⭐88)](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
+*   [Hateoas (⭐1k)](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
 
 ### Table of Contents / Caching and Locking
 
-*   [CacheTool (⭐1.4k)](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
-*   [Doctrine Cache (⭐7.5k)](https://github.com/doctrine/cache) - A caching library.
+*   [CacheTool (⭐1.6k)](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
+*   [Doctrine Cache (⭐7.8k)](https://github.com/doctrine/cache) - A caching library.
 
 ### Table of Contents / Data Structure and Storage
 
-*   [PINQ (⭐466)](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (Language Integrated Query).
-*   [YaLinqo (⭐432)](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
+*   [PINQ (⭐459)](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (Language Integrated Query).
+*   [YaLinqo (⭐437)](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
 
 ### Table of Contents / Notifications
 
-*   [Notificato (⭐223)](https://github.com/mac-cain13/notificato) - A library for handling push notifications.
-*   [Php-pushwoosh (⭐63)](https://github.com/gomoob/php-pushwoosh) - A PHP Library to easily send push notifications with the Pushwoosh REST Web Services.
+*   [Notificato (⭐226)](https://github.com/mac-cain13/notificato) - A library for handling push notifications.
+*   [Php-pushwoosh (⭐65)](https://github.com/gomoob/php-pushwoosh) - A PHP Library to easily send push notifications with the Pushwoosh REST Web Services.
 
 ### Table of Contents / Deployment
 
-*   [Deployer (⭐9.6k)](https://github.com/deployphp/deployer) - A deployment tool.
+*   [Deployer (⭐10k)](https://github.com/deployphp/deployer) - A deployment tool.
 *   [Rocketeer (⭐2.7k)](https://github.com/rocketeers/rocketeer) - A fast and easy deployer for the PHP world.
 
 ### Configuration / Third Party APIs
 
-*   [Mailgun (⭐1k)](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
-*   [Stripe (⭐3.2k)](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
-*   [Twilio (⭐1.4k)](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
+*   [Mailgun (⭐1.1k)](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
+*   [Stripe (⭐3.6k)](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
+*   [Twilio (⭐1.5k)](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
 
 ### Configuration / Miscellaneous
 
-*   [ClassPreloader (⭐355)](https://github.com/ClassPreloader/ClassPreloader) - A library for optimising autoloading.
+*   [ClassPreloader (⭐362)](https://github.com/ClassPreloader/ClassPreloader) - A library for optimizing autoloading.
 *   [Pagerfanta (⭐1.6k)](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 *   [SuperClosure (⭐1.7k)](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
 
 ### Configuration / PHP Installation
 
-*   [PHP Build (⭐949)](https://github.com/php-build/php-build) - Another PHP version installer.
+*   [PHP Build (⭐989)](https://github.com/php-build/php-build) - Another PHP version installer.
 
 ### Configuration / PHP Websites
 

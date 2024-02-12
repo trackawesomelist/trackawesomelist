@@ -10,7 +10,7 @@
 
 ### Algorithms and Data structures
 
-*   [sfmt (⭐70)](https://github.com/jj1bdx/sfmt-erlang/) - SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang.
+*   [sfmt (⭐71)](https://github.com/jj1bdx/sfmt-erlang/) - SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang.
 *   [tinymt (⭐26)](https://github.com/jj1bdx/tinymt-erlang/) - Tiny Mersenne Twister (TinyMT) for Erlang.
 
 ### Images
@@ -23,7 +23,7 @@
 
 ### ORM and Datamapping
 
-*   [diver (⭐48)](https://github.com/novabyte/diver) - A HBase driver for Erlang/Elixir using Jinterface and the Asynchbase Java client to query the database.
+*   [diver (⭐49)](https://github.com/novabyte/diver) - A HBase driver for Erlang/Elixir using Jinterface and the Asynchbase Java client to query the database.
 
 ### PDF
 
@@ -31,7 +31,7 @@
 
 ### Queue
 
-*   [exq (⭐1.4k)](https://github.com/akira/exq) - Job processing library for Elixir - compatible with Resque/Sidekiq.
+*   [exq (⭐1.5k)](https://github.com/akira/exq) - Job processing library for Elixir - compatible with Resque/Sidekiq.
 
 ### Testing
 
@@ -48,7 +48,7 @@
 
 ### Editors
 
-*   [Alchemist (⭐905)](https://github.com/tonini/alchemist.el) - Elixir Tooling Integration Into Emacs.
+*   [Alchemist (⭐904)](https://github.com/tonini/alchemist.el) - Elixir Tooling Integration Into Emacs.
 *   [Notepad++ (⭐7)](https://github.com/Hades32/elixir-udl-npp) - Elixir syntax highlighting for Notepad++.
 
 ## [2. Typography](/content/deanhume/typography/README.md)

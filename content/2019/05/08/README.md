@@ -10,7 +10,7 @@
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp. ([Source Code (⭐3.7k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Docker/Go`
+*   [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp. ([Source Code (⭐3.8k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Docker/Go`
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Table of Contents / Files
 
-*   [PHP FFmpeg (⭐4.3k)](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
+*   [PHP FFmpeg (⭐4.7k)](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
 
 ### Table of Contents / Imagery
 
@@ -79,7 +79,7 @@
 
 ### Table of Contents / Static Analysis
 
-*   [PHPCompatibility (⭐1.9k)](https://github.com/PHPCompatibility/PHPCompatibility) - A PHP compatibility checker for PHP CodeSniffer.
+*   [PHPCompatibility (⭐2.1k)](https://github.com/PHPCompatibility/PHPCompatibility) - A PHP compatibility checker for PHP CodeSniffer.
 
 ### Table of Contents / Architectural
 
@@ -125,8 +125,6 @@
 
 ### Configuration / PHP Websites
 
-*   [libs.garden: PHP](https://libs.garden/php) - An overview of fastest growing PHP libraries.
-*   [PHP Security](https://phpsecurity.readthedocs.io/en/latest/index.html) - A guide to PHP security.
 *   [PHP The Right Way](https://phptherightway.com/) - A PHP best practice quick reference guide.
 *   [PHP UG](https://php.ug) - A website to help people locate their nearest PHP user group (UG).
 
@@ -150,13 +148,13 @@
 
 ### Miscellaneous
 
-*   [potemkin (⭐556)](https://github.com/ztellman/potemkin) - reexport vars in another ns / act like a clojure map
+*   [potemkin (⭐561)](https://github.com/ztellman/potemkin) - reexport vars in another ns / act like a clojure map
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
-*   [job (⭐132)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/liujianping/job) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [job (⭐137)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/liujianping/job) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [11. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

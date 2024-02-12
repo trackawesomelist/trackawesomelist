@@ -8,10 +8,6 @@
 
 ## [1. Awesome React](/content/enaqx/awesome-react/README.md)
 
-### React Frameworks
-
-*   [remix](https://remix.run/) - Full stack web Framework that lets you focus on the user interface
-
 ### React Native Awesome Components
 
 *   [react-native-gifted-chat (⭐13k)](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native
@@ -24,7 +20,7 @@
 
 ### ORMs
 
-*   [cl-dbi (⭐188)](https://github.com/fukamachi/cl-dbi) - A database-independent interface for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-dbi (⭐191)](https://github.com/fukamachi/cl-dbi) - A database-independent interface for Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html).
     *   [dbd-oracle (⭐4)](https://github.com/sergadin/dbd-oracle) - an Oracle database driver for CL-DBI. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### CLOS extensions

@@ -53,12 +53,7 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [Fabio (⭐7.1k)](https://github.com/eBay/fabio) - A fast, modern, zero-conf load balancing HTTP/S router for deploying microservices managed by Consul.
-*   [Neutrino (⭐301)](https://github.com/eBay/Neutrino) - Extensible software load balancer.
-
-### Web APIs / Scala
-
-*   [Hydra](http://www.hydra-cg.com/) - Specifications for interoperable, hypermedia-driven Web APIs.
+*   [Neutrino (⭐307)](https://github.com/eBay/Neutrino) - Extensible software load balancer.
 
 ### Data Formats / Scala
 
@@ -128,7 +123,7 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Other
 
-*   [npm-upgrade (⭐329)](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
+*   [npm-upgrade (⭐340)](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
 
 ## [12. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -156,7 +151,7 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### API
 
-*   [Mobius: C# API for Spark (⭐940)](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
+*   [Mobius: C# API for Spark (⭐941)](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
 
 ## [16. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -215,7 +210,7 @@ By the end of this book, you will have learned about text manipulation using str
 ### Miscellaneous
 
 *   [exldap (⭐58)](https://github.com/jmerriweather/exldap) - A module for working with LDAP from Elixir.
-*   [phone (⭐104)](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
+*   [phone (⭐105)](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
 
 ### Testing
 
@@ -235,7 +230,7 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Table of Contents / Data Structure and Storage
 
-*   [JsonMapper (⭐1.4k)](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
+*   [JsonMapper (⭐1.5k)](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
 
 ## [23. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -257,14 +252,14 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Data Manipulation
 
-*   [fuzzyjoin (⭐619)](https://github.com/dgrtwo/fuzzyjoin) - Join tables together on inexact matching.
+*   [fuzzyjoin (⭐650)](https://github.com/dgrtwo/fuzzyjoin) - Join tables together on inexact matching.
 
 ### Other Interpreters
 
 *   [CXXR](https://www.cs.kent.ac.uk/projects/cxxr/) - Refactorising R into C++.
 *   [pqR](http://www.pqr-project.org/) - a "pretty quick" implementation of R
 *   [renjin](http://www.renjin.org/) - a JVM-based interpreter for R.
-*   [rho (⭐131)](https://github.com/rho-devel/rho) - Refactor the interpreter of the R language into a fully-compatible, efficient, VM for R.
+*   [rho (⭐132)](https://github.com/rho-devel/rho) - Refactor the interpreter of the R language into a fully-compatible, efficient, VM for R.
 *   [TERR](http://spotfire.tibco.com/discover-spotfire/what-does-spotfire-do/predictive-analytics/tibco-enterprise-runtime-for-r-terr) - TIBCO Enterprise Runtime for R.
 
 ## [26. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
@@ -396,19 +391,19 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Open Source / Featured
 
-*   [WebTorrent (⭐9.4k)](https://github.com/feross/webtorrent-app) - Streaming torrent client.
-*   [Visual Studio Code (⭐152k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
+*   [WebTorrent (⭐9.5k)](https://github.com/feross/webtorrent-app) - Streaming torrent client.
+*   [Visual Studio Code (⭐155k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 
 ### Open Source / Other
 
 *   [Git-it (⭐4.5k)](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
-*   [Caprine (⭐6.7k)](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
-*   [Simplenote (⭐4.5k)](https://github.com/Automattic/simplenote-electron) - Note keeper.
+*   [Caprine (⭐6.8k)](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
+*   [Simplenote (⭐4.6k)](https://github.com/Automattic/simplenote-electron) - Note keeper.
 *   [Abricotine (⭐2.6k)](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
 *   [Medis (⭐11k)](https://github.com/luin/medis) - Redis database management.
 *   [SmartMirror (⭐2.8k)](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
 *   [Google Play Music Desktop Player (⭐8.3k)](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
-*   [Ansel (⭐394)](https://github.com/m0g/ansel) - Image organizer.
+*   [Ansel (⭐402)](https://github.com/m0g/ansel) - Image organizer.
 
 ### Closed Source / Other
 
@@ -418,11 +413,11 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### For Electron / Other
 
-*   [electron-is-dev (⭐416)](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
-*   [electron-localshortcut (⭐409)](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
+*   [electron-is-dev (⭐417)](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
+*   [electron-localshortcut (⭐412)](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
 *   [electron-dl (⭐1.1k)](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
-*   [electron-release-server (⭐1.9k)](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
-*   [electron-download (⭐310)](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
+*   [electron-release-server (⭐2k)](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
+*   [electron-download (⭐319)](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
 *   [ember-electron (⭐804)](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
 
 ### Using Electron / Other

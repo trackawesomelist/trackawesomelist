@@ -30,8 +30,8 @@ git rev-list --count <branch-name>
 
 ### Command-Line Productivity
 
-*   [SHML (⭐431)](https://github.com/odb/shml) - Style framework for the terminal (Shell Markup Language)
-*   [sudocabulary (⭐156)](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
+*   [SHML (⭐436)](https://github.com/odb/shml) - Style framework for the terminal (Shell Markup Language)
+*   [sudocabulary (⭐157)](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
 
 ## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

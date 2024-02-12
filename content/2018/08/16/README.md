@@ -10,11 +10,11 @@
 
 ### System Utilities / Directory Navigation
 
-*   [hblock (⭐1.3k)](https://github.com/hectorm/hblock) - Hosts-file based adblocker
+*   [hblock (⭐1.4k)](https://github.com/hectorm/hblock) - Hosts-file based adblocker
 
 ### Shell Package Management / Directory Navigation
 
-*   [bashing (⭐70)](https://github.com/xsc/bashing) - Smashing Bash into Pieces
+*   [bashing (⭐72)](https://github.com/xsc/bashing) - Smashing Bash into Pieces
 
 ## [2. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -32,13 +32,13 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Kalimdor.js (⭐533)](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
+*   :octocat: [Kalimdor.js (⭐535)](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Media
 
-*   [FFmpeg (⭐892)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
+*   [FFmpeg (⭐912)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 
 ## [6. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
@@ -50,11 +50,11 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [eaopt (⭐848)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
+*   [eaopt (⭐869)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [19 Questions (⭐15)](https://github.com/fulldecent/19-questions) - A machine learning / bayesian inference assigning attributes to objects.
+*   [19 Questions (⭐17)](https://github.com/fulldecent/19-questions) - A machine learning / bayesian inference assigning attributes to objects.
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

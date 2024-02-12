@@ -22,11 +22,11 @@
 
 ### CMS & Blogs
 
-*   [KikCMS (⭐54)](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework
+*   [KikCMS (⭐55)](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework
 
 ### ODM
 
-*   [phalcon-collection-paginator (⭐2)](https://github.com/angelxmoreno/phalcon-collection-paginator) - A [pagination adapter](https://docs.phalcon.io/3.4/en/db-pagination#data-adapters) for classes that extend `Phalcon\Mvc\Collection`
+*   [phalcon-collection-paginator (⭐2)](https://github.com/angelxmoreno/phalcon-collection-paginator) - A [pagination adapter](https://docs.phalcon.io/3.4/db-pagination#data-adapters) for classes that extend `Phalcon\Mvc\Collection`
 
 ### Conferences / Communities
 
@@ -114,7 +114,7 @@
 
 ### Reflection
 
-*   [magic\_get (⭐185)](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. \[Boost]
+*   [magic\_get (⭐191)](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. \[Boost]
 
 ## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

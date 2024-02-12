@@ -16,7 +16,7 @@
 
 ### Integrated Development Environments
 
-*   [Sublime Text + R-Box (⭐176)](http://github.com/randy3k/R-Box/) - Add-on package for Sublime Text 2/3.
+*   [Sublime Text + R-Box (⭐172)](http://github.com/randy3k/R-Box/) - Add-on package for Sublime Text 2/3.
 
 ## [3. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
@@ -36,7 +36,7 @@
 
 ### CLI Builder
 
-*   [Commander (⭐782)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
+*   [Commander (⭐783)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
 
 ## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

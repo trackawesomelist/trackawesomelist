@@ -90,7 +90,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlens (⭐803)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
+*   [mlens (⭐821)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
 
 ## [8. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Debugging
 
-*   [tools.trace (⭐350)](https://github.com/clojure/tools.trace)
+*   [tools.trace (⭐353)](https://github.com/clojure/tools.trace)
 
 ## [10. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
@@ -129,9 +129,9 @@
 
 ### Tools / Other
 
-*   [NoSQLMap (⭐2.5k)](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
+*   [NoSQLMap (⭐2.7k)](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
 *   [VHostScan (⭐1.1k)](https://github.com/codingo/VHostScan) - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
-*   [SubFinder (⭐8.3k)](https://github.com/subfinder/subfinder) - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
+*   [SubFinder (⭐8.7k)](https://github.com/subfinder/subfinder) - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
 
 ## [13. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

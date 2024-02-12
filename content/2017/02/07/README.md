@@ -10,7 +10,7 @@
 
 ### Projects
 
-*   [PiE-Ink](http://www.htxt.co.za/2017/02/07/pie-ink-is-a-raspberry-pi-name-tag-that-uses-an-e-ink-display/) - E-ink nametag display running on a Pi Zero. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
+*   [PiE-Ink](http://www.htxt.co.za/2017/02/07/pie-ink-is-a-raspberry-pi-name-tag-that-uses-an-e-ink-display/) - E-ink nametag display running on a Pi Zero. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png)
 
 ## [2. Awesome Choo](/content/choojs/awesome-choo/README.md)
 
@@ -38,7 +38,7 @@
 ### Database Management
 
 *   [RNeo4j (⭐236)](https://github.com/nicolewhite/Rneo4j) - Neo4j graph database driver.
-*   [rpostgis (⭐60)](https://github.com/mablab/rpostgis) - R interface to PostGIS database and get spatial objects in R.
+*   [rpostgis (⭐76)](https://github.com/mablab/rpostgis) - R interface to PostGIS database and get spatial objects in R.
 
 ## [5. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Templating
 
-*   [exgen (⭐34)](https://github.com/rwdaigle/exgen) - A templating library for quickly generating Elixir projects.
+*   [exgen (⭐35)](https://github.com/rwdaigle/exgen) - A templating library for quickly generating Elixir projects.
 
 ### Third Party APIs
 

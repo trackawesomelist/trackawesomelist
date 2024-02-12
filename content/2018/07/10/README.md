@@ -16,14 +16,14 @@
 
 ### Math
 
-*   [StatsLib (⭐475)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
+*   [StatsLib (⭐490)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
 
 ## [3. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
 ### Programming Language Design Patterns
 
 *   Go
-    *   [design-patterns (⭐21k)](https://github.com/tmrts/go-patterns)
+    *   [design-patterns (⭐23k)](https://github.com/tmrts/go-patterns)
 
 ## [4. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 

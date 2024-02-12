@@ -48,7 +48,7 @@
 
 ### Packages / Testing
 
-*   [Nightwatch (⭐11k)](https://github.com/nightwatchjs/nightwatch) - Automated UI testing framework based on Selenium WebDriver.
+*   [Nightwatch (⭐12k)](https://github.com/nightwatchjs/nightwatch) - Automated UI testing framework based on Selenium WebDriver.
 
 ## [3. Awesome Relay](/content/expede/awesome-relay/README.md)
 
@@ -92,7 +92,7 @@ git rebase --interactive HEAD~2
 
 ### Geolocation
 
-*   [ipgeobase (⭐8)](https://github.com/sergey-chechaev/elixir_ipgeobase) - Find Russian and Ukraine city by IP address and find country for other country.
+*   [ipgeobase (⭐7)](https://github.com/sergey-chechaev/elixir_ipgeobase) - Find Russian and Ukraine city by IP address and find country for other country.
 
 ### Miscellaneous
 
@@ -102,7 +102,7 @@ git rebase --interactive HEAD~2
 
 ### Open Source / Featured
 
-*   [Min (⭐7.1k)](https://github.com/minbrowser/min) - Minimal web browser.
+*   [Min (⭐7.3k)](https://github.com/minbrowser/min) - Minimal web browser.
 
 ---
 

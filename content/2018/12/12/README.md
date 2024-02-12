@@ -49,7 +49,7 @@
 
 ### Software / Frameworks
 
-*   [MyController (⭐146)](https://github.com/mycontroller-org/mycontroller) - The Open Source Controller. MyController.org is an IoT automation controller for home, office or any place.
+*   [MyController (⭐148)](https://github.com/mycontroller-org/mycontroller) - The Open Source Controller. MyController.org is an IoT automation controller for home, office or any place.
 
 ## [6. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 

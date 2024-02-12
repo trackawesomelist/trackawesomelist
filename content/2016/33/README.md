@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 15 - Aug 21, 2016
 
-46 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,18 +10,18 @@
 
 ### Code Analysis and Linters
 
-*   [SLAyer (⭐323)](https://github.com/Microsoft/SLAyer) - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs.
+*   [SLAyer (⭐322)](https://github.com/Microsoft/SLAyer) - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs.
 
 ### Compilers and Compiler Tools
 
 *   **Parser and Lexer Generators**:
-    *   [Opal (⭐137)](https://github.com/pyrocat101/opal) – Self-contained monadic parser combinators for OCaml.
-    *   [Sedlex (⭐206)](https://github.com/ocaml-community/sedlex) is a modern, encoding-agnostic (read: Unicode-supporting) lexer generator (the ppx-based successor to [ulex](http://www.cduce.org/download.html#side).)
+    *   [Opal (⭐145)](https://github.com/pyrocat101/opal) – Self-contained monadic parser combinators for OCaml.
+    *   [Sedlex (⭐225)](https://github.com/ocaml-community/sedlex) is a modern, encoding-agnostic (read: Unicode-supporting) lexer generator (the ppx-based successor to [ulex](http://www.cduce.org/download.html#side).)
     *   [Menhir](http://gallium.inria.fr/~fpottier/menhir/) – Menhir is a LR(1) parser generator for OCaml.
-        *   See [ocaml-parsing (⭐112)](https://github.com/smolkaj/ocaml-parsing) for a clearer example of using Menhir and Sedlex to produce a useful parser,
-        *   ... and [Obelisk (⭐45)](https://github.com/Lelio-Brun/Obelisk), a neat project to produce readable LaTeX, HTML, or plain-text EBNF-style documentation for your grammar.
+        *   See [ocaml-parsing (⭐121)](https://github.com/smolkaj/ocaml-parsing) for a clearer example of using Menhir and Sedlex to produce a useful parser,
+        *   ... and [Obelisk (⭐52)](https://github.com/Lelio-Brun/Obelisk), a neat project to produce readable LaTeX, HTML, or plain-text EBNF-style documentation for your grammar.
     *   [ocamllex/ocamlyacc](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) – lex and yacc implementation for OCaml.
-    *   [Angstrom (⭐553)](https://github.com/inhabitedtype/angstrom) - Parser combinators built for speed and memory efficiency
+    *   [Angstrom (⭐602)](https://github.com/inhabitedtype/angstrom) - Parser combinators built for speed and memory efficiency
 
 ### Logging
 
@@ -29,11 +29,11 @@
 
 ### Networking
 
-*   [charrua-unix (⭐11)](https://github.com/haesbaert/charrua-unix) - charrua-unix is a Unix DHCP daemon based on [charrua-core (⭐56)](https://github.com/haesbaert/charrua-core).
+*   [charrua-unix (⭐11)](https://github.com/haesbaert/charrua-unix) - charrua-unix is a Unix DHCP daemon based on [charrua-core (⭐55)](https://github.com/haesbaert/charrua-core).
 
 ### Regular Expressions
 
-*   [Tyre (⭐164)](https://github.com/Drup/tyre) - Tyre is a set of combinators to build type-safe regular expressions, allowing automatic extraction and modification of matched groups.
+*   [Tyre (⭐166)](https://github.com/Drup/tyre) - Tyre is a set of combinators to build type-safe regular expressions, allowing automatic extraction and modification of matched groups.
 
 ## [2. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
@@ -122,19 +122,13 @@
 
 *   [auto-install (⭐1.2k)](https://github.com/siddharthkp/auto-install) - Auto installs dependencies as you code.
 
-## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Elixir / Non-X86
-
-*   [Getting Started Guide](http://elixir-lang.org/getting-started/introduction.html) (HTML) [(PDF, MOBI, EPUB) (⭐101)](https://github.com/potatogopher/elixir-getting-started)
-
-## [14. Amas](/content/sindresorhus/amas/week/README.md)
+## [13. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Lindsey Bieda](https://github.com/lindseyb/ama) - Back-end developer, game maker, and hardware hacker.
 
-## [15. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [14. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Fast Packet Processing
 
@@ -143,21 +137,21 @@
 
 ### Datastores / Online resources
 
-*   [Safe (⭐408)](https://github.com/starkandwayne/safe) - A Vault CLI that makes reading from and writing to the Vault easier to do.
+*   [Safe (⭐409)](https://github.com/starkandwayne/safe) - A Vault CLI that makes reading from and writing to the Vault easier to do.
 
-## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [15. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Data Formats / Scala
 
 *   [BSON](http://bsonspec.org/) - Binary JSON (BSON).
 
-## [17. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [16. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / SharePoint
 
 *   [Sharepoint Interview Question For Developer](http://www.rajeshg.me/2013/05/sharepoint-developer-2010-interview.html)
 
-## [18. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
+## [17. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
 
 ### CacheStorage API
 
@@ -172,7 +166,7 @@
 
 *   [IndexedDB API](https://developer.mozilla.org/en/docs/Web/API/IndexedDB_API) - API docs, key concepts, and sample code from Mozilla.
 
-## [19. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [18. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Database / Field Validation
 
@@ -185,13 +179,13 @@
 *   [Siren (⭐134)](https://github.com/eggheadgames/Siren) - focused feature set that mimicks the popular iOS library of the same name. Supports Play and Amazon.
 *   [Fit (⭐59)](https://github.com/KeithYokoma/Fit) - version checking callback framework with no UI.
 
-## [20. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [19. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### PHP
 
 *   [Fusio (⭐1.3k)](https://github.com/apioo/fusio) - Open source API management platform.
 
-## [21. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
+## [20. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
 
 ### Pre-Literate
 
@@ -206,7 +200,7 @@
 *   [Lauren Ipsum](http://laurenipsum.org/) - A book that teaches problem-solving concepts in the context of programming.  Sample chapters available online.
 *   [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) - An online tutorial-game with cool music that teaches Ruby programming.
 
-## [22. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [21. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Filesystem
 
@@ -232,11 +226,11 @@
 
 *   [ReCharts](http://recharts.org/) - A composable charting library built on React components
 
-## [23. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [22. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authorization
 
-*   [canada (⭐438)](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
+*   [canada (⭐439)](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
 
 ### Files and Directories
 
@@ -250,7 +244,7 @@
 
 *   [bupe (⭐77)](https://github.com/milmazz/bupe) - EPUB Generator and Parser.
 *   [charm (⭐4)](https://github.com/tomgco/elixir-charm) - Use ANSI terminal characters to write colors and cursor positions.
-*   [ecto\_autoslug\_field (⭐145)](https://github.com/sobolevn/ecto_autoslug_field) - Automatically creates slugs for your Ecto models.
+*   [ecto\_autoslug\_field (⭐147)](https://github.com/sobolevn/ecto_autoslug_field) - Automatically creates slugs for your Ecto models.
 
 ### Release Management
 
@@ -260,17 +254,17 @@
 
 *   [Erlang and Elixir for Imperative Programmers](https://leanpub.com/erlangandelixirforimperativeprogrammers) - Introduction to Erlang and Elixir in the context of functional concepts by Wolfgang Loder (2016).
 
-## [24. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [23. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
-*   [electron-log (⭐1.1k)](https://github.com/megahertz/electron-log) - Simple logging.
+*   [electron-log (⭐1.2k)](https://github.com/megahertz/electron-log) - Simple logging.
 
 ### Community / Other
 
 *   [Reddit](https://www.reddit.com/r/electronjs)
 
-## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [24. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Build Automation
 
@@ -278,7 +272,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [LinqOptimizer (⭐476)](https://github.com/nessos/LinqOptimizer) - An automatic query optimizer-compiler for Sequential and Parallel LINQ
+*   [LinqOptimizer (⭐474)](https://github.com/nessos/LinqOptimizer) - An automatic query optimizer-compiler for Sequential and Parallel LINQ
 
 ### Continuous Integration
 
@@ -286,18 +280,18 @@
 
 ### Database
 
-*   [Streamstone (⭐387)](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
+*   [Streamstone (⭐386)](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
 
 ### Queue
 
-*   [Kafunk (⭐161)](https://github.com/jet/kafunk) - F# Kafka client from Jet
+*   [Kafunk (⭐162)](https://github.com/jet/kafunk) - F# Kafka client from Jet
 
 ### Serialization
 
 *   [FileHelpers (⭐1.1k)](https://github.com/MarcosMeli/FileHelpers) - free and easy to use .NET library to import or export data from fixed length or delimited records in files, strings or streams.
-*   [FsPickler (⭐323)](https://github.com/mbraceproject/FsPickler) - A fast multi-format message serializer for .NET
+*   [FsPickler (⭐321)](https://github.com/mbraceproject/FsPickler) - A fast multi-format message serializer for .NET
 
-## [26. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
+## [25. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
 ### Videos / Old recordings
 
@@ -305,13 +299,13 @@
 *   [We Are Apple](https://www.youtube.com/watch?v=nbJy0O4UFSM) (1984) - Corporate song that was used during the Macintosh rollout in January, 1984
 *   [Steve Jobs: The Crazy Ones](https://www.youtube.com/watch?v=VCz_SiPD_X0) (1997) - Steve Jobs talks about The Crazy Ones marketing campaign on internal Apple meeting
 
-## [27. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [26. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Courses
 
 *   [Deep Learning Course](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm) by Yann LeCun (2016)
 
-## [28. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [27. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Articles and standards
 
@@ -352,13 +346,13 @@
 
 *   [Info, news and tutorials](http://html5gamedevelopment.com/)
 
-## [29. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [28. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Books / Hash functions
 
 *   [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) - Introductory-level treatment of cryptography written from a modern, computer science perspective.
 
-## [30. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [29. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Code Review
 
@@ -368,7 +362,7 @@
 
 *   [SBT](http://www.scala-sbt.org/index.html)  sbt is an open source build tool for Scala and Java projects.
 
-## [31. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [30. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Demos
 
@@ -382,7 +376,7 @@
 
 *   [hackernews-choo (⭐30)](https://github.com/kvnneff/hackernews-choo) - A Hacker News reader built with choo.
 
-## [32. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [31. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Blogs
 
@@ -393,7 +387,7 @@
 *   [Cloudonaut](https://cloudonaut.io/serverless-consulting/) - Consultancy.
 *   [PromptWorks](https://www.promptworks.com/serverless/) - Consultancy.
 
-## [33. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
+## [32. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
 
 ### Examples and boilerplates
 
@@ -403,13 +397,13 @@
 
 *   [Orchestra (⭐27)](https://github.com/BedeGaming/orchestra) - Client-side app orchestration framework
 
-## [34. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [33. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Repos
 
 *   [Functional Programming Jargon (⭐18k)](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier.
 
-## [35. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [34. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / APIs
 
@@ -437,7 +431,7 @@
 *   [InfoSpreadsheet](https://docs.google.com/spreadsheets/d/1iJcE12v14GA8V8EO4M1-dPxBFT2kFhR6bUXvj03a4kM/) - Datamined info about Pokémon GO species with IV calculations.
 *   [InfoSpreadsheet#2](https://docs.google.com/spreadsheets/d/1hcFo7-UGWx1k1u1BHOvDhq8foPeRr7YbX2jLjjJK0Qw/) - Pokémon GO species data with their movesets.
 
-## [36. Awesome Redux](/content/brillout/awesome-redux/week/README.md)
+## [35. Awesome Redux](/content/brillout/awesome-redux/week/README.md)
 
 ### Utilities / Side Effects
 
@@ -456,7 +450,7 @@
 
 *   [redux-rollbar-middleware](https://github.com/netguru/redux-rollbar-middleware) - Redux middleware that wraps exceptions in actions and sends them to Rollbar with current state.
 
-## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [36. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Developer Tools
 
@@ -466,7 +460,7 @@
 
 *   [Laravel Collection Macros (⭐1.5k)](https://github.com/spatie/laravel-collection-macros) - A set of handy collection macros
 
-## [38. Tips](/content/git-tips/tips/week/README.md)
+## [37. Tips](/content/git-tips/tips/week/README.md)
 
 ## Revert: Reverting an entire merge
 
@@ -474,7 +468,7 @@
 git revert -m 1 <commit-ish>
 ```
 
-## [39. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
+## [38. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
 
 ### Software Repositories / New Functionality
 
@@ -486,13 +480,13 @@ git revert -m 1 <commit-ish>
 
 *   [Google Earth](https://www.google.com/earth) - *The* virtual globe.
 
-## [40. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [39. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Streaming / Runner
 
 *   [Tailor (⭐1.7k)](https://github.com/zalando/tailor) - Streaming layout service for front-end microservices, inspired by Facebook's BigPipe.
 
-## [41. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
+## [40. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
 ### Other Awesome Resources / Interview Questions
 
@@ -507,24 +501,24 @@ git revert -m 1 <commit-ish>
 
 
 
-## [42. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [41. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Workflow / Extensions
 
 *   [Zappr (⭐532)](https://github.com/zalando/zappr) - GitHub integration built to enhance your project workflow via enable/disable pull request approval checks.
 
-## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [42. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
-*   [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, FFT, FIR/IIR filters, Sample Rate Conversion. \[GPL/Commercial]
+*   [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, FFT, FIR/IIR filters, Sample Rate Conversion. \[GPL/Proprietary]
 
 ### Build Systems
 
 *   [Scons](http://www.scons.org/) - A software construction tool configured with a Python script.
 *   [Premake](http://premake.github.io) - A tool configured with a Lua script to generate project files for Visual Studio, GNU Make, Xcode, Code::Blocks, and more across Windows, Mac OS X, and Linux.
 
-## [44. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [43. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -635,7 +629,7 @@ git revert -m 1 <commit-ish>
 *   [ASP.NET Core Starter Kit (⭐1.1k)](https://github.com/kriasoft/aspnet-starter-kit) - Opinionated boilerplate for web development based on .NET Core, Kestrel, GraphQL on the backend and Babel, Webpack, React and Redux on the frontend. This boilerplate comes in both C# and F# flavors.
 *   [saaskit (⭐1.1k)](https://github.com/saaskit/saaskit) - Developer toolkit for building SaaS applications.
 
-## [45. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [44. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Native
 
@@ -649,7 +643,7 @@ git revert -m 1 <commit-ish>
 
 *   [jitwatch-intellij (⭐165)](https://github.com/yole/jitwatch-intellij) - JITWatch plugin for IntelliJ IDEA.
 
-## [46. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [45. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / I individuals
 

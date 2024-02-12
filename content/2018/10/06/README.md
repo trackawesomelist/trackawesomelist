@@ -28,7 +28,7 @@
 
 ### Gem Generators
 
-*   [Gemsmith (⭐431)](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
+*   [Gemsmith (⭐432)](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -62,7 +62,7 @@
 
 ### GUI
 
-*   [Pgweb (⭐8.1k)](https://github.com/sosedoff/pgweb) - Web-based database browser for PostgreSQL, written in Go and works on macOS, Linux and Windows machines.
+*   [Pgweb (⭐8.2k)](https://github.com/sosedoff/pgweb) - Web-based database browser for PostgreSQL, written in Go and works on macOS, Linux and Windows machines.
 
 ### CLI
 
@@ -70,11 +70,11 @@
 
 ### Schema / Changes
 
-*   [gh-ost (⭐11k)](https://github.com/github/gh-ost) - Online schema migration for MySQL.
+*   [gh-ost (⭐12k)](https://github.com/github/gh-ost) - Online schema migration for MySQL.
 
 ### Schema / Code generation
 
-*   [ddl-generator (⭐265)](https://github.com/catherinedevlin/ddl-generator) - Infers SQL DDL (Data Definition Language) from table data.
+*   [ddl-generator (⭐272)](https://github.com/catherinedevlin/ddl-generator) - Infers SQL DDL (Data Definition Language) from table data.
 
 ## [10. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
@@ -109,13 +109,13 @@
 
 ### Applications / System tools
 
-*   [pop-os/popsicle (⭐546)](https://github.com/pop-os/popsicle) — GTK3 & CLI utility for flashing multiple USB devices in parallel
+*   [pop-os/popsicle (⭐587)](https://github.com/pop-os/popsicle) — GTK3 & CLI utility for flashing multiple USB devices in parallel
 
 ## [15. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Auto Layout / Barcode
 
-*   [DeviceLayout (⭐168)](https://github.com/cruisediary/DeviceLayout) - AutoLayout can be set differently for each device.
+*   [DeviceLayout (⭐169)](https://github.com/cruisediary/DeviceLayout) - AutoLayout can be set differently for each device.
 
 ---
 

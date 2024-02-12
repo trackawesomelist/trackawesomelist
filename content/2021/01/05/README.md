@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 05, 2021
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,19 +10,19 @@
 
 ### Communications / MDNS
 
-*   [micropython-mdns (⭐40)](https://github.com/cbrand/micropython-mdns) - A pure Python implementation of MDNS with support for Service Discovery.
+*   [micropython-mdns (⭐46)](https://github.com/cbrand/micropython-mdns) - A pure Python implementation of MDNS with support for Service Discovery.
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
-*   [mpi4jax (⭐316)](https://github.com/PhilipVinc/mpi4jax) - Combine MPI operations with your Jax code on CPUs and GPUs. <img src="https://img.shields.io/github/stars/PhilipVinc/mpi4jax?style=social" align="center">
+*   [mpi4jax (⭐332)](https://github.com/PhilipVinc/mpi4jax) - Combine MPI operations with your Jax code on CPUs and GPUs. <img src="https://img.shields.io/github/stars/PhilipVinc/mpi4jax?style=social" align="center">
 
 ## [3. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Plugins
 
-*   [tmux-easy-motion (⭐61)](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
+*   [tmux-easy-motion (⭐68)](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -38,21 +38,15 @@
 
 ### Others
 
-*   [Blazor Weather (⭐243)](https://github.com/danroth27/BlazorWeather) - ![stars](https://img.shields.io/github/stars/danroth27/BlazorWeather?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/danroth27/BlazorWeather?style=flat-square\&cacheSeconds=86400) A Blazor Weather sample app that shows the current weather for your current location and a collection of pinned locations. Demonstrated at .NET Conf 2019 by Daniel Roth. [Demo](https://aka.ms/blazorweather).
+*   [Blazor Weather (⭐245)](https://github.com/danroth27/BlazorWeather) - ![stars](https://img.shields.io/github/stars/danroth27/BlazorWeather?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/danroth27/BlazorWeather?style=flat-square\&cacheSeconds=86400) A Blazor Weather sample app that shows the current weather for your current location and a collection of pinned locations. Demonstrated at .NET Conf 2019 by Daniel Roth. [Demo](https://aka.ms/blazorweather).
 
-## [6. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
-
-### Interactive Experiences
-
-*   [Call of Duty: Gunsmith](http://gun.playcanvas.com/) - Promotional 3D experience themed on Call of Duty.
-
-## [7. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
+## [6. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
 
 ### Products / Other
 
 *   [Tailwind CSS code generator](https://themesberg.com/blog/tailwind-css/gpt-3-tailwind-css-ai-code-generator)
 
-## [8. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [7. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Label / Form
 
@@ -64,23 +58,23 @@
 
 
 
-## [9. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [8. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Admin
 
-*   [django-material-admin (⭐301)](https://github.com/MaistrenkoAnton/django-material-admin) - Material design for django administration.
+*   [django-material-admin (⭐305)](https://github.com/MaistrenkoAnton/django-material-admin) - Material design for django administration.
 
-## [10. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
+## [9. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
-### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
+### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [λληνικά (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gr-GR)
+*   [λληνικά (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gr-GR)
 
-## [11. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [10. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Forms
 
-*   [Sitecore-Forms-Extensions (⭐57)](https://github.com/bartverdonck/Sitecore-Forms-Extensions) - Adds some functionality to the forms creator, such as sending mails, timespan validation, subscribing a list, conditions, Azure Blob storage provider and many more.
+*   [Sitecore-Forms-Extensions (⭐57)](https://github.com/bartverdonck/Sitecore-Forms-Extensions) - Adds some functionality to the forms creator, such as sending emails, timespan validation, subscribing a list, conditions, Azure Blob storage provider and many more.
 
 ---
 

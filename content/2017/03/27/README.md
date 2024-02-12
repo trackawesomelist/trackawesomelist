@@ -57,7 +57,7 @@
 ### Tools / Other
 
 *   [Paros](http://sourceforge.net/projects/paros/) - A Java-based HTTP/HTTPS proxy for assessing web application vulnerability
-*   [mitmsocks4j (⭐30)](https://github.com/Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java
+*   [mitmsocks4j (⭐31)](https://github.com/Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java
 *   [sleuthkit (⭐2.4k)](https://github.com/sleuthkit/sleuthkit) - A library and collection of command-line digital forensics tools
 *   [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - The shared technology within a suite of digital investigations products by Guidance Software
 *   [xortool (⭐1.3k)](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
@@ -66,7 +66,7 @@
 
 ### Multimedia content processing
 
-*   [Flowblade (⭐1.9k)](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor.
+*   [Flowblade (⭐2.1k)](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor.
 *   [Snowmix](https://sourceforge.net/projects/snowmix/) - Live Video Mixer.
 
 ## [10. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
@@ -79,7 +79,7 @@
 
 ### Graphic Displays
 
-*   [ggtech (⭐328)](https://github.com/ricardo-bion/ggtech) - ggplot2 tech themes and scales
+*   [ggtech (⭐377)](https://github.com/ricardo-bion/ggtech) - ggplot2 tech themes and scales
 
 ---
 

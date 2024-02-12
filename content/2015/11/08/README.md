@@ -44,12 +44,12 @@
 
 ### Queues and Messaging
 
-*   [Bunny (⭐1.3k)](https://github.com/ruby-amqp/bunny) - Bunny is a popular, easy to use, well-maintained Ruby client for RabbitMQ (3.3+).
+*   [Bunny (⭐1.4k)](https://github.com/ruby-amqp/bunny) - Bunny is a popular, easy to use, well-maintained Ruby client for RabbitMQ (3.3+).
 *   [March Hare (⭐98)](https://github.com/ruby-amqp/march_hare) - Idiomatic, fast and well-maintained JRuby client for RabbitMQ.
 
 ### Search
 
-*   [elastics (⭐100)](https://github.com/printercu/elastics-rb) - Simple ElasticSearch client with support for migrations and ActiveRecord integration.
+*   [elastics (⭐101)](https://github.com/printercu/elastics-rb) - Simple ElasticSearch client with support for migrations and ActiveRecord integration.
 
 ## [7. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
 

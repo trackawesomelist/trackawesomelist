@@ -10,13 +10,13 @@
 
 ### Libraries / Caching
 
-*   [jaemk/cached (⭐1.2k)](https://github.com/jaemk/cached) — Simple function caching/memoization
+*   [jaemk/cached (⭐1.3k)](https://github.com/jaemk/cached) — Simple function caching/memoization
 
 ## [2. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Web Technologies and Services
 
-*   [shinyjs (⭐643)](https://github.com/daattali/shinyjs) -  Easily improve the user interaction and user experience in your Shiny apps in seconds.
+*   [shinyjs (⭐714)](https://github.com/daattali/shinyjs) -  Easily improve the user interaction and user experience in your Shiny apps in seconds.
 
 ## [3. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 

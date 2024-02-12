@@ -64,11 +64,11 @@
 
 ### Tools
 
-*   [chrome-store-api (⭐25)](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
+*   [chrome-store-api (⭐26)](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
 
 ### Testing
 
-*   [sinon-chrome (⭐406)](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
+*   [sinon-chrome (⭐428)](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
 
 ---
 

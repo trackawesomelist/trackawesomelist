@@ -24,22 +24,22 @@
 
 ### Applications
 
-*   [tty2048 (⭐154)](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
+*   [tty2048 (⭐153)](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
 
 ### Files and Directories
 
-*   [librex (⭐34)](https://github.com/ricn/librex) - Elixir library to convert office documents to other formats using LibreOffice.
+*   [librex (⭐35)](https://github.com/ricn/librex) - Elixir library to convert office documents to other formats using LibreOffice.
 *   [zarex (⭐25)](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
 
 ## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Filesystem
 
-*   [istextorbinary (⭐107)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
+*   [istextorbinary (⭐139)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 
 ### Packages / Network
 
-*   [getmac (⭐321)](https://github.com/bevry/getmac) - Get the computer MAC address.
+*   [getmac (⭐339)](https://github.com/bevry/getmac) - Get the computer MAC address.
 
 ## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

@@ -67,7 +67,7 @@
 
 ### Table of Contents / Strings
 
-*   [Jieba-PHP (⭐1.2k)](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
+*   [Jieba-PHP (⭐1.3k)](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
 
 ## [10. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Tools
 
-*   [Myrtille (⭐1.6k)](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
+*   [Myrtille (⭐1.7k)](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
 
 ## [12. Codeface](/content/chrissimpkins/codeface/README.md)
 

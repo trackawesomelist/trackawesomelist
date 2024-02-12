@@ -10,7 +10,7 @@
 
 ### Web / Apache License
 
-*   [aws (⭐116)](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
+*   [aws (⭐117)](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
 
 ### Algorithms, Containers and Protocols / Apache License
 
@@ -56,12 +56,12 @@
 
 ### Non-deterministic, logic programming
 
-*   [Screamer (⭐216)](https://github.com/nikodemus/screamer) - augment Common
+*   [Screamer (⭐220)](https://github.com/nikodemus/screamer) - augment Common
     Lisp with practically all of the functionality of both Prolog and
     constraint logic programming
     languages. [Blog post](https://chriskohlhepp.wordpress.com/reasoning-systems/specification-driven-programming-in-common-lisp/)
     solving Project Euler puzzles. [MIT](https://opensource.org/licenses/MIT).
-*   [Screamer+ (⭐5)](https://github.com/yakovzaytsev/screamer-plus) - increasing the expressiveness of SCREAMER. [MIT](https://opensource.org/licenses/MIT).
+*   [Screamer+ (⭐6)](https://github.com/yakovzaytsev/screamer-plus) - increasing the expressiveness of SCREAMER. [MIT](https://opensource.org/licenses/MIT).
 
 ## [7. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -139,7 +139,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Regular Expression
 
-*   [CTRE (⭐3k)](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher. \[MIT]
+*   [CTRE (⭐3.1k)](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher. \[MIT]
 
 ## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -171,7 +171,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Ruby / Scala
 
-*   [Grape (⭐9.7k)](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs
+*   [Grape (⭐9.8k)](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs
 
 ---
 

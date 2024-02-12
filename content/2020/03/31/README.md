@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 31, 2020
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,7 @@
 
 *   [VsCode Groovy Lint](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint) - Groovy lint, format, prettify and auto-fix
 
-## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### Utility / Barcode
-
-*   [Playbook (⭐1.1k)](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically snapshots of them.
-
-## [3. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [2. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Tools / Misc
 
@@ -28,13 +22,7 @@
 
 *   [SimpleLogin (⭐3.9k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Java / Bootstrap
-
-*   [The Java Web Scraping Handbook](https://www.scrapingbee.com/java-webscraping-book) - Kevin Sahin (PDF, HTML)
-
-## [5. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
+## [3. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
 ### Software Tools / Analysis Frameworks
 
@@ -82,35 +70,41 @@
 *   [jcjc's Hack The World](https://jcjc-dev.com/)
 *   [Quarkslab](https://blog.quarkslab.com/)
 
-## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [4. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+
+### Debugging
+
+*   [Playbook (⭐1.1k)](https://github.com/playbook-ui/playbook-ios) - A library for isolated developing UI components and automatically snapshots of them.
+
+## [5. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Themes
 
-*   [Carbon Design (⭐23)](https://github.com/httpsOmkar/carbon-keycloak-theme)
+*   [Carbon Design (⭐25)](https://github.com/httpsOmkar/carbon-keycloak-theme)
 
 ### Kubernetes
 
-*   [keycloak-operator (⭐432)](https://github.com/keycloak/keycloak-operator)
+*   [keycloak-operator (⭐431)](https://github.com/keycloak/keycloak-operator)
 
 ### Tools
 
-*   [keycloakmigration: Manage your Keycloak configuration with code (⭐99)](https://github.com/klg71/keycloakmigration)
+*   [keycloakmigration: Manage your Keycloak configuration with code (⭐103)](https://github.com/klg71/keycloakmigration)
 
-## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Encryption / Apache License
 
-*   [ada-keystore (⭐30)](https://github.com/stcarrez/ada-keystore) - Ada Keystore - protect your sensitive data with secure storage.
+*   [ada-keystore (⭐31)](https://github.com/stcarrez/ada-keystore) - Ada Keystore - protect your sensitive data with secure storage.
 
 ### Algorithms, Containers and Protocols / Apache License
 
-*   [ada-language-server (⭐201)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
+*   [ada-language-server (⭐211)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 
 ### Simulation / Apache License
 
-*   [ghdl (⭐2k)](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
+*   [ghdl (⭐2.1k)](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
 
-## [8. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
+## [7. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
 ### Community
 
@@ -119,11 +113,11 @@
 ### Testing
 
 *   [webextensions-jsdom (⭐17)](https://github.com/stoically/webextensions-jsdom) - Load popup, sidebar and background with JSDOM based on the manifest.json.
-*   [webextensions-api-fake (⭐15)](https://github.com/stoically/webextensions-api-fake) - In-memory WebExtensions API Fake Implementation (includes TypeScript types).
-*   [webextensions-api-mock (⭐3)](https://github.com/stoically/webextensions-api-mock) - WebExtensions API as sinon stubs (includes TypeScript types).
+*   [webextensions-api-fake (⭐16)](https://github.com/stoically/webextensions-api-fake) - In-memory WebExtensions API Fake Implementation (includes TypeScript types).
+*   [webextensions-api-mock (⭐4)](https://github.com/stoically/webextensions-api-mock) - WebExtensions API as sinon stubs (includes TypeScript types).
 *   [webextensions-schema (⭐2)](https://github.com/stoically/webextensions-schema) - Programmatically consume the WebExtensions Schema JSON files.
 
-## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Collection of Actions / Docker Container Actions
 

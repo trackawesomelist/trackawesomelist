@@ -10,12 +10,7 @@
 
 ### Messaging / Scala
 
-*   [Ascoltatori (⭐526)](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
 *   [STOMP](https://stomp.github.io/) - Simple Text Oriented Messaging Protocol.
-
-### REST / Scala
-
-*   [Apidoc (⭐543)](https://github.com/mbryzek/apidoc) - Beautiful documentation for REST services.
 
 ### Articles & Papers / Scala
 

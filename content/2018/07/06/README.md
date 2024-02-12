@@ -16,7 +16,7 @@
 
 ### App Routing
 
-*   [Crossroad (⭐412)](https://github.com/giginet/Crossroad) - :oncoming\_bus: Crossroad is an URL router focused on handling Custom URL Schemes.
+*   [Crossroad (⭐413)](https://github.com/giginet/Crossroad) - :oncoming\_bus: Crossroad is an URL router focused on handling Custom URL Schemes.
 
 ### Transition / Barcode
 
@@ -50,7 +50,7 @@
 ### Python / Reinforcement Learning
 
 *   [Roboschool (⭐2.1k)](https://github.com/openai/roboschool) - Open-source software for robot simulation, integrated with OpenAI Gym.
-*   [Retro (⭐3.2k)](https://github.com/openai/retro) - Retro Games in Gym
+*   [Retro (⭐3.3k)](https://github.com/openai/retro) - Retro Games in Gym
 *   [SLM Lab (⭐1.2k)](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)

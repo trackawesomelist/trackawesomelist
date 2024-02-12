@@ -10,7 +10,7 @@ Curated List of React Components & Libraries.
 
 ### Router / Mouse Events
 
-*   [tanstack-router (⭐6.1k)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
+*   [tanstack-router (⭐6.5k)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
@@ -117,7 +117,7 @@ Curated List of React Components & Libraries.
 
 ### Infinite Scroll
 
-*   [virtua (⭐742)](https://github.com/inokawa/virtua) - [demo](https://inokawa.github.io/virtua/) - Simple, fast, small and flexible virtual scroller.
+*   [virtua (⭐795)](https://github.com/inokawa/virtua) - [demo](https://inokawa.github.io/virtua/) - A zero-config, fast and small (\~3kB) virtual list component for React, Vue and Solid.
 
 ## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
 
@@ -253,7 +253,7 @@ Curated List of React Components & Libraries.
 
 ### Responsive / Material Design
 
-*   🚀 [Material UI (⭐90k)](https://github.com/mui/material-ui) - Full suite of components. Build your own design system, or start with Material Design.
+*   🚀 [Material UI (⭐91k)](https://github.com/mui/material-ui) - Full suite of components. Build your own design system, or start with Material Design.
     *   [Autocomplete](https://mui.com/material-ui/react-autocomplete/) - Accessible autocomplete, combobox, multiselect
     *   [Material Icons](https://mui.com/material-ui/material-icons/) - 1,000+ SVG material icons.
     *   [Modal](https://mui.com/material-ui/react-modal/) - Accessible modal dialog component.
@@ -305,7 +305,7 @@ Curated List of React Components & Libraries.
 *   [orbit (⭐1.4k)](https://github.com/kiwicom/orbit) - Components for building travel oriented projects.
 *   [radix-ui](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems and web apps.
 *   [react-foundation (⭐601)](https://github.com/digiaonline/react-foundation) - Foundation as React components.
-*   [reakit (⭐7.4k)](https://github.com/ariakit/ariakit) - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
+*   [reakit (⭐7.5k)](https://github.com/ariakit/ariakit) - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
 *   [semi-design (⭐7.6k)](https://github.com/DouyinFE/semi-design) - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system.
 *   [shineout (⭐901)](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
 
@@ -361,7 +361,7 @@ Curated List of React Components & Libraries.
 
 ### Form Components / Toggle
 
-*   [@anatoliygatt/heart-switch (⭐435)](https://github.com/anatoliygatt/heart-switch) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-heart-switch-cds5p) - A fully themeable and accessible heart-shaped toggle switch component.
+*   [@anatoliygatt/heart-switch (⭐437)](https://github.com/anatoliygatt/heart-switch) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-heart-switch-cds5p) - A fully themeable and accessible heart-shaped toggle switch component.
 
 ### Boilerplate / Mouse Events
 
@@ -371,7 +371,7 @@ Curated List of React Components & Libraries.
 
 ### i18n / Mouse Events
 
-*   [@tolgee/react (⭐207)](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
+*   [@tolgee/react (⭐208)](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
 
 ## [Jan 24 - Jan 30, 2022](/content/2022/4/README.md)
 
@@ -427,7 +427,7 @@ Curated List of React Components & Libraries.
 
 ### Data Store / Mouse Events
 
-*   [zustand](https://zustand.surge.sh/) - [docs (⭐39k)](https://github.com/pmndrs/zustand) - A fast bearbones state-management solution using simplified flux principles and boilerplate-free hook api.
+*   [zustand](https://zustand.surge.sh/) - [docs (⭐40k)](https://github.com/pmndrs/zustand) - A fast bearbones state-management solution using simplified flux principles and boilerplate-free hook api.
 
 ## [Oct 11 - Oct 17, 2021](/content/2021/41/README.md)
 
@@ -461,7 +461,7 @@ Curated List of React Components & Libraries.
 
 ### Tree
 
-*   [react-complex-tree (⭐697)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
+*   [react-complex-tree (⭐715)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
 
 ## [Jun 28 - Jul 04, 2021](/content/2021/26/README.md)
 
@@ -535,7 +535,7 @@ Curated List of React Components & Libraries.
 
 ### Form Logic / Mouse Events
 
-*   [Formily (⭐10k)](https://github.com/alibaba/formily) - High performance, extensible, and Typescript friendly
+*   [Formily (⭐11k)](https://github.com/alibaba/formily) - High performance, extensible, and Typescript friendly
 
 ## [Mar 08 - Mar 14, 2021](/content/2021/10/README.md)
 
@@ -587,7 +587,7 @@ Curated List of React Components & Libraries.
 ### Router / Mouse Events
 
 *   [redux-first-history (⭐423)](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
-*   [wouter (⭐5.8k)](https://github.com/molefrog/wouter) - A minimalist-friendly \~1.3KB routing library. Nothing else but hooks.
+*   [wouter (⭐5.9k)](https://github.com/molefrog/wouter) - A minimalist-friendly \~1.3KB routing library. Nothing else but hooks.
 
 ### Miscellaneous / Lazy Load
 
@@ -640,7 +640,7 @@ Curated List of React Components & Libraries.
 
 ### Infinite Scroll
 
-*   [@egjs/react-infinitegrid (⭐1.8k)](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid) - [npm](https://www.npmjs.com/package/@egjs/react-infinitegrid) - [demo](https://naver.github.io/egjs-infinitegrid/storybook/) - A module used to arrange card elements including content infinitely according to various layout types.
+*   [@egjs/react-infinitegrid (⭐1.9k)](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid) - [npm](https://www.npmjs.com/package/@egjs/react-infinitegrid) - [demo](https://naver.github.io/egjs-infinitegrid/storybook/) - A module used to arrange card elements including content infinitely according to various layout types.
 
 ### Notification
 
@@ -827,7 +827,7 @@ Curated List of React Components & Libraries.
 
 ### Menu
 
-*   [react-planet (⭐162)](https://github.com/innFactory/react-planet) - [demo](https://innfactory.github.io/react-planet/) - Create circular menus which looks like planets.
+*   [react-planet (⭐164)](https://github.com/innFactory/react-planet) - [demo](https://innfactory.github.io/react-planet/) - Create circular menus which looks like planets.
 
 ### Miscellaneous
 
@@ -924,7 +924,7 @@ Curated List of React Components & Libraries.
 
 ### Miscellaneous / Lazy Load
 
-*   [DataFormsJS JSX Loader (⭐175)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
+*   [DataFormsJS JSX Loader (⭐176)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
 
 ## [Mar 02 - Mar 08, 2020](/content/2020/9/README.md)
 
@@ -1162,7 +1162,7 @@ Curated List of React Components & Libraries.
 
 ### Form Logic / Mouse Events
 
-*   [react-hook-form (⭐38k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
+*   [react-hook-form (⭐39k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
 
 ## [Oct 07 - Oct 13, 2019](/content/2019/40/README.md)
 
@@ -1204,7 +1204,7 @@ Curated List of React Components & Libraries.
 
 ### Parallax / Syntax Highlight
 
-*   [react-parallax-tilt (⭐852)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
+*   [react-parallax-tilt (⭐869)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
 
 ## [Aug 19 - Aug 25, 2019](/content/2019/33/README.md)
 
@@ -1271,7 +1271,7 @@ Curated List of React Components & Libraries.
 ### Editable data grid / spreadsheet
 
 *   [gigatables-react (⭐140)](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
-*   [react-data-grid (⭐6.4k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
+*   [react-data-grid (⭐6.5k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
 
 ### Table
 
@@ -1544,7 +1544,7 @@ Curated List of React Components & Libraries.
 *   [dataminr-react-components](https://github.com/dataminr/react-components) - Collection of reusable React Components and utility functions.
 *   [shards-react (⭐755)](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
 *   [aframe-react (⭐1.4k)](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
-*   [react-admin (⭐23k)](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
+*   [react-admin (⭐24k)](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
 
 ### Reporter / Visibility Reporter
 
@@ -1666,7 +1666,7 @@ Curated List of React Components & Libraries.
 
 ### i18n / Mouse Events
 
-*   [react-i18next (⭐8.7k)](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
+*   [react-i18next (⭐8.8k)](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
 *   [react-intl (⭐14k)](https://github.com/yahoo/react-intl) - Internationalize React apps.
 *   [react-translate-maker (⭐35)](https://github.com/CherryProjects/react-translate-maker) - Universal internationalization (i18n) open source library for React.
 

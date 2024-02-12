@@ -51,18 +51,9 @@
 
 ## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
-### Frameworks / Runtimes
-
-*   [GPars (⭐234)](https://github.com/GPars/GPars) - Concurrency and parallelism framework for the JVM.
-
 ### API Gateways / Edge Services / Scala
 
-*   [Amalgam8](https://github.com/amalgam8) - Content-based routing fabric for polyglot microservices.
-*   [Envoy (⭐22k)](https://github.com/lyft/envoy) - Open source edge and service proxy, from the developers at Lyft.
-
-### Web APIs / Scala
-
-*   [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07) - The JSON Hypertext Application Language (HAL) is a standard which establishes conventions for expressing hypermedia controls, such as links, with JSON. <sup>DRAFT</sup>
+*   [Envoy (⭐23k)](https://github.com/lyft/envoy) - Open source edge and service proxy, from the developers at Lyft.
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -86,7 +77,7 @@
 
 ### Table of Contents / Dependency Injection
 
-*   [Disco (⭐137)](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
+*   [Disco (⭐138)](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
 
 ## [9. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
@@ -99,8 +90,8 @@
 ### Packages / Hardware
 
 *   [onoff (⭐1.2k)](https://github.com/fivdi/onoff) - GPIO access and interrupt detection.
-*   [spi-device (⭐115)](https://github.com/fivdi/spi-device) - SPI serial bus access.
-*   [pigpio (⭐926)](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
+*   [spi-device (⭐116)](https://github.com/fivdi/spi-device) - SPI serial bus access.
+*   [pigpio (⭐928)](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
 
 ## [11. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 

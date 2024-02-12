@@ -62,7 +62,7 @@ git var -l | <variable>
 
 ### Subtitling
 
-*   [imscJS (⭐75)](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
+*   [imscJS (⭐78)](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
 
 ## [8. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 

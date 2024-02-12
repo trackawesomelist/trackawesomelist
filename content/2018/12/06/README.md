@@ -1,18 +1,12 @@
 # Awesome List Updates on Dec 06, 2018
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
-
-### Mobile
-
-*   [MOCL](https://wukix.com/mocl) - CL as a library for mobile devices (iOS & Android) and OSX.
-
-## [2. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [1. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / High-Availability
 
@@ -56,17 +50,17 @@
 *   [Michael Paquier's blog](https://paquier.xyz/)
 *   [Robert Haas' blog](http://rhaas.blogspot.com/search/label/postgresql/)
 
-## [3. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Applications / Apache License
 
 *   [railway-simulation (⭐4)](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo) - Program simulating a railway network with trains, switches and signaling. The signaling system is proven with SPARK/Ada to ensure that trains cannot collide.
 
-### Bindings / Apache License
+### Generators / Apache License
 
-*   [svd2ada (⭐57)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
+*   [svd2ada (⭐59)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
 
-## [4. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [3. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Angular
 
@@ -76,26 +70,26 @@
 
 *   [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
 
-## [5. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Blogs • Websites / Other
 
 *   [sighack.com](https://sighack.com/) - Blog about generative art algorithms and techniques, by Manohar Vanga.
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Developer Utilities
 
-*   [SCM Breeze (⭐2.7k)](https://github.com/scmbreeze/scm_breeze) - Set of shell scripts (for bash and zsh) that enhance your interaction with git. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/scmbreeze/scm_breeze)
+*   [SCM Breeze (⭐2.8k)](https://github.com/scmbreeze/scm_breeze) - Set of shell scripts (for bash and zsh) that enhance your interaction with git. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/scmbreeze/scm_breeze)
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Blog Posts
 
 *   [Vue x Hasura GraphQL](https://medium.com/@malgamves/vue-x-hasura-graphql-d66f585a3ba5)
 *   [Using GraphQL Mutations in Vue.js](https://medium.com/@malgamves/using-graphql-mutations-in-vue-js-3b4570234edf)
 
-## [8. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### DDL Tools / Free Indexers
 

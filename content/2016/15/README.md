@@ -49,11 +49,11 @@
 
 ### Command-Line Productivity
 
-*   [sman (⭐282)](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
+*   [sman (⭐286)](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
 
 ### Shell Script Development / Directory Navigation
 
-*   [is.sh (⭐155)](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
+*   [is.sh (⭐156)](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -65,7 +65,7 @@
 
 ### RESTful API
 
-*   [yada (⭐733)](https://github.com/juxt/yada)
+*   [yada (⭐729)](https://github.com/juxt/yada)
 
 ### Dependency injection
 
@@ -74,7 +74,6 @@
 ### Exercises / YouTube
 
 *   [Clojure Koans](http://clojurekoans.com)
-*   [Clojure Katas](http://clojurekatas.org)
 
 ## [7. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
@@ -98,7 +97,7 @@
 
 ### Multimedia content processing
 
-*   [Loudness Validator (⭐12)](https://github.com/mikrosimage/loudness_validator) - A set of applications to analyse, visualise and correct the loudness.
+*   [Loudness Validator (⭐13)](https://github.com/mikrosimage/loudness_validator) - A set of applications to analyse, visualise and correct the loudness.
 
 ## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -138,7 +137,7 @@
 
 ### Packages / Text
 
-*   [babelfish (⭐251)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
+*   [babelfish (⭐249)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
 
 ### Packages / Math
 
@@ -152,15 +151,15 @@
 
 ### Caching
 
-*   [Readthis (⭐505)](https://github.com/sorentwo/readthis) - High performance, pooled, ActiveSupport compliant caching with Redis.
+*   [Readthis (⭐507)](https://github.com/sorentwo/readthis) - High performance, pooled, ActiveSupport compliant caching with Redis.
 
 ### CLI Builder
 
-*   [Clamp (⭐417)](https://github.com/mdub/clamp) - A command-line application framework.
+*   [Clamp (⭐418)](https://github.com/mdub/clamp) - A command-line application framework.
 
 ### Geolocation
 
-*   [rgeo (⭐982)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
+*   [rgeo (⭐985)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
 
 ### Git Tools
 
@@ -174,9 +173,8 @@
 
 ### C++
 
-*   [Pistache (⭐2.8k)](https://github.com/oktal/pistache) - A high-performance REST toolkit written in C++.
+*   [Pistache (⭐3k)](https://github.com/oktal/pistache) - A high-performance REST toolkit written in C++.
 *   [Poco](http://pocoproject.org/) - C++ class libraries for building network-based applications and servers.
-*   [Served (⭐698)](https://github.com/datasift/served) - C++ library for building high-performance RESTful web servers.
 
 ## [17. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -319,21 +317,21 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 ### Integrated Development Environments
 
-*   [Nvim-R (⭐815)](https://github.com/jalvesaq/Nvim-R) - Neovim plugin for R.
+*   [Nvim-R (⭐912)](https://github.com/jalvesaq/Nvim-R) - Neovim plugin for R.
 
 ### Lists / Book/monograph Lists and Reviews
 
 *   [ggplot2 Extensions](https://ggplot2-exts.github.io/ggiraph.html) - Showcases of ggplot2 extensions.
-*   [Books (⭐190)](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
-*   [Network Analysis (⭐2.8k)](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
+*   [Books (⭐224)](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
+*   [Network Analysis (⭐3.3k)](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
 *   [R Project Conferences](https://www.r-project.org/conferences.html) -  Information about useR! Conferences and DSC Conferences.
-*   [Topic Models (⭐213)](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
+*   [Topic Models (⭐224)](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
 
 ## [26. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Filtering and Validation
 
-*   [Assert (⭐2.3k)](https://github.com/beberlei/assert) - A validation library with a rich set of assertions. Supports assertion chaining and lazy assertions.
+*   [Assert (⭐2.4k)](https://github.com/beberlei/assert) - A validation library with a rich set of assertions. Supports assertion chaining and lazy assertions.
 
 ## [27. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 

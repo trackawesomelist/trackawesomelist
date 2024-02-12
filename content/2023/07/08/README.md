@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 08, 2023
 
-20 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,23 +10,23 @@
 
 ### Tools / Agents
 
-*   [BlockAGI (⭐209)](https://github.com/blockpipe/blockagi): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social)
+*   [BlockAGI (⭐235)](https://github.com/blockpipe/blockagi): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social)
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Data visualization
 
-*   [blitzarx1/egui\_graphs (⭐195)](https://github.com/blitzarx1/egui_graphs) - \[[egui\_graphs](https://crates.io/crates/egui_graphs)] - Interactive graph visualization widget for rust powered by egui and petgraph. [![Crates.io](https://img.shields.io/crates/v/egui_graphs)](https://crates.io/crates/egui_graphs) [![docs.rs](https://img.shields.io/docsrs/egui_graphs)](https://docs.rs/egui_graphs)
+*   [blitzarx1/egui\_graphs (⭐259)](https://github.com/blitzarx1/egui_graphs) - \[[egui\_graphs](https://crates.io/crates/egui_graphs)] - Interactive graph visualization widget for rust powered by egui and petgraph. [![Crates.io](https://img.shields.io/crates/v/egui_graphs)](https://crates.io/crates/egui_graphs) [![docs.rs](https://img.shields.io/docsrs/egui_graphs)](https://docs.rs/egui_graphs)
 
 ### Libraries / Scripting
 
-*   [kcl (⭐841)](https://github.com/kcl-lang/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
+*   [kcl (⭐1.1k)](https://github.com/kcl-lang/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
 
 ## [3. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Static type checkers
 
-*   [basedmypy (⭐33)](https://github.com/KotlinIsland/basedmypy) - Based static typing with baseline functionality.
+*   [basedmypy (⭐51)](https://github.com/KotlinIsland/basedmypy) - Based static typing with baseline functionality.
 
 ## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -38,26 +38,26 @@
 
 ### Game engines
 
-*   [Armory (Kha) (⭐2.8k)](https://github.com/armory3d/armory) - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
-*   [Away3D (⭐182)](https://github.com/openfl/away3d) - An open source, real-time 3D engine for OpenFL (`Web`, `Mobile`, `Desktop`).
-*   [ceramic (⭐191)](https://github.com/ceramic-engine/ceramic) - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
+*   [Armory (Kha) (⭐2.9k)](https://github.com/armory3d/armory) - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
+*   [Away3D (⭐187)](https://github.com/openfl/away3d) - An open source, real-time 3D engine for OpenFL (`Web`, `Mobile`, `Desktop`).
+*   [ceramic (⭐211)](https://github.com/ceramic-engine/ceramic) - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
 *   [HaxeFlixel (OpenFL) (⭐1.8k)](https://github.com/HaxeFlixel/flixel) - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
-*   [Haxegon (OpenFL) (⭐190)](https://github.com/haxegon/haxegon) - A programming library for beginners. Powered by OpenFL and Starling (`Web`, `Mobile`, `Desktop`, `Consoles`).
-*   [Heaps (⭐2.9k)](https://github.com/HeapsIO/heaps) - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
-*   [hxdefold (⭐163)](https://github.com/hxdefold/hxdefold) - Haxe/Lua externs for Defold game engine (`Web`, `Mobile`, `Desktop`).
+*   [Haxegon (OpenFL) (⭐192)](https://github.com/haxegon/haxegon) - A programming library for beginners. Powered by OpenFL and Starling (`Web`, `Mobile`, `Desktop`, `Consoles`).
+*   [Heaps (⭐3k)](https://github.com/HeapsIO/heaps) - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+*   [hxdefold (⭐177)](https://github.com/hxdefold/hxdefold) - Haxe/Lua externs for Defold game engine (`Web`, `Mobile`, `Desktop`).
 *   [OpenFL (⭐1.8k)](https://github.com/openfl/openfl) - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
-*   [Starling (⭐222)](https://github.com/openfl/starling) - The "Cross-Platform Game Engine", a popular Stage3D framework (`Web`, `Mobile`, `Desktop`).
-*   [Stencyl (OpenFL) (⭐179)](https://github.com/Stencyl/stencyl-engine) - Create Flash, HTML5, iOS, Android, and desktop games with no code (`Mobile`, `Desktop`).
+*   [Starling (⭐230)](https://github.com/openfl/starling) - The "Cross-Platform Game Engine", a popular Stage3D framework (`Web`, `Mobile`, `Desktop`).
+*   [Stencyl (OpenFL) (⭐181)](https://github.com/Stencyl/stencyl-engine) - Create Flash, HTML5, iOS, Android, and desktop games with no code (`Mobile`, `Desktop`).
 *   [unreal.hx (⭐412)](https://github.com/proletariatgames/unreal.hx) - Haxe Integration for Unreal (`Web`, `Mobile`, `Desktop`, `Consoles`).
-*   [HxGodot (Godot 4.0) (⭐156)](https://github.com/HxGodot/hxgodot) - A Haxe GDExtension for Godot 4 (`Web`, `Mobile`, `Desktop`, `Consoles`).
+*   [HxGodot (Godot 4.0) (⭐185)](https://github.com/HxGodot/hxgodot) - A Haxe GDExtension for Godot 4 (`Web`, `Mobile`, `Desktop`, `Consoles`).
 
 ### Low-level Engine
 
 *   [Kha (⭐1.4k)](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
-*   [Lime (⭐704)](https://github.com/openfl/lime) - A flexible, lightweight layer for Haxe cross-platform developers (`Web`, `Mobile`, `Desktop`).
+*   [Lime (⭐722)](https://github.com/openfl/lime) - A flexible, lightweight layer for Haxe cross-platform developers (`Web`, `Mobile`, `Desktop`).
 *   [linc\_glfw (⭐16)](https://github.com/Sunjammer/linc_glfw) - Desktop - GLFW binding (multi-platform library for OpenGL, OpenGL ES and Vulkan) *(Desktop)*.
-*   [NME (⭐466)](https://github.com/haxenme/nme) - A cross-platform native backend (`Web`, `Mobile`, `Desktop`).
-*   [3DSHaxe (⭐11)](https://github.com/Krismowo/3DSHaxe) - Make 3ds homebrew! (`3DS`).
+*   [NME (⭐470)](https://github.com/haxenme/nme) - A cross-platform native backend (`Web`, `Mobile`, `Desktop`).
+*   [3DSHaxe (⭐27)](https://github.com/Krismowo/3DSHaxe) - Make 3ds homebrew! (`3DS`).
 
 ### Physics
 
@@ -67,25 +67,25 @@
 
 ### Architecture
 
-*   [awe6 (⭐82)](https://github.com/hypersurge/awe6) - `IoC`, `EC` - The inverted game framework, is a development tool focused on Future Proofing.
-*   [ecx (⭐52)](https://github.com/eliasku/ecx) - `ECS` - An Entity Component System framework.
+*   [awe6 (⭐81)](https://github.com/hypersurge/awe6) - `IoC`, `EC` - The inverted game framework, is a development tool focused on Future Proofing.
+*   [ecx (⭐51)](https://github.com/eliasku/ecx) - `ECS` - An Entity Component System framework.
 *   [hexMachina (⭐7)](https://github.com/DoclerLabs/hexCore) - `MVC` - A powerful multi-modular MVC framework.
-*   [OSIS (⭐43)](https://github.com/Dvergar/OSIS) - `ECS` - Entity Component System architecture with networking support.
+*   [OSIS (⭐42)](https://github.com/Dvergar/OSIS) - `ECS` - Entity Component System architecture with networking support.
 
 ### Networking
 
-*   [Anette (⭐38)](https://github.com/Dvergar/Anette) - Simple network library (no UDP).
-*   [colyseus-hx (⭐66)](https://github.com/colyseus/colyseus-hx) - Multiplayer Game Client.
+*   [Anette (⭐37)](https://github.com/Dvergar/Anette) - Simple network library (no UDP).
+*   [colyseus-hx (⭐69)](https://github.com/colyseus/colyseus-hx) - Multiplayer Game Client.
 *   [haxe-simple-peer (js) (⭐4)](https://github.com/melonin/haxe-simple-peer) - Haxe externs for simple-peer.
-*   [hxWebSockets (⭐73)](https://github.com/ianharrigan/hxWebSockets) - Websockets for all platforms.
+*   [hxWebSockets (⭐77)](https://github.com/ianharrigan/hxWebSockets) - Websockets for all platforms.
 *   Built-in - Heaps, OpenFL (HaxeFlixel & co), Kha (Armory).
 
 ### Serialization and storage
 
-*   [Bits (⭐21)](https://github.com/RealyUniqueName/Bits) - Binary bit flags with unlimited amount of bits.
-*   [CastleDB (⭐494)](https://github.com/ncannasse/castle) - A structured static database easing collaboration.
-*   [hxbit (⭐142)](https://github.com/ncannasse/hxbit) - A binary serialization and network synchronization library.
-*   [PODStream (⭐20)](https://github.com/Dvergar/PODStream) - Plain Old Data serializer.
+*   [Bits (⭐22)](https://github.com/RealyUniqueName/Bits) - Binary bit flags with unlimited amount of bits.
+*   [CastleDB (⭐517)](https://github.com/ncannasse/castle) - A structured static database easing collaboration.
+*   [hxbit (⭐144)](https://github.com/ncannasse/hxbit) - A binary serialization and network synchronization library.
+*   [PODStream (⭐21)](https://github.com/Dvergar/PODStream) - Plain Old Data serializer.
 
 ### Games
 
@@ -116,20 +116,20 @@
 
 ### Miscellaneous / 3rd party API
 
-*   [SteamWrap (⭐92)](https://github.com/larsiusprime/SteamWrap) - Native extension for the SteamAPI.
+*   [SteamWrap (⭐96)](https://github.com/larsiusprime/SteamWrap) - Native extension for the SteamAPI.
 *   [newgrounds](https://lib.haxe.org/p/newgrounds) - Newgrounds API.
-*   [hxgamejolt-api (⭐7)](https://github.com/MAJigsaw77/hxgamejolt-api) - Haxe bindings for GameJolt API.
+*   [hxgamejolt-api (⭐11)](https://github.com/MAJigsaw77/hxgamejolt-api) - Haxe bindings for GameJolt API.
 
 ### Miscellaneous / Animation
 
 *   [spine-hx (⭐54)](https://github.com/jeremyfa/spine-hx) - Spine runtime automatically converted from the official Java/libgdx runtime.
 *   HaxeFlixel - Spine parser.
-*   [Heaps-Spine (⭐18)](https://github.com/Beeblerox/Heaps-Spine) - Spine player for heaps.
-*   [heaps-aseprite (⭐23)](https://github.com/AustinEast/heaps-aseprite) - Load and render sprites and animations in Aseprite format.
+*   [Heaps-Spine (⭐17)](https://github.com/Beeblerox/Heaps-Spine) - Spine player for heaps.
+*   [heaps-aseprite (⭐25)](https://github.com/AustinEast/heaps-aseprite) - Load and render sprites and animations in Aseprite format.
 *   [openfl-aseprite (⭐15)](https://github.com/miriti/openfl-aseprite) - Load and render sprites and animations in Aseprite format.
 *   [openfl-spine (⭐16)](https://github.com/rainyt/openfl-spine) - Render Spine animation in the OpenFL engine, rendering processing can be achieved throughSprite and Tilemap.
-*   [ase (⭐14)](https://github.com/miriti/ase) - File format reader/writer for .ase/.aseprite without external dependencies.
-*   [flxgif (⭐8)](https://github.com/MAJigsaw77/flxgif) - Yagp's Gif Player for HaxeFlixel.
+*   [ase (⭐15)](https://github.com/miriti/ase) - File format reader/writer for .ase/.aseprite without external dependencies.
+*   [flxgif (⭐10)](https://github.com/MAJigsaw77/flxgif) - Yagp's Gif Player for HaxeFlixel.
 
 ### Miscellaneous / Audio
 
@@ -141,36 +141,35 @@
 
 ### Miscellaneous / Collision
 
-*   [differ (⭐156)](https://github.com/snowkit/differ) - A separation axis theorem collision library.
+*   [differ (⭐158)](https://github.com/snowkit/differ) - A separation axis theorem collision library.
 
 ### Miscellaneous / Computer Vision
 
-*   [Vision (⭐32)](https://github.com/ShaharMS/Vision) - Cross platform computer vision library.
+*   [Vision (⭐34)](https://github.com/ShaharMS/Vision) - Cross platform computer vision library.
 
 ### Miscellaneous / Data structures
 
-*   [polygonal-ds (⭐339)](https://github.com/polygonal/ds) - Data structures for games.
+*   [polygonal-ds (⭐341)](https://github.com/polygonal/ds) - Data structures for games.
 
 ### Miscellaneous / Editor
 
-*   [flixel-studio (⭐92)](https://github.com/Dovyski/flixel-studio) - In-game editor for HaxeFlixel.
+*   [flixel-studio (⭐98)](https://github.com/Dovyski/flixel-studio) - In-game editor for HaxeFlixel.
 
 ### Miscellaneous / Helpers
 
-*   [deepnightLibs (⭐205)](https://github.com/deepnight/deepnightLibs) - General gamedev purpose libs.
-    |Procedural generation|[Dungeon builder (⭐63)](https://github.com/julsam/dungeon-builder) - A set of dungeon generation algorithm (works w/ hx4 w/ minor changes).
+*   [deepnightLibs (⭐215)](https://github.com/deepnight/deepnightLibs) - General gamedev purpose libs.
 
 ### Miscellaneous / Localization
 
-*   [firetongue (⭐140)](https://github.com/larsiusprime/firetongue) - A translation/localization framework.
+*   [firetongue (⭐142)](https://github.com/larsiusprime/firetongue) - A translation/localization framework.
 
 ### Miscellaneous / Map parser
 
 *   [PyxelEdit Map Importer (⭐33)](https://github.com/Dvergar/PyxelEdit-Map-Importer) - Parser for maps generated by the editor PyxelEdit.
 *   Heaps - Built-in parser for Tiled.
 *   HaxeFlixel - Parser for Tiled & Ogmo.
-*   [LEd (⭐81)](https://github.com/deepnight/led-haxe-api) - 2D level editor with a typed compile time loader.
-*   [TiledHX (⭐6)](https://github.com/yanrishatum/tiledhx) - A comprehensive modern Tiled parser.
+*   [LEd (⭐83)](https://github.com/deepnight/led-haxe-api) - 2D level editor with a typed compile time loader.
+*   [TiledHX (⭐8)](https://github.com/yanrishatum/tiledhx) - A comprehensive modern Tiled parser.
 
 ### Miscellaneous / Math helpers
 
@@ -180,7 +179,7 @@
 
 ### Miscellaneous / Modding
 
-*   [polymod (⭐138)](https://github.com/larsiusprime/polymod) - An atomic modding framework for games/apps.
+*   [polymod (⭐147)](https://github.com/larsiusprime/polymod) - An atomic modding framework for games/apps.
 
 ### Miscellaneous / Particles
 
@@ -188,7 +187,7 @@
 
 ### Miscellaneous / Monetization
 
-*   [extension-iap (⭐8)](https://github.com/charmdev/extension-iap) - Provides an access to in-app purchases (iOS) and in-app billing (Android) for OpenFL projects using a common API. Fork of [this (⭐69)](https://github.com/HaxeExtension/extension-iap).
+*   [extension-iap (⭐8)](https://github.com/charmdev/extension-iap) - Provides an access to in-app purchases (iOS) and in-app billing (Android) for OpenFL projects using a common API. Fork of [this (⭐71)](https://github.com/HaxeExtension/extension-iap).
 
 ### Miscellaneous / Pathfinding
 
@@ -197,7 +196,7 @@
 
 ### Miscellaneous / Shaders
 
-*   [HGSL (⭐120)](https://github.com/saharan/HGSL) - Haxe to GL Shading Language.
+*   [HGSL (⭐131)](https://github.com/saharan/HGSL) - Haxe to GL Shading Language.
 *   [parasol (⭐14)](https://github.com/47rooks/parasol) - HaxeFlixel library of shaders.
 
 ### Miscellaneous / Sprite
@@ -206,53 +205,53 @@
 
 ### Miscellaneous / Texture Packer
 
-*   [hxpk (⭐45)](https://github.com/bendmorris/hxpk) - Port of the libGDX Texture Packer.
+*   [hxpk (⭐46)](https://github.com/bendmorris/hxpk) - Port of the libGDX Texture Packer.
 
 ### Miscellaneous / Tweening
 
-*   [actuate (⭐148)](https://github.com/jgranick/actuate) - A flexible, fast "tween" library.
+*   [actuate (⭐150)](https://github.com/jgranick/actuate) - A flexible, fast "tween" library.
 *   [YATL (⭐16)](https://github.com/Yanrishatum/yatl) - Yet Another (Haxe) Tweening Library.
 *   [TweenX/TweenXCore (⭐89)](https://github.com/shohei909/tweenx) - Tween library.
 
 ### Miscellaneous / UI
 
-*   [domkit (⭐73)](https://github.com/ncannasse/domkit) - CSS Components based strictly typed UI framework.
-*   [flixel-ui (⭐149)](https://github.com/HaxeFlixel/flixel-ui) - GUI library for HaxeFlixel.
+*   [domkit (⭐77)](https://github.com/ncannasse/domkit) - CSS Components based strictly typed UI framework.
+*   [flixel-ui (⭐158)](https://github.com/HaxeFlixel/flixel-ui) - GUI library for HaxeFlixel.
 *   [HaxeUI](http://haxeui.org/) - UI library with multiple framework backends (HTML5, Kha, OpenFL, PixiJS, WxWidgets, and a number of others as works in progress).
 *   [Feathers UI](https://feathersui.com/) - Cross-platform graphical user interface components for creative frontend projects.
 
 ### Miscellaneous / Video
 
-*   [hxCodec (⭐97)](https://github.com/polybiusproxy/hxCodec) - Adds native video playback on HaxeFlixel and OpenFL.
+*   [hxCodec (⭐104)](https://github.com/polybiusproxy/hxCodec) - Adds native video playback on HaxeFlixel and OpenFL.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [2nthony/vitesse.nvim (⭐29)](https://github.com/2nthony/vitesse.nvim) - Vitesse theme Lua port.
+*   [2nthony/vitesse.nvim (⭐39)](https://github.com/2nthony/vitesse.nvim) - Vitesse theme Lua port.
 
 ## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [tfgpt (⭐67)](https://github.com/flavius-dinu/tfgpt) - A CLI tool that integrates Terraform with OpenAI's GPT-3.5 Turbo to provide explanations for Terraform commands and concepts.
-*   [tfvar (⭐180)](https://github.com/shihanng/tfvar) - tfvar scans your Terraform configurations or modules and extracts the variables into formats of your choice (tfvar, environment variables, etc.) for editing.
+*   [tfgpt (⭐70)](https://github.com/flavius-dinu/tfgpt) - A CLI tool that integrates Terraform with OpenAI's GPT-3.5 Turbo to provide explanations for Terraform commands and concepts.
+*   [tfvar (⭐189)](https://github.com/shihanng/tfvar) - tfvar scans your Terraform configurations or modules and extracts the variables into formats of your choice (tfvar, environment variables, etc.) for editing.
 
 ## [8. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Resources / Talks and videos
 
-*   [How to update mass data using Polars DataFrame](https://www.youtube.com/watch?v=ivJSk6JLWBQ) ⏳ `9 min` - A video that presents the process of writing code to update mass columns across CSV or data files by [@AmitXShukla](https://github.com/AmitXShukla). Notebook used for the video [in this github repo (⭐13)](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb).
+*   [How to update mass data using Polars DataFrame](https://www.youtube.com/watch?v=ivJSk6JLWBQ) ⏳ `9 min` - A video that presents the process of writing code to update mass columns across CSV or data files by [@AmitXShukla](https://github.com/AmitXShukla). Notebook used for the video [in this github repo (⭐20)](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb).
 
 ## [9. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Algorithms and data structures
 
-*   [karlseguin/cache.zig (⭐12)](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache.
+*   [karlseguin/cache.zig (⭐24)](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache.
 
 ### Database
 
-*   [karlseguin/zuckdb.zig (⭐16)](https://github.com/karlseguin/zuckdb.zig) - DuckDB wrapper.
+*   [karlseguin/zuckdb.zig (⭐39)](https://github.com/karlseguin/zuckdb.zig) - DuckDB wrapper.
 
 ### Misc libraries
 
@@ -280,7 +279,7 @@
 
 ### Self-Hosted Bitcoin Payment Processors
 
-- Processor: [SatSale (⭐194)](https://github.com/SatSale/SatSale)
+- Processor: [SatSale (⭐210)](https://github.com/SatSale/SatSale)
 
   Fees: No fees
 
@@ -288,12 +287,12 @@
 
   Directly to Your Wallet: Yes
 
-  Conversion to Fiat: Weakhands: [swap to USDT on Liquid (⭐194)](https://github.com/SatSale/SatSale/blob/471c8c03bbc269df1f322f6484b6e7a7364e5b34/config.toml#L101), no-KYC
+  Conversion to Fiat: Weakhands: [swap to USDT on Liquid (⭐210)](https://github.com/SatSale/SatSale/blob/471c8c03bbc269df1f322f6484b6e7a7364e5b34/config.toml#L101), no-KYC
 
   Requirements: Python. Bitcoin node, Lightning node & WooCommerce optional.
 
 
-- Processor: [Keagate (⭐96)](https://github.com/dilan-dio4/Keagate)
+- Processor: [Keagate (⭐112)](https://github.com/dilan-dio4/Keagate)
 
   Fees: No fees
 
@@ -311,7 +310,7 @@
 
 ### RSS services powered by utilizing Obsidian / Outline Processor Markup Language
 
-*   [Obsidian-RSS (⭐280)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
+*   [Obsidian-RSS (⭐314)](https://github.com/joethei/obsidian-rss) <sup>[1141](https://t.me/s/aboutrss/1141)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/joethei/obsidian-rss)
 
 ### RSS2Podcast / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
@@ -323,7 +322,7 @@
 
 ## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Generative AI Tools Directories / Contribute to Our Repository
+### Generative AI Tools Directories
 
 *   [Technologies in LabLab](https://lablab.ai/tech): list of AI tools suggested by [lablab.ai](https://lablab.ai) for their hackathons
 
@@ -337,34 +336,28 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-auto-mpa-html (⭐1)](https://github.com/iamspark1e/vite-plugin-auto-mpa-html) - A file directory-based automated multi-page build plugin that supports HTML templates using EJS.
+*   [vite-plugin-auto-mpa-html (⭐3)](https://github.com/iamspark1e/vite-plugin-auto-mpa-html) - A file directory-based automated multi-page build plugin that supports HTML templates using EJS.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-thumbhash (⭐7)](https://github.com/cijiugechu/vite-plugin-thumbhash) - Load and transform images using ThumbHash.
+*   [vite-plugin-thumbhash (⭐11)](https://github.com/cijiugechu/vite-plugin-thumbhash) - Load and transform images using ThumbHash.
 
 ### Vue / Helpers
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-devtools (⭐1.5k)](https://github.com/webfansplz/vite-plugin-vue-devtools) - Designed to enhance the Vue developer experience.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-devtools (⭐1.6k)](https://github.com/webfansplz/vite-plugin-vue-devtools) - Designed to enhance the Vue developer experience.
 
 ## [18. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bira (⭐0)](https://github.com/zimfw/bira) - Fork of Oh-My-ZSH [bira (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme. Includes decorators for working directory, username\@host, `git` status information, Python [venv](https://docs.python.org/3/library/venv.html) and a status code when the last command had an error.
+*   [bira (⭐1)](https://github.com/zimfw/bira) - Fork of Oh-My-ZSH [bira (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme. Includes decorators for working directory, username\@host, `git` status information, Python [venv](https://docs.python.org/3/library/venv.html) and a status code when the last command had an error.
 *   [nostalgia (⭐0)](https://github.com/skippyr/nostalgia) - Minimalist theme inspired by Windows CMD prompt. Includes decorators for user\@hostname, `git` status, current directory and python virtualenv.
 
-## [19. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### JavaScript / Node.js
-
-*   [Node.js Best Practices (⭐93k)](https://github.com/goldbergyoni/nodebestpractices) - Yoni Goldberg, et al.
-
-## [20. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [19. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
-*   [podiscover (⭐17)](https://github.com/enderahmetyurt/podiscover) - An open source social media platform to discover new podcasts. (using Rails 7.0) - [:earth\_africa:](https://www.podiscover.me)
+*   [podiscover (⭐19)](https://github.com/enderahmetyurt/podiscover) - An open source social media platform to discover new podcasts. (using Rails 7.0) - [:earth\_africa:](https://www.podiscover.me)
 
 ---
 

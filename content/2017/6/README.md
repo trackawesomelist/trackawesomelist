@@ -38,17 +38,17 @@
 
 ### services
 
-*   [featureserver (⭐99)](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
+*   [featureserver (⭐100)](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
 
 ## [6. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
-*   [rg (⭐38k)](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
+*   [rg (⭐41k)](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
 
 ### Shell Script Development / See also
 
-*   [terminals-are-sexy (⭐11k)](https://github.com/k4m4/terminals-are-sexy)
+*   [terminals-are-sexy (⭐12k)](https://github.com/k4m4/terminals-are-sexy)
 
 ## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Testing
 
-*   [Fluent Assertions (⭐3.4k)](https://github.com/fluentassertions/fluentassertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test
+*   [Fluent Assertions (⭐3.5k)](https://github.com/fluentassertions/fluentassertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test
 
 ## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Libraries / GUI
 
-*   [saurvs/nfd-rs (⭐151)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.6k)](https://github.com/mlabbe/nativefiledialog) bindings
+*   [saurvs/nfd-rs (⭐153)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.7k)](https://github.com/mlabbe/nativefiledialog) bindings
 
 ## [10. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
@@ -190,7 +190,7 @@
 
 ### Software / Frameworks
 
-*   [Thingsboard IoT Gateway (⭐1.3k)](https://github.com/thingsboard/thingsboard-gateway) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
+*   [Thingsboard IoT Gateway (⭐1.5k)](https://github.com/thingsboard/thingsboard-gateway) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
 
 ### Software / Middlewares
 
@@ -248,7 +248,7 @@
 
 ### Open Source / Other
 
-*   [LosslessCut (⭐19k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
+*   [LosslessCut (⭐20k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
 
 ## [30. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 
@@ -270,7 +270,7 @@
 
 ### Game Frameworks / XML
 
-*   [Voxelman (⭐122)](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
+*   [Voxelman (⭐123)](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
 
 ## [33. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
@@ -282,7 +282,7 @@
 
 ### Projects
 
-*   [PiE-Ink](http://www.htxt.co.za/2017/02/07/pie-ink-is-a-raspberry-pi-name-tag-that-uses-an-e-ink-display/) - E-ink nametag display running on a Pi Zero. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-0.png)
+*   [PiE-Ink](http://www.htxt.co.za/2017/02/07/pie-ink-is-a-raspberry-pi-name-tag-that-uses-an-e-ink-display/) - E-ink nametag display running on a Pi Zero. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-0.png)
 
 ## [35. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
@@ -312,7 +312,7 @@
 ### Database Management
 
 *   [RNeo4j (⭐236)](https://github.com/nicolewhite/Rneo4j) - Neo4j graph database driver.
-*   [rpostgis (⭐60)](https://github.com/mablab/rpostgis) - R interface to PostGIS database and get spatial objects in R.
+*   [rpostgis (⭐76)](https://github.com/mablab/rpostgis) - R interface to PostGIS database and get spatial objects in R.
 
 ## [37. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
@@ -328,7 +328,7 @@
 
 ### Templating
 
-*   [exgen (⭐34)](https://github.com/rwdaigle/exgen) - A templating library for quickly generating Elixir projects.
+*   [exgen (⭐35)](https://github.com/rwdaigle/exgen) - A templating library for quickly generating Elixir projects.
 
 ### Third Party APIs
 
@@ -436,16 +436,11 @@
 
 ## [48. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
-### Part Search Engines / Eagle
-
-*   [Octopart](https://octopart.com) - Probably the most well known part search engine.
-*   [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts.
-
-### Project Sharing Platforms / Eagle
+### Project Sharing Platforms / Altium
 
 *   [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
 
-### Development Board Retailers / Eagle
+### Development Board Retailers / Altium
 
 *   [Tindie](https://www.tindie.com) - Marketplace for electronics makers to sell low volume batches of their own designs.
 
@@ -466,7 +461,7 @@
 
 ### Machine Learning
 
-*   [mlpack (⭐4.6k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
+*   [mlpack (⭐4.7k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
 
 ---
 

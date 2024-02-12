@@ -36,30 +36,30 @@
 
 ## [5. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
-### React Firebase starter   [↗](https://awesomestacks.dev/react-firebase-starter) / Resources
+### React Firebase starter [↗](https://awesomestacks.dev/react-firebase-starter) / Resources
 
-*   [GraphQL](https://graphql.org/) - [🛠](https://stackshare.io/graphql) - [🐙 (⭐19k)](https://github.com/graphql/graphql-js) - A query language for APIs and a runtime for fulfilling those queries with your existing data.
-*   [Material UI](https://material-ui.com/) - [🛠️](https://stackshare.io/material-ui) - [🐙 (⭐84k)](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design.
+*   [GraphQL](https://graphql.org/) - [🛠](https://stackshare.io/graphql) - [🐙 (⭐20k)](https://github.com/graphql/graphql-js) - A query language for APIs and a runtime for fulfilling those queries with your existing data.
+*   [Material UI](https://material-ui.com/) - [🛠️](https://stackshare.io/material-ui) - [🐙 (⭐90k)](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design.
 *   [Relay](https://facebook.github.io/relay/) - [🛠️](https://stackshare.io/relay) - [🐙 (⭐18k)](https://github.com/facebook/relay) - A JavaScript framework for building data-driven React applications.
 
-### MEVN: Mongo Express Vue Node   [↗](https://awesomestacks.dev/mevn-mongo-express-vue-node) / Resources
+### MEVN: Mongo Express Vue Node [↗](https://awesomestacks.dev/mevn-mongo-express-vue-node) / Resources
 
-*   [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙 (⭐60k)](https://github.com/expressjs/express) - A minimal and flexible Node.js web application framework.
-*   [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐93k)](https://github.com/nodejs/node) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙 (⭐63k)](https://github.com/expressjs/express) - A minimal and flexible Node.js web application framework.
+*   [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐101k)](https://github.com/nodejs/node) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
-### React starter kit   [↗](https://awesomestacks.dev/react-starter-kit) / Resources
+### React starter kit [↗](https://awesomestacks.dev/react-starter-kit) / Resources
 
-*   [Node.js](https://nodejs.org/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐93k)](https://github.com/nodejs/node) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Node.js](https://nodejs.org/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐101k)](https://github.com/nodejs/node) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
 
-### vue-starter   [↗](https://awesomestacks.dev/vue-starter) / Resources
+### vue-starter [↗](https://awesomestacks.dev/vue-starter) / Resources
 
-*   [Prettier](https://prettier.io/) - [🛠️](https://stackshare.io/prettier) - [🐙 (⭐45k)](https://github.com/prettier/prettier) - An opinionated code formatter.
+*   [Prettier](https://prettier.io/) - [🛠️](https://stackshare.io/prettier) - [🐙 (⭐48k)](https://github.com/prettier/prettier) - An opinionated code formatter.
 
 ## [6. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
 
 ### Platforms and toolkits
 
-*   [UralicNLP (⭐59)](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
+*   [UralicNLP (⭐65)](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
 
 ## [7. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -135,7 +135,7 @@
 
 ### Template Engine / Other
 
-*   [Rocker (⭐698)](https://github.com/fizzed/rocker) - Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
+*   [Rocker (⭐707)](https://github.com/fizzed/rocker) - Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
 
 ### Related Awesome Lists / Mocking
 

@@ -92,23 +92,23 @@ Webpage: <https://www.facebook.com/Racoon-Coffee-More-as-303455009847582/>
 ### Integration
 
 *   Server-Sent Events
-    *   [jEaSSE (⭐58)](https://github.com/mariomac/jeasse) - Java Easy SSE. A simple, lightweight implementation of SSE.
-    *   [vertx-sse (⭐38)](https://github.com/aesteve/vertx-sse) - Vert.x SSE implementation + event-bus SSE bridge.
+    *   [jEaSSE (⭐59)](https://github.com/mariomac/jeasse) - Java Easy SSE. A simple, lightweight implementation of SSE.
+    *   [vertx-sse (⭐41)](https://github.com/aesteve/vertx-sse) - Vert.x SSE implementation + event-bus SSE bridge.
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Keychain / Barcode
 
-*   [keychain-swift (⭐2.5k)](https://github.com/evgenyneu/keychain-swift) - Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.
+*   [keychain-swift (⭐2.6k)](https://github.com/evgenyneu/keychain-swift) - Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.
 
 ### UI / Barcode
 
 *   [Dodo (⭐874)](https://github.com/evgenyneu/Dodo) - A message bar for iOS.
-*   [SectionedSlider (⭐363)](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
+*   [SectionedSlider (⭐364)](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Input Methods / File Sharing
+### Input Methods / Audio Record and Process
 
 *   [Rocket](http://matthewpalmer.net/rocket/) - Makes typing emoji faster and easier using Slack-style shortcuts. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 

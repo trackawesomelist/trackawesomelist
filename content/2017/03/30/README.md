@@ -23,7 +23,7 @@
 ### Contents / Tools
 
 *   [p8dl - Carts Downloader - Python (⭐9)](https://github.com/franciscod/p8dl) - Downloads cartridges into the correct folder (looks at your config.txt).
-*   [Pico-8 Carts Downloader - Bash  (⭐18)](https://github.com/kikookoubis/pico-8-carts-bash-downloader) - Downloads cartridge from the BBS (single cart, whole index or dump your favourited entries) & rename them according to their metadata.
+*   [Pico-8 Carts Downloader - Bash  (⭐17)](https://github.com/kikookoubis/pico-8-carts-bash-downloader) - Downloads cartridge from the BBS (single cart, whole index or dump your favourited entries) & rename them according to their metadata.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Cryptography
 
-*   [OpenSSL (⭐23k)](https://github.com/openssl/openssl) - A robust, commercial-grade, full-featured, and Open Source cryptography library. \[Apache] [website](http://www.openssl.org/)
+*   [OpenSSL (⭐24k)](https://github.com/openssl/openssl) - A robust, commercial-grade, full-featured, and Open Source cryptography library. \[Apache] [website](http://www.openssl.org/)
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Endpoint / Forensics
 
-*   [ir-rescue (⭐440)](https://github.com/diogo-fernan/ir-rescue) - *ir-rescue* is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+*   [ir-rescue (⭐441)](https://github.com/diogo-fernan/ir-rescue) - *ir-rescue* is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -118,7 +118,7 @@
 
 ## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Proxy and VPN Tools / File Sharing
+### Proxy and VPN Tools / Audio Record and Process
 
 *   [tinc](https://www.tinc-vpn.org) - Secure mesh VPN software. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 

@@ -66,33 +66,24 @@
 
 ### Frameworks / Runtimes
 
-*   [Erlang/OTP (⭐10k)](https://github.com/erlang/otp) - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
+*   [Erlang/OTP (⭐11k)](https://github.com/erlang/otp) - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
 
 ### C
 
 *   [Lwan](http://lwan.ws/) - High-performance and scalable web server.
 
-### C++
-
-*   [ULib (⭐950)](https://github.com/stefanocasazza/ULib) - Highly optimized class framework for writing C++ applications.
-
 ### Go / Erlang
 
-*   [Goji](https://goji.io/) - Minimalistic and flexible request multiplexer for Go.
 *   [Gorilla](http://www.gorillatoolkit.org/) - Web toolkit for the Go programming language.
 
 ### Node.js / Scala
 
-*   [Serverless (⭐44k)](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
+*   [Serverless (⭐46k)](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
 
 ### Python / Scala
 
-*   [Nameko (⭐4.5k)](https://github.com/onefinestay/nameko) - Python framework for building microservices.
+*   [Nameko (⭐4.6k)](https://github.com/onefinestay/nameko) - Python framework for building microservices.
 *   [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
-
-### REST / Scala
-
-*   [Aglio (⭐4.7k)](https://github.com/danielgtaylor/aglio) - API Blueprint renderer with theme support that outputs static HTML.
 
 ## [6. Awesome Python](/content/vinta/awesome-python/README.md)
 

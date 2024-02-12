@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 12, 2020
 
-19 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,15 +28,15 @@
 
 ## [2. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
-### GraphCMS React + Apollo   [↗](https://awesomestacks.dev/graph-cms-react-apollo) / Resources
+### GraphCMS React + Apollo [↗](https://awesomestacks.dev/graph-cms-react-apollo) / Resources
 
-*   [GraphCMS starter blog with React & Apollo Client (⭐524)](https://github.com/GraphCMS/graphcms-examples/tree/master/with-reactjs)
+*   [GraphCMS starter blog with React & Apollo Client (⭐584)](https://github.com/GraphCMS/graphcms-examples/tree/master/with-reactjs)
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Web Servers
 
-*   [mufeedvh/binserve (⭐891)](https://github.com/mufeedvh/binserve) — A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code [![build badge](https://github.com/mufeedvh/binserve/workflows/CICD/badge.svg?branch=master)](https://github.com/mufeedvh/binserve/actions)
+*   [mufeedvh/binserve (⭐920)](https://github.com/mufeedvh/binserve) — A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code [![build badge](https://github.com/mufeedvh/binserve/workflows/CICD/badge.svg?branch=master)](https://github.com/mufeedvh/binserve/actions)
 
 ## [4. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Collapse
 
-*   [react-tabbordion (⭐79)](https://github.com/Merri/react-tabbordion) - [demo](https://merri.github.io/react-tabbordion) - Universal, semantic and CSS-only components for creating Accordions and Tabs.
+*   [react-tabbordion (⭐80)](https://github.com/Merri/react-tabbordion) - [demo](https://merri.github.io/react-tabbordion) - Universal, semantic and CSS-only components for creating Accordions and Tabs.
 
 ## [7. Awesome Ads](/content/cenoura/awesome-ads/README.md)
 
@@ -84,13 +84,13 @@
 
 ### Miscellaneous
 
-*   [cl-liballegro (⭐48)](https://github.com/resttime/cl-liballegro) - Interface and bindings to the Allegro 5 game programming library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [cl-liballegro (⭐52)](https://github.com/resttime/cl-liballegro) - Interface and bindings to the Allegro 5 game programming library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tools & Utilities / Others
 
-*   [Blazor Printing (⭐89)](https://github.com/Append-IT/Blazor.Printing) - ![last-commit](https://img.shields.io/github/last-commit/append-it/Blazor.Printing?style=flat-square\&cacheSeconds=86400) Print and save PDF documents with a native print dialog in a Blazor Server or client Application.
+*   [Blazor Printing (⭐96)](https://github.com/Append-IT/Blazor.Printing) - ![last-commit](https://img.shields.io/github/last-commit/append-it/Blazor.Printing?style=flat-square\&cacheSeconds=86400) Print and save PDF documents with a native print dialog in a Blazor Server or client Application.
 
 ## [13. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/README.md)
 
@@ -98,51 +98,29 @@
 
 *   [Jolocom](https://jolocom.com) - Self-sovereign identity wallet.
 
-## [14. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
-
-### Tools
-
-*   💼 [tailwind-classes-sorter (⭐20)](https://github.com/Acidic9/tailwind-classes-sorter) - NPM library which provides a utility to sort Tailwind CSS classes.
-*   💼 [prettier-plugin-tailwind (⭐433)](https://github.com/Acidic9/prettier-plugin-tailwind) - Prettier plugin that sorts class lists.
-
-## [15. Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md)
+## [14. Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md)
 
 ### Libraries / JavaScript
 
 *   [useAnimations](https://useanimations.com/) - micro-animations icon library;
 
-## [16. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
+## [15. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
 ### App Examples
 
 *   [New York Taxi Rides](https://dash.vaex.io/) - A full year of the YellowCab Taxi company data from their prime, numbering well over 100 million trips. Dash + Vaex dataframe with over a 100 million rows. [Source Code. (⭐108)](https://github.com/vaexio/dash-120million-taxi-app)
 
-## [17. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [16. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Application layer
 
 *   [Apex.Autonomy](https://www.apex.ai/apex-autonomy) - Apex.Autonomy provides autonomy algorithms as individual building blocks and is compatible with Autoware.Auto.
 
-## [18. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [17. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Applications and Platforms / Data Collection
 
 *   [LifeMetrics](https://lifemetrics.io/) - Daily questionnaires and automatically generated wellness insights (iOS).
-
-## [19. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### C / Non-X86
-
-*   [Hashing](https://www.smashwords.com/books/view/737188) - Prakash Hegade
-*   [Structures and C](https://www.smashwords.com/books/view/644937) - Prakash Hegade
-
-### HTML and CSS / Spock Framework
-
-*   [Web Visual Effects with CSS3](https://leanpub.com/web-visual-effects-with-css3/read) - Thomas Mak
-
-### R / Tornado
-
-*   [Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/) - Rafael A. Irizarry
 
 ---
 

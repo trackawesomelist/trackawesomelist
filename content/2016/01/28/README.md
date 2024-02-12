@@ -22,23 +22,19 @@
 
 ### Table of Contents / Imagery
 
-*   [Color Extractor (⭐1.2k)](https://github.com/thephpleague/color-extractor) - A library for extracting colours from images.
+*   [Color Extractor (⭐1.3k)](https://github.com/thephpleague/color-extractor) - A library for extracting colours from images.
 
 ### Table of Contents / Asset Management
 
-*   [JShrink (⭐676)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
+*   [JShrink (⭐740)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
 
 ### Table of Contents / Geolocation
 
-*   [GeoTools (⭐1.3k)](https://github.com/thephpleague/geotools) - A library of geo-related tools.
-
-### Table of Contents / PDF
-
-*   [WKHTMLToPDF (⭐13k)](https://github.com/wkhtmltopdf/wkhtmltopdf) - A tool to convert HTML to PDF.
+*   [GeoTools (⭐1.4k)](https://github.com/thephpleague/geotools) - A library of geo-related tools.
 
 ### Table of Contents / Office
 
-*   [PHPPowerPoint (⭐1.2k)](https://github.com/PHPOffice/PHPPresentation) - A library for working with Microsoft PowerPoint Presentations.
+*   [PHPPowerPoint (⭐1.3k)](https://github.com/PHPOffice/PHPPresentation) - A library for working with Microsoft PowerPoint Presentations.
 
 ### Table of Contents / Command Line
 
@@ -46,7 +42,7 @@
 
 ### Table of Contents / Caching and Locking
 
-*   [Stash (⭐943)](https://github.com/tedious/Stash) - Another library for caching.
+*   [Stash (⭐952)](https://github.com/tedious/Stash) - Another library for caching.
 
 ### Table of Contents / Data Structure and Storage
 
@@ -54,19 +50,15 @@
 
 ### Configuration / PHP Installation
 
-*   [PHP Brew (⭐5k)](https://github.com/phpbrew/phpbrew) - A PHP version manager and installer.
+*   [PHP Brew (⭐5.3k)](https://github.com/phpbrew/phpbrew) - A PHP version manager and installer.
 
 ### Configuration / Virtual Machines
 
-*   [HHVM (⭐17k)](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
+*   [HHVM (⭐18k)](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
 
 ### Configuration / Web Applications
 
 *   [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
-
-### Configuration / PHP Websites
-
-*   [PHP Best Practices](https://phpbestpractices.org/) - A PHP best practice guide.
 
 ### Configuration / PHP Books
 
@@ -94,7 +86,7 @@
 
 ### serialization
 
-*   [rgeo-geojson (⭐180)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
+*   [rgeo-geojson (⭐181)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
 
 ## [7. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
@@ -123,8 +115,8 @@
 
 ### Benchmark / Runner
 
-*   [benchmark.js (⭐5.4k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
-*   [matcha (⭐555)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
+*   [benchmark.js (⭐5.5k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
+*   [matcha (⭐559)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
 ## [11. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 
@@ -143,7 +135,7 @@
 
 ### Applications / Directory Navigation
 
-*   [hn-cli (⭐458)](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
+*   [hn-cli (⭐459)](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
 
 ---
 

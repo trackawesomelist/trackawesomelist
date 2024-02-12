@@ -40,7 +40,7 @@
 
 ### Date and Time
 
-*   [clojure.java-time (⭐440)](https://github.com/dm3/clojure.java-time) - Java 8 Date-Time API
+*   [clojure.java-time (⭐446)](https://github.com/dm3/clojure.java-time) - Java 8 Date-Time API
 
 ## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

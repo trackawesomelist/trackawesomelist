@@ -16,7 +16,7 @@
 
 ### Phishing awareness and reporting / Firewall appliances or distributions
 
-*   [Phishing Intelligence Engine (PIE) (⭐174)](https://github.com/LogRhythm-Labs/PIE) - Framework that will assist with the detection and response to phishing attacks.
+*   [Phishing Intelligence Engine (PIE) (⭐177)](https://github.com/LogRhythm-Labs/PIE) - Framework that will assist with the detection and response to phishing attacks.
 
 ## [3. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
@@ -176,7 +176,7 @@
 
 ### Tools
 
-*   [go-orbit-db (⭐363)](https://github.com/berty/go-orbit-db) - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
+*   [go-orbit-db (⭐376)](https://github.com/berty/go-orbit-db) - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
 
 ## [11. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -214,12 +214,12 @@
 
 ### Internationalization
 
-*   [Camomile (⭐121)](https://github.com/yoriyuki/Camomile/) — A Unicode library for OCaml.
-*   [ocaml-m17n (⭐50)](https://github.com/whitequark/ocaml-m17n) — Multilingualization for OCaml source code. Allows using Unicode identifiers in OCaml source code.
-*   [Uucd (⭐15)](https://github.com/dbuenzli/uucd) — Unicode character database decoder for OCaml.
-*   [Uucp (⭐21)](https://github.com/dbuenzli/uucp) — Unicode character properties for OCaml.
-*   [Uunf (⭐22)](https://github.com/dbuenzli/uunf) — Unicode text normalization for OCaml.
-*   [Uuseg (⭐16)](https://github.com/dbuenzli/uuseg) — Unicode text segmentation for OCaml.
+*   [Camomile (⭐124)](https://github.com/yoriyuki/Camomile/) — A Unicode library for OCaml.
+*   [ocaml-m17n (⭐51)](https://github.com/whitequark/ocaml-m17n) — Multilingualization for OCaml source code. Allows using Unicode identifiers in OCaml source code.
+*   [Uucd (⭐16)](https://github.com/dbuenzli/uucd) — Unicode character database decoder for OCaml.
+*   [Uucp (⭐20)](https://github.com/dbuenzli/uucp) — Unicode character properties for OCaml.
+*   [Uunf (⭐21)](https://github.com/dbuenzli/uunf) — Unicode text normalization for OCaml.
+*   [Uuseg (⭐21)](https://github.com/dbuenzli/uuseg) — Unicode text segmentation for OCaml.
 *   [Uutf (⭐29)](https://github.com/dbuenzli/uutf) — Non-blocking streaming Unicode codec for OCaml.
 
 ## [14. Awesome React Native](/content/jondot/awesome-react-native/README.md)
@@ -304,8 +304,8 @@
 
 ### Tools / Reverse Engineering
 
-*   [Simplify Android deobfuscator (⭐4.2k)](https://github.com/CalebFenton/simplify)
-*   [Andromeda (⭐681)](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
+*   [Simplify Android deobfuscator (⭐4.3k)](https://github.com/CalebFenton/simplify)
+*   [Andromeda (⭐686)](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
 
 ## [18. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 02 - Dec 08, 2019
 
-51 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -54,7 +54,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [MacSystemColors (⭐33)](https://github.com/kaunteya/MacSystemColors) - Mac app that shows all system colors in light and dark mode for Cocoa developers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/kaunteya/MacSystemColors)
+*   [MacSystemColors (⭐34)](https://github.com/kaunteya/MacSystemColors) - Mac app that shows all system colors in light and dark mode for Cocoa developers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/kaunteya/MacSystemColors)
 
 ## [6. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -84,7 +84,7 @@
 
 *   [CineReel (⭐184)](https://github.com/kserko/CineReel) - You can see lists for Now playing, Top Rated, Popular and Upcoming movies by [serko](https://github.com/kserko).
 *   [Fluttery Filmy (⭐196)](https://github.com/ibhavikmakwana/Fluttery-Filmy) - Movie app which is developed using flutter and powered by tmdb. by [Bhavik Makwana](https://github.com/ibhavikmakwana).
-*   [Toughest (⭐264)](https://github.com/MDSADABWASIM/Toughest) - Tricky questions and answer- Offline Interview Q/A by [MD SADAB WASIM](https://github.com/MDSADABWASIM).
+*   [Toughest (⭐266)](https://github.com/MDSADABWASIM/Toughest) - Tricky questions and answer- Offline Interview Q/A by [MD SADAB WASIM](https://github.com/MDSADABWASIM).
 *   [Sandwhich (⭐154)](https://github.com/MotionMobs/Sandwhich) - An app to solve the age-old sandwich debate built using machine learning, Flutter, and TensorFlow Lite by [MotionMobs](https://github.com/MotionMobs)
 
 ### Contents / Games
@@ -142,13 +142,13 @@
 
 ### Utilities
 
-*   [Vert.x CronUtils (⭐14)](https://github.com/NoEnv/vertx-cronutils) - An abstraction of cron-utils for the vertx scheduler. Unix, Cron4j and Quartz style expressions are supported.
+*   [Vert.x CronUtils (⭐18)](https://github.com/NoEnv/vertx-cronutils) - An abstraction of cron-utils for the vertx scheduler. Unix, Cron4j and Quartz style expressions are supported.
 
 ## [16. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Artificial Intelligence
 
-*   [Wargus (⭐303)](https://github.com/Wargus/wargus) - Real-time strategy game. [Website](https://wargus.github.io/).
+*   [Wargus (⭐324)](https://github.com/Wargus/wargus) - Real-time strategy game. [Website](https://wargus.github.io/).
 
 ## [17. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
@@ -164,23 +164,13 @@
 
 *   [Feross Aboukhadijeh](https://github.com/sponsors/feross) - WebTorrent, StandardJS, and other JavaScript projects.
 
-## [18. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Assembly Language / Blazor
-
-*   [Programming from the Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) - Jonathan Bartlett (PDF)
-
-### Snap / Play Scala
-
-*   [Snap! Reference Manual](https://snap.berkeley.edu/snapsource/help/SnapManual.pdf) - B. Harvey, J. Mönig (PDF)
-
-## [19. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [18. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [Octotree](https://www.octotree.io/) - Browser extension that enhances GitHub code browsing and pull request reviewing. Available on Chrome, Firefox, Opera and Safari.
 
-## [20. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [19. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Art & Design
 
@@ -196,7 +186,7 @@
 
 
 
-## [21. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [20. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Collection of Actions / Docker Container Actions
 
@@ -206,7 +196,7 @@
 
 *   [GitHub Actions for mdBook (⭐220)](https://github.com/peaceiris/actions-mdbook)
 
-## [22. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [21. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Videos / Playlists
 
@@ -218,7 +208,7 @@
 *   [Iced (⭐20k)](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
 *   [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
-## [23. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [22. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Electronics and Mechanics / Version Control
 
@@ -228,19 +218,19 @@
 
 *   [gpu-voxels](https://www.gpu-voxels.org/) - GPU-Voxels is a CUDA based library which allows high resolution volumetric collision detection between animated 3D models and live pointclouds from 3D sensors of all kinds.
 
-## [24. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [23. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
 *   [FATpick](https://www.fatpick.com) - Guitar tablature viewer that scores your performance as you play along.
 
-## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Resource Planning
 
-*   [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code (⭐5.7k)](https://github.com/grocy/grocy)) `MIT` `PHP/Docker`
+*   [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/), [Source Code (⭐5.9k)](https://github.com/grocy/grocy)) `MIT` `PHP/Docker`
 
-## [26. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [25. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Sample Projects / Workflow
 
@@ -257,7 +247,7 @@
     *   [practical-dapr (⭐290)](https://github.com/thangchung/practical-dapr) - Full-stack .NET microservices build on Dapr and Tye.
     *   [ReactiveTraderCloud (⭐1.8k)](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Real-time trading platform demo showcasing reactive programming principles applied across the full application stack.
 
-## [27. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
+## [26. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
 ### Written Tutorials / Other helpful Plugins
 
@@ -267,13 +257,13 @@
 
 *   2019.07: [Crash Course: Headless WordPress with WPGraphQL, ACF, and React](https://www.youtube.com/watch?v=9KGuI0UmpMw) - In this video, Alex Young (WPCasts) goes over how to get a simple headless WordPress setup with WPGraphQL and React.
 
-## [28. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [27. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Artificial Intelligence Made Easy with H2O.ai: A Comprehensive Guide to Modeling with H2O.ai and AutoML in Python](https://towardsdatascience.com/artificial-intelligence-made-easy-187ecb90c299) June 12, 2019
 
-## [29. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [28. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shells
 
@@ -281,18 +271,18 @@
 
 ### Command-Line Productivity
 
-*   [funky (⭐626)](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
-*   [navi (⭐13k)](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+*   [funky (⭐631)](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
+*   [navi (⭐14k)](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ### Command-Line Productivity / Directory Navigation
 
-*   [z (⭐15k)](https://github.com/rupa/z) - z is the new j, yo
+*   [z (⭐16k)](https://github.com/rupa/z) - z is the new j, yo
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [fx (⭐17k)](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
+*   [fx (⭐18k)](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
 
-## [30. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
+## [29. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
 ### Intermediate
 
@@ -301,13 +291,13 @@
 **Mixed** guided video courses to build products using new technologies\
 *(JavaScript, CSS, React, Node.js, GraphQL, Redux)*
 
-## [31. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [30. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
 *   [Naming (⭐1.2k)](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
 
-## [32. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [31. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Misc Articles
 
@@ -317,13 +307,13 @@
 
 *   [Site Reliability Engineering Paris, France](https://www.meetup.com/Site-Reliability-Engineering-Paris/) - SRE Meetup in the city of light.
 
-## [33. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [32. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Helpers
 
 *   [ember-element-helper (⭐38)](https://github.com/tildeio/ember-element-helper) - Dynamic element helper for Glimmer templates.
 
-## [34. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [33. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
@@ -333,26 +323,26 @@
 
 *   [Podlodka](http://podlodka.io) - Weekly audio show on software development. Interviews with professionals in software development industry and other related fields.
 
-## [35. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [34. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Streaming Sites / Anime
 
 *   [Anime Kaizoku](https://animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
 *   [All-animes](https://all-animes.com) Watch Online Anime In HD English Subbed, Dubbed.
 
-## [36. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [35. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
-*   [cl-yesql (⭐57)](https://github.com/ruricolist/cl-yesql) - SQL statements live in their own files, in SQL syntax, and are imported into Lisp as functions. You are not limited to the features a DSL supports. Based on Clojure's Yesql. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-yesql (⭐61)](https://github.com/ruricolist/cl-yesql) - SQL statements live in their own files, in SQL syntax, and are imported into Lisp as functions. You are not limited to the features a DSL supports. Based on Clojure's Yesql. [MIT](https://opensource.org/licenses/MIT).
 
-## [37. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [36. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Playbooks, Roles and Collections / French
 
 *   [T.A.D.S. boilerplate (⭐679)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
 
-## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -365,7 +355,7 @@
 *   [Building Forms with Vue.js](https://www.packtpub.com/business-other/building-forms-with-vue-js?utm_source=Vuejs.org\&utm_medium=referral\&utm_campaign=OutreachB15411) by Marina Mosti (October 2019)
 *   [Testing Vue.js Components with Jest](https://www.packtpub.com/programming/testing-vue-js-components-with-jest?utm_source=vue.js.org\&utm_medium=refferal\&utm_campaign=OutreachB15653) by Alex Jover Morales, Packt (October 2019)
 
-## [39. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [38. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Courses
 
@@ -375,13 +365,13 @@
 
 *   [Map Camp](https://www.map-camp.com/) - Follow Map Camp on [Twitter](https://twitter.com/map_camp) and [LinkedIn](https://www.linkedin.com/company/map-camp/).
 
-## [40. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [39. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Open Source / RPG
 
-*   [Darkness Dungeon (⭐285)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+*   [Darkness Dungeon (⭐335)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
-## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [40. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Messaging and Streaming
 
@@ -430,7 +420,7 @@
 *   [jsbin.com](https://jsbin.com) — JS Bin is another playground and code-sharing site of front-end web (HTML, CSS, and JavaScript. It Also supports Markdown, Jade, and Sass).
 *   [VSCodium](https://vscodium.com/) - Community-driven, without telemetry/tracking, and freely-licensed binary distribution of Microsoft’s editor VSCode
 
-## [42. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [41. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
@@ -440,19 +430,19 @@
 *   [The 'Android Data Matcher' Locator Strategy](https://appiumpro.com/editions/95)
 *   [Working With Cookies](https://appiumpro.com/editions/96)
 
-## [43. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [42. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Conferences and Events / Europe
 
 *   [HoneyCON](https://honeycon.eu/) - Annual Security Conference in Guadalajara, Spain. Organized by the HoneySEC association.
 
-## [44. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [43. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Methodology / Scalability and Resilience
 
 *   [No silver bullet, by Brooks](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf) - Making a case for growing software in small increments :orange\_book:.
 
-## [45. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [44. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Blockchain utils / Swift
 
@@ -470,19 +460,19 @@
 
 *   [Lombardini](https://lombardini.io/) - Borrow WBTC for WAVES instantly.
 
-## [46. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [45. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Libraries
 
 *   [Cron Expression Descriptor (⭐898)](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
 
-## [47. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [46. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Music
 
 *   [spotify-tui (⭐15k)](https://github.com/Rigellute/spotify-tui) - Spotify client.
 
-## [48. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [47. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### IT Security
 
@@ -496,7 +486,7 @@
 
 *   [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_\(media\)) - A hidden feature especially in video games in reference to the Easter egg hunt.
 
-## [49. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [48. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Command Line
 
@@ -504,9 +494,9 @@
 
 ### UI Testing
 
-*   [ViewInspector (⭐1.8k)](https://github.com/nalexn/ViewInspector) - Runtime inspection and unit testing of SwiftUI views
+*   [ViewInspector (⭐2k)](https://github.com/nalexn/ViewInspector) - Runtime inspection and unit testing of SwiftUI views
 
-## [50. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [49. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Build And Release System
 
@@ -518,7 +508,7 @@
 *   [SaltStack](http://saltstack.com/community/) Radically simple configuration-management, application deployment, task-execution, and multi-node orchestration engine
 *   [terraform](https://www.terraform.io) Use Infrastructure as Code to provision and manage any cloud, infrastructure, or service
 
-## [51. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [50. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Editors / Runner
 

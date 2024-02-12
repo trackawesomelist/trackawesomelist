@@ -29,7 +29,7 @@
 
 ### Packages / Libraries
 
-*   [Tuna (⭐1.6k)](https://github.com/Theodeus/tuna) - An audio effects library.
+*   [Tuna (⭐1.7k)](https://github.com/Theodeus/tuna) - An audio effects library.
 
 ## [5. Awesome Json](/content/burningtree/awesome-json/README.md)
 

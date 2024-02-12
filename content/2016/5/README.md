@@ -77,7 +77,7 @@
 
 ### PHP Libraries
 
-*   [BlockTrail PHP SDK (⭐42)](https://github.com/blocktrail/blocktrail-sdk-php)
+*   [BlockTrail PHP SDK (⭐43)](https://github.com/blocktrail/blocktrail-sdk-php)
 
 ## [8. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Others
 
-*   [Racing Car Katas (⭐260)](https://github.com/emilybache/Racing-Car-Katas)
+*   [Racing Car Katas (⭐273)](https://github.com/emilybache/Racing-Car-Katas)
 
 ## [10. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
@@ -220,7 +220,7 @@ Webpage: <http://hanahaus.com/>
 
 ### Node.js / Scala
 
-*   [Micro (⭐10k)](http://github.com/zeithq/micro) - Asynchronous HTTP microservices.
+*   [Micro (⭐11k)](http://github.com/zeithq/micro) - Asynchronous HTTP microservices.
 
 ## [16. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
@@ -236,13 +236,13 @@ Webpage: <http://hanahaus.com/>
 
 ### Applications / Directory Navigation
 
-*   [moviemon (⭐189)](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
+*   [moviemon (⭐196)](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 
 ## [18. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Standalone apps / Playground
 
-*   :octocat: [Visual Studio Code (⭐152k)](https://github.com/Microsoft/vscode) - Multiplatform IDE.
+*   :octocat: [Visual Studio Code (⭐154k)](https://github.com/Microsoft/vscode) - Multiplatform IDE.
 
 ## [19. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -260,8 +260,8 @@ Webpage: <http://hanahaus.com/>
 
 ### Rust / General-Purpose Machine Learning
 
-*   [deeplearn-rs (⭐206)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
-*   [rustlearn (⭐594)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
+*   [deeplearn-rs (⭐208)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
+*   [rustlearn (⭐602)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
 
 ## [20. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
@@ -286,12 +286,12 @@ Webpage: <http://hanahaus.com/>
 
 ### Free Music Scores
 
-*   [cellist/Lilypond-Sheet-Music (⭐118)](https://github.com/cellist/Lilypond-Sheet-Music) - a collection of music typeset with lilypond (mostly chamber music and music for cello).
+*   [cellist/Lilypond-Sheet-Music (⭐120)](https://github.com/cellist/Lilypond-Sheet-Music) - a collection of music typeset with lilypond (mostly chamber music and music for cello).
 *   [ciconia/music (⭐20)](https://github.com/ciconia/music) - a collection of mostly baroque music, lots of sacred works by J. S. Bach, coded in lilypond/ripple.
 *   [CPDL](http://www.cpdl.org/) - the choral public domain library contains more than 20K free scores of vocal music.
 *   [Éditions Nicolas Sceaux (⭐41)](https://github.com/nsceaux/nenuvar) - baroque music scores (mainly French music), typeset using lilypond.
 *   [IMSLP](http://imslp.org/) - the International Music Score Library Project is the largest collection of public domain scores and parts on the web.
-*   [Mutopia (⭐229)](https://github.com/MutopiaProject/MutopiaProject) - sheet music based on editions in the public domain.
+*   [Mutopia (⭐230)](https://github.com/MutopiaProject/MutopiaProject) - sheet music based on editions in the public domain.
 *   [wbsoft/lilymusic (⭐48)](https://github.com/wbsoft/lilymusic) - beautiful LilyPond scores under free licenses.
 
 ### MIDI Tools & Libraries
@@ -301,27 +301,27 @@ Webpage: <http://hanahaus.com/>
 ### Music Notation
 
 *   [Denemo](http://www.denemo.org/) - a free music notation editor based on Lilypond.
-*   [Frescobaldi (⭐667)](https://github.com/wbsoft/frescobaldi) - a free Lilypond sheet music editor.
+*   [Frescobaldi (⭐674)](https://github.com/wbsoft/frescobaldi) - a free Lilypond sheet music editor.
 *   [Guido](http://guidolib.sourceforge.net/) - a generic, portable library and API for the graphical rendering of musical scores.
-*   [Inknote (⭐153)](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
+*   [Inknote (⭐152)](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
 *   [LibMEI (⭐59)](https://github.com/DDMAL/libmei) - a C++ library for reading and writing MEI files.
 *   [Lilypond](http://lilypond.org/) - free, open-source music engraving program, devoted to producing the highest-quality sheet music possible.
 *   [Lilypond Snippet Repository](http://lsr.di.unimi.it/) - an online database of Lilypond snippets ideas, features and hacks.
 *   [Lydown (⭐23)](https://github.com/ciconia/lydown) - a modern language for music notation, based on Lilypond.
-*   [MuseScore (⭐10k)](https://github.com/musescore/MuseScore) - free open-source music notation and composition software.
+*   [MuseScore (⭐11k)](https://github.com/musescore/MuseScore) - free open-source music notation and composition software.
 *   [Python-ly](https://pypi.python.org/pypi/python-ly) - a tool and library for manipulating LilyPond files.
-*   [Verovio (⭐571)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
-*   [Vexflow (⭐3.6k)](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
+*   [Verovio (⭐576)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
+*   [Vexflow (⭐3.7k)](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
 
 ### Music Programming
 
 *   [Alda (⭐5.4k)](https://github.com/alda-lang/alda) - a music programming language for musicians.
-*   [Chuck (⭐649)](https://github.com/ccrma/chuck) - strongly-timed, concurrent, and on-the-fly music programming language.
+*   [Chuck (⭐664)](https://github.com/ccrma/chuck) - strongly-timed, concurrent, and on-the-fly music programming language.
 *   [CoffeeCollider (⭐216)](https://github.com/mohayonao/CoffeeCollider) - a language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider."
 *   [Common Music](http://commonmusic.sourceforge.net/) - an open source music composition system.
 *   [Csound](http://csound.github.io/) - a user-programmable and user-extensible sound processing language and software synthesizer.
-*   [IanniX (⭐311)](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
-*   [Leipzig (⭐442)](https://github.com/ctford/leipzig) - a composition library for Overtone.
+*   [IanniX (⭐319)](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
+*   [Leipzig (⭐443)](https://github.com/ctford/leipzig) - a composition library for Overtone.
 *   [Music Suite](http://music-suite.github.io/docs/ref/) - a language for generalized music notation and theory, based on Haskell.
 *   [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - a sound synthesis and composition language.
 *   [Overtone (⭐5.7k)](https://github.com/overtone/overtone/) - an Open Source toolkit for designing synthesizers and collaborating with music.
@@ -338,7 +338,7 @@ Webpage: <http://hanahaus.com/>
 
 ### Data serialization / Binary Serilization
 
-*   [cerealed (⭐89)](https://github.com/atilaneves/cerealed)  - Serialisation library for D
+*   [cerealed (⭐91)](https://github.com/atilaneves/cerealed)  - Serialisation library for D
 *   [dproto (⭐35)](https://github.com/msoucy/dproto) - Google Protocol Buffer support in D.
 
 ## [22. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
@@ -382,12 +382,12 @@ Webpage: <http://hanahaus.com/>
 
 ### Artificial Intelligence
 
-*   [TensorFlow (⭐178k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. \[Apache]
+*   [TensorFlow (⭐180k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. \[Apache]
 
 ### Concurrency
 
-*   [ck (⭐2.2k)](https://github.com/concurrencykit/ck) - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures. \[BSD]
-*   [junction (⭐1.3k)](https://github.com/preshing/junction) - A library of concurrent data structures in C++. \[BSD]
+*   [ck (⭐2.3k)](https://github.com/concurrencykit/ck) - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures. \[BSD]
+*   [junction (⭐1.4k)](https://github.com/preshing/junction) - A library of concurrent data structures in C++. \[BSD]
 *   [libcds (⭐2.4k)](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures. \[BSD]
 
 ### GUI
@@ -406,15 +406,15 @@ git name-rev --name-only <SHA-1>
 
 ### Code Analysis and Metrics
 
-*   [Scientist (⭐7.1k)](https://github.com/github/scientist) - A Ruby library for carefully refactoring critical paths.
+*   [Scientist (⭐7.3k)](https://github.com/github/scientist) - A Ruby library for carefully refactoring critical paths.
 
 ### Database Tools
 
-*   [Scenic (⭐3.2k)](https://github.com/thoughtbot/scenic) - Versioned database views for Rails.
+*   [Scenic (⭐3.3k)](https://github.com/thoughtbot/scenic) - Versioned database views for Rails.
 
 ### State Machines
 
-*   [transitions (⭐534)](https://github.com/troessner/transitions) - A ruby state machine implementation.
+*   [transitions (⭐535)](https://github.com/troessner/transitions) - A ruby state machine implementation.
 
 ## [29. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
@@ -453,11 +453,11 @@ git name-rev --name-only <SHA-1>
 
 ### Documentation
 
-*   [bureaucrat (⭐350)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
+*   [bureaucrat (⭐356)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
 
 ### Examples and funny stuff
 
-*   [hello\_phoenix (⭐131)](https://github.com/bigardone/phoenix-react-redux-template) - Application template for SPAs with Phoenix, React and Redux.
+*   [hello\_phoenix (⭐130)](https://github.com/bigardone/phoenix-react-redux-template) - Application template for SPAs with Phoenix, React and Redux.
 
 ### Framework Components
 
@@ -470,12 +470,12 @@ git name-rev --name-only <SHA-1>
 ### ORM and Datamapping
 
 *   [inquisitor (⭐168)](https://github.com/dockyard/inquisitor) - Composable query builder for Ecto.
-*   [mongodb (⭐555)](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
+*   [mongodb (⭐559)](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
 *   [udpflux (⭐4)](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
 
 ### Protocols
 
-*   [riffed (⭐304)](https://github.com/pinterest/riffed) - Provides idiomatic Elixir bindings for Apache Thrift.
+*   [riffed (⭐305)](https://github.com/pinterest/riffed) - Provides idiomatic Elixir bindings for Apache Thrift.
 
 ### Third Party APIs
 
@@ -497,7 +497,7 @@ git name-rev --name-only <SHA-1>
 ### UITableView / Barcode
 
 *   [folding-cell (⭐10k)](https://github.com/Ramotion/folding-cell) - Folding cell transition.
-*   [PullToRefreshSwift (⭐538)](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
+*   [PullToRefreshSwift (⭐537)](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
 
 ## [35. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 

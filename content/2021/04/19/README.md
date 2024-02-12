@@ -1,18 +1,12 @@
 # Awesome List Updates on Apr 19, 2021
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
-
-### Open-Source Projects
-
-*   [Ubuntu 20.04 (⭐3.2k)](https://github.com/vivek9patel/vivek9patel.github.io) - An Ubuntu desktop using React.js + Tailwind CSS.
-
-## [2. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
+## [1. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
 ### Using Cassandra / Cassandra as a Service / Managed Cassandra Based on Proprietary Technology
 
@@ -68,26 +62,26 @@
 *   [GumGum: Multi-Region Cassandra in AWS](https://www.slideshare.net/planetcassandra/gumgum-multiregion-cassandra-in-aws) - Presentation that details how Gumgum scaled out from one local Cassandra datacenter to a multi-datacenter Cassandra cluster and all the problems they encountered and choices they made while implementing it.
 *   [Securing Cassandra](https://www.slideshare.net/planetcassandra/securing-cassandra-the-right-way) - Ben Bromhead CTO of Instaclustr, will explore the various ways in which you can setup and secure Cassandra appropriately for your threat environment.
 
-## [3. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [2. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Other libraries and tools / Mesh tools
 
 *   [PyGMO](https://esa.github.io/pygmo/) - Massively parallel optimization.
     (Python/C++, MPL 2, [GitHub (⭐309)](https://github.com/esa/pygmo2))
 
-## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [3. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Open Source Projects / Other Tools
 
 *   [OPAL (Open Policy Administration Layer) (⭐12)](https://github.com/authorizon/opal) - Real-time authorization updates on top of Open-Policy; built with FastAPI, Typer, and FastAPI WebSocket pub/sub.
 
-## [5. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [4. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Learning
 
 *   [Quantum Algorithms](https://quantumalgorithms.org/) - Open-source set of lectures notes on quantum algorithms, with a focus on machine learning and data analysis.
 
-## [6. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+## [5. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ### Periodic Global Connectivity Reports
 
@@ -97,7 +91,7 @@
 
 *   [Cisco Annual Internet Report (2018–2023) White Paper](https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/annual-internet-report/white-paper-c11-741490.html) - Updated:February 28, 2020.
 
-## [7. Public Apis](/content/public-apis/public-apis/README.md)
+## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -124,13 +118,13 @@
 
 
 
-## [8. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [7. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Source Separation
 
 *   [NUSSL](https://interactiveaudiolab.github.io/project/nussl.html) [:octocat: (⭐531)](https://github.com/interactiveaudiolab/nussl) [:package:](https://pypi.python.org/pypi/nussl) - Holistic source separation framework including DSP methods and deep learning methods.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
@@ -138,15 +132,15 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-visual-filter (⭐92)](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
+*   [vue-visual-filter (⭐96)](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
 
-## [10. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
+## [9. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
 ### Lower Elementary
 
 *   [Python Turtle (⭐337)](https://github.com/PythonTurtle/PythonTurtle) original (1986-2021) simple 'Python-Turtle' model.
 
-## [11. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Java
 
@@ -172,7 +166,7 @@
 *   [Top DevOps Interview Questions You Must Prepare In 2021](https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/)
 *   [Top 60+ DevOps Interview Questions & Answers in 2021](https://intellipaat.com/interview-question/devops-interview-questions/)
 
-## [12. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [11. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Training
 

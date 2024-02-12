@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 10, 2017
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -21,19 +21,19 @@
 
 ## [3. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
-### Other useful repositories
+### Other Useful Repositories
 
-- Repository: [Adversarial Machine Learning (⭐1.6k)](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
+- Repository: [Adversarial Machine Learning (⭐1.7k)](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 
   Description: Curated list of awesome adversarial machine learning resources
 
 
-- Repository: [AI Security (⭐1.1k)](https://github.com/RandomAdversary/Awesome-AI-Security)
+- Repository: [AI Security (⭐1.3k)](https://github.com/RandomAdversary/Awesome-AI-Security)
 
   Description: Curated list of AI security resources
 
 
-- Repository: [Web Security (⭐8.8k)](https://github.com/qazbnm456/awesome-web-security)
+- Repository: [Web Security (⭐10k)](https://github.com/qazbnm456/awesome-web-security)
 
   Description: Curated list of Web Security materials and resources
 
@@ -63,13 +63,7 @@
 
 *   [PyWavelets](http://pywavelets.readthedocs.io) [:octocat: (⭐1.7k)](https://github.com/PyWavelets/pywt) [:package:](https://pypi.python.org/pypi/PyWavelets) - Discrete Wavelet Transform in Python.
 
-## [8. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
-
-### Articles
-
-*   [How big data will impact car security in the proximate future: Concerns and solutions](http://bigdata-madesimple.com/big-data-will-impact-car-security-proximate-future-concerns-solutions/) - Impact of big data on car security.
-
-## [9. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [8. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### Other Initiatives / Content
 
@@ -77,13 +71,13 @@
 
     Google's global program providing visibility, community, & resources for women in technology. Provides resources to women starting their career and women with an established career in tech to further their success.
 
-## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Books
 
 *   :books: [Angular 2 Development with TypeScript (2016)](https://www.manning.com/books/angular-2-development-with-typescript) by Yakov Fain and Anton Moiseev; Manning
 
-## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Elastic Beanstalk
 

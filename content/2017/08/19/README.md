@@ -10,7 +10,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [ML-From-Scratch (⭐22k)](https://github.com/eriklindernoren/ML-From-Scratch) - Implementations of Machine Learning models from scratch in Python with a focus on transparency. Aims to showcase the nuts and bolts of ML in an accessible way.
+*   [ML-From-Scratch (⭐23k)](https://github.com/eriklindernoren/ML-From-Scratch) - Implementations of Machine Learning models from scratch in Python with a focus on transparency. Aims to showcase the nuts and bolts of ML in an accessible way.
 
 ## [2. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
@@ -26,7 +26,6 @@
 *   [Code Climate](https://codeclimate.com/) - Automated code review & health analysis.
 *   [codebeat](https://codebeat.co/) - Automated code review for mobile and web.
 *   [CodeFactor](https://www.codefactor.io/) - Automated static analysis for C#, Java, CSS, JS, Ruby, Go and Python source code.
-*   [Ebert](https://ebertapp.io/) - Continuous static analysis.
 *   [Hound](https://houndci.com/) - Source code style review.
 *   [PullApprove](https://about.pullapprove.com/) - Approve GitHub pull request through code review.
 *   [Reviewable](https://reviewable.io/) - Automated GitHub code reviews.
@@ -101,7 +100,7 @@
 
 ### Testing / Scala
 
-*   [Goreplay (⭐17k)](https://github.com/buger/goreplay) - A tool for capturing and replaying live HTTP traffic into a test environment.
+*   [Goreplay (⭐18k)](https://github.com/buger/goreplay) - A tool for capturing and replaying live HTTP traffic into a test environment.
 
 ## [4. Awesome Eta](/content/sfischer13/awesome-eta/README.md)
 

@@ -30,7 +30,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bats (⭐4k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System
+*   [bats (⭐4.3k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 
 ## [5. Awesome Eta](/content/sfischer13/awesome-eta/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Libraries / Parsing
 
-*   [lalrpop/lalrpop (⭐2.7k)](https://github.com/lalrpop/lalrpop) — LR(1) parser generator for Rust
+*   [lalrpop/lalrpop (⭐2.8k)](https://github.com/lalrpop/lalrpop) — LR(1) parser generator for Rust
 
 ## [7. Awesome Research](/content/emptymalei/awesome-research/README.md)
 

@@ -35,18 +35,17 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [Bash Hackers Wiki](https://wiki.bash-hackers.org/)
 *   [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
 
 ## [6. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
-### Realtime
+### Datasets / Realtime
 
-*   [Twitter Realtime](https://developer.twitter.com/en/docs/tweets/filter-realtime/overview) The Streaming APIs give developers low latency access to Twitter’s global stream of Tweet data.
+*   [Twitter Realtime](https://developer.twitter.com/en/docs/tweets/filter-realtime/overview) - The Streaming APIs give developers low latency access to Twitter's global stream of Tweet data.
 
-### Data Dumps
+### Datasets / Data Dumps
 
-*   [GitHub Archive](https://www.gharchive.org/) GitHub's public timeline since 2011, updated every hour
+*   [GitHub Archive](https://www.gharchive.org/) - GitHub's public timeline since 2011, updated every hour.
 
 ## [7. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 

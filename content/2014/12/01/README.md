@@ -10,23 +10,23 @@
 
 ### HTML Widgets
 
-*   [dygraphs (⭐345)](https://github.com/rstudio/dygraphs) - Charting time-series data in R.
+*   [dygraphs (⭐361)](https://github.com/rstudio/dygraphs) - Charting time-series data in R.
 
 ## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line apps
 
-*   [browser-run (⭐430)](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
+*   [browser-run (⭐433)](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Continuous Integration
 
-*   [JoliCi (⭐660)](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
+*   [JoliCi (⭐656)](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
 
 ### Table of Contents / Debugging and Profiling
 
-*   [Tracy (⭐1.6k)](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
+*   [Tracy (⭐1.7k)](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
 
 ### Table of Contents / API
 

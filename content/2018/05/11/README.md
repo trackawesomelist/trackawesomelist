@@ -36,11 +36,11 @@
 
 ### Cloud Infrastructure and Management
 
-*   [Kazan (⭐136)](https://github.com/obmarg/kazan) - Kubernetes client for Elixir, generated from the k8s open API specifications.
+*   [Kazan (⭐137)](https://github.com/obmarg/kazan) - Kubernetes client for Elixir, generated from the k8s open API specifications.
 
 ### Date and Time
 
-*   [cocktail (⭐202)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
+*   [cocktail (⭐209)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
 
 ### Examples and funny stuff
 
@@ -48,7 +48,7 @@
 
 ### Framework Components
 
-*   [plug\_canonical\_host (⭐35)](https://github.com/remiprev/plug_canonical_host) - Plug to ensure all requests are served from a single canonical host.
+*   [plug\_canonical\_host (⭐37)](https://github.com/remiprev/plug_canonical_host) - Plug to ensure all requests are served from a single canonical host.
 
 ### HTML
 
@@ -60,7 +60,7 @@
 
 ### Security
 
-*   [pwned (⭐21)](https://github.com/thiamsantos/pwned) - Check if your password has been pwned.
+*   [pwned (⭐22)](https://github.com/thiamsantos/pwned) - Check if your password has been pwned.
 
 ### Testing
 
@@ -68,7 +68,7 @@
 
 ### Third Party APIs
 
-*   [shopify (⭐99)](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
+*   [shopify (⭐101)](https://github.com/nsweeting/shopify) - Easily access the Shopify API.
 
 ### Translations and Internationalizations
 
@@ -194,7 +194,7 @@
 
 ### Contents / Tools
 
-*   [MIDI to PICO-8 (⭐59)](https://github.com/andmatand/midi-to-pico8) - A tool to convert MIDI files to PICO-8 music.
+*   [MIDI to PICO-8 (⭐60)](https://github.com/andmatand/midi-to-pico8) - A tool to convert MIDI files to PICO-8 music.
 
 ## [9. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
@@ -204,11 +204,11 @@
 
 ### Bug bounty / Other
 
-*   [Awesome bug bounty resources by EdOverflow (⭐5.2k)](https://github.com/EdOverflow/bugbounty-cheatsheet)
+*   [Awesome bug bounty resources by EdOverflow (⭐5.4k)](https://github.com/EdOverflow/bugbounty-cheatsheet)
 
 ### General / Other
 
-*   [Movies For Hackers (⭐9.8k)](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
+*   [Movies For Hackers (⭐10k)](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
 
 ---
 

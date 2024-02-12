@@ -10,7 +10,7 @@
 
 ### Structural Migrations
 
-*   [Joplin (⭐308)](https://github.com/juxt/joplin)
+*   [Joplin (⭐312)](https://github.com/juxt/joplin)
 
 ---
 

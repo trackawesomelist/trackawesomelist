@@ -58,13 +58,13 @@
 
 ### HTML Builders
 
-*   [Water (⭐27)](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
+*   [Water (⭐26)](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
 
 ## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### UI Testing
 
-*   [AutoMate (⭐278)](https://github.com/PGSSoft/AutoMate) - XCTest extensions for writing UI automation tests.
+*   [AutoMate (⭐280)](https://github.com/PGSSoft/AutoMate) - XCTest extensions for writing UI automation tests.
 
 ## [10. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Build Automation
 
-*   [FlubuCore (⭐879)](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+*   [FlubuCore (⭐890)](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 
 ### CLI
 
@@ -97,8 +97,8 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [IronScheme (⭐354)](https://github.com/IronScheme/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
-*   [VisualFSharp (⭐3.6k)](https://github.com/dotnet/fsharp) - The Visual F# compiler and tools
+*   [IronScheme (⭐360)](https://github.com/IronScheme/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
+*   [VisualFSharp (⭐3.7k)](https://github.com/dotnet/fsharp) - The Visual F# compiler and tools
 
 ### Database
 
@@ -106,7 +106,7 @@
 
 ### Documentation
 
-*   [SourceBrowser (⭐987)](https://github.com/KirillOsenkov/SourceBrowser) - Source browser website generator that powers <https://referencesource.microsoft.com>
+*   [SourceBrowser (⭐1k)](https://github.com/KirillOsenkov/SourceBrowser) - Source browser website generator that powers <https://referencesource.microsoft.com>
 
 ### E-Commerce and Payments
 

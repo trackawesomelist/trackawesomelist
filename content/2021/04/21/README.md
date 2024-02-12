@@ -28,7 +28,7 @@
 
 ### Utils / Other Tools
 
-*   [OpenTelemetry FastAPI Instrumentation (⭐481)](https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-fastapi) - Library provides automatic and manual instrumentation of FastAPI web frameworks, instrumenting http requests served by applications utilizing the framework.
+*   [OpenTelemetry FastAPI Instrumentation (⭐530)](https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-fastapi) - Library provides automatic and manual instrumentation of FastAPI web frameworks, instrumenting http requests served by applications utilizing the framework.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Python / Visualization
 
-*   [finvizfinance (⭐349)](https://github.com/lit26/finvizfinance) - Finviz analysis python library.
+*   [finvizfinance (⭐379)](https://github.com/lit26/finvizfinance) - Finviz analysis python library.
 
 ### Golang / Data Visualization
 
@@ -72,13 +72,13 @@
 
 ### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools
 
-*   [Prisma ERD Visualizer (⭐120)](https://github.com/skn0tt/prisma-erd)
-*   [prisma-uml (⭐92)](https://github.com/emyann/prisma-uml)
-*   [DBML Generator (⭐449)](https://github.com/notiz-dev/prisma-dbml-generator)
+*   [Prisma ERD Visualizer (⭐211)](https://github.com/skn0tt/prisma-erd)
+*   [prisma-uml (⭐111)](https://github.com/emyann/prisma-uml)
+*   [DBML Generator (⭐607)](https://github.com/notiz-dev/prisma-dbml-generator)
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [Calendso (⭐18k)](https://github.com/calendso/calendso)
+*   [Calendso (⭐27k)](https://github.com/calendso/calendso)
 
 ## [10. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Motion / Stepper
 
-*   [ticlib (⭐13)](https://github.com/jphalip/ticlib) - Driver for Pololu Tic stepper motor controllers.
+*   [ticlib (⭐16)](https://github.com/jphalip/ticlib) - Driver for Pololu Tic stepper motor controllers.
 
 ## [13. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

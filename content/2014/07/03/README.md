@@ -14,7 +14,7 @@
 
 ### Text and Numbers
 
-*   [uuid (⭐349)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
+*   [uuid (⭐352)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 
 ### Third Party APIs
 
@@ -115,7 +115,7 @@
 
 *   [Bower (⭐15k)](https://github.com/bower/bower) - A package manager for the web.
 *   [jam (⭐1.5k)](https://github.com/caolan/jam) - A package manager using a browser-focused and RequireJS compatible repository.
-*   [jspm (⭐3.7k)](https://github.com/jspm/jspm-cli) - Frictionless browser package management.
+*   [jspm (⭐3.8k)](https://github.com/jspm/jspm-cli) - Frictionless browser package management.
 *   [Ender (⭐1.8k)](https://github.com/ender-js/Ender) - The no-library library.
 *   [volo (⭐1.4k)](https://github.com/volojs/volo) - Create front end projects from templates, add dependencies, and automate the resulting projects.
 

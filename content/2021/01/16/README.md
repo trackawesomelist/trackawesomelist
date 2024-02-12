@@ -16,9 +16,9 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Code Snapshot (⭐49)](https://github.com/fenix-hub/godot-engine.code-snapshot) - A plugin which lets you take beautified screenshots of your code within the editor.
-*   [Dialogic (⭐2.5k)](https://github.com/coppolaemilio/dialogic) - Create dialogs, characters and scenes to display conversations.
-*   [Scatter (⭐1.4k)](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.
+*   [Code Snapshot (⭐54)](https://github.com/fenix-hub/godot-engine.code-snapshot) - A plugin which lets you take beautified screenshots of your code within the editor.
+*   [Dialogic (⭐2.9k)](https://github.com/coppolaemilio/dialogic) - Create dialogs, characters and scenes to display conversations.
+*   [Scatter (⭐1.7k)](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.
 
 ## [3. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -30,10 +30,6 @@
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
-### Tutorials / Other Tools
-
-*   [Implementing FastAPI Services – Abstraction and Separation of Concerns](https://camillovisini.com/article/abstracting-fastapi-services/) - FastAPI application and service structure for a more maintainable codebase.
-
 ### Open Source Projects / Other Tools
 
 *   [Coronavirus-tg-api (⭐13)](https://github.com/egbakou/coronavirus-tg-api) - API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak.
@@ -42,7 +38,7 @@
 
 ### R / Time Series
 
-*   [matrixprofile (⭐332)](https://github.com/matrix-profile-foundation/matrixprofile) - Time series data mining library built on top of the novel Matrix Profile data structure and algorithms.
+*   [matrixprofile (⭐349)](https://github.com/matrix-profile-foundation/matrixprofile) - Time series data mining library built on top of the novel Matrix Profile data structure and algorithms.
 
 ## [6. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 

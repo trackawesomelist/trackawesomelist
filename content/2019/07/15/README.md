@@ -16,7 +16,7 @@
 
 ### Runtime / Playground
 
-*   [typescript-is (⭐944)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
+*   [typescript-is (⭐946)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -79,7 +79,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Misc
 
-*   [monads (⭐46)](https://github.com/alex-lairan/monads) - Monad implementation
+*   [monads (⭐47)](https://github.com/alex-lairan/monads) - Monad implementation
 
 ### Testing
 
@@ -87,7 +87,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Third-party APIs
 
-*   [kube-client.cr (⭐22)](https://github.com/spoved/kube-client.cr) - Kubernetes API Client
+*   [kube-client.cr (⭐21)](https://github.com/spoved/kube-client.cr) - Kubernetes API Client
 
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -109,7 +109,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### Software / Content Management Systems (CMS)
 
-*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐297)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
+*   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐311)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
 
 ## [10. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -164,7 +164,6 @@ Webpage: <http://www.cafevitoria.com/>
 
 *   [styled-components (⭐40k)](https://github.com/styled-components/styled-components) - Visual primitives for the component age
 *   [emotion (⭐17k)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
-*   [jss (⭐7k)](https://github.com/cssinjs/jss) - authoring tool for CSS which uses JavaScript as a host language
 
 ### React Testing
 
@@ -172,14 +171,14 @@ Webpage: <http://www.cafevitoria.com/>
 
 ### React Awesome Components
 
-*   [react-datepicker (⭐7.6k)](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
-*   [react-loading-skeleton (⭐3.6k)](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
+*   [react-datepicker (⭐7.7k)](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
+*   [react-loading-skeleton (⭐3.7k)](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
 
 ### React Components Sandboxes
 
-*   [storybook (⭐81k)](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
+*   [storybook (⭐82k)](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
 *   [react-styleguidist (⭐11k)](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
-*   [react-cosmos (⭐7.9k)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
+*   [react-cosmos (⭐8k)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 
 ---
 

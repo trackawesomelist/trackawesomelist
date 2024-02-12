@@ -17,13 +17,13 @@
 
 ### Debug
 
-*   [Prophiler (⭐444)](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
+*   [Prophiler (⭐443)](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
 
 ## [3. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### data
 
-*   [whereonearth-airport (⭐13)](https://github.com/straup/whereonearth-airport): outlines of every airport
+*   [whereonearth-airport (⭐14)](https://github.com/straup/whereonearth-airport): outlines of every airport
 *   [whereonearth-building (⭐9)](https://github.com/straup/whereonearth-building/): building outlines
 *   [whereonearth repos](https://github.com/search?q=user%3Astraup+whereonearth): other features output from GeoPlanet by Aaron Straup Cope
 *   [tgn-geojson (⭐15)](https://github.com/straup/tgn-geojson): The Getty Thesaurus of Geographic Names (TGN) As GeoJSON.
@@ -38,7 +38,7 @@
 
 ### Caching
 
-*   [locker (⭐152)](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
+*   [locker (⭐153)](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
 
 ### Command Line Applications
 
@@ -62,13 +62,13 @@
 
 ### Testing
 
-*   [proper (⭐860)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
+*   [proper (⭐873)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
 
 ### Third Party APIs
 
 *   [reddhl (⭐4)](https://github.com/MonkeyIsNull/reddhl) - An headline and link puller for Reddit and its various subreddits.
 *   [telephonist (⭐40)](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
-*   [tentacat (⭐429)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
+*   [tentacat (⭐435)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
 
 ### Utilities
 

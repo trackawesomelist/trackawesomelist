@@ -32,7 +32,7 @@
 
 ### Table of Contents / Caching and Locking
 
-*   [Metaphore (⭐102)](https://github.com/sobstel/metaphore) - Cache slam defense using a semaphore to prevent dogpile effect.
+*   [Metaphore (⭐101)](https://github.com/sobstel/metaphore) - Cache slam defense using a semaphore to prevent dogpile effect.
 
 ## [5. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 

@@ -49,7 +49,7 @@
 
 ### Debugging
 
-*   [debugger (⭐262)](https://github.com/razum2um/clj-debugger)
+*   [debugger (⭐263)](https://github.com/razum2um/clj-debugger)
 
 ## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

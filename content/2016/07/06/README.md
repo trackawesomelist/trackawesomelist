@@ -129,7 +129,7 @@
 
 ### Python / Git
 
-*   [bcrypt (⭐1k)](https://github.com/pyca/bcrypt) - Modern password hashing for your software and your servers.
+*   [bcrypt (⭐1.1k)](https://github.com/pyca/bcrypt) - Modern password hashing for your software and your servers.
 
 ## [10. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

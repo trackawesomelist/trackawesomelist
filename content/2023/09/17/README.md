@@ -10,19 +10,19 @@
 
 ### Utility / Diagnostics
 
-*   [LintaoAmons/scratch.nvim (⭐107)](https://github.com/LintaoAmons/scratch.nvim) - Create and manage scratch files.
+*   [LintaoAmons/scratch.nvim (⭐165)](https://github.com/LintaoAmons/scratch.nvim) - Create and manage scratch files.
 
 ## [2. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Utility
 
-*   [objc (⭐2)](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
+*   [objc (⭐6)](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
 
 ## [3. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### Strategy
 
-*   [GLSMAC (⭐207)](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier's Alpha Centauri ( + Alien Crossfire ).
+*   [GLSMAC (⭐285)](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier's Alpha Centauri ( + Alien Crossfire ).
 
 ## [4. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 

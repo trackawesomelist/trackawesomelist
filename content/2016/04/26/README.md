@@ -39,7 +39,7 @@
 
 ### Images / Barcode
 
-*   [SwiftyGif (⭐1.8k)](https://github.com/kirualex/SwiftyGif) - High performance GIF engine.
+*   [SwiftyGif (⭐1.9k)](https://github.com/kirualex/SwiftyGif) - High performance GIF engine.
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Examples and funny stuff
 
-*   [elixir\_koans (⭐2k)](https://github.com/elixirkoans/elixir-koans) - [Elixir koans](http://elixirkoans.io/) is a fun, easy way to get started with the elixir programming language.
+*   [elixir\_koans (⭐2.1k)](https://github.com/elixirkoans/elixir-koans) - [Elixir koans](http://elixirkoans.io/) is a fun, easy way to get started with the elixir programming language.
 
 ### ORM and Datamapping
 

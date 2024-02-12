@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 23, 2017
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -27,13 +27,13 @@
 
 ### Official Documentation Translations
 
-*   [crystal-dash-docset (⭐15)](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) docset generator
+*   [crystal-dash-docset (⭐16)](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) docset generator
 
 ## [3. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Hybrid Radio
 
-*   [RadioVIS Demo (⭐26)](https://github.com/bbc/RadioVisDemo) - RadioVIS client application in Python.
+*   [RadioVIS Demo (⭐27)](https://github.com/bbc/RadioVisDemo) - RadioVIS client application in Python.
 
 ## [4. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
@@ -67,7 +67,7 @@
 ### Contents / Boilerplates
 
 *   [Preact Offline Starter (⭐384)](https://github.com/lukeed/preact-starter) - Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact.
-*   [TypeScript Preact Starter (⭐50)](https://github.com/nickytonline/ts-preact-starter) - Barebones starter project for Preact with TypeScript.
+*   [TypeScript Preact Starter (⭐51)](https://github.com/nickytonline/ts-preact-starter) - Barebones starter project for Preact with TypeScript.
 *   [Preact Redux SSR Example (⭐31)](https://github.com/csbun/preact-redux-ssr-example) - Server-side Rendering with Redux Example.
 
 ### Contents / Components
@@ -77,16 +77,10 @@
 
 ### Contents / Example Apps
 
-*   [Preact HN (⭐300)](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
+*   [Preact HN (⭐299)](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
 *   [TodoMVC (⭐102)](https://github.com/developit/preact-todomvc) - TodoMVC done in Preact. Under 6kb and fast.
 
-## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### HTML and CSS / Spock Framework
-
-*   [Understanding Flexbox: Everything you need to know](https://ohansemmanuel.github.io/uf_download.html) - Ohans Emmanuel
-
-## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Online
 
@@ -100,7 +94,7 @@
 
 *   [Mathematics of Animation](https://winkervsbecks.github.io/mathematics-of-animation/#/) - Slides about the mathematics of animation ([repo (⭐34)](https://github.com/winkerVSbecks/mathematics-of-animation)).
 
-## [9. Awesome](/content/Awesome-Windows/Awesome/README.md)
+## [8. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
 ### Utilities
 
@@ -110,23 +104,23 @@
 
 *   [IIS Crypto](https://www.nartac.com/Products/IISCrypto) - A utility for configuring encryption protocols, cyphers, hashing methods, and key exchanges for Windows components (eg TLS/AES/SHA for Remote Desktop)
 
-## [10. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+## [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
-### Other useful repositories
+### Other Useful Repositories
 
-- Repository: [Payloads (⭐3.1k)](https://github.com/foospidy/payloads)
+- Repository: [Payloads (⭐3.4k)](https://github.com/foospidy/payloads)
 
   Description: Collection of web attack payloads
 
 
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Web Framework
 
 *   [redux.NET (⭐704)](https://github.com/GuillaumeSalles/redux.NET) - Predictable state container for .NET apps. Inspired by [https://github.com/reactjs/redux (⭐60k)](https://github.com/reactjs/redux).
 
-## [12. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [11. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Open-source sites / Lists
 

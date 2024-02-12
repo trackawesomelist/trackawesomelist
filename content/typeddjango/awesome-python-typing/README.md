@@ -229,7 +229,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 ### Stub packages
 
 *   [botostubs (⭐95)](https://github.com/jeshan/botostubs) - Gives you code assistance for any boto3 API in any IDE.
-*   [data-science-types (⭐198)](https://github.com/predictive-analytics-lab/data-science-types) - Stubs for [numpy (⭐25k)](http://github.com/numpy/numpy), [pandas (⭐40k)](https://github.com/pandas-dev/pandas), and [matplotlib (⭐18k)](https://github.com/matplotlib/matplotlib).
 *   [PyQt5-stubs (⭐66)](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
 *   [sqlalchemy-stubs (⭐552)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐8k)](https://github.com/sqlalchemy/sqlalchemy).
 

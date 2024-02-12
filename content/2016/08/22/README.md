@@ -16,7 +16,7 @@
 
 ### Date / Runner
 
-*   [fecha (⭐2k)](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (\~2KB). Meant to replace parsing and formatting functionality of moment.js.
+*   [fecha (⭐2.1k)](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (\~2KB). Meant to replace parsing and formatting functionality of moment.js.
 
 ## [3. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

@@ -38,7 +38,7 @@
 
 ### Corpora / Corpora
 
-*   [Opinion Mining - User reviews on Cars, Hotels, Washing machines, Books, Cell phones, Music..](https://www.sfu.ca/\~mtaboada/SFU_Review_Corpus.html)
+*   [Opinion Mining - User reviews on Cars, Hotels, Washing machines, Books, Cell phones, Music..](https://www.sfu.ca/~mtaboada/SFU_Review_Corpus.html)
 
 ## [6. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
@@ -62,7 +62,7 @@
 
 ### CSharp / Data Visualization
 
-*   [QuantConnect (⭐8k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
+*   [QuantConnect (⭐8.4k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
 
 ---
 

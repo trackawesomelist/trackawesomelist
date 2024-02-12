@@ -8,10 +8,10 @@
 
 ## [1. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
-### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
+### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [한국어 (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)
-*   [Português do Europe (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
+*   [한국어 (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)
+*   [Português do Europe (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
 
 ## [2. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
@@ -87,7 +87,7 @@ Webpage: <https://aws.amazon.com/start-ups/loft/ny-loft/>
 
 ### Apps / Misc
 
-*   [Wagtail App Pages (⭐28)](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views.
+*   [Wagtail App Pages (⭐29)](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views.
 *   [Wagtail Import Export (⭐31)](https://github.com/torchbox/wagtail-import-export) - Import/Export pages between Wagtail instances.
 
 ---

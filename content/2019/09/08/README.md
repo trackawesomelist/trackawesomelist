@@ -16,7 +16,7 @@
 
 ### Testing / Fixtures
 
-*   [jFairy (⭐728)](https://github.com/Devskiller/jfairy) - Fake data generator.
+*   [jFairy (⭐735)](https://github.com/Devskiller/jfairy) - Fake data generator.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

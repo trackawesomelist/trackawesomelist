@@ -22,7 +22,7 @@
 
 ### HTML/XML Parsing
 
-*   [myhtml (⭐151)](https://github.com/kostya/myhtml) - Fast HTML5 Parser that includes CSS selectors
+*   [myhtml (⭐152)](https://github.com/kostya/myhtml) - Fast HTML5 Parser that includes CSS selectors
 
 ## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

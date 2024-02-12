@@ -166,7 +166,7 @@ Notes:
 
 ### Misc
 
-*   [SystemWrapper (⭐169)](https://github.com/jozefizso/SystemWrapper) - SystemWrapper is .NET library for easier testing of system APIs.
+*   [SystemWrapper (⭐170)](https://github.com/jozefizso/SystemWrapper) - SystemWrapper is .NET library for easier testing of system APIs.
 
 ## [18. Awesome Ava](/content/avajs/awesome-ava/README.md)
 
@@ -198,7 +198,7 @@ Notes:
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [OSX Security Awesome (⭐681)](https://github.com/kai5263499/osx-security-awesome) - A collection of OSX and iOS security resources
+*   [OSX Security Awesome (⭐686)](https://github.com/kai5263499/osx-security-awesome) - A collection of OSX and iOS security resources
 
 ### Usability / Development
 

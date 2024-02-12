@@ -86,7 +86,7 @@
 
 ## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [Solana (⭐11k)](https://github.com/solana-labs/solana) — Incredibly fast, highly scalable blockchain using Proof-of-History.
 

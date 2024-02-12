@@ -508,7 +508,7 @@
 
 ### Table of Contents / Code Analysis
 
-*   [Better Reflection (⭐1.1k)](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
+*   [Better Reflection (⭐1.2k)](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
 
 ### Configuration / PHP Videos
 
@@ -516,13 +516,13 @@
 
 ### Configuration / PHP Podcasts
 
-*   [Voices of the ElePHPant](https://voicesoftheelephpant.com/) Interviews with the people that make the PHP community special.
+*   [Voices of the ElePHPant](https://voicesoftheelephpant.com/) - Interviews with the people who make the PHP community special.
 
 ## [14. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Extensions / General Purpose
 
-*   [Sync Settings (⭐279)](https://github.com/mfuentesg/SyncSettings) - The cross-platform solution to keep Sublime Text configuration synchronized
+*   [Sync Settings (⭐285)](https://github.com/mfuentesg/SyncSettings) - The cross-platform solution to keep Sublime Text configuration synchronized
 
 ## [15. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
@@ -738,11 +738,11 @@
 
 ### Device
 
-*   [Luminous (⭐331)](https://github.com/andrealufino/Luminous) - Get everything you need to know about the device.
+*   [Luminous (⭐332)](https://github.com/andrealufino/Luminous) - Get everything you need to know about the device.
 
 ### Text / Barcode
 
-*   [Notepad (⭐850)](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
+*   [Notepad (⭐851)](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
 
 ### Calendar / Barcode
 
@@ -754,7 +754,7 @@
 
 *   [hash\_ring\_ex (⭐23)](https://github.com/reset/hash-ring-ex) - A consistent hash-ring implementation for Elixir.
 *   [mmath (⭐4)](https://github.com/dalmatinerdb/mmath) - A library for performing math on number 'arrays' in binaries.
-*   [zipper\_tree (⭐18)](https://github.com/Dkendal/zipper_tree) - Variadic arity tree with a zipper for Elixir.
+*   [zipper\_tree (⭐19)](https://github.com/Dkendal/zipper_tree) - Variadic arity tree with a zipper for Elixir.
 
 ### Authentication
 
@@ -762,7 +762,7 @@
 
 ### Authorization
 
-*   [bodyguard (⭐701)](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
+*   [bodyguard (⭐705)](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
 
 ### Caching
 
@@ -770,19 +770,19 @@
 
 ### Framework Components
 
-*   [commanded (⭐1.7k)](https://github.com/slashdotdash/commanded) - Command handling middleware for Command Query Responsibility Segregation (CQRS) applications.
+*   [commanded (⭐1.8k)](https://github.com/slashdotdash/commanded) - Command handling middleware for Command Query Responsibility Segregation (CQRS) applications.
 
 ### Geolocation
 
-*   [geohax (⭐10)](https://github.com/evuez/geohax) - Geohash encoding and decoding with neighbors finder.
+*   [geohax (⭐11)](https://github.com/evuez/geohax) - Geohash encoding and decoding with neighbors finder.
 
 ### Macros
 
-*   [eventsourced (⭐101)](https://github.com/slashdotdash/eventsourced) - Build functional, event-sourced domain models.
+*   [eventsourced (⭐102)](https://github.com/slashdotdash/eventsourced) - Build functional, event-sourced domain models.
 
 ### ORM and Datamapping
 
-*   [arbor (⭐234)](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
+*   [arbor (⭐235)](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
 *   [ex\_sider (⭐6)](https://github.com/ephe-meral/ex_sider) - Elixir Map/List/Set interfaces for Redis data structures (uses Redix, but that is configurable).
 
 ### Statistics
@@ -796,8 +796,8 @@
 
 ### Text and Numbers
 
-*   [abacus (⭐78)](https://github.com/narrowtux/abacus) - Evaluate math terms in Elixir.
-*   [brcpfcnpj (⭐65)](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validation for Brazilian documents (CPF/CNPJ).
+*   [abacus (⭐81)](https://github.com/narrowtux/abacus) - Evaluate math terms in Elixir.
+*   [brcpfcnpj (⭐66)](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validation for Brazilian documents (CPF/CNPJ).
 
 ## [33. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -851,7 +851,7 @@
 
 ### For Electron / Other
 
-*   [electron-about-window (⭐405)](https://github.com/rhysd/electron-about-window) - 'About This App' window.
+*   [electron-about-window (⭐407)](https://github.com/rhysd/electron-about-window) - 'About This App' window.
 
 ## [36. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 

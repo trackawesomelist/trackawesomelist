@@ -10,23 +10,23 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-splash (⭐129)](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for vue.js 💦
+*   [vue-splash (⭐130)](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for vue.js 💦
 
 ## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
-*   [spark.fish (⭐296)](https://github.com/jorgebucaran/spark.fish) - ▁▂▃▅ Sparkline Generator
+*   [spark.fish (⭐313)](https://github.com/jorgebucaran/spark.fish) - ▁▂▃▅ Sparkline Generator
 
 ### Command-Line Productivity / Directory Navigation
 
-*   [zoxide (⭐11k)](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem, written in Rust
+*   [zoxide (⭐12k)](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem, written in Rust
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Password Managers
 
-*   [PassWall (⭐724)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Docker`
+*   [PassWall (⭐738)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Docker`
 
 ## [4. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 
@@ -51,7 +51,7 @@
 
 ### HLS / Talks Presentations Podcasts
 
-*   [carlanton/m3u8-parser (⭐147)](https://github.com/carlanton/m3u8-parser)  - HLS compliant m3u8 parser for Java.
+*   [carlanton/m3u8-parser (⭐162)](https://github.com/carlanton/m3u8-parser)  - HLS compliant m3u8 parser for Java.
 
 ## [6. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -202,7 +202,7 @@
 
 ### Animations / Other
 
-*   [particles-bg (⭐610)](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
+*   [particles-bg (⭐621)](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
 
 ---
 

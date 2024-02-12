@@ -14,7 +14,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [cmatrix (⭐3.5k)](https://github.com/abishekvashok/cmatrix/) - CMatrix is based on the screensaver from The Matrix website. It shows text flying in and out in a terminal like as seen in "The Matrix" movie. It can scroll lines all at the same rate or asynchronously and at a user-defined speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/abishekvashok/cmatrix/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [cmatrix (⭐3.6k)](https://github.com/abishekvashok/cmatrix/) - CMatrix is based on the screensaver from The Matrix website. It shows text flying in and out in a terminal like as seen in "The Matrix" movie. It can scroll lines all at the same rate or asynchronously and at a user-defined speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/abishekvashok/cmatrix/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [2. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
@@ -62,22 +62,22 @@
 
 ### File Management
 
-*   [Bat (⭐40k)](https://github.com/sharkdp/bat) - The fancy `cat` with syntax highlighting and effortless fuzzy searching to save development time.
-*   [Clifm (⭐881)](https://github.com/leo-arch/clifm) - The terminal is always in your reach when managing your files.
-*   [Clipboard (⭐2.9k)](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere, anytime, all from the terminal.
-*   [fzf (⭐50k)](https://github.com/junegunn/fzf) - Fuzzy find anything in your directories.
+*   [Bat (⭐45k)](https://github.com/sharkdp/bat) - The fancy `cat` with syntax highlighting and effortless fuzzy searching to save development time.
+*   [Clifm (⭐1.1k)](https://github.com/leo-arch/clifm) - The terminal is always in your reach when managing your files.
+*   [Clipboard (⭐4.2k)](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere, anytime, all from the terminal.
+*   [fzf (⭐57k)](https://github.com/junegunn/fzf) - Fuzzy find anything in your directories.
 
 ## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Clients
 
-*   [Keycloak Mock Library (⭐107)](https://github.com/TNG/keycloak-mock)
+*   [Keycloak Mock Library (⭐110)](https://github.com/TNG/keycloak-mock)
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Third-party APIs
 
-*   [go-openai (⭐6.5k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
+*   [go-openai (⭐7.7k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
 
 ## [8. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -137,11 +137,11 @@
 
 ### Templates / Vue 3
 
-*   [vite-vue-lib-template (⭐8)](https://github.com/ehsan-shv/vite-vue-lib-template) - Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript.
+*   [vite-vue-lib-template (⭐12)](https://github.com/ehsan-shv/vite-vue-lib-template) - Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript.
 
 ### Solid / Integrations
 
-*   [vite-plugin-solid-svg (⭐49)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
+*   [vite-plugin-solid-svg (⭐61)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
 
 ## [12. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 

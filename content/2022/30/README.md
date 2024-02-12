@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 25 - Jul 31, 2022
 
-59 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,11 +20,6 @@
 ### Converters and Filters
 
 *   [Quarto](https://quarto.org) - Compile R Markdown, and Jupyter Notebooks to PDFs, Slides and Websites. Supports R, Python, and Julia :bookmark: :link:.
-
-### Tutorials / Books
-
-*   [3 frameworks into one — Write your next paper with R Studio!](https://www.ds-econ.com/write-your-whole-paper-in-r-it-is-better/) - Article provides an overview to a workflow that combines R Markdown (bookdown), Zotero (literature management), and Notion (note taking on research papers) to write academic papers.
-*   [Heads up! Quarto is here to stay. Immediately combine R & Python in your next document](https://www.ds-econ.com/quarto/) - Summary of the capabilities of Quarto, why to use it, and how it compares to R Markdown. Also contains tips for M1 Mac users on how to fix a common problem with reticulate.
 
 ## [3. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
@@ -82,56 +77,55 @@
 
 ### Applications / Image processing
 
-*   [shssoichiro/oxipng (⭐2.4k)](https://github.com/shssoichiro/oxipng) \[[oxipng](https://crates.io/crates/oxipng)] — Multithreaded PNG optimizer written in Rust. [![Build Status](https://github.com/shssoichiro/oxipng/workflows/oxipng/badge.svg)](https://github.com/shssoichiro/oxipng/actions?query=branch%3Amaster) [![Version](https://img.shields.io/crates/v/oxipng.svg)](https://crates.io/crates/oxipng)
+*   [shssoichiro/oxipng (⭐2.5k)](https://github.com/shssoichiro/oxipng) \[[oxipng](https://crates.io/crates/oxipng)] — Multithreaded PNG optimizer written in Rust. [![Build Status](https://github.com/shssoichiro/oxipng/workflows/oxipng/badge.svg)](https://github.com/shssoichiro/oxipng/actions?query=branch%3Amaster) [![Version](https://img.shields.io/crates/v/oxipng.svg)](https://crates.io/crates/oxipng)
 
 ### Development tools / Testing
 
 *   Mutation Testing
-    *   [cargo-mutants (⭐274)](https://github.com/sourcefrog/cargo-mutants) \[[cargo-mutants](https://crates.io/crates/cargo-mutants)] - Finds inadequately tested code by injecting mutations, no source changes required. [![build badge](https://github.com/sourcefrog/cargo-mutants/actions/workflows/tests.yml/badge.svg?branch=main\&event=push)](https://github.com/sourcefrog/cargo-mutants/actions/workflows/tests.yml?query=branch%3Amain)
+    *   [cargo-mutants (⭐344)](https://github.com/sourcefrog/cargo-mutants) \[[cargo-mutants](https://crates.io/crates/cargo-mutants)] - Finds inadequately tested code by injecting mutations, no source changes required. [![build badge](https://github.com/sourcefrog/cargo-mutants/actions/workflows/tests.yml/badge.svg?branch=main\&event=push)](https://github.com/sourcefrog/cargo-mutants/actions/workflows/tests.yml?query=branch%3Amain)
     *   [mutagen (⭐613)](https://github.com/llogiq/mutagen) \[[mutagen](https://crates.io/crates/mutagen)] — A source-level mutation testing framework (nightly only)
 
 ### Libraries / Concurrency
 
 *   [zonyitoo/coio-rs (⭐455)](https://github.com/zonyitoo/coio-rs) – Coroutine I/O for Rust
-*   [crossbeam-rs/crossbeam (⭐6.4k)](https://github.com/crossbeam-rs/crossbeam) – Support for parallelism and low-level concurrency in Rust
-*   [orium/archery (⭐127)](https://github.com/orium/archery) \[[archery](https://crates.io/crates/archery)] — Library to abstract from `Rc`/`Arc` pointer types. [![build badge](https://github.com/orium/archery/workflows/CI/badge.svg)](https://github.com/orium/archery/actions?query=workflow%3ACI)
-*   [Rayon (⭐9.3k)](https://github.com/rayon-rs/rayon) – A data parallelism library for Rust
-*   [rustcc/coroutine-rs (⭐408)](https://github.com/rustcc/coroutine-rs) – Coroutine Library in Rust
+*   [crossbeam-rs/crossbeam (⭐6.7k)](https://github.com/crossbeam-rs/crossbeam) – Support for parallelism and low-level concurrency in Rust
+*   [orium/archery (⭐133)](https://github.com/orium/archery) \[[archery](https://crates.io/crates/archery)] — Library to abstract from `Rc`/`Arc` pointer types. [![build badge](https://github.com/orium/archery/workflows/CI/badge.svg)](https://github.com/orium/archery/actions?query=workflow%3ACI)
+*   [Rayon (⭐9.8k)](https://github.com/rayon-rs/rayon) – A data parallelism library for Rust
+*   [rustcc/coroutine-rs (⭐412)](https://github.com/rustcc/coroutine-rs) – Coroutine Library in Rust
 
 ### Libraries / Data processing
 
-*   [amv-dev/yata (⭐233)](https://github.com/amv-dev/yata) — high perfomance technical analysis library [![Build Status](https://img.shields.io/github/workflow/status/amv-dev/yata/Rust?branch=master)](https://github.com/amv-dev/yata/actions?query=workflow%3ARust)
-*   [bluss/ndarray (⭐3k)](https://github.com/rust-ndarray/ndarray) — N-dimensional array with array views, multidimensional slicing, and efficient operations
-*   [kernelmachine/utah (⭐140)](https://github.com/kernelmachine/utah) — Dataframe structure and operations in Rust
-*   [pola-rs/polars (⭐21k)](https://github.com/pola-rs/polars) - Fast feature complete DataFrame library ![Build and test](https://github.com/pola-rs/polars/workflows/Build%20and%20test/badge.svg?branch=master)
+*   [amv-dev/yata (⭐265)](https://github.com/amv-dev/yata) — high perfomance technical analysis library [![Build Status](https://img.shields.io/github/workflow/status/amv-dev/yata/Rust?branch=master)](https://github.com/amv-dev/yata/actions?query=workflow%3ARust)
+*   [bluss/ndarray (⭐3.2k)](https://github.com/rust-ndarray/ndarray) — N-dimensional array with array views, multidimensional slicing, and efficient operations
+*   [kernelmachine/utah (⭐141)](https://github.com/kernelmachine/utah) — Dataframe structure and operations in Rust
+*   [pola-rs/polars (⭐24k)](https://github.com/pola-rs/polars) - Fast feature complete DataFrame library ![Build and test](https://github.com/pola-rs/polars/workflows/Build%20and%20test/badge.svg?branch=master)
 *   [weld-project/weld (⭐3k)](https://github.com/weld-project/weld) — High-performance runtime for data analytics applications
 
 ### Libraries / Data streaming
 
-*   [infinyon/fluvio (⭐2k)](https://github.com/infinyon/fluvio) - Programmable data streaming platform [![CI](https://github.com/infinyon/fluvio/workflows/CI/badge.svg?branch=stable)](https://github.com/infinyon/fluvio/actions)
+*   [infinyon/fluvio (⭐2.4k)](https://github.com/infinyon/fluvio) - Programmable data streaming platform [![CI](https://github.com/infinyon/fluvio/workflows/CI/badge.svg?branch=stable)](https://github.com/infinyon/fluvio/actions)
 
 ### Libraries / Data structures
 
-*   [billyevans/tst (⭐22)](https://github.com/billyevans/tst) \[[tst](https://crates.io/crates/tst)] — Ternary search tree collection
+*   [billyevans/tst (⭐23)](https://github.com/billyevans/tst) \[[tst](https://crates.io/crates/tst)] — Ternary search tree collection
 *   [contain-rs](https://github.com/contain-rs) — Extension of Rust's std::collections
-*   [danielpclark/array\_tool (⭐72)](https://github.com/danielpclark/array_tool) — Array helpers for Rust. Some of the most common methods you would use on Arrays made available on Vectors. Polymorphic implementations for handling most of your use cases.
-*   [fizyk20/generic-array (⭐383)](https://github.com/fizyk20/generic-array) – a hack to allow for arrays sized by typenums
-*   [garro95/priority-queue (⭐153)](https://github.com/garro95/priority-queue)\[[priority-queue](https://crates.io/crates/priority-queue)] — A priority queue that implements priority changes.
-*   [mrhooray/kdtree-rs (⭐184)](https://github.com/mrhooray/kdtree-rs) — K-dimensional tree in Rust for fast geospatial indexing and nearest neighbors lookup
+*   [danielpclark/array\_tool (⭐74)](https://github.com/danielpclark/array_tool) — Array helpers for Rust. Some of the most common methods you would use on Arrays made available on Vectors. Polymorphic implementations for handling most of your use cases.
+*   [fizyk20/generic-array (⭐391)](https://github.com/fizyk20/generic-array) – a hack to allow for arrays sized by typenums
+*   [garro95/priority-queue (⭐161)](https://github.com/garro95/priority-queue)\[[priority-queue](https://crates.io/crates/priority-queue)] — A priority queue that implements priority changes.
+*   [mrhooray/kdtree-rs (⭐202)](https://github.com/mrhooray/kdtree-rs) — K-dimensional tree in Rust for fast geospatial indexing and nearest neighbors lookup
 *   [orium/rpds (⭐1.1k)](https://github.com/orium/rpds) \[[rpds](https://crates.io/crates/rpds)] — Persistent data structures in Rust. [![build badge](https://github.com/orium/rpds/workflows/CI/badge.svg)](https://github.com/orium/rpds/actions?query=workflow%3ACI)
-*   [RoaringBitmap/roaring-rs (⭐635)](https://github.com/RoaringBitmap/roaring-rs) – Roaring Bitmaps in Rust
-*   [rust-itertools/itertools (⭐2.3k)](https://github.com/rust-itertools/itertools) —
-*   [tnballo/scapegoat (⭐233)](https://github.com/tnballo/scapegoat) \[[scapegoat](https://crates.io/crates/scapegoat)] — Safe, fallible, stack-only alternative to `BTreeSet` and `BTreeMap`. [![GitHub Actions](https://github.com/tnballo/scapegoat/workflows/test/badge.svg?branch=master)](https://github.com/tnballo/scapegoat/actions)
-*   [xfix/enum-map (⭐76)](https://github.com/xfix/enum-map) \[[enum-map](https://crates.io/crates/enum-map)] — An optimized map implementation for enums using an array to store values.
-*   [yamafaktory/hypergraph (⭐251)](https://github.com/yamafaktory/hypergraph) \[[hypergraph](https://crates.io/crates/hypergraph)] — Hypergraph is a data structure library to generate directed hypergraphs. [![ci](https://github.com/yamafaktory/hypergraph/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/yamafaktory/hypergraph/actions/workflows/ci.yml)
+*   [RoaringBitmap/roaring-rs (⭐664)](https://github.com/RoaringBitmap/roaring-rs) – Roaring Bitmaps in Rust
+*   [rust-itertools/itertools (⭐2.5k)](https://github.com/rust-itertools/itertools) —
+*   [tnballo/scapegoat (⭐236)](https://github.com/tnballo/scapegoat) \[[scapegoat](https://crates.io/crates/scapegoat)] — Safe, fallible, stack-only alternative to `BTreeSet` and `BTreeMap`. [![GitHub Actions](https://github.com/tnballo/scapegoat/workflows/test/badge.svg?branch=master)](https://github.com/tnballo/scapegoat/actions)
+*   [yamafaktory/hypergraph (⭐260)](https://github.com/yamafaktory/hypergraph) \[[hypergraph](https://crates.io/crates/hypergraph)] — Hypergraph is a data structure library to generate directed hypergraphs. [![ci](https://github.com/yamafaktory/hypergraph/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/yamafaktory/hypergraph/actions/workflows/ci.yml)
 
 ### Libraries / Data visualization
 
-*   [djduque/pgfplots (⭐104)](https://github.com/djduque/pgfplots) \[[pgfplots](https://crates.io/crates/pgfplots)] — A Rust library to generate publication-quality figures. [![build](https://github.com/DJDuque/pgfplots/actions/workflows/rust.yml/badge.svg)](https://github.com/DJDuque/pgfplots/actions/workflows/rust.yml)
-*   [igiagkiozis/plotly (⭐849)](https://github.com/igiagkiozis/plotly) — Plotly for Rust.
-*   [milliams/plotlib (⭐447)](https://github.com/milliams/plotlib) —
-*   [plotters (⭐3.2k)](https://github.com/plotters-rs/plotters) — [![build badge](https://github.com/plotters-rs/plotters/workflows/CI/badge.svg)](https://github.com/plotters-rs/plotters/actions)
-*   [saresend/gust (⭐127)](https://github.com/saresend/Gust) —
+*   [djduque/pgfplots (⭐110)](https://github.com/djduque/pgfplots) \[[pgfplots](https://crates.io/crates/pgfplots)] — A Rust library to generate publication-quality figures. [![build](https://github.com/DJDuque/pgfplots/actions/workflows/rust.yml/badge.svg)](https://github.com/DJDuque/pgfplots/actions/workflows/rust.yml)
+*   [igiagkiozis/plotly (⭐910)](https://github.com/igiagkiozis/plotly) — Plotly for Rust.
+*   [milliams/plotlib (⭐457)](https://github.com/milliams/plotlib) —
+*   [plotters (⭐3.4k)](https://github.com/plotters-rs/plotters) — [![build badge](https://github.com/plotters-rs/plotters/workflows/CI/badge.svg)](https://github.com/plotters-rs/plotters/actions)
+*   [saresend/gust (⭐129)](https://github.com/saresend/Gust) —
 
 ## [8. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -148,26 +142,26 @@
 
 ### Websockets / Isomorphic web frameworks
 
-*   [clws (⭐71)](https://github.com/3b/clws) -  websockets server in CL, built on IOlib and libfixposix. No licence specified.
-*   [Hunchensocket (⭐105)](https://github.com/joaotavora/hunchensocket) -  RFC6455 compliant WebSockets for Common Lisp, as an extension to Hunchentoot. [MIT](https://opensource.org/licenses/MIT).
-*   [websocket-driver (⭐96)](https://github.com/fukamachi/websocket-driver) - based on Clack.
+*   [clws (⭐72)](https://github.com/3b/clws) -  websockets server in CL, built on IOlib and libfixposix. No licence specified.
+*   [Hunchensocket (⭐106)](https://github.com/joaotavora/hunchensocket) -  RFC6455 compliant WebSockets for Common Lisp, as an extension to Hunchentoot. [MIT](https://opensource.org/licenses/MIT).
+*   [websocket-driver (⭐99)](https://github.com/fukamachi/websocket-driver) - based on Clack.
 
 ## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Planning Coding Resources / Python
 
-*   [Geemap (⭐2.9k)](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
+*   [Geemap (⭐3.1k)](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
 *   [Geoplot](https://residentmario.github.io/geoplot/) - Geoplot is a high-level Python geospatial plotting library. It is an extension to cartopy and matplotlib which makes mapping easy: like seaborn for geospatial.
-*   [Urbansprawl (⭐68)](https://github.com/lgervasoni/urbansprawl) - The urbansprawl project provides an open source framework for assessing urban sprawl using open data. It uses OpenStreetMap (OSM) data to calculate its sprawling indices, divided in Accessibility, Land use mix, and Dispersion.
+*   [Urbansprawl (⭐72)](https://github.com/lgervasoni/urbansprawl) - The urbansprawl project provides an open source framework for assessing urban sprawl using open data. It uses OpenStreetMap (OSM) data to calculate its sprawling indices, divided in Accessibility, Land use mix, and Dispersion.
 *   [Xarray-spatial](https://xarray-spatial.org/) - Xarray-Spatial implements common raster analysis functions using Numba and provides an easy-to-install, easy-to-extend codebase for raster analysis.
 *   [Momepy](http://docs.momepy.org/en/stable/) - Momepy is a library for quantitative analysis of urban form - urban morphometrics. It is part of PySAL (Python Spatial Analysis Library) and is built on top of GeoPandas, other PySAL modules and networkX.
-*   [rasterio (⭐2k)](https://github.com/rasterio/rasterio/blob/master/docs/index.rst) - Geographic information systems use GeoTIFF and other formats to organize and store gridded raster datasets such as satellite imagery and terrain models.
+*   [rasterio (⭐2.1k)](https://github.com/rasterio/rasterio/blob/master/docs/index.rst) - Geographic information systems use GeoTIFF and other formats to organize and store gridded raster datasets such as satellite imagery and terrain models.
 
 ### Planning Coding Resources / R
 
 *   [Motif](https://cran.r-project.org/web/packages/motif/index.html) - Describes spatial patterns of categorical raster data for any defined regular and irregular areas. It enables spatial analysis such as search, change detection, and clustering to be performed on spatial patterns.
 *   [Raster](https://cran.r-project.org/web/packages/raster/index.html) - Reading, writing, manipulating, analyzing and modeling of spatial data. The package implements basic and high-level functions for raster data and for vector data operations such as intersections.
-*   [Rgee (⭐567)](https://github.com/r-spatial/rgee) - Is an R binding package for calling Google Earth Engine API from within R. Various functions are implemented to simplify the connection with the R spatial ecosystem.
+*   [Rgee (⭐605)](https://github.com/r-spatial/rgee) - Is an R binding package for calling Google Earth Engine API from within R. Various functions are implemented to simplify the connection with the R spatial ecosystem.
 *   [Sfnetworks](https://cran.r-project.org/web/packages/sfnetworks/index.html) - Provides a tidy approach to spatial network analysis.
 *   [Stars](https://cran.r-project.org/web/packages/stars/index.html) - Reading, manipulating, writing and plotting spatiotemporal arrays (raster and vector data cubes) in 'R'.
 *   [stplanr](https://cran.r-project.org/web/packages/stplanr/index.html) - Tools for transport planning with an emphasis on spatial transport data and non-motorized modes including OD data processing and other functions.
@@ -209,10 +203,10 @@
 
 *   [darts (⭐6.5k)](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
 *   [statsforecast (⭐3.1k)](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
-*   [mlforecast (⭐530)](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
+*   [mlforecast (⭐547)](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
 *   [neuralforecast (⭐1.8k)](https://github.com/Nixtla/neuralforecast) - Scalable machine learning-based time series forecasting.
 *   [greykite (⭐1.7k)](https://github.com/linkedin/greykite) - A flexible, intuitive, and fast forecasting library next.
-*   [Chaos Genius (⭐640)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
+*   [Chaos Genius (⭐648)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
 
 ### Experimentation / Synthetic Data
 
@@ -232,18 +226,18 @@
 
 ### Third-Party Packages / Task Queues
 
-*   [django-redis (⭐2.7k)](https://github.com/niwinz/django-redis) - Full-featured Redis cache backend for Django.
-*   [django-dramatiq (⭐300)](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability, and performance.
+*   [django-redis (⭐2.8k)](https://github.com/niwinz/django-redis) - Full-featured Redis cache backend for Django.
+*   [django-dramatiq (⭐314)](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability, and performance.
 
 ### Projects / Open Source Projects
 
-*   [Flagsmith (⭐3.2k)](https://github.com/Flagsmith/flagsmith) - Open-source Feature Flagging, Remote Config, and AB testing.
+*   [Flagsmith (⭐3.6k)](https://github.com/Flagsmith/flagsmith) - Open-source Feature Flagging, Remote Config, and AB testing.
 
 ## [17. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Tools
 
-*   [Airdash (⭐404)](https://github.com/simonbengtsson/airdash) - Share files to any device by [Simon Bengtsson](https://github.com/simonbengtsson)
+*   [Airdash (⭐431)](https://github.com/simonbengtsson/airdash) - Share files to any device by [Simon Bengtsson](https://github.com/simonbengtsson)
 
 ## [18. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
@@ -270,7 +264,7 @@
 
 ### Editor plugins
 
-*   [MarioAriasC/zig-support (⭐73)](https://github.com/MarioAriasC/zig-support) - Language support for JetBrains IDEs (IntelliJ, CLion and others)
+*   [MarioAriasC/zig-support (⭐82)](https://github.com/MarioAriasC/zig-support) - Language support for JetBrains IDEs (IntelliJ, CLion and others)
 
 ## [21. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
@@ -296,10 +290,10 @@
 
 ### Tutorials / SRAM
 
-*   [uasyncio (⭐635)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md) - Write asynchronous code which interfaces to hardware devices.
-*   [Asynchronous drivers (⭐635)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/DRIVERS.md) - Tutorial and code for asynchronous interfaces to switches, pushbuttons, encoders and ADCs.
+*   [uasyncio (⭐672)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md) - Write asynchronous code which interfaces to hardware devices.
+*   [Asynchronous drivers (⭐672)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/DRIVERS.md) - Tutorial and code for asynchronous interfaces to switches, pushbuttons, encoders and ADCs.
 *   [Pyboard micropower (⭐44)](https://github.com/peterhinch/micropython-micropower) - Tutorial and code for low power applications on Pyboard 1.x and Pyboard D.
-*   [3D rotation with quaternions (⭐370)](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) - Tutorial and code for the easy way to do 3D rotation.
+*   [3D rotation with quaternions (⭐407)](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) - Tutorial and code for the easy way to do 3D rotation.
 *   [Miguel Grinberg](https://blog.miguelgrinberg.com/category/MicroPython) - MicroPython and the Internet of Things.
 *   [Bhavesh Kakwani](https://bhave.sh/) - MicroPython videos + written tutorials.
 
@@ -311,7 +305,7 @@
 
 ### Shells / On Host
 
-*   [mpremote (⭐17k)](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
+*   [mpremote (⭐18k)](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
 
 ## [22. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
@@ -323,7 +317,7 @@
 
 ### Supply Chain Security / Ruby
 
-*   [Harden Runner GitHub Action (⭐153)](https://github.com/step-security/harden-runner) - *StepSecurity* - installs a security agent on the GitHub-hosted runner (Ubuntu VM) to prevent exfiltration of credentials, detect compromised dependencies and build tools, and detect tampering of source code during the build.
+*   [Harden Runner GitHub Action (⭐426)](https://github.com/step-security/harden-runner) - *StepSecurity* - installs a security agent on the GitHub-hosted runner (Ubuntu VM) to prevent exfiltration of credentials, detect compromised dependencies and build tools, and detect tampering of source code during the build.
 
 ## [24. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -333,7 +327,7 @@
 
 ### Queue
 
-*   [SlimMessageBus (⭐397)](https://github.com/zarusz/SlimMessageBus) - Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication.
+*   [SlimMessageBus (⭐416)](https://github.com/zarusz/SlimMessageBus) - Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication.
 
 ## [25. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/week/README.md)
 
@@ -407,23 +401,13 @@
 
 ### Design Systems
 
-*   [AXA Pattern Library (⭐96)](https://github.com/axa-ch-webhub-cloud/pattern-library) - AXA CH UI components library built with LitElement.
-*   [Carbon Web Components (⭐409)](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
-*   [Clarity Core Web Components (⭐75)](https://github.com/vmware-clarity/core/tree/main/projects/core) - Suite of web components for Clarity Design System.
-*   [Momentum UI Web Components (⭐125)](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - Set of UI components based on Momentum Design.
-*   [Red Hat Design System (⭐18)](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
+*   [AXA Pattern Library (⭐120)](https://github.com/axa-ch-webhub-cloud/pattern-library) - AXA CH UI components library built with LitElement.
+*   [Carbon Web Components (⭐460)](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
+*   [Clarity Core Web Components (⭐134)](https://github.com/vmware-clarity/core/tree/main/projects/core) - Suite of web components for Clarity Design System.
+*   [Momentum UI Web Components (⭐178)](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - Set of UI components based on Momentum Design.
+*   [Red Hat Design System (⭐64)](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
 
-## [31. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
-
-### AI
-
-*   [pathfun (⭐14)](https://github.com/apicici/pathfun) - Pure Lua library for 2D pathfinding using the funnel algorithm.
-
-### UI
-
-*   [cimgui-love (⭐70)](https://github.com/apicici/cimgui-love) - LÖVE module for Dear ImGui obtained by wrapping cimgui (programmatically generated C-api) using LuaJIT FFI, easy to update to the latest Dear Imgui version.
-
-## [32. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
+## [31. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
 
 ### Open source projects using TypeDB
 
@@ -439,33 +423,19 @@
 *   [Introduction to TypeDB and TypeQL](https://www.youtube.com/watch?v=e0lmTSb-rzY)
 *   [Building a Distributed Database With the Raft Replication Algorithm](https://www.youtube.com/watch?v=oS42lN4qSJ4)
 
-## [33. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [32. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Caching
 
 *   [dogpile.cache](http://dogpilecache.readthedocs.io/en/latest/) - dogpile.cache is a next generation replacement for Beaker made by the same authors.
 
-## [34. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [33. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2020
 
 *   [Black-Box Ripper: Copying black-box models using generative evolutionary algorithms](https://proceedings.neurips.cc/paper/2020/file/e8d66338fab3727e34a9179ed8804f64-Paper.pdf) - (NeurIPS) *Replicates the functionality of a black-box neural model, yet with no limit on the amount of queries (via a teacher/student scheme and an evolutionary search).*
 
-## [35. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Pascal / PicoLisp
-
-*   [Free Pascal Reference guide](https://www.freepascal.org/docs-html/ref/ref.html)
-*   [Modern Object Pascal Introduction for Programmers](https://castle-engine.io/modern_pascal_introduction.html) (HTML)
-*   [Pascal Language Reference](https://docs.oracle.com/cd/E19957-01/802-5762/802-5762.pdf) (PDF)
-*   [Pascal Programming Reference Manual](https://public.support.unisys.com/aseries/docs/clearpath-mcp-17.0/pdf/86000080-103.pdf) - Unisys (PDF)
-*   [Pascal Quick Reference](https://ksvi.mff.cuni.cz/~dingle/2017/pascal_reference.html)
-*   [Turbo Pascal Reference Guide (1989)](http://bitsavers.org/pdf/borland/turbo_pascal/Turbo_Pascal_Version_5.0_Reference_Guide_1989.pdf) - Borland International (PDF)
-*   [Vector Pascal, an Array Language](http://www.dcs.gla.ac.uk/~wpc/reports/compilers/compilerindex/vp-ver2.html) - Paul Cockshott, Greg Michaelson
-*   [Vector Pascal Reference Manual](https://www.researchgate.net/publication/220177664_Vector_Pascal_reference_manual) (PDF)
-*   [VSI Pascal for OpenVMS Reference Manual](https://vmssoftware.com/docs/VSI_PASCAL_REF.pdf) - VMS Software (PDF)
-
-## [36. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [34. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Paper Writing
 
@@ -494,1348 +464,71 @@
 
 *   [Fiery Cushman](https://psychology.fas.harvard.edu/people/fiery-cushman) - ***Department of Psychology, Harvard***, [Moral Psychology Research Lab](https://cushmanlab.fas.harvard.edu/) - ***Harvard***.
 
-## [37. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [1password (⭐2)](https://github.com/agpenton/1password-zsh-plugin) - Adds [1Password](https://1password.com/) functionality including a `opswd` command that wraps the `op` command. It takes a service name as an argument and copies the password for that service to the clipboard.
-*   [jq (⭐215)](https://github.com/reegnz/jq-zsh-plugin) - Interactively build [jq](https://stedolan.github.io/jq/) expressions. Also supports [gojq (⭐2.8k)](https://github.com/itchyny/gojq). Requires [fzf (⭐55k)](https://github.com/junegunn/fzf).
+*   [jq (⭐239)](https://github.com/reegnz/jq-zsh-plugin) - Interactively build [jq](https://stedolan.github.io/jq/) expressions. Also supports [gojq (⭐3k)](https://github.com/itchyny/gojq). Requires [fzf (⭐57k)](https://github.com/junegunn/fzf).
 *   [pipenv (owenstranathan) (⭐18)](https://github.com/owenstranathan/pipenv.zsh) - Automatically activates a **pipenv** when entering a directory if there is Pipfile in that directory. Includes `pipenv` completions.
 *   [pipenv (sudosubin) (⭐0)](https://github.com/sudosubin/zsh-pipenv) - Enables `pipenv`'s `$PATH` and adds completions.
 *   [prettyping (⭐2)](https://github.com/unixorn/prettyping) - Adds a wrapper around the standard ping tool with the objective of making the output prettier, more colorful, more compact, and easier to read.
-*   [ranger-autojump (⭐70)](https://github.com/fdw/ranger-autojump) - Adds [autojump (⭐16k)](https://github.com/wting/autojump) support to the [ranger (⭐14k)](https://github.com/ranger/ranger) console file manager.
+*   [ranger-autojump (⭐71)](https://github.com/fdw/ranger-autojump) - Adds [autojump (⭐16k)](https://github.com/wting/autojump) support to the [ranger (⭐14k)](https://github.com/ranger/ranger) console file manager.
 *   [raspberryPi4Temperature (⭐0)](https://github.com/KidesLeo/RaspberryPi4TemperaturePromptPlugin/blob/main/RaspberryPi4TemperaturePromptPlugin.zsh) - Puts the Raspberry Pi temperature into a spaceship prompt segment
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [jnooree (⭐0)](https://github.com/jnooree/jnooree-zsh-theme) - Minimalist theme with colors adapted from the [robbyrussell (⭐164k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme. Includes decorators for `git` status, whether running as non-default user and current working directory.
+*   [jnooree (⭐0)](https://github.com/jnooree/jnooree-zsh-theme) - Minimalist theme with colors adapted from the [robbyrussell (⭐166k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme. Includes decorators for `git` status, whether running as non-default user and current working directory.
 *   [pyhack (⭐1)](https://github.com/williamcanin/pyhack) - Works well with dark terminal themes. Shows Python version, Python package version (pyproject.toml) and `git` current branch information.
 
-## [38. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [36. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Preprocessing
 
-*   [svelte-switch-case (⭐130)](https://github.com/l-portet/svelte-switch-case) - Switch case syntax for Svelte.
+*   [svelte-switch-case (⭐138)](https://github.com/l-portet/svelte-switch-case) - Switch case syntax for Svelte.
 
 ### Icons
 
 *   [svelte-icomoon (⭐5)](https://github.com/aykutkardas/svelte-icomoon) - It makes it very simple to use SVG icons in your Svelte projects.
 
-## [39. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
-
-### Creative Technology
-
-- Name: [**1024 Architecture**](https://www.1024architecture.net/)
-
-  Locations: \[Paris]
-
-  Keywords: architectural and digital works, orchestrated sound and light scores
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.1024architecture.net%2F)
-
-
-- Name: [**Acrylicize**](https://www.acrylicize.com/)
-
-  Locations: \[London] \[NYC] \[Seattle]
-
-  Keywords: harness the power of art and creativity to help people fall in love with spaces
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.acrylicize.com%2F)
-
-
-- Name: [**Ada**](https://a-da.co/)
-
-  Locations: \[NYC]
-
-  Keywords: experience innovation and design agency that partners with the world's most ambitious visionaries and brands in the culture, arts and social impact space
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fa-da.co%2F)
-
-
-- Name: [**Adirondack Studios**](https://www.adkstudios.com/)
-
-  Locations: \[Glens Falls, NY] \[Dubai] \[Orlando] \[Shanghai] \[LA] \[Singapore]
-
-  Keywords: concept, schematic, design, construction, fabrication, installation, support
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.adkstudios.com%2F)
-
-
-- Name: [**Alt Ethos**](https://altethos.com/)
-
-  Locations: \[Denver]
-
-  Keywords: experiential, metaverse, and event design agency
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Faltethos.com%2F)
-
-
-- Name: [**Art + Com**](https://artcom.de/en/)
-
-  Locations: \[Berlin]
-
-  Keywords: media sculptures, data installations, new media
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fartcom.de%2Fen%2F)
-
-
-- Name: [**Augmented Magic**](https://www.augmented-magic.com/)
-
-  Locations: \[Paris]
-
-  Keywords: augmented magic shows, digital installations
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.augmented-magic.com%2F)
-
-
-- Name: [**AV Controls**](https://www.av-controls.com/)
-
-  Locations: \[NYC]
-
-  Keywords: site-specific technology installations, digital landmarks
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.av-controls.com%2F)
-
-
-- Name: [**Barbarian**](https://wearebarbarian.com/)
-
-  Locations: \[NYC]
-
-  Keywords: marketing and advertising, new media
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwearebarbarian.com%2F)
-
-
-- Name: [**Blackbow**](https://www.blackbow.cn/)
-
-  Locations: \[Beijing]
-
-  Keywords: projection mapping, digital art and cultural experiences
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.blackbow.cn%2F)
-
-
-- Name: [**Blublu**](http://www.blu-blu.com/)
-
-  Locations: \[Hangzhou]
-
-  Keywords: projection mapping, immersive experiences for museums and workspace
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=http%3A%2F%2Fwww.blu-blu.com%2F)
-
-
-- Name: [**Bluecadet**](https://www.bluecadet.com/)
-
-  Locations: \[Philadelphia] \[NYC]
-
-  Keywords: experience design across digital and physical environments, visitor centers
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.bluecadet.com%2F)
-
-
-- Name: [**BRDG Studios**](https://www.brdg.co/)
-
-  Locations: \[Philadelphia]
-
-  Keywords: digital moments in physical spaces, retail environments, art galleries, events
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.brdg.co%2F)
-
-
-- Name: [**BREAKFAST**](https://breakfastny.com/)
-
-  Locations: \[NYC]
-
-  Keywords: software-/hardware-driven artworks, flip discs
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fbreakfastny.com%2F)
-
-
-- Name: [**Breeze Creative**](https://www.breezecreative.com/)
-
-  Locations: \[NYC] \[Miami]
-
-  Keywords: interactive experience design, family entertainment, museums, playgrounds, educational institutions
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.breezecreative.com%2F)
-
-
-- Name: [**C\&G Partners**](https://www.cgpartnersllc.com/)
-
-  Locations: \[NYC]
-
-  Keywords: branding, digital installations, exhibits and environments, signage, wayfinding, websites
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.cgpartnersllc.com%2F)
-
-
-- Name: [**Charcoalblue**](https://www.charcoalblue.com/)
-
-  Locations: \[NYC] \[Melbourne] \[Chicago] \[UK] \[London]
-
-  Keywords: amazing spaces where stories are told and experiences are shared
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.charcoalblue.com%2F)
-
-
-- Name: [**Cinimod Studio**](https://www.cinimodstudio.com)
-
-  Locations: \[London]
-
-  Keywords: location based work where technology, environment, content and real life interaction meet
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.cinimodstudio.com)
-
-
-- Name: [**Code and Theory**](https://www.codeandtheory.com/)
-
-  Locations: \[NYC] \[San Francisco] \[London] \[Manila]
-
-  Keywords: strategically driven, digital-first agency that lives at the intersection of creativity and technology
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.codeandtheory.com%2F)
-
-
-- Name: [**Cognition**](https://cognitionlabs.io/)
-
-  Locations: \[LA]
-
-  Keywords: an interactive studio designed to enrich experiences by building creative technology with human empathy
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fcognitionlabs.io%2F)
-
-
-- Name: [**Comuzi**](https://www.comuzi.xyz/)
-
-  Locations: \[London]
-
-  Keywords: explore and imagine and prototyp and creatr future-forward creative concepts
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.comuzi.xyz%2F)
-
-
-- Name: [**Deeplocal**](https://www.deeplocal.com/)
-
-  Locations: \[Pittsburgh]
-
-  Keywords: creative engineers, inventors, interactive experiences, human stories
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.deeplocal.com%2F)
-
-
-- Name: [**Design I/O**](https://www.design-io.com/)
-
-  Locations: \[NYC] \[San Francisco]
-
-  Keywords: immersive, interactive installations, storytelling, events, galleries, museums, exhibitions and public space
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.design-io.com%2F)
-
-
-- Name: [**Digifun**](http://www.digitalfun.net/)
-
-  Locations: \[Shanghai]
-
-  Keywords: projection mapping, new media art education
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=http%3A%2F%2Fwww.digitalfun.net%2F)
-
-
-- Name: [**Dimensional Innovations**](https://dimin.com/)
-
-  Locations: \[Kansas City] \[Atlanta] \[Minneapolis] \[Denver] \[LA] \[Pittsburgh]
-
-  Keywords: experience design, interactive experiences, brand activation
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fdimin.com%2F)
-
-
-- Name: [**dotdotdash**](https://dotdotdash.io/)
-
-  Locations: \[Portland] \[LA] \[NYC]
-
-  Keywords: innovation agency that seamlessly blends the physical and digital
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fdotdotdash.io%2F)
-
-
-- Name: [**Downstream**](https://downstream.com/)
-
-  Locations: \[Portland] \[Amsterdam] \[Melbourne]
-
-  Keywords: strategy + design + content + technology
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fdownstream.com%2F)
-
-
-- Name: [**Envoy**](https://www.weareenvoy.com/)
-
-  Locations: \[Chicago] \[LA] \[San Diego]
-
-  Keywords: transform environments into exceptional experiences, formerly Leviathan
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.weareenvoy.com%2F)
-
-
-- Name: [**ESI Design**](https://esidesign.nbbj.com/)
-
-  Locations: \[NYC]
-
-  Keywords: transforms places into experiences, immersive deisgn, architectural scale
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fesidesign.nbbj.com%2F)
-
-
-- Name: [**Extrapolation Factory**](https://extrapolationfactory.com/)
-
-  Locations: \[NYC]
-
-  Keywords: research studio, futures studies, collaborative prototyping
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fextrapolationfactory.com%2F)
-
-
-- Name: [**Fast Horse**](https://www.fasthorseinc.com/)
-
-  Locations: \[Minneapolis]
-
-  Keywords: a truly integrated creative agency
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.fasthorseinc.com%2F)
-
-
-- Name: [**FIELD**](https://www.field.io/)
-
-  Locations: \[London]
-
-  Keywords: future aesthetics for design, motion, experiential
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.field.io%2F)
-
-
-- Name: [**Float4**](https://float4.com/en/)
-
-  Locations: \[Montreal] \[NYC]
-
-  Keywords: integrates digital experiences into physical spaces to amplify their identity
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Ffloat4.com%2Fen%2F)
-
-
-- Name: [**fuse**](https://www.fuseworks.it/en/)
-
-  Locations: \[Modena, Italy]
-
-  Keywords: live-media performances, experimentation, electronic music, digital arts
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.fuseworks.it%2Fen%2F)
-
-
-- Name: [**Future Colossal**](https://www.futurecolossal.com/)
-
-  Locations: \[NYC]
-
-  Keywords: experiential technologies in advertising and entertainment and art
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.futurecolossal.com%2F)
-
-
-- Name: [**Game Seven**](https://www.gamesevenmktg.com/)
-
-  Locations: \[NYC] \[LA]
-
-  Keywords: intersection of sport and culture, brand stories
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.gamesevenmktg.com%2F)
-
-
-- Name: [**Geeksart**](http://geeks-art.com/)
-
-  Locations: \[Guangzhou] \[Shanghai]
-
-  Keywords: media sculptures, new media exhibition
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=http%3A%2F%2Fgeeks-art.com%2F)
-
-
-- Name: [**Giant Spoon**](https://giantspoon.com/)
-
-  Locations: \[NYC] \[LA]
-
-  Keywords: translate cultural trends into big ideas, experiential, gaming
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fgiantspoon.com%2F)
-
-
-- Name: [**Hotel Creative**](https://hotelcreative.com/)
-
-  Locations: \[London]
-
-  Keywords: retail, branding, exhibitions, events
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fhotelcreative.com%2F)
-
-
-- Name: [**Hovercraft**](https://www.hovercraftstudio.com/)
-
-  Locations: \[Denver] \[Portland]
-
-  Keywords: interactive installations, site-specific content, retail, sports
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.hovercraftstudio.com%2F)
-
-
-- Name: [**IMG SRC**](https://www.imgsrc.co.jp/)
-
-  Locations: \[Tokyo]
-
-  Keywords: full-service communication agency focusing on websites, installations, and R\&D
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.imgsrc.co.jp%2F)
-
-
-- Name: [**Invisible North**](https://www.invisiblenorth.com/)
-
-  Locations: \[NYC]
-
-  Keywords: culturally fluent, thoughtful experiences, bring brands to life
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.invisiblenorth.com%2F)
-
-
-- Name: [**Jam3**](https://www.jam3.com)
-
-  Locations: \[Toronto] \[LA] \[Montevideo] \[Amsterdam]
-
-  Keywords: create modern experiences for tomorrow's brands
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.jam3.com)
-
-
-- Name: [**Listen**](https://wearelisten.com/)
-
-  Locations: \[NYC]
-
-  Keywords: sensory-driven brand assets, modern cultural landscape, sound, experiences
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwearelisten.com%2F)
-
-
-- Name: [**Lorem Ipsum**](https://loremipsumcorp.com/)
-
-  Locations: \[NYC] \[Moscow] \[London]
-
-  Keywords: experience design, narrative, physical and digital environments
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Floremipsumcorp.com%2F)
-
-
-- Name: [**m ss ng p eces**](https://mssngpeces.com/)
-
-  Locations: \[NYC] \[LA]
-
-  Keywords: new wave production and entertainment partner for content and immersive experiences that inspire culture
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fmssngpeces.com%2F)
-
-
-- Name: [**Magnopus**](https://www.magnopus.com/)
-
-  Locations: \[LA] \[London]
-
-  Keywords: unite the physical and digital worlds with extraordinary experiences
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.magnopus.com%2F)
-
-
-- Name: [**Manifold**](https://www.wearemanifold.com/)
-
-  Locations: \[San Francisco] \[LA] \[Portland]
-
-  Keywords: we hire smart people and get out of their way
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.wearemanifold.com%2F)
-
-
-- Name: [**Map**](http://mapprojectoffice.com/)
-
-  Locations: \[London]
-
-  Keywords: industrial designers who believe great design can solve problems
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=http%3A%2F%2Fmapprojectoffice.com%2F)
-
-
-- Name: [**Marshmallow Laser Feast**](https://www.marshmallowlaserfeast.com/)
-
-  Locations: \[London]
-
-  Keywords: leaving a slug trail of sensory nuggets as we journey through the cosmos
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.marshmallowlaserfeast.com%2F)
-
-
-- Name: [**Midnight Commercial**](http://midnightcommercial.com/)
-
-  Locations: \[NYC]
-
-  Keywords: unite the disparate digital and physical worlds
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=http%3A%2F%2Fmidnightcommercial.com%2F)
-
-
-- Name: [**MindBuffer**](https://mindbuffer.net/)
-
-  Locations: \[Berlin]
-
-  Keywords: audiovisual research and digital design studio
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fmindbuffer.net%2F)
-
-
-- Name: [**Moment Factory**](https://momentfactory.com/home)
-
-  Locations: \[Montreal] \[LA] \[London] \[Tokyo] \[Paris] \[NYC]
-
-  Keywords: shows, destinations, content, interactive, scenography
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fmomentfactory.com%2Fhome)
-
-
-- Name: [**Momentum Worldwide**](https://www.momentumww.com/)
-
-  Locations: \[NYC] \[Athens] \[Atlanta] \[Bogota] \[Bucharest] \[Cairo] \[Chicago] \[Dubai] \[Frankfurt] \[Gothenburg] \[Lima] \[London] \[Madrid] \[Manchester] \[Mexico City] \[Milan] \[New Delhi] \[Santiago] \[Sao Paulo] \[Seattle] \[Seoul] \[St. Louis] \[Sydney] \[Toronto] \[Tokyo]
-
-  Keywords: disruptive, entertaining, shareable, unforgettable experiences for clients and their fans
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.momentumww.com%2F)
-
-
-- Name: [**Motse**](https://www.behance.net/motseart/projects)
-
-  Locations: \[Shenzhen]
-
-  Keywords: digital art
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.behance.net%2Fmotseart%2Fprojects)
-
-
-- Name: [**MSCHF**](https://mschf.xyz/)
-
-  Locations: \[NYC]
-
-  Keywords: viral stunts and products, trying to do stuff that the world can't even define
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fmschf.xyz%2F)
-
-
-- Name: [**mycotoo**](https://mycotoo.com/)
-
-  Locations: \[LA] \[Barcelona]
-
-  Keywords: entertainment development company specializing in theme park design, immersive experiences, and best-in-class events worldwide
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fmycotoo.com%2F)
-
-
-- Name: [**NCompass**](https://ncompassonline.com/)
-
-  Locations: \[LA]
-
-  Keywords: brand and marketing solutions creating experiences that integrate the latest technology and creative
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fncompassonline.com%2F)
-
-
-- Name: [**NeoPangea**](https://www.neopangea.com/)
-
-  Locations: \[Reading, PA]
-
-  Keywords: microsites, games, VR/AR, digital, social
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.neopangea.com%2F)
-
-
-- Name: [**NGX Interactive**](https://ngxinteractive.com/)
-
-  Locations: \[Vancouver]
-
-  Keywords: pushing new technologies to create experiences that are vivid and meaningful
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fngxinteractive.com%2F)
-
-
-- Name: [**Night Kitchen**](https://www.whatscookin.com/)
-
-  Locations: \[Philadelphia]
-
-  Keywords: dynamic digital experiences, online exhibitions, digital strategy, storytelling
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.whatscookin.com%2F)
-
-
-- Name: [**Nowhere**](https://studionowhere.com/)
-
-  Locations: \[Shanghai]
-
-  Keywords: marketing events, interactive experiences
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fstudionowhere.com%2F)
-
-
-- Name: [**Oat Foundry**](https://www.oatfoundry.com/)
-
-  Locations: \[Philadelphia]
-
-  Keywords: split-flap displays, electromechanical stuff, think tank, products, experiences
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.oatfoundry.com%2F)
-
-
-- Name: [**Onformative**](https://onformative.com/)
-
-  Locations: \[Berlin]
-
-  Keywords: studio for digital art and design, challenge the boundaries between art and design and technology
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fonformative.com%2F)
-
-
-- Name: [**Optimist**](https://optimistinc.com/)
-
-  Locations: \[LA] \[NYC] \[London] \[Amsterdam] \[Hamburg] \[Berlin] \[Prague]
-
-  Keywords: architects of subculture, creative, design, strategy, production, content, brand experience
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Foptimistinc.com%2F)
-
-
-- Name: [**Patten Studio**](https://www.pattenstudio.com/)
-
-  Locations: \[NYC]
-
-  Keywords: informed by research at the MIT Media Lab, experiences that connect people
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.pattenstudio.com%2F)
-
-
-- Name: [**Potion Design**](https://www.potiondesign.com/)
-
-  Locations: \[NYC]
-
-  Keywords: design and technology studio, interactive, musuems
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.potiondesign.com%2F)
-
-
-- Name: [**pretty bloody simple**](https://www.prettybloodysimple.com)
-
-  Locations: \[Munich]
-
-  Keywords: interactive experiences, analog and digital, musuems
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.prettybloodysimple.com)
-
-
-- Name: [**Rare Volume**](https://rarevolume.com/)
-
-  Locations: \[NYC]
-
-  Keywords: design and technology studio, interactive video walls
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Frarevolume.com%2F)
-
-
-- Name: [**Red Paper Heart**](https://redpaperheart.com)
-
-  Locations: \[NYC]
-
-  Keywords: art from real world interaction
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fredpaperheart.com)
-
-
-- Name: [**Relative Scale**](https://relativescale.com/)
-
-  Locations: \[Raleigh]
-
-  Keywords: bespoke digital products and experiences for brands and institutions
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Frelativescale.com%2F)
-
-
-- Name: [**Rosie Lee Creative**](https://rosieleecreative.com/)
-
-  Locations: \[London] \[Amsterdam] \[NYC]
-
-  Keywords: design, creative, digital and consultancy
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Frosieleecreative.com%2F)
-
-
-- Name: [**Second Story**](https://secondstory.com/)
-
-  Locations: \[Atlanta] \[Portland] \[NYC]
-
-  Keywords: exhibition, interactive, software, experience, hardware, VR, AR, projection
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fsecondstory.com%2F)
-
-
-- Name: [**Seeeklab**](https://www.seeeklab.com/en/)
-
-  Locations: \[Xiamen]
-
-  Keywords: marketing events, interactive installation
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.seeeklab.com%2Fen%2F)
-
-
-- Name: [**space150**](https://www.space150.com/)
-
-  Locations: \[Minneapolis] \[LA] \[NYC]
-
-  Keywords: a tech-driven creative agency
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.space150.com%2F)
-
-
-- Name: [**Special Projects**](https://specialprojects.studio/)
-
-  Locations: \[London]
-
-  Keywords: design and innovation agency that reveals user needs and transforms them into experiences and products
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fspecialprojects.studio%2F)
-
-
-- Name: [**Staat**](https://www.staat.com/)
-
-  Locations: \[Amsterdam]
-
-  Keywords: branding, editorial, event, film, graphic design, illustration, installation, interactive, interior design, production, retail
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.staat.com%2F)
-
-
-- Name: [**Stimulant**](https://stimulant.com/)
-
-  Locations: \[San Francisco]
-
-  Keywords: experience design and interactive installation, human-scale, site-specific digital experiences and touchscreen applications
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fstimulant.com%2F)
-
-
-- Name: [**StoreyStudio**](https://www.storeystudio.com/)
-
-  Locations: \[London]
-
-  Keywords: spatial design, set design, window displays, moving image
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.storeystudio.com%2F)
-
-
-- Name: [**Studio Black**](https://www.studioblack.org/)
-
-  Locations: \[LA] \[NYC]
-
-  Keywords: technical production, design advisory, content management, digital content
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.studioblack.org%2F)
-
-
-- Name: [**Studio Elsewhere**](https://www.studioelsewhere.co/)
-
-  Locations: \[NYC]
-
-  Keywords: bio-experiential design and technology to support brain health
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.studioelsewhere.co%2F)
-
-
-- Name: [**Superfly**](https://superf.ly/)
-
-  Locations: \[NYC]
-
-  Keywords: create shared experiences that shape how the world plays & connects
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fsuperf.ly%2F)
-
-
-- Name: [**Team Epiphany**](https://www.teamepiphany.com/)
-
-  Locations: \[NYC] \[LA]
-
-  Keywords: influencer marketing, IRL, vertical integration
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.teamepiphany.com%2F)
-
-
-- Name: [**Tellart**](https://www.tellart.com/)
-
-  Locations: \[Providence] \[Amsterdam] \[San Francisco]
-
-  Keywords: transformative experiences, invention, physical & digital experiences, new technologies
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.tellart.com%2F)
-
-
-- Name: [**The Gathery**](http://www.thegathery.com/)
-
-  Locations: \[NYC]
-
-  Keywords: editorially-born creative agency specializing in brand marketing and content creation
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=http%3A%2F%2Fwww.thegathery.com%2F)
-
-
-- Name: [**The Lab at Rockwell Group**](https://www.labatrockwellgroup.com)
-
-  Locations: \[NYC]
-
-  Keywords: architecture and design, branded experiences, immersive environments, pop ups
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.labatrockwellgroup.com)
-
-
-- Name: [**The Projects**](http://theprojects.com/)
-
-  Locations: \[London] \[LA] \[NYC] \[Sydney]
-
-  Keywords: brand consultancy, meaningful experiences, tell stories
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=http%3A%2F%2Ftheprojects.com%2F)
-
-
-- Name: [**Thinkwell**](https://thinkwellgroup.com/)
-
-  Locations: \[LA] \[Montreal] \[Abu Dhabi] \[Riyadh]
-
-  Keywords: strategy, experience design, production, master planning, entertainment destinations, branded attractions, interactive media installations, events, museums, expos
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fthinkwellgroup.com%2F)
-
-
-- Name: [**Tool**](https://www.toolofna.com/)
-
-  Locations: \[LA]
-
-  Keywords: help brands and agencies with ideation, content, and experience production that generate buzz
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.toolofna.com%2F)
-
-
-- Name: [**Trivium Interactive**](https://www.triviuminteractive.com/)
-
-  Locations: \[Boston]
-
-  Keywords: experience design and production
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.triviuminteractive.com%2F)
-
-
-- Name: [**Two Goats**](https://www.twogoats.us/)
-
-  Locations: \[NYC] \[LA] \[London]
-
-  Keywords: AR, interactive branded experiences
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.twogoats.us%2F)
-
-
-- Name: [**Unified Field**](https://www.unifiedfield.com/)
-
-  Locations: \[NYC]
-
-  Keywords: content-rich, experiential and interactive media for digital branding, media environments, and exhibits in public spaces
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.unifiedfield.com%2F)
-
-
-- Name: [**UNIT9**](https://www.unit9.com/)
-
-  Locations: \[London] \[LA] \[NYC] \[Berlin]
-
-  Keywords: innovation architects, product designers, software engineers, gaming experts, creatives, art directors, designers, producers and film directors
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.unit9.com%2F)
-
-
-- Name: [**Upswell**](https://hello-upswell.com/)
-
-  Locations: \[Portland]
-
-  Keywords: digital and physical content first experiences
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fhello-upswell.com%2F)
-
-
-- Name: [**VTProDesign**](https://vtprodesign.com/)
-
-  Locations: \[LA]
-
-  Keywords: high tech robotics and projection mapping
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fvtprodesign.com%2F)
-
-
-- Name: [**VVOX**](https://volvoxlabs.com/)
-
-  Locations: \[NYC] \[LA]
-
-  Keywords: high-end design, code, fabrication, sound
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fvolvoxlabs.com%2F)
-
-
-- Name: [**We Are Royale**](https://weareroyale.com/)
-
-  Locations: \[LA] \[Seattle]
-
-  Keywords: frontlines of design & technology to arm brands with the creative to turn audiences into advocates
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fweareroyale.com%2F)
-
-
-- Name: [**Wonderlabs**](https://www.wonderlabsstudio.com/)
-
-  Locations: \[Shanghai]
-
-  Keywords: marketing events, interactive installation
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.wonderlabsstudio.com%2F)
-
-
-- Name: [**XORXOR**](https://www.xorxor.hu)
-
-  Locations: \[Budapest]
-
-  Keywords: collaboration between scientists, engineers, artists and robots, real-time visuals meet complex design
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.xorxor.hu)
-
-
-- Name: [**Yellow Studio**](https://yellowstudio.com/)
-
-  Locations: \[NYC]
-
-  Keywords: artistically-minded design, tv/concert/event production design, set design
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fyellowstudio.com%2F)
-
-
-
-### Collectives & Practices
-
-- Name: [**Dave + Gabe**](https://www.daveandgabe.care/)
-
-  Locations: \[NYC]
-
-  Keywords: interactive installation studio, real-time animation, generative 3D sound
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.daveandgabe.care%2F)
-
-
-- Name: [**NONOTAK Studio**](https://www.nonotak.com/)
-
-  Locations: \[Paris]
-
-  Keywords: light and sound installations, ethereal, immersive, dreamlike
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.nonotak.com%2F)
-
-
-- Name: [**panGenerator**](https://pangenerator.com/)
-
-  Locations: \[Warsaw]
-
-  Keywords: new media art and design collective, mixing bits & atoms
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fpangenerator.com%2F)
-
-
-- Name: [**Random International**](https://www.random-international.com/)
-
-  Locations: \[London] \[Berlin]
-
-  Keywords: experimental practice within contemporary art, human condition in an increasingly mechanised world
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.random-international.com%2F)
-
-
-- Name: [**Smooth Technology**](https://smooth.technology/)
-
-  Locations: \[NYC]
-
-  Keywords: cutting-edge technology and artistic sensibility, wireless wearables, create the impossible
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fsmooth.technology%2F)
-
-
-- Name: [**teamLab**](https://www.teamlab.art/)
-
-  Locations: \[Tokyo]
-
-  Keywords: full-room interactive projection mapping, interdisciplinary group of ultratechnologists
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.teamlab.art%2F)
-
-
-- Name: [**United Visual Artists**](https://www.uva.co.uk/)
-
-  Locations: \[London]
-
-  Keywords: new technologies with traditional media, site-specific, instruments that manipulate perception
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.uva.co.uk%2F)
-
-
-- Name: [**WHYIXD**](https://www.whyixd.com/)
-
-  Locations: \[Taiwan]
-
-  Keywords: cross-disciplinary art installations, dance, architecture, music
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.whyixd.com%2F)
-
-
-- Name: [**Zebradog**](https://www.zebradog.com/)
-
-  Locations: \[Madison]
-
-  Keywords: communication design and the built environment, higher education
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.zebradog.com%2F)
-
-
-
-### Experiential Spaces & Experiences
-
-- Name: [**29 Rooms (Vice Media Group)**](https://www.29rooms.com/)
-
-  Locations: \[USA]
-
-  Keywords: multi-sensory installations, performances, and workshops
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.29rooms.com%2F)
-
-
-- Name: [**Color Factory**](https://www.colorfactory.co/)
-
-  Locations: \[NYC] \[Houston]
-
-  Keywords: collaborative interactive exhibit
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.colorfactory.co%2F)
-
-
-- Name: [**Meow Wolf**](https://meowwolf.com/)
-
-  Locations: \[Santa Fe] \[Las Vegas] \[Denver]
-
-  Keywords: immersive and interactive experiences that transport audiences of all ages into fantastic realms of story and exploration
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fmeowwolf.com%2F)
-
-
-- Name: [**Museum of Ice Cream**](https://www.museumoficecream.com/)
-
-  Locations: \[San Francisco] \[NYC]
-
-  Keywords: transforms concepts and dreams into spaces that provoke imagination and creativity
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.museumoficecream.com%2F)
-
-
-- Name: [**PopUpMob**](https://popupmob.com/)
-
-  Locations: \[NYC] \[LA] \[London] \[Paris]
-
-  Keywords: one-stop shop for pop up experiences
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fpopupmob.com%2F)
-
-
-
-### Fabricators
-
-- Name: [**Bednark**](https://builtbybednark.com/)
-
-  Locations: \[NYC]
-
-  Keywords: full-service fabrication, production, install
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fbuiltbybednark.com%2F)
-
-
-- Name: [**Pink Sparrow**](https://www.pinksparrow.com/)
-
-  Locations: \[NYC] \[LA]
-
-  Keywords: environmental design, project management
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.pinksparrow.com%2F)
-
-
-- Name: [**Visionary Effects**](http://www.visionaryeffects.com/)
-
-  Locations: \[Pittsburgh]
-
-  Keywords: old-school manufacturing processes with digital design and fabrication
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=http%3A%2F%2Fwww.visionaryeffects.com%2F)
-
-
-
-### Event Production
-
-- Name: [**Dera Lee Productions**](http://www.deralee.com/)
-
-  Locations: \[NYC]
-
-  Keywords: theatre arts, story-telling
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=http%3A%2F%2Fwww.deralee.com%2F)
-
-
-- Name: [**GPJ**](https://www.gpj.com/)
-
-  Locations: \[Austin] \[Boston] \[Dallas] \[Detroit] \[LA] \[Nashville] \[NYC] \[San Francisco] \[Silicon Valley]
-
-  Keywords: immersive events and experiences
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.gpj.com%2F)
-
-
-- Name: [**Sparks**](https://wearesparks.com/)
-
-  Locations: \[Philadelphia] \[Detroit] \[Connecticut] \[Atlanta] \[LA] \[Las Vegas] \[NYC] \[San Francisco] \[Shanghai]
-
-  Keywords: trade show, experiential, retail
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwearesparks.com%2F)
-
-
-
-### Architecture
-
-- Name: [**Carlo Ratti Associatti**](https://carloratti.com/)
-
-  Locations: \[Torino, Italy] \[NYC] \[UK]
-
-  Keywords: design and innovation office, MIT Media Lab: Senseable City Lab
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fcarloratti.com%2F)
-
-
-- Name: [**Olson Kundig**](https://olsonkundig.com/)
-
-  Locations: \[Seattle] \[NYC]
-
-  Keywords: architecture, vessel that supports specific art installations, seamless spatial experience
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Folsonkundig.com%2F)
-
-
-- Name: [**SOFTlab**](https://softlabnyc.com/)
-
-  Locations: \[NYC]
-
-  Keywords: mixes research and creativity and technology with a strong desire to make working fun
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fsoftlabnyc.com%2F)
-
-
-- Name: [**Universal Design Studio**](http://www.universaldesignstudio.com/)
-
-  Locations: \[London] \[NYC]
-
-  Keywords: driven by a deeply held belief in the transformative power of well designed and finely crafted spaces
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=http%3A%2F%2Fwww.universaldesignstudio.com%2F)
-
-
-
-### Creative Agencies
-
-- Name: [**\&Walsh**](https://andwalsh.com/)
-
-  Locations: \[NYC]
-
-  Keywords: brand strategy, art direction, design and production across all platforms
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fandwalsh.com%2F)
-
-
-- Name: [**Framestore**](https://www.framestore.com/)
-
-  Locations: \[London] \[NYC] \[Montreal]
-
-  Keywords: virtual, augmented and mixed realities, location-based entertainment, and theme park rides
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.framestore.com%2F)
-
-
-- Name: [**ManvsMachine**](https://mvsm.com/)
-
-  Locations: \[London] \[LA]
-
-  Keywords: multidimensional creative studio
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fmvsm.com%2F)
-
-
-- Name: [**Media Monks**](https://www.mediamonks.com/)
-
-  Locations: \[Amsterdam] \[London] \[Dubai] \[Stockholm] \[NYC] \[LA] \[San Francisco] \[Mexico City] \[São Paulo] \[Buenos Aires] \[Shanghai] \[Singapore]
-
-  Keywords: creative production
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.mediamonks.com%2F)
-
-
-- Name: [**R/GA**](https://www.rga.com/)
-
-  Locations: \[Austin] \[Chicago] \[LA] \[NYC] \[Portland] \[San Francisco] \[Berlin] \[Bucharest] \[London] \[Buenos Aires] \[Santiago] \[São Paulo] \[Melbourne] \[Shanghai] \[Singapore] \[Sydney] \[Tokyo]
-
-  Keywords: business, experience, and marketing transformation
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.rga.com%2F)
-
-
-- Name: [**The Mill**](https://www.themill.com/)
-
-  Locations: \[London] \[NYC] \[LA] \[Chicago] \[Bangalore] \[Berlin]
-
-  Keywords: experience makers, media and brand activation, innovative design, and inventive technologies
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.themill.com%2F)
-
-
-
-### Museums
-
-- Name: [**Art Processors**](https://www.artprocessors.net/)
-
-  Locations: \[Melbourne]
-
-  Keywords: specialist interactive media and exhibition design
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.artprocessors.net%2F)
-
-
-- Name: [**Exploratorium**](https://www.exploratorium.edu/)
-
-  Locations: \[San Francisco]
-
-  Keywords: exhibits made in-house, public-facing workshop
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.exploratorium.edu%2F)
-
-
-- Name: [**GSM Project**](https://gsmproject.com/en/)
-
-  Locations: \[Montreal] \[Singapore] \[Dubai]
-
-  Keywords: content first, exhibitions
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fgsmproject.com%2Fen%2F)
-
-
-- Name: [**Ideum**](https://www.ideum.com/)
-
-  Locations: \[Albuquerque]
-
-  Keywords: interactive exhibits and exhibitions, integrated hardware products
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.ideum.com%2F)
-
-
-- Name: [**Iglhaut + von Grote**](http://iglhaut-vongrote.de/en/)
-
-  Locations: \[Berlin]
-
-  Keywords: scenography, spatial mise-en-scène
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=http%3A%2F%2Figlhaut-vongrote.de%2Fen%2F)
-
-
-- Name: [**Local Projects**](https://localprojects.com/)
-
-  Locations: \[NYC]
-
-  Keywords: experience Designers pushing the boundaries of human interaction
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Flocalprojects.com%2F)
-
-
-- Name: [**Monadnock Media**](https://monadnock.org/)
-
-  Locations: \[Massachusetts]
-
-  Keywords: multimedia experiences for museums, historic sites and public places
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fmonadnock.org%2F)
-
-
-- Name: [**Roto**](https://roto.com/)
-
-  Locations: \[Columbus, OH]
-
-  Keywords: experience design, immersive media, interactive engineering, and custom fabrication for museums, brands, attractions and architectural placemaking.
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Froto.com%2F)
-
-
-- Name: [**Thinc**](https://www.thincdesign.com/)
-
-  Locations: \[NYC]
-
-  Keywords: provoke meaningful conversations about the world in which we live
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.thincdesign.com%2F)
-
-
-
-## [40. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [37. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Content in Non-English Languages
 
 *   [Quantum Computing in Portuguese (⭐65)](https://github.com/smendoncabruna/ComputacaoQuantica) - A repository with curated content on Quantum Computing in Portuguese.
 
-## [41. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [38. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
-*   [vue-ts-starter (⭐51)](https://github.com/yugasun/vue-ts-starter) - Vue3 + TypeScript + Vite + Pinia.
+*   [vue-ts-starter (⭐55)](https://github.com/yugasun/vue-ts-starter) - Vue3 + TypeScript + Vite + Pinia.
 
 ### Templates / React
 
-*   [VRTTV (⭐40)](https://github.com/Drumpy/vrttv-boilerplate) - React + TypeScript + TailwindCSS + ESLint + Prettier + Husky + Conventional Commits + Gitmoji + GitHub Actions + Vercel Deploy.
+*   [VRTTV (⭐42)](https://github.com/Drumpy/vrttv-boilerplate) - React + TypeScript + TailwindCSS + ESLint + Prettier + Husky + Conventional Commits + Gitmoji + GitHub Actions + Vercel Deploy.
 *   [React Starter Kit (⭐22k)](https://github.com/kriasoft/react-starter-kit) - Jamstack, React, React Router, Material UI, Firebase Auth, TypeScript, ESLint, Prettier, Jest, GitHub Actions.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-browser-sync (⭐24)](https://github.com/Applelo/vite-plugin-browser-sync) - BrowserSync.
+*   [vite-plugin-browser-sync (⭐41)](https://github.com/Applelo/vite-plugin-browser-sync) - BrowserSync.
 
 ### Laravel / Community
 
-*   [Laravel Livewire Plugin (⭐10)](https://github.com/def-studio/vite-livewire-plugin) - Enable hot reloading of Laravel Livewire components without losing state.
+*   [Laravel Livewire Plugin (⭐14)](https://github.com/def-studio/vite-livewire-plugin) - Enable hot reloading of Laravel Livewire components without losing state.
 
 ### Shopify / Community
 
-*   [vite-plugin-shopify (⭐143)](https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify) - Integration for Shopify themes.
+*   [vite-plugin-shopify (⭐177)](https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify) - Integration for Shopify themes.
 
 ### CodeIgniter / Community
 
-*   [codeigniter-vite (⭐63)](https://github.com/firtadokei/codeigniter-vitejs) - Integration for CodeIgniter.
+*   [codeigniter-vite (⭐68)](https://github.com/firtadokei/codeigniter-vitejs) - Integration for CodeIgniter.
 
 ### DDEV / Community
 
-*   [ddev-viteserve (⭐29)](https://github.com/torenware/ddev-viteserve) - Add-on for running Vite in the PHP-oriented dev environment DDEV.
+*   [ddev-viteserve (⭐31)](https://github.com/torenware/ddev-viteserve) - Add-on for running Vite in the PHP-oriented dev environment DDEV.
 
-## [42. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [39. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### ReactJS
 
@@ -1853,11 +546,11 @@
 
 
 
-## [43. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [40. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Privacy (⭐4.9k)](https://github.com/lissy93/awesome-privacy) - A curated list of privacy-respecting software and services.
+*   [Awesome Privacy (⭐5.2k)](https://github.com/lissy93/awesome-privacy) - A curated list of privacy-respecting software and services.
 
 ### Endpoint / Anti-Virus / Anti-Malware
 
@@ -1865,9 +558,9 @@
 
 ### Terminal / Development
 
-*   [shellclear (⭐198)](https://github.com/rusty-ferris-club/shellclear) - It helps you to Secure your shell history commands by finding sensitive commands in your all history commands and allowing you to clean them.
+*   [shellclear (⭐203)](https://github.com/rusty-ferris-club/shellclear) - It helps you to Secure your shell history commands by finding sensitive commands in your all history commands and allowing you to clean them.
 
-## [44. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [41. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### GUI
 
@@ -1875,27 +568,23 @@
 
 ### JSON
 
-*   [marshmallow (⭐320)](https://github.com/PerimeterX/marshmallow) - Performant JSON unmarshalling for flexible use cases.
+*   [marshmallow (⭐338)](https://github.com/PerimeterX/marshmallow) - Performant JSON unmarshalling for flexible use cases.
 
-## [45. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [42. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / E-commerce
 
-*   [s-cart](https://s-cart.org/) - S-Cart is a free e-commerce website project for individuals and businesses, built on top of Laravel Framework. ([Demo](https://demo.s-cart.org/), [Source Code (⭐560)](https://github.com/s-cart/s-cart)) `MIT` `PHP`
-*   [Saleor](https://saleor.io) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.saleor.io/), [Source Code (⭐19k)](https://github.com/saleor/saleor)) `BSD-3-Clause` `Docker/Python`
+*   [s-cart](https://s-cart.org/) - S-Cart is a free e-commerce website project for individuals and businesses, built on top of Laravel Framework. ([Demo](https://demo.s-cart.org/), [Source Code (⭐579)](https://github.com/s-cart/s-cart)) `MIT` `PHP`
+*   [Saleor](https://saleor.io) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.saleor.io/), [Source Code (⭐20k)](https://github.com/saleor/saleor)) `BSD-3-Clause` `Docker/Python`
 
 ### Software / Games
 
-*   [Minetest](https://www.minetest.net/) - An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server. ([Source Code (⭐9.5k)](https://github.com/minetest/minetest)) `LGPL-2.1/MIT/Zlib` `C++/deb`
+*   [Minetest](https://www.minetest.net/) - An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server. ([Source Code (⭐9.8k)](https://github.com/minetest/minetest)) `LGPL-2.1/MIT/Zlib` `C++/deb`
 *   [Teeworlds](https://www.teeworlds.com) - Open source 2D retro multiplayer shooter. ([Source Code (⭐2.2k)](https://github.com/teeworlds/teeworlds)) `Zlib` `C++/deb`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Lancache](https://lancache.net) `⚠` - LAN Party game caching made easy. ([Source Code (⭐627)](https://github.com/lancachenet/monolithic)) `MIT` `Docker/Shell`
-
-### Software / Maps and Global Positioning System (GPS)
-
-*   [MapBBCodeShare (⭐58)](https://github.com/MapBBCode/share.mapbbcode.org) - Tool for sharing custom OSM maps. Support for annotated markers, polygons, lines, multi-format import/export, multiple layers, shortlinks. ([Demo](http://share.mapbbcode.org/)) `WTFPL` `PHP`
+*   [Lancache](https://lancache.net) `⚠` - LAN Party game caching made easy. ([Source Code (⭐670)](https://github.com/lancachenet/monolithic)) `MIT` `Docker/Shell`
 
 ### Software / Miscellaneous
 
@@ -1903,45 +592,45 @@
 
 ### Software / Personal Dashboards
 
-*   [Jump (⭐445)](https://github.com/daledavies/jump) - Yet another self-hosted startpage for your server designed to be simple, stylish, fast and secure. `MIT` `Docker/PHP`
-*   [Web-Portal (⭐141)](https://github.com/enchant97/web-portal) - A python web app designed to allow a easy way to manage the links to all of your web services. `AGPL-3.0` `Docker/Python`
+*   [Jump (⭐464)](https://github.com/daledavies/jump) - Yet another self-hosted startpage for your server designed to be simple, stylish, fast and secure. `MIT` `Docker/PHP`
+*   [Web-Portal (⭐161)](https://github.com/enchant97/web-portal) - A python web app designed to allow a easy way to manage the links to all of your web services. `AGPL-3.0` `Docker/Python`
 
 ### Software / Proxy
 
-*   [Outline Server](https://getoutline.org/) - A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. ([Source Code (⭐5.3k)](https://github.com/Jigsaw-Code/outline-server)) `Apache-2.0` `Docker/Nodejs`
+*   [Outline Server](https://getoutline.org/) - A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. ([Source Code (⭐5.5k)](https://github.com/Jigsaw-Code/outline-server)) `Apache-2.0` `Docker/Nodejs`
 
-## [46. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
+## [43. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
 
 ### [Expanse](https://www.goodreads.com/series/56399-expanse) (2011-2021) *by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)* [4.17 (avg)]
 
 *   [Leviathan Falls](https://www.goodreads.com/book/show/28335699-leviathan-falls) \[4.5]
 
-## [47. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [44. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Crates / Hooks
 
-*   [Bounce (⭐91)](https://github.com/bounce-rs/bounce) - The uncomplicated state management library for Yew, inspired by [Redux (⭐60k)](https://github.com/reduxjs/redux) and [Recoil (⭐19k)](https://github.com/facebookexperimental/Recoil).
+*   [Bounce (⭐95)](https://github.com/bounce-rs/bounce) - The uncomplicated state management library for Yew, inspired by [Redux (⭐60k)](https://github.com/reduxjs/redux) and [Recoil (⭐19k)](https://github.com/facebookexperimental/Recoil).
 
-## [48. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [45. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Testing
 
-*   [sokomishalov/skraper (⭐203)](https://github.com/sokomishalov/skraper) - Kotlin/Java library, cli tool and telegram-bot for scraping posts and media from various sources with neither authorization nor full page rendering (Facebook, Instagram, Twitter, Youtube, Tiktok, Telegram, Twitch, Reddit, Pinterest, Flickr, Tumblr, etc.)
+*   [sokomishalov/skraper (⭐220)](https://github.com/sokomishalov/skraper) - Kotlin/Java library, cli tool and telegram-bot for scraping posts and media from various sources with neither authorization nor full page rendering (Facebook, Instagram, Twitter, Youtube, Tiktok, Telegram, Twitch, Reddit, Pinterest, Flickr, Tumblr, etc.)
 
 ### Libraries/Frameworks / Misc
 
-*   [jershell/kbson (⭐39)](https://github.com/jershell/kbson) - Bson support for kotlinx.serialization
+*   [jershell/kbson (⭐41)](https://github.com/jershell/kbson) - Bson support for kotlinx.serialization
 *   [MehdiK/Humanizer.jvm (⭐164)](https://github.com/MehdiK/Humanizer.jvm) - Humanizer.jvm meets all your jvm needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [petertrr/kotlin-multiplatform-diff (⭐55)](https://github.com/petertrr/kotlin-multiplatform-diff) - Multiplatform kotlin library for calculating text differences. Based on java-diff-utils.
+*   [petertrr/kotlin-multiplatform-diff (⭐64)](https://github.com/petertrr/kotlin-multiplatform-diff) - Multiplatform kotlin library for calculating text differences. Based on java-diff-utils.
 
 ### Libraries/Frameworks / DSL
 
-*   [h0tk3y/regex-dsl (⭐86)](https://github.com/h0tk3y/regex-dsl) - A Kotlin DSL for regular expressions
+*   [h0tk3y/regex-dsl (⭐87)](https://github.com/h0tk3y/regex-dsl) - A Kotlin DSL for regular expressions
 
-## [49. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [46. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
@@ -1963,63 +652,53 @@
 
 *   [Swifty](https://getswifty.pro/) - Free Offline-first Password Manager for MacOS, Windows and Linux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/swiftyapp/swifty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [50. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [47. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Functional Programming / Runner
 
-*   [wild-wild-path (⭐624)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexps.
+*   [wild-wild-path (⭐711)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexps.
 
-## [51. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [48. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Math / Apache License
 
 *   [geo-energy-math (⭐7)](https://github.com/pukpr/GeoEnergyMath) - Software libraries for solving models described in Mathematical GeoEnergy (Wiley, 2018).
 
-## [52. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
-
-### Plugins
-
-*   💼 [Hyphens (⭐13)](https://github.com/vivgui/tailwindcss-hyphens) - Adds `hyphens` utilities.
-
-### Tools
-
-*   💼 [Impulse.dev](https://impulse.dev) – UI editor for Tailwind CSS and React that edits your code.
-
-## [53. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [49. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Components / Toggle
 
 *   [ui-switch (⭐4)](https://github.com/yairEO/ui-switch) - The most complete *Toggle* component
 
-## [54. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [50. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5) / LSP Installer
 
-*   [williamboman/mason.nvim (⭐5.5k)](https://github.com/williamboman/mason.nvim) - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+*   [williamboman/mason.nvim (⭐6.2k)](https://github.com/williamboman/mason.nvim) - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [Everblush/everblush.nvim (⭐191)](https://github.com/Everblush/everblush.nvim) - A dark, vibrant and beautiful colorscheme written in Lua.
-*   [Yazeed1s/minimal.nvim (⭐143)](https://github.com/yazeed1s/minimal.nvim) - Two tree-sitter supported colorschemes that are inspired by base16-tomorrow-night and monokai-pro.
+*   [Everblush/everblush.nvim (⭐200)](https://github.com/Everblush/everblush.nvim) - A dark, vibrant and beautiful colorscheme written in Lua.
+*   [Yazeed1s/minimal.nvim (⭐154)](https://github.com/yazeed1s/minimal.nvim) - Two tree-sitter supported colorschemes that are inspired by base16-tomorrow-night and monokai-pro.
 
 ### Editing Support / Diagnostics
 
-*   [keaising/im-select.nvim (⭐96)](https://github.com/keaising/im-select.nvim) - Switching and restoring input method automatically depends on Neovim's edit mode.
+*   [keaising/im-select.nvim (⭐116)](https://github.com/keaising/im-select.nvim) - Switching and restoring input method automatically depends on Neovim's edit mode.
 
-## [55. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [51. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Monitoring
 
 *   [Barklarm](https://www.barklarm.com/)  Open Source multiplatform alarm munitor and build status of servers that support of CCTray Specification and Github Actions.
 *   [CCMenu](http://ccmenu.org/)  OSx build status monitor for servers tha support CCTray Specification.
 
-## [56. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [52. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
 *   [rubygems.org (⭐2.2k)](https://github.com/rubygems/rubygems.org) - A gem hosting platform (using Rails 7.0). - [:earth\_africa:](https://rubygems.org)
 
-## [57. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [53. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Cloud APIs
 
@@ -2032,12 +711,12 @@
 
 ### Modules / Social Platform APIs
 
-*   [grammY (⭐1.3k)](https://github.com/grammyjs/grammy) - Telegram Bot API framework for Deno.
-*   [grm (⭐39)](https://github.com/dcdunkan/grm) - Telegram MTProto client for Deno.
+*   [grammY (⭐1.6k)](https://github.com/grammyjs/grammy) - Telegram Bot API framework for Deno.
+*   [grm (⭐45)](https://github.com/dcdunkan/grm) - Telegram MTProto client for Deno.
 *   [twi (⭐11)](https://github.com/roj1512/twi) - Twitter API v2 client for Deno.
 *   [discordeno](https://discordeno.mod.land/) - Discord API library for Deno
 
-## [58. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [54. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -2067,7 +746,7 @@
 
 *   [WrapPixel](https://www.wrappixel.com/) — Download High Quality Free and Premium Admin dashboard template created with Angular, React, VueJs, NextJS, and NuxtJS!
 
-## [59. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [55. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Enterprise Usage
 

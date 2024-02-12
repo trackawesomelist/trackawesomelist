@@ -15,7 +15,7 @@
 
 ### ORM/ODM Extensions
 
-*   [granite (⭐287)](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
+*   [granite (⭐292)](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
 
 ## [3. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
@@ -35,11 +35,11 @@
 
 ### Quality / Barcode
 
-*   [IBLinter (⭐952)](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
+*   [IBLinter (⭐951)](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
 
 ### Text / Barcode
 
-*   [MarkdownKit (⭐739)](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
+*   [MarkdownKit (⭐740)](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
 
 ## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

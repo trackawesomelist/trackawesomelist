@@ -2,7 +2,7 @@
 
 ⭐️ A curated list of companies that offer their services for free to Open Source projects
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/zachflower/awesome-open-source-supporters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) · ⭐ 585 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/zachflower/awesome-open-source-supporters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) · ⭐ 596 · 🏷️ Miscellaneous
 
 [ [Daily](/content/zachflower/awesome-open-source-supporters/README.md) / [Weekly](/content/zachflower/awesome-open-source-supporters/week/README.md) / Overview ]
 
@@ -39,7 +39,6 @@ A curated list of awesome companies that offer their tools and services for free
 *   [Code Climate](https://codeclimate.com/) - Automated code review & health analysis.
 *   [codebeat](https://codebeat.co/) - Automated code review for mobile and web.
 *   [CodeFactor](https://www.codefactor.io/) - Automated static analysis for C#, Java, CSS, JS, Ruby, Go and Python source code.
-*   [Ebert](https://ebertapp.io/) - Continuous static analysis.
 *   [Hound](https://houndci.com/) - Source code style review.
 *   [lgtm](https://lgtm.com/) - Automated code reviews for developers.
 *   [PullApprove](https://about.pullapprove.com/) - Approve GitHub pull request through code review.

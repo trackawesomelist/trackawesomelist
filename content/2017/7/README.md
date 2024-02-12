@@ -39,13 +39,13 @@
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Learn to Code (⭐3.4k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
+*   [Learn to Code (⭐3.6k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 
 ## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Testing
 
-*   [Expecto (⭐627)](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
+*   [Expecto (⭐639)](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
 
 ## [6. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -63,9 +63,9 @@
 
 ## [8. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
-### Other useful repositories
+### Other Useful Repositories
 
-- Repository: [Pentest Cheatsheets (⭐3k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
+- Repository: [Pentest Cheatsheets (⭐3.6k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
 
   Description: Collection of the cheat sheets useful for pentesting
 
@@ -81,7 +81,7 @@
 
 ### conversion
 
-*   [supercluster (⭐1.8k)](https://github.com/mapbox/supercluster): A fast GeoJSON clustering library for browsers and Node.
+*   [supercluster (⭐2k)](https://github.com/mapbox/supercluster): A fast GeoJSON clustering library for browsers and Node.
 
 ## [11. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Misc
 
-*   [any\_hash.cr (⭐33)](https://github.com/Sija/any_hash.cr) - Recursive Hash with better JSON::Any included
+*   [any\_hash.cr (⭐35)](https://github.com/Sija/any_hash.cr) - Recursive Hash with better JSON::Any included
 
 ### Official Documentation Translations
 
@@ -190,7 +190,7 @@ git checkout @{-1}
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Pentest Cheat Sheets (⭐3.5k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
+*   [Awesome Pentest Cheat Sheets (⭐3.6k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
 
 ## [23. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
@@ -224,7 +224,7 @@ git checkout @{-1}
 
 ### Presentation Programs
 
-*   [Slide Show (S9) (⭐181)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
+*   [Slide Show (S9) (⭐183)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
 
 ## [28. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
@@ -264,7 +264,7 @@ git checkout @{-1}
 
 ### Applications
 
-*   [notty (⭐2.2k)](https://github.com/withoutboats/notty) — A new kind of terminal
+*   [notty (⭐2.3k)](https://github.com/withoutboats/notty) — A new kind of terminal
 
 ## [33. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
@@ -315,12 +315,12 @@ git checkout @{-1}
 *   [ScreenFlow](http://www.telestream.net/screenflow/) - Screencasting and video editing software.
 *   [Shotcut](https://www.shotcut.org) - Free open-source video editor. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mltframework/shotcut) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-### Cloud Storage / File Sharing
+### Cloud Storage / Audio Record and Process
 
 *   [Mega](https://mega.nz) - Free cloud service, offers 50GB free storage. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Seafile](https://www.seafile.com/) - Reliable and High Speed File Sync and Share.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-### Genuine Sites / Package Managers
+### Mac App Download Sites / Genuine Sites
 
 *   Also, [Quora](https://www.quora.com/), [Reddit](https://www.reddit.com), you know the drill.
 
@@ -645,7 +645,7 @@ Webpage: <http://www.denizlihs.org/>
 
 ### Related / Other
 
-*   [Awesome livecoding (⭐2.2k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
+*   [Awesome livecoding (⭐2.3k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
 
 ## [44. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
@@ -719,8 +719,8 @@ Webpage: <http://www.denizlihs.org/>
 
 ### C++ / Natural Language Processing
 
-*   [frog (⭐72)](https://github.com/LanguageMachines/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
-*   [ucto (⭐60)](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
+*   [frog (⭐73)](https://github.com/LanguageMachines/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
+*   [ucto (⭐61)](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
 
 ### C++ / Speech Recognition
 
@@ -766,7 +766,7 @@ Webpage: <http://www.denizlihs.org/>
 
 ### Ruby / Misc
 
-*   [Listof (⭐26)](https://github.com/kevincobain2000/listof) - Community based data collection, packed in gem. Get list of pretty much anything (stop words, countries, non words) in txt, JSON or hash. [Demo/Search for a list](http://kevincobain2000.github.io/listof/)
+*   [Listof (⭐27)](https://github.com/kevincobain2000/listof) - Community based data collection, packed in gem. Get list of pretty much anything (stop words, countries, non words) in txt, JSON or hash. [Demo/Search for a list](http://kevincobain2000.github.io/listof/)
 
 ### SAS / General-Purpose Machine Learning
 
@@ -779,11 +779,11 @@ Webpage: <http://www.denizlihs.org/>
 
 ### SAS / Demos and Scripts
 
-*   [ML\_Tables (⭐124)](https://github.com/sassoftware/enlighten-apply/tree/master/ML_tables) - Concise cheat sheets containing machine learning best practices.
-*   [enlighten-apply (⭐124)](https://github.com/sassoftware/enlighten-apply) - Example code and materials that illustrate applications of SAS machine learning techniques.
-*   [enlighten-integration (⭐60)](https://github.com/sassoftware/enlighten-integration) - Example code and materials that illustrate techniques for integrating SAS with other analytics technologies in Java, PMML, Python and R.
-*   [enlighten-deep (⭐19)](https://github.com/sassoftware/enlighten-deep) - Example code and materials that illustrate using neural networks with several hidden layers in SAS.
-*   [dm-flow (⭐55)](https://github.com/sassoftware/dm-flow) - Library of SAS Enterprise Miner process flow diagrams to help you learn by example about specific data mining topics.
+*   [ML\_Tables (⭐126)](https://github.com/sassoftware/enlighten-apply/tree/master/ML_tables) - Concise cheat sheets containing machine learning best practices.
+*   [enlighten-apply (⭐126)](https://github.com/sassoftware/enlighten-apply) - Example code and materials that illustrate applications of SAS machine learning techniques.
+*   [enlighten-integration (⭐61)](https://github.com/sassoftware/enlighten-integration) - Example code and materials that illustrate techniques for integrating SAS with other analytics technologies in Java, PMML, Python and R.
+*   [enlighten-deep (⭐20)](https://github.com/sassoftware/enlighten-deep) - Example code and materials that illustrate using neural networks with several hidden layers in SAS.
+*   [dm-flow (⭐56)](https://github.com/sassoftware/dm-flow) - Library of SAS Enterprise Miner process flow diagrams to help you learn by example about specific data mining topics.
 
 ## [49. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
@@ -796,16 +796,16 @@ Webpage: <http://www.denizlihs.org/>
 ### Customization / Directory Navigation
 
 *   [bullet-train-oh-my-zsh-theme (⭐2.8k)](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain\_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
-*   [mysql-colorize (⭐97)](https://github.com/zpm-zsh/mysql-colorize) -  Colorization for mysql comand-line client
+*   [mysql-colorize (⭐95)](https://github.com/zpm-zsh/mysql-colorize) -  Colorization for mysql comand-line client
 
 ### Shell Script Development / Directory Navigation
 
-*   [crash (⭐56)](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
+*   [crash (⭐58)](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
 
 ### Shell Script Development / See also
 
-*   [awesome-fish (⭐3.5k)](https://github.com/jorgebucaran/awsm.fish)
-*   [awesome-zsh (⭐13k)](https://github.com/unixorn/awesome-zsh-plugins)
+*   [awesome-fish (⭐3.7k)](https://github.com/jorgebucaran/awsm.fish)
+*   [awesome-zsh (⭐14k)](https://github.com/unixorn/awesome-zsh-plugins)
 
 ## [51. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 

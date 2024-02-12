@@ -48,11 +48,11 @@
 
 ### Documentation
 
-*   [phoenix\_swagger (⭐654)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
+*   [phoenix\_swagger (⭐662)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
 
 ### Images
 
-*   [ex\_image\_info (⭐92)](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
+*   [ex\_image\_info (⭐94)](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -80,10 +80,6 @@
 
 ## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
-### Java VM / Clojure
-
-*   [Friboo (⭐118)](https://github.com/zalando/friboo) - Utility library for writing microservices in Clojure, with support for Swagger and OAuth.
-
 ### PHP / Scala
 
 *   [Lumen](https://lumen.laravel.com/) - Stunningly fast micro-framework.
@@ -91,7 +87,7 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [Skipper (⭐2.8k)](https://github.com/zalando/skipper) - HTTP router useful for decoupling routing from service logic.
+*   [Skipper (⭐3k)](https://github.com/zalando/skipper) - HTTP router useful for decoupling routing from service logic.
 
 ### Storage / Scala
 

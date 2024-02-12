@@ -24,7 +24,7 @@
 
 ### Authentication and OAuth
 
-*   [Monban (⭐373)](https://github.com/halogenandtoast/monban) - A very simple and extensible user authentication library for rails.
+*   [Monban (⭐372)](https://github.com/halogenandtoast/monban) - A very simple and extensible user authentication library for rails.
 
 ## [3. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
@@ -73,7 +73,7 @@
 ### Contents / Community
 
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
-*   [Github (⭐35k)](https://github.com/developit/preact)
+*   [Github (⭐36k)](https://github.com/developit/preact)
 *   [Twitter](https://twitter.com/preactjs)
 
 ### Contents / Toolkits
@@ -82,18 +82,18 @@
 
 ### Contents / Components
 
-*   [Preact Material Components (⭐547)](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
+*   [Preact Material Components (⭐548)](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
 
 ### Contents / Related Libraries
 
-*   [React (⭐214k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+*   [React (⭐217k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 *   [Inferno (⭐16k)](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 
 ## [9. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Testing
 
-*   [Mockery (⭐10k)](https://github.com/mockery/mockery) - A mock object library for testing.
+*   [Mockery (⭐11k)](https://github.com/mockery/mockery) - A mock object library for testing.
 
 ---
 

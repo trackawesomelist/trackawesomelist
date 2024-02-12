@@ -10,9 +10,9 @@
 
 ### Packages / Command-line apps
 
-*   [empty-trash (⭐131)](https://github.com/sindresorhus/empty-trash) - Empty the trash.
+*   [empty-trash (⭐132)](https://github.com/sindresorhus/empty-trash) - Empty the trash.
 *   [is-online (⭐1.2k)](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
-*   [public-ip (⭐978)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
+*   [public-ip (⭐990)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
 
 ### Packages / Command-line utilities
 
@@ -23,11 +23,11 @@
 ### Algorithms and Data structures
 
 *   [cuckoo (⭐42)](https://github.com/gmcabrita/cuckoo) - A pure Elixir implementation of [Cuckoo Filters](https://www.cs.cmu.edu/%7Edga/papers/cuckoo-conext2014.pdf).
-*   [graphmath (⭐75)](https://github.com/crertel/graphmath) - An Elixir library for performing 2D and 3D mathematics.
+*   [graphmath (⭐77)](https://github.com/crertel/graphmath) - An Elixir library for performing 2D and 3D mathematics.
 
 ### Authentication
 
-*   [oauth2 (⭐713)](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
+*   [oauth2 (⭐715)](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
 *   [oauth2ex (⭐57)](https://github.com/parroty/oauth2ex) - Another OAuth 2.0 client library for Elixir.
 
 ### Frameworks
@@ -58,7 +58,7 @@
 
 ### Tools
 
-*   [Metasploit (⭐31k)](https://github.com/rapid7/metasploit-framework) A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
+*   [Metasploit (⭐32k)](https://github.com/rapid7/metasploit-framework) A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
 *   [mimikatz (⭐18k)](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 
 ### Disassemblers and debuggers
@@ -74,7 +74,7 @@
 
 ### Tools / Other
 
-*   [sqlmap (⭐28k)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
+*   [sqlmap (⭐29k)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 *   [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program
 *   [malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
 *   [John the Ripper](http://www.openwall.com/john/) - A fast password cracker

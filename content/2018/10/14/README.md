@@ -10,11 +10,11 @@
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Airbnb (⭐135k)](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Shareable config for [Airbnb's style guide (⭐135k)](https://github.com/airbnb/javascript).
+*   [Airbnb (⭐140k)](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Shareable config for [Airbnb's style guide (⭐140k)](https://github.com/airbnb/javascript).
 
 ### Plugins / Frameworks
 
-*   [Backbone (⭐95)](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone.
+*   [Backbone (⭐94)](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone.
 *   [Hapi (⭐21)](https://github.com/continuationlabs/eslint-plugin-hapi) - Linting rules for hapi.
 
 ### Plugins / Libraries
@@ -25,26 +25,26 @@
 
 ### Plugins / Practices and Specific ES Features
 
-*   [fp (⭐956)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming.
-*   [new-with-error (⭐24)](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`.
-*   [no-use-extend-native (⭐54)](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects.
-*   [Promise (⭐832)](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
+*   [fp (⭐969)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming.
+*   [new-with-error (⭐25)](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`.
+*   [no-use-extend-native (⭐55)](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects.
+*   [Promise (⭐878)](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises.
 *   [this (⭐16)](https://github.com/matijs/eslint-plugin-this) - Write pure functions, don't allow `this`.
 
 ### Plugins / Style
 
-*   [filenames (⭐282)](https://github.com/selaux/eslint-plugin-filenames) - Ensure consistent filenames for your JavaScript files.
+*   [filenames (⭐296)](https://github.com/selaux/eslint-plugin-filenames) - Ensure consistent filenames for your JavaScript files.
 
 ### Tools / Testing Tools
 
-*   [eslint-find-rules (⭐192)](https://github.com/sarbbottam/eslint-find-rules) - Find built-in ESLint rules you don't have in your custom config.
+*   [eslint-find-rules (⭐196)](https://github.com/sarbbottam/eslint-find-rules) - Find built-in ESLint rules you don't have in your custom config.
 *   [eslint-index (⭐20)](https://github.com/wagerfield/eslint-index) - CLI for finding and managing rules in ESLint config files.
 *   [eslint-multiplexer (⭐7)](https://github.com/pimlie/eslint-multiplexer) - Multiplex eslint results and merge results for common files.
-*   [eslint-nibble (⭐689)](https://github.com/IanVS/eslint-nibble) - Ease into ESLint, by fixing one rule at a time.
-*   [eslint-rule-documentation (⭐29)](https://github.com/jfmengels/eslint-rule-documentation) - Find the url for the documentation of an ESLint rule.
-*   [eslint-watch (⭐189)](https://github.com/rizowski/eslint-watch) - Run ESLint with watch mode.
-*   [codacy-eslint (⭐12)](https://github.com/codacy/codacy-eslint) - Docker used at [Codacy](https://www.codacy.com) to run ESLint.
-*   [esprint (⭐647)](https://github.com/pinterest/esprint) - Run ESLint across multiple threads.
+*   [eslint-nibble (⭐742)](https://github.com/IanVS/eslint-nibble) - Ease into ESLint, by fixing one rule at a time.
+*   [eslint-rule-documentation (⭐30)](https://github.com/jfmengels/eslint-rule-documentation) - Find the url for the documentation of an ESLint rule.
+*   [eslint-watch (⭐191)](https://github.com/rizowski/eslint-watch) - Run ESLint with watch mode.
+*   [codacy-eslint (⭐13)](https://github.com/codacy/codacy-eslint) - Docker used at [Codacy](https://www.codacy.com) to run ESLint.
+*   [esprint (⭐654)](https://github.com/pinterest/esprint) - Run ESLint across multiple threads.
 
 ### Tutorials / Testing Tools
 

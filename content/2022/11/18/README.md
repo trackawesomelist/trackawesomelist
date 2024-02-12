@@ -20,9 +20,9 @@
 
 ## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
-### Terraform Enterprise / IDE
+### Self-hosted Terraform Platforms / IDE
 
-*   [OTF (⭐410)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
+*   [OTF (⭐472)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
 
 ## [4. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

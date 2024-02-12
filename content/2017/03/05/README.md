@@ -16,7 +16,7 @@
 
 ### General / Other
 
-*   [Pentest Cheat Sheets (⭐3.5k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
+*   [Pentest Cheat Sheets (⭐3.6k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
 
 ## [3. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
@@ -35,24 +35,24 @@
 
 ### Extensions / General Purpose
 
-*   [PackageResourceViewer (⭐289)](https://github.com/skuroda/PackageResourceViewer) — View and Edit Sublime package resources. Helpful for extensions and themes development.
+*   [PackageResourceViewer (⭐294)](https://github.com/skuroda/PackageResourceViewer) — View and Edit Sublime package resources. Helpful for extensions and themes development.
 
 ### Fun stuff / Themes
 
-*   [Soda](http://buymeasoda.github.io/soda-theme/) — Dark and light custom UI themes.
-*   [Spacegray](http://kkga.github.io/spacegray/) — A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal. Comes in different flavors with accompanying Base16 color schemes. <http://kkga.github.io/spacegray>
-*   [Cobalt2 (⭐1.6k)](https://github.com/wesbos/cobalt2) — A full featured Sublime Text blue theme
+*   [Ayu (⭐4.2k)](https://github.com/dempfi/ayu) — A simple theme with bright colors and comes in three versions — dark, mirage and light for all day long comfortable work.
+*   [Cobalt2 (⭐1.6k)](https://github.com/wesbos/cobalt2) — A full featured Sublime Text blue theme.
 *   [Flatland (⭐2.7k)](https://github.com/thinkpixellab/flatland) — A simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from Soda, the right place to start for any custom theme development for Sublime.
 *   [Material theme (⭐11k)](https://github.com/equinusocio/material-theme) — This theme brings the Material Design visual language. <http://equinsuocha.io/material-theme>
 *   [Predawn (⭐1.8k)](https://github.com/jamiewilson/predawn) — Dark interface and syntax theme for Sublime Text and Atom. <http://jamiewilson.io/predawn>
-*   [Ayu (⭐4.1k)](https://github.com/dempfi/ayu) — A simple theme with bright colors and comes in three versions — dark, mirage and light for all day long comfortable work.
-*   [Sublime Theme Switcher (⭐18)](https://github.com/chmln/sublime-text-theme-switcher-menu) — Painless theme selection.
+*   [Soda](http://buymeasoda.github.io/soda-theme/) — Dark and light custom UI themes.
+*   [Spacegray](http://kkga.github.io/spacegray/) — A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal. Comes in different flavors with accompanying Base16 color schemes. <http://kkga.github.io/spacegray>
+*   [Sublime Theme Switcher (⭐16)](https://github.com/chmln/sublime-text-theme-switcher-menu) — Painless theme selection.
 
 ### Fun stuff / Color Schemes
 
 *   [colorsublime.com](http://colorsublime.com) - huge collection of color schemes for Sublime Text.
-*   <http://tmtheme-editor.herokuapp.com> — online editor for `tmTheme` format, with large gallery of Sublime Text/Textmate color schemes. GitHib project page: [https://github.com/aziz/tmTheme-Editor (⭐1.6k)](https://github.com/aziz/tmTheme-Editor)
-*   [Schemr (⭐138)](https://github.com/benweier/Schemr) — allows you to quickly change your color scheme using the command palette and keyboard shortcuts.
+*   [Schemr (⭐136)](https://github.com/benweier/Schemr) — allows you to quickly change your color scheme using the command palette and keyboard shortcuts.
+*   <http://tmtheme-editor.herokuapp.com> — online editor for `tmTheme` format, with large gallery of Sublime Text/Textmate color schemes. GitHib project page: [https://github.com/aziz/tmTheme-Editor (⭐1.7k)](https://github.com/aziz/tmTheme-Editor)
 
 ## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

@@ -80,12 +80,12 @@
 
 ### Web Frameworks / Bare metal / kernel development
 
-*   [cmsed (⭐16)](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
+*   [cmsed (⭐17)](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
 
 ### Command Line / XML
 
-*   [scriptlike (⭐89)](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D.
-*   [todod (⭐15)](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise (⭐3.4k)](https://github.com/antirez/linenoise).
+*   [scriptlike (⭐90)](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D.
+*   [todod (⭐15)](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise (⭐3.5k)](https://github.com/antirez/linenoise).
 
 ## [3. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 

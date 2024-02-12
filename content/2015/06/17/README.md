@@ -10,7 +10,7 @@
 
 ### Data Validation
 
-*   [Bouncer (⭐361)](https://github.com/leonardoborges/bouncer)
+*   [Bouncer (⭐359)](https://github.com/leonardoborges/bouncer)
 
 ## [2. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Games / Directory Navigation
 
-*   [minesweeper (⭐52)](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
+*   [minesweeper (⭐54)](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
 
 ## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

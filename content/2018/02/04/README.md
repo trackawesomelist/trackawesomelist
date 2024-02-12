@@ -44,7 +44,7 @@
 
 ### For Electron / Other
 
-*   [electron-reloader (⭐564)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
+*   [electron-reloader (⭐568)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
 
 ## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -65,15 +65,15 @@
 
 ### Other
 
-*   [npm-run-all (⭐5.4k)](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial.
-*   [onchange (⭐793)](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
+*   [npm-run-all (⭐5.5k)](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial.
+*   [onchange (⭐798)](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
 *   [cli-error-notifier (⭐67)](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
 
 ## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line apps
 
-*   [gtop (⭐9.5k)](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
+*   [gtop (⭐9.6k)](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
 
 ---
 

@@ -28,7 +28,7 @@
 
 ### Machine Learning Libraries / Deep learning
 
-*   [tensor\_stream (⭐508)](https://github.com/jedld/tensor_stream) -
+*   [tensor\_stream (⭐509)](https://github.com/jedld/tensor_stream) -
     Ground-up and standalone reimplementation of TensorFlow for Ruby.
 
 ### Articles, Posts, Talks, and Presentations / Vector search

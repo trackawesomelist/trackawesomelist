@@ -10,12 +10,12 @@
 
 ### Continuous Integration
 
-*   [go-test-coverage (⭐23)](https://github.com/vladopajic/go-test-coverage) - Tool and GitHub action which reports issues when test coverage is below set threshold.
+*   [go-test-coverage (⭐36)](https://github.com/vladopajic/go-test-coverage) - Tool and GitHub action which reports issues when test coverage is below set threshold.
 
 ### Caches
 
-*   [imcache (⭐92)](https://github.com/erni27/imcache) - A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
-*   [theine (⭐148)](https://github.com/Yiling-J/theine-go) - High performance, near optimal in-memory cache with proactive TTL expiration and generics.
+*   [imcache (⭐106)](https://github.com/erni27/imcache) - A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
+*   [theine (⭐202)](https://github.com/Yiling-J/theine-go) - High performance, near optimal in-memory cache with proactive TTL expiration and generics.
 
 ## [2. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Audio
 
-*   [orhun/linuxwave (⭐415)](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux.
+*   [orhun/linuxwave (⭐469)](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux.
 
 ## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -49,7 +49,7 @@
     *   used in the industry since the 1990s.
     *   it supports a subset of the ANSI standard Common Lisp programming language.
     *   "Companies that have used ACL2 regularly include AMD, Centaur Technology, IBM, Intel, Kestrel Institute, Motorola/Freescale, Oracle and Rockwell Collins." ([source](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0399))
-    *   [Proofpad (⭐6)](https://github.com/calebegg/proof-pad/), an online IDE for ACL2.
+    *   [Proofpad (⭐8)](https://github.com/calebegg/proof-pad/), an online IDE for ACL2.
     *   [ACL2 Sedan](http://acl2s.ccs.neu.edu/acl2s/doc/), an Eclipse plugin that provides a modern IDE for ACL2, used with students at universities.
         *   paper: [Using ACL2 to teach students about software testing](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ACL22022).
 
@@ -78,36 +78,31 @@
 
 ### React Tutorials
 
-*   [React Interview Questions & Answers (⭐32k)](https://github.com/sudheerj/reactjs-interview-questions)
-*   [A simple, scalable, and powerful architecture for building production ready React applications (⭐20k)](https://github.com/alan2207/bulletproof-react)
+*   [React Interview Questions & Answers (⭐34k)](https://github.com/sudheerj/reactjs-interview-questions)
+*   [A simple, scalable, and powerful architecture for building production ready React applications (⭐21k)](https://github.com/alan2207/bulletproof-react)
 
 ### React Development Tools
 
-*   [why-did-you-render (⭐10k)](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
+*   [why-did-you-render (⭐11k)](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
 
 ### React Component Libraries
 
-*   [material-ui (⭐89k)](https://github.com/mui/material-ui) - Ready-to-use foundational React components
-*   [fluentui (⭐16k)](https://github.com/microsoft/fluentui) - Microsoft's Fluent UI
+*   [material-ui (⭐90k)](https://github.com/mui/material-ui) - Ready-to-use foundational React components
+*   [fluentui (⭐17k)](https://github.com/microsoft/fluentui) - Microsoft's Fluent UI
 *   [framework7 (⭐18k)](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
-*   [ariakit (⭐7.2k)](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
+*   [ariakit (⭐7.4k)](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 
 ### React State Management and Data Fetching
 
-*   [swr (⭐28k)](https://github.com/vercel/swr) - React Hooks for Data Fetching
+*   [swr (⭐29k)](https://github.com/vercel/swr) - React Hooks for Data Fetching
 
 ### React Libraries
 
-*   [loadable-components (⭐7.4k)](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React
+*   [loadable-components (⭐7.5k)](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React
 
 ### React Awesome Components
 
-*   [react-complex-tree (⭐626)](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
-
-### React Graphics and Animations
-
-*   [react-transition-group (⭐10k)](https://github.com/reactjs/react-transition-group) - An easy way to perform animations for React
-*   [gooey-react (⭐620)](https://github.com/luukdv/gooey-react) - The gooey effect for React
+*   [react-complex-tree (⭐697)](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
 
 ## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 

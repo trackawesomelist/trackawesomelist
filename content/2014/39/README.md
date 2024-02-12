@@ -25,7 +25,7 @@
 
 ### JSON
 
-*   [jute (⭐70)](https://github.com/amir-s/jute) - Very simple C++ JSON Parser. \[PublicDomain]
+*   [jute (⭐71)](https://github.com/amir-s/jute) - Very simple C++ JSON Parser. \[PublicDomain]
 *   [libjson](http://sourceforge.net/projects/libjson/) - Lightweight JSON library. \[?]
 
 ## [3. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
@@ -45,8 +45,8 @@
 
 ### Algorithms and Data Structures
 
-*   [ods (⭐46)](https://github.com/owainlewis/ods) – A large collection of data structures and algorithms for OCaml.
-*   [combine (⭐34)](https://github.com/backtracking/combine) – OCaml library for combinatorics <https://www.lri.fr/~filliatr/combine/>.
+*   [ods (⭐47)](https://github.com/owainlewis/ods) – A large collection of data structures and algorithms for OCaml.
+*   [combine (⭐35)](https://github.com/backtracking/combine) – OCaml library for combinatorics <https://www.lri.fr/~filliatr/combine/>.
 
 ### Compilers and Compiler Tools
 
@@ -59,7 +59,7 @@
 
 ### Questions
 
-*   [biocaml (⭐117)](https://github.com/biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
+*   [biocaml (⭐120)](https://github.com/biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
 *   [onumerical (⭐8)](https://github.com/cheshire/onumerical) – Numerical library for OCaml.
 
 ## [6. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
@@ -76,8 +76,8 @@
 
 ### Games / Directory Navigation
 
-*   [sedtris (⭐485)](https://github.com/uuner/sedtris) - Tetris in sed
-*   [sed-scripts (⭐42)](https://github.com/aureliojargas/sed-scripts) - Arkanoid and Sokoban written using sed
+*   [sedtris (⭐499)](https://github.com/uuner/sedtris) - Tetris in sed
+*   [sed-scripts (⭐43)](https://github.com/aureliojargas/sed-scripts) - Arkanoid and Sokoban written using sed
 
 ## [8. Awesome Db](/content/numetriclabz/awesome-db/week/README.md)
 
@@ -99,7 +99,7 @@
 
 ### E-Commerce and Payments
 
-*   [ServiceStack.Stripe (⭐194)](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs
+*   [ServiceStack.Stripe (⭐193)](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs
 
 ---
 

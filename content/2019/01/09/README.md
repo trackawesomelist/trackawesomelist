@@ -78,7 +78,7 @@
 
 ### Others / Useful References
 
-*   [Software Testing Interview Tool (⭐32)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
+*   [Software Testing Interview Tool (⭐38)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
 
 ## [11. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 

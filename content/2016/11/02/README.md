@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [Fractalide (⭐831)](https://github.com/fractalide/fractalide) — Simple Rust Microservices
+*   [Fractalide (⭐845)](https://github.com/fractalide/fractalide) — Simple Rust Microservices
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -81,7 +81,7 @@
 
 ### API
 
-*   [SwiftlySalesforce (⭐134)](https://github.com/mike4aday/SwiftlySalesforce) - Framework for rapid development of native iOS apps that integrate with Salesforce.
+*   [SwiftlySalesforce (⭐133)](https://github.com/mike4aday/SwiftlySalesforce) - Framework for rapid development of native iOS apps that integrate with Salesforce.
 
 ### Core Data
 

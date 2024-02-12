@@ -19,7 +19,7 @@
 
 ### Concepts / User-centric metrics
 
-*   Is it happening? - Did the navigation start successfully? Has the server responded? (e.g [FCP (⭐629)](https://github.com/csabapalfi/awesome-web-performance-metrics/#first-contentful-paint-fcp))
+*   Is it happening? - Did the navigation start successfully? Has the server responded? (e.g [FCP (⭐656)](https://github.com/csabapalfi/awesome-web-performance-metrics/#first-contentful-paint-fcp))
 *   Is it delightful/smooth? - Are the interactions smooth and natural, free of lag and jank?
 
 ### Interactivity metrics / Max Potential First Input Delay

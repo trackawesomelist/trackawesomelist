@@ -50,13 +50,13 @@
 
 ### Customization / Directory Navigation
 
-*   [base16-builder (⭐413)](https://github.com/base16-builder/base16-builder) - Base16-Builder
+*   [base16-builder (⭐421)](https://github.com/base16-builder/base16-builder) - Base16-Builder
 
 ## [5. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### i18n
 
-*   [xgettext-template (⭐79)](https://github.com/gmarty/xgettext) - Extract gettext messages from Volt templates using a command line program that is identical to the [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
+*   [xgettext-template (⭐78)](https://github.com/gmarty/xgettext) - Extract gettext messages from Volt templates using a command line program that is identical to the [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
 
 ## [6. Awesome Research](/content/emptymalei/awesome-research/README.md)
 

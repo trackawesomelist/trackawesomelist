@@ -22,7 +22,7 @@
 
 ### Packages / Parsing
 
-*   [xlsx-populate (⭐890)](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
+*   [xlsx-populate (⭐908)](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -47,8 +47,8 @@
 
 ### Table of Contents / Authentication and Authorization
 
-*   [SocialConnect Auth (⭐511)](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
-*   [TwitterOAuth (⭐4.2k)](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
+*   [SocialConnect Auth (⭐544)](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
+*   [TwitterOAuth (⭐4.3k)](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
 
 ## [7. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

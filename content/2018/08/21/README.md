@@ -25,7 +25,7 @@
 
 ### Scheduling
 
-*   [tasker (⭐47)](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
+*   [tasker (⭐50)](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
 
 ### Shell plugins
 
@@ -35,7 +35,7 @@
 
 ### DevSecOps / Service meshes
 
-*   [Git Secrets (⭐11k)](https://github.com/awslabs/git-secrets) - Prevents you from committing passwords and other sensitive information to a git repository.
+*   [Git Secrets (⭐12k)](https://github.com/awslabs/git-secrets) - Prevents you from committing passwords and other sensitive information to a git repository.
 
 ## [4. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 

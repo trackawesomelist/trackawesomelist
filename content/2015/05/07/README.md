@@ -45,7 +45,7 @@ Though this article is a few years old, much of its advice is still relevant as 
 
 ### Regular Expressions
 
-*   [Humane-re (⭐25)](https://github.com/rgrinberg/humane-re) – Humane-re attempts to provide an easy interface for 90% of your regex needs Courtesy of ocaml-re
+*   [Humane-re (⭐25)](https://github.com/rgrinberg/humane-re) – Humane-re attempts to provide an easy interface for 90% of your regex needs. Courtesy of ocaml-re.
 
 ## [4. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
 

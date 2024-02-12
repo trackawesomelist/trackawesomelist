@@ -16,7 +16,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [BentoML (⭐5.6k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
+*   [BentoML (⭐6.2k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
 
 ## [3. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
@@ -26,7 +26,7 @@
 
 ## [4. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
-### Workflow Automation with GitHub, Jira and Jenkins   [↗](https://awesomestacks.dev/workflow-automation-with-git-hub-jira-and-jenkins) / Resources
+### Workflow Automation with GitHub, Jira and Jenkins [↗](https://awesomestacks.dev/workflow-automation-with-git-hub-jira-and-jenkins) / Resources
 
 *   [Slack](https://slack.com) - [🛠️](https://stackshare.io/slack) - Where work flows.
 

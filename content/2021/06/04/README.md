@@ -10,15 +10,21 @@
 
 ### Open Source Projects
 
-*   [GIMP](https://liberapay.com/GIMP/) - GNU Image Manipulation Program.
 *   [JabRef](https://liberapay.com/JabRef) - Software for bibliography management
-*   [OpenRGB](https://www.patreon.com/CalcProgrammer1) - RGB lighting control application.
 
 ### Open Source Projects / Operating Systems
 
 *   [/e/](https://www.patreon.com/eelo) - Privacy-focused mobile OS.
 *   [GrapheneOS](https://github.com/sponsors/thestinger) - A privacy and security focused mobile OS with Android app compatibility.
 *   [Mobian](https://liberapay.com/mobian/) - Debian for mobile.
+
+### Open Source Projects / Open Source Art
+
+*   [GIMP](https://liberapay.com/GIMP/) - GNU Image Manipulation Program.
+
+### Open Source Projects / Hardware related
+
+*   [OpenRGB](https://www.patreon.com/CalcProgrammer1) - RGB lighting control application.
 
 ## [2. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
@@ -38,7 +44,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Canvas
 
-*   [react-heat-map (⭐125)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
+*   [react-heat-map (⭐145)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
 
 ## [4. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -104,8 +110,8 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Utils / Other Tools
 
-*   [FastAPI Chameleon (⭐130)](https://github.com/mikeckennedy/fastapi-chameleon) - Adds integration of the Chameleon template language to FastAPI.
-*   [FastAPI Jinja (⭐61)](https://github.com/AGeekInside/fastapi-jinja) - Adds integration of the Jinja template language to FastAPI.
+*   [FastAPI Chameleon (⭐131)](https://github.com/mikeckennedy/fastapi-chameleon) - Adds integration of the Chameleon template language to FastAPI.
+*   [FastAPI Jinja (⭐64)](https://github.com/AGeekInside/fastapi-jinja) - Adds integration of the Jinja template language to FastAPI.
 
 ### Tutorials / Other Tools
 
@@ -117,12 +123,12 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Monitoring/Statistics/Perfomance / Prometheus
 
-*   [pgSCV (⭐157)](https://github.com/weaponry/pgscv) - Metrics exporter for PostgreSQL and Postgres-related services.
-*   [postgres\_exporter (⭐2.3k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
+*   [pgSCV (⭐163)](https://github.com/weaponry/pgscv) - Metrics exporter for PostgreSQL and Postgres-related services.
+*   [postgres\_exporter (⭐2.4k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 
 ### Security / Zabbix
 
-*   [Databunker (⭐1.1k)](https://github.com/securitybunker/databunker) - Special GDPR compliant secure vault for customer records built on top of regular DB.
+*   [Databunker (⭐1.2k)](https://github.com/securitybunker/databunker) - Special GDPR compliant secure vault for customer records built on top of regular DB.
 
 ## [9. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
@@ -131,16 +137,16 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   Java
     *   [sourcemaking](https://sourcemaking.com/design_patterns) - patterns and anti patterns.
     *   [oodesign](https://www.oodesign.com/)  - patterns catalog with UML diagrams.
-    *   [design-patterns (⭐79k)](https://github.com/iluwatar/java-design-patterns)
-    *   [effective-java patterns (⭐1.2k)](https://github.com/HugoMatilla/Effective-JAVA-Summary) - patterns from the Effective Java book.
+    *   [design-patterns (⭐85k)](https://github.com/iluwatar/java-design-patterns)
+    *   [effective-java patterns (⭐1.3k)](https://github.com/HugoMatilla/Effective-JAVA-Summary) - patterns from the Effective Java book.
     *   [Design patterns implemented in Java](https://java-design-patterns.com/patterns/)
     *   [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
 *   Node
-    *   [Real world design patterns with Node.js (⭐227)](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS)
+    *   [Real world design patterns with Node.js (⭐313)](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS)
     *   [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
 *   Python
-    *   [design-patterns (⭐36k)](https://github.com/faif/python-patterns)
-    *   [PyPattyrn (⭐1.8k)](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
+    *   [design-patterns (⭐39k)](https://github.com/faif/python-patterns)
+    *   [PyPattyrn (⭐2.1k)](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
     *   [Python Design Patterns](https://python-patterns.guide/)
     *   [Design Patterns in Python](https://refactoring.guru/design-patterns/python)
     *   [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
@@ -170,7 +176,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Apps / Games
 
-*   [Golem Fleet Battle Simulator (⭐2)](https://github.com/UnfortuN8/Golem-Fleet-Battle-Simulator) - System for calculating the results of a battle between two opposing starship fleets. Used in the iOS game Rock Paper Frigate to determine the result of PvP fleet battles.
+*   [Golem Fleet Battle Simulator (⭐3)](https://github.com/UnfortuN8/Golem-Fleet-Battle-Simulator) - System for calculating the results of a battle between two opposing starship fleets. Used in the iOS game Rock Paper Frigate to determine the result of PvP fleet battles.
 
 ## [12. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 

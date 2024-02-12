@@ -166,9 +166,9 @@
 
 ## [6. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
-### Other useful repositories
+### Other Useful Repositories
 
-- Repository: [Cryptography (⭐4.1k)](https://github.com/sobolevn/awesome-cryptography)
+- Repository: [Cryptography (⭐5.1k)](https://github.com/sobolevn/awesome-cryptography)
 
   Description: Cryptography resources and tools
 

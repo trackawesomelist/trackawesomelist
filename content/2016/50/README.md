@@ -34,7 +34,7 @@
 
 ### C / Syntax highlighting packages
 
-*   [Grooves Game Boy Programming (⭐82)](https://github.com/gbdk-salvage/grooves-game-boy-programming) - A complete set of lessons about implementing various game mechanics in a Game Boy game.
+*   [Grooves Game Boy Programming (⭐84)](https://github.com/gbdk-salvage/grooves-game-boy-programming) - A complete set of lessons about implementing various game mechanics in a Game Boy game.
 *   [GBDK Sprite](http://gbdev.gg8.se/wiki/articles/GBDK_Sprite_Tutorial) - Presents a workflow for getting multiple sprites to display and animate.
 *   [GBDK Color](http://gbdev.gg8.se/wiki/articles/GBDK_Color_Tutorial) - Extends your knowledge of basic spriting on the Game Boy by adding colors to sprites, backgrounds and the window layer.
 *   [GBDK Joypad](http://gbdev.gg8.se/wiki/articles/GBDK_Joypad_Tutorial) - Details the use of the joypad with GBDK.
@@ -74,7 +74,7 @@
 
 ### OS Images
 
-*   [Fedora](https://fedoraproject.org/wiki/Raspberry_Pi#Preparing_the_SD_card) - Linux Fedora distribution built for the Pi. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png)
+*   [Fedora](https://fedoraproject.org/wiki/Raspberry_Pi#Preparing_the_SD_card) - Linux Fedora distribution built for the Pi. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-2+.png)
 
 ## [11. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -227,7 +227,7 @@
 
 ### Apps / Translations
 
-*   [wagtailtrans (⭐104)](https://github.com/LUKKIEN/wagtailtrans) - A Wagtail add-on for supporting multilingual sites.
+*   [wagtailtrans (⭐103)](https://github.com/LUKKIEN/wagtailtrans) - A Wagtail add-on for supporting multilingual sites.
 
 ## [22. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -239,7 +239,7 @@
 
 ### Table of Contents / Event
 
-*   [Broadway (⭐1.4k)](https://github.com/broadway/broadway) - An event source and CQRS library.
+*   [Broadway (⭐1.5k)](https://github.com/broadway/broadway) - An event source and CQRS library.
 
 ## [24. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -340,9 +340,9 @@
 
 ## [36. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
-### Other useful repositories
+### Other Useful Repositories
 
-- Repository: [Infosec Getting Started (⭐544)](https://github.com/gradiuscypher/infosec_getting_started)
+- Repository: [Infosec Getting Started (⭐575)](https://github.com/gradiuscypher/infosec_getting_started)
 
   Description: A collection of resources, documentation, links, etc to help people learn about Infosec
 
@@ -444,7 +444,7 @@ git var -l | <variable>
 
 ### Subtitling
 
-*   [imscJS (⭐75)](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
+*   [imscJS (⭐78)](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
 
 ## [46. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 

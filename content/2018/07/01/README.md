@@ -174,20 +174,22 @@
 ### Databases
 
 *   **Overlays**
-    *   [Sequoia (⭐123)](https://github.com/andrenth/sequoia) - Sequoia is a type-safe query builder for MySQL/MariaDB and PostgreSQL
+    *   [Sequoia (⭐124)](https://github.com/andrenth/sequoia) - Sequoia is a type-safe query builder for MySQL/MariaDB and PostgreSQL
     *   [Macaque (⭐38)](https://github.com/ocsigen/macaque) — Macaque is a library for safe and flexible database queries using comprehensions on top of PG'OCaml.
-    *   [ORM (⭐54)](https://github.com/mirage/orm) — ORM for SQLite.
-    *   [Caqti (⭐239)](https://github.com/paurkedal/ocaml-caqti) - Cooperative-threaded access to relational data
+    *   [ORM (⭐55)](https://github.com/mirage/orm) — ORM for SQLite.
+    *   [Caqti (⭐280)](https://github.com/paurkedal/ocaml-caqti) - Cooperative-threaded access to relational data
+    *   [Caqti setence preparation, ppx\_rapper (⭐128)](https://github.com/roddyyaga/ppx_rapper)
 *   **Articles**:
     *   [Implementing the Binary Memcached Protocol with Ocaml and Bitstring](https://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/)
     *   [Interfacing OCaml and PostgreSQL with Caqti](https://medium.com/@bobbypriambodo/interfacing-ocaml-and-postgresql-with-caqti-a92515bdaa11)
-    *   [Caqti setence preparation, ppx\_rapper (⭐103)](https://github.com/roddyyaga/ppx_rapper)
+    *   [Finally, Type-Safe, Extensible and Efficient Language Integrated Query](https://www.cs.tsukuba.ac.jp/~kam/papers/pepm2016a.pdf) by Oleg and Co.
+        The proposed approach is to describe SQL queries in type-safe manner and optimize them (using term rewriting or normalization-by evaluation) before sending to database engine. It potentially could optimize O(n^2) queries to O(n) ones.
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Media
 
-*   [CSCore (⭐2k)](https://github.com/filoe/cscore) - An advanced audio library, supporting playback/recording, decoding/encoding and processing of audio data in realtime (effects, visualizations, ...).
+*   [CSCore (⭐2.1k)](https://github.com/filoe/cscore) - An advanced audio library, supporting playback/recording, decoding/encoding and processing of audio data in realtime (effects, visualizations, ...).
 
 ## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

@@ -36,7 +36,6 @@ Probably the best curated list of data science software in Python.
     *   [Imbalanced Datasets](#imbalanced-datasets)
     *   [Random Forests](#random-forests)
     *   [Kernel Methods](#kernel-methods)
-    *   [Extreme Learning Machine](#extreme-learning-machine)
 *   [Deep Learning](#deep-learning)
     *   [PyTorch](#pytorch)
     *   [TensorFlow](#tensorflow)
@@ -44,10 +43,10 @@ Probably the best curated list of data science software in Python.
     *   [JAX](#jax)
     *   [Others](#others)
 *   [Automated Machine Learning](#automated-machine-learning)
-*   [Time Series](#time-series)
 *   [Natural Language Processing](#natural-language-processing)
 *   [Computer Audition](#computer-audition)
 *   [Computer Vision](#computer-vision)
+*   [Time Series](#time-series)
 *   [Reinforcement Learning](#reinforcement-learning)
 *   [Graph Machine Learning](#graph-machine-learning)
 *   [Learning-to-Rank & Recommender Systems](#learning-to-rank-&-recommender-systems)
@@ -145,11 +144,6 @@ Probably the best curated list of data science software in Python.
 *   [scikit-rvm (⭐219)](https://github.com/JamesRitchie/scikit-rvm) - Relevance Vector Machine implementation using the scikit-learn API. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [ThunderSVM (⭐1.5k)](https://github.com/Xtra-Computing/thundersvm) - A fast SVM Library on GPUs and CPUs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
 
-### Extreme Learning Machine
-
-*   [Python Extreme Learning Machine (ELM) (⭐88)](https://github.com/acba/elm) - A machine learning technique used for classification/regression tasks.
-*   [hpelm (⭐179)](https://github.com/akusok/hpelm) - High-performance implementation of Extreme Learning Machines (fast randomized neural networks). <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
-
 ## Deep Learning
 
 ### PyTorch
@@ -211,24 +205,6 @@ Probably the best curated list of data science software in Python.
 *   [TPOT (⭐9.3k)](https://github.com/rhiever/tpot) - AutoML tool that optimizes machine learning pipelines using genetic programming. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [MLBox (⭐1.4k)](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
 
-## Time Series
-
-*   [sktime (⭐7k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [darts (⭐6.5k)](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
-*   [statsforecast (⭐3.1k)](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
-*   [mlforecast (⭐530)](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
-*   [neuralforecast (⭐1.8k)](https://github.com/Nixtla/neuralforecast) - Scalable machine learning-based time series forecasting.
-*   [tslearn (⭐2.6k)](https://github.com/rtavenar/tslearn) - Machine learning toolkit dedicated to time-series data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [tick (⭐436)](https://github.com/X-DataInitiative/tick) - Module for statistical learning, with a particular emphasis on time-dependent modeling.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [greykite (⭐1.7k)](https://github.com/linkedin/greykite) - A flexible, intuitive, and fast forecasting library next.
-*   [Prophet (⭐17k)](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
-*   [PyFlux (⭐2.1k)](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
-*   [bayesloop (⭐132)](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
-*   [luminol (⭐1.1k)](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library.
-*   [dateutil](https://dateutil.readthedocs.io/en/stable/) - Powerful extensions to the standard datetime module
-*   [maya (⭐3.4k)](https://github.com/timofurrer/maya) - makes it very easy to parse a string and for changing timezones
-*   [Chaos Genius (⭐640)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
-
 ## Natural Language Processing
 
 *   [torchtext (⭐3.4k)](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
@@ -270,6 +246,24 @@ Probably the best curated list of data science software in Python.
 *   [Augmentor (⭐5k)](https://github.com/mdbloice/Augmentor) - Image augmentation library in Python for machine learning.
 *   [albumentations (⭐13k)](https://github.com/albu/albumentations) - Fast image augmentation library and easy-to-use wrapper around other libraries.
 *   [LAVIS (⭐7k)](https://github.com/salesforce/LAVIS) - A One-stop Library for Language-Vision Intelligence.
+
+## Time Series
+
+*   [sktime (⭐7k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [darts (⭐6.5k)](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
+*   [statsforecast (⭐3.1k)](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
+*   [mlforecast (⭐547)](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
+*   [neuralforecast (⭐1.8k)](https://github.com/Nixtla/neuralforecast) - Scalable machine learning-based time series forecasting.
+*   [tslearn (⭐2.6k)](https://github.com/rtavenar/tslearn) - Machine learning toolkit dedicated to time-series data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [tick (⭐436)](https://github.com/X-DataInitiative/tick) - Module for statistical learning, with a particular emphasis on time-dependent modeling.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [greykite (⭐1.7k)](https://github.com/linkedin/greykite) - A flexible, intuitive, and fast forecasting library next.
+*   [Prophet (⭐17k)](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
+*   [PyFlux (⭐2.1k)](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
+*   [bayesloop (⭐132)](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
+*   [luminol (⭐1.1k)](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library.
+*   [dateutil](https://dateutil.readthedocs.io/en/stable/) - Powerful extensions to the standard datetime module
+*   [maya (⭐3.4k)](https://github.com/timofurrer/maya) - makes it very easy to parse a string and for changing timezones
+*   [Chaos Genius (⭐648)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
 
 ## Reinforcement Learning
 
@@ -492,7 +486,7 @@ Probably the best curated list of data science software in Python.
 *   [stockstats (⭐1.2k)](https://github.com/jealous/stockstats) - Supply a wrapper `StockDataFrame` based on the `pandas.DataFrame` with inline stock statistics/indicators support.
 *   [weightedcalcs (⭐101)](https://github.com/jsvine/weightedcalcs) - A pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more.
 *   [scikit-posthocs (⭐299)](https://github.com/maximtrp/scikit-posthocs) - Pairwise Multiple Comparisons Post-hoc Tests.
-*   [Alphalens (⭐2.8k)](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors.
+*   [Alphalens (⭐2.9k)](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors.
 
 ## Data Manipulation
 

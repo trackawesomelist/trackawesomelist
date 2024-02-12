@@ -10,7 +10,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [v-scroll-lock (⭐184)](https://github.com/phegman/v-scroll-lock) - A Vue.js directive for body scroll locking without breaking scrolling of a target element
+*   [v-scroll-lock (⭐185)](https://github.com/phegman/v-scroll-lock) - A Vue.js directive for body scroll locking without breaking scrolling of a target element
 
 ## [2. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
@@ -29,13 +29,13 @@
 
 *   [Fast Incident Response (FIR) (⭐1.6k)](https://github.com/certsocietegenerale/FIR) - Cybersecurity incident management platform allowing for easy creation, tracking, and reporting of cybersecurity incidents.
 *   [TheHive](https://thehive-project.org/) - Scalable, free Security Incident Response Platform designed to make life easier for SOCs, CSIRTs, and CERTs, featuring tight integration with MISP.
-*   [threat\_note (⭐421)](https://github.com/defpoint/threat_note) - Web application built by Defense Point Security to allow security researchers the ability to add and retrieve indicators related to their research.
+*   [threat\_note (⭐422)](https://github.com/defpoint/threat_note) - Web application built by Defense Point Security to allow security researchers the ability to add and retrieve indicators related to their research.
 
 ### Incident Response tools / Evidence collection
 
 *   [OSXAuditor (⭐3.1k)](https://github.com/jipegit/OSXAuditor) - Free macOS computer forensics tool.
 *   [OSXCollector (⭐1.9k)](https://github.com/Yelp/osxcollector) - Forensic evidence collection & analysis toolkit for macOS.
-*   [ir-rescue (⭐432)](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+*   [ir-rescue (⭐438)](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 
 ### Operating System distributions / Firewall appliances or distributions
 
@@ -47,12 +47,12 @@
 *   [APTSimulator (⭐2.3k)](https://github.com/NextronSystems/APTSimulator) - Toolset to make a system look as if it was the victim of an APT attack.
 *   [Atomic Red Team](https://atomicredteam.io/) - Library of simple, automatable tests to execute for testing security controls.
 *   [Metta (⭐1k)](https://github.com/uber-common/metta) - Automated information security preparedness tool to do adversarial simulation.
-*   [Network Flight Simulator (`flightsim`) (⭐938)](https://github.com/alphasoc/flightsim) - Utility to generate malicious network traffic and help security teams evaluate security controls and audit their network visibility.
+*   [Network Flight Simulator (`flightsim`) (⭐1.1k)](https://github.com/alphasoc/flightsim) - Utility to generate malicious network traffic and help security teams evaluate security controls and audit their network visibility.
 *   [RedHunt OS (⭐1.2k)](https://github.com/redhuntlabs/RedHunt-OS) - Ubuntu-based Open Virtual Appliance (`.ova`) preconfigured with several threat emulation tools as well as a defender's toolkit.
 
 ### Threat intelligence / Threat hunting
 
-*   [MLSec Combine (⭐638)](https://github.com/mlsecproject/combine) - Gather and combine multiple threat intelligence feed sources into one customizable, standardized CSV-based format.
+*   [MLSec Combine (⭐643)](https://github.com/mlsecproject/combine) - Gather and combine multiple threat intelligence feed sources into one customizable, standardized CSV-based format.
 
 ### Transport-layer defenses / Threat signature packages and collections
 

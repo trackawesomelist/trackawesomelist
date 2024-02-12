@@ -10,7 +10,7 @@
 
 ### C, C++
 
-*   NEW [endatabas (⭐46)](https://github.com/endatabas/endb) - Schemaless SQL document database with full history. [AGPL-3.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   NEW [endatabas (⭐139)](https://github.com/endatabas/endb) - Schemaless SQL document database with full history. [AGPL-3.0](https://directory.fsf.org/wiki/License:Apache2.0).
     *   built in Common Lisp and Rust.
     *   in development, alpha product scheduled for Q2 of 2024. [roadmap](https://docs.endatabas.com/appendix/roadmap.html).
 
@@ -19,7 +19,7 @@
 ### Tools & Software / Utilities
 
 *   [httpreserve.info](https://httpreserve.info/) - Service to return the status of a web page or save it to the Internet Archive. HTTPreserve includes disambiguation of well-known short link services. It returns JSON via the browser or command line via CURL using GET. Describes web sites using earliest and latest dates in the Internet Archive and demonstrates the construction of Robust Links in its output using that range. (Golang). *(Stable)*
-*   [HTTPreserve linkstat (⭐6)](https://github.com/httpreserve/linkstat) - Command line implementation of [httpreserve.info](https://httpreserve.info) to describe the status of a web page. Can be easily scripted and provides JSON output to enable querying through tools like JQ. HTTPreserve Linkstat describes current status, and earliest and latest links on [archive.org](https://archive.org/). (Golang). *(Stable)*
+*   [HTTPreserve linkstat (⭐7)](https://github.com/httpreserve/linkstat) - Command line implementation of [httpreserve.info](https://httpreserve.info) to describe the status of a web page. Can be easily scripted and provides JSON output to enable querying through tools like JQ. HTTPreserve Linkstat describes current status, and earliest and latest links on [archive.org](https://archive.org/). (Golang). *(Stable)*
 
 ## [3. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -39,7 +39,7 @@
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Generative AI Tools Directories / Contribute to Our Repository
+### Generative AI Tools Directories
 
 *   [AIForme](https://www.aiforme.wiki/): AI tools discovery platform with comparison feature
 
@@ -47,21 +47,17 @@
 
 ### Photoshop / Illustrator
 
-*   [Excalidraw (⭐56k)](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
+*   [Excalidraw (⭐68k)](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
 
 ## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
-### Projects / API Gateway
-
-*   [Gloo Edge (⭐3.8k) (⭐3.9k)](https://github.com/solo-io/gloo) - An Envoy Proxy-based API Gateway that provides advanced traffic management, security, and observability features for modern microservices architectures.
-
 ### Projects / Data Mapping Solution
 
-*   [JOLT (⭐1.4k) (⭐1.4k)](https://github.com/bazaarvoice/jolt) - A Java-based JSON-to-JSON transformation library that uses a JSON document as the "specification" for the transform. JOLT provides a simple way for software engineers to transform JSON data.
+*   [JOLT (⭐1.4k) (⭐1.5k)](https://github.com/bazaarvoice/jolt) - A Java-based JSON-to-JSON transformation library that uses a JSON document as the "specification" for the transform. JOLT provides a simple way for software engineers to transform JSON data.
 
 ### Resources / API Specification
 
-*   [OpenAPI (ex.Swagger) (⭐27k) (⭐27k)](https://github.com/OAI/OpenAPI-Specification) - A language-agnostic specification for creating RESTful APIs that enables both humans and machines to understand the capabilities of a service without the need for source code or documentation.
+*   [OpenAPI (ex.Swagger) (⭐27k) (⭐28k)](https://github.com/OAI/OpenAPI-Specification) - A language-agnostic specification for creating RESTful APIs that enables both humans and machines to understand the capabilities of a service without the need for source code or documentation.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -79,7 +75,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐58)](https://github.com/buildo/bento-design-system)
+  Source code \*: [:octocat: (⭐78)](https://github.com/buildo/bento-design-system)
 
 
 - : [Buzzvil Design System](https://design.buzzvil.com/)
@@ -101,7 +97,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐5.5k)](https://github.com/themesberg/flowbite)
+  Source code \*: [:octocat: (⭐6.5k)](https://github.com/themesberg/flowbite)
 
 
 - : [GoodBarber Design System](https://www.goodbarber.com/uxdesign/)
@@ -123,7 +119,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐383)](https://github.com/hashicorp/design-system)
+  Source code \*: [:octocat: (⭐395)](https://github.com/hashicorp/design-system)
 
 
 - : [Jobber](https://atlantis.getjobber.com) (🔱 Atlantis)
@@ -134,7 +130,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐19)](https://github.com/GetJobber/atlantis)
+  Source code \*: [:octocat: (⭐22)](https://github.com/GetJobber/atlantis)
 
 
 - : [JotaDS](https://jota.meiuca.co/)
@@ -146,6 +142,17 @@
   Designers Kit: 👍
 
   Source code \*: [:octocat:](https://github.com/Meiuca/jota-ds-react)
+
+
+- : [Material Minimal](https://material-minimal.com/)
+
+  Components: 👍
+
+  Voice & Tone: 👍
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐24k)](https://github.com/mdbootstrap/mdb-ui-kit)
 
 
 - : [NetApp Luci](https://luci.netapp.com/)
@@ -167,7 +174,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐29)](https://github.com/privy-open-source/design-system)
+  Source code \*: [:octocat: (⭐36)](https://github.com/privy-open-source/design-system)
 
 
 - : [Reach UI](https://reach.tech/)
@@ -194,23 +201,12 @@
   : \_\_\_
 
 
-- : [Material Minimal](https://material-minimal.com/)
-
-  Components: 👍
-
-  Voice & Tone: 👍
-
-  Designers Kit: 👍
-
-  Source code \*: [:octocat: (⭐24k)](https://github.com/mdbootstrap/mdb-ui-kit)
-
-
 
 ## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@storybook/builder-vite (⭐81k)](https://github.com/storybookjs/storybook/tree/next/code/builders/builder-vite/) - Storybook builder.
+*   [@storybook/builder-vite (⭐82k)](https://github.com/storybookjs/storybook/tree/next/code/builders/builder-vite/) - Storybook builder.
 *   [@builder.io/partytown (⭐12k)](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
 
 ---

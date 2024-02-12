@@ -33,9 +33,12 @@
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
+### Serial Port
+
+*   [Serial Communication Library (⭐2k)](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. \[MIT] [website](http://wjwwood.io/serial/)
+
 ### Miscellaneous
 
-*   [Serial Communication Library (⭐1.9k)](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. \[MIT]
 *   [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot Library. \[PublicDomain]
 *   [ZXing (⭐32k)](https://github.com/zxing/zxing/) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. \[Apache]
 

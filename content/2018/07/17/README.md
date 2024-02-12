@@ -8,7 +8,7 @@
 
 ## [1. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Download Management Tools / File Sharing
+### Download Management Tools / Audio Record and Process
 
 *   [Shuttle](https://fiplab.com/apps/download-shuttle-for-mac) - Easy Download Manager for any links.
 
@@ -50,7 +50,7 @@
 
 ### Documentation
 
-*   [The Cycle-Accurate Game Boy Docs (⭐182)](https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf) - A precise documentation by AntonioND to make a cycle-accurate Game Boy emulator.
+*   [The Cycle-Accurate Game Boy Docs (⭐184)](https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf) - A precise documentation by AntonioND to make a cycle-accurate Game Boy emulator.
 
 ### Related projects / Syntax highlighting packages
 

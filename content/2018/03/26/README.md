@@ -27,7 +27,7 @@
 
 ### Redis
 
-*   [celtuce (⭐49)](https://github.com/lerouxrgd/celtuce)
+*   [celtuce (⭐48)](https://github.com/lerouxrgd/celtuce)
 
 ## [4. Awesome Python](/content/vinta/awesome-python/README.md)
 

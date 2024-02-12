@@ -52,11 +52,11 @@ A portable public domain password hashing framework for use in PHP applications.
 
 ### Email
 
-*   [smoothie (⭐44)](https://github.com/jfrolich/smoothie) - Smoothie inline styles of your email templates, and generates a plain text version from the HTML.
+*   [smoothie (⭐45)](https://github.com/jfrolich/smoothie) - Smoothie inline styles of your email templates, and generates a plain text version from the HTML.
 
 ### Instrumenting / Monitoring
 
-*   [prometheus.ex (⭐395)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
+*   [prometheus.ex (⭐396)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
 
 ## [5. Tips](/content/git-tips/tips/README.md)
 
@@ -114,7 +114,7 @@ git merge-base <branch-name> <other-branch-name>
 
 ### Data Manipulation
 
-*   [tidyverse (⭐1.3k)](https://github.com/hadley/tidyverse) - Easily install and load packages from the tidyverse.
+*   [tidyverse (⭐1.6k)](https://github.com/hadley/tidyverse) - Easily install and load packages from the tidyverse.
 
 ### Parallel Computing
 

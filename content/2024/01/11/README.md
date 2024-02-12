@@ -6,7 +6,18 @@
 
 
 
-## [1. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [1. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
+
+### Tools and Frameworks / Audio and video analysis, transcription, and labeling
+
+*   [Annotorious](https://annotorious.github.io) – JavaScript image annotation library
+*   [VGG Image Annotator](https://www.robots.ox.ac.uk/~vgg/software/via/) – manual annotation software for image, audio and video
+
+### Projects, Initiatives, and Case Studies / Project lists & directories
+
+*   [Inventory of NARA Artificial Intelligence (AI) Use Cases](https://www.archives.gov/data/ai-inventory) - the US National Archives and Records Administration (NARA)'s inventory of AI use cases
+
+## [2. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### CI/CD
 
@@ -21,58 +32,48 @@
 *   [k6 for Keptn](https://k6.io/blog/performance-testing-in-keptn-using-k6/)
 *   [k6 for TeamCity](https://k6.io/blog/load-testing-using-teamcity-and-k6/)
 
-## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Cheat Sheets
 
 *   [elixir-lang/elixir](https://hexdocs.pm/elixir/main/enum-cheat.html) - Enum cheatsheets.
 
-## [3. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
+## [4. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
 ### Footprint Calculators
 
 *   [Eaternity](http://eaternity.org) - Eaternity helps you calculate the environmental impact of their food to create a food system that operates within the Earth's environmental limits. Acting as a bridge between science and practical application, Eaternity provides accessible information on the CO₂ balance of food. The company, founded in 2008 at ETH Zurich, has been using a life cycle assessment (LCA) database for over 10 years to achieve this goal. The database has been continuously developed since its creation. By integrating this database into existing production systems, food product producers can measure, improve, and market their specific environmental footprint.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Code Generation
 
 *   [v0.dev](https://v0.dev/) — v0 uses AI models to generate code based on simple text prompts. It generates copy-and-paste friendly React code based on shadcn/ui and Tailwind CSS that people can use in their projects. Each generation takes at minimum 30 credits. You start up with 1200 credits, and get 200 free credits every month.
 
-## [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [6. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / Make your life easier
 
-*   [Ferrum (⭐1.5k)](https://github.com/rubycdp/ferrum) - very simple and easy to get started with frontend/UI testing in small Ruby scripts, high-level API to control Chrome with the CDP - Chrome DevTools Protocol (NO Selenium dependency)
+*   [Ferrum (⭐1.6k)](https://github.com/rubycdp/ferrum) - very simple and easy to get started with frontend/UI testing in small Ruby scripts, high-level API to control Chrome with the CDP - Chrome DevTools Protocol (NO Selenium dependency)
 
-## [6. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [7. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Related Awesome Lists / Mocking
 
-*   [Awesome Hybris (⭐8)](https://github.com/eminyagiz42/awesome-hybris)
+*   [Awesome Hybris (⭐20)](https://github.com/eminyagiz42/awesome-hybris)
 
-## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Sitecore Search
 
 *   [Sitecore Search Starter Kit (⭐5)](https://github.com/Sitecore/Sitecore-Search-TS-SDK-Starter-Kit) - A website example This repository has an example implementation of a content website using the Sitecore Search JS SDK integrating with Sitecore Search services with the supports of event tracking.
 
-## [8. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)
+## [9. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)
 
 ### Similar lists / Videos
 
 *   The VAR Guy's [The Open Source 50](https://web.archive.org/web/20171002071840/http://thevarguy.com/var-guy/var-guys-open-source-50) ([2009 list](http://wayback.archive.org/web/20121118155240/http://www.thevarguy.com/the-open-source-50/the-open-source-50-listed-a-to-z/), [2010 list](http://wayback.archive.org/web/20120509194329/http://www.thevarguy.com/the-open-source-50/the-open-source-50-a-to-z-2010-edition/), [2012 update](https://web.archive.org/web/20171027055302/http://thevarguy.com/open-source-application-software-companies/top-50-open-source-companies-where-are-they-now))
     *   *(unmaintained)*
-
-## [9. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### JavaScript / Wicket
-
-*   [JavaScript for Data Science](https://third-bit.com/js4ds/) - Maya Gans, Toby Hodges, Greg Wilson (HTML)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Research Software Engineering with Python](https://merely-useful.tech/py-rse/) - Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham, Greg Wilson (HTML)
 
 ## [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
@@ -82,4 +83,5 @@
 
 ---
 
+- Prev: [Jan 12, 2024](/content/2024/01/12/README.md)
 - Next: [Jan 10, 2024](/content/2024/01/10/README.md)

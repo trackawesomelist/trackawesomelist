@@ -37,7 +37,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-monthly-picker (⭐68)](https://github.com/ittus/vue-monthly-picker) - Vue.js component for month and year picker only
+*   [vue-monthly-picker (⭐69)](https://github.com/ittus/vue-monthly-picker) - Vue.js component for month and year picker only
 
 ### Components & Libraries / UI Utilities
 

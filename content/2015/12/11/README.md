@@ -35,7 +35,7 @@
 
 ### Framework Components
 
-*   [exdjango (⭐18)](https://github.com/nicksanders/exdjango) - A few elixir libraries for working with django.
+*   [exdjango (⭐19)](https://github.com/nicksanders/exdjango) - A few elixir libraries for working with django.
 
 ### HTTP
 
@@ -55,7 +55,7 @@
 
 ### OTP
 
-*   [erlexec (⭐496)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
+*   [erlexec (⭐502)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
 
 ### Queue
 
@@ -72,7 +72,7 @@
 
 ### YAML
 
-*   [fast\_yaml (⭐48)](https://github.com/processone/fast_yaml) - Fast YAML is an Erlang wrapper for libyaml "C" library.
+*   [fast\_yaml (⭐50)](https://github.com/processone/fast_yaml) - Fast YAML is an Erlang wrapper for libyaml "C" library.
 
 ## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -94,7 +94,7 @@
 
 ### XML
 
-*   [AEXML (⭐980)](https://github.com/tadija/AEXML) - xml wrapper.
+*   [AEXML (⭐979)](https://github.com/tadija/AEXML) - xml wrapper.
 
 ### Images / Barcode
 

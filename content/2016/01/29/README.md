@@ -347,7 +347,7 @@
 
 ### Table of Contents / Debugging and Profiling
 
-*   [PHPBench (⭐1.6k)](https://github.com/phpbench/phpbench) - A benchmarking Framework.
+*   [PHPBench (⭐1.8k)](https://github.com/phpbench/phpbench) - A benchmarking Framework.
 
 ## [5. Tips](/content/git-tips/tips/README.md)
 
@@ -377,15 +377,15 @@ git config --list
 
 ### Queue
 
-*   [enm (⭐119)](https://github.com/basho/enm) - enm is an Erlang port driver that wraps the nanomsg C library.
+*   [enm (⭐120)](https://github.com/basho/enm) - enm is an Erlang port driver that wraps the nanomsg C library.
 
 ## [9. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### GUI Libs / XML
 
-*   [DLangUI (⭐772)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE (⭐425)](https://github.com/buggins/dlangide).
+*   [DLangUI (⭐778)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE (⭐430)](https://github.com/buggins/dlangide).
 *   [DWT (⭐140)](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
-*   [dqml (⭐40)](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
+*   [dqml (⭐41)](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
 
 ### Games / XML
 

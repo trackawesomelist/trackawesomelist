@@ -101,25 +101,25 @@
 
 ### REST and API
 
-*   [accent (⭐35)](https://github.com/sticksnleaves/accent) - Plug for handling the conversion of JSON API keys to different cases.
+*   [accent (⭐38)](https://github.com/sticksnleaves/accent) - Plug for handling the conversion of JSON API keys to different cases.
 *   [versionary (⭐39)](https://github.com/sticksnleaves/versionary) - API versioning for Elixir Plug and Phoenix.
 
 ## [9. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
 ### Machine Learning Libraries / Frameworks
 
-*   [weka (⭐65)](https://github.com/paulgoetze/weka-jruby) -
+*   [weka (⭐64)](https://github.com/paulgoetze/weka-jruby) -
     JRuby bindings for Weka, different ML algorithms implemented through Weka.
-*   [ai4r (⭐712)](https://github.com/SergioFierens/ai4r) -
+*   [ai4r (⭐711)](https://github.com/SergioFierens/ai4r) -
     Artificial Intelligence for Ruby.
-*   [classifier-reborn (⭐540)](https://github.com/jekyll/classifier-reborn) -
+*   [classifier-reborn (⭐541)](https://github.com/jekyll/classifier-reborn) -
     General classifier module to allow Bayesian and other types of classifications. <sup>\[[dep: GLS](#gls)]</sup>
 
 ### Machine Learning Libraries / Neural networks
 
-*   [neural-net-ruby (⭐125)](https://github.com/gbuesing/neural-net-ruby) -
+*   [neural-net-ruby (⭐127)](https://github.com/gbuesing/neural-net-ruby) -
     Neural network written in Ruby.
-*   [ruby-fann (⭐459)](https://github.com/tangledpath/ruby-fann) -
+*   [ruby-fann (⭐465)](https://github.com/tangledpath/ruby-fann) -
     Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
 *   [cerebrum (⭐35)](https://github.com/irfansharif/cerebrum) -
     Experimental implementation for Artificial Neural Networks in Ruby.
@@ -133,7 +133,7 @@
 
 *   [linnaeus (⭐37)](https://github.com/djcp/linnaeus) -
     Redis-backed Bayesian classifier.
-*   [naive\_bayes (⭐46)](https://github.com/reddavis/Naive-Bayes) -
+*   [naive\_bayes (⭐47)](https://github.com/reddavis/Naive-Bayes) -
     Simple Naive Bayes classifier.
 *   [nbayes (⭐152)](https://github.com/oasic/nbayes) -
     Full-featured, Ruby implementation of Naive Bayes.

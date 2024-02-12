@@ -59,7 +59,7 @@
 
 ### Events
 
-*   [Tempura (⭐704)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
+*   [Tempura (⭐705)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
 
 ## [5. Awesome Framer](/content/podo/awesome-framer/README.md)
 
@@ -71,7 +71,7 @@
 
 ### For Electron / Other
 
-*   [electron-timber (⭐379)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
+*   [electron-timber (⭐383)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

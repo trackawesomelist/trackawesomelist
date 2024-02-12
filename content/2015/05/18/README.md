@@ -44,7 +44,7 @@
 
 ### CLI Utilities
 
-*   [Ruby/Progressbar (⭐1.5k)](https://github.com/jfelchner/ruby-progressbar) - The most flexible text progress bar library for Ruby.
+*   [Ruby/Progressbar (⭐1.6k)](https://github.com/jfelchner/ruby-progressbar) - The most flexible text progress bar library for Ruby.
 
 ---
 

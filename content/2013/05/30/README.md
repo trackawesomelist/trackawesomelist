@@ -10,7 +10,7 @@
 
 ### Table of Contents / Security
 
-*   [PHP SSH (⭐353)](https://github.com/Herzult/php-ssh) - An experimental object orientated SSH wrapper library.
+*   [PHP SSH (⭐358)](https://github.com/Herzult/php-ssh) - An experimental object-orientated SSH wrapper library.
 
 ---
 

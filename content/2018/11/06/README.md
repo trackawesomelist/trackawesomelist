@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 06, 2018
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,33 +22,25 @@
 
 *   [Sass MediaQueries](http://rafalbromirski.github.io/sass-mediaqueries/) - Collection of useful media queries mixins for Sass (including iOS devices, TVs and more).
 
-## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### JavaScript / Elm
-
-*   [An Introduction to Elm](https://guide.elm-lang.org) (HTML)
-*   [Elm Programming Language](https://en.wikibooks.org/wiki/Elm_programming_language) (HTML)
-*   [Learn You an Elm](https://learnyouanelm.github.io) (HTML)
-
-## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
 *   [Less Risk Through Greater Humanity - Dave Rensin](https://www.youtube.com/watch?v=0zqBlRW_6jA)
 
-## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Related projects
 
 *   [Operiant](https://operiant.com) - Connect your event streams to actions.
 
-## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Business Intelligence
 
-*   [FastReport (⭐2.4k)](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in ASP.NET MVC, Web API applications.
+*   [FastReport (⭐2.5k)](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in ASP.NET MVC, Web API applications.
 
-## [7. Awesome R](/content/qinwf/awesome-R/README.md)
+## [6. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Integrated Development Environments
 
@@ -56,30 +48,30 @@
 
 ### Data Manipulation
 
-*   [lubridate (⭐655)](https://github.com/tidyverse/lubridate) - A set of functions to work with dates and times.
-*   [bigmemory (⭐116)](https://github.com/kaneplusplus/bigmemory) - Shared memory and memory-mapped matrices. The big\* packages provide additional tools including linear models ([biglm](http://cran.r-project.org/web/packages/biglm/index.html)) and Random Forests ([bigrf (⭐92)](https://github.com/aloysius-lim/bigrf)).
+*   [lubridate (⭐706)](https://github.com/tidyverse/lubridate) - A set of functions to work with dates and times.
+*   [bigmemory (⭐123)](https://github.com/kaneplusplus/bigmemory) - Shared memory and memory-mapped matrices. The big\* packages provide additional tools including linear models ([biglm](http://cran.r-project.org/web/packages/biglm/index.html)) and Random Forests ([bigrf (⭐92)](https://github.com/aloysius-lim/bigrf)).
 
 ### Graphic Displays
 
-*   [lattice (⭐55)](https://github.com/deepayan/lattice) - A powerful and elegant high-level data visualization system.
-*   [animation (⭐194)](https://github.com/yihui/animation) - A simple way to produce animated graphics in R, using [ImageMagick](http://imagemagick.org/).
-*   [waffle (⭐710)](https://github.com/hrbrmstr/waffle) -  🍁 Make waffle (square pie) charts in R.
-*   [dendextend (⭐138)](https://github.com/talgalili/dendextend) -  visualizing, adjusting and comparing trees of hierarchical clustering.
+*   [lattice (⭐67)](https://github.com/deepayan/lattice) - A powerful and elegant high-level data visualization system.
+*   [animation (⭐205)](https://github.com/yihui/animation) - A simple way to produce animated graphics in R, using [ImageMagick](http://imagemagick.org/).
+*   [waffle (⭐756)](https://github.com/hrbrmstr/waffle) -  🍁 Make waffle (square pie) charts in R.
+*   [dendextend (⭐147)](https://github.com/talgalili/dendextend) -  visualizing, adjusting and comparing trees of hierarchical clustering.
 
 ### HTML Widgets
 
-*   [heatmaply (⭐322)](https://github.com/talgalili/heatmaply) - Interactive heatmaps with D3.
-*   [d3heatmap (⭐238)](https://github.com/rstudio/d3heatmap) - Interactive heatmaps with D3 (no longer maintained).
+*   [heatmaply (⭐362)](https://github.com/talgalili/heatmaply) - Interactive heatmaps with D3.
+*   [d3heatmap (⭐237)](https://github.com/rstudio/d3heatmap) - Interactive heatmaps with D3 (no longer maintained).
 
 ### Reproducible Research
 
-*   [tinytex (⭐808)](https://github.com/yihui/tinytex) - A lightweight and easy-to-maintain LaTeX distribution
+*   [tinytex (⭐902)](https://github.com/yihui/tinytex) - A lightweight and easy-to-maintain LaTeX distribution
 
 ### Database Management
 
-*   [odbc (⭐331)](https://github.com/r-dbi/odbc) - Connect to ODBC databases (using the DBI interface)
+*   [odbc (⭐376)](https://github.com/r-dbi/odbc) - Connect to ODBC databases (using the DBI interface)
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -106,7 +98,7 @@
 
 *   [Rin (⭐327)](https://github.com/mayuki/Rin) - Request/response Inspector middleware for ASP.NET Core. like Glimpse.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / External Resources
 

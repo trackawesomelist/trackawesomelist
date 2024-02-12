@@ -22,7 +22,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scrollview (⭐116)](https://github.com/chrishurlburt/vue-scrollview) - A component utilizing scoped slots to detect when a vue component enters and leaves the viewport.
+*   [vue-scrollview (⭐117)](https://github.com/chrishurlburt/vue-scrollview) - A component utilizing scoped slots to detect when a vue component enters and leaves the viewport.
 
 ## [4. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 

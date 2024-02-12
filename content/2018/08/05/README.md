@@ -14,7 +14,7 @@
 
 ### Incident Response tools / IR management consoles
 
-*   [CIRTKit (⭐136)](https://github.com/opensourcesec/CIRTKit) - Scriptable Digital Forensics and Incident Response (DFIR) toolkit built on Viper.
+*   [CIRTKit (⭐139)](https://github.com/opensourcesec/CIRTKit) - Scriptable Digital Forensics and Incident Response (DFIR) toolkit built on Viper.
 
 ### Security monitoring / Service and performance monitoring
 
@@ -22,7 +22,7 @@
 
 ### Threat intelligence / Threat hunting
 
-*   [Forager (⭐164)](https://github.com/opensourcesec/Forager) - Multi-threaded threat intelligence gathering built with Python3 featuring simple text-based configuration and data storage for ease of use and data portability.
+*   [Forager (⭐166)](https://github.com/opensourcesec/Forager) - Multi-threaded threat intelligence gathering built with Python3 featuring simple text-based configuration and data storage for ease of use and data portability.
 *   [Malware Information Sharing Platform and Threat Sharing (MISP)](https://misp-project.org/) - Open source software solution for collecting, storing, distributing and sharing cyber security indicators.
 *   [Viper (⭐1.5k)](https://github.com/viper-framework/viper) - Binary analysis and management framework enabling easy organization of malware and exploit samples.
 

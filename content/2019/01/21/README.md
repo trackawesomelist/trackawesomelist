@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 21, 2019
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,15 +10,9 @@
 
 ### Tools / Neural Networks
 
-*   [layer (⭐558)](https://github.com/cloudkj/layer) - Neural network inference from the command line
+*   [layer (⭐560)](https://github.com/cloudkj/layer) - Neural network inference from the command line
 
-## [2. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
-
-### Free EDA Packages / Installable
-
-*   [LibrePCB](https://librepcb.org/) - A new, powerful and intuitive EDA tool for everyone, cross-platform and GNU GPLv3.
-
-## [3. Awesome List](/content/sindresorhus/awesome/README.md)
+## [2. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
@@ -30,17 +24,17 @@
 
 ### Front-End Development
 
-*   [Aurelia (⭐307)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
+*   [Aurelia (⭐308)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
 
 ### Entertainment
 
-*   [Email Newsletters (⭐3.5k)](https://github.com/zudochkin/awesome-newsletters#readme)
+*   [Email Newsletters (⭐3.6k)](https://github.com/zudochkin/awesome-newsletters#readme)
 
 ### Hardware
 
-*   [Electronics (⭐5.1k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
+*   [Electronics (⭐5.2k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 
-## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [3. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Broker
 
@@ -51,33 +45,33 @@
 
 *   [OwnTracks](https://owntracks.org/) - Location tracking and geofencing for MQTT.
 
-## [5. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
+## [4. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
 ### Tools
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [Sublimate (⭐59)](https://github.com/gabrielepalma/sublimate) – Fast prototyping with synchronization and authentication based on Sourcery.
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Debug
 
-*   [check (⭐992)](https://github.com/libcheck/check) - Check is a unit testing framework for C. \[LGPL-2.1] [website](https://libcheck.github.io/check/)
+*   [check (⭐1k)](https://github.com/libcheck/check) - Check is a unit testing framework for C. \[LGPL-2.1] [website](https://libcheck.github.io/check/)
 
 ### Math
 
 *   [Armadillo](https://gitlab.com/conradsnicta/armadillo-code) - Fast C++ library for linear algebra & scientific computing. \[Apache2] [website](http://arma.sourceforge.net/)
 
-## [7. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
+## [6. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
 
 ### Books
 
 *   [Measure What Matters](https://www.whatmatters.com/book): A handbook for setting and achieving audacious goals by John Doerr.
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Boilerplates
 
-*   [iOS project template (⭐396)](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
+*   [iOS project template (⭐397)](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
 
 ### Events
 
@@ -87,7 +81,7 @@
 
 *   [TSAO (⭐138)](https://github.com/lilyball/swift-tsao) - Type-Safe Associated Objects.
 
-## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
@@ -105,23 +99,24 @@
 
 *   [Building blameless working environment](https://sobolevn.me/2018/12/blameless-environment)
 
-## [10. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
+## [9. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
 ### Presentations
 
 *   [salt-deconstructed](http://salt-decon.carson-anderson.com/) - Video and presentation (slides & PDF) by Carson Anderson.
 
-## [11. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [10. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
+
+*   [Perkeep](https://opencollective.com/perkeep) - Personal storage system.
+*   [Webpack](https://opencollective.com/webpack) - JavaScript module bundler.
+
+### Open Source Projects / Messaging and social media
 
 *   [Flarum](https://opencollective.com/flarum/) - Forum platform.
 *   [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - Federated social network server.
 *   [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - An open network for secure, decentralized communication.
-*   [Neovim](https://salt.bountysource.com/teams/neovim) - Vim-fork focused on extensibility and usability.
-*   [Perkeep](https://opencollective.com/perkeep) - Personal storage system.
-*   [PHPStan](https://www.patreon.com/phpstan) - PHP static analyzer.
-*   [Webpack](https://opencollective.com/webpack) - JavaScript module bundler.
 
 ### Open Source Projects / Libraries
 
@@ -137,13 +132,13 @@
 
 *   [Daniël Klabbers](https://www.patreon.com/luceos) - Contributor to Flarum and other PHP projects.
 
-## [12. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [11. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Blogs
 
 *   [Svaťa Šimara](http://svatasimara.cz/) - DDD series - language, domain, modeling, infrastructure, implementation in PHP
 
-## [13. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [12. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Blogging/news
 
@@ -151,7 +146,7 @@
 
 ### Apps / Widgets
 
-*   [wagtail-autocomplete (⭐109)](https://github.com/wagtail/wagtail-autocomplete) - Autocompleting choosers for `ForeignKey`, `ParentalKey`, and `ManyToMany` fields.
+*   [wagtail-autocomplete (⭐112)](https://github.com/wagtail/wagtail-autocomplete) - Autocompleting choosers for `ForeignKey`, `ParentalKey`, and `ManyToMany` fields.
 
 ### Apps / Testing
 
@@ -159,9 +154,9 @@
 
 ### Apps / Misc
 
-*   [Wagtail Cache (⭐73)](https://github.com/coderedcorp/wagtail-cache) - A simple page cache for Wagtail using the Django cache middleware.
-*   [Wagtail GraphQL (⭐39)](https://github.com/tr11/wagtail-graphql) - App to automatically add GraphQL support to a Wagtail website.
-*   [Wagtail Orderable (⭐58)](https://github.com/elton2048/wagtail-orderable) - Mixin support for drag-and-drop ordering in admin panel.
+*   [Wagtail Cache (⭐76)](https://github.com/coderedcorp/wagtail-cache) - A simple page cache for Wagtail using the Django cache middleware.
+*   [Wagtail GraphQL (⭐38)](https://github.com/tr11/wagtail-graphql) - App to automatically add GraphQL support to a Wagtail website.
+*   [Wagtail Orderable (⭐60)](https://github.com/elton2048/wagtail-orderable) - Mixin support for drag-and-drop ordering in admin panel.
 
 ### Resources / Getting started
 

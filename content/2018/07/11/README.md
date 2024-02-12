@@ -64,7 +64,7 @@ Webpage: <https://yoghut.com/>
 
 ### Endpoint / Anti-Virus / Anti-Malware
 
-*   [LOKI (⭐3k)](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
+*   [LOKI (⭐3.1k)](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
 
 ---
 

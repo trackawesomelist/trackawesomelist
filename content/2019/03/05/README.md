@@ -15,12 +15,12 @@
 
 ### Peripherals / Opcodes
 
-*   [Game Boy Camera RE (⭐76)](https://github.com/AntonioND/gbcam-rev-engineer) - Documentation about GB Camera and tools used to reverse engineer it by using Arduino.
-*   [Arduino Game Boy Printer Emulator (⭐279)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulating a Game Boy Printer via the Game Boy Link cable with an Arduino.
+*   [Game Boy Camera RE (⭐78)](https://github.com/AntonioND/gbcam-rev-engineer) - Documentation about GB Camera and tools used to reverse engineer it by using Arduino.
+*   [Arduino Game Boy Printer Emulator (⭐288)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulating a Game Boy Printer via the Game Boy Link cable with an Arduino.
 
 ### Cartridges / Custom cartridges
 
-*   [Homebrew-Gameboy-Cartridge (⭐126)](https://github.com/dwaq/Homebrew-Gameboy-Cartridge) - Eagle library, schematic, and board files for a cartridge PCB using an Atmel AT49F040 as ROM.
+*   [Homebrew-Gameboy-Cartridge (⭐129)](https://github.com/dwaq/Homebrew-Gameboy-Cartridge) - Eagle library, schematic, and board files for a cartridge PCB using an Atmel AT49F040 as ROM.
 
 ### Emulator Development / Misc
 
@@ -36,7 +36,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Microsoft Recommenders (⭐16k)](https://github.com/Microsoft/Recommenders): Examples and best practices for building recommendation systems, provided as Jupyter notebooks. The repo contains some of the latest state of the art algorithms from Microsoft Research as well as from other companies and institutions.
+*   [Microsoft Recommenders (⭐17k)](https://github.com/Microsoft/Recommenders): Examples and best practices for building recommendation systems, provided as Jupyter notebooks. The repo contains some of the latest state of the art algorithms from Microsoft Research as well as from other companies and institutions.
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -54,100 +54,100 @@
 
 *   [numpy](https://www.numpy.org) - NumPy is the fundamental package for scientific computing with Python.
 *   [pandas](https://pandas.pydata.org) - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
-*   [quantdsl (⭐312)](https://github.com/johnbywater/quantdsl) - Domain specific language for quantitative analytics in finance and trading.
+*   [quantdsl (⭐317)](https://github.com/johnbywater/quantdsl) - Domain specific language for quantitative analytics in finance and trading.
 *   [statistics](https://docs.python.org/3/library/statistics.html) - Builtin Python library for all basic statistical calculations.
 *   [sympy](https://www.sympy.org/) - SymPy is a Python library for symbolic mathematics.
 *   [pymc3](https://docs.pymc.io/) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano.
 
 ### Python / Financial Instruments and Pricing
 
-*   [PyQL (⭐858)](https://github.com/enthought/pyql) - QuantLib's Python port.
-*   [pyfin (⭐294)](https://github.com/opendoor-labs/pyfin) - Basic options pricing in Python. *ARCHIVED*
-*   [QuantPy (⭐531)](https://github.com/jsmidt/QuantPy) - A framework for quantitative finance In python.
-*   [Finance-Python (⭐630)](https://github.com/alpha-miner/Finance-Python) - Python tools for Finance.
-*   [ffn (⭐1.6k)](https://github.com/pmorissette/ffn) - A financial function library for Python.
-*   [tia (⭐389)](https://github.com/bpsmith/tia) - Toolkit for integration and analysis.
+*   [PyQL (⭐891)](https://github.com/enthought/pyql) - QuantLib's Python port.
+*   [pyfin (⭐299)](https://github.com/opendoor-labs/pyfin) - Basic options pricing in Python. *ARCHIVED*
+*   [QuantPy (⭐573)](https://github.com/jsmidt/QuantPy) - A framework for quantitative finance In python.
+*   [Finance-Python (⭐659)](https://github.com/alpha-miner/Finance-Python) - Python tools for Finance.
+*   [ffn (⭐1.7k)](https://github.com/pmorissette/ffn) - A financial function library for Python.
+*   [tia (⭐397)](https://github.com/bpsmith/tia) - Toolkit for integration and analysis.
 *   [hasura/base-python-dash](https://platform.hasura.io/hub/projects/hasura/base-python-dash) - Hasura quickstart to deploy Dash framework. Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building data visualization apps with highly custom user interfaces in pure Python.
 *   [hasura/base-python-bokeh](https://platform.hasura.io/hub/projects/hasura/base-python-bokeh) - Hasura quickstart to visualize data with bokeh library.
-*   [pysabr (⭐318)](https://github.com/ynouri/pysabr) - SABR model Python implementation.
+*   [pysabr (⭐363)](https://github.com/ynouri/pysabr) - SABR model Python implementation.
 
 ### Python / Trading & Backtesting
 
-*   [QuantSoftware Toolkit (⭐458)](https://github.com/QuantSoftware/QuantSoftwareToolkit) - Python-based open source software framework designed to support portfolio construction and management.
-*   [quantitative (⭐55)](https://github.com/jeffrey-liang/quantitative) - Quantitative finance, and backtesting library.
-*   [analyzer (⭐205)](https://github.com/llazzaro/analyzer) - Python framework for real-time financial and backtesting trading strategies.
-*   [bt (⭐1.8k)](https://github.com/pmorissette/bt) - Flexible Backtesting for Python.
+*   [QuantSoftware Toolkit (⭐460)](https://github.com/QuantSoftware/QuantSoftwareToolkit) - Python-based open source software framework designed to support portfolio construction and management.
+*   [quantitative (⭐56)](https://github.com/jeffrey-liang/quantitative) - Quantitative finance, and backtesting library.
+*   [analyzer (⭐204)](https://github.com/llazzaro/analyzer) - Python framework for real-time financial and backtesting trading strategies.
+*   [bt (⭐1.9k)](https://github.com/pmorissette/bt) - Flexible Backtesting for Python.
 *   [backtrader (⭐12k)](https://github.com/backtrader/backtrader) - Python Backtesting library for trading strategies.
 *   [pyalgotrade (⭐4.2k)](https://github.com/gbeced/pyalgotrade) - Python Algorithmic Trading Library.
 *   [tradingWithPython](https://pypi.org/project/tradingWithPython/) - A collection of functions and classes for Quantitative trading.
-*   [algobroker (⭐82)](https://github.com/joequant/algobroker) - This is an execution engine for algo trading.
+*   [algobroker (⭐85)](https://github.com/joequant/algobroker) - This is an execution engine for algo trading.
 *   [pysentosa](https://pypi.org/project/pysentosa/) - Python API for sentosa trading system.
-*   [finmarketpy (⭐3.2k)](https://github.com/cuemacro/finmarketpy) - Python library for backtesting trading strategies and analyzing financial markets.
-*   [binary-martingale (⭐42)](https://github.com/metaperl/binary-martingale) - Computer program to automatically trade binary options martingale style.
+*   [finmarketpy (⭐3.3k)](https://github.com/cuemacro/finmarketpy) - Python library for backtesting trading strategies and analyzing financial markets.
+*   [binary-martingale (⭐43)](https://github.com/metaperl/binary-martingale) - Computer program to automatically trade binary options martingale style.
 *   [fooltrader (⭐1.1k)](https://github.com/foolcage/fooltrader) - the project using big-data technology to provide an uniform way to analyze the whole market.
-*   [pylivetrader (⭐639)](https://github.com/alpacahq/pylivetrader) - zipline-compatible live trading library.
-*   [pipeline-live (⭐200)](https://github.com/alpacahq/pipeline-live) - zipline's pipeline capability with IEX for live trading.
-*   [zipline-extensions (⭐17)](https://github.com/quantrocket-llc/zipline-extensions) - Zipline extensions and adapters for QuantRocket.
-*   [moonshot (⭐166)](https://github.com/quantrocket-llc/moonshot) - Vectorized backtester and trading engine for QuantRocket based on Pandas.
+*   [pylivetrader (⭐643)](https://github.com/alpacahq/pylivetrader) - zipline-compatible live trading library.
+*   [pipeline-live (⭐202)](https://github.com/alpacahq/pipeline-live) - zipline's pipeline capability with IEX for live trading.
+*   [zipline-extensions (⭐18)](https://github.com/quantrocket-llc/zipline-extensions) - Zipline extensions and adapters for QuantRocket.
+*   [moonshot (⭐181)](https://github.com/quantrocket-llc/moonshot) - Vectorized backtester and trading engine for QuantRocket based on Pandas.
 
 ### Python / Risk Analysis
 
-*   [pyfolio (⭐5.2k)](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python.
-*   [empyrical (⭐1.1k)](https://github.com/quantopian/empyrical) - Common financial risk and performance metrics.
+*   [pyfolio (⭐5.3k)](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python.
+*   [empyrical (⭐1.2k)](https://github.com/quantopian/empyrical) - Common financial risk and performance metrics.
 *   [finance](https://pypi.org/project/finance/) - Financial Risk Calculations. Optimized for ease of use through class construction and operator overload.
 *   [qfrm](https://pypi.org/project/qfrm/) - Quantitative Financial Risk Management: awesome OOP tools for measuring, managing and visualizing risk of financial instruments and portfolios.
-*   [visualize-wealth (⭐132)](https://github.com/benjaminmgross/visualize-wealth) - Portfolio construction and quantitative analysis.
-*   [VisualPortfolio (⭐95)](https://github.com/wegamekinglc/VisualPortfolio) - This tool is used to visualize the performance of a portfolio.
+*   [visualize-wealth (⭐134)](https://github.com/benjaminmgross/visualize-wealth) - Portfolio construction and quantitative analysis.
+*   [VisualPortfolio (⭐100)](https://github.com/wegamekinglc/VisualPortfolio) - This tool is used to visualize the performance of a portfolio.
 
 ### Python / Factor Analysis
 
-*   [alphalens (⭐2.8k)](https://github.com/quantopian/alphalens) - Performance analysis of predictive alpha factors.
+*   [alphalens (⭐3k)](https://github.com/quantopian/alphalens) - Performance analysis of predictive alpha factors.
 
 ### Python / Time Series
 
 *   [ARCH (⭐1.2k)](https://github.com/bashtage/arch) - ARCH models in Python.
 *   [dynts (⭐86)](https://github.com/quantmind/dynts) - Python package for timeseries analysis and manipulation.
 *   [PyFlux (⭐2.1k)](https://github.com/RJT1990/pyflux) - Python library for timeseries modelling and inference (frequentist and Bayesian) on models.
-*   [tsfresh (⭐7.8k)](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series.
+*   [tsfresh (⭐8k)](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series.
 *   [hasura/quandl-metabase](https://platform.hasura.io/hub/projects/anirudhm/quandl-metabase-time-series) - Hasura quickstart to visualize Quandl's timeseries datasets with Metabase.
 
 ### Python / Calendars
 
-*   [bizdays (⭐71)](https://github.com/wilsonfreitas/python-bizdays) - Business days calculations and utilities.
-*   [pandas\_market\_calendars (⭐656)](https://github.com/rsheftel/pandas_market_calendars) - Exchange calendars to use with pandas for trading applications.
+*   [bizdays (⭐73)](https://github.com/wilsonfreitas/python-bizdays) - Business days calculations and utilities.
+*   [pandas\_market\_calendars (⭐705)](https://github.com/rsheftel/pandas_market_calendars) - Exchange calendars to use with pandas for trading applications.
 
 ### Python / Data Sources
 
-*   [googlefinance (⭐647)](https://github.com/hongtaocai/googlefinance) - Python module to get real-time stock data from Google Finance API.
-*   [yahoo-finance (⭐1.2k)](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
-*   [pandas-datareader (⭐2.7k)](https://github.com/pydata/pandas-datareader) - Python module to get data from various sources (Google Finance, Yahoo Finance, FRED, OECD, Fama/French, World Bank, Eurostat...) into Pandas datastructures such as DataFrame, Panel with a caching mechanism.
-*   [pandas-finance (⭐146)](https://github.com/davidastephens/pandas-finance) - High level API for access to and analysis of financial data.
+*   [googlefinance (⭐674)](https://github.com/hongtaocai/googlefinance) - Python module to get real-time stock data from Google Finance API.
+*   [yahoo-finance (⭐1.3k)](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
+*   [pandas-datareader (⭐2.8k)](https://github.com/pydata/pandas-datareader) - Python module to get data from various sources (Google Finance, Yahoo Finance, FRED, OECD, Fama/French, World Bank, Eurostat...) into Pandas datastructures such as DataFrame, Panel with a caching mechanism.
+*   [pandas-finance (⭐148)](https://github.com/davidastephens/pandas-finance) - High level API for access to and analysis of financial data.
 *   [pyhoofinance (⭐9)](https://github.com/innes213/pyhoofinance) - Rapidly queries Yahoo Finance for multiple tickers and returns typed data for analysis.
 *   [yfinanceapi (⭐8)](https://github.com/Karthik005/yfinanceapi) - Finance API for Python.
-*   [yql-finance (⭐15)](https://github.com/slawek87/yql-finance) - yql-finance is simple and fast. API returns stock closing prices for current period of time and current stock ticker (i.e. APPL, GOOGL).
-*   [ystockquote (⭐527)](https://github.com/cgoldberg/ystockquote) - Retrieve stock quote data from Yahoo Finance.
-*   [wallstreet (⭐1.1k)](https://github.com/mcdallas/wallstreet) - Real time stock and option data.
-*   [stock\_extractor (⭐23)](https://github.com/ZachLiuGIS/stock_extractor) - General Purpose Stock Extractors from Online Resources.
-*   [Stockex (⭐31)](https://github.com/cttn/Stockex) - Python wrapper for Yahoo! Finance API.
-*   [finsymbols (⭐95)](https://github.com/skillachie/finsymbols) - Obtains stock symbols and relating information for SP500, AMEX, NYSE, and NASDAQ.
-*   [FRB (⭐145)](https://github.com/avelkoski/FRB) - Python Client for FRED® API.
-*   [inquisitor (⭐33)](https://github.com/econdb/inquisitor) - Python Interface to Econdb.com API.
+*   [yql-finance (⭐16)](https://github.com/slawek87/yql-finance) - yql-finance is simple and fast. API returns stock closing prices for current period of time and current stock ticker (i.e. APPL, GOOGL).
+*   [ystockquote (⭐525)](https://github.com/cgoldberg/ystockquote) - Retrieve stock quote data from Yahoo Finance.
+*   [wallstreet (⭐1.2k)](https://github.com/mcdallas/wallstreet) - Real time stock and option data.
+*   [stock\_extractor (⭐27)](https://github.com/ZachLiuGIS/stock_extractor) - General Purpose Stock Extractors from Online Resources.
+*   [Stockex (⭐32)](https://github.com/cttn/Stockex) - Python wrapper for Yahoo! Finance API.
+*   [finsymbols (⭐99)](https://github.com/skillachie/finsymbols) - Obtains stock symbols and relating information for SP500, AMEX, NYSE, and NASDAQ.
+*   [FRB (⭐149)](https://github.com/avelkoski/FRB) - Python Client for FRED® API.
+*   [inquisitor (⭐34)](https://github.com/econdb/inquisitor) - Python Interface to Econdb.com API.
 *   [yfi (⭐2)](https://github.com/nickelkr/yfi) - Yahoo! YQL library.
 *   [chinesestockapi](https://pypi.org/project/chinesestockapi/) - Python API to get Chinese stock price.
 *   [exchange (⭐16)](https://github.com/akarat/exchange) - Get current exchange rate.
 *   [ticks (⭐16)](https://github.com/jamescnowell/ticks) - Simple command line tool to get stock ticker data.
 *   [pybbg (⭐51)](https://github.com/bpsmith/pybbg) - Python interface to Bloomberg COM APIs.
-*   [ccy (⭐66)](https://github.com/lsbardel/ccy) - Python module for currencies.
+*   [ccy (⭐71)](https://github.com/lsbardel/ccy) - Python module for currencies.
 *   [tushare](https://pypi.org/project/tushare/) - A utility for crawling historical and Real-time Quotes data of China stocks.
 *   [jsm](https://pypi.org/project/jsm/) - Get the japanese stock market data.
 *   [cn\_stock\_src (⭐33)](https://github.com/jealous/cn_stock_src) - Utility for retrieving basic China stock data from different sources.
-*   [coinmarketcap (⭐424)](https://github.com/barnumbirr/coinmarketcap) - Python API for coinmarketcap.
+*   [coinmarketcap (⭐431)](https://github.com/barnumbirr/coinmarketcap) - Python API for coinmarketcap.
 *   [after-hours (⭐34)](https://github.com/datawrestler/after-hours) - Obtain pre market and after hours stock prices for a given symbol.
 *   [bronto-python](https://pypi.org/project/bronto-python/) - Bronto API Integration for Python.
 *   [pytdx (⭐1.3k)](https://github.com/rainx/pytdx) - Python Interface for retrieving chinese stock realtime quote data from TongDaXin Nodes.
-*   [pdblp (⭐226)](https://github.com/matthewgilbert/pdblp) - A simple interface to integrate pandas and the Bloomberg Open API.
-*   [tiingo (⭐219)](https://github.com/hydrosquall/tiingo-python) - Python interface for daily composite prices/OHLC/Volume + Real-time News Feeds, powered by the Tiingo Data Platform.
-*   [alpaca-trade-api (⭐1.6k)](https://github.com/alpacahq/alpaca-trade-api-python) - Python interface for retrieving real-time and historical prices from Alpaca API as well as trade execution.
+*   [pdblp (⭐230)](https://github.com/matthewgilbert/pdblp) - A simple interface to integrate pandas and the Bloomberg Open API.
+*   [tiingo (⭐227)](https://github.com/hydrosquall/tiingo-python) - Python interface for daily composite prices/OHLC/Volume + Real-time News Feeds, powered by the Tiingo Data Platform.
+*   [alpaca-trade-api (⭐1.7k)](https://github.com/alpacahq/alpaca-trade-api-python) - Python interface for retrieving real-time and historical prices from Alpaca API as well as trade execution.
 
 ### Python / Excel Integration
 
@@ -162,15 +162,15 @@
 *   [fGarch](https://cran.r-project.org/web/packages/fGarch/index.html) - Rmetrics - Autoregressive Conditional Heteroskedastic Modelling.
 *   [timeSeries](https://cran.r-project.org/web/packages/timeSeries/index.html) - Rmetrics - Financial Time Series Objects.
 *   [tidypredict (⭐1)](https://github.com/edgararuiz/tidypredict) - Run predictions inside the database <https://tidypredict.netlify.com/>.
-*   [tidyquant (⭐807)](https://github.com/business-science/tidyquant) - Bringing financial analysis to the tidyverse.
-*   [timetk (⭐577)](https://github.com/business-science/timetk) - A toolkit for working with time series in R.
+*   [tidyquant (⭐824)](https://github.com/business-science/tidyquant) - Bringing financial analysis to the tidyverse.
+*   [timetk (⭐595)](https://github.com/business-science/timetk) - A toolkit for working with time series in R.
 
 ### R / Financial Instruments and Pricing
 
 *   [quantmod](https://cran.r-project.org/web/packages/quantmod/index.html) - Quantitative Financial Modelling Framework.
-*   [sparseIndexTracking (⭐41)](https://github.com/dppalomar/sparseIndexTracking) - Portfolio design to track an index.
-*   [covFactorModel (⭐23)](https://github.com/dppalomar/covFactorModel) - Covariance matrix estimation via factor models.
-*   [riskParityPortfolio (⭐99)](https://github.com/dppalomar/riskParityPortfolio) - Blazingly fast design of risk parity portfolios.
+*   [sparseIndexTracking (⭐45)](https://github.com/dppalomar/sparseIndexTracking) - Portfolio design to track an index.
+*   [covFactorModel (⭐27)](https://github.com/dppalomar/covFactorModel) - Covariance matrix estimation via factor models.
+*   [riskParityPortfolio (⭐100)](https://github.com/dppalomar/riskParityPortfolio) - Blazingly fast design of risk parity portfolios.
 *   [sde](https://cran.r-project.org/web/packages/sde/index.html) - Simulation and Inference for Stochastic Differential Equations.
 *   [YieldCurve](https://cran.r-project.org/web/packages/YieldCurve/index.html) - Modelling and estimation of the yield curve.
 *   [SmithWilsonYieldCurve](https://cran.r-project.org/web/packages/SmithWilsonYieldCurve/index.html) - Constructs a yield curve by the Smith-Wilson method from a table of LIBOR and SWAP rates.
@@ -183,7 +183,7 @@
 *   [tvm](https://cran.r-project.org/web/packages/tvm/index.html) - Time Value of Money Functions.
 *   [OptionPricing](https://cran.r-project.org/web/packages/OptionPricing/index.html) - Option Pricing with Efficient Simulation Algorithms.
 *   [derivmkts](https://cran.r-project.org/web/packages/derivmkts/index.html) - Functions and R Code to Accompany Derivatives Markets.
-*   [FinCal (⭐20)](https://github.com/felixfan/FinCal) - Package for time value of money calculation, time series analysis and computational finance.
+*   [FinCal (⭐21)](https://github.com/felixfan/FinCal) - Package for time value of money calculation, time series analysis and computational finance.
 *   [r-quant (⭐28)](https://github.com/artyyouth/r-quant) - R code for quantitative analysis in finance.
 *   [options.studies (⭐5)](https://github.com/taylorizing/options.studies) - options trading studies functions for use with options.data package and shiny.
 
@@ -195,28 +195,28 @@
 
 ### Matlab / FrameWorks
 
-*   [QUANTAXIS (⭐7.6k)](https://github.com/yutiansut/quantaxis) - Integrated Quantitative Toolbox with Matlab.
+*   [QUANTAXIS (⭐7.8k)](https://github.com/yutiansut/quantaxis) - Integrated Quantitative Toolbox with Matlab.
 
 ### Julia / FrameWorks
 
-*   [Ito.jl (⭐34)](https://github.com/aviks/Ito.jl) - A Julia package for quantitative finance.
+*   [Ito.jl (⭐35)](https://github.com/aviks/Ito.jl) - A Julia package for quantitative finance.
 *   [TALib.jl (⭐50)](https://github.com/femtotrader/TALib.jl) - A Julia wrapper for TA-Lib.
 *   [Temporal.jl (⭐98)](https://github.com/dysonance/Temporal.jl) - Flexible and efficient time series class & methods.
-*   [Indicators.jl (⭐208)](https://github.com/dysonance/Indicators.jl) - Financial market technical analysis & indicators on top of Temporal.
-*   [Strategems.jl (⭐158)](https://github.com/dysonance/Strategems.jl) - Quantitative systematic trading strategy development and backtesting.
-*   [TimeSeries.jl (⭐325)](https://github.com/JuliaStats/TimeSeries.jl) - Time series toolkit for Julia.
-*   [MarketTechnicals.jl (⭐119)](https://github.com/JuliaQuant/MarketTechnicals.jl) - Technical analysis of financial time series on top of TimeSeries.
-*   [MarketData.jl (⭐129)](https://github.com/JuliaQuant/MarketData.jl) - Time series market data.
+*   [Indicators.jl (⭐212)](https://github.com/dysonance/Indicators.jl) - Financial market technical analysis & indicators on top of Temporal.
+*   [Strategems.jl (⭐161)](https://github.com/dysonance/Strategems.jl) - Quantitative systematic trading strategy development and backtesting.
+*   [TimeSeries.jl (⭐333)](https://github.com/JuliaStats/TimeSeries.jl) - Time series toolkit for Julia.
+*   [MarketTechnicals.jl (⭐121)](https://github.com/JuliaQuant/MarketTechnicals.jl) - Technical analysis of financial time series on top of TimeSeries.
+*   [MarketData.jl (⭐135)](https://github.com/JuliaQuant/MarketData.jl) - Time series market data.
 *   [TimeFrames.jl (⭐4)](https://github.com/femtotrader/TimeFrames.jl) - A Julia library that defines TimeFrame (essentially for resampling TimeSeries).
 
 ### Java / FrameWorks
 
 *   [finmath.net](http://finmath.net) - Java library with algorithms and methodologies related to mathematical finance.
-*   [quantcomponents (⭐158)](https://github.com/lsgro/quantcomponents) - Free Java components for Quantitative Finance and Algorithmic Trading.
+*   [quantcomponents (⭐163)](https://github.com/lsgro/quantcomponents) - Free Java components for Quantitative Finance and Algorithmic Trading.
 
 ### Haskell / Data Visualization
 
-*   [quantfin (⭐130)](https://github.com/boundedvariation/quantfin) - quant finance in pure haskell.
+*   [quantfin (⭐131)](https://github.com/boundedvariation/quantfin) - quant finance in pure haskell.
 
 ### Scala / Data Visualization
 
@@ -225,12 +225,12 @@
 ### Frameworks / Data Visualization
 
 *   [TA-Lib](https://ta-lib.org) - perform technical analysis of financial market data.
-    *   [ta-lib-python (⭐8.4k)](https://github.com/TA-Lib/ta-lib-python)
-    *   [ta-lib (⭐128)](https://github.com/TA-Lib/ta-lib)
+    *   [ta-lib-python (⭐8.7k)](https://github.com/TA-Lib/ta-lib-python)
+    *   [ta-lib (⭐241)](https://github.com/TA-Lib/ta-lib)
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [quant (⭐266)](https://github.com/paulperry/quant) - Quantitative Finance and Algorithmic Trading exhaust; mostly ipython notebooks based on Quantopian, Zipline, or Pandas.
+*   [quant (⭐280)](https://github.com/paulperry/quant) - Quantitative Finance and Algorithmic Trading exhaust; mostly ipython notebooks based on Quantopian, Zipline, or Pandas.
 
 ## [6. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -255,10 +255,6 @@
 
 *   [Stuntman](https://rimdev.io/stuntman/) - Stuntman is a library for impersonating users during development leveraging .NET Claims Identity.
 
-### CMS
-
-*   [Piranha CMS](https://github.com/PiranhaCMS/Piranha) - Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix. <https://piranhacms.org>
-
 ### Compilers, Transpilers and Languages
 
 *   [Hybridizer](https://www.altimesh.com/hybridizer-essentials/) - CIL (C#, VB.Net, F#) to CUDA compiler. **\[$]**
@@ -273,7 +269,7 @@
 
 ### Database
 
-*   [LiteDB (⭐7.8k)](https://github.com/mbdavid/LiteDB) - A .NET NoSQL Document Store in a single data file - <https://www.litedb.org>
+*   [LiteDB (⭐8k)](https://github.com/mbdavid/LiteDB) - A .NET NoSQL Document Store in a single data file - <https://www.litedb.org>
 
 ### Decompilation
 
@@ -289,7 +285,7 @@
 
 ### Git Tools
 
-*   [GitExtensions (⭐7.2k)](https://github.com/gitextensions/gitextensions) - GitExtensions is a shell extension, a Visual Studio 2008/2010/2012/2013 plugin and a standalone Git repository tool. <https://gitextensions.github.io/>
+*   [GitExtensions (⭐7.4k)](https://github.com/gitextensions/gitextensions) - GitExtensions is a shell extension, a Visual Studio 2008/2010/2012/2013 plugin and a standalone Git repository tool. <https://gitextensions.github.io/>
 
 ### Graphics
 
@@ -318,11 +314,11 @@
 
 ### Object to object mapping
 
-*   [AutoMapper (⭐9.6k)](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET. <https://automapper.org>
+*   [AutoMapper (⭐9.7k)](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET. <https://automapper.org>
 
 ### Office
 
-*   [NPOI (⭐7)](https://github.com/tonyqus/npoi) - This project is the .NET version of POI Java project at <https://poi.apache.org/>.
+*   [NPOI (⭐33)](https://github.com/tonyqus/npoi) - This project is the .NET version of POI Java project at <https://poi.apache.org/>.
 
 ### Package Management
 
@@ -348,11 +344,11 @@
 
 ### Compression
 
-*   [miniz (⭐1.9k)](https://github.com/richgel999/miniz) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. \[MIT]
+*   [miniz (⭐2k)](https://github.com/richgel999/miniz) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. \[MIT]
 
 ### Machine Learning
 
-*   [flashlight (⭐5k)](https://github.com/facebookresearch/flashlight) - A fast, flexible machine learning library from Facebook AI Research written entirely in C++ and based on the ArrayFire tensor library. \[BSD-3-Clause] [website](https://fl.readthedocs.io/en/latest/)
+*   [flashlight (⭐5.1k)](https://github.com/facebookresearch/flashlight) - A fast, flexible machine learning library from Facebook AI Research written entirely in C++ and based on the ArrayFire tensor library. \[BSD-3-Clause] [website](https://fl.readthedocs.io/en/latest/)
 
 ## [10. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 

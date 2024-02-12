@@ -21,30 +21,26 @@
 ### Table of Contents / Micro Frameworks
 
 *   [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
-*   [Silly (⭐849)](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
+*   [Silly (⭐891)](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
 
 ### Table of Contents / HTTP
 
-*   [Nyholm PSR-7 (⭐951)](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation. Very strict and very fast.
-*   [Laminas Diactoros (⭐333)](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
+*   [Nyholm PSR-7 (⭐1.1k)](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation. Very strict and very fast.
+*   [Laminas Diactoros (⭐420)](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
 
 ### Table of Contents / Middlewares
 
-*   [PSR-7 Middlewares (⭐657)](https://github.com/oscarotero/psr7-middlewares) - Inspiring collection of handy middlewares.
+*   [PSR-7 Middlewares (⭐668)](https://github.com/oscarotero/psr7-middlewares) - Inspiring collection of handy middlewares.
 *   [Stack](https://github.com/stackphp) - A library of stackable middleware for Symfony.
-*   [Laminas Stratigility (⭐44)](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
+*   [Laminas Stratigility (⭐53)](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
 
 ### Table of Contents / Email
 
-*   [Symfony Mailer (⭐1.1k)](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
-
-### Table of Contents / Streams
-
-*   [ByteStream](https://amphp.org/byte-stream/) - An asynchronous stream abstraction.
+*   [Symfony Mailer (⭐1.4k)](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
 
 ### Table of Contents / Dependency Injection
 
-*   [Symfony DI (⭐3.8k)](https://github.com/symfony/dependency-injection) - A dependency injection container component.
+*   [Symfony DI (⭐4k)](https://github.com/symfony/dependency-injection) - A dependency injection container component.
 
 ### Table of Contents / Testing
 
@@ -56,17 +52,17 @@
 
 ### Table of Contents / Documentation
 
-*   [daux.io (⭐713)](https://github.com/dauxio/daux.io) - A documentation generator which uses Markdown files.
+*   [daux.io (⭐773)](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
 
 ### Table of Contents / Event
 
-*   [CakePHP Event (⭐21)](https://github.com/cakephp/event) - An event dispatcher library.
-*   [ReactPHP (⭐8.4k)](https://github.com/reactphp/reactphp) - An event driven non-blocking I/O library.
+*   [CakePHP Event (⭐22)](https://github.com/cakephp/event) - An event dispatcher library.
+*   [ReactPHP (⭐8.8k)](https://github.com/reactphp/reactphp) - An event driven non-blocking I/O library.
 
 ### Table of Contents / Database
 
-*   [CakePHP ORM (⭐146)](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern.
-*   [Laravel Eloquent (⭐2.5k)](https://github.com/illuminate/database) - A simple ORM.
+*   [CakePHP ORM (⭐148)](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern.
+*   [Laravel Eloquent (⭐2.6k)](https://github.com/illuminate/database) - A simple ORM.
 
 ### Table of Contents / Queue
 
@@ -74,25 +70,25 @@
 
 ### Table of Contents / Filtering and Validation
 
-*   [CakePHP Validation (⭐39)](https://github.com/cakephp/validation) - Another validation library.
+*   [CakePHP Validation (⭐43)](https://github.com/cakephp/validation) - Another validation library.
 
 ### Table of Contents / API
 
-*   [Laminas API Tool Skeleton (⭐41)](https://github.com/laminas-api-tools/api-tools-skeleton) - An API builder built with the Laminas Framework.
+*   [Laminas API Tool Skeleton (⭐49)](https://github.com/laminas-api-tools/api-tools-skeleton) - An API builder built with the Laminas Framework.
 
 ### Table of Contents / Caching and Locking
 
-*   [CakePHP Cache (⭐49)](https://github.com/cakephp/cache) - A caching library.
-*   [Laminas Cache (⭐63)](https://github.com/laminas/laminas-cache) - Another caching library.
+*   [CakePHP Cache (⭐51)](https://github.com/cakephp/cache) - A caching library.
+*   [Laminas Cache (⭐88)](https://github.com/laminas/laminas-cache) - Another caching library.
 
 ### Table of Contents / Data Structure and Storage
 
-*   [CakePHP Collection (⭐84)](https://github.com/cakephp/collection) - A simple collections library.
-*   [Laminas Serializer (⭐27)](https://github.com/laminas/laminas-serializer) - Another library for serialising and de-serialising data.
+*   [CakePHP Collection (⭐87)](https://github.com/cakephp/collection) - A simple collections library.
+*   [Laminas Serializer (⭐34)](https://github.com/laminas/laminas-serializer) - Another library for serialising and de-serialising data.
 
 ### Table of Contents / Internationalisation and Localisation
 
-*   [CakePHP I18n (⭐27)](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers.
+*   [CakePHP I18n (⭐29)](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers.
 
 ### Configuration / PHP Installation
 
@@ -103,7 +99,6 @@
 
 *   [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
 *   [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
-*   [Puppet](https://puppet.com/) - A server automation framework and application.
 *   [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
 
 ### Configuration / PHP Videos
@@ -145,20 +140,6 @@
 *   [Berkeley EECS](http://inst.eecs.berkeley.edu/classes-eecs.html) - Comprehensive EE & CS course website archives.
 *   [Dr. Jacob Baker](http://cmosedu.com) - Courses and tutorials, professor at The University of Nevada, Las Vegas.
 *   [Dr. Abraham](https://www.cerc.utexas.edu/~jaa/teaching.html), [Dr. McDermot](http://users.ece.utexas.edu/~mcdermot/), and [Dr. Valvano](http://users.ece.utexas.edu/~valvano/) - Courses materials, professors at UT Austin
-
-### Simulators / Analog and Mixed Signal Circuit Simulators
-
-*   [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) - The industry standard free SPICE circuit simulator from Linear Technologies. Also see the unofficial [LTwiki](http://ltwiki.org/?title=Main_Page) and [Group](https://groups.io/g/LTspice).
-*   [Qucs](http://qucs.sourceforge.net/) - Open source, cross-platform, non-SPICE-based circuit simulator, with with S-parameter and Harmonic Balance capability.
-*   [Open Circuit Design Software](http://opencircuitdesign.com) - Open Source, full EDA suite chip design suite, focused on keeping up with commercial tools.
-*   [TINA-TI](http://www.ti.com/tool/TINA-TI) - Exclusive [DesignSoft-TINA](https://www.tina.com) build for Texas Instruments, bundled with Texas Instruments Models.
-*   [CppSim](https://www.cppsim.com/) - Free, open source circuit simulator that leverages the C++ language to achieve very fast simulation times.
-*   [Scilab with Xcos](https://www.scilab.org/) - Free, open source numerical computing alternative to MATLAB. Xcos provides Electrical System modeling capability similar to Simulink.
-
-### Simulators / Verilog HDL Simulators
-
-*   [Verilator](https://www.veripool.org/wiki/verilator) - Free, open source Verilog compiler. Test benches are in C++ or SystemC. Very fast, but limted to 2-state, cycle-based simulation, and synthesizeable code only.
-*   [Icarus Verilog](http://iverilog.icarus.com/) - Free, open source verilog interpreter. Test benches are in behavioral verilog. Simulation is 4-state, and event-based.
 
 ## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -208,7 +189,7 @@
 
 ### Apps / Outline Processor Markup Language
 
-*   [FeedMe (⭐909)](https://github.com/seazon/FeedMe/) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.seazon.feedme)
+*   [FeedMe (⭐993)](https://github.com/seazon/FeedMe/) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.seazon.feedme)
 
 ### RSSHub / Outline Processor Markup Language
 
@@ -216,7 +197,7 @@
 
 ### TTRSS / Outline Processor Markup Language
 
-*   [Tiny Tiny RSS Feedlish Theme (⭐37)](https://github.com/Gravemind/tt-rss-feedlish-theme) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Gravemind/tt-rss-feedlish-theme)
+*   [Tiny Tiny RSS Feedlish Theme (⭐38)](https://github.com/Gravemind/tt-rss-feedlish-theme) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Gravemind/tt-rss-feedlish-theme)
 
 ### universally from / multiple sources
 

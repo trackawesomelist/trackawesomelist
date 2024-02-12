@@ -45,13 +45,13 @@
 
 ### Command-Line Productivity
 
-*   [Buku (⭐5.7k)](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
+*   [Buku (⭐5.9k)](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
 *   [googler (⭐6k)](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
-*   [nnn (⭐16k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
+*   [nnn (⭐17k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [imgp (⭐950)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
+*   [imgp (⭐983)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Open Source / Other
 
-*   [Buka (⭐1k)](https://github.com/oguzhaninan/Buka) - E-book management.
+*   [Buka (⭐1.1k)](https://github.com/oguzhaninan/Buka) - E-book management.
 
 ### Components / Other
 

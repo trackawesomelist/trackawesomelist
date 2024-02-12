@@ -44,7 +44,7 @@
 
 ### Concurrency
 
-*   [concurrencpp (⭐1.7k)](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
+*   [concurrencpp (⭐2k)](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 

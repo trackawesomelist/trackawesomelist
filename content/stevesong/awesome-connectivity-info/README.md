@@ -57,7 +57,7 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 
 ### Global Connectivity Indexes
 
-*   [ITU Measuring digital development](https://www.itu.int/en/ITU-D/Statistics/Pages/facts/default.aspx) - Facts and Figures. ([2023](https://www.itu.int/hub/publication/d-ind-ict_mdd-2023/)) ([2022](https://www.itu.int/hub/publication/d-ind-ict_mdd-2022/)) ([2021](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2021.pdf)) ([2020](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2020.pdf))
+*   [ITU Measuring digital development](https://www.itu.int/en/ITU-D/Statistics/Pages/facts/default.aspx) - Facts and Figures. ([2023](https://www.itu.int/dms_pub/itu-d/opb/ind/d-ind-ict_mdd-2023-1-pdf-e.pdf))  ([March 2023 - Focus on Least Developed Countries​](https://www.itu.int/hub/publication/d-ind-ict_mdd-2023/)) ([2022](https://www.itu.int/hub/publication/d-ind-ict_mdd-2022/)) ([2021](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2021.pdf)) ([2020](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2020.pdf))  ([2019](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)) ([2017](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2017.pdf)).
 
 ### Regional Connectivity Reports and Data
 
@@ -158,10 +158,6 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 *   [M-Lab Visualization Platform](https://www.measurementlab.net/visualizations/) - M-Lab is an open, verifiable measurement platform for global network performance.
 
 ## [Jan 20, 2020](/content/2020/01/20/README.md)
-
-### Periodic Global Connectivity Reports
-
-*   ITU Facts and Figures -  ([2019](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)) ([2017](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2017.pdf)).
 
 ### Regional Connectivity Reports and Data
 

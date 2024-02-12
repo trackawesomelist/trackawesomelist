@@ -104,7 +104,7 @@ git checkout master@{yesterday}
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Genuine Sites / Package Managers
+### Mac App Download Sites / Genuine Sites
 
 *   [alternativeTo](http://alternativeto.net/) - Also a very nice community. If you are looking for some alternative apps **FOR** Windows or another platform, check this site.
 

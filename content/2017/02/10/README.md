@@ -18,7 +18,13 @@
 
 *   [harmony-api (⭐379)](https://github.com/maddox/harmony-api) - A simple server allowing you to query/control multiple local Harmony Home Hubs over HTTP or MQTT.
 
-## [3. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
+## [3. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+
+### Development Board Retailers / Altium
+
+*   [Tindie](https://www.tindie.com) - Marketplace for electronics makers to sell low volume batches of their own designs.
+
+## [4. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
 ### Linguistic Resources / Constituency Parsing
 
@@ -26,17 +32,6 @@
     Pure Ruby self contained API library for the [Princeton WordNet®](https://wordnet.princeton.edu/).
 *   [wordnet (⭐134)](https://github.com/ged/ruby-wordnet/blob/master/README.rdoc) -
     Performance tuned bindings for the [Princeton WordNet®](https://wordnet.princeton.edu/).
-
-## [4. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
-
-### Part Search Engines / Eagle
-
-*   [Octopart](https://octopart.com) - Probably the most well known part search engine.
-*   [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts.
-
-### Development Board Retailers / Eagle
-
-*   [Tindie](https://www.tindie.com) - Marketplace for electronics makers to sell low volume batches of their own designs.
 
 ## [5. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 

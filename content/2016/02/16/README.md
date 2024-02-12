@@ -28,7 +28,7 @@
 
 ### JavaScript Libraries
 
-*   [Awesome CryptoCoinJS (⭐55)](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
+*   [Awesome CryptoCoinJS (⭐57)](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
 
 ## [5. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Authentication
 
-*   [goth (⭐267)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
+*   [goth (⭐269)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
 
 ### Editors
 
@@ -92,7 +92,7 @@
 
 ### Network / Fast Packet Processing
 
-*   [PFQ (⭐514)](https://github.com/pfq/PFQ) - PFQ is a functional networking framework designed for the Linux operating system that allows efficient packets capture/transmission (10G and beyond), in-kernel functional processing and packets steering across sockets/end-points.
+*   [PFQ (⭐523)](https://github.com/pfq/PFQ) - PFQ is a functional networking framework designed for the Linux operating system that allows efficient packets capture/transmission (10G and beyond), in-kernel functional processing and packets steering across sockets/end-points.
 *   [PF\_RING](http://www.ntop.org/products/packet-capture/pf_ring/) - PF\_RING is a new type of network socket that dramatically improves the packet capture speed.
 
 ## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)

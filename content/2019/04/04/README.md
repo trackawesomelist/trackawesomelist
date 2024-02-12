@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 04, 2019
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,31 +10,31 @@
 
 ### Apps / StreamField
 
-*   [Wagtail Blocks (⭐64)](https://github.com/ibrahimawadhamid/wagtail_blocks) - A Collection of awesome Wagtail CMS stream-field blocks and Charts.
+*   [Wagtail Blocks (⭐69)](https://github.com/ibrahimawadhamid/wagtail_blocks) - A Collection of awesome Wagtail CMS stream-field blocks and Charts.
 
 ## [2. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
-### React starter kit   [↗](https://awesomestacks.dev/react-starter-kit) / Resources
+### React starter kit [↗](https://awesomestacks.dev/react-starter-kit) / Resources
 
 *   [react-starter-kit (⭐22k)](https://github.com/kriasoft/react-starter-kit)
 
-### React Firebase starter   [↗](https://awesomestacks.dev/react-firebase-starter) / Resources
+### React Firebase starter [↗](https://awesomestacks.dev/react-firebase-starter) / Resources
 
-*   [react-firebase-starter (⭐4.4k)](https://github.com/kriasoft/react-firebase-starter)
+*   [react-firebase-starter (⭐4.5k)](https://github.com/kriasoft/react-firebase-starter)
 
-### vue-starter   [↗](https://awesomestacks.dev/vue-starter) / Resources
+### vue-starter [↗](https://awesomestacks.dev/vue-starter) / Resources
 
 *   [vue-starter](https://vue-starter.herokuapp.com/docs/)
 
-### Vue Enterprise Boilerplate   [↗](https://awesomestacks.dev/vue-enterprise-boilerplate) / Resources
+### Vue Enterprise Boilerplate [↗](https://awesomestacks.dev/vue-enterprise-boilerplate) / Resources
 
-*   [vue-enterprise-boilerplate (⭐7.6k)](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
+*   [vue-enterprise-boilerplate (⭐7.7k)](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
 
-### MEVN: Mongo Express Vue Node   [↗](https://awesomestacks.dev/mevn-mongo-express-vue-node) / Resources
+### MEVN: Mongo Express Vue Node [↗](https://awesomestacks.dev/mevn-mongo-express-vue-node) / Resources
 
 *   [Welcome to Vue-Express-Mongo BoilerPlate](http://vemapp.moleculer.services/)
 
-### Rock Solid Modern Rails   [↗](https://awesomestacks.dev/rock-solid-modern-rails) / Resources
+### Rock Solid Modern Rails [↗](https://awesomestacks.dev/rock-solid-modern-rails) / Resources
 
 *   [A Rock Solid, Modern Web Stack—Rails 5 API + ActiveAdmin + Create React App on Heroku](https://blog.heroku.com/a-rock-solid-modern-web-stack)
 
@@ -44,25 +44,19 @@
     *   "Keeping Important Code Alive" ([slides](https://speakerdeck.com/indexzero/keeping-important-code-alive-seattlejs-march-2015))
     *   "Modernizing winston for node\@4" ([video](https://www.youtube.com/watch?v=uPw7QIx3JZM), [slides](https://speakerdeck.com/indexzero/modernizing-winston-for-node-at-4))
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Kotlin / Vue.js
-
-*   [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
-
-## [5. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+## [4. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Trading & Backtesting
 
-*   [PyPortfolioOpt (⭐3.8k)](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier and advanced methods.
+*   [PyPortfolioOpt (⭐4k)](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier and advanced methods.
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Game Engine
 
-*   [raylib (⭐16k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
+*   [raylib (⭐18k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
 
-## [7. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
+## [6. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 
 ### Resources
 
@@ -83,7 +77,7 @@
 
 *   [spawn issues (⭐35k)](https://github.com/nodejs/node-v0.x-archive/issues/2318) - `child_process.spawn()` behavior is not consistent between Windows and Linux.
 
-## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [7. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### DevOps
 

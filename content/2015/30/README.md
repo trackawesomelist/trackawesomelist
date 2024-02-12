@@ -22,13 +22,13 @@
 
 ### Audio
 
-*   [SELA (⭐210)](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. \[MIT]
+*   [SELA (⭐211)](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. \[MIT]
 
 ## [4. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### R Development
 
-*   [drat (⭐142)](https://github.com/eddelbuettel/drat) - Creation and use of R repositories on GitHub or other repos.
+*   [drat (⭐151)](https://github.com/eddelbuettel/drat) - Creation and use of R repositories on GitHub or other repos.
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -40,11 +40,11 @@
 
 ### Cryptography
 
-*   [StreamCryptor (⭐128)](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf
+*   [StreamCryptor (⭐130)](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf
 
 ### ORM
 
-*   [LINQ to DB (⭐2.7k)](https://github.com/linq2db/linq2db) - The fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database.
+*   [LINQ to DB (⭐2.8k)](https://github.com/linq2db/linq2db) - The fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database.
 
 ## [7. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Packages / Filesystem
 
-*   [fs-jetpack (⭐759)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
+*   [fs-jetpack (⭐763)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 
 ## [9. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
@@ -113,7 +113,7 @@
 
 ### System Utilities / Directory Navigation
 
-*   [glances (⭐23k)](https://github.com/nicolargo/glances) - Glances an Eye on your system
+*   [glances (⭐24k)](https://github.com/nicolargo/glances) - Glances an Eye on your system
 
 ## [11. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Misc / Other
 
-*   [enaqx/awesome-react (⭐58k)](https://github.com/enaqx/awesome-react)
+*   [enaqx/awesome-react (⭐61k)](https://github.com/enaqx/awesome-react)
 
 ## [13. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 08, 2018
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -36,19 +36,13 @@
 
 *   [ocaml-cuid (⭐18)](https://github.com/marcoonroad/ocaml-cuid) - Collision-resistant IDs for server scalability & database performance.
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / URL Shorteners
-
-*   [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code (⭐7.6k)](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs/Docker`
-
-## [7. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [6. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Open Source Apps / Navigation Demos
 
 *   [Forex Rates (⭐45)](https://github.com/MicroPyramid/forex-rates-mobile-app) - Foreign exchange rates. currency rate converter. Historical exchange rates. Android and iOS.
 
-## [8. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [7. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Organizations
 
@@ -68,17 +62,17 @@
 *   [What I Learned From The Fall Of Ellen Pao](https://www.damemagazine.com/2018/03/15/what-i-learned-from-the-fall-of-ellen-pao/) - By Madhushree Ghosh.
 *   [Why Are There Few Women In Tech? Watch A Recruiting Session](https://www.wired.com/story/why-are-there-few-women-in-tech-watch-a-recruiting-session/) - By Jessi Hempel.
 
-## [9. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
+## [8. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 
 ### Bots
 
 *   [Welcome Bot (⭐7)](https://github.com/indyhall/mastodon-welcome-bot) - Automatically send a welcome DM to new users (Python).
 
-## [10. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Realtime / Ruby
 
-*   [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification (⭐446)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) and including some extensions.
+*   [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification (⭐496)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) and including some extensions.
 
 ---
 

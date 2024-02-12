@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 26, 2017
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -21,7 +21,7 @@
 
 ### OS / XML
 
-*   [XOmB (⭐334)](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
+*   [XOmB (⭐338)](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
 
 ## [3. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
@@ -33,19 +33,13 @@
 
 *   [Qvolta](https://qvolta.com) — Sell and buy crypto assets around the world for local payment methods.
 
-## [4. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
-
-### Frameworks / Runtimes
-
-*   [Grenache (⭐207)](https://github.com/bitfinexcom/grenache) - A Bittorent-DHT based microservices framework supporting REQ/REP and PUB/SUB patterns over multiple transports.
-
-## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Education
 
 *   [Career Profiles/Site Reliability Engineer](https://www.khanacademy.org/college-careers-more/career-content/career-profile-videos/site-reliability-engineer/v/ruth-grace-site-reliability-engineer-what-i-do-and-how-much-i-make)
 
-## [6. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
+## [5. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
 
 ### Theoretical Computer Science / Languages
 
@@ -66,7 +60,7 @@
 *   [SwiftCoin (⭐31)](https://github.com/Thomvis/Swiftcoin) - A simplistic blockchain & cryptocurrency in a playground.
 *   [SentimentlySwift (⭐13)](https://github.com/benbahrenburg/SentimentlySwift) - Sentiment analysis in Swift.
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UITableView / Barcode
 

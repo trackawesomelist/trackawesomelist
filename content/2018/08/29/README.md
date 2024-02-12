@@ -25,7 +25,7 @@
 
 ### System and Customization
 
-*   [Dynamic Wallpaper Editor (⭐201)](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
+*   [Dynamic Wallpaper Editor (⭐206)](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
 
 ## [4. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -98,13 +98,13 @@
 
 ### Automation / Code libraries and bindings
 
-*   [python-dshield (⭐22)](https://github.com/rshipp/python-dshield) - Pythonic interface to the Internet Storm Center/DShield API.
-*   [python-sandboxapi (⭐124)](https://github.com/InQuest/python-sandboxapi) - Minimal, consistent Python API for building integrations with malware sandboxes.
-*   [python-stix2 (⭐317)](https://github.com/oasis-open/cti-python-stix2) - Python APIs for serializing and de-serializing Structured Threat Information eXpression (STIX) JSON content, plus higher-level APIs for common tasks.
+*   [python-dshield (⭐24)](https://github.com/rshipp/python-dshield) - Pythonic interface to the Internet Storm Center/DShield API.
+*   [python-sandboxapi (⭐126)](https://github.com/InQuest/python-sandboxapi) - Minimal, consistent Python API for building integrations with malware sandboxes.
+*   [python-stix2 (⭐327)](https://github.com/oasis-open/cti-python-stix2) - Python APIs for serializing and de-serializing Structured Threat Information eXpression (STIX) JSON content, plus higher-level APIs for common tasks.
 
 ### Threat intelligence / Threat hunting
 
-*   [ThreatIngestor (⭐709)](https://github.com/InQuest/ThreatIngestor) - Extendable tool to extract and aggregate IOCs from threat feeds including Twitter, RSS feeds, or other sources.
+*   [ThreatIngestor (⭐733)](https://github.com/InQuest/ThreatIngestor) - Extendable tool to extract and aggregate IOCs from threat feeds including Twitter, RSS feeds, or other sources.
 
 ## [15. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

@@ -47,7 +47,7 @@
 
 ### Queue
 
-*   [RabbitMQ.NET (⭐1.9k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
+*   [RabbitMQ.NET (⭐2k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
 
 ## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Multimedia content processing
 
-*   [Codem-isoboxer (⭐97)](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
+*   [Codem-isoboxer (⭐105)](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
 
 ## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -69,14 +69,14 @@
 
 ## [11. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
-### Realtime
+### Datasets / Realtime
 
-*   [Reddit](https://www.reddit.com/r/datasets/comments/3mk1vg/realtime_data_is_available_including_comments/) Real-time data is available including comments, submissions and links posted to reddit
+*   [Reddit](https://www.reddit.com/r/datasets/comments/3mk1vg/realtime_data_is_available_including_comments/) - Real-time data is available including comments, submissions and links posted to reddit.
 
-### Data Dumps
+### Datasets / Data Dumps
 
-*   [Common Crawl](https://commoncrawl.org/) Open source repository of web crawl data
-*   [Wikipedia](https://dumps.wikimedia.org/enwiki/latest/) Wikipedia's complete copy of all wikis, in the form of wikitext source and metadata embedded in XML. A number of raw database tables in SQL form are also available.
+*   [Common Crawl](https://commoncrawl.org/) - Open source repository of web crawl data.
+*   [Wikipedia](https://dumps.wikimedia.org/enwiki/latest/) - Wikipedia's complete copy of all wikis, in the form of wikitext source and metadata embedded in XML. A number of raw database tables in SQL form are also available.
 
 ## [12. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Apps / E-commerce
 
-*   [longclaw (⭐365)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
+*   [longclaw (⭐374)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
 
 ---
 

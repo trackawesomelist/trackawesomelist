@@ -2,13 +2,13 @@
 
 List of Golang books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/GoBooks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dariubs/GoBooks](https://github.com/dariubs/GoBooks) · ⭐ 15K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/GoBooks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dariubs/GoBooks](https://github.com/dariubs/GoBooks) · ⭐ 16K · 🏷️ Books
 
 [ Daily / [Weekly](/content/dariubs/GoBooks/week/README.md) / [Overview](/content/dariubs/GoBooks/readme/README.md) ]
 
 ## [Jan 07, 2023](/content/2023/01/07/README.md)
 
-### Starter Books / 2023 - [Shipping Go](https://www.manning.com/books/shipping-go)
+### 2023 - [Shipping Go](https://www.manning.com/books/shipping-go) / Why does this book look so different?
 
 *   Develop better software based on feedback from customers
 *   Create a development pipeline that turns feedback into features
@@ -20,7 +20,7 @@ List of Golang books
 
 ## [Oct 14, 2022](/content/2022/10/14/README.md)
 
-### Advanced Books / 2022 - [Beyond Effective Go: Part 1 - Achieving High-Performance Code](https://coreyscott.dev/book/)
+### 2022 - [Beyond Effective Go: Part 1 - Achieving High-Performance Code](https://coreyscott.dev/book/) / Why does this book look so different?
 
 *   Understand the differences between Concurrency and Parallelism.
 *   Identify and avoid concurrency issues like deadlock, starvation, livelock, and data races.
@@ -32,7 +32,7 @@ List of Golang books
 
 ## [Jul 23, 2022](/content/2022/07/23/README.md)
 
-### Advanced Books / 2021 - [Practical Go: Building Scalable Network and Non-Network Applications](https://practicalgobook.net)
+### 2021 - [Practical Go: Building Scalable Network and Non-Network Applications](https://practicalgobook.net) / Why does this book look so different?
 
 *   Writing command line applications
 *   Writing a HTTP services and clients
@@ -45,7 +45,7 @@ List of Golang books
 
 ## [May 31, 2022](/content/2022/05/31/README.md)
 
-### Starter Books / 2022 - [Go, from the beginning](https://leanpub.com/go-from-the-beginning) *Free*
+### 2022 - [Go, from the beginning](https://leanpub.com/go-from-the-beginning) *Free* / Why does this book look so different?
 
 *   Build Console apps
 *   Create Web APIs
@@ -57,7 +57,7 @@ List of Golang books
 
 ## [Mar 18, 2022](/content/2022/03/18/README.md)
 
-### Advanced Books / 2021 - [Everyday Go](https://openfaas.gumroad.com/l/everyday-golang)
+### 2021 - [Everyday Go](https://openfaas.gumroad.com/l/everyday-golang) / Why does this book look so different?
 
 *   Learn unit testing
 *   Make lovely CLIs
@@ -68,7 +68,7 @@ List of Golang books
 
 ## [Mar 15, 2022](/content/2022/03/15/README.md)
 
-### Starter Books / 2022 - [Pro Go](https://link.springer.com/book/10.1007/978-1-4842-7355-5)
+### 2022 - [Pro Go](https://link.springer.com/book/10.1007/978-1-4842-7355-5) / Why does this book look so different?
 
 *   Gain a solid understanding of the Go language and tools
 *   Gain in-depth knowledge of the Go standard library
@@ -77,7 +77,7 @@ List of Golang books
 
 ## [Mar 12, 2022](/content/2022/03/12/README.md)
 
-### Web Development / [Wasm Cooking with Golang](https://k33g.gumroad.com/l/wasmcooking)
+### [Wasm Cooking with Golang](https://k33g.gumroad.com/l/wasmcooking) / Why does this book look so different?
 
 *   Wasm & Go in your browser
 *   Wasm & Go with Node.js
@@ -86,7 +86,7 @@ List of Golang books
 
 ## [Jul 31, 2021](/content/2021/07/31/README.md)
 
-### Starter Books / 2021 - [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.amazon.de/-/en/Jon-Bodner/dp/1492077216)
+### 2021 - [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.amazon.de/-/en/Jon-Bodner/dp/1492077216) / Why does this book look so different?
 
 *   Learn how to write idiomatic code in Go and design a Go project
 *   Understand the reasons for the design decisions in Go

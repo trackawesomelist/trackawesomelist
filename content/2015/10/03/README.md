@@ -14,10 +14,6 @@
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
-### Elasticity / Scala
-
-*   [Onyx (⭐2k)](https://github.com/onyx-platform/onyx) - Distributed, masterless, high performance, fault tolerant data processing for Clojure.
-
 ### Storage / Scala
 
 *   [Datomic](http://www.datomic.com/) - Fully transactional, cloud-ready, distributed database.

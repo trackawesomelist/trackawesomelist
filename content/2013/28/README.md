@@ -10,7 +10,7 @@
 
 ### Table of Contents / Notifications
 
-*   [Notificator (⭐188)](https://github.com/namshi/notificator) - A lightweight notification library.
+*   [Notificator (⭐193)](https://github.com/namshi/notificator) - A lightweight notification library.
 
 ---
 

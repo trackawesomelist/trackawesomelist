@@ -16,13 +16,13 @@
 
 ### System and Customization
 
-*   [Bottles (⭐5.6k)](https://github.com/bottlesdevs/Bottles) - Wine environments manager to run Windows software and games.
-*   [BoxBuddy (⭐23)](https://github.com/Dvlv/BoxBuddyRS) - Graphical Distrobox manager.
-*   [Pods (⭐628)](https://github.com/marhkb/pods) - Podman containers manager.
+*   [Bottles (⭐5.7k)](https://github.com/bottlesdevs/Bottles) - Wine environments manager to run Windows software and games.
+*   [BoxBuddy (⭐80)](https://github.com/Dvlv/BoxBuddyRS) - Graphical Distrobox manager.
+*   [Pods (⭐645)](https://github.com/marhkb/pods) - Podman containers manager.
 
 ### Utilities
 
-*   [Lan Mouse (⭐118)](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch)
+*   [Lan Mouse (⭐549)](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch)
 
 ## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -54,8 +54,9 @@
 
 ### Keybinding / Diagnostics
 
-*   [tris203/hawtkeys.nvim (⭐51)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
+*   [tris203/hawtkeys.nvim (⭐153)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
 
 ---
 
+- Prev: [Dec 30, 2023](/content/2023/12/30/README.md)
 - Next: [Dec 28, 2023](/content/2023/12/28/README.md)

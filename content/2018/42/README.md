@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 15 - Oct 21, 2018
 
-68 awesome lists updated this week.
+67 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -44,66 +44,66 @@
 ### Disassemblers and debuggers
 
 *   [x64dbg (⭐42k)](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for Windows
-*   [Capstone (⭐6.6k)](https://github.com/aquynh/capstone)
+*   [Capstone (⭐6.8k)](https://github.com/aquynh/capstone)
 
 ### Decompilers
 
 *   JVM-based languages
-*   [Krakatau (⭐1.8k)](https://github.com/Storyyeller/Krakatau) - the best decompiler I have used. Is able to decompile apps written in Scala and Kotlin into Java code. JD-GUI and Luyten have failed to do it fully.
+*   [Krakatau (⭐1.9k)](https://github.com/Storyyeller/Krakatau) - the best decompiler I have used. Is able to decompile apps written in Scala and Kotlin into Java code. JD-GUI and Luyten have failed to do it fully.
 *   [procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler)
-    *   [Luyten (⭐4.8k)](https://github.com/deathmarine/Luyten) - one of the best, though a bit slow, hangs on some binaries and not very well maintained.
+    *   [Luyten (⭐4.9k)](https://github.com/deathmarine/Luyten) - one of the best, though a bit slow, hangs on some binaries and not very well maintained.
 *   [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler (closed-source, unmaintained)
-*   [JADX (⭐36k)](https://github.com/skylot/jadx) - a decompiler for Android apps. Not related to JAD.
+*   [JADX (⭐38k)](https://github.com/skylot/jadx) - a decompiler for Android apps. Not related to JAD.
 *   .net-based languages
     *   [dotPeek](https://www.jetbrains.com/decompiler/) - a free-of-charge .NET decompiler from JetBrains
     *   [ILSpy (⭐19k)](https://github.com/icsharpcode/ILSpy/) - an open-source .NET assembly browser and decompiler
-    *   [dnSpy (⭐24k)](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger
+    *   [dnSpy (⭐25k)](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger
 *   native code
     *   [Hopper](https://www.hopperapp.com) - A OS X and Linux Disassembler/Decompiler for 32/64-bit Windows/Mac/Linux/iOS executables.
     *   [cutter](https://github.com/radareorg/cutter) - a decompiler based on radare2.
-    *   [retdec (⭐7.5k)](https://github.com/avast-tl/retdec)
+    *   [retdec (⭐7.6k)](https://github.com/avast-tl/retdec)
     *   [snowman (⭐2.3k)](https://github.com/yegord/snowman)
     *   [Hex-Rays](https://www.hex-rays.com/products/decompiler/)
 
 ### Deobfuscators
 
-*   [de4dot (⭐6.5k)](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
+*   [de4dot (⭐6.6k)](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
 *   [JS Beautifier (⭐8.3k)](https://github.com/beautify-web/js-beautify)
 *   [JS Nice](http://jsnice.org/) - a web service guessing JS variables names and types based on the model derived from open source.
 
 ### Other
 
-*   [nudge4j (⭐153)](https://github.com/lorenzoongithub/nudge4j) - Java tool to let the browser talk to the JVM
-*   [dex2jar (⭐11k)](https://github.com/pxb1988/dex2jar) - Tools to work with Android .dex and Java .class files
+*   [nudge4j (⭐154)](https://github.com/lorenzoongithub/nudge4j) - Java tool to let the browser talk to the JVM
+*   [dex2jar (⭐12k)](https://github.com/pxb1988/dex2jar) - Tools to work with Android .dex and Java .class files
 *   [androguard](https://code.google.com/p/androguard/) - Reverse engineering, malware and goodware analysis of Android applications
-*   [antinet (⭐284)](https://github.com/0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code
+*   [antinet (⭐289)](https://github.com/0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code
 *   [UPX](http://upx.sourceforge.net/) - the Ultimate Packer (and unpacker) for eXecutables
 
 ### Execution logging and tracing
 
 *   [Wireshark](https://www.wireshark.org/) - A free and open-source packet analyzer
 *   [tcpdump](http://www.tcpdump.org/) - A powerful command-line packet analyzer; and libpcap, a portable C/C++ library for network traffic capture
-*   [mitmproxy (⭐32k)](https://github.com/mitmproxy/mitmproxy) - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface
+*   [mitmproxy (⭐33k)](https://github.com/mitmproxy/mitmproxy) - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface
 *   [Charles Proxy](https://charlesproxy.com) - A cross-platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic
 *   [usbmon](https://www.kernel.org/doc/Documentation/usb/usbmon.txt) - USB capture for Linux.
-*   [USBPcap (⭐810)](https://github.com/desowin/usbpcap) - USB capture for Windows.
-*   [dynStruct (⭐304)](https://github.com/ampotos/dynStruct) - structures recovery via dynamic instrumentation.
-*   [drltrace (⭐357)](https://github.com/mxmssh/drltrace) - shared library calls tracing.
+*   [USBPcap (⭐840)](https://github.com/desowin/usbpcap) - USB capture for Windows.
+*   [dynStruct (⭐309)](https://github.com/ampotos/dynStruct) - structures recovery via dynamic instrumentation.
+*   [drltrace (⭐365)](https://github.com/mxmssh/drltrace) - shared library calls tracing.
 
 ### Binary files examination and editing / Hex editors
 
 *   [HxD](http://mh-nexus.de/en/hxd/) - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size
 *   [WinHex](http://www.winhex.com/winhex/) - A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security
-*   [wxHexEditor (⭐498)](https://github.com/EUA/wxHexEditor)
+*   [wxHexEditor (⭐515)](https://github.com/EUA/wxHexEditor)
 
 ### Binary files examination and editing / Other
 
-*   [Binwalk (⭐9.6k)](https://github.com/ReFirmLabs/binwalk) -  Detects signatures, unpacks archives, visualizes entropy.
+*   [Binwalk (⭐9.9k)](https://github.com/ReFirmLabs/binwalk) -  Detects signatures, unpacks archives, visualizes entropy.
 *   [Veles (⭐1k)](https://github.com/codilime/veles) - a visualizer for statistical properties of blobs.
-*   [Protobuf inspector (⭐840)](https://github.com/jmendeth/protobuf-inspector)
-*   [DarunGrim (⭐358)](https://github.com/ohjeongwook/DarunGrim) - executable differ.
-*   [DBeaver (⭐34k)](https://github.com/dbeaver/dbeaver) - a DB editor.
-*   [Dependencies (⭐6.9k)](https://github.com/lucasg/Dependencies) - a FOSS replacement to Dependency Walker.
+*   [Protobuf inspector (⭐862)](https://github.com/jmendeth/protobuf-inspector)
+*   [DarunGrim (⭐359)](https://github.com/ohjeongwook/DarunGrim) - executable differ.
+*   [DBeaver (⭐35k)](https://github.com/dbeaver/dbeaver) - a DB editor.
+*   [Dependencies (⭐7.6k)](https://github.com/lucasg/Dependencies) - a FOSS replacement to Dependency Walker.
 *   [PEview](http://wjradburn.com/software/) - A quick and easy way to view the structure and content of 32-bit Portable Executable (PE) and Component Object File Format (COFF) files
 *   [BinText](https://web.archive.org/web/http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx) - A small, very fast and powerful text extractor that will be of particular interest to programmers.
 
@@ -132,7 +132,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐9k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
+*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐9.4k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
 
 ## [10. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -151,7 +151,7 @@
 
 ### Tools / Static Analysis Tools
 
-*   [ConDroid (⭐52)](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symbolic + concrete execution of the app
+*   [ConDroid (⭐53)](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symbolic + concrete execution of the app
 
 ### Tools / Dynamic Analysis Tools
 
@@ -169,7 +169,7 @@
 
 ### Misc / Other
 
-*   [You Don't Know JS (⭐171k)](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
+*   [You Don't Know JS (⭐175k)](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
 
 ## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -210,7 +210,7 @@
 
 ### Serialization / Scala
 
-*   [FST (⭐1.5k)](https://github.com/RuedigerMoeller/fast-serialization) - Fast java serialization drop in-replacement.
+*   [FST (⭐1.6k)](https://github.com/RuedigerMoeller/fast-serialization) - Fast java serialization drop in-replacement.
 
 ## [19. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
 
@@ -241,7 +241,7 @@
 
 ### IDE
 
-*   [Visual Studio Code (⭐144k)](https://github.com/Microsoft/vscode) - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
+*   [Visual Studio Code (⭐156k)](https://github.com/Microsoft/vscode) - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
 
 ## [22. Awesome Roslyn](/content/ironcev/awesome-roslyn/week/README.md)
 
@@ -298,7 +298,7 @@
 
 ### Canvas / Examples
 
-*   [Trigonoparty!](https://ramesaliyev.com/trigonoparty) \[[show me the code (⭐480)](https://github.com/ramesaliyev/trigonoparty)] • Simple trigonometry visualisation.
+*   [Trigonoparty!](https://ramesaliyev.com/trigonoparty) \[[show me the code (⭐488)](https://github.com/ramesaliyev/trigonoparty)] • Simple trigonometry visualisation.
 
 ### Libraries / To draw using canvas
 
@@ -403,7 +403,7 @@ Topics: Accessibility\
 
 ### GTFS Analysis Tools / Ruby
 
-*   [Peartree (⭐194)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
+*   [Peartree (⭐201)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
 *   [transitr (⭐20)](https://github.com/tmelliott/transitr) - An R package for constructing and modelling a transit network in real time to obtain vehicle ETAs
 
 ## [28. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
@@ -426,7 +426,7 @@ Topics: Accessibility\
 
 ### Intermediate
 
-#### [1 Million Women To Tech Summer of Code (⭐623)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
+#### [1 Million Women To Tech Summer of Code (⭐622)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
 
 **Free** programming course material for beginner, intermediate and advanced levels\
 *(Python, JavaScript, Data Science, artificial intelligence, machine learning, AR & VR)*
@@ -459,21 +459,21 @@ Topics: Accessibility\
 
 ### Official Documentation Translations
 
-*   [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub (⭐38)](https://github.com/mamantoha/shards-info)
+*   [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub (⭐37)](https://github.com/mamantoha/shards-info)
 
 ## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
-*   [libhydrogen (⭐534)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
+*   [libhydrogen (⭐558)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
 
 ### Game Engine
 
-*   [PixelGameEngine (⭐3.6k)](https://github.com/OneLoneCoder/olcPixelGameEngine) - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects. \[OLC3]
+*   [PixelGameEngine (⭐3.7k)](https://github.com/OneLoneCoder/olcPixelGameEngine) - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects. \[OLC3]
 
 ### Serialization
 
-*   [YAS (⭐675)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
+*   [YAS (⭐706)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
 
 ## [35. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -540,13 +540,7 @@ Topics: Accessibility\
 
 *   [react-native-segment-control ★7 (⭐21)](https://github.com/ainurb/react-native-segment-control) - A swipeable SegmentedControl component for React Native apps.
 
-## [41. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### JavaScript / Ember.js
-
-*   [Ember.js - Getting started](https://guides.emberjs.com/release/)
-
-## [42. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Natural Language Processing
 
@@ -557,13 +551,13 @@ Topics: Accessibility\
 *   [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html) for visualizing geospatial data with static maps and [leaflet](https://rstudio.github.io/leaflet/) for interactive maps
 *   [tm](https://www.rdocumentation.org/packages/tm/) and [quanteda](https://quanteda.io/) are the main packages for managing,  analyzing, and visualizing textual data.
 
-## [43. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [42. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 
 *   [lambda-refarch-iotbackend :fire::fire: (⭐254)](https://github.com/awslabs/lambda-refarch-iotbackend) - Reference Architecture for creating an IoT Backend.
 
-## [44. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [43. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Machine Learning
 
@@ -573,7 +567,7 @@ Topics: Accessibility\
     *   [Lecture Notes](https://medium.com/@hiromi_suenaga/machine-learning-1-lesson-1-84a1dc2b5236)
     *   [Jupyter Notebooks (⭐23k)](https://github.com/fastai/fastai/tree/master/courses/ml1)
 
-## [45. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [44. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Advanced
 
@@ -588,44 +582,44 @@ Topics: Accessibility\
 
 *   [Calendar Widget (⭐236)](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget by [David Bennett](https://github.com/pinkfish)
 
-## [46. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [45. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### CLI / Argument Parsing
 
 *   [JCommander](http://jcommander.org) - Command-line argument-parsing framework with custom types and validation via implementing interfaces.
-*   [JLine (⭐1.3k)](https://github.com/jline/jline3) - Includes features from modern shells like completion or history.
+*   [JLine (⭐1.4k)](https://github.com/jline/jline3) - Includes features from modern shells like completion or history.
 
 ### CLI / Text-Based User Interfaces
 
-*   [Jansi (⭐1k)](https://github.com/fusesource/jansi) - ANSI escape codes to format console output.
-*   [Text-IO (⭐315)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
+*   [Jansi (⭐1.1k)](https://github.com/fusesource/jansi) - ANSI escape codes to format console output.
+*   [Text-IO (⭐321)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
 
 ### Networking / Text-Based User Interfaces
 
-*   [TLS Channel (⭐161)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
+*   [TLS Channel (⭐176)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
 
 ### Security / Other
 
-*   [SecurityBuilder (⭐44)](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA and JSSE classes and especially X.509 certificates.
+*   [SecurityBuilder (⭐45)](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA and JSSE classes and especially X.509 certificates.
 
 ### Utility / Mocking
 
-*   [bucket4j (⭐2k)](https://github.com/vladimir-bukhtoyarov/bucket4j) - Rate limiting library based on token-bucket algorithm.
+*   [bucket4j (⭐2.1k)](https://github.com/vladimir-bukhtoyarov/bucket4j) - Rate limiting library based on token-bucket algorithm.
 
-## [47. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [46. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
-*   [Home Assistant (⭐5.1k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
+*   [Home Assistant (⭐5.3k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 
-## [48. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [47. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Resources for Web Publishers
 
 *   [Stanford Libraries' Archivability pages](https://library.stanford.edu/projects/web-archiving/archivability)
 *   The [Archive Ready](http://archiveready.com/) tool, for estimating how likely a web page will be archived successfully.
 
-## [49. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [48. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Framework
 
@@ -635,40 +629,40 @@ Topics: Accessibility\
 
 *   [XamarinControls ★17 (⭐103)](https://github.com/Intelliabb/XamarinControls) - Cross-platform controls for Xamarin and Xamarin.Forms (Checkbox using SkiaSharp).
 
-## [50. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
+## [49. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
 
 ### GUI-based Applications / Package management and creation tools
 
 *   [Yay (⭐8.4k)](https://github.com/Jguer/yay) (Arch) - Yay is one of the many wrappers to `pacman` which automatically downloads and installs packages from AUR, a full list can be found [here](https://wiki.archlinux.org/index.php/AUR_helpers).
 
-## [51. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [50. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Apps
 
 *   [Urteile & Gesetze (⭐16)](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
 
-## [52. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [51. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### RESTful API
 
 *   [Compojure-api (⭐1.1k)](https://github.com/metosin/compojure-api)
-*   [reitit (⭐1.3k)](https://github.com/metosin/reitit)
+*   [reitit (⭐1.4k)](https://github.com/metosin/reitit)
 
 ### Web Framework
 
-*   [Reitit (⭐1.3k)](https://github.com/metosin/reitit)
+*   [Reitit (⭐1.4k)](https://github.com/metosin/reitit)
 
 ### JSON
 
-*   [jsonista (⭐383)](https://github.com/metosin/jsonista)
+*   [jsonista (⭐391)](https://github.com/metosin/jsonista)
 
 ### Async processing
 
-*   [manifold (⭐977)](https://github.com/ztellman/manifold)
+*   [manifold (⭐997)](https://github.com/ztellman/manifold)
 
 ### Monads
 
-*   [Fluokitten (⭐445)](https://github.com/uncomplicate/fluokitten)
+*   [Fluokitten (⭐451)](https://github.com/uncomplicate/fluokitten)
 
 ### WebSocket
 
@@ -676,8 +670,8 @@ Topics: Accessibility\
 
 ### Science and Data Analysis
 
-*   [Bayadera - Bayesian Data Analysis on the GPU (⭐356)](https://github.com/uncomplicate/bayadera)
-*   [ClojureCUDA (⭐168)](https://github.com/uncomplicate/clojurecuda)
+*   [Bayadera - Bayesian Data Analysis on the GPU (⭐360)](https://github.com/uncomplicate/bayadera)
+*   [ClojureCUDA (⭐172)](https://github.com/uncomplicate/clojurecuda)
 *   [Neanderthal - fast matrix and linear algebra (⭐1k)](https://github.com/uncomplicate/neanderthal)
 *   [ClojureCL - parallel computations with OpenCL (⭐276)](https://github.com/uncomplicate/clojurecl)
 
@@ -685,19 +679,19 @@ Topics: Accessibility\
 
 *   [Calva (VSCode) (⭐1.3k)](https://github.com/BetterThanTomorrow/calva)
 
-## [53. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [52. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Serverless Framework Plugins
 
 *   [S3 Deploy (⭐58)](https://github.com/funkybob/serverless-s3-deploy) - Plugin to deploy files to an S3 Bucket.
 
-## [54. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [53. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2018
 
 *   [Laurie Voss: **npm and the Future of JavaScript**](https://www.youtube.com/watch?v=Qa4dxW-Qi2s) \[55:00]
 
-## [55. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [54. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -714,7 +708,7 @@ Topics: Accessibility\
 *   [Bullseye (⭐780)](https://github.com/adamralph/bullseye/) - A .NET package for describing and running targets and their dependencies.
 *   [dotnet-env (⭐366)](https://github.com/tonerdo/dotnet-env) - A .NET library to load environment variables from .env files.
 
-## [56. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [55. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -734,7 +728,7 @@ Topics: Accessibility\
 *   [VCalendar](https://vcalendar.io/) Very customizable and powerful calendar/datepicker component with many features and good documentation.
 *   [vue-page-guide (⭐53)](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
 
-## [57. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
+## [56. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
 ### Systems / Subtypes of QA
 
@@ -757,7 +751,7 @@ Topics: Accessibility\
     *   A dataset of short paragraphs and multi-sentence questions
     *   Paper: <http://cogcomp.org/page/publication_view/833>
 
-## [58. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [57. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Examples / Aurelia + Electron Examples
 
@@ -765,13 +759,13 @@ Topics: Accessibility\
 *   [AureliaElectronHappiness (⭐7)](https://github.com/seesharper/AureliaElectronHappiness) \* Sample application that shows how to combine TypeScript, VSCode and Electron.
 *   [electron-aurelia-example (⭐36)](https://github.com/jimschubert/electron-aurelia-example) \* An example desktop application written with Electron and Aurelia.
 
-## [59. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [58. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
 *   [JustRemote](https://justremote.co)
 
-## [60. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [59. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### VPN Guides and Tutorials
 
@@ -1183,7 +1177,7 @@ Topics: Accessibility\
 *   [Pi-hole](https://pi-hole.net/) Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
 *   [Anon.to](https://anon.to/) URL shortener to de-referer or null-referer your links.
 
-## [61. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [60. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Business
 
@@ -1442,7 +1436,7 @@ Topics: Accessibility\
 
 
 
-## [62. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [61. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Administration
 
@@ -1470,29 +1464,29 @@ Topics: Accessibility\
 
 *   [GrandNode (⭐1.9k)](https://github.com/grandnode/grandnode) - Multi-platform e-commerce shopping cart built with ASP.NET
 
-## [63. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [62. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authorization
 
-*   [speakeasy (⭐83)](https://github.com/coryodaniel/speakeasy) - Middleware based authentication and authorization for Absinthe GraphQL powered by Bodyguard.
+*   [speakeasy (⭐85)](https://github.com/coryodaniel/speakeasy) - Middleware based authentication and authorization for Absinthe GraphQL powered by Bodyguard.
 
 ### Domain-specific language
 
-*   [JSON-LD.ex (⭐63)](https://github.com/marcelotto/jsonld-ex) - An implementation of the [JSON-LD](http://www.w3.org/TR/json-ld/) standard for [RDF.ex (⭐88)](https://github.com/marcelotto/rdf-ex).
-*   [RDF.ex (⭐88)](https://github.com/marcelotto/rdf-ex) - An implementation of the [RDF](https://www.w3.org/TR/rdf11-primer/) data model in Elixir.
+*   [JSON-LD.ex (⭐64)](https://github.com/marcelotto/jsonld-ex) - An implementation of the [JSON-LD](http://www.w3.org/TR/json-ld/) standard for [RDF.ex (⭐91)](https://github.com/marcelotto/rdf-ex).
+*   [RDF.ex (⭐91)](https://github.com/marcelotto/rdf-ex) - An implementation of the [RDF](https://www.w3.org/TR/rdf11-primer/) data model in Elixir.
 *   [SPARQL.ex (⭐35)](https://github.com/marcelotto/sparql-ex) - An implementation of the [SPARQL](http://www.w3.org/TR/sparql11-overview/) standards in Elixir.
 
 ### Feature Flags and Toggles
 
-*   [fun\_with\_flags (⭐927)](https://github.com/tompave/fun_with_flags) - A feature toggle library using Redis or Ecto for persistence, an ETS cache for speed and PubSub for distributed cache busting. Comes with a management web UI for Phoenix and Plug.
+*   [fun\_with\_flags (⭐956)](https://github.com/tompave/fun_with_flags) - A feature toggle library using Redis or Ecto for persistence, an ETS cache for speed and PubSub for distributed cache busting. Comes with a management web UI for Phoenix and Plug.
 
 ### HTTP
 
-*   [sparql\_client (⭐25)](https://github.com/marcelotto/sparql_client) - A [SPARQL protocol](https://www.w3.org/TR/sparql11-protocol/) client for Elixir.
+*   [sparql\_client (⭐26)](https://github.com/marcelotto/sparql_client) - A [SPARQL protocol](https://www.w3.org/TR/sparql11-protocol/) client for Elixir.
 
 ### Instrumenting / Monitoring
 
-*   [spandex (⭐323)](https://github.com/spandex-project/spandex) - Platform agnostic tracing library originally developed for Datadog APM.
+*   [spandex (⭐327)](https://github.com/spandex-project/spandex) - Platform agnostic tracing library originally developed for Datadog APM.
 
 ### Miscellaneous
 
@@ -1501,13 +1495,13 @@ Topics: Accessibility\
 ### ORM and Datamapping
 
 *   [ecto\_cassandra (⭐88)](https://github.com/cafebazaar/ecto-cassandra) - Cassandra DB Adapter for Ecto.
-*   [extreme (⭐126)](https://github.com/exponentially/extreme) - An Elixir library using [Eventstore](https://geteventstore.com) for persistence of events generated by aggregates (CQRS).
-*   [triton (⭐76)](https://github.com/blitzstudios/triton) - Pure Elixir Cassandra ORM built on top of Xandra.
-*   [xandra (⭐353)](https://github.com/lexhide/xandra) - Cassandra driver built natively in Elixir and focused on speed, simplicity, and robustness.
+*   [extreme (⭐128)](https://github.com/exponentially/extreme) - An Elixir library using [Eventstore](https://geteventstore.com) for persistence of events generated by aggregates (CQRS).
+*   [triton (⭐77)](https://github.com/blitzstudios/triton) - Pure Elixir Cassandra ORM built on top of Xandra.
+*   [xandra (⭐365)](https://github.com/lexhide/xandra) - Cassandra driver built natively in Elixir and focused on speed, simplicity, and robustness.
 
 ### Search
 
-*   [elasticsearch (⭐408)](https://github.com/infinitered/elasticsearch-elixir) - A simple, no-nonsense Elasticsearch library for Elixir.
+*   [elasticsearch (⭐411)](https://github.com/infinitered/elasticsearch-elixir) - A simple, no-nonsense Elasticsearch library for Elixir.
 
 ### Text and Numbers
 
@@ -1516,9 +1510,9 @@ Topics: Accessibility\
 
 ### Third Party APIs
 
-*   [google-cloud (⭐720)](https://github.com/GoogleCloudPlatform/elixir-google-api) - This repository contains all the client libraries to interact with Google APIs.
+*   [google-cloud (⭐735)](https://github.com/GoogleCloudPlatform/elixir-google-api) - This repository contains all the client libraries to interact with Google APIs.
 
-## [64. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [63. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### UX Libraries for Salesforce / Open Source Projects Repositories from Salesforce
 
@@ -1532,7 +1526,7 @@ Topics: Accessibility\
 
 *   [Good day, Sir! Podcast](https://www.gooddaysirpodcast.com/) - A WEEKLY TECHNOLOGY AND SOFTWARE DEVELOPMENT PODCAST, WITH A STRONG FOCUS ON THE SALESFORCE PLATFORM.
 
-## [65. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [64. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Admin Interface
 
@@ -1549,7 +1543,7 @@ Topics: Accessibility\
 ### Country Data
 
 *   [Phonelib (⭐1k)](https://github.com/daddyz/phonelib) - Ruby gem for phone validation and formatting using Google libphonenumber library data.
-*   [Phony (⭐982)](https://github.com/floere/phony) - Fast international phone number (E164 standard) normalizing, splitting and formatting.
+*   [Phony (⭐991)](https://github.com/floere/phony) - Fast international phone number (E164 standard) normalizing, splitting and formatting.
 
 ### DevOps Tools
 
@@ -1565,19 +1559,19 @@ Topics: Accessibility\
 
 ### Logging
 
-*   [Syslogger (⭐113)](https://github.com/crohr/syslogger) - A drop-in replacement for the standard Logger Ruby library, that logs to the syslog instead of a log file.
+*   [Syslogger (⭐114)](https://github.com/crohr/syslogger) - A drop-in replacement for the standard Logger Ruby library, that logs to the syslog instead of a log file.
 
 ### Optimizations
 
 *   [bootsnap (⭐2.6k)](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster.
-*   [fast\_blank (⭐605)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
+*   [fast\_blank (⭐609)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
 *   [yajl-ruby (⭐1.5k)](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
 
 ### Performance Monitoring
 
-*   [Scout (⭐179)](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
+*   [Scout (⭐180)](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
 
-## [66. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [65. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Authentication
 
@@ -1593,16 +1587,16 @@ Topics: Accessibility\
 
 ### Video / Barcode
 
-*   [Kitsunebi (⭐256)](https://github.com/noppefoxwolf/Kitsunebi) - Overlay alpha channel video animation player view using OpenGLES.
+*   [Kitsunebi (⭐258)](https://github.com/noppefoxwolf/Kitsunebi) - Overlay alpha channel video animation player view using OpenGLES.
 
-## [67. Bots](/content/hackerkid/bots/week/README.md)
+## [66. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Tutorials / Go
 
 *   [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca).
 *   [A Beginner’s Guide To Your First Bot.](https://slackhq.com/a-beginners-guide-to-your-first-bot)
 
-## [68. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [67. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 

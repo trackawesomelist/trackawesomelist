@@ -10,11 +10,11 @@
 
 ### Customization / Directory Navigation
 
-*   [bash-powerline (⭐859)](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script
+*   [bash-powerline (⭐868)](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script
 
 ### Games / Directory Navigation
 
-*   [bash2048 (⭐866)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
+*   [bash2048 (⭐882)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
 
 ## [2. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -37,8 +37,8 @@
 ### ORM and SQL generation
 
 *   [stch-library/sql (⭐40)](https://github.com/stch-library/sql)
-*   [sqlingvo (⭐209)](https://github.com/r0man/sqlingvo)
-*   [honeysql (⭐1.6k)](https://github.com/jkk/honeysql)
+*   [sqlingvo (⭐208)](https://github.com/r0man/sqlingvo)
+*   [honeysql (⭐1.7k)](https://github.com/jkk/honeysql)
 
 ### RESTful API
 
@@ -47,7 +47,7 @@
 ### HTML Manipulation
 
 *   [Enlive (⭐1.6k)](https://github.com/cgrand/enlive/wiki)
-*   [hiccup (⭐2.5k)](https://github.com/weavejester/hiccup)
+*   [hiccup (⭐2.6k)](https://github.com/weavejester/hiccup)
 
 ### Data Validation
 
@@ -56,11 +56,11 @@
 ### Async processing
 
 *   [core.async (⭐1.9k)](https://github.com/clojure/core.async/)
-*   [pulsar (⭐900)](https://github.com/puniverse/pulsar)
+*   [pulsar (⭐903)](https://github.com/puniverse/pulsar)
 
 ### Monads
 
-*   [algo.monads (⭐435)](https://github.com/clojure/algo.monads)
+*   [algo.monads (⭐442)](https://github.com/clojure/algo.monads)
 
 ### WebSocket
 
@@ -68,7 +68,7 @@
 
 ### Code Analysis and Linter
 
-*   [Slamhound (⭐443)](https://github.com/technomancy/slamhound)
+*   [Slamhound (⭐458)](https://github.com/technomancy/slamhound)
 
 ### Science and Data Analysis
 
@@ -252,18 +252,18 @@
 ### Editors / Runner
 
 *   [ace (⭐26k)](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor).
-*   [esprima (⭐401)](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
-*   [quill (⭐37k)](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
+*   [esprima (⭐405)](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
+*   [quill (⭐38k)](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
 *   [pen (⭐4.8k)](https://github.com/sofish/pen) - enjoy live editing (+markdown).
 *   [jquery-notebook (⭐1.7k)](https://github.com/raphaelcruzeiro/jquery-notebook) - A simple, clean and elegant text editor. Inspired by the awesomeness of Medium.
-*   [ckeditor-releases (⭐515)](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
+*   [ckeditor-releases (⭐517)](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
 *   [editor (⭐2.8k)](https://github.com/lepture/editor) - A markdown editor. still on development.
 *   [EpicEditor (⭐4.3k)](https://github.com/OscarGodson/EpicEditor) - An embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
 *   [jsoneditor (⭐11k)](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit and format JSON.
 
 ### Color / Runner
 
-*   [colors (⭐9.2k)](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
+*   [colors (⭐9.3k)](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 
 ---
 

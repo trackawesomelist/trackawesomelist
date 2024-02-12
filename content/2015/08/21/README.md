@@ -51,7 +51,7 @@ git rebase master feature && git checkout master && git merge -
 
 ### Table of Contents / Markup and CSS
 
-*   [HTML to Markdown (⭐1.5k)](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
+*   [HTML to Markdown (⭐1.7k)](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
 
 ## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -62,8 +62,7 @@ git rebase master feature && git checkout master && git merge -
 ### Data Formats / Scala
 
 *   [RFC4627](https://tools.ietf.org/html/rfc4627) - JavaScript Object Notation (JSON).
-*   [RFC7049](http://tools.ietf.org/search/rfc7049) - Concise Binary Object Representation (CBOR).
-*   [MSGPACK (⭐6.4k)](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
+*   [MSGPACK (⭐6.7k)](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
 
 ### Sites & Organizations / Scala
 

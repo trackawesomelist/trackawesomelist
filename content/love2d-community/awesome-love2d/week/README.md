@@ -188,7 +188,6 @@ A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 *   [IQM (⭐37)](https://github.com/excessive/iqm-exm) - Inter-Quake Model loader (binary).
 *   [love-gltf](https://gitlab.com/Alloyed/love-gltf) - Gltf asset loader and test renderer; Supports skeletal animations and morph targets.
 *   [Lovox (⭐47)](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels.
-*   [model\_renderer](https://github.com/xiejiangzhi/model_renderer) - A simple 3d model renderer for love2d.
 
 ### AI
 

@@ -28,7 +28,7 @@
 
 ### Third-Party Packages / Task Queues
 
-*   [django-celery-beat (⭐1.4k)](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
+*   [django-celery-beat (⭐1.5k)](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
 
 ## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -69,7 +69,7 @@
 
   Documentation: [Documentation](https://kraken.ci/docs/)
 
-  Price: [Open Source (⭐85)](https://github.com/kraken-ci/kraken)
+  Price: [Open Source (⭐115)](https://github.com/kraken-ci/kraken)
 
   Stars: [![Stars](https://img.shields.io/github/stars/kraken-ci/kraken)](https://github.com/kraken-ci/kraken)
 

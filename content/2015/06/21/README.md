@@ -56,7 +56,7 @@
 
 ### C++ / Natural Language Processing
 
-*   [MeTA (⭐672)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
+*   [MeTA (⭐678)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
 
 ## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Miscellaneous
 
-*   [Mach7 (⭐1.2k)](https://github.com/solodon4/Mach7) - A Pattern-matching library for C++. \[BSD]
+*   [Mach7 (⭐1.3k)](https://github.com/solodon4/Mach7) - A Pattern-matching library for C++. \[BSD]
 
 ## [9. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 

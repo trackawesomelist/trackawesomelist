@@ -10,13 +10,13 @@
 
 ### SIRI / Ruby
 
-*   [pysiri2validator (⭐0)](https://github.com/laidig/pysiri2validator) - Simple validator for SIRI 2.0 written in Python 3.
+*   [pysiri2validator (⭐2)](https://github.com/laidig/pysiri2validator) - Simple validator for SIRI 2.0 written in Python 3.
 
 ## [2. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Misc
 
-*   [Joyous (⭐71)](https://github.com/linuxsoftware/ls.joyous) - A calendar application for Wagtail.
+*   [Joyous (⭐72)](https://github.com/linuxsoftware/ls.joyous) - A calendar application for Wagtail.
 
 ## [3. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [fecon235 (⭐1k)](https://github.com/rsvp/fecon235) - Open source project for software tools in financial economics. Many jupyter notebook to verify theoretical ideas and practical methods interactively.
+*   [fecon235 (⭐1.1k)](https://github.com/rsvp/fecon235) - Open source project for software tools in financial economics. Many jupyter notebook to verify theoretical ideas and practical methods interactively.
 
 ## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

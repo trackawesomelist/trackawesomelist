@@ -8,7 +8,7 @@
 
 ## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Domain Specific Language / Coordination
+### Domain Specific Language / Design Theory
 
 *   [Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378) - ***OOPSLA Workshop on Domain-Specific Modeling (DSM' 09)***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=1962567819031018744\&hl=en\&as_sdt=0,5)]. Guidelines to support a DSL developer to achieve better quality of the language design and a better acceptance among its users.
 
@@ -16,7 +16,7 @@
 
 ### Security
 
-*   [go-peer (⭐143)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
+*   [go-peer (⭐158)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
 
 ## [3. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -75,13 +75,13 @@
 
 ### Data Store / Mouse Events
 
-*   [fireproof (⭐85)](https://github.com/fireproof-storage/fireproof) - [demo](https://fireproof.storage/try-free/) - [docs](https://use-fireproof.com/docs/welcome) Pure JS, zero dependency, CRDT database - runs in the browser and connects to any cloud or backend
+*   [fireproof (⭐106)](https://github.com/fireproof-storage/fireproof) - [demo](https://fireproof.storage/try-free/) - [docs](https://use-fireproof.com/docs/welcome) Pure JS, zero dependency, CRDT database - runs in the browser and connects to any cloud or backend
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / NoSQL
 
-*   [MongoDB (⭐855)](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
+*   [MongoDB (⭐858)](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -99,18 +99,19 @@
 
 ### Modules / Various Godot versions
 
-*   [godot-box2d (⭐184)](https://github.com/appsinacup/godot-box2d) - A [Box2D (⭐7k)](https://github.com/erincatto/box2d) physics server for Godot (Godot 4.2).
-*   [godot-jolt (⭐1.3k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐4.8k)](https://github.com/jrouwe/JoltPhysics) (Godot 4.2).
-*   [godot-rapier-2d (⭐68)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐3.1k)](https://github.com/dimforge/rapier) physics server for Godot (Godot 4.2).
+*   [godot-box2d (⭐210)](https://github.com/appsinacup/godot-box2d) - A [Box2D (⭐7.1k)](https://github.com/erincatto/box2d) physics server for Godot (Godot 4.2).
+*   [godot-jolt (⭐1.4k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐4.9k)](https://github.com/jrouwe/JoltPhysics) (Godot 4.2).
+*   [godot-rapier-2d (⭐76)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐3.1k)](https://github.com/dimforge/rapier) physics server for Godot (Godot 4.2).
 
 ## [8. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Downloading and Serving
 
-*   [httpd.sh (⭐109)](https://github.com/cemeyer/httpd.sh) - A trivial web server in bash, using ctypes.sh.
-*   [Bash-web-server (⭐656)](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc.
-*   [bash-stack (⭐325)](https://github.com/cgsdev0/bash-stack) - modern web framework in bash.
+*   [httpd.sh (⭐110)](https://github.com/cemeyer/httpd.sh) - A trivial web server in bash, using ctypes.sh.
+*   [Bash-web-server (⭐660)](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc.
+*   [bash-stack (⭐360)](https://github.com/cgsdev0/bash-stack) - modern web framework in bash.
 
 ---
 
+- Prev: [Jan 07, 2024](/content/2024/01/07/README.md)
 - Next: [Jan 05, 2024](/content/2024/01/05/README.md)

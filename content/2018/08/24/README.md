@@ -36,17 +36,13 @@
 
 *   [How to drift with any car](https://www.youtube.com/watch?v=KU7gl1n1tIs) - Introduction to CAN hacking, and using a real car as an Xbox controller.
 
-### Podcasts and Episodes / Episodes
-
-*   [Hackable? - Cars are Computers](https://hackablepodcast.com/#/episodes/cars-are-computers) - Geoff Siskind paired up with Craig Smith, author of The Car Hacker’s Handbook, to show us just how easy – or not – it is to hack a car.
-
 ### Miscellaneous / Episodes
 
 *   [OpenXC](http://openxcplatform.com/hardware.html) - OpenXC is a combination of open source hardware and software that lets you extend your vehicle with custom applications and pluggable modules. It uses standard, well-known tools to open up a wealth of data from the vehicle to developers. Started by researchers at Ford, it works for all 2002 and newer MY vehicles (standard OBD-II interface). Researchers at Ford Motor Company joined up to create a standard way of creating aftermarket software and hardware for vehicles.
 
 ### Applications / Episodes
 
-*   [talking-with-cars (⭐96)](https://github.com/P1kachu/talking-with-cars) - CAN related scripts, and scripts to use a car as a gamepad
+*   [talking-with-cars (⭐103)](https://github.com/P1kachu/talking-with-cars) - CAN related scripts, and scripts to use a car as a gamepad
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -83,28 +79,28 @@
 
 ### Code Analysis and Linters
 
-*   [Infer (⭐14k)](https://github.com/facebook/infer) - Infer is a static analyzer for Java, C and Objective-C
-*   [Frama-C](http://frama-c.com) - Frama-C is a static analysis and formal proof framework for C and C++
+*   [Infer (⭐15k)](https://github.com/facebook/infer) - Infer is a static analyzer for Java, C and Objective-C
+*   [Frama-C](http://frama-c.com) - Frama-C is a static analysis and formal proof framework for C and C++.
 
 ### Program analysis
 
-*   [BAP (⭐1.8k)](https://github.com/BinaryAnalysisPlatform/bap) - BAP is a reverse engineering and program analysis platform that targets binary programs.
-*   [BinCat (⭐1.5k)](https://github.com/airbus-seclab/bincat) - BinCat is a binary code static analysis toolkit.
+*   [BAP (⭐1.9k)](https://github.com/BinaryAnalysisPlatform/bap) - BAP is a reverse engineering and program analysis platform that targets binary programs.
+*   [BinCat (⭐1.6k)](https://github.com/airbus-seclab/bincat) - BinCat is a binary code static analysis toolkit.
 
 ### Developer Tools
 
-*   [Jupyter (⭐250)](https://github.com/akabe/ocaml-jupyter) – An OCaml kernel for the Jupyter notebook.
-*   [utop (⭐762)](https://github.com/ocaml-community/utop) – Universal toplevel for OCaml with support of multiline edition, history, real-time and context sensitive completion, colors, and more.
-*   [ocamlformat (⭐525)](https://github.com/ocaml-ppx/ocamlformat) - A command-line tool to format OCaml code.
+*   [Jupyter (⭐275)](https://github.com/akabe/ocaml-jupyter) – An OCaml kernel for the Jupyter notebook.
+*   [utop (⭐814)](https://github.com/ocaml-community/utop) – Universal toplevel for OCaml with support for multiline edition, history, real-time and context-sensitive completion, colors, and more.
+*   [ocamlformat (⭐588)](https://github.com/ocaml-ppx/ocamlformat) - A command-line tool to format OCaml code.
 *   **Foreign Function Interface**:
-    *   [ctypes (⭐332)](https://github.com/ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
+    *   [ctypes (⭐354)](https://github.com/ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
     *   [ocaml-main-program-in-c (⭐16)](https://github.com/johnwhitington/ocaml-main-program-in-c) – Example build system for making mixed C/Ocaml binaries where the main program is in C.
     *   [Modular foreign function bindings](http://openmirage.org/blog/modular-foreign-function-bindings)
-    *   [Py.ml (⭐146)](https://github.com/thierry-martinez/pyml) - OCaml bindings for Python.
+    *   [Py.ml (⭐168)](https://github.com/thierry-martinez/pyml) - OCaml bindings for Python.
 
 ### Messaging
 
-*   [ocaml-zmq (⭐76)](https://github.com/issuu/ocaml-zmq) – ZeroMQ bindings for OCaml with Async and Lwt wrappers.
+*   [ocaml-zmq (⭐80)](https://github.com/issuu/ocaml-zmq) – ZeroMQ bindings for OCaml with Async and Lwt wrappers.
 
 ### Questions
 

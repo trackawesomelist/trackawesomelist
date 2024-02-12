@@ -1,18 +1,12 @@
 # Awesome List Updates on Feb 24, 2014
 
-2 awesome lists updated today.
+1 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Perl / PicoLisp
-
-*   [Perl Training Australia - Course Notes](http://perltraining.com.au/notes.html)
-
-## [2. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
+## [1. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
 
 ### Books / Docs / Videos
 
@@ -25,4 +19,4 @@
 ---
 
 - Prev: [Feb 25, 2014](/content/2014/02/25/README.md)
-- Next: [Feb 21, 2014](/content/2014/02/21/README.md)
+- Next: [Feb 19, 2014](/content/2014/02/19/README.md)

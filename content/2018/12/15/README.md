@@ -16,7 +16,7 @@
 
 ### Types / Playground
 
-*   [ts-essentials (⭐3.4k)](https://github.com/krzkaczor/ts-essentials) - All essential TypeScript types in one place
+*   [ts-essentials (⭐3.5k)](https://github.com/krzkaczor/ts-essentials) - All essential TypeScript types in one place
 
 ## [3. Amas](/content/sindresorhus/amas/README.md)
 
@@ -135,11 +135,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [core-server (⭐16)](https://github.com/skyhark-projects/core-server) - Highly scalable VueJs framework with an integrated API system, and multiple advanced features.
+*   [core-server (⭐17)](https://github.com/skyhark-projects/core-server) - Highly scalable VueJs framework with an integrated API system, and multiple advanced features.
 
 ### Components & Libraries / UI Components
 
-*   [vue-hotel-datepicker (⭐809)](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localization support and more.
+*   [vue-hotel-datepicker (⭐820)](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localization support and more.
 *   [vue2-persian-datepicker (⭐102)](https://github.com/dyonir/vue2-persian-datepicker) - An awesome Persian datepicker component for vue. کامپوننت انتخاب تاریخ برای ویو.
 
 ### Components & Libraries / UI Utilities
@@ -175,7 +175,7 @@
 
 ### Platforms
 
-*   [Flutter (⭐49k)](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
+*   [Flutter (⭐50k)](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
 
 ## [12. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 

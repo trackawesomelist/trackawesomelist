@@ -70,7 +70,7 @@
 
 ### Learn to Learn
 
-*   [Understanding Mathematics (⭐915)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐992)](https://github.com/nelson-brochado/understanding-math)
 
 ## [8. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Related projects / Syntax highlighting packages
 
-*   [fpgaboy (⭐87)](https://github.com/trun/fpgaboy) - Implementation Nintendo's Game Boy console on an FPGA.
+*   [fpgaboy (⭐88)](https://github.com/trun/fpgaboy) - Implementation Nintendo's Game Boy console on an FPGA.
 
 ## [10. Awesome Design](/content/gztchan/awesome-design/README.md)
 

@@ -31,7 +31,7 @@
 ### Image Processing / XML
 
 *   [dlib.image (⭐210)](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
-*   [color.d (⭐495)](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d (⭐495)](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d (⭐495)](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d (⭐495)](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
+*   [color.d (⭐517)](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d (⭐517)](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d (⭐517)](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d (⭐517)](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
 
 ### Logging / Language Processing
 

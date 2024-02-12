@@ -14,7 +14,7 @@
 
 ### Applications / Directory Navigation
 
-*   [choosealicense-cli (⭐66)](https://github.com/lord63/choosealicense-cli) - Choose an OSS license from the comfort of your terminal
+*   [choosealicense-cli (⭐67)](https://github.com/lord63/choosealicense-cli) - Choose an OSS license from the comfort of your terminal
 
 ### Shell Package Management / Directory Navigation
 
@@ -50,7 +50,7 @@
     Linear Algebra, Visualization and Scientific Computing for Ruby.
 *   [Kiba (⭐1.7k)](https://github.com/thbar/kiba) -
     Lightweight [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (Extract, Transform, Load) pipeline.
-*   [Awesome OCR (⭐2.4k)](https://github.com/kba/awesome-ocr) -
+*   [Awesome OCR (⭐2.5k)](https://github.com/kba/awesome-ocr) -
     Multitude of OCR (Optical Character Recognition) resources.
 *   [Awesome TensorFlow (⭐17k)](https://github.com/jtoy/awesome-tensorflow) -
     Machine Learning with TensorFlow libraries.

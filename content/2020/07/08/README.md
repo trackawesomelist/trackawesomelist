@@ -67,7 +67,7 @@
 
 ### Static Analysis / PHP
 
-*   [Phan (⭐5.3k)](https://github.com/phan/phan) - *Phan* - Broad static analysis for PHP applications with some support for security scanning features.
+*   [Phan (⭐5.5k)](https://github.com/phan/phan) - *Phan* - Broad static analysis for PHP applications with some support for security scanning features.
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Design Systems
 
-*   [GOV.UK Web Components (⭐3)](https://github.com/tgreyuk/govuk-webcomponents) - Set of encapsulated web components consuming the GOV.UK Design System.
+*   [GOV.UK Web Components (⭐4)](https://github.com/tgreyuk/govuk-webcomponents) - Set of encapsulated web components consuming the GOV.UK Design System.
 
 ## [13. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 

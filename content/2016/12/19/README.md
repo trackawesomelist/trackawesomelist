@@ -76,7 +76,7 @@
 
 ### Logging
 
-*   [Blackhole (⭐194)](https://github.com/3Hren/blackhole) - Attribute-based logging framework, which is designed to be fast, modular and highly customizable. \[MIT]
+*   [Blackhole (⭐198)](https://github.com/3Hren/blackhole) - Attribute-based logging framework, which is designed to be fast, modular and highly customizable. \[MIT]
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Coding Style Guides
 
-*   [Fundamental Ruby (⭐456)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
+*   [Fundamental Ruby (⭐460)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
 
 ## [9. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
@@ -157,16 +157,16 @@
 
 *   [Leaflet](http://rstudio.github.io/leaflet/) - One of the most popular JavaScript libraries interactive maps.
 *   [CRAN Task View: Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html)- Spatial Analysis related resources.
-*   [ggmap (⭐704)](https://github.com/dkahle/ggmap) -  Plotting maps in R with ggplot2.
-*   [REmap (⭐249)](https://github.com/Lchiffon/REmap) - R interface to the JavaScript library ECharts for interactive map data visualization.
+*   [ggmap (⭐751)](https://github.com/dkahle/ggmap) -  Plotting maps in R with ggplot2.
+*   [REmap (⭐254)](https://github.com/Lchiffon/REmap) - R interface to the JavaScript library ECharts for interactive map data visualization.
 *   [sp](https://edzer.github.io/sp/) - Classes and Methods for Spatial Data.
-*   [gstat (⭐164)](https://github.com/edzer/gstat) - Spatial and spatio-temporal geostatistical modelling, prediction and simulation.
-*   [spacetime (⭐62)](https://github.com/edzer/spacetime) - R classes and methods for spatio-temporal data.
-*   [spatstat (⭐158)](https://github.com/spatstat/spatstat) - Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests
+*   [gstat (⭐182)](https://github.com/edzer/gstat) - Spatial and spatio-temporal geostatistical modelling, prediction and simulation.
+*   [spacetime (⭐69)](https://github.com/edzer/spacetime) - R classes and methods for spatio-temporal data.
+*   [spatstat (⭐173)](https://github.com/spatstat/spatstat) - Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests
 
 ### HTML Widgets
 
-*   [wordcloud2 (⭐380)](https://github.com/Lchiffon/wordcloud2) - R interface to wordcloud2.js.
+*   [wordcloud2 (⭐394)](https://github.com/Lchiffon/wordcloud2) - R interface to wordcloud2.js.
 
 ### Books / Paid
 

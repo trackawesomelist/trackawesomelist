@@ -122,7 +122,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### For Electron / Other
 
-*   [electron-packager (⭐8.3k)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
+*   [electron-packager (⭐44)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
 
 ## [11. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 

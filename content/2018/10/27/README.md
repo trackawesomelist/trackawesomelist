@@ -131,17 +131,17 @@
 
 ### Command-Line Productivity
 
-*   [fselect (⭐3.5k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
-*   [loop (⭐636)](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners
-*   [xsv (⭐9.4k)](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
+*   [fselect (⭐3.7k)](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
+*   [loop (⭐652)](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners
+*   [xsv (⭐9.7k)](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust
 
 ### Downloading and Serving / Directory Navigation
 
-*   [shell2http (⭐1.1k)](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
+*   [shell2http (⭐1.2k)](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
 
 ### Applications / Directory Navigation
 
-*   [carbon-now-cli (⭐5.5k)](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
+*   [carbon-now-cli (⭐5.6k)](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 
 ### Games / Directory Navigation
 

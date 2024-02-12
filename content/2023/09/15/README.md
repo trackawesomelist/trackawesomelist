@@ -21,13 +21,13 @@
 
 ### Databases Implemented in Go
 
-*   [LinDB (⭐2.7k)](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
+*   [LinDB (⭐2.8k)](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 
 ## [3. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Storage / Database
 
-*   [micropg\_lite (⭐1)](https://github.com/TimonW-Dev/micropg_lite) - PostgreSQL database driver for MicroPython, based on micropg but aiming to require less memory with some compromises in functionality.
+*   [micropg\_lite (⭐2)](https://github.com/TimonW-Dev/micropg_lite) - PostgreSQL database driver for MicroPython, based on micropg but aiming to require less memory with some compromises in functionality.
 
 ## [4. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Open Source / Other
 
-*   [PikaTorrent (⭐226)](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
+*   [PikaTorrent (⭐264)](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 
 ## [6. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -51,21 +51,21 @@
 
 ### Type / React
 
-*   [graphql-to-type (⭐0)](https://github.com/lkster/graphql-to-type) - GraphQL query parser written entirely in TypeScript's type system for creating interfaces based on provided query
+*   [graphql-to-type (⭐4)](https://github.com/lkster/graphql-to-type) - GraphQL query parser written entirely in TypeScript's type system for creating interfaces based on provided query
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
-*   [wagyu (⭐583)](https://github.com/howardwu/wagyu) \[[wagyu](https://crates.io/crates/wagyu)] — Rust library for generating cryptocurrency wallets
+*   [wagyu (⭐597)](https://github.com/howardwu/wagyu) \[[wagyu](https://crates.io/crates/wagyu)] — Rust library for generating cryptocurrency wallets
 
 ### Applications / Games
 
-*   [maras-archive/rsnake (⭐110)](https://github.com/maras-archive/rsnake) — Snake written in Rust.
+*   [maras-archive/rsnake (⭐119)](https://github.com/maras-archive/rsnake) — Snake written in Rust.
 
 ### Applications / System tools
 
-*   [eza-community/eza (⭐3.1k)](https://github.com/eza-community/eza) — A replacement for 'ls'
+*   [eza-community/eza (⭐5k)](https://github.com/eza-community/eza) — A replacement for 'ls'
 
 ## [9. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -77,13 +77,13 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Orchestrator (⭐22)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games (Godot 4.x).
+*   [Orchestrator (⭐246)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games (Godot 4.x).
 
 ## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-cdn2 (⭐46)](https://github.com/nonzzz/vite-plugin-cdn) - Replace module with CDN.
+*   [vite-plugin-cdn2 (⭐62)](https://github.com/nonzzz/vite-plugin-cdn) - Replace module with CDN.
 
 ## [12. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 

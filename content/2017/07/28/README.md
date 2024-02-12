@@ -33,18 +33,18 @@
 
 ### Contents / Boilerplates
 
-*   [Official Boilerplate (⭐975)](https://github.com/developit/preact-boilerplate) - Ready-to-rock Preact starter project, powered by Webpack.
+*   [Official Boilerplate (⭐973)](https://github.com/developit/preact-boilerplate) - Ready-to-rock Preact starter project, powered by Webpack.
 *   [Preact Simple Starter (⭐65)](https://github.com/ooade/PreactSimpleStarter) - PWA Simple Starter with Preact, Preact-mdl and Webpack2.
-*   [Preact PWA (⭐509)](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup.
+*   [Preact PWA (⭐510)](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup.
 
 ### Contents / Routing
 
-*   [Preact Router (⭐969)](https://github.com/developit/preact-router) - URL router for Preact.
+*   [Preact Router (⭐977)](https://github.com/developit/preact-router) - URL router for Preact.
 
 ### Contents / Components
 
-*   [Preact Token Input (⭐60)](https://github.com/developit/preact-token-input) - Text field that tokenizes input, for things like tags.
-*   [Preact Virtual List (⭐216)](https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)).
+*   [Preact Token Input (⭐61)](https://github.com/developit/preact-token-input) - Text field that tokenizes input, for things like tags.
+*   [Preact Virtual List (⭐218)](https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)).
 *   [Preact Layout](https://download.github.io/preact-layout/) - Small and simple layout library.
 *   [Preact Socrates (⭐16)](https://github.com/matthewmueller/preact-socrates) - Preact plugin for [Socrates (⭐580)](http://github.com/matthewmueller/socrates).
 *   [Preact Flyd (⭐11)](https://github.com/xialvjun/preact-flyd) - Use [flyd (⭐1.6k)](https://github.com/paldepind/flyd) FRP streams in Preact + JSX.
@@ -53,9 +53,9 @@
 *   [Preact Hyperscript (⭐31)](https://github.com/queckezz/preact-hyperscript) - Hyperscript-like syntax for creating elements.
 *   [Shallow Compare (⭐34)](https://github.com/tkh44/shallow-compare) - Simplified `shouldComponentUpdate` helper.
 *   [Preact Codemod (⭐40)](https://github.com/vutran/preact-codemod) - Transform your React code to Preact.
-*   [Preact Helmet (⭐80)](https://github.com/download/preact-helmet) - A document head manager for Preact.
+*   [Preact Helmet (⭐81)](https://github.com/download/preact-helmet) - A document head manager for Preact.
 *   [Preact Delegate (⭐18)](https://github.com/NekR/preact-delegate) - Delegate DOM events.
-*   [Preact No SSR (⭐7)](https://github.com/gufsky/preact-no-ssr) - Skip Server Side Rendering of Components.
+*   [Preact No SSR (⭐8)](https://github.com/gufsky/preact-no-ssr) - Skip Server Side Rendering of Components.
 
 ### Contents / Articles
 
@@ -69,7 +69,7 @@
 
 ### Contents / Related Libraries
 
-*   [Rax (⭐7.9k)](https://github.com/alibaba/rax) - A universal React-compatible render engine.
+*   [Rax (⭐8k)](https://github.com/alibaba/rax) - A universal React-compatible render engine.
 
 ## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

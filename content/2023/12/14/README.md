@@ -10,9 +10,9 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [JET (⭐649)](https://github.com/aviatesk/JET.jl) — Static type inference system to detect bugs and type instabilities.
+*   [JET (⭐675)](https://github.com/aviatesk/JET.jl) — Static type inference system to detect bugs and type instabilities.
 
 ---
 
 - Prev: [Dec 15, 2023](/content/2023/12/15/README.md)
-- Next: [Dec 12, 2023](/content/2023/12/12/README.md)
+- Next: [Dec 13, 2023](/content/2023/12/13/README.md)

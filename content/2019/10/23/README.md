@@ -43,48 +43,48 @@
 
 ### Shells
 
-*   [ksh93 (⭐480)](https://github.com/att/ast) - Korn Shell
-*   [mksh (⭐182)](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
-*   [oksh (⭐295)](https://github.com/ibara/oksh) - Portable OpenBSD ksh
+*   [ksh93 (⭐503)](https://github.com/att/ast) - Korn Shell
+*   [mksh (⭐189)](https://github.com/MirBSD/mksh) - MirBSD Korn Shell
+*   [oksh (⭐313)](https://github.com/ibara/oksh) - Portable OpenBSD ksh
 *   [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) - Public domain Korn shell
-*   [shell++ (⭐131)](https://github.com/alexst07/shell-plus-plus) - Friendly and modern functional and object oriented shell script language
+*   [shell++ (⭐139)](https://github.com/alexst07/shell-plus-plus) - Friendly and modern functional and object oriented shell script language
 *   [tcsh](https://www.tcsh.org/) - C shell with file name completion and command line editing
 *   [xonsh](https://xon.sh) - Python-ish, BASHwards-looking shell language and command prompt
 
 ### Command-Line Productivity
 
-*   [autoenv (⭐5.2k)](https://github.com/inishchith/autoenv) - Directory-based environments
+*   [autoenv (⭐5.4k)](https://github.com/inishchith/autoenv) - Directory-based environments
 *   [browsh (⭐16k)](https://github.com/browsh-org/browsh) - The modern text-based browser
-*   [googlr (⭐41)](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
-*   [mcfly (⭐5.1k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scot!
-*   [sqlline (⭐569)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
-*   [td-cli (⭐169)](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
+*   [googlr (⭐40)](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
+*   [mcfly (⭐5.5k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scot!
+*   [sqlline (⭐593)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
+*   [td-cli (⭐177)](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
 
 ### Command-Line Productivity / Directory Navigation
 
-*   [z.lua (⭐2.7k)](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits
+*   [z.lua (⭐2.8k)](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits
 
 ### For Developers / Directory Navigation
 
 *   [ack](https://beyondgrep.com/) - A grep-like search tool optimized for source code.
-*   [bitwise (⭐560)](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
-*   [forgit (⭐3.9k)](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder fzf.
+*   [bitwise (⭐584)](https://github.com/mellowcandle/bitwise) - Terminal based interactive bit manipulator in curses.
+*   [forgit (⭐4.1k)](https://github.com/wfxr/forgit) - Utility tool for `git` taking advantage of fuzzy finder fzf.
 *   [overcommit (⭐3.8k)](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
-*   [wipe-modules (⭐335)](https://github.com/bntzio/wipe-modules) - A little agent that removes the node\_modules folder of non-active projects
+*   [wipe-modules (⭐339)](https://github.com/bntzio/wipe-modules) - A little agent that removes the node\_modules folder of non-active projects
 
 ### System Utilities / Directory Navigation
 
-*   [bat (⭐42k)](https://github.com/sharkdp/bat) - A `cat` clone with wings
-*   [exa (⭐22k)](https://github.com/ogham/exa) - A modern version of `ls`.
-*   [nmtui (⭐293)](https://github.com/NetworkManager/NetworkManager) - Text User Interface for controlling NetworkManager
+*   [bat (⭐44k)](https://github.com/sharkdp/bat) - A `cat` clone with wings
+*   [exa (⭐23k)](https://github.com/ogham/exa) - A modern version of `ls`.
+*   [nmtui (⭐314)](https://github.com/NetworkManager/NetworkManager) - Text User Interface for controlling NetworkManager
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [jo (⭐4.4k)](https://github.com/jpmens/jo) - A small utility to create JSON objects from command-line arguments.
+*   [jo (⭐4.5k)](https://github.com/jpmens/jo) - A small utility to create JSON objects from command-line arguments.
 
 ### Applications / Directory Navigation
 
-*   [jrnl (⭐5.9k)](https://github.com/jrnl-org/jrnl) - A simple command line journal application that stores your journal in a plain text file
+*   [jrnl (⭐6.1k)](https://github.com/jrnl-org/jrnl) - A simple command line journal application that stores your journal in a plain text file
 
 ### Shell Package Management / Directory Navigation
 
@@ -92,9 +92,9 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bashful (⭐581)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
+*   [bashful (⭐587)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 *   [Bashlets (⭐67)](https://github.com/reale/bashlets) - A modular extensible toolbox for Bash
-*   [Fishtape (⭐325)](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
+*   [Fishtape (⭐328)](https://github.com/jorgebucaran/fishtape) - TAP producer and test harness for fish
 
 ## [7. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
@@ -107,7 +107,7 @@
 ### Projects
 
 *   [PiAware](https://uk.flightaware.com/adsb/piaware/install) - Live flight tracking using a Raspberry Pi.
-*   [PiFmRds (⭐1.3k)](https://github.com/ChristopheJacquet/PiFmRds) - FM-RDS transmitter using a Raspberry Pi.
+*   [PiFmRds (⭐1.4k)](https://github.com/ChristopheJacquet/PiFmRds) - FM-RDS transmitter using a Raspberry Pi.
 
 ## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -129,18 +129,18 @@
 
 ## [12. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
-### Extensions (Xcode 8+) / Collection View Layout
+### Extensions / Collection View Layout
 
-*   [nef (⭐191)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
+*   [nef (⭐197)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
 
 ## [13. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
 ### Others
 
-*   [The Goose Game Kata (⭐9)](https://github.com/xpeppers/goose-game-kata)
+*   [The Goose Game Kata (⭐8)](https://github.com/xpeppers/goose-game-kata)
 *   [Salary slip kata (⭐17)](https://github.com/sandromancuso/salaryslipkata)
-*   [RPG Game kata (⭐655)](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md)
-*   [Train Reservation kata (⭐112)](https://github.com/emilybache/KataTrainReservation)
+*   [RPG Game kata (⭐681)](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md)
+*   [Train Reservation kata (⭐111)](https://github.com/emilybache/KataTrainReservation)
 *   [Password-strength Checker TDD Kata (⭐6)](https://github.com/xpepper/PasswordStrengthChecker)
 
 ## [14. Public Apis](/content/public-apis/public-apis/README.md)
@@ -234,9 +234,9 @@
 
 ### Status Bar
 
-*   [tmux-network-bandwidth (⭐68)](https://github.com/xamut/tmux-network-bandwidth) Show
+*   [tmux-network-bandwidth (⭐69)](https://github.com/xamut/tmux-network-bandwidth) Show
     network bandwidth
-*   [tmux-weather (⭐49)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
+*   [tmux-weather (⭐50)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
 
 ## [21. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

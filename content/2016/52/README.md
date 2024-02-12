@@ -95,7 +95,7 @@
 
 ### Static Code Analysis
 
-*   [Infer (⭐14k)](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C. \[BSD]
+*   [Infer (⭐15k)](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C. \[BSD]
 
 ## [13. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -274,7 +274,7 @@
 
 ### Music Notation
 
-*   [Lyp (⭐69)](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
+*   [Lyp (⭐70)](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
 
 ## [25. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -317,7 +317,7 @@
 
 ### Algorithms and Data structures
 
-*   [qex (⭐28)](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
+*   [qex (⭐29)](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
 
 ### Date and Time
 

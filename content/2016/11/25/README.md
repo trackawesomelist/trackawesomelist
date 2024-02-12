@@ -16,18 +16,18 @@
 
 ### Table of Contents / Files
 
-*   [UnifiedArchive (⭐264)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
+*   [UnifiedArchive (⭐271)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 
 ## [3. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
 ### Canvas / Examples
 
-*   [Cloth Effect](http://raphamorim.io/canvas-experiments/cloth) \[[show me the code (⭐43)](https://github.com/raphamorim/canvas-experiments)] • A cloth 3D effect fork.
-*   [Colorful Particles](http://raphamorim.io/canvas-experiments/particles) \[[show me the code (⭐43)](https://github.com/raphamorim/canvas-experiments)] • Experiment show how to generates random particles. Very simple code for assimilate.
-*   [Draw Table](http://raphamorim.io/canvas-experiments/draw) - \[[show me the code (⭐43)](https://github.com/raphamorim/canvas-experiments)] • A simple example about events using canvas.
-*   [Inception](http://raphamorim.io/canvas-experiments/inception) \[[show me the code (⭐43)](https://github.com/raphamorim/canvas-experiments)] • Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie
+*   [Cloth Effect](http://raphamorim.io/canvas-experiments/cloth) \[[show me the code (⭐46)](https://github.com/raphamorim/canvas-experiments)] • A cloth 3D effect fork.
+*   [Colorful Particles](http://raphamorim.io/canvas-experiments/particles) \[[show me the code (⭐46)](https://github.com/raphamorim/canvas-experiments)] • Experiment show how to generates random particles. Very simple code for assimilate.
+*   [Draw Table](http://raphamorim.io/canvas-experiments/draw) - \[[show me the code (⭐46)](https://github.com/raphamorim/canvas-experiments)] • A simple example about events using canvas.
+*   [Inception](http://raphamorim.io/canvas-experiments/inception) \[[show me the code (⭐46)](https://github.com/raphamorim/canvas-experiments)] • Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie
 *   [Just Canvas](http://raphamorim.io/just-canvas/) \[[show me the code (⭐13)](https://github.com/raphamorim/just-canvas)]• This is a JavaScript experiment to capture movements. Just Dance Idea + HTML5 Canvas Implementation.
-*   [Raining Day](http://raphamorim.io/raining-day/) \[[show me the code (⭐43)](https://github.com/raphamorim/canvas-experiments)] • Raindrops using canvas. It's Neatnait Canvas Rain fork.
+*   [Raining Day](http://raphamorim.io/raining-day/) \[[show me the code (⭐46)](https://github.com/raphamorim/canvas-experiments)] • Raindrops using canvas. It's Neatnait Canvas Rain fork.
 
 ## [4. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
@@ -46,7 +46,7 @@
 ### Timeline / Runner
 
 *   [TimelineJS v3 (⭐2.8k)](https://github.com/NUKnightLab/TimelineJS3) - A Storytelling Timeline built in JavaScript.
-*   [timesheet.js (⭐6.9k)](https://github.com/sbstjn/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
+*   [timesheet.js (⭐7k)](https://github.com/sbstjn/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
 
 ## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -57,14 +57,14 @@
 
 ## [8. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
-### Other useful repositories
+### Other Useful Repositories
 
-- Repository: [Resource List (⭐269)](https://github.com/FuzzySecurity/Resource-List)
+- Repository: [Resource List (⭐313)](https://github.com/FuzzySecurity/Resource-List)
 
   Description: Collection of useful GitHub projects loosely categorised
 
 
-- Repository: [Reverse Engineering (⭐1.7k)](https://github.com/onethawt/reverseengineering-reading-list)
+- Repository: [Reverse Engineering (⭐2.1k)](https://github.com/onethawt/reverseengineering-reading-list)
 
   Description: List of Reverse Engineering articles, books, and papers
 

@@ -64,7 +64,7 @@
 
 ### Extensions / JavaScript Profile
 
-*   [TernJS (⭐812)](https://github.com/ternjs/tern_for_sublime) — a JavaScript type inference engine integration.
+*   [TernJS (⭐805)](https://github.com/ternjs/tern_for_sublime) — a JavaScript type inference engine integration.
 
 ## [5. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Table of Contents / Email
 
-*   [CssToInlineStyles (⭐5.6k)](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
+*   [CssToInlineStyles (⭐5.7k)](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
 
 ## [4. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Serialization
 
-*   [protobuf-c (⭐2.4k)](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. \[BSD]
+*   [protobuf-c (⭐2.5k)](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. \[BSD]
 
 ## [7. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [PyQtGraph (⭐3.4k)](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
+*   [PyQtGraph (⭐3.6k)](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
 
 ## [9. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -162,13 +162,13 @@
 
 ### Packages / Network
 
-*   [ipify (⭐258)](https://github.com/sindresorhus/ipify) - Get your public IP address.
+*   [ipify (⭐263)](https://github.com/sindresorhus/ipify) - Get your public IP address.
 
 ## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Vision Detection / Runner
 
-*   [tracking.js (⭐9.3k)](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
+*   [tracking.js (⭐9.4k)](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
 
 ## [15. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 

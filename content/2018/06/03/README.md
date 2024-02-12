@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 03, 2018
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -19,39 +19,25 @@
 *   [Pixelation](http://pixelation.org/)
 *   [Pixel Joint](http://pixeljoint.com/)
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### C / Non-X86
-
-*   [256-Color VGA Programming in C](http://www.brackeen.com/vga/) - David Brackeen
-
-### FreeBSD / Phoenix
-
-*   [Using C on the UNIX System](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system) - David A. Curry
-
-### Linux / TeX
-
-*   [UNIX Systems Programming for SVR4](http://www.bitsinthewind.com/about-dac/publications/unix-systems-programming) - David A. Curry
-
-## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [2. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI / Inputs
 
 *   [SweetPassword (⭐19)](https://github.com/jesusmartinoza/Sweet-Password) - Password EditText that allows to custom toggle button
 
-## [4. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
+## [3. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
 ### Resources / Miscellaneous
 
 *   [NeuronDB](https://senselab.med.yale.edu/NeuronDB) - Searchable database for  of three types of neuronal properties: voltage gated conductances, neurotransmitter receptors, and neurotransmitter substances.
 
-## [5. Awesome Python](/content/vinta/awesome-python/README.md)
+## [4. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Newsletters
 
 *   [Python Tricks](https://realpython.com/python-tricks/)
 
-## [6. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+## [5. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Libraries
 

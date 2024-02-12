@@ -55,7 +55,7 @@ Language: English
 ### :books: Docs
 
 *   [Prisma Docs](https://www.prisma.io/docs/)
-*   [Prisma Examples (⭐4.9k)](https://github.com/prisma/prisma-examples)
+*   [Prisma Examples (⭐5.7k)](https://github.com/prisma/prisma-examples)
 
 ### :studio_microphone: Events
 
@@ -65,10 +65,10 @@ Language: English
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Prisma 2 Scratchpad (⭐13)](https://github.com/ctrlplusb/prisma2-template)
+*   [Prisma 2 Scratchpad (⭐12)](https://github.com/ctrlplusb/prisma2-template)
 *   [nx-nest-graphql (⭐12)](https://github.com/beeman/nx-nest-graphql)
-*   [Prisma plugin for the IntelliJ Platform (⭐43)](https://github.com/gabrielcolson/intellij-prisma)
-*   [Gatsby with prisma-client (⭐13)](https://github.com/LekoArts/gatsby-with-prisma-client)
+*   [Prisma plugin for the IntelliJ Platform (⭐42)](https://github.com/gabrielcolson/intellij-prisma)
+*   [Gatsby with prisma-client (⭐14)](https://github.com/LekoArts/gatsby-with-prisma-client)
 
 ### :thinking: How Tos / :gear: Schema Visualization Tools
 
@@ -94,7 +94,7 @@ Language: English
 
 ### :family_man_woman_girl_boy: Community / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [GitHub (⭐30k)](https://github.com/prisma/prisma/)
+*   [GitHub (⭐36k)](https://github.com/prisma/prisma/)
 *   [Website](https://prisma.io)
 *   [Docs](https://prisma.io/docs/)
 *   [Blog](https://prisma.io/blog)
@@ -103,7 +103,7 @@ Language: English
 
 ### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
-*   [Tottem (⭐921)](https://github.com/poulainv/tottem)
+*   [Tottem (⭐972)](https://github.com/poulainv/tottem)
 *   [Tomorrow](https://www.tomorrowapp.io/)
 *   [Predict Covid](https://predictcovid.com/)
 
@@ -111,8 +111,8 @@ Language: English
 
 ### Table of Contents / Asset Management
 
-*   [Symfony Asset (⭐2.9k)](https://github.com/symfony/asset) - Manages URL generation and versioning of web assets.
-*   [Symfony Encore (⭐2.1k)](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing and compiling assets built around Webpack.
+*   [Symfony Asset (⭐3.1k)](https://github.com/symfony/asset) - Manages URL generation and versioning of web assets.
+*   [Symfony Encore (⭐2.2k)](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing and compiling assets built around Webpack.
 
 ## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -148,7 +148,7 @@ Language: English
 
 ### Debugging / SRAM
 
-*   [esp32-backtrace (⭐18)](https://github.com/tve/esp32-backtrace) - ESP32 Exception Stack Backtrace Analyzer.
+*   [esp32-backtrace (⭐20)](https://github.com/tve/esp32-backtrace) - ESP32 Exception Stack Backtrace Analyzer.
 
 ## [10. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
@@ -186,21 +186,21 @@ Language: English
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Airbnb-typescript (⭐938)](https://github.com/iamturns/eslint-config-airbnb-typescript) - Airbnb's ESLint config with TypeScript support.
+*   [Airbnb-typescript (⭐1k)](https://github.com/iamturns/eslint-config-airbnb-typescript) - Airbnb's ESLint config with TypeScript support.
 
 ### Configs / Other Prominent Configs (100 stars or so)
 
-*   [Canonical (⭐519)](https://github.com/gajus/eslint-config-canonical) - Shareable config for [Canonical style guide (⭐17)](https://github.com/gajus/canonical).
-*   [Standard (⭐2.5k)](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style (⭐28k)](https://github.com/feross/standard).
-*   [XO (⭐243)](https://github.com/xojs/eslint-config-xo) - Shareable config for [XO (⭐7.2k)](https://github.com/xojs/xo).
+*   [Canonical (⭐564)](https://github.com/gajus/eslint-config-canonical) - Shareable config for [Canonical style guide (⭐18)](https://github.com/gajus/canonical).
+*   [Standard (⭐2.5k)](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style (⭐29k)](https://github.com/feross/standard).
+*   [XO (⭐261)](https://github.com/xojs/eslint-config-xo) - Shareable config for [XO (⭐7.5k)](https://github.com/xojs/xo).
 
 ### Configs / Other Configs
 
 *   [Ash-Nazg (⭐6)](https://github.com/brettz9/eslint-config-ash-nazg) - One config to rule them all!
-*   [Cecilia (⭐7)](https://github.com/SandroMiguel/eslint-config-cecilia) - ESLint configuration for awesome projects.
+*   [Cecilia (⭐6)](https://github.com/SandroMiguel/eslint-config-cecilia) - ESLint configuration for awesome projects.
 *   [ES (⭐28)](https://github.com/thenativeweb/eslint-config-es) - Shareable config for very strict code.
-*   [Hardcore (⭐289)](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (but practical) ESLint config out there.
-*   [Problems (⭐62)](https://github.com/RyanZim/eslint-config-problems) - Shareable config that only catches actual problems, and doesn't enforce stylistic preferences.
+*   [Hardcore (⭐356)](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (but practical) ESLint config out there.
+*   [Problems (⭐66)](https://github.com/RyanZim/eslint-config-problems) - Shareable config that only catches actual problems, and doesn't enforce stylistic preferences.
 *   [Supermind (⭐4)](https://github.com/supermind/eslint-config-supermind) - Shareable config for Supermind style.
 
 ## [16. Awesome Aws](/content/donnemartin/awesome-aws/README.md)

@@ -117,7 +117,7 @@
 
 ### Libraries / To draw using canvas
 
-*   [Origami.js (⭐757)](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
+*   [Origami.js (⭐767)](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
 
 ## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -128,7 +128,7 @@
 ### Scheduling
 
 *   [FluentScheduler (⭐2.6k)](https://github.com/fluentscheduler/FluentScheduler) - Task scheduler with fluent interface that runs automated jobs from your application
-*   [NCrontab (⭐820)](https://github.com/atifaziz/NCrontab) - Class library for parsing & formatting [crontab](http://crontab.org/) expressions as well as calculating occurrences of time based on a crontab schedule
+*   [NCrontab (⭐846)](https://github.com/atifaziz/NCrontab) - Class library for parsing & formatting [crontab](http://crontab.org/) expressions as well as calculating occurrences of time based on a crontab schedule
 
 ## [12. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
@@ -168,11 +168,11 @@
 
 ### Messaging / Scala
 
-*   [Aeron (⭐6.4k)](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
+*   [Aeron (⭐6.9k)](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
 
 ### Data Formats / Scala
 
-*   [SBE (⭐202)](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - Simple Binary Encoding (SBE).
+*   [SBE (⭐231)](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - Simple Binary Encoding (SBE).
 
 ## [16. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
@@ -302,7 +302,7 @@
 
 ### JavaScript Libraries
 
-*   [Awesome CryptoCoinJS (⭐55)](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
+*   [Awesome CryptoCoinJS (⭐57)](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
 
 ## [26. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -361,7 +361,7 @@
 
 ### Authentication
 
-*   [goth (⭐267)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
+*   [goth (⭐269)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
 
 ### Examples and funny stuff
 
@@ -369,7 +369,7 @@
 
 ### Third Party APIs
 
-*   [stripity\_stripe (⭐873)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
+*   [stripity\_stripe (⭐886)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 
 ### Editors
 
@@ -379,7 +379,7 @@
 
 ### Network / Fast Packet Processing
 
-*   [PFQ (⭐514)](https://github.com/pfq/PFQ) - PFQ is a functional networking framework designed for the Linux operating system that allows efficient packets capture/transmission (10G and beyond), in-kernel functional processing and packets steering across sockets/end-points.
+*   [PFQ (⭐523)](https://github.com/pfq/PFQ) - PFQ is a functional networking framework designed for the Linux operating system that allows efficient packets capture/transmission (10G and beyond), in-kernel functional processing and packets steering across sockets/end-points.
 *   [PF\_RING](http://www.ntop.org/products/packet-capture/pf_ring/) - PF\_RING is a new type of network socket that dramatically improves the packet capture speed.
 *   [netmap](http://info.iet.unipi.it/~luigi/netmap/) - netmap is a framework for high speed packet I/O. Together with its companion VALE software switch, it is implemented as a single kernel module and available for FreeBSD, Linux and now also Windows.
 

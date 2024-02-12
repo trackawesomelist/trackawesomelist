@@ -22,11 +22,11 @@
 
 ### HTML Widgets
 
-*   [highcharter (⭐668)](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets
+*   [highcharter (⭐701)](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets
 
 ### Spatial
 
-*   [tigris (⭐276)](https://github.com/walkerke/tigris) - Download and use Census TIGER/Line shapefiles in R
+*   [tigris (⭐308)](https://github.com/walkerke/tigris) - Download and use Census TIGER/Line shapefiles in R
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Extensions / JavaScript Profile
 
-*   [JavaScript Enhancements (⭐623)](https://github.com/pichillilorenzo/JavaScriptEnhancements) — plugin that offers smart javascript autocomplete, real-time errors and, also, a lot of features about creating, developing and managing javascript projects (such as Cordova, Ionic, React, etc.). It uses [Flow (⭐22k)](https://github.com/facebook/flow) (javascript static type checker from Facebook) under the hood.
+*   [JavaScript Enhancements (⭐636)](https://github.com/pichillilorenzo/JavaScriptEnhancements) — plugin that offers smart javascript autocomplete, real-time errors and, also, a lot of features about creating, developing and managing javascript projects (such as Cordova, Ionic, React, etc.). It uses [Flow (⭐22k)](https://github.com/facebook/flow) (javascript static type checker from Facebook) under the hood.
 
 ---
 

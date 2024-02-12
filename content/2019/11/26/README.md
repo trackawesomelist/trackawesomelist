@@ -26,16 +26,16 @@
 
 ### Command-Line Productivity
 
-*   [funky (⭐626)](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
-*   [navi (⭐13k)](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+*   [funky (⭐631)](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
+*   [navi (⭐14k)](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ### Command-Line Productivity / Directory Navigation
 
-*   [z (⭐15k)](https://github.com/rupa/z) - z is the new j, yo
+*   [z (⭐16k)](https://github.com/rupa/z) - z is the new j, yo
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [fx (⭐17k)](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
+*   [fx (⭐18k)](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions
 
 ## [4. Learn to Program](/content/karlhorky/learn-to-program/README.md)
 
@@ -84,7 +84,7 @@
 
 ### C, C++
 
-*   [cl-yesql (⭐57)](https://github.com/ruricolist/cl-yesql) - SQL statements live in their own files, in SQL syntax, and are imported into Lisp as functions. You are not limited to the features a DSL supports. Based on Clojure's Yesql. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-yesql (⭐61)](https://github.com/ruricolist/cl-yesql) - SQL statements live in their own files, in SQL syntax, and are imported into Lisp as functions. You are not limited to the features a DSL supports. Based on Clojure's Yesql. [MIT](https://opensource.org/licenses/MIT).
 
 ## [11. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Open Source / RPG
 
-*   [Darkness Dungeon (⭐285)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+*   [Darkness Dungeon (⭐335)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

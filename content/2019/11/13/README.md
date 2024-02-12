@@ -10,7 +10,7 @@
 
 ### Software / DNS - Control Panels & Domain Management
 
-*   [octoDNS (⭐2.8k)](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
+*   [octoDNS (⭐2.9k)](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
 
 ## [2. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Other
 
-*   [lockfile-lint (⭐725)](https://github.com/lirantal/lockfile-lint) - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
+*   [lockfile-lint (⭐738)](https://github.com/lirantal/lockfile-lint) - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
 
 ## [8. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
 

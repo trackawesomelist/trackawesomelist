@@ -96,10 +96,6 @@
 
 *   [Bitwarden](https://bitwarden.com) - Open source password management tool for Mac OS, iOS and browsers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bitwarden) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-### Utilities / Quality of Life Improvements
-
-*   [NightOwl](https://nightowl.kramser.xyz/) - Automatically switch between macOS Mojave's light and dark themes by time of day or with a menu bar or keyboard shortcut. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Internationalization
@@ -170,7 +166,7 @@
 
 ### Editor Plugins
 
-*   [vim-iced (Vim) (⭐503)](https://github.com/liquidz/vim-iced)
+*   [vim-iced (Vim) (⭐505)](https://github.com/liquidz/vim-iced)
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

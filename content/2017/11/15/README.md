@@ -20,13 +20,13 @@
 
 ### Rust / Git
 
-*   [proteus (⭐410)](https://github.com/wireapp/proteus) - Axolotl protocol implementation, without header keys, in Rust.
+*   [proteus (⭐415)](https://github.com/wireapp/proteus) - Axolotl protocol implementation, without header keys, in Rust.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Authentication
 
-*   [ReCaptcha (⭐258)](https://github.com/fjcaetano/ReCaptcha) - \[In]visible ReCaptcha for iOS.
+*   [ReCaptcha (⭐259)](https://github.com/fjcaetano/ReCaptcha) - \[In]visible ReCaptcha for iOS.
 
 ## [4. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

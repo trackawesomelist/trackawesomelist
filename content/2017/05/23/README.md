@@ -52,7 +52,7 @@
 
 ### Scheduling
 
-*   [schedule.cr (⭐72)](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
+*   [schedule.cr (⭐73)](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -74,17 +74,8 @@
 
 ## [8. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
-### Node.js / Scala
-
-*   [Cote (⭐2.3k)](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices.
-
-### PHP / Scala
-
-*   [Flight (⭐2.5k)](https://github.com/mikecao/flight) - An extensible micro-framework.
-
 ### Ruby / Scala
 
-*   [Rails API](http://edgeguides.rubyonrails.org/api_app.html) - Rails as an API only.
 *   [Sinatra](http://www.sinatrarb.com/) - Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort.
 
 ## [9. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
@@ -127,7 +118,7 @@
 
 ### Miscellaneous
 
-*   [Kangaru (⭐429)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
+*   [Kangaru (⭐444)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

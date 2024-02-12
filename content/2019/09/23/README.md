@@ -44,9 +44,9 @@
     spell Checker.
 *   [textidote](https://sylvainhalle.github.io/textidote/) - Spelling, grammar and
     style checking on LaTeX documents.
-*   [Vale (⭐3.3k)](https://github.com/errata-ai/vale) - Free, open-source linter for
+*   [Vale (⭐3.9k)](https://github.com/errata-ai/vale) - Free, open-source linter for
     prose built with speed and extensibility in mind.
-*   [write-good (⭐4.8k)](https://github.com/btford/write-good) - Naive linter for English
+*   [write-good (⭐4.9k)](https://github.com/btford/write-good) - Naive linter for English
     prose.
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
@@ -81,7 +81,7 @@
 *   [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
 *   [Google, SRE: Managing Incidents](https://landing.google.com/sre/sre-book/chapters/managing-incidents/)
 *   [Troy Hunt: Data breach disclosure 101](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
-*   [Awesome Incident Response (⭐5.9k)](https://github.com/meirwah/awesome-incident-response)
+*   [Awesome Incident Response (⭐6.9k)](https://github.com/meirwah/awesome-incident-response)
 *   [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) - Overview of fines and penalties.
 
 ### Data Protection Authorities (art. 51 -59)
@@ -104,8 +104,8 @@
 
 ### Related
 
-*   [Privacy Respecting (⭐1.8k)](https://github.com/nikitavoloboev/privacy-respecting)
-*   [Awesome: Security (⭐234k)](https://github.com/sindresorhus/awesome#security)
+*   [Privacy Respecting (⭐1.9k)](https://github.com/nikitavoloboev/privacy-respecting)
+*   [Awesome: Security (⭐287k)](https://github.com/sindresorhus/awesome#security)
 
 ## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -121,7 +121,7 @@
 
 ### Windows Utilities / Web Exploitation Books
 
-*   [WinPwn (⭐3k)](https://github.com/SecureThisShit/WinPwn) - Internal penetration test script to perform local and domain reconnaissance, privilege escalation and exploitation.
+*   [WinPwn (⭐3.1k)](https://github.com/SecureThisShit/WinPwn) - Internal penetration test script to perform local and domain reconnaissance, privilege escalation and exploitation.
 
 ## [10. Awesome Ads](/content/cenoura/awesome-ads/README.md)
 
@@ -133,7 +133,7 @@
 
 ### Packages / Static site generators
 
-*   [Charge (⭐419)](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
+*   [Charge (⭐423)](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
 
 ### Resources / Tutorials
 
@@ -162,16 +162,16 @@
 
 ### Front-End Development
 
-*   [KnockoutJS (⭐94)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
-*   [Dojo Toolkit (⭐81)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
+*   [KnockoutJS (⭐96)](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
+*   [Dojo Toolkit (⭐82)](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
 
 ### Back-End Development
 
-*   [Vagrant (⭐583)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
-*   [Pyramid (⭐540)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
+*   [Vagrant (⭐584)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
+*   [Pyramid (⭐539)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
 *   [Phalcon (⭐606)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
-*   [Dropwizard (⭐90)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
-*   [Lumen (⭐323)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
+*   [Dropwizard (⭐91)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
+*   [Lumen (⭐324)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
 *   [Serverless Framework (⭐2.1k)](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
 
 ## [15. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)

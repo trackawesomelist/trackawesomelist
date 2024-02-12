@@ -1009,7 +1009,7 @@
 
 ### Awesome Repositories
 
-- Repository: [OSINT (⭐11k)](https://github.com/jivoi/awesome-osint)
+- Repository: [OSINT (⭐15k)](https://github.com/jivoi/awesome-osint)
 
   Description: List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
 
@@ -1019,7 +1019,7 @@
 
 ### Math / Other
 
-*   [Learning Maths again (⭐190)](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
+*   [Learning Maths again (⭐192)](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
 
 ## [7. Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Books
 
-*   [cppbestpractices (⭐7.4k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
+*   [cppbestpractices (⭐7.6k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 
 ## [2. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -153,27 +153,27 @@
 
 ### Code Quality
 
-*   [sonarqube (⭐7.6k)](https://github.com/SonarSource/sonarqube) - Put your technical debt under control
+*   [sonarqube (⭐8.4k)](https://github.com/SonarSource/sonarqube) - Put your technical debt under control
 *   [gerrit](https://gerrit.googlesource.com/) - Code Review
 
 ### CI / CD
 
-*   [Jenkins (⭐20k)](https://github.com/jenkinsci/jenkins) - open-source continuous integration server
-*   [Travis CI (⭐8.3k)](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects
+*   [Jenkins (⭐22k)](https://github.com/jenkinsci/jenkins) - open-source continuous integration server
+*   [Travis CI (⭐8.4k)](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects
 
 ### Security and PKI
 
 *   [Ralasafe](http://sourceforge.net/projects/ralasafe/) - Access Control Middleware
-*   [OpenXPKI (⭐440)](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software
+*   [OpenXPKI (⭐492)](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software
 
 ### Bug trackers
 
-*   [Bugzilla (⭐527)](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software
-*   [Mantis (⭐1.5k)](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power
+*   [Bugzilla (⭐608)](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software
+*   [Mantis (⭐1.6k)](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power
 
 ### PaaS
 
-*   [OpenShift (⭐8.3k)](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes
+*   [OpenShift (⭐8.4k)](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes
 
 ## [16. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
@@ -191,11 +191,7 @@
 
 ### Table of Contents / E-commerce
 
-*   [OmniPay (⭐5.6k)](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
-
-### Table of Contents / API
-
-*   [wsdl2phpgenerator (⭐803)](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - A tool to generate PHP classes from SOAP WSDL files.
+*   [OmniPay (⭐5.9k)](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
 
 ## [19. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -231,7 +227,7 @@
 
 ### Packages / Templating
 
-*   [EJS (⭐7.3k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
+*   [EJS (⭐7.4k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
 
 ### Packages / Parsing
 
@@ -309,7 +305,7 @@
 
 ### CLI Utilities
 
-*   [Ruby/Progressbar (⭐1.5k)](https://github.com/jfelchner/ruby-progressbar) - The most flexible text progress bar library for Ruby.
+*   [Ruby/Progressbar (⭐1.6k)](https://github.com/jfelchner/ruby-progressbar) - The most flexible text progress bar library for Ruby.
 
 ---
 

@@ -58,17 +58,11 @@
 ### Frameworks / Runtimes
 
 *   [Akka](http://akka.io/) - Toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
-*   [Microserver (⭐940)](https://github.com/aol/micro-server) - Java 8 native, zero configuration, standards based, battle hardened library to run Java REST microservices.
 *   [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
 
 ### C
 
 *   [Kore](https://kore.io/) - Easy to use web application framework for writing scalable web APIs in C.
-
-### C++
-
-*   [AnyRPC (⭐58)](https://github.com/sgieseking/anyrpc) - Provides a common system to work with a number of different remote procedure call standards, including: JSON-RPC, XML-RPC, MessagePack-RPC.
-*   [C++ Micro Services](http://cppmicroservices.org/) - An OSGi-like C++ dynamic module system and service registry.
 
 ### D
 
@@ -76,38 +70,35 @@
 
 ### Erlang VM / Erlang
 
-*   [Mochiweb (⭐1.8k)](https://github.com/mochi/mochiweb) - Erlang library for building lightweight HTTP servers.
+*   [Mochiweb (⭐1.9k)](https://github.com/mochi/mochiweb) - Erlang library for building lightweight HTTP servers.
 
 ### API Gateways / Edge Services / Scala
 
-*   [Zuul (⭐12k)](https://github.com/Netflix/zuul) - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
+*   [Zuul (⭐13k)](https://github.com/Netflix/zuul) - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
 
 ### Configuration & Discovery / Scala
 
-*   [Denominator (⭐575)](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash.
-*   [Etcd (⭐43k)](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
+*   [Etcd (⭐46k)](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
 *   [Eureka (⭐12k)](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) - REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
 *   [SkyDNS (⭐2.2k)](https://github.com/skynetservices/skydns) - Distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
 *   [Spring Cloud Config](http://cloud.spring.io/spring-cloud-config/) - Provides server and client-side support for externalized configuration in a distributed system.
 
 ### Elasticity / Scala
 
-*   [Marathon](https://mesosphere.github.io/marathon/) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 *   [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
-*   [Ordasity (⭐345)](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
-*   [Redisson (⭐21k)](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
+*   [Redisson (⭐22k)](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
 
 ### Serialization / Scala
 
-*   [BooPickle (⭐364)](https://github.com/ochrons/boopickle) - Binary serialization library for efficient network communication. For Scala and Scala.js
+*   [BooPickle (⭐365)](https://github.com/ochrons/boopickle) - Binary serialization library for efficient network communication. For Scala and Scala.js
 *   [CBOR](http://cbor.io/) - Implementations of the CBOR standard (RFC 7049) in many languages.
 *   [Cereal](http://uscilab.github.io/cereal/) - C++11 library for serialization.
-*   [Cheshire (⭐1.4k)](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE encoding/decoding.
+*   [Cheshire (⭐1.5k)](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE encoding/decoding.
 *   [Etch](http://etch.apache.org/) - Cross-platform, language and transport-independent framework for building and consuming network services.
-*   [Fastjson (⭐25k)](https://github.com/alibaba/fastjson) - Fast JSON Processor.
-*   [Jackson (⭐8.1k)](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
+*   [Fastjson (⭐26k)](https://github.com/alibaba/fastjson) - Fast JSON Processor.
+*   [Jackson (⭐8.7k)](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
 *   [Jackson Afterburner (⭐91)](https://github.com/FasterXML/jackson-module-afterburner) - Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).
-*   [Kryo (⭐5.8k)](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
+*   [Kryo (⭐6k)](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
 *   [MessagePack](http://msgpack.org/) - Efficient binary serialization format.
 *   [SBinary (⭐75)](https://github.com/harrah/sbinary) - Library for describing binary formats for Scala types.
 *   [Thrift](http://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development.
@@ -121,7 +112,7 @@
 
 ### Syntax
 
-*   [purrr (⭐1.1k)](https://github.com/hadley/purrr) - A FP package for R in the spirit of underscore.js.
+*   [purrr (⭐1.2k)](https://github.com/hadley/purrr) - A FP package for R in the spirit of underscore.js.
 
 ### Graphic Displays
 

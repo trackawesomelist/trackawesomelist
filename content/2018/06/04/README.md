@@ -58,7 +58,7 @@
 
 ### Applications / Directory Navigation
 
-*   [cointop (⭐3.6k)](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies
+*   [cointop (⭐3.8k)](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies
 
 ### Shell Package Management / Directory Navigation
 
@@ -76,7 +76,7 @@
 
 ### Table of Contents / Static Analysis
 
-*   [Psalm (⭐4.9k)](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications.
+*   [Psalm (⭐5.4k)](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications.
 
 ---
 

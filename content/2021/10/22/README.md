@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 22, 2021
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -23,14 +23,14 @@
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Line Collider 2D (⭐7)](https://github.com/Kylogias/godot-line-collider-2d) - A script which adds colliders that follow an array of Line2Ds (useful for prototypes).
+*   [Line Collider 2D (⭐8)](https://github.com/Kylogias/godot-line-collider-2d) - A script which adds colliders that follow an array of Line2Ds (useful for prototypes).
 
 ## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
-*   📚 [tails-ui (⭐194)](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
+*   📚 [tails-ui (⭐195)](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
 *   📚 [tails (⭐34)](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
 *   📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 *   📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
@@ -39,13 +39,13 @@
 
 ### (requires Neovim 0.5)
 
-*   [mfussenegger/nvim-lint (⭐1.1k)](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin, complementary to the built-in Language Server Protocol support.
+*   [mfussenegger/nvim-lint (⭐1.4k)](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin, complementary to the built-in Language Server Protocol support.
 
 ## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Testing
 
-*   [NBomber (⭐1.9k)](https://github.com/PragmaticFlow/NBomber) - Very simple load testing framework for Pull and Push scenarios. It's 100% written in F# and targeting .NET Core and full .NET Framework.
+*   [NBomber (⭐2k)](https://github.com/PragmaticFlow/NBomber) - Very simple load testing framework for Pull and Push scenarios. It's 100% written in F# and targeting .NET Core and full .NET Framework.
 
 ## [6. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
@@ -57,32 +57,26 @@
 
 *   [Solid](https://solidproject.org): Solid was created by the inventor of the World Wide Web, Sir Tim Berners-Lee. Solid is a specification that lets people store their data securely in decentralized data stores called Pods. Pods are like secure personal web servers for your data. For developer resources, see [Developer Resources](https://solidproject.org/developers). For a listing of some Solid applications, see [Solid Applications](https://solidproject.org/apps).
 
-## [7. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
-
-### Developer and Requestor Resources / Miscellaneous
-
-*   [Yagna Python API docs](https://yapapi.readthedocs.io/) - Documentation for Yapapi.
-
-## [8. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
+## [7. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Adapters / Server-side
 
 *   [Oak (Deno) (⭐8)](https://github.com/jcs224/oak_inertia)
 
-## [9. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [8. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### Books
 
 *   [Continuous Delivery for Kubernetes](https://www.manning.com/books/continuous-delivery-for-kubernetes) - Take the fast track in your journey to continuous delivery, with open source tools for Kubernetes and cloud applications
 *   [Continuous Delivery in Go](https://www.manning.com/books/continuous-delivery-in-go) - Book that shows you how to build pipelines that optimize your development process so you can deliver software seamlessly to production.
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Managed Data Services
 
 *   [cockroachlabs.com](https://www.cockroachlabs.com/free-tier/) — Free CockroachDB up to 5GB and 1vCPU (limited [request units](https://www.cockroachlabs.com/docs/cockroachcloud/serverless-faqs.html#what-are-the-usage-limits-of-cockroachdb-serverless-beta))
 
-## [11. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Books
 
@@ -193,17 +187,17 @@
 
 
 
-## [12. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
+## [11. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
 ### Platforms / Low Code Application Platform
 
 *   [n8n](https://n8n.io/) - Workflow automation tool with many integrations and with fair-code license.
 
-## [13. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [12. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / LoRaWAN
 
-*   [u-lora (⭐46)](https://github.com/martynwheeler/u-lora) - Raspi-lora for MicroPython.
+*   [u-lora (⭐58)](https://github.com/martynwheeler/u-lora) - Raspi-lora for MicroPython.
 
 ### Display / E-Paper
 
@@ -215,9 +209,9 @@
 
 ### Sensors / Motion Inertial
 
-*   [micropython-bno055 (⭐37)](https://github.com/micropython-IMU/micropython-bno055) - Bosch BNO055 driver for MicroPython. IMU with hardware sensor fusion.
+*   [micropython-bno055 (⭐39)](https://github.com/micropython-IMU/micropython-bno055) - Bosch BNO055 driver for MicroPython. IMU with hardware sensor fusion.
 
-## [14. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
+## [13. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
 
 - : [Meetup Swarm](https://meetup.github.io/swarm-design-system/)
 
@@ -238,7 +232,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐245)](https://github.com/mozilla/protocol)
+  Source code \*: [:octocat: (⭐251)](https://github.com/mozilla/protocol)
 
 
 

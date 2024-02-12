@@ -19,7 +19,7 @@
 
 ### Packages / Network
 
-*   [DHCP (⭐287)](https://github.com/infusion/node-dhcp) - DHCP client and server.
+*   [DHCP (⭐291)](https://github.com/infusion/node-dhcp) - DHCP client and server.
 
 ## [3. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Queue
 
-*   [CAP (⭐6.2k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
+*   [CAP (⭐6.3k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
 
 ---
 

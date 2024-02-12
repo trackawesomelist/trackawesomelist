@@ -1,6 +1,6 @@
 # Awesome List Updates on May 02 - May 08, 2016
 
-41 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -149,7 +149,7 @@
 
 ### For Electron / Other
 
-*   [electron-rebuild (⭐956)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
+*   [electron-rebuild (⭐972)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
 
 ## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -208,34 +208,28 @@
 
 ### Lists / Book/monograph Lists and Reviews
 
-*   [RStudio Addins (⭐741)](https://github.com/daattali/addinslist) - List of RStudio addins.
+*   [RStudio Addins (⭐807)](https://github.com/daattali/addinslist) - List of RStudio addins.
 
-## [20. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### Miscellaneous
-
-*   [docsapp.io](https://www.docsapp.io/) — The easiest way to publish documentation, free for Open Source
-
-## [21. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [20. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### GitHub
 
 *   [GitHub Template Guidelines (⭐214)](https://github.com/cezaraugusto/github-template-guidelines) Collection of guidelines and boilerplate files for writing maintanable GitHub projects.
 
-## [22. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [21. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
 *   [Cap’n Proto](https://capnproto.org/) - Insanely fast data interchange format and capability-based RPC system.
 *   [protobuf](https://developers.google.com/protocol-buffers) - Google's data interchange format.
 
-## [23. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Vue.js Screencast Series in Spanish](https://styde.net/curso-de-vue-js/) on Styde.net
 
-## [24. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [23. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -249,9 +243,9 @@
 
 ### Template Engine
 
-*   [crustache (⭐80)](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
+*   [crustache (⭐81)](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
 
-## [25. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
+## [24. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
 
 ### Self Publishing
 
@@ -261,25 +255,25 @@
 
 *   [Writing a Technical Book](http://www.voidspace.org.uk/python/articles/technical-writing.shtml) - Michael Foord shares his experience publishing with Apress.
 
-## [26. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [25. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Maps / Third Party
 
 *   [spam (⭐102)](https://github.com/newsappsio/spam) - Create maps with D3 and Canvas, easily
 
-## [27. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [26. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### More Awesome Lists
 
 *   [Style Guides (⭐1k)](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
 
-## [28. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
+## [27. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 
 ### browserify
 
 *   [glslify (⭐2k)](https://github.com/stackgl/glslify) - npm modules compiled into WebGL shaders
 
-## [29. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
+## [28. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
 
 ### Implementations
 
@@ -304,7 +298,7 @@
 
 *   [The introduction to Reactive programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - Reactive programming using Observables.
 
-## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [29. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 
@@ -319,14 +313,14 @@
 
 *   [Reddit](https://www.reddit.com/r/tensorflow)
 
-## [31. Awesome Relay](/content/expede/awesome-relay/week/README.md)
+## [30. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
 ### Starter Kits
 
 *   [UniversalRelayBoilerplate (⭐713)](https://github.com/codefoundries/UniversalRelayBoilerplate)
     Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.
 
-## [32. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [31. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Companies
 
@@ -344,7 +338,7 @@
 *   [MIT Technology Review Robotics](https://www.technologyreview.com/c/robotics/) robotics section of the MIT Technology Review magazine
 *   [reddit robotics subreddit](https://www.reddit.com/r/robotics/)
 
-## [33. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [32. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / I companies
 
@@ -354,7 +348,7 @@
 
 *   Filippo Valsorda <https://blog.filippo.io/>
 
-## [34. Jquery Tips Everyone Should Know](/content/AllThingsSmitty/jquery-tips-everyone-should-know/week/README.md)
+## [33. Jquery Tips Everyone Should Know](/content/AllThingsSmitty/jquery-tips-everyone-should-know/week/README.md)
 
 ### Back to Top Button
 
@@ -377,7 +371,8 @@ $('.container').on('click', '.back-to-top', function (e) {
 
 Changing the `scrollTop` value changes where you wants the scrollbar to land. All you're really doing is animating the body of the document throughout the course of 800 milliseconds until it scrolls to the top of the document.
 
-**Note:** Watch for some [buggy behavior (⭐320)](https://github.com/jquery/api.jquery.com/issues/417) with `scrollTop`.
+> \[!NOTE]
+> Watch for some [buggy behavior (⭐317)](https://github.com/jquery/api.jquery.com/issues/417) with `scrollTop`.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 ### Make Two Divs the Same Height
@@ -410,20 +405,8 @@ $rows.each(function () {
 });
 ```
 
-**Note:** This can be done several ways [in CSS](http://codepen.io/AllThingsSmitty/pen/KMPqoO) but depending on what your needs are, knowing how to do this in jQuery is handy.
-
-<sup>[back to table of contents](#table-of-contents)</sup>
-### Open External Links in New Tab/Window
-
-Open external links in a new browser tab or window and ensure links on the same origin open in the same tab or window:
-
-```javascript
-$('a[href^="http"]').attr('target', '_blank');
-$('a[href^="//"]').attr('target', '_blank');
-$('a[href^="' + window.location.origin + '"]').attr('target', '_self');
-```
-
-**Note:** `window.location.origin` doesn't work in IE10. [This fix](http://tosbourn.com/a-fix-for-window-location-origin-in-internet-explorer/) takes care of the issue.
+> \[!NOTE]
+> This can be done several ways [in CSS](http://codepen.io/AllThingsSmitty/pen/KMPqoO) but depending on what your needs are, knowing how to do this in jQuery is handy.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 ### Chain Plugin Calls
@@ -458,7 +441,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
-## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [34. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Logging
 
@@ -470,13 +453,13 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 ### Third Party APIs
 
-*   [dublin\_bus\_api (⭐1)](https://github.com/carlo-colombo/dublin-bus-api) - Access to the Real Time Passenger Information (RTPI) for Dublin Bus services.
+*   [dublin\_bus\_api (⭐2)](https://github.com/carlo-colombo/dublin-bus-api) - Access to the Real Time Passenger Information (RTPI) for Dublin Bus services.
 
 ### Websites
 
 *   [Elixir Quiz](http://elixirquiz.github.io/) - Weekly programming problems to help you learn Elixir.
 
-## [36. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [35. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Admin interface
 
@@ -492,7 +475,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 *   [pyramid\_sms (⭐6)](https://github.com/websauna/pyramid_sms) -
     SMS services for Pyramid web framework.
 
-## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### StackView / Barcode
 
@@ -501,15 +484,15 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 ### Utility / Barcode
 
-*   [SwiftyUtils (⭐539)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
+*   [SwiftyUtils (⭐543)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
 
-## [38. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [37. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards aggregators
 
 *   [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
 
-## [39. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [38. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Stream
 
@@ -520,7 +503,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 *   [is-fqdn (⭐22)](https://github.com/parro-it/is-fqdn) - Check if a string represent a fully qualified domain name.
 
-## [40. Awesome Knockout](/content/dnbard/awesome-knockout/week/README.md)
+## [39. Awesome Knockout](/content/dnbard/awesome-knockout/week/README.md)
 
 ### Plugins and libraries
 
@@ -531,7 +514,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 *   [Testing (⭐15)](https://github.com/profiscience/ko-component-tester) - Helpful utilities for TDD + Knockout.js
 
-## [41. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [40. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Color Palettes / Web App
 

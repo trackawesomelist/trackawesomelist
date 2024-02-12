@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 29 - Feb 04, 2018
 
-48 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -53,15 +53,15 @@
 
 ### Other
 
-*   [npm-run-all (⭐5.4k)](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial.
-*   [onchange (⭐793)](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
+*   [npm-run-all (⭐5.5k)](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial.
+*   [onchange (⭐798)](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
 *   [cli-error-notifier (⭐67)](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
 
 ## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
-*   [gtop (⭐9.5k)](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
+*   [gtop (⭐9.6k)](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Video / Barcode
 
-*   [NextLevelSessionExporter (⭐242)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
+*   [NextLevelSessionExporter (⭐243)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
 
 ## [9. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
@@ -87,7 +87,7 @@
 
 ### WebSocket
 
-*   [Chord (⭐437)](https://github.com/jarohen/chord)
+*   [Chord (⭐436)](https://github.com/jarohen/chord)
 
 ## [11. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -113,17 +113,17 @@
 ### Tools and frameworks
 
 *   [Look-alike (⭐33)](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing screenshots.
-*   [Differencify (⭐624)](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer (⭐84k)](https://github.com/GoogleChrome/puppeteer).
+*   [Differencify (⭐629)](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer (⭐85k)](https://github.com/GoogleChrome/puppeteer).
 *   [ResembleJS (⭐4.4k)](https://github.com/Huddle/Resemble.js) - Analyse and compare images with Javascript and HTML5.
 
 ### Blog posts
 
-*   [Make visual regression testing easier](https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737) - Introduction to [Differencify (⭐624)](https://github.com/NimaSoroush/differencify) and how to use it.
+*   [Make visual regression testing easier](https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737) - Introduction to [Differencify (⭐629)](https://github.com/NimaSoroush/differencify) and how to use it.
 
 ### Deprecated
 
 *   [PhantomCSS (⭐4.7k)](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS or SlimerJS. No longer maintained since 22 Dec 2017.
-*   [DalekJS (⭐701)](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.
+*   [DalekJS (⭐698)](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.
 
 ## [15. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -133,7 +133,7 @@
 
 ### For Electron / Other
 
-*   [electron-reloader (⭐564)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
+*   [electron-reloader (⭐568)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
 
 ### Community / Other
 
@@ -156,8 +156,8 @@
 
 ### Packages / MIDI
 
-*   [JZZ (⭐476)](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers.
-*   [JZZ-midi-Gear (⭐12)](https://github.com/jazz-soft/JZZ-midi-Gear) - Retrieve your MIDI device model and manufacturer.
+*   [JZZ (⭐487)](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers.
+*   [JZZ-midi-Gear (⭐13)](https://github.com/jazz-soft/JZZ-midi-Gear) - Retrieve your MIDI device model and manufacturer.
 
 ## [19. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
@@ -199,8 +199,8 @@
 
 ### Command-Line Productivity
 
-*   [how2 (⭐5.6k)](https://github.com/santinic/how2) - `how2` finds the simplest way to do something in a unix shell. It's like `man`, but you can query it in natural language.
-*   [hss (⭐322)](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution
+*   [how2 (⭐5.7k)](https://github.com/santinic/how2) - `how2` finds the simplest way to do something in a unix shell. It's like `man`, but you can query it in natural language.
+*   [hss (⭐334)](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution
 
 ### For Developers / Directory Navigation
 
@@ -208,7 +208,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bats (⭐4k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System
+*   [bats (⭐4.3k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 
 ## [25. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
@@ -248,7 +248,7 @@
 
 ### Libraries / Parsing
 
-*   [lalrpop/lalrpop (⭐2.7k)](https://github.com/lalrpop/lalrpop) — LR(1) parser generator for Rust
+*   [lalrpop/lalrpop (⭐2.8k)](https://github.com/lalrpop/lalrpop) — LR(1) parser generator for Rust
 
 ## [27. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
@@ -369,7 +369,7 @@
 ### Components & Libraries / UI Components
 
 *   [vue-modaltor (⭐82)](https://github.com/davodaslanifakor/modaltor) - most advance configurable modal component for vuejs
-*   [vue-datepicker-local (⭐299)](https://github.com/weifeiyue/vue-datepicker-local) - A Beautiful Datepicker Component For Vue2.
+*   [vue-datepicker-local (⭐298)](https://github.com/weifeiyue/vue-datepicker-local) - A Beautiful Datepicker Component For Vue2.
 
 ## [41. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -379,15 +379,15 @@
 
 ### Cryptography
 
-*   [digestpp (⭐177)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
+*   [digestpp (⭐183)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
 
 ### Scientific Computing
 
-*   [TileDB (⭐1.6k)](https://github.com/TileDB-Inc/TileDB) - Fast Dense and Sparse Multidimensional Array DBMS. \[MIT] [website](https://tiledb.io/)
+*   [TileDB (⭐1.7k)](https://github.com/TileDB-Inc/TileDB) - Fast Dense and Sparse Multidimensional Array DBMS. \[MIT] [website](https://tiledb.io/)
 
 ### Debug
 
-*   [MinUnit (⭐508)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
+*   [MinUnit (⭐534)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
 
 ### Math
 
@@ -399,7 +399,7 @@
 
 ### Serialization
 
-*   [MessagePack (⭐2.8k)](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C and C++. \[Apache2] [website](http://msgpack.org/)
+*   [MessagePack (⭐2.9k)](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C and C++. \[Apache2] [website](http://msgpack.org/)
 
 ### Integrated Development Environment
 
@@ -409,11 +409,11 @@
 
 ### Books
 
-*   [List of Free C or C++ Books (⭐50k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
+*   [List of Free C or C++ Books (⭐53k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 
 ### Videos
 
-*   [List of C or C++ YouTube Videos (⭐50k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
+*   [List of C or C++ YouTube Videos (⭐53k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
 
 ### Websites
 
@@ -422,7 +422,7 @@
 ### Other Awesome Projects
 
 *   [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
-*   [Awesome interview questions (⭐58k)](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
+*   [Awesome interview questions (⭐64k)](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
 
 ## [42. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -432,17 +432,13 @@
 
 ## [43. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
-### Go / Erlang
-
-*   [KrakenD (⭐5.5k)](https://github.com/devopsfaith/krakend) - Framework to build ultra performance API Gateways with middlewares.
-
 ### API Gateways / Edge Services / Scala
 
 *   [KrakenD](http://krakend.io/) - Open source ultra performance API Gateway.
 
 ### Serialization / Scala
 
-*   [Protostuff (⭐1.9k)](https://github.com/protostuff/protostuff) - A serialization library with built-in support for forward-backward compatibility (schema evolution) and validation.
+*   [Protostuff (⭐2k)](https://github.com/protostuff/protostuff) - A serialization library with built-in support for forward-backward compatibility (schema evolution) and validation.
 
 ## [44. Awesome Funny Markov](/content/sublimino/awesome-funny-markov/week/README.md)
 
@@ -489,30 +485,6 @@
 ### Products/Technologies / S technologies
 
 *   Sketch <https://blog.sketchapp.com/>
-
-## [48. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Go / Phoenix
-
-*   [Practical Cryptography With Go](https://leanpub.com/gocrypto/read) - Kyle Isom
-
-### Lisp / TeX
-
-*   [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers/read) - Vsevolod Dyomkin
-*   [Lisp Web Tales](https://leanpub.com/lispwebtales) - Pavel Penev *(Leanpub account or valid email requested)*
-
-### Ruby / Tornado
-
-*   [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read) - Tomas Varaneckas
-*   [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read) - Yevhen Kuzminov
-
-### Ruby / Ruby on Rails
-
-*   [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read) - Reg Braithwaite
-
-### Workflow / Vulkan
-
-*   [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms/read)
 
 ---
 

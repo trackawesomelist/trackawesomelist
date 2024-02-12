@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 13, 2015
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -64,22 +64,16 @@
 
 ### Development Tools
 
-*   [Vert.x Hot (⭐47)](https://github.com/dazraf/vertx-hot) - A Maven plugin for the hot-deploy of Maven Vert.x projects.
+*   [Vert.x Hot (⭐48)](https://github.com/dazraf/vertx-hot) - A Maven plugin for the hot-deploy of Maven Vert.x projects.
 
-## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
-
-### Markdown Processors
-
-*   [CommonMark.NET (⭐990)](https://github.com/Knagis/CommonMark.NET) - Implementation of CommonMark specification in C# for converting Markdown documents to HTML. Optimized for maximum performance and portability.
-
-## [9. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [AndroTotal](https://andrototal.org/) - Free online analysis of APKs
     against multiple mobile antivirus apps.
 
-## [10. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
+## [9. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Tools
 

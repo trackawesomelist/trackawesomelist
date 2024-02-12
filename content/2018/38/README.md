@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 17 - Sep 23, 2018
 
-45 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,17 +12,7 @@
 
 *   [OneSignal (⭐582)](https://github.com/OneSignal/OneSignal-Flutter-SDK) <!--stargazers:OneSignal/OneSignal-Flutter-SDK--> - Push notification service by [OneSignal](https://github.com/OneSignal)
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### JavaScript / Elm
-
-*   [Elm Accelerated](https://accelerated.amimetic.co.uk) - James Porter
-
-### TypeScript / Vapor
-
-*   [TypeScript Accelerated](https://accelerated.amimetic.co.uk) - James Porter
-
-## [3. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [2. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Internet protocol suite / OpenOffice
 
@@ -36,54 +26,54 @@
 
 *   [Experimental Maps UDF (by TheDcoder) (⭐3)](https://github.com/TheDcoder/Experimental-Maps-UDF) - UDF for the new Map datatype in AutoIt, similar to the Array UDF included in standard UDFs.
 
-## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Test-Driven Development
 
 *   [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w) by **Misko Hevery** \[32:07]
 
-## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Frameworks
 
 *   [TVM - End to End Deep Learning Compiler Stack for CPUs, GPUs and specialized accelerators](https://tvm.ai/)
 
-## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Dash (⭐19k)](https://github.com/plotly/dash) - A framework for creating analytical web applications built on top of Plotly.js, React, and Flask
+*   [Dash (⭐20k)](https://github.com/plotly/dash) - A framework for creating analytical web applications built on top of Plotly.js, React, and Flask
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
 *   [SVM Explorer (⭐153)](https://github.com/plotly/dash-svm) - Interactive SVM Explorer, using Dash and scikit-learn
 
-## [7. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [6. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Utilities
 
 *   [Search Deflector](https://spikespaz.com/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. ([MIT (⭐888)](https://github.com/spikespaz/search-deflector/blob/master/LICENSE))
 
-## [8. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [7. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
 *   [iColorpalette](https://icolorpalette.com) - Create, browse or export (aco, ase, svg, png, pdf) color palettes by color or themes.
 
-## [9. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [8. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2018
 
 *   [Addy Osmani: **The Cost Of JavaScript**](https://www.youtube.com/watch?v=63I-mEuSvGA) \[20:07]
 *   [Erin Zimmer: **Further Adventures of the Event Loop**](https://www.youtube.com/watch?v=u1kqx6AenYw) \[21:15]
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
-*   [Async++ (⭐1.2k)](https://github.com/Amanieu/asyncplusplus) - A lightweight concurrency framework for C++11, inspired by the Microsoft PPL library and the N3428 C++ standard proposal. \[MIT]
+*   [Async++ (⭐1.3k)](https://github.com/Amanieu/asyncplusplus) - A lightweight concurrency framework for C++11, inspired by the Microsoft PPL library and the N3428 C++ standard proposal. \[MIT]
 
-## [11. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Music
 
@@ -99,19 +89,19 @@
 
 
 
-## [12. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [11. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Books / Custom Time Series
 
 *   [Cassandra High Availability](https://www.packtpub.com/big-data-and-business-intelligence/cassandra-high-availability)
 
-## [13. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [12. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Audio Tools
 
 *   [fre:ac (⭐1.1k)](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
 *   [Jack (⭐11)](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
-*   [K3b (⭐113)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
+*   [K3b (⭐119)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
 *   [lltag (⭐30)](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
 *   [Rubyripper (⭐110)](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
 *   [split2flac (⭐250)](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
@@ -126,13 +116,13 @@
 
 *   [Four Score and More](https://fourscoreandmore.org/) - Tailored music theory exercises based on scores.
 
-## [14. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [13. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Remote / Aggregator
 
 *   [remote4me.com](https://remote4me.com/)
 
-## [15. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [14. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Books
 
@@ -142,20 +132,20 @@
 
 *   [Linorobot](https://linorobot.org/) A suite of DIY ROS compatible robots
 
-## [16. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [15. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Research Papers
 
 *   [Deep learning and association rule mining for predicting drug response in cancer](https://doi.org/10.1101/070490) Konstantinos N. Vougas, Thomas Jackson, Alexander Polyzos, Michael Liontos, Elizabeth O. Johnson, Vassilis Georgoulias, Paul Townsend, Jiri Bartek, Vassilis G. Gorgoulis. (2016)
 *   [Superchords: decoding EEG signals in the millisecond range](https://doi.org/10.7287/peerj.preprints.1265v1) Rogerio Normand, Hugo Alexandre Ferreira. (2015)
 
-## [17. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [16. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Testing
 
 *   [cljs.test (⭐9k)](https://github.com/clojure/clojurescript/wiki/Testing) – Integrated test framework for ClojureScript (merged from [clojurescript.test (⭐166)](https://github.com/cemerick/clojurescript.test))
 
-## [18. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [17. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Projects
 
@@ -165,7 +155,7 @@
 
 *   [Cloudflare Workers (⭐156)](https://github.com/cloudflare/serverless-cloudflare-workers) - Provider plugin for Cloudflare Workers.
 
-## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / File Transfer & Synchronization
 
@@ -173,17 +163,17 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐274)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs/Docker`
+*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐280)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs/Docker`
 
 ### Software / Resource Planning
 
-*   [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code (⭐342)](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Docker/Perl`
+*   [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code (⭐357)](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Docker/Perl`
 
 ### Software / Ticketing
 
-*   [FreeScout (⭐2.3k)](https://github.com/freescout-helpdesk/freescout) - Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox. `AGPL-3.0` `PHP/Docker`
+*   [FreeScout (⭐2.5k)](https://github.com/freescout-helpdesk/freescout) - Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox. `AGPL-3.0` `PHP/Docker`
 
-## [20. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [19. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards aggregators
 
@@ -193,7 +183,7 @@
 
 *   [The Surf Office](https://www.thesurfoffice.com/home/) - Coworking & vacation space in Portugal, Canaries and California
 
-## [21. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [20. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### Source Code Repos
 
@@ -202,9 +192,7 @@
 
 ### IDE and Code Editing
 
-*   [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student) \[FREE] - Tool suite which simplifies the design, development, debug, and tuning of code that utilizes parallel processing to boost application performance. Free for students.
 *   [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license) \[FREE] - IDE that creates responsive websites using the Bootstrap framework.
-*   [ShiftEdit](https://shiftedit.net/) \[DISCOUNT] - ShiftEdit is a powerful online IDE for developing websites. Discount for educations. $750 a year for 50 licenses.
 
 ### Email
 
@@ -226,13 +214,13 @@
 
 *   [Transifex](https://www.transifex.com) \[FREE / CREDIT]- A localization platform for translating digital content. 1 Free Year worth $99/month available via [Github Student Developer Pack](https://education.github.com/pack).
 
-## [22. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [21. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Design Tools
 
 *   [Framer X](https://framer.com/): Interaction Design and UX design software.
 
-## [23. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [22. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Tracking / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -251,20 +239,20 @@
 *   [Hosts (⭐22k)](https://github.com/StevenBlack/hosts) - Consolidates several reputable hosts files, and merges them into a single unified one.
 *   [Blocklists (⭐4.5k)](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files.
 
-## [24. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [23. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Pagination
 
-*   [Pagy (⭐4.2k)](https://github.com/ddnexus/pagy) - Pagy is the ultimate pagination gem that outperforms the others in each and every benchmark and comparison. More details can be found on [Pagy Wiki](https://ddnexus.github.io/pagy/index).
+*   [Pagy (⭐4.3k)](https://github.com/ddnexus/pagy) - Pagy is the ultimate pagination gem that outperforms the others in each and every benchmark and comparison. More details can be found on [Pagy Wiki](https://ddnexus.github.io/pagy/index).
 
-## [25. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [24. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [io-ts (⭐6.4k)](https://github.com/gcanti/io-ts) - Type validation at runtime
-*   :octocat: [fast-check (⭐3.9k)](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
+*   :octocat: [io-ts (⭐6.5k)](https://github.com/gcanti/io-ts) - Type validation at runtime
+*   :octocat: [fast-check (⭐4k)](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
 
-## [26. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [25. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Service Workers
 
@@ -274,7 +262,7 @@
 
 *   [Community Groups App - Debugging relationships in Ember CLI Mirage (part 3)](https://www.youtube.com/watch?time_continue=1\&v=DRzPJ4RMT0w)
 
-## [27. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
+## [26. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
 ### Software and Tools
 
@@ -290,11 +278,11 @@
 *   [The Ecommerce Momentum](https://ecommercemomentum.com/) - Hosted by Stephen Peterson. Interviews with the top Amazon, eBay and e-commerce sellers in the world.
 *   [The My Wife Quit Her Job Podcast](https://mywifequitherjob.com/category/podcast/) - Hosted by Steve Chou. An interview based show where Steve brings in small business entrepreneurs who are killing it online. All of the entrepreneurs on the show bootstrapped their businesses and started their own ventures to improve their lifestyle in some way.
 
-## [28. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [27. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Configuration
 
-*   [envyable (⭐5)](https://github.com/philnash/envyable.cr) -  A simple YAML to ENV config loader
+*   [envyable (⭐6)](https://github.com/philnash/envyable.cr) -  A simple YAML to ENV config loader
 
 ### Misc
 
@@ -309,7 +297,7 @@
 
 *   [quicktype](https://quicktype.io/) - Generate models and serializers from JSON, JSON Schema, GraphQL, and TypeScript
 
-## [29. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
+## [28. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
 ### Misc
 
@@ -319,13 +307,13 @@
 
 *   [Ethereum Website](https://www.ethereum.org/)
 
-## [30. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [29. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Applications / Episodes
 
-*   [CANalyzat0r (⭐681)](https://github.com/schutzwerk/CANalyzat0r) - A security analysis toolkit for proprietary car protocols.
+*   [CANalyzat0r (⭐713)](https://github.com/schutzwerk/CANalyzat0r) - A security analysis toolkit for proprietary car protocols.
 
-## [31. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [30. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### South America / Brazil 🇧🇷
 
@@ -337,14 +325,14 @@
 Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda Calculus\
 <https://twitter.com/nexwire>
 
-## [32. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [31. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### On-Call
 
 *   [Checklists: a stupidly simple but valuable operational gift](https://tech.buzzfeed.com/checklists-an-operational-gift-aaf42cf0be12)
 *   [How to write a status page update](https://blog.hostedgraphite.com/2018/09/13/how-to-write-a-status-page-update/)
 
-## [33. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [32. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Exceptions and Error Handling
 
@@ -352,15 +340,15 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 
 ### Miscellaneous
 
-*   [kezban (⭐39)](https://github.com/ertugrulcetin/kezban)
+*   [kezban (⭐41)](https://github.com/ertugrulcetin/kezban)
 
-## [34. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [33. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
-*   [run-electron (⭐198)](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
+*   [run-electron (⭐197)](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
 
-## [35. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [34. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Community
 
@@ -430,7 +418,7 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 *   [Game Assets by Andre Antonio Schmitzht](https://game-assets.zeef.com/andre.antonio.schmitz) - Resources and tools for creating assets used in games: graphics, modeling, animation, audio, music, video, maps and others.
 *   [Game Development by David Arcila](https://game-development.zeef.com/david.arcila) - "*The biggest list of game development resources on the web*".
 
-## [36. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [35. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Cross-platform frameworks / Official resources
 
@@ -438,7 +426,7 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 *   [BBC TAL](https://bbc.github.io/tal/) - An open source library for building applications for Smart TV developed by BBC engineers.
 *   [PureQML TV (⭐26)](https://github.com/pureqml/qmlcore-tv) - A declarative front-end framework for web-based SmartTV/STB platforms. Has experimental support of Android TV.
 
-## [37. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
+## [36. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 
 ### Documentation
 
@@ -450,24 +438,24 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 *   [jq (⭐0)](https://github.com/hobbyquaker/ccu-addon-jq) - jq packaged as Addon for the Homematic CCU3.
 *   [Redis (⭐2)](https://github.com/hobbyquaker/ccu-addon-redis) - Redis packaged as Addon for the Homematic CCU3 and RaspberryMatic
 
-## [38. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [37. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Misc / Firmwares for ESP based Devices
 
 *   [gBridge (⭐162)](https://github.com/kservices/gBridge) - gBridge allows you to control (almost) any smart home device, any smart home software, with Google Assistant. Therefore, it transforms actions received from Google by voice commands to MQTT messages.
 
-## [39. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [38. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Misc
 
-*   [Tuist (⭐3.7k)](https://github.com/tuist/tuist) - An open source command line tool to create, maintain and interact with your Xcode projects at scale.
+*   [Tuist (⭐3.8k)](https://github.com/tuist/tuist) - An open source command line tool to create, maintain and interact with your Xcode projects at scale.
 *   [xcodeproj (⭐1.9k)](https://github.com/tuist/xcodeproj) - A library to read, update and write Xcode projects and workspaces.
 
 ### Video / Barcode
 
-*   [PryntTrimmerView (⭐787)](https://github.com/HHK1/PryntTrimmerView) - Trim and crop videos.
+*   [PryntTrimmerView (⭐789)](https://github.com/HHK1/PryntTrimmerView) - Trim and crop videos.
 
-## [40. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [39. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
@@ -495,7 +483,7 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 
 *   [Artificial Intelligence Subreddit](https://www.reddit.com/r/artificial/)
 
-## [41. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [40. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### CSS
 
@@ -505,29 +493,29 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 *   [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox.
 *   [Flexbox with Webflow](https://www.flexboxgame.com/) - Learn and master flexbox in 28 interactive levels—without writing code.
 
-## [42. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [41. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
 *   [ZKEACMS (⭐2.7k)](https://github.com/SeriaWei/ZKEACMS.Core) - Visual design, build site onlie by drag and drop.
 
-## [43. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [42. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
 *   [d3-voronoi-treemap (⭐159)](https://github.com/Kcnarf/d3-voronoi-treemap) - Computes a treemap based on a Voronoi tesselation
 
-## [44. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [43. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
-*   [DigitalOcean (⭐325)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
+*   [DigitalOcean (⭐328)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
 
 ### Gaming
 
-*   [Game Boy Development (⭐3.6k)](https://github.com/gbdev/awesome-gbdev#readme)
+*   [Game Boy Development (⭐3.7k)](https://github.com/gbdev/awesome-gbdev#readme)
 
-## [45. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [44. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Device Farm
 

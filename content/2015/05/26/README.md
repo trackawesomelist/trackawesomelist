@@ -115,7 +115,6 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 ### Blockchain API and Web services
 
 *   [block.io](https://block.io)
-*   [Gem.co](https://gem.co)
 
 ### Wallets API
 

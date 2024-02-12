@@ -40,32 +40,32 @@
 
 ### Table of Contents / Routers
 
-*   [Aura.Router (⭐467)](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
+*   [Aura.Router (⭐491)](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
 
 ### Table of Contents / Dependency Injection
 
-*   [Aura.Di (⭐342)](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
+*   [Aura.Di (⭐346)](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
 
 ### Table of Contents / Database
 
-*   [Aura.Sql (⭐531)](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
-*   [Spot2 (⭐603)](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
+*   [Aura.Sql (⭐548)](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
+*   [Spot2 (⭐602)](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
 
 ### Table of Contents / Command Line
 
-*   [Aura.Cli (⭐103)](https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
+*   [Aura.Cli (⭐104)](https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
 
 ### Table of Contents / Authentication and Authorization
 
-*   [Aura.Auth (⭐125)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
+*   [Aura.Auth (⭐130)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
 
 ### Table of Contents / Filtering and Validation
 
-*   [Aura.Filter (⭐151)](https://github.com/auraphp/Aura.Filter) - Provides tools to validate and sanitize objects and arrays.
+*   [Aura.Filter (⭐159)](https://github.com/auraphp/Aura.Filter) - Provides tools to validate and sanitize objects and arrays.
 
 ### Table of Contents / Internationalisation and Localisation
 
-*   [Aura.Intl (⭐84)](https://github.com/auraphp/Aura.Intl) - Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.
+*   [Aura.Intl (⭐90)](https://github.com/auraphp/Aura.Intl) - Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.
 
 ### Configuration / PHP Websites
 
@@ -111,7 +111,7 @@
 
 ### Testing Frameworks / Frameworks
 
-*   [ava (⭐20k)](https://github.com/avajs/ava) - 🚀 Futuristic JavaScript test runner
+*   [ava (⭐21k)](https://github.com/avajs/ava) - 🚀 Futuristic JavaScript test runner
 
 ## [9. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
@@ -145,11 +145,11 @@
 
 ### Other
 
-*   [package-size (⭐422)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
+*   [package-size (⭐425)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
 
 ## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Translation Tools / File Sharing
+### Translation Tools / Audio Record and Process
 
 *   [Grammarly](https://app.grammarly.com/) - Refine your english
 

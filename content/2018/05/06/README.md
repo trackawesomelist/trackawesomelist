@@ -10,7 +10,7 @@
 
 ### Tools / Community Chat Rooms
 
-*   [bobbin-cli (⭐113)](https://github.com/bobbin-rs/bobbin-cli) A Rust command line tool to simplify embedded development and deployment.
+*   [bobbin-cli (⭐114)](https://github.com/bobbin-rs/bobbin-cli) A Rust command line tool to simplify embedded development and deployment.
 
 ## [2. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Fun stuff / Themes
 
-*   [Ciapre (⭐62)](https://github.com/vinhnx/Ciapre.tmTheme/) - An easy-on-the-eyes Sublime Text/TextMate color scheme.
+*   [Ciapre (⭐64)](https://github.com/vinhnx/Ciapre.tmTheme/) - An easy-on-the-eyes Sublime Text/TextMate color scheme.
 
 ## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

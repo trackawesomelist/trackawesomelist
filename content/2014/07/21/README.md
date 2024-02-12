@@ -20,25 +20,25 @@
 
 ### R Development
 
-*   [packrat (⭐383)](https://github.com/rstudio/packrat) - Make your R projects more isolated, portable, and reproducible.
+*   [packrat (⭐396)](https://github.com/rstudio/packrat) - Make your R projects more isolated, portable, and reproducible.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Files / Runner
 
-*   [jBinary (⭐534)](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
+*   [jBinary (⭐540)](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
 
 ## [4. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 
 ### Extensions / Client Side Profile
 
-*   [GutterColor (⭐488)](https://github.com/ggordan/GutterColor) — displays color sample in the gutter for each line in CSS containing color code.
+*   [GutterColor (⭐487)](https://github.com/ggordan/GutterColor) — displays color sample in the gutter for each line in CSS containing color code.
 
 ## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### GUI
 
-*   [Callisto (⭐340)](https://github.com/timheuer/callisto) - A control toolkit for Windows 8 XAML applications. Contains some UI controls to make it easier to create Windows UI style apps for the Windows Store in accordance with Windows UI guidelines.
+*   [Callisto (⭐341)](https://github.com/timheuer/callisto) - A control toolkit for Windows 8 XAML applications. Contains some UI controls to make it easier to create Windows UI style apps for the Windows Store in accordance with Windows UI guidelines.
 
 ### Profiler
 
@@ -46,7 +46,7 @@
 
 ### Scheduling
 
-*   [QuartzNet (⭐5.9k)](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
+*   [QuartzNet (⭐6.1k)](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
 
 ### Template Engine
 

@@ -16,7 +16,7 @@
 
 ### Guides
 
-*   [Honeypot (Dionaea and kippo) setup script (⭐80)](https://github.com/andrewmichaelsmith/honeypot-setup-script/)
+*   [Honeypot (Dionaea and kippo) setup script (⭐81)](https://github.com/andrewmichaelsmith/honeypot-setup-script/)
 
 ## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

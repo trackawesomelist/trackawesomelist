@@ -10,7 +10,7 @@
 
 ### Examples
 
-*   [aws/aws-parallelcluster (⭐785)](https://github.com/aws/aws-parallelcluster/wiki)
+*   [aws/aws-parallelcluster (⭐802)](https://github.com/aws/aws-parallelcluster/wiki)
 
 ## [2. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -38,7 +38,7 @@
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Stable Diffusion / For text-to-image
+### Inbox: Stable Diffusion / Multi-agents
 
 *   [Img To Music](https://huggingface.co/spaces/fffiloni/img-to-music) a Hugging Face Space by fffiloni
 

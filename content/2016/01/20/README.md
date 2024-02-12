@@ -124,7 +124,7 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [Vulcand (⭐3k)](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd.
+*   [Vulcand (⭐3.1k)](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd.
 
 ### Configuration & Discovery / Scala
 
@@ -437,7 +437,7 @@
 
 ### Native Implemented Functions
 
-*   [Rustler (⭐3.9k)](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
+*   [Rustler (⭐4k)](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
 
 ### Protocols
 

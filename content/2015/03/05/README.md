@@ -10,7 +10,7 @@
 
 ### Table of Contents / Architectural
 
-*   [Functional PHP (⭐1.9k)](https://github.com/lstrojny/functional-php) - A functional programming library.
+*   [Functional PHP (⭐2k)](https://github.com/lstrojny/functional-php) - A functional programming library.
 *   [Iter (⭐1.1k)](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
 
 ## [2. Awesome Dojo](/content/petk/awesome-dojo/README.md)

@@ -39,11 +39,6 @@
 
 *   [RFC7540](https://tools.ietf.org/html/rfc7540) - Hypertext Transfer Protocol Version 2.
 
-### Web APIs / Scala
-
-*   [WADL](http://www.w3.org/Submission/wadl/) - The Web Application Description Language specification.
-*   [WSDL](http://www.w3.org/TR/wsdl20/) - The Web Services Description Language Version 2.0 spec.
-
 ### Unicode / Scala
 
 *   [UNIV8](http://www.unicode.org/versions/Unicode8.0.0/) - The Unicode Consortium. The Unicode Standard, Version 8.0.0, (Mountain View, CA: The Unicode Consortium, 2015. ISBN 978-1-936213-10-8).
@@ -76,7 +71,7 @@
 
 ### Containers
 
-*   [LSHBOX (⭐279)](https://github.com/RSIA-LIESMARS-WHU/LSHBOX) - A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. \[GPL]
+*   [LSHBOX (⭐282)](https://github.com/RSIA-LIESMARS-WHU/LSHBOX) - A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. \[GPL]
 
 ## [6. Awesome Standard](/content/standard/awesome-standard/README.md)
 

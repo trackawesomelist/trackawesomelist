@@ -11,15 +11,15 @@
 ### Table of Contents / Micro Framework Extras
 
 *   [Slim Twig View (⭐308)](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
-*   [Slim PHP View (⭐232)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
+*   [Slim PHP View (⭐255)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
 
 ### Table of Contents / Event
 
-*   [RxPHP (⭐1.6k)](https://github.com/ReactiveX/RxPHP) - A reactive extension library.
+*   [RxPHP (⭐1.7k)](https://github.com/ReactiveX/RxPHP) - A reactive extension library.
 
 ### Configuration / Third Party APIs
 
-*   [Github (⭐2k)](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
+*   [Github (⭐2.1k)](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
 
 ## [2. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 
@@ -31,7 +31,7 @@
 
 ### Tours And Guides / Runner
 
-*   [driver.js (⭐19k)](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
+*   [driver.js (⭐20k)](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
 
 ## [4. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -67,7 +67,7 @@
 
 ### HTTP
 
-*   [halite (⭐173)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
+*   [halite (⭐172)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-comment-grid (⭐160)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
+*   [vue-comment-grid (⭐159)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
 
 ## [10. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 

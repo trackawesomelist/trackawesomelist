@@ -51,7 +51,7 @@
 
 ### Testing
 
-*   [bypass (⭐912)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
+*   [bypass (⭐926)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
 
 ### Third Party APIs
 
@@ -75,7 +75,7 @@
 
 ### Game
 
-*   [MonoGame (⭐10k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
+*   [MonoGame (⭐11k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
 
 ## [9. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/README.md)
 
@@ -83,7 +83,7 @@
 
 ## Git-Flow
 
-Improved [Git-flow (⭐5.2k)](https://github.com/petervanderdoes/gitflow-avh)
+Improved [Git-flow (⭐5.4k)](https://github.com/petervanderdoes/gitflow-avh)
 
 ### Index
 
@@ -246,6 +246,18 @@ git flow init -d
     <img alt="Git" src="https://github.com/arslanbilal/git-cheat-sheet/raw/master/Img/git-flow-commands-without-flow.png">
 </p>
 <hr>
+
+1.  [Arabic Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-ar.md)
+2.  [Brazilian Portuguese Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-pt_BR.md)
+3.  [Chinese Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-zh.md)
+4.  [German Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-de.md)
+5.  [Greek Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-el.md)
+6.  [Hindi Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-hi.md)
+7.  [Korean Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-ko.md)
+8.  [Polish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-pl.md)
+9.  [Spanish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-es.md)
+10. [Turkish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-tr.md)
+11. [Bengali Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-bn.md)
 
 ## [10. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 

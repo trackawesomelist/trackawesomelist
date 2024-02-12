@@ -20,7 +20,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [PsiTransfer (⭐1.3k)](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution with robust up-/download-resume and password protection. `BSD-2-Clause` `Nodejs`
+*   [PsiTransfer (⭐1.4k)](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution with robust up-/download-resume and password protection. `BSD-2-Clause` `Nodejs`
 
 ## [3. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -54,9 +54,9 @@
 
 ### Command-Line Productivity
 
-*   [ddgr (⭐2.6k)](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
-*   [mackup (⭐13k)](https://github.com/lra/mackup/) - Keep your application settings in sync (OS X/Linux)
-*   [pdd (⭐353)](https://github.com/jarun/pdd) - Tiny date, time diff calculator with timers
+*   [ddgr (⭐2.8k)](https://github.com/jarun/ddgr) - DuckDuckGo from the terminal
+*   [mackup (⭐14k)](https://github.com/lra/mackup/) - Keep your application settings in sync (OS X/Linux)
+*   [pdd (⭐359)](https://github.com/jarun/pdd) - Tiny date, time diff calculator with timers
 
 ### Applications / Directory Navigation
 

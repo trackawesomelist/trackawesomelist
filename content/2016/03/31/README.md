@@ -16,7 +16,7 @@
 
 ### Geolocation
 
-*   [ip2location (⭐18)](https://github.com/nazipov/ip2location-elixir) - An Elixir library for IP2Location database.
+*   [ip2location (⭐19)](https://github.com/nazipov/ip2location-elixir) - An Elixir library for IP2Location database.
 
 ## [3. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
@@ -191,11 +191,11 @@
 
 ### Registry
 
-*   [nrm (⭐2.6k)](https://github.com/Pana/nrm) - Registry manager.
+*   [nrm (⭐2.7k)](https://github.com/Pana/nrm) - Registry manager.
 
 ### Other
 
-*   [ntl (⭐886)](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
+*   [ntl (⭐896)](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
 
 ## [8. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

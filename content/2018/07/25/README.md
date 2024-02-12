@@ -59,13 +59,13 @@
 ### Other Awesomes / Ephemera
 
 *   [awesome-generative-art (⭐1.6k)](https://github.com/kosmos/awesome-generative-art)
-*   [awesome-creative-coding (⭐11k)](https://github.com/terkelg/awesome-creative-coding)
+*   [awesome-creative-coding (⭐12k)](https://github.com/terkelg/awesome-creative-coding)
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### CLI Utils
 
-*   [cride (⭐47)](https://github.com/j8r/cride) - A light CLI text editor/IDE
+*   [cride (⭐48)](https://github.com/j8r/cride) - A light CLI text editor/IDE
 
 ## [9. Tips](/content/git-tips/tips/README.md)
 

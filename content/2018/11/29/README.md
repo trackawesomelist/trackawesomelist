@@ -34,9 +34,9 @@
 
 ## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Proxy and VPN Tools / File Sharing
+### Proxy and VPN Tools / Audio Record and Process
 
-*   [V2rayU (⭐17k)](https://github.com/yanue/V2rayU) - Macos client based on v2ray. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/yanue/V2rayU)
+*   [V2rayU (⭐18k)](https://github.com/yanue/V2rayU) - Macos client based on v2ray. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/yanue/V2rayU)
 
 ## [5. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -50,11 +50,11 @@
 
 ### Rust / Git
 
-*   [recrypt (⭐135)](https://github.com/IronCoreLabs/recrypt-rs) - A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.
+*   [recrypt (⭐139)](https://github.com/IronCoreLabs/recrypt-rs) - A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.
 
 ### Scala / Git
 
-*   [recrypt (⭐32)](https://github.com/IronCoreLabs/recrypt) - Transform encryption library for Scala.
+*   [recrypt (⭐33)](https://github.com/IronCoreLabs/recrypt) - Transform encryption library for Scala.
 
 ### Blogs / Git
 
@@ -64,7 +64,7 @@
 
 ### Science and Data Analysis
 
-*   [Loom - graph library for Clojure (⭐868)](https://github.com/aysylu/loom)
+*   [Loom - graph library for Clojure (⭐873)](https://github.com/aysylu/loom)
 
 ## [7. Awesome Html5](/content/diegocard/awesome-html5/README.md)
 

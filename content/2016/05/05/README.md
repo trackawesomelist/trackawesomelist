@@ -1,6 +1,6 @@
 # Awesome List Updates on May 05, 2016
 
-3 awesome lists updated today.
+2 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,15 +10,9 @@
 
 ### Lists / Book/monograph Lists and Reviews
 
-*   [RStudio Addins (⭐741)](https://github.com/daattali/addinslist) - List of RStudio addins.
+*   [RStudio Addins (⭐807)](https://github.com/daattali/addinslist) - List of RStudio addins.
 
-## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Miscellaneous
-
-*   [docsapp.io](https://www.docsapp.io/) — The easiest way to publish documentation, free for Open Source
-
-## [3. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
+## [2. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
 
 ### GitHub
 

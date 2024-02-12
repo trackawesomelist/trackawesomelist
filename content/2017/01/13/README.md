@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 13, 2017
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -42,25 +42,14 @@
 
 *   LiveRamp <https://liveramp.com/engineering/>
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Lisp / TeX
-
-*   [Learn Lisp The Hard Way (⭐4)](https://github.com/LispTO/llthw) - Colin J.E. Lupton
-
-### Standard ML / Play Scala
-
-*   [Introduction to Standard ML](http://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlides.pdf) - Atsushi Ohori (PDF)
-*   [SML# Document](http://www.pllab.riec.tohoku.ac.jp/smlsharp/docs/3.0/en/manual.xhtml) - Atsushi Ohori, Katsuhiro Ueno
-
-## [3. Awesome Dropwizard](/content/stve/awesome-dropwizard/README.md)
+## [2. Awesome Dropwizard](/content/stve/awesome-dropwizard/README.md)
 
 ### Open Source / Deployment
 
 *   [WizToWar (⭐40)](https://github.com/twilio/wiztowar) - Build WARs from your Dropwizard apps
 *   [wizard-in-a-box (⭐30)](https://github.com/rvs-fluid-it/wizard-in-a-box) - deploy Dropwizard apps as a war
 
-## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Articles / Workflow
 
@@ -69,7 +58,7 @@
     *   [Serverless Architecture using C# and AWS Amazon Gateway Api/Lambda](https://www.codeproject.com/Articles/1178781/Serverless-Architecture-using-Csharp-and-AWS-Amazo)
     *   [Using C# and .NET Core in Amazon Web Services (AWS) Lambda](https://aws.amazon.com/blogs/compute/announcing-c-sharp-support-for-aws-lambda/)
 
-## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Review Articles / Archeological and Historical Networks
 
@@ -79,28 +68,28 @@
 
 *   [Cheat Sheet: Social Network Analysis for Humanists](https://cvcedhlab.hypotheses.org/106) - Basic notions to remember when assembling and manipulating network data.
 
-## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / HTTP
 
-*   [http-fake-backend (⭐284)](https://github.com/micromata/http-fake-backend) - Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.
+*   [http-fake-backend (⭐309)](https://github.com/micromata/http-fake-backend) - Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.
 
 ### Packages / Web frameworks
 
 *   [seneca (⭐3.9k)](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
 
-## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Encryption
 
-*   [RbNaCl (⭐977)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
+*   [RbNaCl (⭐980)](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 
 ### Natural Language Processing
 
 *   [Awesome NLP with Ruby (⭐1k)](https://github.com/arbox/nlp-with-ruby) - Awesome List for Practical Natural Language Processing done in Ruby.
 *   [Ruby Natural Language Processing Resources (⭐1.3k)](https://github.com/diasks2/ruby-nlp) - Collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software.
 
-## [8. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
+## [7. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 
 ### Physical Web
 
@@ -109,13 +98,13 @@
 *   [Physical Web Branding Guidelines (⭐6k)](https://github.com/google/physical-web/blob/master/documentation/branding_guidelines.md) & [Logos (⭐6k)](https://github.com/google/physical-web/tree/master/documentation/images/logo)
 *   [IEEE: Enabling the Internet of Things](https://web.eecs.umich.edu/\~prabal/teaching/resources/eecs582/want15iot.pdf) by R. Want, B. Schilit, S. Jenson
 
-## [9. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+## [8. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Ruby / Data Visualization
 
-*   [Jiji (⭐231)](https://github.com/unageanu/jiji2) - Open Source Forex algorithmic trading framework using OANDA REST API.
+*   [Jiji (⭐235)](https://github.com/unageanu/jiji2) - Open Source Forex algorithmic trading framework using OANDA REST API.
 
-## [10. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
+## [9. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 
 ### Articles
 
@@ -129,7 +118,7 @@
 *   [Matryoshka (⭐795)](https://github.com/slamdata/matryoshka) for Scala using Scalaz -
     Generalized folds, unfolds, and traversals for fixed point data structures.
 
-## [11. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [10. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Boilerplates / Themes
 

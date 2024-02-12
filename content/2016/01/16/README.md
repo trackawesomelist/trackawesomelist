@@ -16,7 +16,7 @@
 
 ### Files / Runner
 
-*   [diff2html (⭐2.5k)](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
+*   [diff2html (⭐2.6k)](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Command-Line Productivity
 
-*   [direnv (⭐10k)](https://github.com/direnv/direnv) - An environment switcher for the shell, compare with autoenv
+*   [direnv (⭐11k)](https://github.com/direnv/direnv) - An environment switcher for the shell, compare with autoenv
 
 ## [5. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 

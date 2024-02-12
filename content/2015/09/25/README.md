@@ -29,47 +29,36 @@
 
 ### Go / Erlang
 
-*   [Gocraft (⭐1.5k)](https://github.com/gocraft/web) - A toolkit for building web apps. Includes routing, middleware stacks, logging and monitoring.
-*   [Go kit (⭐25k)](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
-*   [Kite (⭐3.2k)](https://github.com/koding/kite) - Microservices framework in Go.
-*   [Negroni (⭐7.3k)](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
+*   [Go kit (⭐26k)](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
 
 ### Haskell / Erlang
 
-*   [Scotty (⭐1.6k)](https://github.com/scotty-web/scotty) - Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
-*   [Yesod (⭐2.5k)](https://github.com/yesodweb/yesod) - The Haskell RESTful web framework.
+*   [Scotty (⭐1.7k)](https://github.com/scotty-web/scotty) - Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
+*   [Yesod (⭐2.6k)](https://github.com/yesodweb/yesod) - The Haskell RESTful web framework.
 
 ### Java VM / Clojure
 
-*   [Compojure (⭐4k)](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure.
+*   [Compojure (⭐4.1k)](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure.
 *   [Duct (⭐1.1k)](https://github.com/weavejester/duct) - Minimal framework for building web applications in Clojure, with a strong emphasis on simplicity.
-*   [Liberator](http://clojure-liberator.github.io/liberator/) - Library that helps you expose your data as resources while automatically complying with all the relevant requirements of the HTTP specification.
-*   [Modularity](https://modularity.org/) - JUXT's Clojure-based modular system.
-*   [System (⭐595)](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
-*   [Tesla (⭐188)](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
+*   [System (⭐606)](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
+*   [Tesla (⭐189)](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
 
 ### Java VM / Java
 
-*   [Airlift (⭐530)](https://github.com/airlift/airlift) - Framework for building REST services in Java.
+*   [Airlift (⭐554)](https://github.com/airlift/airlift) - Framework for building REST services in Java.
 *   [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
-*   [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
 *   [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
 
 ### Java VM / Scala
 
-*   [Colossus (⭐1.1k)](https://github.com/tumblr/colossus) - I/O and microservice library for Scala.
 *   [Finatra](http://twitter.github.io/finatra/) - Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
 *   [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
-*   [Skinny Micro (⭐57)](https://github.com/skinny-framework/skinny-micro) - Micro-web framework to build servlet applications in Scala.
 
 ### Node.js / Scala
 
 *   [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
-*   [Baucis (⭐653)](https://github.com/wprl/baucis) - To build and maintain scalable HATEOAS/Level 3 REST APIs.
 *   [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
-*   [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
 *   [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
-*   [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
 
 ### Serialization / Scala
 
@@ -78,8 +67,6 @@
 ### Storage / Scala
 
 *   [Couchbase](http://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
-*   [Reborn (⭐900)](https://github.com/reborndb/reborn) - Distributed database fully compatible with redis protocol.
-*   [Tachyon](http://tachyon-project.org/) - Memory-centric distributed storage system, enabling reliable data sharing at memory-speed across cluster frameworks.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -113,7 +100,7 @@
 
 ### Packages / Apps
 
-*   [LoopDrop App (⭐819)](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
+*   [LoopDrop App (⭐821)](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
 
 ## [8. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 

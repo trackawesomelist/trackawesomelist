@@ -143,18 +143,6 @@
 
 *   [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
 
-### Configuration & Discovery / Scala
-
-*   [Shaman (⭐448)](https://github.com/nanopack/shaman) - Small, lightweight, api-driven DNS server.
-
-### Elasticity / Scala
-
-*   [Serf](https://www.serfdom.io/) - Decentralized solution for cluster membership, failure detection and orchestration.
-
-### Messaging / Scala
-
-*   [Mist (⭐659)](https://github.com/nanopack/mist) - A distributed, tag-based pub/sub service.
-
 ## [5. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2015
@@ -308,7 +296,7 @@
 
 ### Packages / Debugging / Profiling
 
-*   [0x (⭐2.9k)](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
+*   [0x (⭐3k)](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
 
 ## [17. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
@@ -327,7 +315,7 @@
 
 ### Table of Contents / Routers
 
-*   [Klein (⭐2.6k)](https://github.com/klein/klein.php) - A flexible router.
+*   [Klein (⭐2.7k)](https://github.com/klein/klein.php) - A flexible router.
 
 ## [19. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
@@ -356,9 +344,9 @@ git diff --name-only | uniq | xargs $EDITOR
 
 ### For Electron / Other
 
-*   [electron-installer-debian (⭐350)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
+*   [electron-installer-debian (⭐354)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
 *   [electron-installer-redhat (⭐75)](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package.
-*   [electron-installer-windows (⭐464)](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
+*   [electron-installer-windows (⭐463)](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
 
 ## [22. Vim Galore](/content/mhinz/vim-galore/week/README.md)
 
@@ -540,7 +528,7 @@ git diff --name-only | uniq | xargs $EDITOR
 
 ### Registry
 
-*   [npm-cli-login (⭐104)](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
+*   [npm-cli-login (⭐108)](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
 
 ## [38. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
@@ -589,12 +577,12 @@ Webpage: <http://www.tosci.com/>
 
 ### Email
 
-*   [gmail (⭐48)](https://github.com/craigp/elixir-gmail) - A simple Gmail REST API client for Elixir.
+*   [gmail (⭐49)](https://github.com/craigp/elixir-gmail) - A simple Gmail REST API client for Elixir.
 
 ### Framework Components
 
 *   [scrivener\_headers (⭐49)](https://github.com/doomspork/scrivener_headers) - Helpers for paginating API responses with Scrivener and HTTP headers.
-*   [scrivener\_html (⭐122)](https://github.com/mgwidmann/scrivener_html) - Helpers built to work with Scrivener's page struct to easily build HTML output for various CSS frameworks.
+*   [scrivener\_html (⭐123)](https://github.com/mgwidmann/scrivener_html) - Helpers built to work with Scrivener's page struct to easily build HTML output for various CSS frameworks.
 
 ### HTTP
 
@@ -606,7 +594,7 @@ Webpage: <http://www.tosci.com/>
 
 ### ORM and Datamapping
 
-*   [neo4j\_sips (⭐80)](https://github.com/florinpatrascu/neo4j_sips) - Neo4j driver for Elixir.
+*   [neo4j\_sips (⭐81)](https://github.com/florinpatrascu/neo4j_sips) - Neo4j driver for Elixir.
 *   [neo4j\_sips\_models (⭐6)](https://github.com/florinpatrascu/neo4j_sips_models) - Minimalistic Model support for the Neo4j.Sips Elixir driver.
 
 ### Third Party APIs

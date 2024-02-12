@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 14, 2023
 
-7 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,11 +16,11 @@
 
 ### Utility
 
-*   [vhs (⭐2)](https://github.com/KevinDaSilvaS/vhs) - Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.
+*   [vhs (⭐3)](https://github.com/KevinDaSilvaS/vhs) - Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
+### Generative AI history, maps, and definitions
 
 *   \[🔥] [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/): a visual story by Financial Times
 
@@ -30,20 +30,7 @@
 
 *   [dAppling Network](https://www.dappling.network/) - Decentralized web hosting platform for Web3 frontends focusing on increasing uptime and security and providing an additional access point for users.
 
-## [5. Awesome Music](/content/ciconia/awesome-music/README.md)
-
-### Music Programming
-
-*   [Topos](https://topos.raphaelforment.fr) - a web based live coding environment (WebAudio / MIDI)
-
-## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### .NET Conf 2023 (November 14-16, 2023).
-
-*   .NET Conf has been a virtual event since the beginning, and this year we’re celebrating our 13th online conference. We always strive to create a world class, engaging, virtual experience for all our attendees no matter where they are. Over the years we've expanded our content and our reach. We now draw over 100 thousand live viewers and sponsor hundreds of local events around the world.
-*   More info on [dotnetconf.net](https://www.dotnetconf.net/?utm_source=awesome-blazor\&utm_medium=github).
-
-## [7. Ai Collection](/content/ai-collection/ai-collection/README.md)
+## [5. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
 ### Accounting & Finance
 

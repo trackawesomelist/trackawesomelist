@@ -134,13 +134,23 @@
 *   [SaaS Boilerplate (⭐3.6k)](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
 *   [uptime (⭐3.6k)](https://github.com/fzaninotto/uptime) - Remote monitoring application built with Node.js and Bootstrap
 
-## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [8. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+
+### Monitoring & Debugging / Scala
+
+*   [Jaeger](https://www.jaegertracing.io/) - An open source, end-to-end distributed tracing
+
+### Articles & Papers / Scala
+
+*   [Microservices - The Journey So Far and Challenges Ahead](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=8354433) :small\_orange\_diamond:<sup>PDF</sup> - Overview of the state of microservices in both industrial and academia.
+
+## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Data Visualization
 
 *   [Frappe Charts](https://frappe.io/charts) - GitHub-inspired simple and modern SVG charts for the web with zero dependencies.
 
-## [9. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
+## [10. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
 ### Tutorials
 
@@ -154,7 +164,7 @@
     *   [Getting Started](https://www.spock.li/tutorials/getting-started)
     *   [Developing Web Applications with Yesod and Haskell](https://www.yesodweb.com/book-1.6)
 
-## [10. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
+## [11. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 
 ### Quotes
 
@@ -164,20 +174,20 @@
 
 
 
-## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Markup language
 
 *   CommonMark
-    *   [raphlinus/pulldown-cmark (⭐1.7k)](https://github.com/raphlinus/pulldown-cmark) — [CommonMark](https://commonmark.org/) parser in Rust
+    *   [raphlinus/pulldown-cmark (⭐1.9k)](https://github.com/raphlinus/pulldown-cmark) — [CommonMark](https://commonmark.org/) parser in Rust
 
-## [12. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [13. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Emulator Development / Misc
 
 *   [binjgb on the web](https://binji.github.io/2017/02/26/binjgb-on-the-web-part-1.html) - Porting of the binjgb emulator to Web Assembly. [(Part 2)](https://binji.github.io/2017/02/27/binjgb-on-the-web-part-2.html)
 
-## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### API
 
@@ -193,7 +203,7 @@
 
 ### GUI
 
-*   [Qml.Net (⭐1.3k)](https://github.com/qmlnet/qmlnet) - A cross-platform Qml/.NET integration for Mono/.NET/.NET Core
+*   [Qml.Net (⭐1.4k)](https://github.com/qmlnet/qmlnet) - A cross-platform Qml/.NET integration for Mono/.NET/.NET Core
 *   [UWP Community Toolkit (⭐5.7k)](https://github.com/windows-toolkit/WindowsCommunityToolkit) - The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10.
 
 ### HTML and CSS
@@ -204,33 +214,33 @@
 
 *   [Awesome Xamarin (⭐1.9k)](https://github.com/XamSome/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
 
-## [14. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [15. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Talks
 
 *   [Confusion in the land of the serverless](https://www.youtube.com/watch?v=Y6B3Eqlj9Fw) - Sam Newmans talk about serverless technologies at GOTO 2018.
 
-## [15. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [16. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Paid Resources / Icons Packages and Collections
 
 *   [Graphic River](https://graphicriver.net/) - Hand-reviewed graphic assets from a community of designers.
     .
 
-## [16. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [17. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Querying / Symfony2
 
 *   [Insomnia (⭐30k)](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 
-## [17. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [18. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Resources / Books
 
 *   [Practical Modern JavaScript](https://www.amazon.com/Practical-Modern-JavaScript-Dive-Future/dp/149194353X)
 *   [Mastering Modular JavaScript](https://www.amazon.com/Mastering-Modular-JavaScript-Nicolas-Bevacqua/dp/1491955686/)
 
-## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
@@ -242,25 +252,25 @@
 
 ### Software / Learning and Courses
 
-*   [Chamilo LMS](https://chamilo.org/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code (⭐709)](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
+*   [Chamilo LMS](https://chamilo.org/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code (⭐729)](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
 
-## [19. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
+## [20. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 
 ### Layout / Grid
 
 *   [Grid Critters](https://www.gridcritters.com) - Learn CSS grid layout by mastering an adventure game.
 
-## [20. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [21. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Netron (⭐24k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
+*   [Netron (⭐25k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
 
 ### Closed Source / Other
 
 *   [Brandy](https://getbrandy.io) - A brand asset manager for your menu bar.
 
-## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [22. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Design Tools
 
@@ -270,7 +280,7 @@
 
 *   [CloudApp](https://www.getcloudapp.com/) - Work at the speed of sight. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-### Cloud Storage / File Sharing
+### Cloud Storage / Audio Record and Process
 
 *   [Arq](https://www.arqbackup.com/) - Cloud storage backup client that supports AWS, GCP, DropBox, and more.
 *   [Carbonite](https://www.carbonite.com/learn/how-to-backup-mac/) - Carbonite can protect your Mac from all of the most common forms of data loss.
@@ -278,20 +288,6 @@
 ### Third Party App Markets / System Related Tools
 
 *   [Setapp](https://setapp.com) - The best apps for Mac in one suite.
-
-## [22. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
-
-### Java VM / Scala
-
-*   [Scalatra](http://scalatra.org/) - Simple, accessible and free web micro-framework.
-
-### Monitoring & Debugging / Scala
-
-*   [Jaeger](https://www.jaegertracing.io/) - An open source, end-to-end distributed tracing
-
-### Articles & Papers / Scala
-
-*   [Microservices - The Journey So Far and Challenges Ahead](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=8354433) :small\_orange\_diamond:<sup>PDF</sup> - Overview of the state of microservices in both industrial and academia.
 
 ## [23. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 

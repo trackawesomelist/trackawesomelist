@@ -25,7 +25,7 @@
 
 ### Debug
 
-*   [Prophiler (⭐444)](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
+*   [Prophiler (⭐443)](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
 
 ## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -74,13 +74,13 @@
 
 ### Algorithms and Data structures
 
-*   [lz4 (⭐62)](https://github.com/szktty/erlang-lz4) - LZ4 bindings for Erlang for fast data compressing.
+*   [lz4 (⭐63)](https://github.com/szktty/erlang-lz4) - LZ4 bindings for Erlang for fast data compressing.
 *   [monadex (⭐301)](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
-*   [parex (⭐62)](https://github.com/StevenJL/parex) - Parallel Execute (Parex) is an Elixir module for executing multiple (slow) processes in parallel.
+*   [parex (⭐63)](https://github.com/StevenJL/parex) - Parallel Execute (Parex) is an Elixir module for executing multiple (slow) processes in parallel.
 
 ### Caching
 
-*   [locker (⭐152)](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
+*   [locker (⭐153)](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
 
 ### Command Line Applications
 
@@ -109,22 +109,22 @@
 
 ### Testing
 
-*   [proper (⭐860)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
+*   [proper (⭐873)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
 
 ### Text and Numbers
 
-*   [neotomex (⭐66)](https://github.com/jtmoulia/neotomex) - A [PEG](http://bford.info/packrat/) implementation with a pleasant Elixir DSL.
+*   [neotomex (⭐67)](https://github.com/jtmoulia/neotomex) - A [PEG](http://bford.info/packrat/) implementation with a pleasant Elixir DSL.
 
 ### Third Party APIs
 
 *   [reddhl (⭐4)](https://github.com/MonkeyIsNull/reddhl) - An headline and link puller for Reddit and its various subreddits.
 *   [telephonist (⭐40)](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
-*   [tentacat (⭐429)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
+*   [tentacat (⭐435)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
 
 ### Utilities
 
 *   [ar2ecto (⭐13)](https://github.com/aforward/ar2ecto) - Ar2ecto is a set of mix tasks to help you migrate from ActiveRecord to Ecto.
-*   [erlware\_commons (⭐217)](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
+*   [erlware\_commons (⭐218)](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
 
 ### YAML
 
@@ -138,8 +138,8 @@
 
 ### Template Engine
 
-*   [Nustache (⭐582)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
-*   [DotLiquid (⭐994)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
+*   [Nustache (⭐586)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
+*   [DotLiquid (⭐1k)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
 
 ## [9. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
@@ -147,18 +147,18 @@
 
 *   [geojson-coords (⭐30)](https://github.com/mapbox/geojson-coords): Extract coordinates from GeoJSON
 *   [geojson-extent](https://www.npmjs.com/package/geojson-extent): compute the bounding box of geojson features
-*   [geojson-js-utils (⭐403)](https://github.com/maxogden/geojson-js-utils): JavaScript helper functions for manipulating GeoJSON
-*   [geojson-merge (⭐227)](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
-*   [geojson-normalize (⭐30)](https://github.com/mapbox/geojson-normalize): normalize any geojson object into a geojson featurecollection
+*   [geojson-js-utils (⭐402)](https://github.com/maxogden/geojson-js-utils): JavaScript helper functions for manipulating GeoJSON
+*   [geojson-merge (⭐229)](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
+*   [geojson-normalize (⭐31)](https://github.com/mapbox/geojson-normalize): normalize any geojson object into a geojson featurecollection
 *   [geojson-pick](https://www.npmjs.com/package/geojson-pick): remove all but specified properties from features in a geojson featurecollection
-*   [geojson-rewind (⭐114)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
+*   [geojson-rewind (⭐118)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
 *   [geojson-summary (⭐33)](https://github.com/mapbox/geojson-summary): get a plain-english summary of what's in a geojson file
 *   [point-grouper](https://github.com/substack/point-grouper): group geojson points into containing polygons
-*   [simplify-geojson (⭐170)](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
+*   [simplify-geojson (⭐171)](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
 
 ### validation
 
-*   [geojsonhint (⭐252)](https://github.com/mapbox/geojsonhint): find errors in your geojson files
+*   [geojsonhint (⭐256)](https://github.com/mapbox/geojsonhint): find errors in your geojson files
 
 ### services
 
@@ -168,7 +168,7 @@
 ### conversion
 
 *   [geojson-mapnikify (⭐38)](https://github.com/mapbox/geojson-mapnikify): Transform GeoJSON objects into Mapnik XML stylesheets with embedded GeoJSON data and simplestyle-spec-derived styles.
-*   [geojson-vt (⭐1.7k)](https://github.com/mapbox/geojson-vt): Slice GeoJSON into vector tiles on the fly in the browser
+*   [geojson-vt (⭐1.8k)](https://github.com/mapbox/geojson-vt): Slice GeoJSON into vector tiles on the fly in the browser
 *   [geojson2rtree (⭐9)](https://github.com/maxogden/geojson2rtree): generate a static rtree (using terraformer) from a set of geojson features
 *   [ogr2ogr](http://www.gdal.org/ogr2ogr.html): convert anything to anything
     *   [fiona (⭐1.1k)](https://github.com/toblerity/fiona): nice python interface on top of ogr
@@ -177,8 +177,8 @@
 ### data
 
 *   [natural earth](http://www.naturalearthdata.com/): country, province, and geographical data
-*   [openflights-geojson (⭐26)](https://github.com/tmcw/openflights-geojson): [openflights](http://openflights.org/) airports & airplane routes
-*   [whereonearth-airport (⭐13)](https://github.com/straup/whereonearth-airport): outlines of every airport
+*   [openflights-geojson (⭐27)](https://github.com/tmcw/openflights-geojson): [openflights](http://openflights.org/) airports & airplane routes
+*   [whereonearth-airport (⭐14)](https://github.com/straup/whereonearth-airport): outlines of every airport
 *   [whereonearth-building (⭐9)](https://github.com/straup/whereonearth-building/): building outlines
 *   [whereonearth repos](https://github.com/search?q=user%3Astraup+whereonearth): other features output from GeoPlanet by Aaron Straup Cope
 *   [tgn-geojson (⭐15)](https://github.com/straup/tgn-geojson): The Getty Thesaurus of Geographic Names (TGN) As GeoJSON.
@@ -186,8 +186,8 @@
 
 ### serialization
 
-*   [python-geojson (⭐823)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
-*   [rust-geojson (⭐208)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
+*   [python-geojson (⭐850)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
+*   [rust-geojson (⭐228)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
 
 ## [10. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
@@ -199,13 +199,13 @@
 
 ### High Performance
 
-*   [Rcpp11 (⭐79)](https://github.com/Rcpp11/Rcpp11) - Rcpp11 is a complete redesign of Rcpp, targetting C++11.
+*   [Rcpp11 (⭐80)](https://github.com/Rcpp11/Rcpp11) - Rcpp11 is a complete redesign of Rcpp, targetting C++11.
 
 ## [12. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### Project management
 
-*   [Redmine (⭐4.7k)](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails
+*   [Redmine (⭐5k)](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails
 *   [Phabricator (⭐12k)](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software
 *   [Taiga.io](https://github.com/taigaio) - Your Agile, Free and Open Source Project Management Tool
 
@@ -304,7 +304,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### DevOps Tools
 
-*   [SSHKey (⭐272)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
+*   [SSHKey (⭐273)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
 
 ### Error Handling
 
@@ -337,7 +337,6 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 ### Blockchain API and Web services
 
 *   [block.io](https://block.io)
-*   [Gem.co](https://gem.co)
 *   [Insight](https://insight.is)
 *   [Chain.com](https://chain.com)
 
@@ -353,7 +352,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### JavaScript Libraries
 
-*   [Bitcoinjs-lib (⭐4.9k)](https://github.com/bitcoinjs/bitcoinjs-lib)
+*   [Bitcoinjs-lib (⭐5.3k)](https://github.com/bitcoinjs/bitcoinjs-lib)
 
 ## [23. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 

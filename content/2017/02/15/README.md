@@ -40,7 +40,7 @@
 
 ### Presentation Programs
 
-*   [Slide Show (S9) (⭐181)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
+*   [Slide Show (S9) (⭐183)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
 
 ## [7. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Applications
 
-*   [notty (⭐2.2k)](https://github.com/withoutboats/notty) — A new kind of terminal
+*   [notty (⭐2.3k)](https://github.com/withoutboats/notty) — A new kind of terminal
 
 ## [13. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
@@ -128,12 +128,12 @@
 *   [ScreenFlow](http://www.telestream.net/screenflow/) - Screencasting and video editing software.
 *   [Shotcut](https://www.shotcut.org) - Free open-source video editor. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mltframework/shotcut) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-### Cloud Storage / File Sharing
+### Cloud Storage / Audio Record and Process
 
 *   [Mega](https://mega.nz) - Free cloud service, offers 50GB free storage. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Seafile](https://www.seafile.com/) - Reliable and High Speed File Sync and Share.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-### Genuine Sites / Package Managers
+### Mac App Download Sites / Genuine Sites
 
 *   Also, [Quora](https://www.quora.com/), [Reddit](https://www.reddit.com), you know the drill.
 

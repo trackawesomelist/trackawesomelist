@@ -47,13 +47,13 @@
 
 ### Apps / Static site generation
 
-*   [Wagtail-bakery (⭐161)](https://github.com/moorinteractive/wagtail-bakery) - A set of helpers for baking your Django Wagtail site out as flat files.
+*   [Wagtail-bakery (⭐165)](https://github.com/moorinteractive/wagtail-bakery) - A set of helpers for baking your Django Wagtail site out as flat files.
 
 ## [4. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Libraries
 
-*   [Meyda (⭐1.3k)](https://github.com/meyda/meyda) - Audio feature extraction library including a variety of widely used audio features.
+*   [Meyda (⭐1.4k)](https://github.com/meyda/meyda) - Audio feature extraction library including a variety of widely used audio features.
 
 ### Packages / Apps
 
@@ -118,7 +118,7 @@
 
 ### For Developers / Directory Navigation
 
-*   [tag (⭐590)](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
+*   [tag (⭐591)](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
 
 ## [11. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 

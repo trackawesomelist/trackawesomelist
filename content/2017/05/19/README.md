@@ -1,6 +1,6 @@
 # Awesome List Updates on May 19, 2017
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,8 +17,8 @@
 ### Scripts / GitHub
 
 *   [Gist to dabblet (⭐1.6k)](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
-*   [GitHub Custom Emojis (⭐61)](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
-*   [GitHub Dark Script (⭐551)](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark (⭐9.6k)](https://github.com/StylishThemes/GitHub-Dark) style to the site.
+*   [GitHub Custom Emojis (⭐63)](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
+*   [GitHub Dark Script (⭐549)](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark (⭐9.6k)](https://github.com/StylishThemes/GitHub-Dark) style to the site.
 *   [GitHub code colors (⭐1.6k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors) - Add a color swatch preview to code.
 *   [GitHub code folding (⭐1.6k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-folding) - Add code folding to files.
 *   [GitHub code guides (⭐1.6k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-guides) - Add code guides to files and diffs.
@@ -80,19 +80,13 @@
 
 *   [Analyzing and Debugging the Java HotSpot VM at the OS Level](https://www.youtube.com/watch?v=k7IX_diKCEo) - Volker Simonis.
 
-## [8. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
-
-### Python / Scala
-
-*   [Zappa (⭐12k)](https://github.com/Miserlou/Zappa) - Framework for building and deploying server-less Python event-driven and web applications.
-
-## [9. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+## [8. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### Localization
 
 *   [sl\_SI (⭐11)](https://github.com/symfony-si/magento2-sl-si) 🇸🇮 - Slovenian Language Package.
 
-## [10. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
+## [9. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
 ### Dialog Agents, Assistants, and Chatbots / Constituency Parsing
 
@@ -101,7 +95,7 @@
 *   [lita (⭐1.7k)](https://github.com/litaio/lita) -
     Highly extensible chat operation bot framework written with persistent storage on [Redis](https://redis.io/).
 
-## [11. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [10. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Community / Other
 

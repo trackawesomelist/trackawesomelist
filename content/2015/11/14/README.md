@@ -103,7 +103,7 @@
 
 ### Extensions / Ruby Profile
 
-*   [Sublime Text setup (⭐724)](https://github.com/mhartl/rails_tutorial_sublime_text) used in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
+*   [Sublime Text setup (⭐718)](https://github.com/mhartl/rails_tutorial_sublime_text) used in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
 
 ### Extensions / Python Profile
 
@@ -121,7 +121,7 @@
 
 *   [Adobe Source Code Pro (⭐19k)](https://github.com/adobe-fonts/source-code-pro)
 *   [Monaco](https://en.wikipedia.org/wiki/Monaco_%28typeface%29)
-*   [What are the best programming fonts?](http://www.slant.co/topics/67/\~programming-fonts)
+*   [What are the best programming fonts?](http://www.slant.co/topics/67/~programming-fonts)
 
 ## [6. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
@@ -338,11 +338,11 @@
 
 ### Network / Honey Pot / Honey Net
 
-*   [HonSSH (⭐362)](https://github.com/tnich/honssh) - HonSSH is a high-interaction Honey Pot solution. HonSSH will sit between an attacker and a honey pot, creating two separate SSH connections between them.
+*   [HonSSH (⭐366)](https://github.com/tnich/honssh) - HonSSH is a high-interaction Honey Pot solution. HonSSH will sit between an attacker and a honey pot, creating two separate SSH connections between them.
 
 ### Network / Full Packet Capture / Forensic
 
-*   [Moloch (⭐5.8k)](https://github.com/aol/moloch) - Moloch is an open source, large scale IPv4 packet capturing (PCAP), indexing and database system. A simple web interface is provided for PCAP browsing, searching, and exporting. APIs are exposed that allow PCAP data and JSON-formatted session data to be downloaded directly. Simple security is implemented by using HTTPS and HTTP digest password support or by using apache in front. Moloch is not meant to replace IDS engines but instead work along side them to store and index all the network traffic in standard PCAP format, providing fast access. Moloch is built to be deployed across many systems and can scale to handle multiple gigabits/sec of traffic.
+*   [Moloch (⭐5.9k)](https://github.com/aol/moloch) - Moloch is an open source, large scale IPv4 packet capturing (PCAP), indexing and database system. A simple web interface is provided for PCAP browsing, searching, and exporting. APIs are exposed that allow PCAP data and JSON-formatted session data to be downloaded directly. Simple security is implemented by using HTTPS and HTTP digest password support or by using apache in front. Moloch is not meant to replace IDS engines but instead work along side them to store and index all the network traffic in standard PCAP format, providing fast access. Moloch is built to be deployed across many systems and can scale to handle multiple gigabits/sec of traffic.
 
 ### Network / VPN
 

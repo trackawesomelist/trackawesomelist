@@ -12,40 +12,31 @@
 
 *   [Macchiato (⭐375)](https://github.com/macchiato-framework/macchiato-core) – It aims to provide an easy to use platform for Node.js.
 
-## [2. Awesome Choo](/content/choojs/awesome-choo/README.md)
+## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+
+### API Gateways / Edge Services / Scala
+
+*   [Linkerd](https://linkerd.io/) - Resilient service mesh for cloud native apps.
+
+## [3. Awesome Choo](/content/choojs/awesome-choo/README.md)
 
 ### Contents / CLI Templates
 
 *   [trainyard/template-basic (⭐2)](https://github.com/trainyard/template-basic)
 *   [haroenv/template-webpack (⭐7)](https://github.com/haroenv/template-webpack)
 
-## [3. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [4. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Projects / Non-dedicated
 
 *   [cernan (⭐310)](https://github.com/postmates/cernan) - A telemetry and logging aggregation server
-
-## [4. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
-
-### CSharp
-
-*   [Nancy](http://nancyfx.org/) - Lightweight web framework.
-
-### API Gateways / Edge Services / Scala
-
-*   [Linkerd](https://linkerd.io/) - Resilient service mesh for cloud native apps.
-
-### Configuration & Discovery / Scala
-
-*   [Microphone (⭐465)](https://github.com/rogeralsing/Microphone) - Lightweight .NET framework to run self hosting REST services using Web Api or NancyFx on top of a Consul or Etcd cluster.
-*   [Registrator (⭐4.6k)](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker. Supports pluggable service registries, which currently includes Consul, Etcd and SkyDNS 2.
 
 ## [5. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
 ### Tools
 
 *   [chromepet (⭐30)](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published.
-*   [chrome-ext-downloader (⭐46)](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
+*   [chrome-ext-downloader (⭐48)](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
 
 ## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -55,30 +46,30 @@
 
 ### Packages / Command-line apps
 
-*   [np (⭐7.2k)](https://github.com/sindresorhus/np) - Better `npm publish`.
+*   [np (⭐7.3k)](https://github.com/sindresorhus/np) - Better `npm publish`.
 *   [pageres (⭐9.6k)](https://github.com/sindresorhus/pageres) - Capture website screenshots.
-*   [clipboard-cli (⭐481)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
-*   [Live Server (⭐4.2k)](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
+*   [clipboard-cli (⭐486)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
+*   [Live Server (⭐4.3k)](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
 *   [fkill (⭐6.8k)](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 *   [tmpin (⭐124)](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-*   [dark-mode (⭐643)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
+*   [dark-mode (⭐650)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
 
 ### Packages / HTTP
 
-*   [got (⭐13k)](https://github.com/sindresorhus/got) - Nicer interface to the built-in `http` module.
+*   [got (⭐14k)](https://github.com/sindresorhus/got) - Nicer interface to the built-in `http` module.
 *   [superagent (⭐16k)](https://github.com/visionmedia/superagent) - HTTP request library.
 
 ### Packages / Logging
 
-*   [winston (⭐21k)](https://github.com/winstonjs/winston) - Multi-transport async logging library.
+*   [winston (⭐22k)](https://github.com/winstonjs/winston) - Multi-transport async logging library.
 
 ### Packages / Command-line utilities
 
 *   [ora (⭐8.7k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
-*   [conf (⭐1.1k)](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
-*   [cli-truncate (⭐83)](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
+*   [conf (⭐1.2k)](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
+*   [cli-truncate (⭐84)](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
 *   [blessed (⭐11k)](https://github.com/chjj/blessed) - Curses-like library.
-*   [insight (⭐553)](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
+*   [insight (⭐554)](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
 
 ### Packages / Build tools
 
@@ -95,16 +86,16 @@
 
 *   Observables
     *   [RxJS (⭐30k)](https://github.com/ReactiveX/RxJS) - Reactive programming.
-    *   [observable-to-promise (⭐330)](https://github.com/sindresorhus/awesome-observables) - Convert an Observable to a Promise.
-    *   [More… (⭐330)](https://github.com/sindresorhus/awesome-observables)
+    *   [observable-to-promise (⭐46)](https://github.com/sindresorhus/observable-to-promise) - Convert an Observable to a Promise.
+    *   [More… (⭐331)](https://github.com/sindresorhus/awesome-observables)
 
 ### Packages / Streams
 
-*   [binary-split (⭐76)](https://github.com/maxogden/binary-split) - Newline (or any delimiter) splitter stream.
+*   [binary-split (⭐77)](https://github.com/maxogden/binary-split) - Newline (or any delimiter) splitter stream.
 
 ### Packages / Real-time
 
-*   [MQTT.js (⭐8k)](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
+*   [MQTT.js (⭐8.1k)](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
 
 ### Packages / Text
 
@@ -112,28 +103,27 @@
 
 ### Packages / Date
 
-*   [date-fns (⭐32k)](https://github.com/date-fns/date-fns) - Modern date utility.
+*   [date-fns (⭐33k)](https://github.com/date-fns/date-fns) - Modern date utility.
 
 ### Packages / Parsing
 
-*   [markdown-it (⭐16k)](https://github.com/markdown-it/markdown-it) - Markdown parser with 100% CommonMark support, extensions and syntax plugins.
+*   [markdown-it (⭐17k)](https://github.com/markdown-it/markdown-it) - Markdown parser with 100% CommonMark support, extensions and syntax plugins.
 *   [csv-parser (⭐1.4k)](https://github.com/mafintosh/csv-parser) - Streaming CSV parser that aims to be faster than everyone else.
 
 ### Packages / Compression
 
-*   [yazl (⭐315)](https://github.com/thejoshwolfe/yazl) - Zip.
-*   [yauzl (⭐650)](https://github.com/thejoshwolfe/yauzl) - Unzip.
-*   [decompress (⭐403)](https://github.com/kevva/decompress) - Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
+*   [yazl (⭐316)](https://github.com/thejoshwolfe/yazl) - Zip.
+*   [yauzl (⭐657)](https://github.com/thejoshwolfe/yauzl) - Unzip.
 
 ### Packages / Database
 
 *   Drivers
     *   [PostgreSQL (⭐12k)](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
-    *   [Redis (⭐12k)](https://github.com/luin/ioredis) - Redis client.
+    *   [Redis (⭐13k)](https://github.com/luin/ioredis) - Redis client.
     *   [LevelUP (⭐4.1k)](https://github.com/Level/levelup) - LevelDB.
     *   [MySQL (⭐18k)](https://github.com/mysqljs/mysql) - MySQL client.
-    *   [couchdb-nano (⭐614)](https://github.com/apache/couchdb-nano) - CouchDB client.
-    *   [Aerospike (⭐197)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
+    *   [couchdb-nano (⭐619)](https://github.com/apache/couchdb-nano) - CouchDB client.
+    *   [Aerospike (⭐196)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
     *   [Couchbase (⭐463)](https://github.com/couchbase/couchnode) - Couchbase client.
     *   [MongoDB (⭐9.9k)](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
 
@@ -156,14 +146,14 @@
 
 ### Packages / Weird
 
-*   [cows (⭐401)](https://github.com/sindresorhus/cows) - ASCII cows.
+*   [cows (⭐405)](https://github.com/sindresorhus/cows) - ASCII cows.
 
 ### Packages / Miscellaneous
 
-*   [execa (⭐6k)](https://github.com/sindresorhus/execa) - Better `child_process`.
+*   [execa (⭐6.1k)](https://github.com/sindresorhus/execa) - Better `child_process`.
 *   [ssh2 (⭐5.3k)](https://github.com/mscdex/ssh2) - SSH2 client and server module.
-*   [Bottleneck (⭐1.6k)](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
-*   [clipboardy (⭐1.6k)](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
+*   [Bottleneck (⭐1.7k)](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
+*   [clipboardy (⭐1.7k)](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
 
 ### Resources / Tools
 

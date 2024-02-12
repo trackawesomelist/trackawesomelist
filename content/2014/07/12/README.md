@@ -10,14 +10,14 @@
 
 ### Packages / Image
 
-*   [image-type (⭐348)](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array.
+*   [image-type (⭐357)](https://github.com/sindresorhus/image-type) - Detect the type of an image.
 *   [gm (⭐6.9k)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
 
 ### Packages / Text
 
-*   [iconv-lite (⭐2.9k)](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
-*   [escape-string-regexp (⭐557)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
-*   [indent-string (⭐109)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
+*   [iconv-lite (⭐3k)](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
+*   [escape-string-regexp (⭐565)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
+*   [indent-string (⭐110)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
 *   [strip-indent (⭐131)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
 
 ### Packages / Parsing
@@ -30,11 +30,11 @@
 
 ### Packages / Network
 
-*   [get-port (⭐822)](https://github.com/sindresorhus/get-port) - Get an available port.
+*   [get-port (⭐834)](https://github.com/sindresorhus/get-port) - Get an available port.
 
 ### Packages / Weird
 
-*   [superb (⭐392)](https://github.com/sindresorhus/superb) - Get superb like words.
+*   [superb (⭐395)](https://github.com/sindresorhus/superb) - Get superb like words.
 *   [cool-ascii-faces (⭐1.8k)](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
 
 ## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
@@ -84,7 +84,7 @@
 
 ### Table of Contents / Deployment
 
-*   [Envoy (⭐1.5k)](https://github.com/laravel/envoy) - A tool to run SSH tasks with PHP.
+*   [Envoy (⭐1.6k)](https://github.com/laravel/envoy) - A tool to run SSH tasks with PHP.
 
 ### Configuration / PHP Books
 

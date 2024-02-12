@@ -53,7 +53,7 @@
 
 ### Network Protocols
 
-*   [fast\_irc.cr (⭐19)](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
+*   [fast\_irc.cr (⭐20)](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
 
 ## [9. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 

@@ -49,13 +49,23 @@
 *   [Texas Instruments - SensorTag DeveloperKit](http://makezine.com/2014/04/16/the-ti-sensortag-now-with-added-ibeacon/)
 *   [TI SensorTag Android Sources](http://git.ti.com/sensortag-android)
 
-## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Miscellaneous
+
+*   [QtVerbalExpressions (⭐60)](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. \[MIT]
+
+### Coding Style
+
+*   [C++ Dos and Don'ts](http://www.chromium.org/developers/coding-style/cpp-dos-and-donts) - The Chromium Projects > For Developers > Coding Style > C++ Dos and Don'ts.
+
+## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Documentation
 
 *   [Apipie (⭐2.4k)](https://github.com/Apipie/apipie-rails) - Rails API documentation and display tool using Ruby syntax.
 
-## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
@@ -84,11 +94,11 @@
 
 ### Protocols
 
-*   [elixir\_radius (⭐12)](https://github.com/bearice/elixir-radius) - RADIUS Protocol on Elixir.
+*   [elixir\_radius (⭐14)](https://github.com/bearice/elixir-radius) - RADIUS Protocol on Elixir.
 
 ### Testing
 
-*   [ponos (⭐154)](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
+*   [ponos (⭐157)](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
 *   [shouldi (⭐135)](https://github.com/batate/shouldi) - Elixir testing libraries with nested contexts, superior readability, and ease of use.
 
 ### Text and Numbers
@@ -100,29 +110,15 @@
 *   [forcex (⭐51)](https://github.com/jeffweiss/forcex) - Elixir library for the Force.com REST API.
 *   [pathway (⭐4)](https://github.com/novabyte/pathway) - An Erlang/Elixir client for the [Trak.io](http://trak.io/) REST API.
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-### Frameworks
-
-*   [uSTL](http://msharov.github.io/ustl/) - The small STL library. \[MIT]
-
-### Miscellaneous
-
-*   [QtVerbalExpressions (⭐59)](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. \[MIT]
-
-### Coding Style
-
-*   [C++ Dos and Don'ts](http://www.chromium.org/developers/coding-style/cpp-dos-and-donts) - The Chromium Projects > For Developers > Coding Style > C++ Dos and Don'ts.
-
 ## [5. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Metaprogramming
 
 *   **Syntax Extensions**:
-    *   [ppx\_import (⭐84)](https://github.com/ocaml-ppx/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
+    *   [ppx\_import (⭐87)](https://github.com/ocaml-ppx/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
     *   [ppx\_string\_interpolate (⭐21)](https://github.com/sheijk/ppx_string_interpolate) – A simple ppx filter to support string interpolation like `[%str "value of foo is $(foo)"]`.
     *   [ppx\_monad (⭐7)](https://github.com/rizo/ppx_monad) – Monad syntax extension for OCaml.
-    *   [ppx\_deriving\_yojson (⭐139)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
+    *   [ppx\_deriving\_yojson (⭐149)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
 
 ---
 

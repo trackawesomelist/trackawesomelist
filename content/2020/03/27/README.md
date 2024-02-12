@@ -57,7 +57,7 @@
 
 ### Workflows
 
-*   [DynamicWorkflows (⭐2)](https://github.com/ivansharamok/DynamicWorkflows) - Rule Engine based workflow management tool.
+*   [DynamicWorkflows (⭐2)](https://github.com/ivansharamok/DynamicWorkflows) - Rule Engine-based workflow management tool.
 
 ## [5. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 

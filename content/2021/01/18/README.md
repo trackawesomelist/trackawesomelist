@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 18, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,8 +34,8 @@
 
 ### Database
 
-*   [next.jdbc (⭐674)](https://github.com/seancorfield/next-jdbc)
-*   [clojure.java.jdbc (⭐709)](https://github.com/clojure/java.jdbc)
+*   [next.jdbc (⭐705)](https://github.com/seancorfield/next-jdbc)
+*   [clojure.java.jdbc (⭐708)](https://github.com/clojure/java.jdbc)
 
 ## [6. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -45,19 +45,13 @@
 *   [Breach](https://www.carbonite.com/podcasts/breach/) - A podcast exploring data breaches and cybersecurity by Carbonite.
 *   [Land of Giants](https://www.vox.com/land-of-the-giants-podcast) - Facebook. Apple. Amazon. Netflix. Google. This podcast examine how it got its power, what it's doing with it, and what might happen to in the future.
 
-## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### JavaScript / Vue.js
-
-*   [30 Days Of Vue](https://www.newline.co/30-days-of-vue) - Hassan Djirdeh (HTML; *email required for PDF*)
-
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-gauge (⭐12)](https://github.com/chrisheanan/vue-gauge) - Vue.js component to create animated svg gauge charts
+*   [vue-gauge (⭐13)](https://github.com/chrisheanan/vue-gauge) - Vue.js component to create animated svg gauge charts
 
-## [9. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Frameworks and Stacks
 
@@ -67,7 +61,7 @@
 
 *   [Cloe (⭐28)](https://github.com/eclipse/cloe) - Empowers developers of automated-driving software components by providing a unified interface to closed-loop simulation.
 
-## [10. Awesome List](/content/sindresorhus/awesome/README.md)
+## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 

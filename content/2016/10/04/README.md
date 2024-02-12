@@ -16,7 +16,7 @@
 
 ### Miscellaneous
 
-*   [Simple File Server (⭐85)](https://github.com/pitchpoint-solutions/sfs) - An OpenStack Swift compatible distributed object storage server that can serve and securely store billions of large and small files using minimal resources implemented using Vert.x.
+*   [Simple File Server (⭐83)](https://github.com/pitchpoint-solutions/sfs) - An OpenStack Swift compatible distributed object storage server that can serve and securely store billions of large and small files using minimal resources implemented using Vert.x.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Build Tools
 
-*   [rebar3\_auto (⭐49)](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
+*   [rebar3\_auto (⭐50)](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
 
 ### HTTP
 
@@ -38,7 +38,7 @@
 
 ### Macros
 
-*   [named\_args (⭐27)](https://github.com/mgwidmann/named_args) - Allows named arg style arguments in Elixir.
+*   [named\_args (⭐28)](https://github.com/mgwidmann/named_args) - Allows named arg style arguments in Elixir.
 
 ### Release Management
 

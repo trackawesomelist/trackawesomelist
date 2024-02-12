@@ -10,7 +10,7 @@
 
 ### Customization / Directory Navigation
 
-*   [bash-full-of-colors (⭐170)](https://github.com/slomkowski/bash-full-of-colors) - Powerful prompt with screen, tmux, git support and many more
+*   [bash-full-of-colors (⭐175)](https://github.com/slomkowski/bash-full-of-colors) - Powerful prompt with screen, tmux, git support and many more
 
 ## [2. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/README.md)
 
@@ -55,11 +55,11 @@
 
 ### Applications
 
-*   [Phoenix Toggl (⭐173)](https://github.com/bigardone/phoenix-toggl) - Toggl tribute done in Elixir, Phoenix Framework, React and Redux.
+*   [Phoenix Toggl (⭐172)](https://github.com/bigardone/phoenix-toggl) - Toggl tribute done in Elixir, Phoenix Framework, React and Redux.
 
 ### ORM and Datamapping
 
-*   [ecto\_fixtures (⭐168)](https://github.com/DockYard/ecto_fixtures) - Fixtures for Elixir apps using Ecto.
+*   [ecto\_fixtures (⭐169)](https://github.com/DockYard/ecto_fixtures) - Fixtures for Elixir apps using Ecto.
 
 ## [8. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 

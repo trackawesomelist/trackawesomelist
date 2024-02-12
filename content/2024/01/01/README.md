@@ -10,11 +10,11 @@
 
 ### Applications / Games
 
-*   [chess-tui (⭐224)](https://github.com/thomas-mauran/chess-tui) —  A Chess TUI implementation in rust ♟️
+*   [chess-tui (⭐248)](https://github.com/thomas-mauran/chess-tui) —  A Chess TUI implementation in rust ♟️
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Domain Specific Language / Coordination
+### Domain Specific Language / Design Theory
 
 *   [The complete guide to (external) Domain Specific Languages](https://tomassetti.me/domain-specific-languages/). An introduction to Domain Specific Languages (DSL) based on 19 DSL cases.
 
@@ -32,13 +32,13 @@
 
 ### Audio and Video Tools / File Sharing
 
-*   [trax (⭐0)](https://github.com/nbonamy/trax) - Free, open-source music library management tool with audio conversion and tag management functionalities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/nbonamy/trax)
+*   [trax (⭐3)](https://github.com/nbonamy/trax) - Free, open-source music library management tool with audio conversion and tag management functionalities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/nbonamy/trax)
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [crispybaccoon/evergarden (⭐2)](https://github.com/crispybaccoon/evergarden) - A comfy Neovim colorscheme for cozy morning coding.
+*   [crispybaccoon/evergarden (⭐17)](https://github.com/crispybaccoon/evergarden) - A comfy Neovim colorscheme for cozy morning coding.
 
 ## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -60,4 +60,5 @@
 
 ---
 
+- Prev: [Jan 02, 2024](/content/2024/01/02/README.md)
 - Next: [Dec 31, 2023](/content/2023/12/31/README.md)

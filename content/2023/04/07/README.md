@@ -33,7 +33,7 @@
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Image Segmentation / Generative Adversarial Networks (GANs)
+### Multimodal Embedding Space / Deforum
 
 *   [Segment Anything | Meta AI](https://segment-anything.com/): "a new AI model from Meta AI that can "cut out" any object, in any image, with a single click"
 
@@ -41,7 +41,7 @@
 
 ### Audio Editing
 
-*   [Stargate DAW (⭐492)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
+*   [Stargate DAW (⭐518)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 
 ## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Statusline / Diagnostics
 
-*   [freddiehaddad/feline.nvim (⭐195)](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
+*   [freddiehaddad/feline.nvim (⭐221)](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
 
 ## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Code Analysis and Linter
 
-*   [splint (⭐59)](https://github.com/NoahTheDuke/splint)
+*   [splint (⭐71)](https://github.com/NoahTheDuke/splint)
 
 ## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -94,12 +94,12 @@
 
 ### Applications / Operating systems
 
-*   [Andy-Python-Programmer/aero (⭐1k)](https://github.com/Andy-Python-Programmer/aero) — A modern, unix-like operating system following the monolithic kernel design.
+*   [Andy-Python-Programmer/aero (⭐1.1k)](https://github.com/Andy-Python-Programmer/aero) — A modern, unix-like operating system following the monolithic kernel design.
 
 ### Libraries / Encoding
 
 *   [FlatBuffers](https://flatbuffers.dev/)
-    *   [frol/flatc-rust (⭐96)](https://github.com/frol/flatc-rust) — FlatBuffers compiler (flatc) integration for Cargo build scripts
+    *   [frol/flatc-rust (⭐98)](https://github.com/frol/flatc-rust) — FlatBuffers compiler (flatc) integration for Cargo build scripts
 
 ## [12. BEM Resources](/content/sturobson/BEM-resources/README.md)
 
@@ -112,7 +112,7 @@
 
 ### Software / Log Management
 
-*   [rsyslog](https://www.rsyslog.com/) - Rocket-fast system for log processing. ([Source Code (⭐1.8k)](https://github.com/rsyslog/rsyslog)) `GPL-3.0` `C`
+*   [rsyslog](https://www.rsyslog.com/) - Rocket-fast system for log processing. ([Source Code (⭐1.9k)](https://github.com/rsyslog/rsyslog)) `GPL-3.0` `C`
 
 ## [14. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
 

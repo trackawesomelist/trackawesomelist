@@ -55,7 +55,7 @@
 
 ### Training Courses
 
-*   [Mixter (⭐286)](https://github.com/DevLyon/mixter) - CQRS and Event Sourcing Koans.
+*   [Mixter (⭐312)](https://github.com/DevLyon/mixter) - CQRS and Event Sourcing Koans.
 
 ## [6. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/README.md)
 
@@ -70,17 +70,15 @@
 
 ### Go / Erlang
 
-*   [Gizmo (⭐3.7k)](https://github.com/nytimes/gizmo) - Microservices toolkit.
-*   [RPCX (⭐7.5k)](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
+*   [RPCX (⭐7.9k)](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
 
 ### Java VM / Java
 
-*   [Disruptor (⭐16k)](https://github.com/LMAX-Exchange/disruptor) - High-performance inter-thread messaging library.
-*   [Spark](http://sparkjava.com/) - A micro-framework for creating web applications in Java 8 with minimal effort.
+*   [Disruptor (⭐17k)](https://github.com/LMAX-Exchange/disruptor) - High-performance inter-thread messaging library.
 
 ### Python / Scala
 
-*   [Web.py (⭐5.8k)](https://github.com/webpy/webpy/) - Minimalist web framework for Python.
+*   [Web.py (⭐5.9k)](https://github.com/webpy/webpy/) - Minimalist web framework for Python.
 
 ## [8. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

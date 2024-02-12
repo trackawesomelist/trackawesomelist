@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 22, 2017
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -72,25 +72,19 @@
 
 ## [5. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
-### Other useful repositories
+### Other Useful Repositories
 
-- Repository: [CVE PoC (⭐3k)](https://github.com/qazbnm456/awesome-cve-poc)
+- Repository: [CVE PoC (⭐3.2k)](https://github.com/qazbnm456/awesome-cve-poc)
 
   Description: List of CVE Proof of Concepts (PoCs)
 
 
 
-## [6. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
-
-### Contents / Clones
-
-*   [PX8 (⭐906)](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
-
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vodal (⭐376)](https://github.com/chenjiahan/vodal) - A vue modal with animations.
+*   [vodal (⭐379)](https://github.com/chenjiahan/vodal) - A vue modal with animations.
 
 ---
 

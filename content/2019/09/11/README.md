@@ -28,7 +28,7 @@
 
 ### Apps / Media
 
-*   [Wagtail-Lazyimages (⭐21)](https://github.com/ptrck/wagtail-lazyimages) - A plugin that generates tiny blurry placeholder images for lazy loading Wagtail images medium.com style.
+*   [Wagtail-Lazyimages (⭐23)](https://github.com/ptrck/wagtail-lazyimages) - A plugin that generates tiny blurry placeholder images for lazy loading Wagtail images medium.com style.
 
 ## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Self-Hosted Bitcoin Payment Processors
 
-- Processor: [One Time Address (⭐54)](https://github.com/alexk111/One-Time-Address)
+- Processor: [One Time Address (⭐60)](https://github.com/alexk111/One-Time-Address)
 
   Fees: No fees
 
@@ -72,7 +72,7 @@
 
 ### Integrations
 
-*   [Keycloak Terraform Provider (⭐516)](https://github.com/mrparkers/terraform-provider-keycloak)
+*   [Keycloak Terraform Provider (⭐553)](https://github.com/mrparkers/terraform-provider-keycloak)
 
 ## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

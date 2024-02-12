@@ -44,7 +44,7 @@
 
 ### Libraries and Tools / Go
 
-*   [CAN Simulator (⭐59)](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board (⭐166)](https://github.com/carloop/simulator)
+*   [CAN Simulator (⭐58)](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board (⭐169)](https://github.com/carloop/simulator)
 
 ---
 

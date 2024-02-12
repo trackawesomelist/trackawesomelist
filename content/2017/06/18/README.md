@@ -41,25 +41,25 @@
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Pinball (⭐134)](https://github.com/pret/pokepinball)
-*   [Pokémon TCG (⭐227)](https://github.com/pret/poketcg)
+*   [Pokémon Pinball (⭐147)](https://github.com/pret/pokepinball)
+*   [Pokémon TCG (⭐243)](https://github.com/pret/poketcg)
 
 ## [4. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [CloudFail (⭐2k)](https://github.com/m0rtem/CloudFail) - Unmask server IP addresses hidden behind Cloudflare by searching old database records and detecting misconfigured DNS.
+*   [CloudFail (⭐2.1k)](https://github.com/m0rtem/CloudFail) - Unmask server IP addresses hidden behind Cloudflare by searching old database records and detecting misconfigured DNS.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Authentication
 
-*   [Keats/jsonwebtoken (⭐1.4k)](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) lib in rust
+*   [Keats/jsonwebtoken (⭐1.5k)](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) lib in rust
 
 ### Libraries / Computation
 
 *   Scirust
-    *   [indigits/scirust (⭐255)](https://github.com/indigits/scirust) — scientific computing library in Rust
+    *   [indigits/scirust (⭐262)](https://github.com/indigits/scirust) — scientific computing library in Rust
 
 ### Libraries / Logging
 
@@ -67,7 +67,7 @@
 
 ### Resources / Web programming
 
-*   [Rust Design Patterns (⭐7.2k)](https://github.com/rust-unofficial/patterns)
+*   [Rust Design Patterns (⭐7.5k)](https://github.com/rust-unofficial/patterns)
 
 ## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

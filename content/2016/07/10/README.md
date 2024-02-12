@@ -43,7 +43,7 @@
 
 ### Behaviours and Interfaces
 
-*   [gen\_state\_machine (⭐289)](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen\_statem.
+*   [gen\_state\_machine (⭐290)](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen\_statem.
 
 ### Benchmarking
 
@@ -57,11 +57,11 @@
 
 ### Natural Language Processing (NLP)
 
-*   [Woolly (⭐49)](https://github.com/pjhampton/woolly) - Woolly is an ambitious Text Mining and Natural Language Processing API for Elixir.
+*   [Woolly (⭐50)](https://github.com/pjhampton/woolly) - Woolly is an ambitious Text Mining and Natural Language Processing API for Elixir.
 
 ### ORM and Datamapping
 
-*   [shards (⭐289)](https://github.com/cabol/shards) - Transparent and out-of-box Sharding support for Erlang/Elixir ETS tables.
+*   [shards (⭐291)](https://github.com/cabol/shards) - Transparent and out-of-box Sharding support for Erlang/Elixir ETS tables.
 
 ### Queue
 

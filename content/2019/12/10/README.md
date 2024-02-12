@@ -70,7 +70,7 @@
 
 ### Layout
 
-*   [EasyAnchor (⭐452)](https://github.com/onmyway133/EasyAnchor) - Declarative, extensible, powerful Auto Layout.
+*   [EasyAnchor (⭐454)](https://github.com/onmyway133/EasyAnchor) - Declarative, extensible, powerful Auto Layout.
 
 ### Push Notification Providers
 
@@ -78,7 +78,7 @@
 
 ### Permissions
 
-*   [SPPermissions (⭐5.3k)](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
+*   [SPPermissions (⭐5.5k)](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
 
 ### UI
 
@@ -117,7 +117,7 @@
 
 ### Science and Data analysis
 
-*   [num.cr (⭐140)](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
+*   [num.cr (⭐141)](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
 
 ## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -134,8 +134,8 @@
 
 ### High Availability / Miscellaneous
 
-*   [M3DB (⭐4.4k)](https://github.com/m3db/m3) - Scalable long-term remote storage for Prometheus.
-*   [VictoriaMetrics (⭐8.6k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Cost-effective easy to operate remote storage for Prometheus.
+*   [M3DB (⭐4.6k)](https://github.com/m3db/m3) - Scalable long-term remote storage for Prometheus.
+*   [VictoriaMetrics (⭐10k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Cost-effective easy to operate remote storage for Prometheus.
 
 ---
 

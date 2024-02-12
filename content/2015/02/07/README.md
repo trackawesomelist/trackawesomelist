@@ -10,7 +10,7 @@
 
 ### Framework Components
 
-*   [scrivener (⭐550)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
+*   [scrivener (⭐548)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -20,11 +20,11 @@
 
 ### JSON
 
-*   [RapidJSON (⭐13k)](https://github.com/miloyip/rapidjson) :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. \[MIT] [website](https://rapidjson.org)
+*   [RapidJSON (⭐14k)](https://github.com/miloyip/rapidjson) :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. \[MIT] [website](https://rapidjson.org)
 
 ### Machine Learning
 
-*   [OpenCV (⭐72k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
+*   [OpenCV (⭐74k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
 
 ### Networking
 
@@ -42,25 +42,25 @@
 
 ### Table of Contents / Routers
 
-*   [Fast Route (⭐4.7k)](https://github.com/nikic/FastRoute) - A fast routing library.
+*   [Fast Route (⭐5k)](https://github.com/nikic/FastRoute) - A fast routing library.
 *   [Pux (⭐1.3k)](https://github.com/c9s/Pux) - Another fast routing library.
 
 ### Table of Contents / Dependency Injection
 
-*   [Container (⭐774)](https://github.com/thephpleague/container) - Another flexible dependency injection container.
+*   [Container (⭐813)](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 
 ### Table of Contents / Imagery
 
-*   [Glide (⭐2.4k)](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
+*   [Glide (⭐2.5k)](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
 
 ### Table of Contents / Event
 
-*   [Event (⭐1.4k)](https://github.com/thephpleague/event) - An event library with a focus on domain events.
+*   [Event (⭐1.5k)](https://github.com/thephpleague/event) - An event library with a focus on domain events.
 
 ### Table of Contents / Authentication and Authorization
 
-*   [OAuth 1.0 Client (⭐900)](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
-*   [OAuth 2.0 Client (⭐3.3k)](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
+*   [OAuth 1.0 Client (⭐949)](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
+*   [OAuth 2.0 Client (⭐3.6k)](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
 
 ---
 

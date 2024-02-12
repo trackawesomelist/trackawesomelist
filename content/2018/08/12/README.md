@@ -18,10 +18,6 @@
 
 *   [okra](https://www.common-lisp.net/project/okra/manual.html) - CFFI bindings to Ogre. Not available on Quicklisp. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-### Javascript / Isomorphic web frameworks
-
-*   [Wuwei (⭐76)](https://github.com/mtravers/wuwei/) - A toolkit to build Ajax-based web pages. [MIT](https://opensource.org/licenses/MIT).
-
 ## [3. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Tutorials / Navigation Demos

@@ -10,10 +10,10 @@
 
 ### Sample GTFS and GTFS Realtime datasets used for software testing
 
-*   [Transitland GTFS and GTFS Realtime unit tests (⭐22)](https://github.com/interline-io/transitland-lib) - For testing the [transitland-lib (⭐22)](https://github.com/interline-io/transitland-lib) library that handles GTFS and GTFS Realtime parsing and validation for Transitland:
-    *   [GTFS - "bad entities" at the single row level (⭐22)](https://github.com/interline-io/transitland-lib/tree/master/test/data/bad-entities)
-    *   [GTFS - validation errors that that involve entities in one or more files (⭐22)](https://github.com/interline-io/transitland-lib/tree/master/test/data/validator/errors)
-    *   [GTFS - best practices (⭐22)](https://github.com/interline-io/transitland-lib/tree/master/test/data/validator/best-practices)
+*   [Transitland GTFS and GTFS Realtime unit tests (⭐24)](https://github.com/interline-io/transitland-lib) - For testing the [transitland-lib (⭐24)](https://github.com/interline-io/transitland-lib) library that handles GTFS and GTFS Realtime parsing and validation for Transitland:
+    *   [GTFS - "bad entities" at the single row level (⭐24)](https://github.com/interline-io/transitland-lib/tree/master/test/data/bad-entities)
+    *   [GTFS - validation errors that that involve entities in one or more files (⭐24)](https://github.com/interline-io/transitland-lib/tree/master/test/data/validator/errors)
+    *   [GTFS - best practices (⭐24)](https://github.com/interline-io/transitland-lib/tree/master/test/data/validator/best-practices)
     *   [GTFS Realtime - JSON test cases that are turned into PB contents (⭐6)](https://github.com/interline-io/transitland-server/tree/main/test/data/rt)
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
@@ -50,13 +50,13 @@
 
 ### Projects
 
-*   [USB Proxy (⭐90)](https://github.com/AristoChen/usb-proxy) - A USB man-in-the-middle project that allow users to monitor and modify USB packets flow between host and device.
+*   [USB Proxy (⭐115)](https://github.com/AristoChen/usb-proxy) - A USB man-in-the-middle project that allow users to monitor and modify USB packets flow between host and device.
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Job Scheduler
 
-*   [cdule (⭐40)](https://github.com/deepaksinghvi/cdule) - Job scheduler library with database support
+*   [cdule (⭐45)](https://github.com/deepaksinghvi/cdule) - Job scheduler library with database support
 
 ### Morphological Analyzers
 
@@ -66,18 +66,18 @@
 
 ### Starter apps and CLIs
 
-*   [awesome-arcgis (⭐19)](https://github.com/esri-es/awesome-arcgis/) - Awesome list with a wiki flavor with resources about Esri and ArcGIS organized by: products, industries, file formats, content providers, etc.
-*   [awesome-earthobservation-code (⭐1k)](https://github.com/acgeospatial/awesome-earthobservation-code) - Tools, tutorials, code, helpful projects and links about Earth Observation and Geospatial stuff.
-*   [awesome-geojson (⭐2k)](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities: operations,editors & viewers, validation, services, conversion, etc.
-*   [awesome-geospatial (⭐3.3k)](https://github.com/sacridini/Awesome-Geospatial) - Databases, radar, lidar, web map development, etc.
-*   [awesome-gis (⭐3.5k)](https://github.com/sshuair/awesome-gis) - GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.
-*   [awesome-json-datasets (⭐2.9k)](https://github.com/jdorfman/awesome-json-datasets) - JSON datasets that don't require authentication about: climate, crime, goverment, NASA, travel, etc.
-*   [awesome-open-geoscience (⭐1.2k)](https://github.com/softwareunderground/awesome-open-geoscience) - Curated from repositories that make our lives as geoscientists, hackers, and data wranglers easier or just more awesome.
-*   [awesome-public-datasets (⭐55k)](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets.
-*   [awesome-remote-sensing-change-detection (⭐1.1k)](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, and contests related to remote sensing change detection.
-*   [awesome-satellite-imagery-datasets (⭐3.2k)](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite image training datasets with annotations for computer vision and deep learning.
-*   [awesome-semantic-segmentation (⭐9.9k)](https://github.com/mrgloom/awesome-semantic-segmentation) - Networks by architecture (semantic segmentation, instance aware segmentation, etc.), RNN, GANS, datasets, and more.
-*   [awesome-vector-tiles (⭐2k)](https://github.com/mapbox/awesome-vector-tiles) - Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps and command line tools, CLI utilities, servers, etc.
+*   [awesome-arcgis (⭐24)](https://github.com/esri-es/awesome-arcgis/) - Awesome list with a wiki flavor with resources about Esri and ArcGIS organized by: products, industries, file formats, content providers, etc.
+*   [awesome-earthobservation-code (⭐1.1k)](https://github.com/acgeospatial/awesome-earthobservation-code) - Tools, tutorials, code, helpful projects and links about Earth Observation and Geospatial stuff.
+*   [awesome-geojson (⭐2.1k)](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities: operations,editors & viewers, validation, services, conversion, etc.
+*   [awesome-geospatial (⭐3.7k)](https://github.com/sacridini/Awesome-Geospatial) - Databases, radar, lidar, web map development, etc.
+*   [awesome-gis (⭐3.9k)](https://github.com/sshuair/awesome-gis) - GIS, remote sensing, 3D apps, Web Map Servers, Geospatial libraries, Open Standards, data, etc.
+*   [awesome-json-datasets (⭐3.1k)](https://github.com/jdorfman/awesome-json-datasets) - JSON datasets that don't require authentication about: climate, crime, goverment, NASA, travel, etc.
+*   [awesome-open-geoscience (⭐1.3k)](https://github.com/softwareunderground/awesome-open-geoscience) - Curated from repositories that make our lives as geoscientists, hackers, and data wranglers easier or just more awesome.
+*   [awesome-public-datasets (⭐57k)](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets.
+*   [awesome-remote-sensing-change-detection (⭐1.3k)](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, and contests related to remote sensing change detection.
+*   [awesome-satellite-imagery-datasets (⭐3.4k)](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite image training datasets with annotations for computer vision and deep learning.
+*   [awesome-semantic-segmentation (⭐10k)](https://github.com/mrgloom/awesome-semantic-segmentation) - Networks by architecture (semantic segmentation, instance aware segmentation, etc.), RNN, GANS, datasets, and more.
+*   [awesome-vector-tiles (⭐2.1k)](https://github.com/mapbox/awesome-vector-tiles) - Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps and command line tools, CLI utilities, servers, etc.
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

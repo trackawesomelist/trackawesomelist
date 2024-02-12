@@ -10,21 +10,21 @@
 
 ### Caches
 
-*   [gocache (⭐3)](https://github.com/yuseferi/gocache) - A data race free Go ache library with high performance and auto pruge functionality
+*   [gocache (⭐5)](https://github.com/yuseferi/gocache) - A data race free Go ache library with high performance and auto pruge functionality
 
 ### Logging
 
-*   [zax (⭐9)](https://github.com/yuseferi/zax) - Integrate Context with Zap logger, which leads to more flexibility in Go logging.
+*   [zax (⭐15)](https://github.com/yuseferi/zax) - Integrate Context with Zap logger, which leads to more flexibility in Go logging.
 
 ### Utilities
 
-*   [gofn (⭐25)](https://github.com/tiendc/gofn) - High performance utility functions written using Generics for Go 1.18+.
+*   [gofn (⭐28)](https://github.com/tiendc/gofn) - High performance utility functions written using Generics for Go 1.18+.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [mdBook (⭐15k)](https://github.com/rust-lang/mdBook) — A command line utility to create books from markdown files [![Build Status](https://github.com/rust-lang/mdBook/workflows/CI/badge.svg?branch=master)](https://github.com/rust-lang/mdBook/actions)
+*   [mdBook (⭐16k)](https://github.com/rust-lang/mdBook) — A command line utility to create books from markdown files [![Build Status](https://github.com/rust-lang/mdBook/workflows/CI/badge.svg?branch=master)](https://github.com/rust-lang/mdBook/actions)
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -36,30 +36,25 @@
 
 ### Gaming
 
-*   [Game Engine Development (⭐437)](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
+*   [Game Engine Development (⭐551)](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
 
 ## [5. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### IDE and Code Editing
 
-*   [Xamarin IDE](https://devblogs.microsoft.com/xamarin/xamarin-for-students/) \[FREE] - IDE for using C# for iOS, Android, Mac & Windows platforms.
-*   [DeepScan](https://education.github.com/pack) \[FREE] - DeepScan is a platform for building better and more reliable JavaScript apps.Free 6-month trial while you are a student.
-*   [PopSQL](https://education.github.com/pack) \[FREE] - Modern, collaborative SQL editor for your team — write queries, visualize data, and share your results.Free Premium subscription for PopSQL while you're a student.
-*   [Kodika](https://education.github.com/pack) \[FREE] - Build iOS applications with drag & drop.Kodika Unlimited Pro subscription free for 6 months.
-*   [Polypane](https://education.github.com/pack) \[FREE] - A powerful browser and developer tool that lets developers and designers make better websites and web apps in less time.Polypane free for 1 year.
-*   [Xojo](https://education.github.com/pack) \[FREE] - A cross-platform development tool for making native apps for the Desktop.Xojo Desktop license free while you are a student.
-*   [Yakindu](https://education.github.com/pack) \[FREE] - An integrated modelling environment for the specification and development of reactive, event-driven systems based on the concept of state machines.Yakindu Professional Edition free for 1 year.
+*   [DeepScan](https://education.github.com/pack) \[FREE] - DeepScan is a platform for building better and more reliable JavaScript apps. Free 6-month trial while you are a student.
+*   [PopSQL](https://education.github.com/pack) \[FREE] - Modern, collaborative SQL editor for your team — write queries, visualize data, and share your results. Free Premium subscription for PopSQL while you're a student.
+*   [Kodika](https://education.github.com/pack) \[FREE] - Build iOS applications with drag & drop. Kodika Unlimited Pro subscription free for 6 months.
+*   [Polypane](https://education.github.com/pack) \[FREE] - A powerful browser and developer tool that lets developers and designers make better websites and web apps in less time. Polypane free for 1 year.
+*   [Xojo](https://education.github.com/pack) \[FREE] - A cross-platform development tool for making native apps for the Desktop. Xojo Pro license free while you are a student.
 
 ### Version Control
 
-*   [AcessLint](https://education.github.com/pack) \[FREE] - AccessLint brings automated web accessibility testing into your development workflow\.Unlimited use for public and private repositories while you are a student.
-*   [Coveralls](https://education.github.com/pack) \[FREE] - We help you deliver code confidently by showing which parts of your code aren’t covered by your test suite.Free coverage for unlimited private repos on your personal account.
-*   [DeepSource](https://education.github.com/pack) \[FREE] - Static code analyzer for Python and Go. Detect bug risks, anti-patterns and security vulnerabilities.Free Pro subscription for students.
-*   [Side](https://education.github.com/pack) \[FREE] - Maximize your engineering team's productivity by automatically analyzing every pull request.Sider Standard Plan free while you are a student.
+*   [DeepSource](https://education.github.com/pack) \[FREE] - Static code analyzer for Python and Go. Detect bug risks, anti-patterns and security vulnerabilities. Free for students.
 
 ### Web Hosting
 
-*   [Education Host](https://education.github.com/pack) \[FREE] - Available web-hosting to students in Designer package for free for 1 year & discounted upgrade offers.Available via [Github Student Developer Pack](https://education.github.com/pack).
+*   [Education Host](https://education.github.com/pack) \[FREE] - 50% web hosting for the first year for students. Available via [Github Student Developer Pack](https://education.github.com/pack).
 
 ### Design and Photo Editing
 
@@ -101,7 +96,6 @@
 ### Visual Analytics
 
 *   [Scrapinghub](https://education.github.com/pack) \[FREE] - Scrapinghub's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
-    [Crawlbase](https://crawlbase.com/) \[FREE / CREDIT] Crawlbase, a web scraping and web crawling tool, is generously offering 5000 successful requests for free over a three-month period to students, who can take advantage of this opportunity by using the discount code 'SDNT2023'.
 *   [Typeform](https://education.github.com/pack) \[FREE] - Interactive forms, surveys & quizzes to engage and grow your audience.Free professional plan for 1 year.
 *   [Baremetrics](https://education.github.com/pack) \[FREE] - Metrics, dunning, and engagement tools for SaaS & subscription businesses.Get Baremetrics for free up to $2.5k Monthly Recurring Revenue while you are a student.
 *   [CodeScene](https://education.github.com/pack) \[FREE] - A powerful visualization tool that uses Predictive Analytics to identify social patterns in your code, detect delivery risks and manage technical debt.A free Student account to analyze private GitHub repositories.
@@ -133,13 +127,13 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [Kotlin/kotlinx-benchmark (⭐399)](https://github.com/Kotlin/kotlinx-benchmark) - A powerful library for benchmarking in Kotlin.
+*   [Kotlin/kotlinx-benchmark (⭐431)](https://github.com/Kotlin/kotlinx-benchmark) - A powerful library for benchmarking in Kotlin.
 
 ## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
+### Large Language Models (LLMs)
 
-*   [SolidUI (⭐362)](https://github.com/CloudOrc/SolidUI): AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
+*   [SolidUI (⭐465)](https://github.com/CloudOrc/SolidUI): AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -169,7 +163,7 @@
 
 ### Email / Testing
 
-*   [Flask-Mail-SendGrid (⭐15)](https://github.com/hamano/flask-mail-sendgrid) - Provides simple email base on Flask-Mail for sending email by SendGrid.
+*   [Flask-Mail-SendGrid (⭐16)](https://github.com/hamano/flask-mail-sendgrid) - Provides simple email base on Flask-Mail for sending email by SendGrid.
 
 ### Security / Testing
 
@@ -177,7 +171,7 @@
 
 ### Utils / Testing
 
-*   [Flask-Injector (⭐246)](https://github.com/python-injector/flask_injector) - Adds support for dependency injection.
+*   [Flask-Injector (⭐263)](https://github.com/python-injector/flask_injector) - Adds support for dependency injection.
 *   [Flask-SSE](https://flask-sse.readthedocs.io) - Streaming with flask.
 
 ### External Resources / Testing
@@ -194,7 +188,7 @@
 
 ### Boilerplates / Testing
 
-*   [flask-htmx-boilerplate (⭐19)](https://github.com/marcusschiesser/flask-htmx-boilerplate) - Boilerplate template for a Python Flask application with HTMX and Tailwind CSS.
+*   [flask-htmx-boilerplate (⭐21)](https://github.com/marcusschiesser/flask-htmx-boilerplate) - Boilerplate template for a Python Flask application with HTMX and Tailwind CSS.
 
 ---
 

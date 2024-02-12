@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 09 - Nov 15, 2015
 
-28 awesome lists updated this week.
+27 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,10 +24,10 @@
 
 *   [Akihabara](http://www.kesiev.com/akihabara/) is HTML5 games library for making pixel based games using Javascript and the canvas tag.
 *   [ChemDoodle](http://web.chemdoodle.com/) is an open source chemistry and chem-informatics toolkit where canvas is being used to solve common chemistry related tasks, displaying the molecules in a variety of different ways.
-*   [iio.js (⭐455)](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
+*   [iio.js (⭐457)](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
 *   [Paper.js (⭐14k)](https://github.com/paperjs/paper.js) - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
 *   [Pixi.js](http://www.pixijs.com) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback
-*   [Sketch (⭐4k)](https://github.com/soulwire/sketch.js) - Cross-Platform JavaScript Creative Coding Framework
+*   [Sketch (⭐4.1k)](https://github.com/soulwire/sketch.js) - Cross-Platform JavaScript Creative Coding Framework
 
 ## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -118,11 +118,11 @@
 
 ### CLI Utilities
 
-*   [Pastel (⭐627)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
+*   [Pastel (⭐626)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
 
 ### Code Analysis and Metrics
 
-*   [Pippi (⭐286)](https://github.com/tcopeland/pippi) - A utility for finding suboptimal Ruby class API usage, focused on runtime analysis.
+*   [Pippi (⭐287)](https://github.com/tcopeland/pippi) - A utility for finding suboptimal Ruby class API usage, focused on runtime analysis.
 
 ### Database Tools
 
@@ -131,16 +131,16 @@
 ### Natural Language Processing
 
 *   [Parslet](http://kschiess.github.io/parslet/) - A small Ruby library for constructing parsers in the PEG (Parsing Expression Grammar) fashion.
-*   [Treetop (⭐296)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
+*   [Treetop (⭐299)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
 
 ### Queues and Messaging
 
-*   [Bunny (⭐1.3k)](https://github.com/ruby-amqp/bunny) - Bunny is a popular, easy to use, well-maintained Ruby client for RabbitMQ (3.3+).
+*   [Bunny (⭐1.4k)](https://github.com/ruby-amqp/bunny) - Bunny is a popular, easy to use, well-maintained Ruby client for RabbitMQ (3.3+).
 *   [March Hare (⭐98)](https://github.com/ruby-amqp/march_hare) - Idiomatic, fast and well-maintained JRuby client for RabbitMQ.
 
 ### Search
 
-*   [elastics (⭐100)](https://github.com/printercu/elastics-rb) - Simple ElasticSearch client with support for migrations and ActiveRecord integration.
+*   [elastics (⭐101)](https://github.com/printercu/elastics-rb) - Simple ElasticSearch client with support for migrations and ActiveRecord integration.
 
 ## [12. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
@@ -190,7 +190,7 @@
 
 ### Contents / Tools
 
-*   [picotool (⭐345)](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
+*   [picotool (⭐353)](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
 
 ## [18. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
@@ -211,7 +211,7 @@
 
 ### Queue
 
-*   [toniq (⭐340)](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
+*   [toniq (⭐342)](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
 
 ## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -283,7 +283,7 @@ git describe --tags --abbrev=0
 ### Software / Middlewares
 
 *   [IFTTT](https://ifttt.com/) - IFTTT is a web-based service that allows users to create chains of simple conditional statements, called "recipes", which are triggered based on changes to other web services such as Gmail, Facebook, Instagram, and Pinterest. IFTTT is an abbreviation of "If This Then That" (pronounced like "gift" without the "g").
-*   [Huginn (⭐38k)](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
+*   [Huginn (⭐40k)](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
 
 ### Software / Miscellaneous
 
@@ -293,11 +293,11 @@ git describe --tags --abbrev=0
 
 ### Packages / Mad science
 
-*   [ipfs (⭐7.5k)](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
+*   [ipfs (⭐7.4k)](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
 
 ### Packages / Command-line apps
 
-*   [Jsome (⭐239)](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
+*   [Jsome (⭐240)](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
 
 ### Packages / Command-line utilities
 
@@ -322,16 +322,16 @@ git describe --tags --abbrev=0
 
 ### Packages / Compression
 
-*   [Archiver (⭐2.6k)](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
+*   [Archiver (⭐2.7k)](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
 
 ### Packages / Testing
 
-*   [Sinon.JS (⭐9.4k)](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks.
+*   [Sinon.JS (⭐9.5k)](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks.
 
 ### Packages / Minifiers
 
-*   [minimize (⭐162)](https://github.com/Swaagie/minimize) - HTML minifier.
-*   [imagemin (⭐5.4k)](https://github.com/imagemin/imagemin) - Image minifier.
+*   [minimize (⭐164)](https://github.com/Swaagie/minimize) - HTML minifier.
+*   [imagemin (⭐5.5k)](https://github.com/imagemin/imagemin) - Image minifier.
 
 ### Packages / Node.js management
 
@@ -360,21 +360,7 @@ git describe --tags --abbrev=0
 *   [GMStepper (⭐922)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 *   [StarryStars (⭐174)](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
 
-## [26. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Agda
-
-*   [Agda Tutorial](http://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
-
-### Groovy / Spock Framework
-
-*   [Spock Framework Reference Documentation](https://spockframework.github.io/spock/docs/current/index.html) - Peter Niederwieser
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [A Guide to Python's Magic Methods (⭐1.7k)](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
-
-## [27. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [26. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Blog posts
 
@@ -404,7 +390,7 @@ git describe --tags --abbrev=0
 
 ### Table of Contents / Repos
 
-*   [J-Bob (⭐402)](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
+*   [J-Bob (⭐409)](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
 
 ### Table of Contents / People
 
@@ -414,7 +400,7 @@ git describe --tags --abbrev=0
 *   [Erik Meijer](https://www.linkedin.com/pub/erik-meijer/0/5ba/924) - Former software architect for Microsoft, Functional Programming researcher, gives lectures on	FP, Software Design and Reactive programming.
 *   [Brian Beckman](https://www.linkedin.com/in/brianbeckman) - Former Microsoft Researcher, actual Software Engineer at Amazon. Contributed to implementing FP features to inumerous Microsoft technologies such as C#, LINQ and F#
 
-## [28. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [27. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Programming Languages / JavaScript
 

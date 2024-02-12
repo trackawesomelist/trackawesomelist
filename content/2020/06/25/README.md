@@ -70,7 +70,7 @@
 
 ### Software / Password Managers
 
-*   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐4k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP/deb/K8S/Docker`
+*   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐4.2k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP/deb/K8S/Docker`
 
 ## [4. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -89,11 +89,11 @@
 
 ### Calendar / Barcode
 
-*   [HorizonCalendar (⭐2.5k)](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
+*   [HorizonCalendar (⭐2.6k)](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
 
 ### Walkthrough / Barcode
 
-*   [SuggestionsKit (⭐68)](https://github.com/huemae/SuggestionsKit) - Library for educating users about features in app.
+*   [SuggestionsKit (⭐69)](https://github.com/huemae/SuggestionsKit) - Library for educating users about features in app.
 
 ## [7. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
@@ -106,13 +106,13 @@
 *   [Prisma Delete - workaround missing cascade deletes function in prisma migration](https://paljs.com/plugins/delete)
 *   [Prisma schema - convert schema.prisma file to javascript object or from Snake case to Camel case](https://paljs.com/cli/schema)
 *   [Prisma admin React component](https://paljs.com/prisma-admin)
-*   [Starter Template for NestJS and Prisma (⭐19)](https://github.com/fivethree-team/nestjs-prisma-starter)
+*   [Starter Template for NestJS and Prisma (⭐18)](https://github.com/fivethree-team/nestjs-prisma-starter)
 
 ## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
-### Individual components / Others
+### 2D/3D Rendering engines / Others
 
-*   [Texnomic.Blazor.hCaptcha (⭐6)](https://github.com/Texnomic/hCaptcha) - ![last commit](https://img.shields.io/github/last-commit/Texnomic/hCaptcha?style=flat-square\&cacheSeconds=86400) hCaptcha Component for Server-Side Blazor.
+*   [Texnomic.Blazor.hCaptcha (⭐7)](https://github.com/Texnomic/hCaptcha) - ![last commit](https://img.shields.io/github/last-commit/Texnomic/hCaptcha?style=flat-square\&cacheSeconds=86400) hCaptcha Component for Server-Side Blazor.
 
 ---
 

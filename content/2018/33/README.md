@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 13 - Aug 19, 2018
 
-43 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -171,11 +171,11 @@
 
 ### System Utilities / Directory Navigation
 
-*   [hblock (⭐1.3k)](https://github.com/hectorm/hblock) - Hosts-file based adblocker
+*   [hblock (⭐1.4k)](https://github.com/hectorm/hblock) - Hosts-file based adblocker
 
 ### Shell Package Management / Directory Navigation
 
-*   [bashing (⭐70)](https://github.com/xsc/bashing) - Smashing Bash into Pieces
+*   [bashing (⭐72)](https://github.com/xsc/bashing) - Smashing Bash into Pieces
 
 ## [14. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -187,18 +187,18 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Kalimdor.js (⭐533)](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
+*   :octocat: [Kalimdor.js (⭐535)](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
 
 ## [16. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Computer Science
 
-*   [Cryptography (⭐5k)](https://github.com/sobolevn/awesome-cryptography#readme)
+*   [Cryptography (⭐5.1k)](https://github.com/sobolevn/awesome-cryptography#readme)
     *   [Papers (⭐1.6k)](https://github.com/pFarb/awesome-crypto-papers#readme) - Theory basics for using cryptography by non-cryptographers.
 
 ### Media
 
-*   [FFmpeg (⭐892)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
+*   [FFmpeg (⭐912)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 
 ## [17. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
@@ -286,11 +286,11 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [eaopt (⭐848)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
+*   [eaopt (⭐869)](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [19 Questions (⭐15)](https://github.com/fulldecent/19-questions) - A machine learning / bayesian inference assigning attributes to objects.
+*   [19 Questions (⭐17)](https://github.com/fulldecent/19-questions) - A machine learning / bayesian inference assigning attributes to objects.
 
 ### Python / Natural Language Processing
 
@@ -298,7 +298,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [keras (⭐59k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐178k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.8k)](https://github.com/Theano/Theano).
+*   [keras (⭐60k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐180k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.8k)](https://github.com/Theano/Theano).
 
 ## [23. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -346,7 +346,7 @@
 
 ### Third party Guides
 
-*   [swift-tips (⭐966)](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles.
+*   [swift-tips (⭐968)](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles.
 
 ### Other Awesome Lists
 
@@ -366,15 +366,15 @@
 
 ### Command Line
 
-*   [LineNoise (⭐129)](https://github.com/andybest/linenoise-swift) :penguin: - A zero-dependency replacement for readline.
+*   [LineNoise (⭐130)](https://github.com/andybest/linenoise-swift) :penguin: - A zero-dependency replacement for readline.
 
 ### JSON
 
-*   [EVReflection (⭐966)](https://github.com/evermeer/EVReflection) - Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable.
+*   [EVReflection (⭐965)](https://github.com/evermeer/EVReflection) - Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable.
 
 ### Key Value Store
 
-*   [Default (⭐472)](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support.
+*   [Default (⭐473)](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support.
 
 ### Other Data
 
@@ -383,7 +383,7 @@
 ### Dependency Injection
 
 *   [Deli (⭐135)](https://github.com/kawoou/Deli) - Deli is an easy-to-use Dependency Injection(DI).
-*   [Weaver (⭐720)](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework.
+*   [Weaver (⭐723)](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework.
 
 ### Images / Barcode
 
@@ -426,7 +426,7 @@
 
 ### Architecture support crates / ARM
 
-*   [`cortex-a`](https://github.com/andre-richter/cortex-a) Low level access to Cortex-A processors (early state) - ![crates.io](https://img.shields.io/crates/v/cortex-a.svg)
+*   [`cortex-a`](https://github.com/andre-richter/cortex-a) Low-level access to Cortex-A processors (early state) - ![crates.io](https://img.shields.io/crates/v/cortex-a.svg)
 
 ## [31. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -440,96 +440,7 @@
 
 *   [Ali Spittel (⭐10)](https://github.com/aspittel/ama) - Teaching code, Python and JavaScript developer, blogger.
 
-## [33. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Ada
-
-*   [Ada Programming](https://en.wikibooks.org/wiki/Ada_Programming) - Wikibooks
-
-### Assembly Language / Blazor
-
-*   [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly) - Wikibooks
-
-### Awk / Non-X86
-
-*   [An Awk Primer](https://en.wikibooks.org/wiki/An_Awk_Primer) - Wikibooks
-
-### C# / Non-X86
-
-*   [C# Programming](https://en.wikibooks.org/wiki/C_Sharp_Programming) - Wikibooks
-
-### Clojure / Non-X86
-
-*   [Clojure Programming](https://en.wikibooks.org/wiki/Clojure_Programming) - Wikibooks
-
-### Erlang / Phoenix
-
-*   [Erlang Programming](https://en.wikibooks.org/wiki/Erlang_Programming) - Wikibooks (HTML)
-
-### F Sharp / Phoenix
-
-*   [F# Programming](https://en.wikibooks.org/wiki/F_Sharp_Programming) - Wikibooks
-
-### Haskell / Spock Framework
-
-*   [Haskell](https://en.wikibooks.org/wiki/Haskell) - Wikibooks
-
-### Julia / Vue.js
-
-*   [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia) - Wikibooks
-
-### LaTeX / TeX / LaTeX
-
-*   [LaTeX](https://en.wikibooks.org/wiki/LaTeX) - Wikibooks
-
-### Linux / TeX
-
-*   [Ad Hoc Data Analysis From The Unix Command Line](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line) - Wikibooks
-
-### Lua / PicoLisp
-
-*   [Lua Programming](https://en.wikibooks.org/wiki/Lua_Programming) - Wikibooks
-
-### MATLAB / PicoLisp
-
-*   [MATLAB Programming](https://en.wikibooks.org/wiki/MATLAB_Programming) - Wikibooks
-
-### .NET Framework / PicoLisp
-
-*   [Game Creation with XNA](https://en.wikibooks.org/wiki/Game_Creation_with_XNA) - Wikibooks
-
-### Octave / PicoLisp
-
-*   [Octave Programming](https://en.wikibooks.org/wiki/Octave_Programming_Tutorial) - Wikibooks
-
-### OpenSCAD / PicoLisp
-
-*   [OpenSCAD User Manual](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual) - Wikibooks
-
-### PHP / PicoLisp
-
-*   [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming) - Wikibooks
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial) - Wikibooks
-*   [Python Programming](https://en.wikibooks.org/wiki/Python_Programming) - Wikibooks (2.7)
-*   [Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) - Wikibooks (PDF) (2.6)
-
-### R / Tornado
-
-*   [R Programming](https://en.wikibooks.org/wiki/R_Programming) - Wikibooks
-
-### Scheme / Play Scala
-
-*   [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) - Wikibooks
-
-### xBase (dBase / Clipper / Harbour) / Vulkan
-
-*   [Application Development with Harbour](https://en.wikibooks.org/wiki/Application_Development_with_Harbour) - Wikibooks
-*   [Clipper Tutorial: a Guide to Open Source Clipper(s)](https://en.wikibooks.org/wiki/Clipper_Tutorial%3A_a_Guide_to_Open_Source_Clipper\(s\)) - Wikibooks
-
-## [34. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [33. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / Language Bindings
 
@@ -623,7 +534,7 @@
 
 *   [Cromwell (⭐881)](https://github.com/broadinstitute/cromwell#spark-backend) <img src="https://img.shields.io/github/last-commit/broadinstitute/cromwell.svg"> - Workflow management system with [Spark backend (⭐881)](https://github.com/broadinstitute/cromwell#spark-backend).
 
-## [35. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [34. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Articles
 
@@ -634,16 +545,15 @@
 
 *   [LGTM](https://lgtm.com) Automated Git code review for GitHub and Bitbucket pull requests for finding security vulnerabilities and code quality issues.
 *   [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
-*   [Pull Reminders](https://pullreminders.com) Automated Slack reminders and metrics for GitHub pull requests.
 *   [Rubberduck](https://www.rubberduck.io) Browser extension to adds code-aware navigation to GitHub pull requests.
 
-## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Service Level Agreement
 
 *   [SLOs & You: A Guide To Service Level Objectives](https://www.circonus.com/2018/07/a-guide-to-service-level-objectives/)
 
-## [37. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [36. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Wallets and Toolkits / Desktop
 
@@ -696,13 +606,13 @@
 
 *   [eosfilestore (⭐45)](https://github.com/grigio/eosfilestore) - Immutable, censorship resistant, cheap, file storage on EOSIO blockchain.
 
-## [38. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [37. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [malice.io (⭐1.4k)](https://github.com/maliceio/malice) - Massively scalable malware analysis framework.
 
-## [39. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
+## [38. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
 ### Documentation and Resources / Display Manager
 
@@ -719,7 +629,7 @@
 *   [Kreddit](https://www.reddit.com/r/kde/) - KDE Community on Reddit.
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/kde) - Questions tagged with `kde`.
 
-## [40. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [39. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Clocks
 
@@ -729,13 +639,13 @@
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/colorClockSaver.png)](https://github.com/edwardloveall/colorclocksaver)
 
-## [41. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [40. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Content Management Systems / Videos
 
 *   [SleepingOwlAdmin (⭐744)](https://github.com/LaravelRUS/SleepingOwlAdmin)
 
-## [42. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
+## [41. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
 ### Types of QA / Subtypes of QA
 
@@ -759,7 +669,7 @@
     *   DrQA <a name="drqa"></a>
         *   [Reading Wikipedia to Answer Open-Domain Questions](https://cs.stanford.edu/people/danqi/papers/acl2017.pdf), Danqi Chen, Adam Fisch, Jason Weston & Antoine Bordes, ACL, 2017.
 
-## [43. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [42. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Elastic Compute Cloud
 

@@ -109,7 +109,7 @@
 
 ### For Electron / Other
 
-*   [electron-pdf-window (⭐271)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
+*   [electron-pdf-window (⭐274)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
 
 ## [6. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -148,7 +148,7 @@
 
 ### Web Programming • Libraries
 
-*   [three.js (⭐93k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
+*   [three.js (⭐96k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
 
 ### Inspiration / Other
 

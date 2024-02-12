@@ -35,25 +35,25 @@
 
 ### Awesome Repositories
 
-- Repository: [Reversing (⭐3.2k)](https://github.com/fdivrp/awesome-reversing)
+- Repository: [Reversing (⭐3.7k)](https://github.com/fdivrp/awesome-reversing)
 
   Description: List of awesome reverse engineering resources
 
 
-- Repository: [Vehicle Security (⭐2.2k)](https://github.com/jaredthecoder/awesome-vehicle-security)
+- Repository: [Vehicle Security (⭐2.7k)](https://github.com/jaredthecoder/awesome-vehicle-security)
 
   Description: List of resources for learning about vehicle security and car hacking
 
 
 
-### Other useful repositories
+### Other Useful Repositories
 
-- Repository: [Free Programming Books (⭐252k)](https://github.com/EbookFoundation/free-programming-books)
+- Repository: [Free Programming Books (⭐306k)](https://github.com/EbookFoundation/free-programming-books)
 
   Description: Free programming books for developers
 
 
-- Repository: [ThreatHunter-Playbook (⭐3.3k)](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook)
+- Repository: [ThreatHunter-Playbook (⭐3.7k)](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook)
 
   Description: A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
 
@@ -69,7 +69,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyTorch (⭐71k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+*   [PyTorch (⭐74k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -114,7 +114,7 @@ git push -u origin <branch_name>
 
 ### Device
 
-*   [UIDeviceComplete (⭐414)](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
+*   [UIDeviceComplete (⭐415)](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
 
 ## [15. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
 

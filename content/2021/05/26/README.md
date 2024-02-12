@@ -24,13 +24,13 @@
 
 ### Monitoring & Quality Control
 
-*   [MXF Inspect (⭐25)](https://github.com/Myriadbits/MXFInspect) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
+*   [MXF Inspect (⭐32)](https://github.com/Myriadbits/MXFInspect) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Payment / Barcode
 
-*   [TPInAppReceipt (⭐582)](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
+*   [TPInAppReceipt (⭐587)](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
 
 ## [4. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
@@ -62,28 +62,36 @@
 
 ### Python / Indicators
 
-*   [lppls (⭐287)](https://github.com/Boulder-Investment-Technologies/lppls) - A Python module for fitting the [Log-Periodic Power Law Singularity (LPPLS)](https://en.wikipedia.org/wiki/Didier_Sornette#The_JLS_and_LPPLS_models) model.
+*   [lppls (⭐307)](https://github.com/Boulder-Investment-Technologies/lppls) - A Python module for fitting the [Log-Periodic Power Law Singularity (LPPLS)](https://en.wikipedia.org/wiki/Didier_Sornette#The_JLS_and_LPPLS_models) model.
 
 ### R / Backtesting
 
-*   [quantstrat (⭐260)](https://github.com/braverock/quantstrat) - Transaction-oriented infrastructure for constructing trading systems and simulation. Provides support for multi-asset class and multi-currency portfolios for backtesting and other financial research.
+*   [quantstrat (⭐263)](https://github.com/braverock/quantstrat) - Transaction-oriented infrastructure for constructing trading systems and simulation. Provides support for multi-asset class and multi-currency portfolios for backtesting and other financial research.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Official Links
 
-*   [JetBrains/kotlin (⭐46k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
+*   [JetBrains/kotlin (⭐47k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ## [7. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Golem
 
 *   [Golem Network Platform](https://www.golem.network/platform) - Learn the Golem platform on the official Golem Network website.
-*   [Yagna GitHub (⭐274)](https://github.com/golemfactory/yagna) - The official Rust implementation of Golem.
+
+### Developer and Requestor Resources
+
+*   [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna) - Use the Yagna tag if you have an interesting question you'd like answered.
+
+### Unraveling Golem's The Next Milestone Blog Series
+
+*   [Unraveling Golem's The Next Milestone, Part II](https://blog.golemproject.net/next-milestone-part-ii/) - Fundamental architectural concepts which constitute the foundations of the new implemenation of Golem, Yagna.
+*   [Unraveling Golem's The Next Milestone, Part III](https://blog.golemproject.net/next-milestone-part-iii/) - The elements of Golem's reference architecture, and illustrates how they interact to form a working ecosystem, being the Golem Network.
 
 ### Apps
 
-*   [Go le' Machin (⭐2)](https://github.com/DEUTSCHKLUB/go-le-m) - Web based bulk image editor that allows users to upload multiple images and apply bulk actions to them.
+*   [Go le' Machin (⭐1)](https://github.com/DEUTSCHKLUB/go-le-m) - Web based bulk image editor that allows users to upload multiple images and apply bulk actions to them.
 
 ### Apps / Testing
 
@@ -91,7 +99,7 @@
 
 ### Apps / Games
 
-*   [Golem Sudoku (⭐2)](https://github.com/Dodecane/golem-sudoku) - Game of Sudoku with size variants.
+*   [Golem Sudoku (⭐1)](https://github.com/Dodecane/golem-sudoku) - Game of Sudoku with size variants.
 
 ### Apps / Data Analysis
 
@@ -99,20 +107,20 @@
 
 ### Apps / Data Simulation
 
-*   [Golem Array (⭐5)](https://github.com/johngrantuk/golem-array) - Antenna array design and simulation.
+*   [Golem Array (⭐6)](https://github.com/johngrantuk/golem-array) - Antenna array design and simulation.
 
 ### Apps / Data Optimization
 
-*   [Golem or-tools (⭐1)](https://github.com/Doc-Saintly/golem-ortools) - Uses the or-tools Constraint Programming library to solve problems.
+*   [Golem or-tools (⭐0)](https://github.com/Doc-Saintly/golem-ortools) - Uses the or-tools Constraint Programming library to solve problems.
 
 ### Apps / Machine Learning
 
-*   [DeML-Golem (⭐32)](https://github.com/anshuman73/DeML-Golem) - Decentralised Machine Learning using Federated Learning to combine the sub-step models, it trains on different provider nodes into a full fleged model.
+*   [DeML-Golem (⭐40)](https://github.com/anshuman73/DeML-Golem) - Decentralised Machine Learning using Federated Learning to combine the sub-step models, it trains on different provider nodes into a full fleged model.
 
 ### Apps / Deep Learning
 
-*   [Mlg (⭐2)](https://github.com/rezahsnz/mlg) - CNN predict services, a deep learning application that distributes popular CNNs pre-trained with ImageNet datasets.
-*   [Deepart Golem (⭐3)](https://github.com/echinocacti/deepart_golem) - Makes art using distributed computing by running a tensorflow app, uploading your content and style picture.
+*   [Mlg (⭐1)](https://github.com/rezahsnz/mlg) - CNN predict services, a deep learning application that distributes popular CNNs pre-trained with ImageNet datasets.
+*   [Deepart Golem (⭐2)](https://github.com/echinocacti/deepart_golem) - Makes art using distributed computing by running a tensorflow app, uploading your content and style picture.
 
 ### Apps / Password Recovery
 
@@ -122,39 +130,11 @@
 
 *   [Golem Image Sharpening (⭐0)](https://github.com/visualNext/golem) - A tool to sharpen images.
 
-### Developer and Requestor Resources / Miscellaneous
-
-*   [Requestor flash tutorial](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development) - Get started quick and create your first tasks/request on Golem.
-*   [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna) - Use the Yagna tag if you have an interesting question you'd like answered.
-*   [Breakdown of blender.js](https://docs.google.com/document/d/e/2PACX-1vRONc0RRaqImJumYQ3SmILtLo4jiCYgtE0AO3JfpMy0b0-BjAU8TvlIHdtbrs5cDrMbuPFv7khE47MO/pub) - JS guide for developers to get a better idea of how to run a task with the JavaScript API.
-
-### Provider Resources / Miscellaneous
-
-*   [Provider Tutorial](https://handbook.golem.network/provider-tutorials/provider-tutorial) - Get started as a Provider on Golem Network using the handbook.
-*   [Provider FAQ (⭐9)](https://github.com/figurestudios/community-golem-docs/blob/main/providing/provider-faq.md) - Community curated list of commonly asked questions and answers.
-
-### Provider Resources / Provisioning
-
-*   [WSL (⭐1)](https://github.com/r34x/WSL) - Allows Windows users to run Golem within Windows Subsystem for Linux. Removing the requirement of Windows users needing to use a Virtual Machine.
-
-### Learning Resources / Presentations and Workshop Material
-
-*   [Golem: Growing an ecosystem the Golem way with María Paula Fernández at 0xHack](https://youtu.be/FmrdyU90NVE) - High-level overview and introduction to Golem as a project.
-
-### Learning Resources / Unraveling Golem's The Next Milestone Blog Series
-
-*   [Unraveling Golem's The Next Milestone, Part II](https://blog.golemproject.net/next-milestone-part-ii/) - Fundamental architectural concepts which constitute the foundations of the new implemenation of Golem, Yagna.
-*   [Unraveling Golem's The Next Milestone, Part III](https://blog.golemproject.net/next-milestone-part-iii/) - The elements of Golem's reference architecture, and illustrates how they interact to form a working ecosystem, being the Golem Network.
-
-### Community / GitHub Digest Blog Series
-
-*   [Golem Network Discussion Group](https://t.me/GolemProject) - Community driven Telegram channel.
-
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-vconsole (⭐58)](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
+*   [vite-plugin-vconsole (⭐61)](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

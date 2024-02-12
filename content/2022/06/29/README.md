@@ -10,7 +10,7 @@
 
 ### REST and API
 
-*   [SwaggerBake plugin (⭐53)](https://github.com/cnizzardini/cakephp-swagger-bake) - This plugin automatically builds OpenAPI from your existing models and routes for display in Swagger and Redoc.
+*   🍰 [SwaggerBake plugin (⭐54)](https://github.com/cnizzardini/cakephp-swagger-bake) - This plugin automatically builds OpenAPI from your existing models and routes for display in Swagger and Redoc.
 
 ## [2. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -42,11 +42,7 @@
 
 ### Apps / CLI Tools
 
-*   [gc\_\_push\_image (⭐1)](https://github.com/figurestudios/gc__push_image) - A CLI tool that publishes the GVMI image to Skynet, making users able to change the image\_url without self-hosting/giving up control.
-
-### Developer and Requestor Resources / Miscellaneous
-
-*   [push-gvmi (⭐1)](https://github.com/figurestudios/push-gvmi) - A GitHub action that automatically builds and uploads the GVMI image to Golem plus a way to scrape the newest hash for local usage.
+*   [gc\_\_push\_image (⭐0)](https://github.com/figurestudios/gc__push_image) - A CLI tool that publishes the GVMI image to Skynet, making users able to change the image\_url without self-hosting/giving up control.
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -62,7 +58,7 @@
 
 ### Network / Full Packet Capture / Forensic
 
-*   [Deepfence PacketStreamer (⭐1.9k)](https://github.com/deepfence/PacketStreamer) - High-performance remote packet capture and collection tool, distributed tcpdump for cloud native environments.
+*   [Deepfence PacketStreamer (⭐1.8k)](https://github.com/deepfence/PacketStreamer) - High-performance remote packet capture and collection tool, distributed tcpdump for cloud native environments.
 
 ## [8. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 

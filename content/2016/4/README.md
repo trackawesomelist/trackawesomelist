@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25 - Jan 31, 2016
 
-44 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -11,7 +11,7 @@
 ### Libraries / Game development
 
 *   Corange
-    *   [lucidscape/corange-rs (⭐45)](https://github.com/lucidscape/corange-rs) — [Corange (⭐1.7k)](https://github.com/orangeduck/Corange) bindings
+    *   [lucidscape/corange-rs (⭐46)](https://github.com/lucidscape/corange-rs) — [Corange (⭐1.7k)](https://github.com/orangeduck/Corange) bindings
 
 ## [2. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
@@ -591,31 +591,86 @@ git config --global help.autocorrect 1
 
 *   Michaël Gallego <http://www.michaelgallego.fr/articles/>
 
-## [12. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [12. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+
+### Table of Contents / Micro Framework Extras
+
+*   [Slim Skeleton (⭐1.5k)](https://github.com/slimphp/Slim-Skeleton) - A skeleton for Slim.
+
+### Table of Contents / Imagery
+
+*   [Color Extractor (⭐1.3k)](https://github.com/thephpleague/color-extractor) - A library for extracting colours from images.
+
+### Table of Contents / Debugging and Profiling
+
+*   [PHPBench (⭐1.8k)](https://github.com/phpbench/phpbench) - A benchmarking Framework.
+
+### Table of Contents / Asset Management
+
+*   [JShrink (⭐740)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
+
+### Table of Contents / Geolocation
+
+*   [GeoTools (⭐1.4k)](https://github.com/thephpleague/geotools) - A library of geo-related tools.
+
+### Table of Contents / Office
+
+*   [PHPPowerPoint (⭐1.3k)](https://github.com/PHPOffice/PHPPresentation) - A library for working with Microsoft PowerPoint Presentations.
+
+### Table of Contents / Command Line
+
+*   [Boris (⭐2.2k)](https://github.com/borisrepl/boris) - A tiny PHP REPL.
+
+### Table of Contents / Caching and Locking
+
+*   [Stash (⭐952)](https://github.com/tedious/Stash) - Another library for caching.
+
+### Table of Contents / Data Structure and Storage
+
+*   [Fractal (⭐3.5k)](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
+
+### Configuration / PHP Installation
+
+*   [PHP Brew (⭐5.3k)](https://github.com/phpbrew/phpbrew) - A PHP version manager and installer.
+
+### Configuration / Virtual Machines
+
+*   [HHVM (⭐18k)](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
+
+### Configuration / Web Applications
+
+*   [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
+*   [phpMyAdmin (⭐6.9k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
+
+### Configuration / PHP Books
+
+*   [PHP 7 Upgrade Guide](https://leanpub.com/php7) - An ebook covering all of the features and changes in PHP 7 by Colin O'Dell.
+
+## [13. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Aggregated Content / Icons Packages and Collections
 
 *   [The Stocks](http://thestocks.im/) - The best royalty free stock photos in one place.
 
-## [13. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [14. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### ORM
 
 *   [phalcon-boundmodels (⭐4)](https://github.com/SidRoberts/phalcon-boundmodels) - Automatically get models based on dispatcher parameters within the Phalcon framework
 
-## [14. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [15. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### Books
 
 *   [Mastering Backbone.js](http://www.amazon.com/dp/1783288493) by Abiee Echamea
 
-## [15. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [16. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### serialization
 
-*   [rgeo-geojson (⭐180)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
+*   [rgeo-geojson (⭐181)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
 
-## [16. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [17. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
@@ -625,91 +680,24 @@ git config --global help.autocorrect 1
 
 *   [Mono Social Icons Font](http://drinchev.github.io/monosocialiconsfont/)
 
-## [17. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [18. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Images, Maps and Charts / Paid Books
 
 *   [Unite Gallery (⭐530)](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin.
 *   [Viewer (⭐1k)](https://github.com/fengyuanchen/viewer) - A simple jQuery image viewing plugin.
 
-## [18. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [19. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Boilerplates / Brunch Plugins
 
 *   [es6-jspm-gulp-boilerplate (⭐137)](https://github.com/alexweber/es6-jspm-gulp-boilerplate) - Tooling to allow the community to use es6 now via babel in conjunction jspm, with source maps, concatenation, minification, compression, and unit testing in real browsers using es6.
 
-## [19. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [20. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Papers
 
 *   [Mastering the Game of Go with Deep Neural Networks and Tree Search](http://www.nature.com/nature/journal/v529/n7587/pdf/nature16961.pdf)
-
-## [20. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
-
-### Table of Contents / Dependency Management Extras
-
-*   [Prestissimo (⭐6.3k)](https://github.com/hirak/prestissimo) - A composer plugin which enables parallel install process.
-
-### Table of Contents / Micro Framework Extras
-
-*   [Slim Skeleton (⭐1.5k)](https://github.com/slimphp/Slim-Skeleton) - A skeleton for Slim.
-
-### Table of Contents / Imagery
-
-*   [Color Extractor (⭐1.2k)](https://github.com/thephpleague/color-extractor) - A library for extracting colours from images.
-
-### Table of Contents / Debugging and Profiling
-
-*   [PHPBench (⭐1.6k)](https://github.com/phpbench/phpbench) - A benchmarking Framework.
-
-### Table of Contents / Asset Management
-
-*   [JShrink (⭐676)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
-
-### Table of Contents / Geolocation
-
-*   [GeoTools (⭐1.3k)](https://github.com/thephpleague/geotools) - A library of geo-related tools.
-
-### Table of Contents / PDF
-
-*   [WKHTMLToPDF (⭐13k)](https://github.com/wkhtmltopdf/wkhtmltopdf) - A tool to convert HTML to PDF.
-
-### Table of Contents / Office
-
-*   [PHPPowerPoint (⭐1.2k)](https://github.com/PHPOffice/PHPPresentation) - A library for working with Microsoft PowerPoint Presentations.
-
-### Table of Contents / Command Line
-
-*   [Boris (⭐2.2k)](https://github.com/borisrepl/boris) - A tiny PHP REPL.
-
-### Table of Contents / Caching and Locking
-
-*   [Stash (⭐943)](https://github.com/tedious/Stash) - Another library for caching.
-
-### Table of Contents / Data Structure and Storage
-
-*   [Fractal (⭐3.5k)](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
-
-### Configuration / PHP Installation
-
-*   [PHP Brew (⭐5k)](https://github.com/phpbrew/phpbrew) - A PHP version manager and installer.
-
-### Configuration / Virtual Machines
-
-*   [HHVM (⭐17k)](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
-
-### Configuration / Web Applications
-
-*   [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
-*   [phpMyAdmin (⭐6.2k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
-
-### Configuration / PHP Websites
-
-*   [PHP Best Practices](https://phpbestpractices.org/) - A PHP best practice guide.
-
-### Configuration / PHP Books
-
-*   [PHP 7 Upgrade Guide](https://leanpub.com/php7) - An ebook covering all of the features and changes in PHP 7 by Colin O'Dell.
 
 ## [21. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
 
@@ -737,7 +725,7 @@ git config --global help.autocorrect 1
 
 ### Other Tools
 
-*   [git2r (⭐190)](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
+*   [git2r (⭐211)](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
 
 ## [23. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
@@ -754,9 +742,9 @@ git config --global help.autocorrect 1
 
 ### GUI Libs / XML
 
-*   [DLangUI (⭐772)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE (⭐425)](https://github.com/buggins/dlangide).
+*   [DLangUI (⭐778)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE (⭐430)](https://github.com/buggins/dlangide).
 *   [DWT (⭐140)](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
-*   [dqml (⭐40)](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
+*   [dqml (⭐41)](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
 
 ### Games / XML
 
@@ -889,8 +877,8 @@ git config --global help.autocorrect 1
 
 ### Benchmark / Runner
 
-*   [benchmark.js (⭐5.4k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
-*   [matcha (⭐555)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
+*   [benchmark.js (⭐5.5k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
+*   [matcha (⭐559)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
 ## [30. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -926,21 +914,7 @@ git config --global help.autocorrect 1
 
 *   [RxJava's repeatWhen and retryWhen, explained](http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/) - `repeatWhen` and `retryWhen` are fairly baffling at first glance. Dan Lew explains the operators in depth.
 
-## [33. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### HTML and CSS / Spock Framework
-
-*   [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)
-
-### Objective-C / PicoLisp
-
-*   [Object-Oriented Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005149)
-
-### Swift / Play Scala
-
-*   [Hacking with Swift](https://www.hackingwithswift.com)
-
-## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Events
 
@@ -959,7 +933,7 @@ git config --global help.autocorrect 1
 
 *   [SwiftyFORM (⭐1.1k)](https://github.com/neoneye/SwiftyFORM) - Forms that can be validated.
 
-## [35. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
+## [34. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
 ### Community
 
@@ -992,17 +966,17 @@ git config --global help.autocorrect 1
 *   [log (⭐11)](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
 *   [set-or-print (⭐4)](https://github.com/AljoschaMeyer/vorpal-setorprint) - Easily set / get arguments with commands.
 
-## [36. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [35. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
-*   [pkg-dir (⭐225)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
+*   [pkg-dir (⭐227)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 
 ### Packages / Date
 
 *   [tz-format (⭐10)](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
 
-## [37. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [36. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Cross Browser / Articles
 
@@ -1013,25 +987,25 @@ git config --global help.autocorrect 1
 *   [Flexbox playground](https://web.archive.org/web/20151207135410/http://flexiejs.com/playground/)
 *   [Flexbox property manipulator](http://codepen.io/enxaneta/full/adLPwv/)
 
-## [38. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [37. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
-*   [slugify (⭐290)](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
+*   [slugify (⭐293)](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
 
 ### Applications / Directory Navigation
 
 *   [fanyi (⭐1.3k)](https://github.com/afc163/fanyi) - Translate English to Chinese in terminal
-*   [hn-cli (⭐458)](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
-*   [whereami (⭐155)](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
+*   [hn-cli (⭐459)](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
+*   [whereami (⭐159)](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
 
-## [39. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [38. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Probability and Statistics / Statistics
 
 *   [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
 
-## [40. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
+## [39. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
 
 ### Guidelines / SVG
 
@@ -1039,7 +1013,7 @@ git config --global help.autocorrect 1
     *   [Guidelines for animations](https://msdn.microsoft.com/en-us/library/windows/apps/dn611854.aspx)
     *   [Microsoft web framework: Motion](http://getmwf.com/styles/motion.html)
 
-## [41. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
+## [40. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
 ### Rich-text editors using contenteditable
 
@@ -1047,13 +1021,13 @@ git config --global help.autocorrect 1
 *   [wysihtml](http://wysihtml.com/) - Made by Voog
 *   [TinyMCE](http://www.tinymce.com/) - Used by much of the wordpress and drupal community
 
-## [42. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [41. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [combination (⭐30)](https://github.com/seantanly/elixir-combination) - Elixir library to generate combinations and permutations from Enumerable collection.
+*   [combination (⭐31)](https://github.com/seantanly/elixir-combination) - Elixir library to generate combinations and permutations from Enumerable collection.
 *   [minmaxlist (⭐4)](https://github.com/seantanly/elixir-minmaxlist) - Elixir library extending `Enum.min_by/2`, `Enum.max_by/2` and `Enum.min_max_by/2` to return a list of results instead of just one.
-*   [paratize (⭐27)](https://github.com/seantanly/elixir-paratize) - Elixir library providing some handy parallel processing (execution) facilities that support configuring number of workers and timeout.
+*   [paratize (⭐28)](https://github.com/seantanly/elixir-paratize) - Elixir library providing some handy parallel processing (execution) facilities that support configuring number of workers and timeout.
 
 ### Files and Directories
 
@@ -1061,12 +1035,12 @@ git config --global help.autocorrect 1
 
 ### Framework Components
 
-*   [params (⭐324)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
+*   [params (⭐326)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
 *   [revision\_plate\_ex (⭐3)](https://github.com/KazuCocoa/revision_plate_ex) - Plug application and middleware that serves endpoint returns application's REVISION.
 
 ### Queue
 
-*   [enm (⭐119)](https://github.com/basho/enm) - enm is an Erlang port driver that wraps the nanomsg C library.
+*   [enm (⭐120)](https://github.com/basho/enm) - enm is an Erlang port driver that wraps the nanomsg C library.
 
 ### Testing
 
@@ -1080,7 +1054,7 @@ git config --global help.autocorrect 1
 
 *   [exromaji (⭐8)](https://github.com/ikeikeikeike/exromaji) - A Elixir library for translating between hiragana, katakana and romaji.
 
-## [43. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [42. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Coding Style Guides
 
@@ -1088,11 +1062,11 @@ git config --global help.autocorrect 1
 
 ### Core Extensions
 
-*   [Hanami::Utils (⭐172)](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
+*   [Hanami::Utils (⭐173)](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
 
 ### ORM/ODM
 
-*   [Hanami::Model (⭐444)](https://github.com/hanami/model) - A lean Repository-pattern based ORM framework for Hanami and modern Ruby applications.
+*   [Hanami::Model (⭐445)](https://github.com/hanami/model) - A lean Repository-pattern based ORM framework for Hanami and modern Ruby applications.
 
 ### SEO
 
@@ -1102,7 +1076,7 @@ git config --global help.autocorrect 1
 
 *   [Hanami](http://hanamirb.org) - It aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects.
 
-## [44. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [43. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 

@@ -43,17 +43,13 @@
 
 ## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
-### Java VM / Java
-
-*   [HTTP Remoting (⭐75)](https://github.com/palantir/http-remoting) - Libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.
-
 ### API Gateways / Edge Services / Scala
 
 *   [Caddy](https://caddyserver.com/) - Extensible HTTP/2 web server with automatic HTTPS.
 
 ### Storage / Scala
 
-*   [AtlasDB (⭐793)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
+*   [AtlasDB (⭐34)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
 
 ## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

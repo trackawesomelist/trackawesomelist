@@ -39,13 +39,13 @@
 
 ### GTFS Realtime Utilities / Ruby
 
-*   [transitcast (⭐8)](https://github.com/OpenTransitTools/transitcast) - Uses GTFS and GTFS-RT vehicle position feed generating an estimated transition time it takes for each vehicle to move from scheduled stop to scheduled stop recording these an "observed\_stop\_time" table. These records can later be used to train a machine learning model to make vehicle travel predictions. Created by TriMet as part of [an FTA IMI project](https://trimet.org/imi/program.htm).
+*   [transitcast (⭐11)](https://github.com/OpenTransitTools/transitcast) - Uses GTFS and GTFS-RT vehicle position feed generating an estimated transition time it takes for each vehicle to move from scheduled stop to scheduled stop recording these an "observed\_stop\_time" table. These records can later be used to train a machine learning model to make vehicle travel predictions. Created by TriMet as part of [an FTA IMI project](https://trimet.org/imi/program.htm).
 
 ## [6. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Clones
 
-*   [PicoLove (⭐679)](https://github.com/picolove/picolove) - Pico-8 Reimplementation in LÖVE.
+*   [PicoLove (⭐693)](https://github.com/picolove/picolove) - Pico-8 Reimplementation in LÖVE.
 
 ## [7. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
@@ -65,14 +65,9 @@
 
 ## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
-### Libraries / Game development
-
-*   Challonge
-    *   [vityafx/challonge-rs (⭐1)](https://github.com/vityafx/challonge-rs) \[[challonge](https://crates.io/crates/challonge)] — Client library for the Challonge REST API. Helps to organize tournaments. [![CI](https://github.com/vityafx/challonge-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/vityafx/challonge-rs/actions/workflows/ci.yml)
-
 ### Libraries / Scripting
 
-*   [metacall/core (⭐1.4k)](https://github.com/metacall/core) \[[metacall](https://crates.io/crates/metacall)] — Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, Wasm, Java, Cobol and more. [![build badge](https://gitlab.com/metacall/core/badges/master/pipeline.svg)](https://gitlab.com/metacall/core)
+*   [metacall/core (⭐1.5k)](https://github.com/metacall/core) \[[metacall](https://crates.io/crates/metacall)] — Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, Wasm, Java, Cobol and more. [![build badge](https://gitlab.com/metacall/core/badges/master/pipeline.svg)](https://gitlab.com/metacall/core)
 
 ## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -100,8 +95,8 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Caching Prisma (⭐50)](https://github.com/joellefkowitz/cached-prisma)
-*   [prettier-plugin-prisma (⭐162)](https://github.com/umidbekk/prettier-plugin-prisma)
+*   [Caching Prisma (⭐59)](https://github.com/joellefkowitz/cached-prisma)
+*   [prettier-plugin-prisma (⭐208)](https://github.com/umidbekk/prettier-plugin-prisma)
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -119,7 +114,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Aseprite Wizard (⭐409)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
+*   [Aseprite Wizard (⭐586)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames (Godot 3.x).
 
 ---
 

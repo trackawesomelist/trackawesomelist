@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 20, 2019
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -23,7 +23,7 @@
 
 ### Web Application Framework
 
-*   [C++ REST SDK (⭐7.6k)](https://github.com/Microsoft/cpprestsdk) - Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. \[MIT]
+*   [C++ REST SDK (⭐7.7k)](https://github.com/Microsoft/cpprestsdk) - Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. \[MIT]
 
 ## [4. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
@@ -61,26 +61,24 @@
 
 *   [Vapor Red](https://vapor.red)
 
-## [8. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [8. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
-### Boilerplates
+### React Next Boilerplate [↗](https://awesomestacks.dev/react-next-boilerplate) / Resources
 
-*   [react-next-boilerplate (⭐330)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
+*   [react-next-boilerplate (⭐333)](https://github.com/react-next-boilerplate/react-next-boilerplate)
 
-## [9. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
+### React Next Boilerplate [↗](https://awesomestacks.dev/react-next-boilerplate)
 
-### React Next Boilerplate   [↗](https://awesomestacks.dev/react-next-boilerplate)
+*   [React Testing Library](https://testing-library.com/docs/react-testing-library/intro) - [🛠](https://stackshare.io/react-testing-library) - [🐙 (⭐18k)](https://github.com/testing-library/react-testing-library) - react-testing-library is a tool in the Testing Frameworks category of a tech stack.
+*   [Emotion](https://emotion.sh/) - [🛠](https://stackshare.io/emotion) - [🐙 (⭐17k)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition.
+*   [I18next](https://www.i18next.com/) - [🐙 (⭐7.2k)](https://github.com/i18next/i18next) - I18next is an internationalization-framework written in and for JavaScript. But it's much more than that.
+*   [Redux Saga](https://redux-saga.js.org/) - [🐙 (⭐23k)](https://github.com/redux-saga/redux-saga) - is a library that aims to make application side effects (i.e. asynchronous things like data fetching and impure things like accessing the browser cache) easier to manage, more efficient to execute, easy to test, and better at handling failures.
 
-*   [React Testing Library](https://testing-library.com/docs/react-testing-library/intro) - [🛠](https://stackshare.io/react-testing-library) - [🐙 (⭐17k)](https://github.com/testing-library/react-testing-library) - react-testing-library is a tool in the Testing Frameworks category of a tech stack.
-*   [Emotion](https://emotion.sh/) - [🛠](https://stackshare.io/emotion) - [🐙 (⭐16k)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition.
-*   [I18next](https://www.i18next.com/) - [🐙 (⭐6.6k)](https://github.com/i18next/i18next) - I18next is an internationalization-framework written in and for JavaScript. But it's much more than that.
-*   [Redux Saga](https://redux-saga.js.org/) - [🐙 (⭐22k)](https://github.com/redux-saga/redux-saga) - is a library that aims to make application side effects (i.e. asynchronous things like data fetching and impure things like accessing the browser cache) easier to manage, more efficient to execute, easy to test, and better at handling failures.
-
-### GCP Kubernetes Stack   [↗](https://awesomestacks.dev/gcp-kubernetes-stack) / Resources
+### GCP Kubernetes Stack [↗](https://awesomestacks.dev/gcp-kubernetes-stack) / Resources
 
 *   [Stackdriver](https://cloud.google.com/stackdriver/) - [🛠️](https://stackshare.io/stackdriver) - Stackdriver Logging allows you to store, search, analyze, monitor, and alert on log data and events.
 
-## [10. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
+## [9. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
 ### Companies / Social Impact
 
@@ -92,7 +90,7 @@
 
 *   [Clean Tech Sweden](https://swedishcleantech.com/) - Hub of Swedish clean tech companies.
 
-## [11. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [10. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects / Operating Systems
 
@@ -102,29 +100,28 @@
 
 *   [Kévin Dunglas](https://github.com/sponsors/dunglas) - API Platform, Vulcain, Mercure and Symfony contributions.
 
-## [12. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [11. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### JavaScript / More
 
 *   [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - This extension provides AI-assisted development features including autocomplete and other insights based on understanding your code context.
     ![Visual Studio IntelliCode](https://docs.microsoft.com/en-us/visualstudio/intellicode/media/python-intellicode.gif)
 
-## [13. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [12. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Build Automation and Package management
 
-*   [shadow-cljs (⭐2.1k)](https://github.com/thheller/shadow-cljs) (Clojurescript)
+*   [shadow-cljs (⭐2.2k)](https://github.com/thheller/shadow-cljs) (Clojurescript)
 
 ### Pattern Matching
 
-*   [Meander (⭐873)](https://github.com/noprompt/meander)
+*   [Meander (⭐891)](https://github.com/noprompt/meander)
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Major Cloud Providers
 
 *   [IBM Cloud](https://www.ibm.com/cloud/free/)
-    *   Cloud Functions - 5 million executions per month
     *   Object Storage - 25GB per month
     *   Cloudant database - 1 GB of data storage
     *   Db2 database - 100MB of data storage
@@ -137,13 +134,13 @@
 
 *   [Substack](https://substack.com) — Unlimited free newsletter service. Start paying when you charge for it.
 
-## [15. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [14. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
-*   [Pwnagotchi (⭐6.2k)](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi is an AI based Wi-Fi cracking tool that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
+*   [Pwnagotchi (⭐6.9k)](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi is an AI based Wi-Fi cracking tool that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
 
-## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Journaling
 
@@ -151,11 +148,11 @@
 
 ### Reading and Writing Tools / Others
 
-*   [bindPDF (⭐90)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [bindPDF (⭐97)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screencapturing Software
 
-*   [Kyapchar (⭐63)](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/Kyapchar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Kyapchar (⭐64)](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/Kyapchar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Other Tools
 
@@ -165,7 +162,7 @@
 
 *   [Microsoft To-Do](https://todo.microsoft.com/) - Microsoft's successor to Wunderlist. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/de/app/microsoft-to-do/id1274495053?mt=12)
 
-## [17. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [16. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Kinesis
 

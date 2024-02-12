@@ -36,7 +36,7 @@
 
 ### Software / Media Streaming - Multimedia Streaming
 
-*   [Dim (⭐3.5k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager fueled by dark forces. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere. `GPL-2.0` `Rust`
+*   [Dim (⭐3.6k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager fueled by dark forces. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere. `GPL-2.0` `Rust`
 
 ## [4. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -113,7 +113,7 @@
 
 ## [11. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
-### Provider Resources / Miscellaneous
+### Provider Resources
 
 *   [Golem Price Updater (⭐4)](https://github.com/jedbrooke/golem-price-updater) - Automatically adjust the price for your Golem node based on the current price of GLM.
 

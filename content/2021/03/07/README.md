@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 07, 2021
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -13,13 +13,7 @@
 *   [Handwritten Digits Recognition (⭐5)](https://github.com/jdrzj/handwritten-digits-recognition) -
     Handwritten digits recognition using Neural Networks and Ruby.
 
-## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
-
-### Plugins
-
-*   💼 [No Scrollbar (⭐10)](https://github.com/redwebcreation/tailwindcss-no-scrollbar) - Exposes `scrollbar-none` to visually hide a scrollbar.
-
-## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Peripheral Access Crates / Nordic
 
@@ -35,32 +29,32 @@
 *   [`nrf52833-hal`](https://crates.io/crates/nrf52833-hal) - ![crates.io](https://img.shields.io/crates/v/nrf52833-hal.svg)
 *   [`nrf9160-hal`](https://crates.io/crates/nrf9160-hal) - ![crates.io](https://img.shields.io/crates/v/nrf9160-hal.svg)
 
-## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [3. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Godot 3.2+
 
-*   [Godot Gif Getter (⭐30)](https://github.com/you-win/godot-gif-getter) - An in-game utility for recording and saving GIFs (written in GDNative Rust).
+*   [Godot Gif Getter (⭐35)](https://github.com/you-win/godot-gif-getter) - An in-game utility for recording and saving GIFs (written in GDNative Rust).
 
-## [5. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [4. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries
 
 *   [RLax (⭐1.1k)](https://github.com/deepmind/rlax) - Library for implementing reinforcement learning agents. <img src="https://img.shields.io/github/stars/deepmind/rlax?style=social" align="center">
 
-## [6. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+## [5. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ### Books / TikZ
 
 *   [TeX by Topic (2007)](https://ctan.org/pkg/texbytopic)
 *   [TeX for the Impatient (2020)](https://ctan.org/pkg/impatient)
 
-## [7. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [6. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Competitive Analysis / GDPR
 
-*   [Google Cloud Developer's Cheat Sheet (⭐7.5k)](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
+*   [Google Cloud Developer's Cheat Sheet (⭐7.6k)](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
 
-## [8. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/README.md)
+## [7. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/README.md)
 
 ### Articles and Talks
 
@@ -127,7 +121,7 @@
 *   [Gatsby Starter - WordPress Twenty Twenty (⭐142)](https://github.com/henrikwirth/gatsby-starter-wordpress-twenty-twenty) - A port of the WordPress Twenty Twenty theme to Gatsby using the new gatsby-source-wordpress\@v4.
 *   [Gatsby Starter Blog (⭐7)](https://github.com/zeevo/gatsby-starter-wordpress-blog) - Blog starter with enough features to be production ready out of the box.
 
-## [9. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
+## [8. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
 ### General Purpose
 
@@ -145,13 +139,13 @@
     [Repo (⭐51k)](https://github.com/semantic-org/semantic-ui)
     \| #LESS
 
-## [10. Awesome List](/content/sindresorhus/awesome/README.md)
+## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Back-End Development
 
-*   [IAM (⭐1.3k)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
+*   [IAM (⭐1.4k)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### IDE and Code Editing
 
@@ -161,13 +155,13 @@
 
 *   [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) — Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).
 
-## [12. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [11. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Yana (⭐219)](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
+*   [Yana (⭐220)](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
 
-## [13. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+## [12. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Tools / Libraries and tools for developers
 
@@ -175,7 +169,7 @@
 
 ### Tools / Other tools
 
-*   [SimpleLocalize CLI (⭐42)](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
+*   [SimpleLocalize CLI (⭐50)](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
 
 ### Articles / For developers
 
@@ -186,7 +180,7 @@
 *   [Speaking of Translation](https://speakingoftranslation.com/) - Run by two outstanding experts in the field of translation and localization. You can listen to audio files covering their tips and opinions on the freelance translator's work.
 *   [eMpTy Pages](http://kv-emptypages.blogspot.com/) - Presents extremely detailed descriptions and opinions about localization management, collaborative translation platforms, translation management systems, machine translation, as well as the localization industry's biggest players.
 
-## [14. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [13. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Database
 
@@ -196,9 +190,9 @@
     *   [Keyv (⭐2.3k)](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
     *   [Finale (⭐184)](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
     *   [database-js (⭐73)](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
-    *   [Mongo Seeding (⭐517)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
-    *   [@databases (⭐554)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
-    *   [pg-mem (⭐1.6k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
+    *   [Mongo Seeding (⭐528)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
+    *   [@databases (⭐566)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
+    *   [pg-mem (⭐1.7k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
 
 ---
 

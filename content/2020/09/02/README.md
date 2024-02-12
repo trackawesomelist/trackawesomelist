@@ -29,11 +29,11 @@
 
 ### Error Handling
 
-*   [Rollbar (⭐437)](https://github.com/rollbar/rollbar-gem) - Easy and powerful exception and error tracking for your applications.
+*   [Rollbar (⭐441)](https://github.com/rollbar/rollbar-gem) - Easy and powerful exception and error tracking for your applications.
 
 ### Mobile Development
 
-*   [PubNub (⭐119)](https://github.com/pubnub/ruby) - Real-time Push Service in the Cloud.
+*   [PubNub (⭐120)](https://github.com/pubnub/ruby) - Real-time Push Service in the Cloud.
 
 ## [5. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -80,12 +80,12 @@
 
 ### Miscellaneous
 
-*   [react-pdf (⭐7.9k)](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
+*   [react-pdf (⭐8.2k)](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 
 ### Form Components / Date / Time picker
 
-*   [react-calendar (⭐3.2k)](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
-*   [react-date-picker (⭐1.1k)](https://github.com/wojtekmaj/react-date-picker) - A date picker for your React app.
+*   [react-calendar (⭐3.3k)](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
+*   [react-date-picker (⭐1.2k)](https://github.com/wojtekmaj/react-date-picker) - A date picker for your React app.
 
 ## [11. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -97,19 +97,19 @@
 
 ### Authentication
 
-*   [Quiz manager secured by Auth0 (⭐34)](https://github.com/auth0-blog/secure-blazor-wasm-quiz-manager) - ![last commit](https://img.shields.io/github/last-commit/auth0-blog/secure-blazor-wasm-quiz-manager?style=flat-square\&cacheSeconds=86400) This repository contains a Blazor WebAssembly application implementing a simple Quiz manager secured by [Auth0](https://auth0.com/). The implementation details are described in the following article: [Securing Blazor WebAssembly Apps](https://auth0.com/blog/securing-blazor-webassembly-apps/).
+*   [Quiz manager secured by Auth0 (⭐37)](https://github.com/auth0-blog/secure-blazor-wasm-quiz-manager) - ![last commit](https://img.shields.io/github/last-commit/auth0-blog/secure-blazor-wasm-quiz-manager?style=flat-square\&cacheSeconds=86400) This repository contains a Blazor WebAssembly application implementing a simple Quiz manager secured by [Auth0](https://auth0.com/). The implementation details are described in the following article: [Securing Blazor WebAssembly Apps](https://auth0.com/blog/securing-blazor-webassembly-apps/).
 
 ## [13. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Discord Communities (⭐2.2k)](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
+*   [Discord Communities (⭐2.3k)](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-tabler-icons (⭐148)](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons (⭐16k)](https://github.com/tabler/tabler-icons) SVG icons.
+*   [vue-tabler-icons (⭐149)](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons (⭐17k)](https://github.com/tabler/tabler-icons) SVG icons.
 *   [vue-selectize (⭐77)](https://github.com/isneezy/vue-selectize) - A Vue.js component wrapper around Selectize.js, a vanilla js select component
 
 ## [15. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
@@ -128,14 +128,14 @@
 
 ### Intentionally Vulnerable Applications / Ansible
 
-*   [Cfngoat (⭐78)](https://github.com/bridgecrewio/cfngoat) - *Bridgecrew* - Cloud Formation templates for creating stacks of intentionally insecure services in AWS. Ideal for testing the Cloud Formation Infrastructure as Code Analysis tools above.
-*   [Terragoat (⭐822)](https://github.com/bridgecrewio/terragoat) - *Bridgecrew* - Terraform templates for creating stacks of intentionally insecure services in AWS, Azure and GCP. Ideal for testing the Terraform Infrastructure as Code Analysis tools above.
+*   [Cfngoat (⭐88)](https://github.com/bridgecrewio/cfngoat) - *Bridgecrew* - Cloud Formation templates for creating stacks of intentionally insecure services in AWS. Ideal for testing the Cloud Formation Infrastructure as Code Analysis tools above.
+*   [Terragoat (⭐1.1k)](https://github.com/bridgecrewio/terragoat) - *Bridgecrew* - Terraform templates for creating stacks of intentionally insecure services in AWS, Azure and GCP. Ideal for testing the Terraform Infrastructure as Code Analysis tools above.
 
 ## [18. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [evostra (⭐259)](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
+*   [evostra (⭐264)](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
 
 ### Tools / Misc
 
@@ -145,8 +145,8 @@
 
 ### Projects
 
-*   [Internet Chronometer (⭐107)](https://github.com/rothman857/chronometer) - Turn your Raspberry Pi in to an Internet Chronometer.
-*   [Pi-KVM (⭐6.4k)](https://github.com/pikvm/pikvm) - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
+*   [Internet Chronometer (⭐108)](https://github.com/rothman857/chronometer) - Turn your Raspberry Pi in to an Internet Chronometer.
+*   [Pi-KVM (⭐7.1k)](https://github.com/pikvm/pikvm) - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
 
 ## [20. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 22 - Jan 28, 2018
 
-41 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,11 +10,11 @@
 
 ### HTML Widgets
 
-*   [highcharter (⭐668)](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets
+*   [highcharter (⭐701)](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets
 
 ### Spatial
 
-*   [tigris (⭐276)](https://github.com/walkerke/tigris) - Download and use Census TIGER/Line shapefiles in R
+*   [tigris (⭐308)](https://github.com/walkerke/tigris) - Download and use Census TIGER/Line shapefiles in R
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Extensions / JavaScript Profile
 
-*   [JavaScript Enhancements (⭐623)](https://github.com/pichillilorenzo/JavaScriptEnhancements) — plugin that offers smart javascript autocomplete, real-time errors and, also, a lot of features about creating, developing and managing javascript projects (such as Cordova, Ionic, React, etc.). It uses [Flow (⭐22k)](https://github.com/facebook/flow) (javascript static type checker from Facebook) under the hood.
+*   [JavaScript Enhancements (⭐636)](https://github.com/pichillilorenzo/JavaScriptEnhancements) — plugin that offers smart javascript autocomplete, real-time errors and, also, a lot of features about creating, developing and managing javascript projects (such as Cordova, Ionic, React, etc.). It uses [Flow (⭐22k)](https://github.com/facebook/flow) (javascript static type checker from Facebook) under the hood.
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Software / Backups
 
-*   [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code (⭐40k)](https://github.com/rclone/rclone)) `MIT` `Go`
+*   [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code (⭐42k)](https://github.com/rclone/rclone)) `MIT` `Go`
 
 ### Software / Editors
 
@@ -113,7 +113,7 @@
 
 ### Job processing / Third-party APIs
 
-*   [psychiq (⭐48)](https://github.com/fukamachi/psychiq) - redis-based background job processing for Common Lisp applications. Inspired by Ruby's Sidekiq and compatible with its web UI. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [psychiq (⭐49)](https://github.com/fukamachi/psychiq) - redis-based background job processing for Common Lisp applications. Inspired by Ruby's Sidekiq and compatible with its web UI. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### Logging / Third-party APIs
 
@@ -223,19 +223,13 @@
 *   [SaltConf16 - YouTube](https://www.youtube.com/playlist?list=PL9svBjLDUl_-sVwcRliUQ-VGDb2qvwpx_) - Video recordings of SaltConf16 presentations.
 *   [SaltConf17 - YouTube](https://www.youtube.com/playlist?list=PL9svBjLDUl_-8yJxp-nSlmM9KYEQH4fgj) - Video recordings of SaltConf17 presentations delivered by SaltStack customers and partners.
 
-## [27. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
-
-### Software for Creating APIs
-
-*   [TransiCast](http://www.transicast.com/) - Provides public transportation data for North America in a single, integrated call and response format. The data is provided in stream-parsable XML and JSON formats.  Open-source on [Google Code](https://code.google.com/archive/p/rasa/).  Hosted version at [www.transitcast.com](http://www.transitcast.com) [requires payment](http://www.transicast.com/coststructure.html).
-
-## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Email
 
-*   [burnex (⭐65)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
+*   [burnex (⭐66)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
 
-## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Artificial Intelligence
 
@@ -243,13 +237,13 @@
 
 ### Misc
 
-*   [DeviceDetector.NET (⭐273)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
+*   [DeviceDetector.NET (⭐296)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 
 ### Web Frameworks
 
 *   [Giraffe (⭐2k)](https://github.com/giraffe-fsharp/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
 
-## [30. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [29. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
@@ -269,7 +263,7 @@
 
 *   [Decodoku](https://medium.com/@decodoku) - Interesting posts on quantum computation, by James Wootton.
 
-## [31. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [30. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Applets / Design Tooling
 
@@ -277,29 +271,29 @@
 
 ### Cursors / Skeumorphic Icons
 
-*   [Bibata (⭐1.4k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
-*   [Capitaine Cursors (⭐995)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
+*   [Bibata (⭐1.5k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+*   [Capitaine Cursors (⭐1k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
-## [32. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [31. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Presentation / Extensions
 
 *   [mithril-slides (⭐22)](https://github.com/wulab/mithril-slides) - A Keynote-inspired presentation app written with Mithril
 
-## [33. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [32. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Videos and Lectures
 
 *   [Deep Learning Crash Course](https://www.youtube.com/watch?v=oS5fz_mHVz0\&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07): a series of mini-lectures by Leo Isikdogan on YouTube (2018)
 
-## [34. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [33. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Modules
 
 *   [iOS-11-Framer (⭐42)](https://github.com/brentcas/iOS-11-Framer) - iOS 11 Design System GUI for Framer.
 *   [framer-moreutils (⭐31)](https://github.com/steveruizok/framer-moreutils) - Expand Utils with some handy helper functions.
 
-## [35. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
+## [34. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
 
 ### Calculator apps: / Android
 
@@ -328,11 +322,11 @@
 *   [How to use scientific calculator?](https://www.youtube.com/watch?v=3GfuVDtGhWo)
 *   [Scott Flansburg, the human calculator](https://www.youtube.com/watch?v=WhtvLpi8Z1M)
 
-## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### App Store
 
-*   [InAppPurchase (⭐280)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
+*   [InAppPurchase (⭐288)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
 
 ### JSON
 
@@ -340,7 +334,7 @@
 
 ### Device
 
-*   [Thingy (⭐59)](https://github.com/bojan/Thingy) - A modern device detection and querying library.
+*   [Thingy (⭐60)](https://github.com/bojan/Thingy) - A modern device detection and querying library.
 
 ### Cryptography / Barcode
 
@@ -348,9 +342,9 @@
 
 ### HUD / Barcode
 
-*   [GradientLoadingBar (⭐884)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
+*   [GradientLoadingBar (⭐885)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
 
-## [37. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [36. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
@@ -377,20 +371,20 @@
 *   [d3-inertia (⭐58)](https://github.com/Fil/d3-inertia) - An extension to d3-drag that continues the mouse movement with some inertia
 *   [react-simple-maps (⭐2.7k)](https://github.com/zcreativelabs/react-simple-maps) - An SVG mapping component library for React, built on top of d3-geo \[map, geo]
 
-## [38. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [37. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Localization
 
 *   [en\_GB (⭐3)](https://github.com/cubewebsites/magento2-language-en-gb) :gb: - British Language Package.
 
-## [39. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [38. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Hypervisors
 
 *   [MultiDocker (⭐42)](https://github.com/marty90/multidocker)\
     Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.
 
-## [40. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [39. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Security
 
@@ -404,7 +398,7 @@
 
 *   [Pidcat (⭐4.6k)](https://github.com/JakeWharton/pidcat) - a colored command-line ADB wrapper that only shows log entries for a specific application package
 
-## [41. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [40. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 

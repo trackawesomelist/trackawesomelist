@@ -68,7 +68,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Dockeron (⭐793)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
+*   [Dockeron (⭐790)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
 
 ## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

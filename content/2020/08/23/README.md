@@ -10,7 +10,7 @@
 
 ### JSON
 
-*   [jsoncons (⭐611)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
+*   [jsoncons (⭐650)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -37,7 +37,7 @@
 ### CTF Tools / Malware Analysis Books
 
 *   [CTF Field Guide](https://trailofbits.github.io/ctf/) - Everything you need to win your next CTF competition.
-*   [Ciphey (⭐14k)](https://github.com/ciphey/ciphey) - Automated decryption tool using artificial intelligence and natural language processing.
+*   [Ciphey (⭐15k)](https://github.com/ciphey/ciphey) - Automated decryption tool using artificial intelligence and natural language processing.
 
 ### Collaboration Tools / Malware Analysis Books
 
@@ -49,32 +49,32 @@
 
 ### Exfiltration Tools / Zealandia
 
-*   [DET (⭐809)](https://github.com/sensepost/DET) - Proof of concept to perform data exfiltration using either single or multiple channel(s) at the same time.
+*   [DET (⭐815)](https://github.com/sensepost/DET) - Proof of concept to perform data exfiltration using either single or multiple channel(s) at the same time.
 *   [Iodine](https://code.kryo.se/iodine/) - Tunnel IPv4 data through a DNS server; useful for exfiltration from networks where Internet access is firewalled, but DNS queries are allowed.
-*   [TrevorC2 (⭐1.1k)](https://github.com/trustedsec/trevorc2) - Client/server tool for masking command and control and data exfiltration through a normally browsable website, not typical HTTP POST requests.
-*   [dnscat2 (⭐3.1k)](https://github.com/iagox86/dnscat2) - Tool designed to create an encrypted command and control channel over the DNS protocol, which is an effective tunnel out of almost every network.
-*   [pwnat (⭐2.9k)](https://github.com/samyk/pwnat) - Punches holes in firewalls and NATs.
+*   [TrevorC2 (⭐1.2k)](https://github.com/trustedsec/trevorc2) - Client/server tool for masking command and control and data exfiltration through a normally browsable website, not typical HTTP POST requests.
+*   [dnscat2 (⭐3.2k)](https://github.com/iagox86/dnscat2) - Tool designed to create an encrypted command and control channel over the DNS protocol, which is an effective tunnel out of almost every network.
+*   [pwnat (⭐3k)](https://github.com/samyk/pwnat) - Punches holes in firewalls and NATs.
 *   [tgcd](http://tgcd.sourceforge.net/) - Simple Unix network utility to extend the accessibility of TCP/IP based network services beyond firewalls.
 
 ### Exploit Development Tools / Zealandia
 
-*   [Magic Unicorn (⭐3.5k)](https://github.com/trustedsec/unicorn) - Shellcode generator for numerous attack vectors, including Microsoft Office macros, PowerShell, HTML applications (HTA), or `certutil` (using fake certificates).
+*   [Magic Unicorn (⭐3.6k)](https://github.com/trustedsec/unicorn) - Shellcode generator for numerous attack vectors, including Microsoft Office macros, PowerShell, HTML applications (HTA), or `certutil` (using fake certificates).
 *   [Pwntools (⭐11k)](https://github.com/Gallopsled/pwntools) - Rapid exploit development framework built for use in CTFs.
-*   [Wordpress Exploit Framework (⭐986)](https://github.com/rastating/wordpress-exploit-framework) - Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
-*   [peda (⭐5.6k)](https://github.com/longld/peda) - Python Exploit Development Assistance for GDB.
+*   [Wordpress Exploit Framework (⭐997)](https://github.com/rastating/wordpress-exploit-framework) - Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
+*   [peda (⭐5.7k)](https://github.com/longld/peda) - Python Exploit Development Assistance for GDB.
 
 ### Hash Cracking Tools / Zealandia
 
-*   [duplicut (⭐737)](https://github.com/nil0x42/duplicut) - Quickly remove duplicates, without changing the order, and without getting OOM on huge wordlists.
+*   [duplicut (⭐767)](https://github.com/nil0x42/duplicut) - Quickly remove duplicates, without changing the order, and without getting OOM on huge wordlists.
 
 ### Industrial Control and SCADA Systems / Zealandia
 
-*   [Industrial Exploitation Framework (ISF) (⭐959)](https://github.com/dark-lbp/isf) - Metasploit-like exploit framework based on routersploit designed to target Industrial Control Systems (ICS), SCADA devices, PLC firmware, and more.
+*   [Industrial Exploitation Framework (ISF) (⭐988)](https://github.com/dark-lbp/isf) - Metasploit-like exploit framework based on routersploit designed to target Industrial Control Systems (ICS), SCADA devices, PLC firmware, and more.
 
 ### Intentionally Vulnerable Systems / Intentionally Vulnerable Systems as Docker Containers
 
 *   [Damn Vulnerable Web Application (DVWA)](https://hub.docker.com/r/citizenstig/dvwa/) - `docker pull citizenstig/dvwa`.
-*   [OWASP Juice Shop (⭐8.8k)](https://github.com/bkimminich/juice-shop#docker-container--) - `docker pull bkimminich/juice-shop`.
+*   [OWASP Juice Shop (⭐9.2k)](https://github.com/bkimminich/juice-shop#docker-container--) - `docker pull bkimminich/juice-shop`.
 *   [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/) - `docker pull citizenstig/nowasp`.
 *   [OWASP NodeGoat (⭐1.8k)](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker) - `docker-compose build && docker-compose up`.
 *   [OWASP Security Shepherd](https://hub.docker.com/r/ismisepaul/securityshepherd/) - `docker pull ismisepaul/securityshepherd`.
@@ -87,68 +87,68 @@
 
 ### macOS Utilities / Intentionally Vulnerable Systems as Docker Containers
 
-*   [Bella (⭐173)](https://github.com/kdaoudieh/Bella) - Pure Python post-exploitation data mining and remote administration tool for macOS.
-*   [EvilOSX (⭐2.1k)](https://github.com/Marten4n6/EvilOSX) - Modular RAT that uses numerous evasion and exfiltration techniques out-of-the-box.
+*   [Bella (⭐180)](https://github.com/kdaoudieh/Bella) - Pure Python post-exploitation data mining and remote administration tool for macOS.
+*   [EvilOSX (⭐2.2k)](https://github.com/Marten4n6/EvilOSX) - Modular RAT that uses numerous evasion and exfiltration techniques out-of-the-box.
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [RustScan (⭐11k)](https://github.com/rustscan/rustscan) - Lightweight and quick open-source port scanner designed to automatically pipe open ports into Nmap.
+*   [RustScan (⭐12k)](https://github.com/rustscan/rustscan) - Lightweight and quick open-source port scanner designed to automatically pipe open ports into Nmap.
 
 ### Network Tools / Wireless Network Tools
 
 *   [WiFi Pineapple](https://www.wifipineapple.com/) - Wireless auditing and penetration testing platform.
-*   [pwnagotchi (⭐6.2k)](https://github.com/evilsocket/pwnagotchi) - Deep reinforcement learning based AI that learns from the Wi-Fi environment and instruments BetterCAP in order to maximize the WPA key material captured.
+*   [pwnagotchi (⭐6.9k)](https://github.com/evilsocket/pwnagotchi) - Deep reinforcement learning based AI that learns from the Wi-Fi environment and instruments BetterCAP in order to maximize the WPA key material captured.
 
 ### Online Resources / Other Lists Online
 
-*   [Blue Team (⭐3.6k)](https://github.com/fabacab/awesome-cybersecurity-blueteam) - Awesome resources, tools, and other shiny things for cybersecurity blue teams.
+*   [Blue Team (⭐3.8k)](https://github.com/fabacab/awesome-cybersecurity-blueteam) - Awesome resources, tools, and other shiny things for cybersecurity blue teams.
 
 ### Open Sources Intelligence (OSINT) / Penetration Testing Report Templates
 
 *   [DataSploit (⭐2.9k)](https://github.com/upgoingstar/datasploit) - OSINT visualizer utilizing Shodan, Censys, Clearbit, EmailHunter, FullContact, and Zoomeye behind the scenes.
-*   [GyoiThon (⭐702)](https://github.com/gyoisamurai/GyoiThon) - GyoiThon is an Intelligence Gathering tool using Machine Learning.
+*   [GyoiThon (⭐720)](https://github.com/gyoisamurai/GyoiThon) - GyoiThon is an Intelligence Gathering tool using Machine Learning.
 *   [Intrigue](http://intrigue.io) - Automated OSINT & Attack Surface discovery framework with powerful API, UI and CLI.
 *   [Maltego](http://www.maltego.com/) - Proprietary software for open sources intelligence and forensics.
 *   [PacketTotal](https://packettotal.com/) - Simple, free, high-quality packet capture file analysis facilitating the quick detection of network-borne malware (using Zeek and Suricata IDS signatures under the hood).
-*   [Skiptracer (⭐996)](https://github.com/xillwillx/skiptracer) - OSINT scraping framework that utilizes basic Python webscraping (BeautifulSoup) of PII paywall sites to compile passive information on a target on a ramen noodle budget.
-*   [Sn1per (⭐7k)](https://github.com/1N3/Sn1per) - Automated Pentest Recon Scanner.
+*   [Skiptracer (⭐1k)](https://github.com/xillwillx/skiptracer) - OSINT scraping framework that utilizes basic Python webscraping (BeautifulSoup) of PII paywall sites to compile passive information on a target on a ramen noodle budget.
+*   [Sn1per (⭐7.3k)](https://github.com/1N3/Sn1per) - Automated Pentest Recon Scanner.
 *   [Spiderfoot](http://www.spiderfoot.net/) - Multi-source OSINT automation tool with a Web UI and report visualizations.
 *   [creepy (⭐1.2k)](https://github.com/ilektrojohn/creepy) - Geolocation OSINT tool.
-*   [gOSINT (⭐557)](https://github.com/Nhoya/gOSINT) - OSINT tool with multiple modules and a telegram scraper.
+*   [gOSINT (⭐580)](https://github.com/Nhoya/gOSINT) - OSINT tool with multiple modules and a telegram scraper.
 *   [image-match (⭐2.9k)](https://github.com/ascribe/image-match) - Quickly search over billions of images.
-*   [recon-ng (⭐3k)](https://github.com/lanmaster53/recon-ng) - Full-featured Web Reconnaissance framework written in Python.
-*   [sn0int (⭐1.6k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+*   [recon-ng (⭐3.3k)](https://github.com/lanmaster53/recon-ng) - Full-featured Web Reconnaissance framework written in Python.
+*   [sn0int (⭐1.8k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
 ### Open Sources Intelligence (OSINT) / Data Broker and Search Engine Services
 
 *   [Hunter.io](https://hunter.io/) - Data broker providing a Web search interface for discovering the email addresses and other organizational details of a company.
 *   [Threat Crowd](https://www.threatcrowd.org/) - Search engine for threats.
 *   [Virus Total](https://www.virustotal.com/) - Free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware.
-*   [surfraw (⭐68)](https://github.com/kisom/surfraw) - Fast UNIX command line interface to a variety of popular WWW search engines.
+*   [surfraw (⭐70)](https://github.com/kisom/surfraw) - Fast UNIX command line interface to a variety of popular WWW search engines.
 
 ### Open Sources Intelligence (OSINT) / Dorking tools
 
-*   [BinGoo (⭐197)](https://github.com/Hood3dRob1n/BinGoo) - GNU/Linux bash based Bing and Google Dorking Tool.
+*   [BinGoo (⭐206)](https://github.com/Hood3dRob1n/BinGoo) - GNU/Linux bash based Bing and Google Dorking Tool.
 *   [dorkbot (⭐496)](https://github.com/utiso/dorkbot) - Command-line tool to scan Google (or other) search results for vulnerabilities.
-*   [github-dorks (⭐2.5k)](https://github.com/techgaun/github-dorks) - CLI tool to scan GitHub repos/organizations for potential sensitive information leaks.
-*   [GooDork (⭐123)](https://github.com/k3170makan/GooDork) - Command line Google dorking tool.
+*   [github-dorks (⭐2.6k)](https://github.com/techgaun/github-dorks) - CLI tool to scan GitHub repos/organizations for potential sensitive information leaks.
+*   [GooDork (⭐126)](https://github.com/k3170makan/GooDork) - Command line Google dorking tool.
 *   [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) - Database of Google dorks; can be used for recon.
-*   [dork-cli (⭐135)](https://github.com/jgor/dork-cli) - Command line Google dork tool.
-*   [dorks (⭐191)](https://github.com/USSCltd/dorks) - Google hack database automation tool.
+*   [dork-cli (⭐139)](https://github.com/jgor/dork-cli) - Command line Google dork tool.
+*   [dorks (⭐193)](https://github.com/USSCltd/dorks) - Google hack database automation tool.
 *   [fast-recon (⭐138)](https://github.com/DanMcInerney/fast-recon) - Perform Google dorks against a domain.
-*   [pagodo (⭐2.4k)](https://github.com/opsdisk/pagodo) - Automate Google Hacking Database scraping.
-*   [snitch (⭐358)](https://github.com/Smaash/snitch) - Information gathering via dorks.
+*   [pagodo (⭐2.5k)](https://github.com/opsdisk/pagodo) - Automate Google Hacking Database scraping.
+*   [snitch (⭐365)](https://github.com/Smaash/snitch) - Information gathering via dorks.
 
 ### Open Sources Intelligence (OSINT) / Email search and analysis tools
 
-*   [SimplyEmail (⭐921)](https://github.com/SimplySecurity/SimplyEmail) - Email recon made fast and easy.
-*   [WhatBreach (⭐957)](https://github.com/Ekultek/WhatBreach) - Search email addresses and discover all known breaches that this email has been seen in, and download the breached database if it is publicly available.
+*   [SimplyEmail (⭐925)](https://github.com/SimplySecurity/SimplyEmail) - Email recon made fast and easy.
+*   [WhatBreach (⭐1k)](https://github.com/Ekultek/WhatBreach) - Search email addresses and discover all known breaches that this email has been seen in, and download the breached database if it is publicly available.
 
 ### Open Sources Intelligence (OSINT) / Metadata harvesting and analysis
 
 *   [FOCA (Fingerprinting Organizations with Collected Archives)](https://www.elevenpaths.com/labstools/foca/) - Automated document harvester that searches Google, Bing, and DuckDuckGo to find and extrapolate internal company organizational structures.
-*   [metagoofil (⭐886)](https://github.com/laramies/metagoofil) - Metadata harvester.
-*   [theHarvester (⭐9.3k)](https://github.com/laramies/theHarvester) - E-mail, subdomain and people names harvester.
+*   [metagoofil (⭐923)](https://github.com/laramies/metagoofil) - Metadata harvester.
+*   [theHarvester (⭐9.9k)](https://github.com/laramies/theHarvester) - E-mail, subdomain and people names harvester.
 
 ### Open Sources Intelligence (OSINT) / Network device discovery tools
 
@@ -158,7 +158,7 @@
 
 ### Open Sources Intelligence (OSINT) / OSINT Online Resources
 
-*   [CertGraph (⭐315)](https://github.com/lanrat/certgraph) - Crawls a domain's SSL/TLS certificates for its certificate alternative names.
+*   [CertGraph (⭐340)](https://github.com/lanrat/certgraph) - Crawls a domain's SSL/TLS certificates for its certificate alternative names.
 *   [GhostProject](https://ghostproject.fr/) - Searchable database of billions of cleartext passwords, partially visible for free.
 *   [NetBootcamp OSINT Tools](http://netbootcamp.org/osinttools/) - Collection of OSINT links and custom Web interfaces to other services.
 *   [OSINT Framework](http://osintframework.com/) - Collection of various OSINT tools broken out by category.
@@ -166,15 +166,15 @@
 
 ### Open Sources Intelligence (OSINT) / Source code repository searching tools
 
-*   [vcsmap (⭐131)](https://github.com/melvinsh/vcsmap) - Plugin-based tool to scan public version control systems for sensitive information.
+*   [vcsmap (⭐132)](https://github.com/melvinsh/vcsmap) - Plugin-based tool to scan public version control systems for sensitive information.
 *   [Yar (⭐227)](https://github.com/Furduhlutur/yar) - Clone git repositories to search through the whole commit history in order of commit time for secrets, tokens, or passwords.
 
 ### Privilege Escalation Tools / Web application and resource analysis tools
 
 *   [Active Directory and Privilege Escalation (ADAPE) (⭐1.1k)](https://github.com/hausec/ADAPE-Script) - Umbrella script that automates numerous useful PowerShell modules to discover security misconfigurations and attempt privilege escalation against Active Directory.
-*   [LinEnum (⭐6.3k)](https://github.com/rebootuser/LinEnum) - Scripted local Linux enumeration and privilege escalation checker useful for auditing a host and during CTF gaming.
-*   [Postenum (⭐265)](https://github.com/mbahadou/postenum) - Shell script used for enumerating possible privilege escalation opportunities on a local GNU/Linux system.
-*   [unix-privesc-check (⭐993)](https://github.com/pentestmonkey/unix-privesc-check) - Shell script to check for simple privilege escalation vectors on UNIX systems.
+*   [LinEnum (⭐6.5k)](https://github.com/rebootuser/LinEnum) - Scripted local Linux enumeration and privilege escalation checker useful for auditing a host and during CTF gaming.
+*   [Postenum (⭐266)](https://github.com/mbahadou/postenum) - Shell script used for enumerating possible privilege escalation opportunities on a local GNU/Linux system.
+*   [unix-privesc-check (⭐1k)](https://github.com/pentestmonkey/unix-privesc-check) - Shell script to check for simple privilege escalation vectors on UNIX systems.
 
 ### Reverse Engineering / Reverse Engineering Books
 
@@ -210,8 +210,8 @@
 
 ### Steganography Tools / Social Engineering Tools
 
-*   [Cloakify (⭐1.4k)](https://github.com/TryCatchHCF/Cloakify) - Textual steganography toolkit that converts any filetype into lists of everyday strings.
-*   [StegCracker (⭐508)](https://github.com/Paradoxis/StegCracker) - Steganography brute-force utility to uncover hidden data inside files.
+*   [Cloakify (⭐1.5k)](https://github.com/TryCatchHCF/Cloakify) - Textual steganography toolkit that converts any filetype into lists of everyday strings.
+*   [StegCracker (⭐519)](https://github.com/Paradoxis/StegCracker) - Steganography brute-force utility to uncover hidden data inside files.
 
 ### Vulnerability Databases / Social Engineering Tools
 
@@ -230,7 +230,7 @@
 
 ### GUI Development
 
-*   [Iu (⭐64)](https://github.com/grkek/iu) - UI framework based on the [Fusion/libui.cr (⭐175)](https://github.com/Fusion/libui.cr) library, with custom elements and modified bindings from [hedron-crystal/hedron (⭐83)](https://github.com/hedron-crystal/hedron)
+*   [Iu (⭐67)](https://github.com/grkek/iu) - UI framework based on the [Fusion/libui.cr (⭐176)](https://github.com/Fusion/libui.cr) library, with custom elements and modified bindings from [hedron-crystal/hedron (⭐84)](https://github.com/hedron-crystal/hedron)
 
 ### HTTP
 
@@ -280,7 +280,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pathfinding Visualizer ThreeJS (⭐405)](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation and first-person view
+*   [Pathfinding Visualizer ThreeJS (⭐417)](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation and first-person view
 
 ## [10. Colorful](/content/Siddharth11/Colorful/README.md)
 

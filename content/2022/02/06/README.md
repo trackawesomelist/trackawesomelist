@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 06, 2022
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -41,7 +41,7 @@
 
 ### Driver crates / Other
 
-*   [AHT20-driver](https://crates.io/crates/aht20-driver) - I2C - Humidity and temperature sensor - [Intro blog post](http://www.rawmeat.org/code/20220130-aht20_driver/) - [github (⭐5)](https://github.com/anglerud/aht20-driver) - ![crates.io](https://img.shields.io/crates/v/aht20-driver.svg)
+*   [AHT20-driver](https://crates.io/crates/aht20-driver) - I2C - Humidity and temperature sensor - [Intro blog post](http://www.rawmeat.org/code/20220130-aht20_driver/) - [github (⭐7)](https://github.com/anglerud/aht20-driver) - ![crates.io](https://img.shields.io/crates/v/aht20-driver.svg)
 
 ## [5. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -60,7 +60,7 @@
 ### Open Source / Other
 
 *   [Browserosaurus (⭐1.5k)](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
-*   [linked (⭐751)](https://github.com/lostdesign/linked) - Daily journal.
+*   [linked (⭐805)](https://github.com/lostdesign/linked) - Daily journal.
 
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -78,23 +78,17 @@
 
 
 
-## [9. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
-
-### Browser Games
-
-*   [Continental Marble Adventure](https://marble-adventure.continental.com/) - Marble game for Continental's 150 year anniversary.
-
-## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Theory of Mind / Democratization of Science
 
 *   [Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration](https://openreview.net/forum?id=w_7JMpGZRh0) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=16340001407726295133)].
 
-## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
-*   [dan-t/rusty-tags (⭐382)](https://github.com/dan-t/rusty-tags) — create ctags/etags for a cargo project and all of its dependencies
+*   [dan-t/rusty-tags (⭐392)](https://github.com/dan-t/rusty-tags) — create ctags/etags for a cargo project and all of its dependencies
 
 ---
 

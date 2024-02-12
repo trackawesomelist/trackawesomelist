@@ -47,7 +47,6 @@
 ### Coordinated disclosure / JavaScript
 
 *   [General Motors](https://hackerone.com/gm) on HackerOne - Coordinated disclosure submissions accepted
-*   [Fiat Chrysler Automobiles](https://bugcrowd.com/fca) on Bugcrowd - Coordinated disclosure submissions accepted, paid bounties offered
 *   [Tesla Motors](https://bugcrowd.com/tesla) on Bugcrowd - Coordinated disclosure submissions accepted, paid bounties offered
 
 ## [3. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/README.md)

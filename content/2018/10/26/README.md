@@ -22,7 +22,7 @@
 
 ### Papers / USENIX Security
 
-*   [Optimizing Seed Selection for Fuzzing, 2014](https://softsec.kaist.ac.kr/\~sangkilc/papers/rebert-usenixsec14.pdf)
+*   [Optimizing Seed Selection for Fuzzing, 2014](https://softsec.kaist.ac.kr/~sangkilc/papers/rebert-usenixsec14.pdf)
 *   [Dowsing for overflows: a guided fuzzer to find buffer boundary violations, 2013](http://enigma.usenix.org/sites/default/files/sec13_proceedings_interior.pdf#page=57)
 *   [Fuzzing with Code Fragments, 2012](https://www.usenix.org/system/files/conference/usenixsecurity12/sec12-final73.pdf)
 
@@ -113,7 +113,7 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [ml5 (⭐6.2k)](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web!
+*   [ml5 (⭐6.3k)](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web!
 
 ## [13. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

@@ -10,7 +10,7 @@
 
 ### For Electron / Other
 
-*   [got (⭐13k)](https://github.com/sindresorhus/got) - Simplified HTTP requests.
+*   [got (⭐14k)](https://github.com/sindresorhus/got) - Simplified HTTP requests.
 
 ## [2. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
@@ -42,12 +42,12 @@
 
 ### Text and Numbers
 
-*   [numero (⭐5)](https://github.com/alisinabh/numero) - A micro library for converting non-english utf-8 digits in elixir.
+*   [numero (⭐6)](https://github.com/alisinabh/numero) - A micro library for converting non-english utf-8 digits in elixir.
 *   [veritaserum (⭐83)](https://github.com/uesteibar/veritaserum) - Sentiment analysis based on afinn-165, emojis and some enhancements.
 
 ### Third Party APIs
 
-*   [ethereumex (⭐364)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
+*   [ethereumex (⭐369)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
 
 ### Books
 

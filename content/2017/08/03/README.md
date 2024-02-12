@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 03, 2017
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -69,7 +69,7 @@
 
 ### ORM/ODM Extensions
 
-*   [jennifer.cr (⭐406)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
+*   [jennifer.cr (⭐409)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
 
 ## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -91,26 +91,20 @@
 
     For indie entrepreneurs & makers who live and work on their own terms. Every Friday, you’ll get hand-picked startup resources & essays exploring the future of work in the exponential age. By [Marc Eglon](https://twitter.com/MarcEglon).
 
-## [9. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
-
-### Python / Scala
-
-*   [Aiohttp](http://aiohttp.readthedocs.io/en/stable/) - HTTP client/server for asyncio.
-
-## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Scheduling
 
 *   [Apache Airflow (⭐30k)](https://github.com/apache/incubator-airflow) - a platform to programmatically author, schedule and monitor workflows.
 *   [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/data-factory-introduction) - cloud-based pipeline orchestration for on-prem, cloud and HDInsight
 
-## [11. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [10. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Machine Learning / XML
 
 *   [vectorflow (⭐1.3k)](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 

@@ -10,7 +10,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Laravel File Manager (⭐1k)](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
+*   [Laravel File Manager (⭐1.1k)](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
 
 ## [2. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [brooklin (⭐849)](https://github.com/linkedin/Brooklin/) \[Java] - a distributed system intended for streaming data between various heterogeneous source and destination systems with high reliability and throughput at scale from Linkedin (replaced databus).
+*   [brooklin (⭐878)](https://github.com/linkedin/Brooklin/) \[Java] - a distributed system intended for streaming data between various heterogeneous source and destination systems with high reliability and throughput at scale from Linkedin (replaced databus).
 
 ## [5. Awesome Elm](/content/sporto/awesome-elm/README.md)
 

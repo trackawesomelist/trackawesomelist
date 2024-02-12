@@ -10,7 +10,7 @@
 
 ### Planning Data Specifications / Transportation
 
-*   [GTFS-flex (⭐106)](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services (microtransit/paratransit) as an extension to GTFS.
+*   [GTFS-flex (⭐111)](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services (microtransit/paratransit) as an extension to GTFS.
 
 ## [2. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Project Layout
 
-*   [go-module (⭐16)](https://github.com/octomation/go-module) - Template for a typical module written on Go.
+*   [go-module (⭐22)](https://github.com/octomation/go-module) - Template for a typical module written on Go.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -40,13 +40,13 @@
 
 ### Miscellaneous
 
-*   [Quarto (⭐1.2k)](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
+*   [Quarto (⭐1.3k)](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
 
 ## [7. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Apps
 
-*   [Audio-motion interface (⭐26)](https://github.com/MaxAlyokhin/audio-motion-interface) - A web synthesizer that generates sound using smartphone gestures in the space.
+*   [Audio-motion interface (⭐38)](https://github.com/MaxAlyokhin/audio-motion-interface) - A web synthesizer that generates sound using smartphone gestures in the space.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Projects / Wallets
 
-*   [staketaxcsv (⭐214)](https://github.com/hodgerpodger/staketaxcsv) - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other blockchains.
+*   [staketaxcsv (⭐221)](https://github.com/hodgerpodger/staketaxcsv) - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other blockchains.
 
 ---
 

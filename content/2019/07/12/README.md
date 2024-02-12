@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 12, 2019
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,17 +20,13 @@
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
-### Utility / Barcode
-
-*   [Bow (⭐642)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming.
-
 ### Misc
 
 *   [Swiftbrew (⭐145)](https://github.com/swiftbrew/Swiftbrew) - Homebrew for Swift packages.
 
 ### Text / Barcode
 
-*   [Texstyle (⭐80)](https://github.com/rosberry/texstyle) - Texstyle allows you to format attributed strings easily.
+*   [Texstyle (⭐79)](https://github.com/rosberry/texstyle) - Texstyle allows you to format attributed strings easily.
 
 ### UI / Barcode
 
@@ -46,7 +42,13 @@
 
 *   [Remote People](https://remotepeople.io/)
 
-## [5. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [5. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
+
+### Table of Contents / Repos
+
+*   [Bow (⭐642)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
+
+## [6. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Containerization
 
@@ -73,13 +75,13 @@
 
 *   [rctf-list (⭐30)](https://github.com/aliasrobotics/RCTF) - A list of Robotics CTF (RCTF) scenarios.
 
-## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Books
 
 *   [foy (⭐240)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 
-## [7. Awesome Qlik](/content/ambster-public/awesome-qlik/README.md)
+## [8. Awesome Qlik](/content/ambster-public/awesome-qlik/README.md)
 
 ### Official Resources and Documentation
 
@@ -91,7 +93,7 @@
 *   [QlikView Cookbook](https://qlikviewcookbook.com/) - A technical 'how-to' blog for QlikView developers, by Rob Wunderlich.
 *   [Quick Intelligence](https://www.quickintelligence.co.uk/blog/) - A blog where a skilled team of Qlik developers lead by Steve Dark, providing tips on working in Qlik Sense and QlikView.
 
-## [8. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [9. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Learn
 

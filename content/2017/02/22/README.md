@@ -30,7 +30,7 @@ git config -l | grep alias | cut -d '.' -f 2
 
 ### Python / Data Analysis / Data Visualization
 
-*   [scikit-plot (⭐2.3k)](https://github.com/reiinakano/scikit-plot) - A visualization library for quick and easy generation of common plots in data analysis and machine learning.
+*   [scikit-plot (⭐2.4k)](https://github.com/reiinakano/scikit-plot) - A visualization library for quick and easy generation of common plots in data analysis and machine learning.
 
 ## [4. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 

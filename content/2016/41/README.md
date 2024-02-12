@@ -10,11 +10,11 @@
 
 ### HTTP
 
-*   [HttpClientGoodies (⭐64)](https://github.com/jeffijoe/httpclientgoodies.net) - utilities for working with `HttpClient`
+*   [HttpClientGoodies (⭐66)](https://github.com/jeffijoe/httpclientgoodies.net) - utilities for working with `HttpClient`
 
 ### Queue
 
-*   [RawRabbit (⭐737)](https://github.com/pardahlman/RawRabbit) - A modern .NET Core library for RabbitMQ.
+*   [RawRabbit (⭐741)](https://github.com/pardahlman/RawRabbit) - A modern .NET Core library for RabbitMQ.
 
 ## [2. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
@@ -317,7 +317,7 @@
 
 ### Command-Line Productivity
 
-*   [bashhub (⭐1.1k)](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
+*   [bashhub (⭐1.2k)](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 
 ## [21. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
@@ -344,8 +344,8 @@ Free
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Red/Blue (⭐3.6k)](https://github.com/pret/pokered)
-*   [Pokémon Crystal (⭐1.9k)](https://github.com/pret/pokecrystal)
+*   [Pokémon Red/Blue (⭐3.7k)](https://github.com/pret/pokered)
+*   [Pokémon Crystal (⭐2k)](https://github.com/pret/pokecrystal)
 
 ### Related projects / Syntax highlighting packages
 

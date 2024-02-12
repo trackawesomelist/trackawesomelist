@@ -36,11 +36,11 @@
 
 ### Misc
 
-*   [retriable.cr (⭐37)](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
+*   [retriable.cr (⭐38)](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
 
 ### DevOps
 
-*   [DPPM (⭐110)](https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (mostly Linux)
+*   [DPPM (⭐111)](https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (mostly Linux)
 
 ## [6. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -58,10 +58,6 @@
 
 *   [luadns.com](https://www.luadns.com/) — Free DNS hosting, three domains, all features with reasonable limits
 
-### Managed Data Services
-
-*   [elephantsql.com](https://www.elephantsql.com/) — PostgreSQL as a service, 20 MB free
-
 ### Storage and Media Processing
 
 *   [embed.ly](https://embed.ly/) — Provides APIs for embedding media in a webpage, responsive image scaling, and extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
@@ -76,7 +72,7 @@
 
 ### Algorithms and Data structures
 
-*   [bimap (⭐24)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
+*   [bimap (⭐25)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
 
 ## [10. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 
@@ -97,11 +93,11 @@
 
 ### Mod Loaders / Archives
 
-*   [Meddle (⭐28)](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.
+*   [Meddle (⭐30)](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.
 
 ### Mods / Skins And Capes
 
-*   [Custom Skin Loader (⭐447)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
+*   [Custom Skin Loader (⭐454)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
 
 ### Web Applications / Building
 

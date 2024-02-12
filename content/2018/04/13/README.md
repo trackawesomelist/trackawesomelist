@@ -44,9 +44,9 @@
 
 ## [7. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
-### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
+### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [ગુજરાતી (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gu-IND)
+*   [ગુજરાતી (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gu-IND)
 
 ---
 

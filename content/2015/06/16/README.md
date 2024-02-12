@@ -22,12 +22,12 @@
 
 ### Command-Line Productivity
 
-*   [fzf (⭐53k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder
-*   [marker (⭐1.9k)](https://github.com/pindexis/marker) - Bookmark your shell commands
+*   [fzf (⭐55k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+*   [marker (⭐2k)](https://github.com/pindexis/marker) - Bookmark your shell commands
 
 ### System Utilities / Directory Navigation
 
-*   [procdog (⭐74)](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
+*   [procdog (⭐75)](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Blockchain Explorers
 
-*   [Bitcoin Transaction Explorer (⭐177)](https://github.com/JornC/bitcoin-transaction-explorer)
+*   [Bitcoin Transaction Explorer (⭐182)](https://github.com/JornC/bitcoin-transaction-explorer)
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Command Line Applications
 
-*   [loki (⭐84)](https://github.com/khusnetdinov/loki) - Library for creating interactive command-line application.
+*   [loki (⭐86)](https://github.com/khusnetdinov/loki) - Library for creating interactive command-line application.
 
 ### Images
 
@@ -26,7 +26,7 @@
 
 ### Software / Security
 
-*   [OWASP ZAP (⭐11k)](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
+*   [OWASP ZAP (⭐12k)](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
 
 ### Software / Make your life easier
 
@@ -59,9 +59,9 @@
 
 ## [5. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
-### Other useful repositories
+### Other Useful Repositories
 
-- Repository: [Machine Learning for Cyber Security (⭐5.5k)](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+- Repository: [Machine Learning for Cyber Security (⭐6.5k)](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
   Description: Curated list of tools and resources related to the use of machine learning for cyber security
 
@@ -69,23 +69,19 @@
 
 ## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 
-### Network / Monitoring / Logging
-
-*   [Node Security Platform](https://nodesecurity.io/) - Similar feature set to Snyk, but free in most cases, and very cheap for others.
-
 ### Network / IDS / IPS / Host IDS / Host IPS
 
 *   [OSSEC](https://ossec.github.io/) - Comprehensive Open Source HIDS. Not for the faint of heart. Takes a bit to get your head around how it works. Performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response. It runs on most operating systems, including Linux, MacOS, Solaris, HP-UX, AIX and Windows. Plenty of reasonable documentation. Sweet spot is medium to large deployments.
 
 ### Network / Honey Pot / Honey Net
 
-*   [awesome-honeypots (⭐7.4k)](https://github.com/paralax/awesome-honeypots) - The canonical awesome honeypot list.
+*   [awesome-honeypots (⭐7.6k)](https://github.com/paralax/awesome-honeypots) - The canonical awesome honeypot list.
 
 ## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Widgets
 
-*   [Wagtail-Geo-Widget (⭐122)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
+*   [Wagtail-Geo-Widget (⭐128)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
 
 ---
 

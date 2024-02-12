@@ -20,8 +20,8 @@
 
 ### Structural Migrations
 
-*   [Lobos (⭐267)](https://github.com/budu/lobos)
-*   [Ragtime (⭐587)](https://github.com/weavejester/ragtime)
+*   [Lobos (⭐266)](https://github.com/budu/lobos)
+*   [Ragtime (⭐588)](https://github.com/weavejester/ragtime)
 *   [Drift (⭐121)](https://github.com/macourtney/drift)
 
 ---

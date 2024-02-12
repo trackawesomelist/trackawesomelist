@@ -14,9 +14,9 @@
 
 ## [2. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
-### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
+### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [Italiano (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
+*   [Italiano (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
 
 ## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

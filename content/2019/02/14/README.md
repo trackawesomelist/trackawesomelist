@@ -64,7 +64,7 @@
 
 ### Software / Monitoring
 
-*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐158)](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
+*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐180)](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
 
 ## [8. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
@@ -83,11 +83,11 @@
 
 ### CLI
 
-*   [Clara (⭐647)](https://github.com/catchorg/Clara) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
+*   [Clara (⭐646)](https://github.com/catchorg/Clara) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
 
 ### Memory Allocation
 
-*   [memory (⭐1.3k)](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library. \[ZLib]
+*   [memory (⭐1.4k)](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library. \[ZLib]
 
 ## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -105,11 +105,11 @@
 
 ### Resources / Examples
 
-*   [vue-todo-list (⭐14)](https://github.com/alexander-elgin/vue-todo-list) ToDo List sample app based on Vue + Vuex + Vuetify + Vee-Validate
+*   [vue-todo-list (⭐13)](https://github.com/alexander-elgin/vue-todo-list) ToDo List sample app based on Vue + Vuex + Vuetify + Vee-Validate
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Org Chart (⭐310)](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
+*   [Vue Org Chart (⭐309)](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
 
 ## [14. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Table of Contents / Database
 
-*   [Pomm (⭐161)](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
+*   [Pomm (⭐164)](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 
 ---
 

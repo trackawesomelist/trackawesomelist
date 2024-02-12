@@ -41,7 +41,7 @@
 
 ### Web / Scanning / Pentesting
 
-*   [ACSTIS (⭐284)](https://github.com/tijme/angularjs-csti-scanner) - ACSTIS helps you to scan certain web applications for AngularJS Client-Side Template Injection (sometimes referred to as CSTI, sandbox escape or sandbox bypass). It supports scanning a single request but also crawling the entire web application for the AngularJS CSTI vulnerability.
+*   [ACSTIS (⭐285)](https://github.com/tijme/angularjs-csti-scanner) - ACSTIS helps you to scan certain web applications for AngularJS Client-Side Template Injection (sometimes referred to as CSTI, sandbox escape or sandbox bypass). It supports scanning a single request but also crawling the entire web application for the AngularJS CSTI vulnerability.
 
 ## [5. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Hacking Resources (⭐13k)](https://github.com/vitalysim/Awesome-Hacking-Resources)
+- Repository: [Hacking Resources (⭐14k)](https://github.com/vitalysim/Awesome-Hacking-Resources)
 
   Description: Collection of hacking / penetration testing resources to make you better!
 

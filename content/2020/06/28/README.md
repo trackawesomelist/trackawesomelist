@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 28, 2020
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -37,43 +37,37 @@
 
 ### Cloud Data Warehousing / Playground
 
-*   [DDB-Table (⭐129)](https://github.com/neuledge/ddb-table) Strongly typed querys and tables for AWS DynamoDB
+*   [DDB-Table (⭐130)](https://github.com/neuledge/ddb-table) Strongly typed querys and tables for AWS DynamoDB
 
 ### Validation / Playground
 
-*   [computed-types (⭐359)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
+*   [computed-types (⭐361)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### TypeScript / Deno
-
-*   [Deno Manual](https://deno.land/manual)
-
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / External Resources
 
 *   [Vue.js Online Courses Directory](https://classpert.com/vuejs) - Vue.js courses from top e-learning platforms curated by Classpert, a online course search engine.
 
-## [6. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Notifications and Messages / Code Coverage
 
 *   [Reply to Stale Bots (⭐15)](https://github.com/c-hive/fresh-bot)
 
-## [7. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [6. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Devices and Wearables / Wealth
 
 *   [Dreem](https://dreem.com/) - Consumer-grade EEG used to monitor and optimize sleep; it also has pulse oxymeter, bone conduction audio, accelerometer and sonometer.
 
-## [8. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [7. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Reverse Engineering
 
-*   [Noia (⭐90)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
+*   [Noia (⭐94)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
 
-## [9. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### API / Forms
 

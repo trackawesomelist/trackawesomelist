@@ -14,7 +14,7 @@
 
 ## [2. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
-### Videos / Editors
+### Videos / Utilities
 
 *   [JMeter / Devops/ CI-CD / Cloud](https://www.youtube.com/c/xavki-linux/search?query=jmeter) - By xavki :fr:.
 
@@ -45,7 +45,7 @@
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [emailwiz (⭐1.4k)](https://github.com/LukeSmithxyz/emailwiz) - Luke Smith's bash script to completely automate the setup of a Postfix/Dovecot/SpamAssassin/OpenDKIM server on debian. `GPL-3.0` `Shell`
+*   [emailwiz (⭐1.5k)](https://github.com/LukeSmithxyz/emailwiz) - Luke Smith's bash script to completely automate the setup of a Postfix/Dovecot/SpamAssassin/OpenDKIM server on debian. `GPL-3.0` `Shell`
 
 ## [7. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -61,7 +61,7 @@
 
 ## [9. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
-### Other
+### Programming Languages and Programming Language Theory
 
 *   [Garbage Collector](https://en.m.wikipedia.org/wiki/Garbage_collection_\(computer_science\)) - Part of a program that attempts to find and reclaim garbage pieces of memory not used anymore.
 

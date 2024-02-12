@@ -110,7 +110,7 @@
 
 ### Third Party APIs
 
-*   [stripity\_stripe (⭐873)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
+*   [stripity\_stripe (⭐886)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 
 ## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -126,7 +126,7 @@
 
 ### Libraries / To draw using canvas
 
-*   [Origami.js (⭐757)](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
+*   [Origami.js (⭐767)](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
 
 ---
 

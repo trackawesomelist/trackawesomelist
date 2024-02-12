@@ -28,7 +28,13 @@
 
 *   [Threat.Zone](https://app.threat.zone) - Cloud based threat analysis platform which include sandbox, CDR and interactive analysis for researchers.
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Design and UI
+
+*   [Wdrfree SVG](https://wdrfree.com/free-svg) - Black and White Free SVG Cut files.
+
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -36,9 +42,9 @@
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [h0tk3y/kotlin-monads (⭐118)](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
+*   [h0tk3y/kotlin-monads (⭐119)](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
 
-## [5. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+## [6. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 
 ### Useful links with tips & tricks
 
@@ -48,16 +54,6 @@
 
 *   [Resize image in the wiki of GitHub using Markdown](https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-using-markdown)
 *   [Linking to other Wiki pages on GitHub?](https://stackoverflow.com/questions/6474045/linking-to-other-wiki-pages-on-github)
-
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Design and UI
-
-*   [Wdrfree SVG](https://wdrfree.com/free-svg) - Black and White Free SVG Cut files.
-
-### Game Development
-
-*   [3DModelsCC0](https://www.3dmodelscc0.com/) - Library of public domain 3D models made for game development.
 
 ## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 

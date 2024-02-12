@@ -22,7 +22,7 @@
 
 ### CMS and applications built on CakePHP
 
-*   [baserCMS (⭐152)](https://github.com/baserproject/basercms) - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP 4.x.
+*   [baserCMS (⭐156)](https://github.com/baserproject/basercms) - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP 4.x.
 
 ## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -30,29 +30,59 @@
 
 *   [Creating a Twitter Clone with Blazor Spark](https://www.youtube.com/watch?v=B3giEe1imjY) - ![duration](https://img.shields.io/badge/Duration:%20-42%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 21, 2023 - Learn how to utilize the Blazor Spark framework by building a Twitter clone.
 
-## [5. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React State Management and Data Fetching
-
-*   [valtio (⭐7.6k)](https://github.com/pmndrs/valtio) - Valtio makes proxy-state simple for React and Vanilla
-
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [less-noise (⭐0)](https://github.com/ablil/less-noise) - Minimalist theme with decorators for `git` status, current directory and the current time.
 
-## [7. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### Protocols
 
 *   [nostr](https://nostr.com/) stands for “Notes and Other Stuff Transmitted by Relays” and is an open protocol for censorship-resistant global networks. There are already [many implementations](https://www.nostr.net/) available.
 
-## [8. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Basics
 
 *   [Billed for ¥21,120, invoiced at ¥2,112,000 and paid ¥2,112,000](https://twitter.com/kur/status/1668082843728367616) - [Get rid of integers and floats for monetary values](https://twitter.com/kdeldycke/status/1599113889093890049). Use decimals. Or face the risks of anomalous x100 charges.
+
+## [8. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### 0 - Meta-Lists
+
+*   [TechBooksForFree.com](https://www.techbooksforfree.com)
+
+### Algorithms & Data Structures
+
+*   [Essential Algorithms](https://www.programming-books.io/essential/algorithms/) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
+
+### Game Development
+
+*   [Game AI Pro](https://www.gameaipro.com) - Steve Rabin
+
+### Graphics Programming
+
+*   [Graphics Programming Black Book](https://www.gamedev.net/tutorials/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698/) - Michael Abrash (PDF)
+*   [Learn OpenGL](https://learnopengl.com) - Joey de Vries
+*   [ShaderX series](https://www.realtimerendering.com/resources/shaderx/) - Wolfgang Engel
+
+### Licensing
+
+*   [Creative Commons: a user guide](https://archive.org/download/CreativeCommonsUserGuide/CreativeCommonsUserGuide.pdf) - Simone Aliprandi (PDF)
+*   [Open Source Licensing Software Freedom and Intellectual Property Law](https://rosenlaw.com/oslbook/) - Lawrence Rosen
+
+### Operating Systems
+
+*   [Flexible Operating System Internals: The Design and Implementation of the Anykernel and Rump Kernels](https://aaltodoc.aalto.fi/handle/123456789/6318) - Antti Kantee (PDF)
+*   [Operating Systems: From 0 to 1 (⭐11k)](https://github.com/tuhdo/os01/releases/tag/0.0.1) - Tu, Ho Doang (PDF) (:construction: *in process*)
+*   [The Little Book About OS Development](https://littleosbook.github.io) - Erik Helin, Adam Renberg - (PDF, HTML)
+*   [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2022/xv6.html) - Russ Cox, Frans Kaashoek and Robert Morris (PDF, HTML)
+
+### Prompt Engineering
+
+*   [DALLE-E 2 prompt book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book.pdf) - Dallery.Gallery, Guy Parson (PDF)
 
 ---
 

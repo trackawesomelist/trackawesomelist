@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 17, 2019
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,9 +30,9 @@
 
 ## [4. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
-### Production Ready Django + Docker   [↗](https://awesomestacks.dev/production-ready-django-docker) / Resources
+### Production Ready Django + Docker [↗](https://awesomestacks.dev/production-ready-django-docker) / Resources
 
-*   [Python 3](https://www.python.org/) - [🛠](https://stackshare.io/python) - [🐙 (⭐50k)](https://github.com/python/cpython) - A programming language that lets you work quickly.
+*   [Python 3](https://www.python.org/) - [🛠](https://stackshare.io/python) - [🐙 (⭐58k)](https://github.com/python/cpython) - A programming language that lets you work quickly.
 
 ## [5. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
@@ -56,15 +56,9 @@
 
 ### Dataset / Web
 
-*   [StarData (⭐558)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
+*   [StarData (⭐560)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
 
-## [9. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
-
-### Messaging / Scala
-
-*   [Eventuate](http://eventuate.io/) - A platform for developing asynchronous microservices solving the distributed data management problems.
-
-## [10. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [9. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Compilers / Experimental/Proof of Concepts
 
@@ -74,25 +68,25 @@
 
 *   [vectroid.gb](https://gitlab.com/BonsaiDen/vectroid.gb) - Developed with gbasm.
 
-## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Networking
 
-*   [ZeroMQ (⭐8.8k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL3/MPL2] [website](http://zeromq.org/)
+*   [ZeroMQ (⭐9.1k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL3/MPL2] [website](http://zeromq.org/)
 
-## [12. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [11. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Boilerplates / Other
 
 *   [angular-electron (⭐5.5k)](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
 
-## [13. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [12. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Education
 
 *   [How to Get Into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre/)
 
-## [14. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Navigation / Navigation Demos
 

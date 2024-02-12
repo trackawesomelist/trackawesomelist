@@ -10,14 +10,14 @@
 
 ### Data Visualization / Runner
 
-*   [BabylonJS (⭐21k)](https://github.com/BabylonJS/Babylon.js) - A framework for building 3D games with HTML 5 and WebGL.
+*   [BabylonJS (⭐22k)](https://github.com/BabylonJS/Babylon.js) - A framework for building 3D games with HTML 5 and WebGL.
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Miscellaneous
 
-*   [ex2ms (⭐176)](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
-*   [ex\_rated (⭐442)](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
+*   [ex2ms (⭐180)](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.
+*   [ex\_rated (⭐446)](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
 
 ### Editors
 
@@ -46,12 +46,12 @@
 
 ### Syntax
 
-*   [pipeR (⭐162)](https://github.com/renkun-ken/pipeR) - Multi-paradigm Pipeline Implementation.
-*   [lambda.r (⭐202)](https://github.com/zatonovo/lambda.r) - Functional programming and simple pattern matching in R.
+*   [pipeR (⭐165)](https://github.com/renkun-ken/pipeR) - Multi-paradigm Pipeline Implementation.
+*   [lambda.r (⭐208)](https://github.com/zatonovo/lambda.r) - Functional programming and simple pattern matching in R.
 
 ### Data Manipulation
 
-*   [rlist (⭐175)](https://github.com/renkun-ken/rlist) - A toolbox for non-tabular data manipulation with lists.
+*   [rlist (⭐199)](https://github.com/renkun-ken/rlist) - A toolbox for non-tabular data manipulation with lists.
 
 ---
 

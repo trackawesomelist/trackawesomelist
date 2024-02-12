@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 23, 2018
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,25 +34,19 @@
 *   [SaltConf16 - YouTube](https://www.youtube.com/playlist?list=PL9svBjLDUl_-sVwcRliUQ-VGDb2qvwpx_) - Video recordings of SaltConf16 presentations.
 *   [SaltConf17 - YouTube](https://www.youtube.com/playlist?list=PL9svBjLDUl_-8yJxp-nSlmM9KYEQH4fgj) - Video recordings of SaltConf17 presentations delivered by SaltStack customers and partners.
 
-## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
-
-### Software for Creating APIs
-
-*   [TransiCast](http://www.transicast.com/) - Provides public transportation data for North America in a single, integrated call and response format. The data is provided in stream-parsable XML and JSON formats.  Open-source on [Google Code](https://code.google.com/archive/p/rasa/).  Hosted version at [www.transitcast.com](http://www.transitcast.com) [requires payment](http://www.transicast.com/coststructure.html).
-
-## [6. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [5. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Charts
 
 *   [d3-gridding (⭐102)](https://github.com/romsson/d3-gridding) - Chart mockups using grids
 
-## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Email
 
-*   [burnex (⭐65)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
+*   [burnex (⭐66)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
 
-## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Artificial Intelligence
 
@@ -62,14 +56,14 @@
 
 *   [Giraffe (⭐2k)](https://github.com/giraffe-fsharp/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
 
-## [9. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [8. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Learning
 
 *   [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) - Tutorials for Rigetti Computing's SDK.
 *   [IBM Q Full User Guide](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide\&page=introduction) - Short tutorials providing a gentle introduction to quantum computing and IBM Q.
 
-## [10. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [9. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Applets / Design Tooling
 
@@ -77,16 +71,16 @@
 
 ### Cursors / Skeumorphic Icons
 
-*   [Bibata (⭐1.4k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
-*   [Capitaine Cursors (⭐995)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
+*   [Bibata (⭐1.5k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+*   [Capitaine Cursors (⭐1k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
-## [11. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
+## [10. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
 ### Presentation / Extensions
 
 *   [mithril-slides (⭐22)](https://github.com/wulab/mithril-slides) - A Keynote-inspired presentation app written with Mithril
 
-## [12. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [11. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Videos and Lectures
 

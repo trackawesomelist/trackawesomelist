@@ -10,7 +10,7 @@
 
 ### CLI
 
-*   [zsh-better-npm-completion (⭐432)](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
+*   [zsh-better-npm-completion (⭐444)](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -59,7 +59,7 @@
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Genuine Sites / Package Managers
+### Mac App Download Sites / Genuine Sites
 
 *   App Shopper：<http://appshopper.com/>
 

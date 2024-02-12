@@ -18,7 +18,7 @@
 
 ### Network / Security Information & Event Management
 
-*   [LogESP (⭐176)](https://github.com/dogoncouch/LogESP) - Open Source SIEM (Security Information and Event Management system).
+*   [LogESP (⭐177)](https://github.com/dogoncouch/LogESP) - Open Source SIEM (Security Information and Event Management system).
 
 ## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

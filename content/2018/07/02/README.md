@@ -38,7 +38,7 @@
 
 ### Tools and frameworks
 
-*   [reg-cli (⭐311)](https://github.com/bokuweb/reg-cli) - Visual regression test tool which output easy-to-read single file html report.
+*   [reg-cli (⭐317)](https://github.com/bokuweb/reg-cli) - Visual regression test tool which output easy-to-read single file html report.
 
 ### Slideshows, talks and videos
 
@@ -72,7 +72,7 @@
 
 ### Software / Ticketing
 
-*   [Request Tracker](https://www.bestpractical.com/rt/) - An enterprise-grade issue tracking system. ([Source Code (⭐783)](https://github.com/bestpractical/rt)) `GPL-2.0` `Perl`
+*   [Request Tracker](https://www.bestpractical.com/rt/) - An enterprise-grade issue tracking system. ([Source Code (⭐814)](https://github.com/bestpractical/rt)) `GPL-2.0` `Perl`
 
 ---
 

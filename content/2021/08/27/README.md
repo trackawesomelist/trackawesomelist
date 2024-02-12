@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 27, 2021
 
-20 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,7 +17,7 @@
 
 ### Animations / Checkbox
 
-*   [svelte-typewriter (⭐210)](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
+*   [svelte-typewriter (⭐212)](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
 
 ## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -33,7 +33,7 @@
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Image Synthesis / Promptism
+### Image Synthesis / Multi-agents
 
 *   [Smooth Transitioning Between Position / Rotation / Zoom and Text Inputs by Keyframing Parameters: A Proof of Concept \[15,000 Frames\] : deepdream](https://www.reddit.com/r/deepdream/comments/pagqjx/smooth_transitioning_between_position_rotation/)
 
@@ -51,7 +51,7 @@
 
 ### Authorization / Open-source policy frameworks
 
-*   [Oso (⭐3.2k)](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
+*   [Oso (⭐3.3k)](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
 
 ### SAML / Macaroons
 
@@ -143,7 +143,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-tauri (⭐134)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
+*   [vite-plugin-tauri (⭐136)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 
 ## [12. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -157,44 +157,38 @@
 
 *   [Jetbrains plugin](https://plugins.jetbrains.com/plugin/17435-inertia-js-support) - PhpStorm/Intellij Ultimate plugin for Inertia.js.
 
-## [14. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
-
-### Apps / Password Recovery
-
-*   [Yacat](https://handbook.golem.network/requestor-tutorials/task-processing-development/task-example-2-hashcat) - Hashcat password-recovery step-by-step.
-
-## [15. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [14. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Official Venues / Skeumorphic Icons
 
 *   [Apps for GNOME](https://apps.gnome.org/)
 
-## [16. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [15. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / Files
 
 *   [RecoverPy (⭐818)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
 
-## [17. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
+## [16. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 
 ### Clarity Resources / Contracts
 
 *   [CityCoin (⭐71)](https://github.com/citycoins/citycoin) - An implementation of PoX lite using STX transfers to mint new coins using proportional probabilities.
 
-## [18. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [17. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Template engine
 
-*   [handlebars (⭐26)](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
+*   [handlebars (⭐29)](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
 *   [mustache (⭐7)](https://github.com/alosaur/mustache) - Mustache template engine for deno
 
-## [19. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [18. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Equity and Environmental Justice
 
 *   [Opportunity Atlas](https://www.opportunityatlas.org/) - These [datasets provided by Opportunity Insights](https://opportunityinsights.org/data/?geographic_level=0\&topic=0\&paper_id=1652#resource-listing) allow you to analyze social mobility and a variety of other outcomes from life expectancy to patent rates by neighborhood, college, parental income level, and racial background.
 
-## [20. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [19. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Videos / Other Tools
 

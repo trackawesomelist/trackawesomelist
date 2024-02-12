@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 14, 2016
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -70,13 +70,7 @@
 *   [box-js (⭐517)](https://github.com/CapacitorSet/box-js) - A tool for studying JavaScript
     malware, featuring JScript/WScript support and ActiveX emulation.
 
-## [9. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
-
-### ASM / Music drivers and trackers
-
-*   [ASMSchool](http://gameboy.mongenel.com/asmschool.html) - A set of lessons by Duo about coding in Assembly for GB/GBC and disassembling.
-
-## [10. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [9. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -92,19 +86,19 @@ Webpage: <https://www.facebook.com/wishslowcoffeehouse>
 
 ![](http://www.speedtest.net/result/5789565474.png)
 
-## [11. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [10. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Docker Images for Penetration Testing & Security
 
 *   `docker pull remnux/metasploit` - [docker-metasploit](https://hub.docker.com/r/remnux/metasploit/)
 
-## [12. Awesome Python](/content/vinta/awesome-python/README.md)
+## [11. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Podcasts
 
 *   [Python Bytes](https://pythonbytes.fm)
 
-## [13. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [12. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Introduction to CS
 

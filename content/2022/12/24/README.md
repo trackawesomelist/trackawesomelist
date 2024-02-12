@@ -22,7 +22,7 @@
 
 ### Software / Make your life easier
 
-*   [RestQA (⭐74)](https://github.com/restqa/restqa) - A REST API testing Framework based on ghekin to manage microservice local testing using the best in class Developer experience.
+*   [RestQA (⭐77)](https://github.com/restqa/restqa) - A REST API testing Framework based on ghekin to manage microservice local testing using the best in class Developer experience.
 
 ### Training (Includes developer training for automation testers) / Other
 
@@ -48,7 +48,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐2k)](https://github.com/cloudscape-design/components)
+  Source code \*: [:octocat: (⭐2.2k)](https://github.com/cloudscape-design/components)
 
 
 - : [BLiP](https://design.take.net/)
@@ -70,7 +70,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐140)](https://github.com/cultureamp/kaizen-design-system)
+  Source code \*: [:octocat: (⭐149)](https://github.com/cultureamp/kaizen-design-system)
 
 
 - : [KoliBri](https://public-ui.github.io/) (Public-UI)
@@ -81,7 +81,20 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐82)](https://github.com/public-ui/kolibri/)
+  Source code \*: [:octocat: (⭐120)](https://github.com/public-ui/kolibri/)
+
+
+- : [Materialize CSS](https://materializecss.com/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐39k)](https://github.com/Dogfalo/materialize)
+
+  : 
 
 
 - : [NHS.UK Service Manual](https://service-manual.nhs.uk/)
@@ -136,7 +149,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐29)](https://github.com/scania-digital-design-system/sdds)
+  Source code \*: [:octocat: (⭐30)](https://github.com/scania-digital-design-system/sdds)
 
 
 - : [Siemens iX](https://ix.siemens.io/)
@@ -147,18 +160,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐103)](https://github.com/siemens/ix)
-
-
-- : [Materialize CSS](https://materializecss.com/)
-
-  Components: 👍
-
-  Voice & Tone: 
-
-  Designers Kit: 👍
-
-  Source code \*: [:octocat: (⭐39k)](https://github.com/Dogfalo/materialize)
+  Source code \*: [:octocat: (⭐129)](https://github.com/siemens/ix)
 
 
 
@@ -166,17 +168,17 @@
 
 ### Responsive / Syntax Highlight
 
-*   [flowbite-react (⭐1.4k)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
+*   [flowbite-react (⭐1.6k)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
 
 ## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [react-xs-admin (⭐11)](https://github.com/jsxiaosi/react-xs-admin) - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
+*   [react-xs-admin (⭐22)](https://github.com/jsxiaosi/react-xs-admin) - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
 
 ### Laravel / Community
 
-*   [Laravel Vite Plugin (⭐680)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
+*   [Laravel Vite Plugin (⭐729)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
 
 ## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

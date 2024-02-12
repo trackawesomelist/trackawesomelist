@@ -40,7 +40,7 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Incident Response (⭐6.6k)](https://github.com/meirwah/awesome-incident-response) - A curated list of resources for incident response.
+*   [Awesome Incident Response (⭐6.8k)](https://github.com/meirwah/awesome-incident-response) - A curated list of resources for incident response.
 
 ## [6. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
 
@@ -123,7 +123,7 @@
 ### ORM
 
 *   [AsyncPoco (⭐128)](https://github.com/tmenier/AsyncPoco) - A long-"awaited" fully asynchronous PetaPoco fork
-*   [NPoco (⭐829)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Based on Schotime's branch of PetaPoco
+*   [NPoco (⭐834)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Based on Schotime's branch of PetaPoco
 
 ## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

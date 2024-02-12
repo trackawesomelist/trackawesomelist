@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 15, 2019
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,13 +28,13 @@ Free
 
 ### Network / Scanning / Pentesting
 
-*   [Legion (⭐921)](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
+*   [Legion (⭐946)](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
 
 ## [4. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ### Alertmanager / Miscellaneous
 
-*   [Karma (⭐2k)](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
+*   [Karma (⭐2.1k)](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -95,7 +95,7 @@ Free
 
 ### Data Formats
 
-*   [BinData (⭐42)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
+*   [BinData (⭐43)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
 
 ## [10. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -215,13 +215,7 @@ Free
 *   [DirtyWarez](https://dirtywarez.org/) Lists top warez sites with Alexa rankings and other metadata.
 *   [MacGuffin (⭐87)](https://github.com/hwkns/macguffin) Automated tools for handling Scene and P2P film releases.
 
-## [11. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
-
-### Testing / Scala
-
-*   [Hikaku (⭐189)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
-
-## [12. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [11. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### Theory
 
@@ -231,13 +225,13 @@ Free
 
 *   [do (⭐25)](https://github.com/8gears/do)  The simplest build tool on earth. Agnostic and multipurpose build tool and a build file. Tries to be better than the usual shell hell.
 
-## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### API
 
-*   [Ocelot (⭐7.9k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
+*   [Ocelot (⭐8k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 
-## [14. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 

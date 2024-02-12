@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 02, 2016
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,7 +18,7 @@
 
 ### Rust / Git
 
-*   [rustls (⭐4.6k)](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
+*   [rustls (⭐5k)](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
 
 ## [2. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
@@ -38,44 +38,13 @@
     *   [Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22)
     *   [Readings](http://15418.courses.cs.cmu.edu/spring2015/reading)
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Chapel / Non-X86
-
-*   [Chapel Tutorial for Programmers](http://web.archive.org/web/20150310075109/http://cs.colby.edu/kgburke/?resource=chapelTutorial) *(:card\_file\_box: archived)*
-
-### COBOL / Non-X86
-
-*   [OpenCOBOL 1.1 - Programmer's Guide](http://open-cobol.sourceforge.net/guides/OpenCOBOL%20Programmers%20Guide.pdf) (PDF)
-
-### F Sharp / Phoenix
-
-*   [F# for fun and profit](https://www.gitbook.com/book/swlaschin/fsharpforfunandprofit/details) (ePub)
-
-### Haxe / Spock Framework
-
-*   [Kha Handbook (⭐1.4k)](https://github.com/KTXSoftware/Kha/wiki/Tutorials)
-
-### Lisp / TeX
-
-*   [Google's Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-*   [Learning to Program](http://www.alan-g.me.uk)
-
-### Standard ML / Play Scala
-
-*   [Programming in Standard ML, DRAFT](http://www.cs.cmu.edu/~rwh/isml/book.pdf) - Robert Harper (PDF)
-
-## [5. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
+## [4. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 
 ### Blogs / Question Answering
 
 *   [Implementing Neural networks](http://peterroelants.github.io/)
 
-## [6. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [5. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Models/Projects
 

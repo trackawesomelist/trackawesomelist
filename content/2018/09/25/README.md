@@ -24,7 +24,7 @@
 
 ### Docker
 
-*   [Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker (⭐32)](https://github.com/OpenPj/keycloak-docker-quickstart)
+*   [Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker (⭐33)](https://github.com/OpenPj/keycloak-docker-quickstart)
 
 ## [4. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Tools and frameworks
 
-*   [AyeSpy (⭐184)](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
+*   [AyeSpy (⭐190)](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
 
 ## [8. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 

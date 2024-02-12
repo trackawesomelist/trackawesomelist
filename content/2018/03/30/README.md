@@ -100,16 +100,16 @@
 
 *   [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - The world’s most advanced repair and recovery tool for Mac.
 
-### Download Management Tools / File Sharing
+### Download Management Tools / Audio Record and Process
 
 *   [Downie](https://software.charliemonroe.net/downie.php) - Video downloader for macOS with support for YouTube and other 1200 sites.
 *   [qBittorrent](https://www.qbittorrent.org/) - A project aims to provide an open-source software alternative to µTorrent. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/qbittorrent/qBittorrent) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-### Translation Tools / File Sharing
+### Translation Tools / Audio Record and Process
 
 *   [iTranslate](http://www.itranslate.com/) - Translate entire website instantly with its built-in browser or with iTranslate Safari extension into over 40 languages. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-### Security Tools / File Sharing
+### Security Tools / Audio Record and Process
 
 *   [KextViewer](https://objective-see.com/products/kextviewr.html) - View all modules on that are loaded in the OS kernel. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/objective-see/KextViewr)
 *   [LockDown](https://objective-see.com/products/lockdown.html) - Open-source tool for El Capitan that audits and remediates security configuration settings. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://bitbucket.org/objective-see/lockdown) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -165,7 +165,7 @@
 
 ### Shell Script Development / See also
 
-*   [awesome-cli-apps (⭐12k)](https://github.com/agarrharr/awesome-cli-apps)
+*   [awesome-cli-apps (⭐13k)](https://github.com/agarrharr/awesome-cli-apps)
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

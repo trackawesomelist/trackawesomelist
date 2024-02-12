@@ -10,7 +10,7 @@
 
 ### General
 
-*   [slacko (⭐74)](https://github.com/Leonidas-from-XIV/slacko) – A neat interface for Slack in OCaml.
+*   [slacko (⭐81)](https://github.com/Leonidas-from-XIV/slacko) – A neat interface for Slack in OCaml.
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -23,7 +23,7 @@
 
 ### Packages / Natural language processing
 
-*   [franc (⭐3.9k)](https://github.com/wooorm/franc) - Detect the language of text.
+*   [franc (⭐4k)](https://github.com/wooorm/franc) - Detect the language of text.
 
 ## [4. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

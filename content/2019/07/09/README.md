@@ -38,13 +38,13 @@
 ### Software / Make your life easier
 
 *   [Check All](https://chrispederick.com/work/web-developer/) - "Select All" is often not available. Why not bring your own?
-*   [recheck-web (⭐261)](https://github.com/retest/recheck-web) - Open Source change comparison tool with local Golden Masters, git-like ignore syntax and "unbreakable selenium" tests.
+*   [recheck-web (⭐262)](https://github.com/retest/recheck-web) - Open Source change comparison tool with local Golden Masters, git-like ignore syntax and "unbreakable selenium" tests.
 
 ## [5. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Component Libraries
 
-*   [Clever components (⭐148)](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
+*   [Clever components (⭐195)](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
 
 ## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -154,7 +154,7 @@
 
 ### JSON
 
-*   [parson (⭐1.2k)](https://github.com/kgabis/parson) - Parson is a lighweight json library written in C. \[MIT]
+*   [parson (⭐1.3k)](https://github.com/kgabis/parson) - Parson is a lighweight json library written in C. \[MIT]
 
 ---
 

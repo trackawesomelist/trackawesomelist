@@ -53,7 +53,7 @@
 
 ### Miscellaneous
 
-*   [Mach7 (⭐1.2k)](https://github.com/solodon4/Mach7) - A Pattern-matching library for C++. \[BSD]
+*   [Mach7 (⭐1.3k)](https://github.com/solodon4/Mach7) - A Pattern-matching library for C++. \[BSD]
 
 ## [6. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 
@@ -65,7 +65,7 @@
 
 ### C++ / Natural Language Processing
 
-*   [MeTA (⭐672)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
+*   [MeTA (⭐678)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
 
 ### JavaScript / Data Analysis / Data Visualization
 
@@ -73,7 +73,7 @@
 
 ### Python / Computer Vision
 
-*   [Vigranumpy (⭐391)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
+*   [Vigranumpy (⭐396)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
 
 ## [8. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -85,18 +85,18 @@
 
 ### Application Templates
 
-*   [ProjectScaffold (⭐517)](https://github.com/fsprojects/ProjectScaffold) - A prototypical .NET solution recommended by the F# Foundation---includes file system setup, Paket for dependencies and FAKE for build/test automation. By default, build process also compiles documentation and generates NuGet packages.
+*   [ProjectScaffold (⭐514)](https://github.com/fsprojects/ProjectScaffold) - A prototypical .NET solution recommended by the F# Foundation---includes file system setup, Paket for dependencies and FAKE for build/test automation. By default, build process also compiles documentation and generates NuGet packages.
 
 ### MVVM
 
 *   [MVVMCross (⭐3.8k)](https://github.com/MvvmCross/MvvmCross) - Cross-platform mvvm mobile development framework for WPF, Silverlight for WP7 and WP8, Mono for Android, MonoTouch for iOS, Windows Universal projects (WPA8.1 and Windows 8.1 Store apps). Makes extensive use of Portable Class Libraries (PCL) to provide maintainable cross platform C# native applications.
-*   [Stylet (⭐911)](https://github.com/canton7/stylet/) - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
+*   [Stylet (⭐938)](https://github.com/canton7/stylet/) - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
 
 ## [10. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / HTTP
 
-*   [Retrofit (⭐153)](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
+*   [Retrofit (⭐156)](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
 
 ## [11. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -136,7 +136,7 @@
 
 ### Data Validation
 
-*   [Bouncer (⭐361)](https://github.com/leonardoborges/bouncer)
+*   [Bouncer (⭐359)](https://github.com/leonardoborges/bouncer)
 
 ## [16. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
@@ -248,9 +248,9 @@
 
 ### Command-Line Productivity
 
-*   [fzf (⭐53k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder
-*   [marker (⭐1.9k)](https://github.com/pindexis/marker) - Bookmark your shell commands
-*   [thefuck (⭐78k)](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
+*   [fzf (⭐55k)](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+*   [marker (⭐2k)](https://github.com/pindexis/marker) - Bookmark your shell commands
+*   [thefuck (⭐80k)](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 
 ### Customization / Directory Navigation
 
@@ -258,23 +258,23 @@
 
 ### For Developers / Directory Navigation
 
-*   [git-open (⭐3.1k)](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser
+*   [git-open (⭐3.2k)](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser
 
 ### System Utilities / Directory Navigation
 
 *   [htop (⭐5.8k)](https://github.com/hishamhm/htop) - A ncurses based interactive process viewer which aims to be a better `top`
-*   [powertop (⭐817)](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
-*   [procdog (⭐74)](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
+*   [powertop (⭐870)](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
+*   [procdog (⭐75)](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
 
 ### Games / Directory Navigation
 
-*   [minesweeper (⭐52)](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
+*   [minesweeper (⭐54)](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
 
 ## [22. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Date and Time
 
-*   [calendar (⭐458)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
+*   [calendar (⭐459)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
 
 ### Files and Directories
 
@@ -292,13 +292,13 @@
 
 ### Blockchain Explorers
 
-*   [Bitcoin Transaction Explorer (⭐177)](https://github.com/JornC/bitcoin-transaction-explorer)
+*   [Bitcoin Transaction Explorer (⭐182)](https://github.com/JornC/bitcoin-transaction-explorer)
 
 ## [24. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Templating Engines / Runner
 
-*   [xtemplate (⭐558)](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
+*   [xtemplate (⭐559)](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 
 ### Control Flow / Runner
 
@@ -306,7 +306,7 @@
 
 ### Scroll / Other
 
-*   [ScrollMenu (⭐203)](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
+*   [ScrollMenu (⭐204)](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
 
 ## [25. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 

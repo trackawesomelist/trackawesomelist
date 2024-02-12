@@ -52,7 +52,7 @@
 
 ### Tools
 
-*   [wext-manifest-loader (⭐20)](https://github.com/abhijithvijayan/wext-manifest-loader) - Webpack loader that lets you specify `manifest.json` properties to appear only in specific browsers.
+*   [wext-manifest-loader (⭐25)](https://github.com/abhijithvijayan/wext-manifest-loader) - Webpack loader that lets you specify `manifest.json` properties to appear only in specific browsers.
 
 ## [5. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 

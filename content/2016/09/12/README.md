@@ -61,7 +61,7 @@
 
 ### Graphics
 
-*   [OpenTK (⭐2.9k)](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
+*   [OpenTK (⭐3k)](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
 
 ## [9. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
@@ -73,7 +73,7 @@
 
 ### System Utilities / Directory Navigation
 
-*   [histstat (⭐91)](https://github.com/vesche/histstat) - History for netstat
+*   [histstat (⭐92)](https://github.com/vesche/histstat) - History for netstat
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Shell Package Management / Directory Navigation
 
-*   [dotfiler (⭐232)](https://github.com/svetlyak40wt/dotfiler) – Shell agnostic git based dotfiles package manager, written in Python.
+*   [dotfiler (⭐238)](https://github.com/svetlyak40wt/dotfiler) – Shell agnostic git based dotfiles package manager, written in Python.
 
 ## [3. Tips](/content/git-tips/tips/README.md)
 

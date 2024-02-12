@@ -16,7 +16,7 @@
 
 ### Web Technologies and Services
 
-*   [Rfacebook (⭐348)](https://github.com/pablobarbera/Rfacebook) - Access to Facebook API via R.
+*   [Rfacebook (⭐350)](https://github.com/pablobarbera/Rfacebook) - Access to Facebook API via R.
 
 ## [3. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Misc / Other
 
-*   [peterkokot/awesome-jquery (⭐884)](https://github.com/peterkokot/awesome-jquery)
+*   [peterkokot/awesome-jquery (⭐903)](https://github.com/peterkokot/awesome-jquery)
 
 ## [10. Amas](/content/sindresorhus/amas/README.md)
 

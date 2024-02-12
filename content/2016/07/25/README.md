@@ -16,21 +16,21 @@
 
 ### HTML Widgets
 
-*   [timevis (⭐549)](https://github.com/daattali/timevis) - Create fully interactive timeline visualizations.
+*   [timevis (⭐632)](https://github.com/daattali/timevis) - Create fully interactive timeline visualizations.
 
 ### Network Analysis
 
-*   [visNetwork (⭐483)](https://github.com/datastorm-open/visNetwork) - Using vis.js library for network visualization.
+*   [visNetwork (⭐521)](https://github.com/datastorm-open/visNetwork) - Using vis.js library for network visualization.
 
 ### Reproducible Research
 
-*   [ezknitr (⭐99)](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
+*   [ezknitr (⭐107)](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Authentication and Authorization
 
-*   [OAuth (⭐74)](https://github.com/danielcrenna/vault/tree/master/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
+*   [OAuth (⭐75)](https://github.com/danielcrenna/vault/tree/master/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
 
 ## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Framework Components
 
-*   [graphql\_parser (⭐19)](https://github.com/graphql-elixir/graphql_parser) - An Elixir binding for [libgraphqlparser (⭐1k)](https://github.com/graphql/libgraphqlparser).
+*   [graphql\_parser (⭐19)](https://github.com/graphql-elixir/graphql_parser) - An Elixir binding for [libgraphqlparser (⭐1.1k)](https://github.com/graphql/libgraphqlparser).
 *   [http\_router (⭐14)](https://github.com/sugar-framework/elixir-http-router) - HTTP Router with various macros to assist in developing your application and organizing your code.
 *   [plug\_graphql (⭐126)](https://github.com/graphql-elixir/plug_graphql) - Phoenix Plug integration for [GraphQL Elixir](http://graphql-elixir.org/).
 
@@ -72,7 +72,7 @@
 
 ### ORM and Datamapping
 
-*   [ecto (⭐5.8k)](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir.
+*   [ecto (⭐5.9k)](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir.
 *   [ecto\_ordered (⭐40)](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
 *   [postgrex (⭐1k)](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
 *   [sql\_dust (⭐116)](https://github.com/bettyblocks/sql_dust) - Generate (complex) SQL queries using magical Elixir SQL dust.
@@ -84,11 +84,11 @@
 ### Third Party APIs
 
 *   [bandwidth (⭐5)](https://github.com/bandwidthcom/elixir-bandwidth) - An Elixir client library for the Bandwidth Application Platform.
-*   [kane (⭐98)](https://github.com/peburrows/kane) - A [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) client.
+*   [kane (⭐104)](https://github.com/peburrows/kane) - A [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) client.
 
 ### Utilities
 
-*   [plasm (⭐87)](https://github.com/facto/plasm) - Plasm is Ecto's composable query multitool, containing higher-level functions such as .count, .random, .first, .last, .find, .inserted\_before, .inserted\_after, etc.
+*   [plasm (⭐88)](https://github.com/facto/plasm) - Plasm is Ecto's composable query multitool, containing higher-level functions such as .count, .random, .first, .last, .find, .inserted\_before, .inserted\_after, etc.
 
 ### Books
 
@@ -114,7 +114,7 @@
 
 ### Project Generators
 
-*   [fez (⭐51)](https://github.com/jwoertink/fez) - A Kemal application generator
+*   [fez (⭐50)](https://github.com/jwoertink/fez) - A Kemal application generator
 
 ---
 

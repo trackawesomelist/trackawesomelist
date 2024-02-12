@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 27 - Mar 05, 2017
 
-55 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### General / Other
 
-*   [Pentest Cheat Sheets (⭐3.5k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
+*   [Pentest Cheat Sheets (⭐3.6k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
 
 ## [3. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
@@ -35,24 +35,24 @@
 
 ### Extensions / General Purpose
 
-*   [PackageResourceViewer (⭐289)](https://github.com/skuroda/PackageResourceViewer) — View and Edit Sublime package resources. Helpful for extensions and themes development.
+*   [PackageResourceViewer (⭐294)](https://github.com/skuroda/PackageResourceViewer) — View and Edit Sublime package resources. Helpful for extensions and themes development.
 
 ### Fun stuff / Themes
 
-*   [Soda](http://buymeasoda.github.io/soda-theme/) — Dark and light custom UI themes.
-*   [Spacegray](http://kkga.github.io/spacegray/) — A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal. Comes in different flavors with accompanying Base16 color schemes. <http://kkga.github.io/spacegray>
-*   [Cobalt2 (⭐1.6k)](https://github.com/wesbos/cobalt2) — A full featured Sublime Text blue theme
+*   [Ayu (⭐4.2k)](https://github.com/dempfi/ayu) — A simple theme with bright colors and comes in three versions — dark, mirage and light for all day long comfortable work.
+*   [Cobalt2 (⭐1.6k)](https://github.com/wesbos/cobalt2) — A full featured Sublime Text blue theme.
 *   [Flatland (⭐2.7k)](https://github.com/thinkpixellab/flatland) — A simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from Soda, the right place to start for any custom theme development for Sublime.
 *   [Material theme (⭐11k)](https://github.com/equinusocio/material-theme) — This theme brings the Material Design visual language. <http://equinsuocha.io/material-theme>
 *   [Predawn (⭐1.8k)](https://github.com/jamiewilson/predawn) — Dark interface and syntax theme for Sublime Text and Atom. <http://jamiewilson.io/predawn>
-*   [Ayu (⭐4.1k)](https://github.com/dempfi/ayu) — A simple theme with bright colors and comes in three versions — dark, mirage and light for all day long comfortable work.
-*   [Sublime Theme Switcher (⭐18)](https://github.com/chmln/sublime-text-theme-switcher-menu) — Painless theme selection.
+*   [Soda](http://buymeasoda.github.io/soda-theme/) — Dark and light custom UI themes.
+*   [Spacegray](http://kkga.github.io/spacegray/) — A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal. Comes in different flavors with accompanying Base16 color schemes. <http://kkga.github.io/spacegray>
+*   [Sublime Theme Switcher (⭐16)](https://github.com/chmln/sublime-text-theme-switcher-menu) — Painless theme selection.
 
 ### Fun stuff / Color Schemes
 
 *   [colorsublime.com](http://colorsublime.com) - huge collection of color schemes for Sublime Text.
-*   <http://tmtheme-editor.herokuapp.com> — online editor for `tmTheme` format, with large gallery of Sublime Text/Textmate color schemes. GitHib project page: [https://github.com/aziz/tmTheme-Editor (⭐1.6k)](https://github.com/aziz/tmTheme-Editor)
-*   [Schemr (⭐138)](https://github.com/benweier/Schemr) — allows you to quickly change your color scheme using the command palette and keyboard shortcuts.
+*   [Schemr (⭐136)](https://github.com/benweier/Schemr) — allows you to quickly change your color scheme using the command palette and keyboard shortcuts.
+*   <http://tmtheme-editor.herokuapp.com> — online editor for `tmTheme` format, with large gallery of Sublime Text/Textmate color schemes. GitHib project page: [https://github.com/aziz/tmTheme-Editor (⭐1.7k)](https://github.com/aziz/tmTheme-Editor)
 
 ## [6. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
@@ -66,13 +66,7 @@
 
 *   [router (⭐79)](https://github.com/darkleaf/router)
 
-## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Assembly Language / Non-X86
-
-*   [The Second Book of Machine Language](http://www.atariarchives.org/2bml/)
-
-## [9. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### JavaScript
 
@@ -83,20 +77,20 @@
 
 *   [Base (⭐432)](https://github.com/garybernhardt/base) - The universal Base class you've always wanted.
 
-## [10. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Native Apps (closed source)
 
 *   [Transit Display](http://transitdisplay.com/) - Multimodal and real-time transit display software.
 
-## [11. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [10. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Network / Other Resources
 
 *   [CloudShark](https://www.cloudshark.org) - Web-based tool for packet analysis
     and malware traffic detection.
 
-## [12. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [11. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Backups
 
@@ -113,7 +107,7 @@
 *   [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
 *   [ZSON (⭐501)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
 
-## [13. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [12. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Numbers, Dates, and Time Parsing / Constituency Parsing
 
@@ -130,13 +124,13 @@
     *   *Machine Learning made simple with Ruby* by [Lorenzo Masini](https://twitter.com/rugginoso) <sup>\[[post](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
     *   *Practical Data Science in Ruby* by Bobby Grayson <sup>\[[slides](http://slides.com/bobbygrayson/p#/)]</sup>
 
-## [14. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [13. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Documentation tools / Components
 
 *   [NgModule-Viz (⭐37)](https://github.com/politie/ngmodule-viz) : Visualize the dependencies between the NgModules in your Angular 2+ application.
 
-## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Artificial Intelligence
 
@@ -146,17 +140,17 @@
 
 *   [Intel TBB](https://www.threadingbuildingblocks.org/) - Intel® Threading Building Blocks. \[Apache2]
 
-## [16. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [15. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Tools
 
-*   [chrome-store-api (⭐25)](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
+*   [chrome-store-api (⭐26)](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
 
 ### Testing
 
-*   [sinon-chrome (⭐406)](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
+*   [sinon-chrome (⭐428)](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
 
-## [17. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [16. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -194,13 +188,13 @@
 *   [Fotolia](https://us.fotolia.com/) - Photos, Illustrations, Vectors, Videos.
 *   [Shutterstock](https://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
 
-## [18. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [17. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / PHP Books
 
 *   [Functional Programming in PHP](https://www.functionalphp.com/) - This book will show you how to leverage these new PHP5.3+ features by understanding functional programming principles
 
-## [19. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [18. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Elements
 
@@ -211,19 +205,19 @@
 *   [civicdr.org (⭐3)](https://github.com/CiviCDR/civicdr.org) - Website for [CiviCDR](https://civicdr.org/).
 *   [nekocafe (⭐16)](https://github.com/notenoughneon/nekocafe) - Web chat room :cat: :speech\_balloon:.
 
-## [20. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [19. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Modules
 
 *   [Cloudstitch Framer Module (⭐15)](https://github.com/cloudstitch/framer.module.cloudstitch) - Module lets you load data from Google Spreadsheets and Microsoft Excel directly into your Framer projects.
 
-## [21. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [20. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Questions
 
-*   [slap (⭐83)](https://github.com/akabe/slap) - A linear algebra library in OCaml with type-based static size checking for matrix operations.
+*   [slap (⭐86)](https://github.com/akabe/slap) - A linear algebra library in OCaml with type-based static size checking for matrix operations.
 
-## [22. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [21. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Papers
 
@@ -245,13 +239,13 @@
 
 *   [Flickr Data](https://yahooresearch.tumblr.com/post/89783581601/one-hundred-million-creative-commons-flickr-images) 100 Million Yahoo dataset
 
-## [23. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
 *   [VueJS Iran - Telegram Channel & group (group link available in channel bio)](https://telegram.me/vue_js)
 
-## [24. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [23. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### React Native
 
@@ -319,7 +313,7 @@
 
 
 
-## [25. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [24. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Resources / Books
 
@@ -344,52 +338,38 @@
 
 *   [Spark with Scala Gitter channel](https://gitter.im/spark-scala/Lobby) - "*A place to discuss and ask questions about using Scala for Spark programming*" started by [@deanwampler](https://github.com/deanwampler).
 
-## [26. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
-
-### Java VM / Java
-
-*   [MSF4J (⭐361)](https://github.com/wso2/msf4j) - High throughput & low memory footprint Java microservices framework.
+## [25. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Vocabularies / Scala
 
 *   [JSON Schema](http://json-schema.org/) - Vocabulary that allows you to annotate and validate JSON documents.
 
-## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [26. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Framework Components
 
-*   [rummage\_ecto (⭐211)](https://github.com/Excipients/rummage_ecto) - A configurable framework to search, sort and paginate Ecto Queries.
+*   [rummage\_ecto (⭐210)](https://github.com/Excipients/rummage_ecto) - A configurable framework to search, sort and paginate Ecto Queries.
 
 ### ORM and Datamapping
 
 *   [mongodb\_ecto (⭐358)](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
 
-## [28. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
-
-### Miscellaneous / Episodes
-
-*   [Macchina M2](http://macchina.cc/guide/m2) - Macchina 2.0 is a complete overhaul of our 1.X generation of Macchina. The goals are still the same: Create an easy-to-use, fully-open, and super-compatible automotive interface.
-
-## [29. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [27. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Settings management
 
-*   [Wagtail-Flags (⭐81)](https://github.com/cfpb/wagtail-flags) - Feature flags for Wagtail sites.
+*   [Wagtail-Flags (⭐80)](https://github.com/cfpb/wagtail-flags) - Feature flags for Wagtail sites.
 
 ### Apps / Misc
 
-*   [Wagtail Sharing (⭐50)](https://github.com/cfpb/wagtail-sharing) – Easier sharing of Wagtail drafts.
-
-### Tools / Templates & Starter Kits
-
-*   [Wagtail Starter Kit (⭐52)](https://github.com/tkjone/starterkit-wagtail) – A cookiecutter complete with wagtail, django layout, vagrant, provisioning scrips, front end build system and more!
+*   [Wagtail Sharing (⭐49)](https://github.com/cfpb/wagtail-sharing) – Easier sharing of Wagtail drafts.
 
 ### Resources / Articles
 
 *   [Extending The Functionality of Email Forms in Wagtail](https://posts-by.lb.ee/dev-wagtail-extending-the-functionality-of-email-forms-232c8469ac97)
 *   [Wagtail: 2 Steps for Adding Pages Outside of the CMS](https://www.caktusgroup.com/blog/2016/02/15/wagtail-2-steps-adding-pages-outside-cms/)
 
-## [30. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [28. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Belgium 🇧🇪 / Brussels
 
@@ -404,13 +384,13 @@ Webpage: <https://metalab.at>
 | ---- | ----- | ------------------------------------------------- | ------------------------------------------- |
 | ✔    | ✔     | [Rathausstraße 6, 1010 Wien](https://metalab.at/) | All time as long as a Key member is present |
 
-## [31. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [29. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Images, Maps and Charts / Paid Books
 
 *   [AnyChart-jQuery (⭐12)](https://github.com/AnyChart/AnyChart-jQuery) - Plugin for easily using AnyChart JavaScript charting library with jQuery.
 
-## [32. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
+## [30. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
 
 ### High level
 
@@ -421,69 +401,69 @@ Webpage: <https://metalab.at>
 *   [dht-rpc (⭐146)](https://github.com/mafintosh/dht-rpc) – Make RPC calls over a [Kademlia](https://pdos.csail.mit.edu/\~petar/papers/maymounkov-kademlia-lncs.pdf) based DHT.
 *   [dns-discovery (⭐189)](https://github.com/mafintosh/dns-discovery) – Discovery peers in a distributed system using regular dns and multicast dns.
 
-## [33. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [31. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Other
 
 *   [pyramid\_retry (⭐6)](https://github.com/Pylons/pyramid_retry) - pyramid\_retry is an execution policy for Pyramid that wraps requests and can retry them a configurable number of times under certain "retryable" error conditions before indicating a failure to the client.
 
-## [34. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [32. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### On-Call
 
 *   [Incident management at Google — adventures in SRE-land](https://cloudplatform.googleblog.com/2017/02/Incident-management-at-Google-adventures-in-SRE-land.html)
 
-## [35. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [33. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Online Build System
 
 *   [flow.ci](https://flow.ci/) - flow\.ci, hosted continuous integration and delivery service for innovators who shape the future.
 
-## [36. Awesome Standard](/content/standard/awesome-standard/week/README.md)
+## [34. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
 ### forks
 
 *   **[standard-focus](https://www.npmjs.com/package/standard-focus)** - Focus on one error at a time.
 
-## [37. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
+## [35. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
 
 ### Books
 
 *   [圖解OpenFlow](http://www.books.com.tw/products/CN11301942)
 
-## [38. Computer Science](/content/ossu/computer-science/week/README.md)
+## [36. Computer Science](/content/ossu/computer-science/week/README.md)
 
 ### Congratulations / Which programming languages should I use?
 
 *   Look for a job as a developer!
 *   Check out the [readings](https://github.com/ossu/computer-science/blob/master/README.md/extras/readings.md) for classic books you can read that will sharpen your skills and expand your knowledge.
 
-## [39. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [37. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Analysis/Inspection
 
 *   [DPKT (⭐1k)](https://github.com/kbandla/dpkt): Python packet creation/parsing library.
 
-## [40. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [38. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Image and Language / Video Captioning
 
 *   TAU / USC \[[paper](https://arxiv.org/pdf/1612.06950.pdf)]
     *   Dotan Kaufman, Gil Levi, Tal Hassner, Lior Wolf, Temporal Tessellation for Video Annotation and Summarization, arXiv:1612.06950.
 
-## [41. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [39. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Third-party APIs
 
-*   [raven.cr (⭐120)](https://github.com/sija/raven.cr) - Raven is a client for [Sentry (⭐35k)](https://github.com/getsentry/sentry)
+*   [raven.cr (⭐119)](https://github.com/sija/raven.cr) - Raven is a client for [Sentry (⭐36k)](https://github.com/getsentry/sentry)
 
-## [42. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [40. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Toran Proxy / IRC
 
 *   [ToranProxy](https://toranproxy.com/) (deprecated) - In addition to providing a composer repository ToranProxy acts as a proxy server for Packagist and GitHub.
 
-## [43. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [41. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Starter Projects / Videos
 
@@ -493,7 +473,7 @@ Webpage: <https://metalab.at>
 
 *   [PJ Blog (⭐2.8k)](https://github.com/jcc/blog/)
 
-## [44. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [42. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Logger / Field Validation
 
@@ -501,20 +481,20 @@ Webpage: <https://metalab.at>
 *   [timber (⭐9.8k)](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
 *   [LoggingInterceptor (⭐1.3k)](https://github.com/ihsanbal/LoggingInterceptor) - An OkHttp interceptor which pretty logs request and response data.
 
-## [45. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [43. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Packages
 
 *   [ava-preact-init (⭐8)](https://github.com/avajs/ava-preact-init) - Set up AVA for Preact.
 
-## [46. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [44. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Building deep neural nets with h2o and rsparkling that predict arrhythmia of the heart](https://shiring.github.io/machine_learning/2017/02/27/h2o) Feb 27, 2017
 *   [Predicting food preferences with sparklyr (machine learning)](https://shiring.github.io/machine_learning/2017/02/19/food_spark) Feb 19, 2017
 
-## [47. Jstips](/content/loverajoel/jstips/week/README.md)
+## [45. Jstips](/content/loverajoel/jstips/week/README.md)
 
 ### Support the community / Let’s keep in touch
 
@@ -524,7 +504,7 @@ Webpage: <https://metalab.at>
 *   [Slackbot (⭐19)](https://github.com/radibit/js-tips-slack-bot)
 *   [iOS App](https://goo.gl/Y9WiBc)
 
-## [48. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [46. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Filesystem
 
@@ -546,20 +526,20 @@ Webpage: <https://metalab.at>
 
 *   [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) - Cloud-based bi-directional monitoring and messaging hub
 
-## [49. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [47. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Cryptography
 
-*   [SecurityDriven.Inferno (⭐561)](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto library. Professionally audited.
+*   [SecurityDriven.Inferno (⭐565)](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto library. Professionally audited.
 
-## [50. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [48. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Art and Science Spaces / Other
 
 *   [Center for Science and the Imagination](http://csi.asu.edu/) - A collaboration between artists and scientists at Arizona State University.
 *   [STEM to STEAM](http://stemtosteam.org/) - An initiative out of Rhode Island School of Design to bring more art and design into STEM education.
 
-## [51. Awesome Netherlands Events](/content/awkward/awesome-netherlands-events/week/README.md)
+## [49. Awesome Netherlands Events](/content/awkward/awesome-netherlands-events/week/README.md)
 
 ### Amsterdam
 
@@ -573,7 +553,7 @@ Webpage: <https://metalab.at>
 
 *   [Design by Fire Café](https://www.designbyfire.nl) - Conferences and Gatherings on Interaction Design.
 
-## [52. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [50. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Tutorials / Basics
 
@@ -581,28 +561,28 @@ Webpage: <https://metalab.at>
 *   [Creating a cube](http://vanmall.deviantart.com/art/How-to-start-with-pixel-art-121520884)
 *   [Creating round objects](http://vanmall.deviantart.com/art/How-to-make-round-objects-in-pixel-art-347907700)
 
-## [53. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [51. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
-### Other useful repositories
+### Other Useful Repositories
 
-- Repository: [PayloadsAllTheThings (⭐42k)](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- Repository: [PayloadsAllTheThings (⭐54k)](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
   Description: List of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 
-- Repository: [RFSec-ToolKit (⭐1.3k)](https://github.com/cn0xroot/RFSec-ToolKit)
+- Repository: [RFSec-ToolKit (⭐1.5k)](https://github.com/cn0xroot/RFSec-ToolKit)
 
   Description: Collection of Radio Frequency Communication Protocol Hacktools
 
 
 
-## [54. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [52. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Libraries and Frameworks / Slides and Notes
 
 *   [Waffle Grid](https://lucasgruwez.github.io/waffle-grid) - An easy to use flexbox grid system
 
-## [55. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [53. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Presentations
 

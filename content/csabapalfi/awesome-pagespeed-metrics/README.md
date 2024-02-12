@@ -2,7 +2,7 @@
 
 ⚡Metrics to help understand page speed and user experience
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/csabapalfi/awesome-pagespeed-metrics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 csabapalfi/awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) · ⭐ 629 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/csabapalfi/awesome-pagespeed-metrics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 csabapalfi/awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) · ⭐ 656 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/csabapalfi/awesome-pagespeed-metrics/week/README.md) / [Overview](/content/csabapalfi/awesome-pagespeed-metrics/readme/README.md) ]
 
@@ -23,8 +23,8 @@
 ### Concepts / User-centric metrics
 
 *   [Docs - User-centric Performance Metrics - web.dev](https://web.dev/user-centric-performance-metrics/)
-*   Is it useful/meaningful? - Has enough content rendered that users can engage with it? (e.g. [LCP (⭐629)](https://github.com/csabapalfi/awesome-web-performance-metrics/#largest-contentful-paint-lcp))
-*   Is it usable - Can users interact with the page, or is it still busy loading? (e.g [TBT (⭐629)](https://github.com/csabapalfi/awesome-web-performance-metrics/#total-blocking-time-tbt))
+*   Is it useful/meaningful? - Has enough content rendered that users can engage with it? (e.g. [LCP (⭐656)](https://github.com/csabapalfi/awesome-web-performance-metrics/#largest-contentful-paint-lcp))
+*   Is it usable - Can users interact with the page, or is it still busy loading? (e.g [TBT (⭐656)](https://github.com/csabapalfi/awesome-web-performance-metrics/#total-blocking-time-tbt))
 
 ### Rendering metrics / First Contentful Paint (FCP)
 
@@ -36,20 +36,20 @@
 
 *   Lab: Lighthouse/WPT
 *   [Docs - CLS - web.dev](https://web.dev/cls/)
-*   [Spec - Layout Instability API - W3C (⭐143)](https://github.com/WICG/layout-instability)
+*   [Spec - Layout Instability API - W3C (⭐155)](https://github.com/WICG/layout-instability)
 
 ### Rendering metrics / (Hero) Element Timing
 
 *   Field: Chrome 77+
 *   Lab: WPT
-*   [Docs - Last Painted Hero - WPT (⭐2.8k)](https://github.com/WPO-Foundation/webpagetest/blob/master/docs/Metrics/HeroElements.md)
+*   [Docs - Last Painted Hero - WPT (⭐3k)](https://github.com/WPO-Foundation/webpagetest/blob/master/docs/Metrics/HeroElements.md)
 *   [Spec - Element Timing API](https://wicg.github.io/element-timing/)
 *   [Blogpost - Hero Element Timing - SpeedCurve](https://speedcurve.com/blog/web-performance-monitoring-hero-times/)
 
 ### Rendering metrics / Largest Contentful Paint (LCP)
 
 *   [Docs - LCP - web.dev](https://web.dev/largest-contentful-paint/)
-*   [Spec - LCP - W3C (⭐79)](https://github.com/WICG/largest-contentful-paint#readme)
+*   [Spec - LCP - W3C (⭐87)](https://github.com/WICG/largest-contentful-paint#readme)
 
 ### Rendering metrics / Speed Index
 
@@ -79,7 +79,7 @@
 ### Concepts / Field Data (Real User Monitoring - RUM)
 
 *   [Perfume.js](https://zizzamia.github.io/perfume/) - Open Source Library to collect Field Data.
-*   [Web Vitals (⭐5.4k)](https://github.com/GoogleChrome/web-vitals) - Open Source Library to collect Field Data.
+*   [Web Vitals (⭐6.7k)](https://github.com/GoogleChrome/web-vitals) - Open Source Library to collect Field Data.
 
 ## [Sep 26, 2019](/content/2019/09/26/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Concepts / User-centric metrics
 
-*   Is it happening? - Did the navigation start successfully? Has the server responded? (e.g [FCP (⭐629)](https://github.com/csabapalfi/awesome-web-performance-metrics/#first-contentful-paint-fcp))
+*   Is it happening? - Did the navigation start successfully? Has the server responded? (e.g [FCP (⭐656)](https://github.com/csabapalfi/awesome-web-performance-metrics/#first-contentful-paint-fcp))
 *   Is it delightful/smooth? - Are the interactions smooth and natural, free of lag and jank?
 
 ### Interactivity metrics / Max Potential First Input Delay

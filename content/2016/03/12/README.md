@@ -37,18 +37,6 @@
 
 *   [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
 
-### Configuration & Discovery / Scala
-
-*   [Shaman (⭐448)](https://github.com/nanopack/shaman) - Small, lightweight, api-driven DNS server.
-
-### Elasticity / Scala
-
-*   [Serf](https://www.serfdom.io/) - Decentralized solution for cluster membership, failure detection and orchestration.
-
-### Messaging / Scala
-
-*   [Mist (⭐659)](https://github.com/nanopack/mist) - A distributed, tag-based pub/sub service.
-
 ## [3. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2015

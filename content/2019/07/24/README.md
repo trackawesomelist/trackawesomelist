@@ -28,7 +28,7 @@
 
 *   [Rohban et al. 2017](https://doi.org/10.7554/eLife.24060.001) - Cell painting data from 220 overexpressed genes in U2OS cells (Access from public S3 bucket: `s3://cytodata/datasets/TA-ORF-BBBC037-Rohban/profiles_cp/TA-ORF-BBBC037-Rohban/`).
 *   Unpublished - Cell painting profiles of 596 overexpressed alleles from 53 genes in A549 cells (Access from public S3 bucket: `s3://cytodata/datasets/LUAD-BBBC043-Caicedo/profiles_cp/LUAD-BBBC043-Caicedo/`)
-*   Unpublished - 3,456 cell painting profiles from CRISPR experiments knocking down 59 genes in A549, ES2, and HCC44 cells ([Access from GitHub (⭐29)](https://github.com/broadinstitute/cell-health/tree/master/0.generate-profiles/data/profiles)).
+*   Unpublished - 3,456 cell painting profiles from CRISPR experiments knocking down 59 genes in A549, ES2, and HCC44 cells ([Access from GitHub (⭐34)](https://github.com/broadinstitute/cell-health/tree/master/0.generate-profiles/data/profiles)).
 
 ## [3. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -58,11 +58,7 @@
 
 ### Libraries and Frameworks
 
-*   [webext-options-sync (⭐121)](https://github.com/fregante/webext-options-sync) - Helps you manage and autosave your extension's options.
-
-### Boilerplates
-
-*   [extensionizr.com](https://extensionizr.com) - Web UI that helps you create an initial configuration and files.
+*   [webext-options-sync (⭐138)](https://github.com/fregante/webext-options-sync) - Helps you manage and autosave your extension's options.
 
 ## [8. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
 
@@ -89,7 +85,6 @@
 *   [Using GNU Stow to manage your dotfiles](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
 *   [Managing Dotfile Symlinks with GNU Stow](https://spin.atomicobject.com/2014/12/26/manage-dotfiles-gnu-stow/)
 *   [Dotfiles and dev tools provisioned by Ansible](http://palcu.blogspot.com/2014/06/dotfiles-and-dev-tools-provisioned-by.html)
-*   [Manage a development machine with Ansible](http://kreusch.com.br/blog/2013/12/03/manage-a-development-machine-with-ansible)
 
 ### Find dotfiles repos / Using specific tools
 
@@ -98,26 +93,26 @@
 
 ### Tools / Ansible
 
-*   [bashdot (⭐98)](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
-*   [chezmoi (⭐10k)](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
-*   [dotbot (⭐6.4k)](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
+*   [bashdot (⭐97)](https://github.com/bashdot/bashdot) - Minimalist dotfile management framework written entirely in bash.
+*   [chezmoi (⭐11k)](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
+*   [dotbot (⭐6.6k)](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
 *   [dotdrop (⭐1.7k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
-*   [Fisher (⭐6.9k)](https://github.com/jorgebucaran/fisher) - A package manager for Fish
+*   [Fisher (⭐7.2k)](https://github.com/jorgebucaran/fisher) - A package manager for Fish.
 *   [homeshick (⭐2k)](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
-*   [mackup (⭐14k)](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
+*   [mackup (⭐14k)](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux).
 
 ### Tools / macOS
 
-*   [dockutil (⭐1.2k)](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items
-*   [mas (⭐10k)](https://github.com/mas-cli/mas) - Mac App Store command line interface
+*   [dockutil (⭐1.3k)](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items.
+*   [mas (⭐10k)](https://github.com/mas-cli/mas) - Mac App Store command line interface.
 
 ### Archive/abandoned projects / macOS
 
 *   [Bashstrap (⭐1.6k)](https://github.com/barryclark/bashstrap)
 *   [battleschool (⭐417)](https://github.com/spencergibb/battleschool)
-*   [Eduardo's dotfiles (⭐421)](https://github.com/eduardolundgren/dotfiles)
-*   [Kevin's dotfiles (⭐129)](https://github.com/kdeldycke/dotfiles)
-*   [kody (⭐133)](https://github.com/jh3y/kody)
+*   [Eduardo's dotfiles (⭐423)](https://github.com/eduardolundgren/dotfiles)
+*   [Kevin's dotfiles (⭐134)](https://github.com/kdeldycke/dotfiles)
+*   [kody (⭐136)](https://github.com/jh3y/kody)
 *   [osxc](http://osxc.github.io)
 
 ## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)

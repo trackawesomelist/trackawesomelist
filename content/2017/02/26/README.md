@@ -17,7 +17,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Industrial Control System Security (⭐1.1k)](https://github.com/hslatman/awesome-industrial-control-system-security)
+- Repository: [Industrial Control System Security (⭐1.4k)](https://github.com/hslatman/awesome-industrial-control-system-security)
 
   Description: List of resources related to Industrial Control System (ICS) security
 
@@ -27,7 +27,7 @@
 
 ### State Machines
 
-*   [state\_machines (⭐727)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
+*   [state\_machines (⭐738)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -39,11 +39,11 @@
 
 ### Vert.x Event Bus Clients
 
-*   [Java (⭐117)](https://github.com/nielsbaloe/vertxui/tree/master/vertxui-core/src/main/java/live/connector/vertxui/client/transport) - Event bus support in JavaScript through Java code.
+*   [Java (⭐118)](https://github.com/nielsbaloe/vertxui/tree/master/vertxui-core/src/main/java/live/connector/vertxui/client/transport) - Event bus support in JavaScript through Java code.
 
 ### Front-End
 
-*   [VertxUI (⭐117)](https://github.com/nielsbaloe/vertxui) - A pure Java front-end toolkit with descriptive fluent views-on-models, POJO traffic, JUnit testing on the virtual DOM or mixed-language on a real DOM, and more.
+*   [VertxUI (⭐118)](https://github.com/nielsbaloe/vertxui) - A pure Java front-end toolkit with descriptive fluent views-on-models, POJO traffic, JUnit testing on the virtual DOM or mixed-language on a real DOM, and more.
 
 ## [6. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Integration / Documentation and Help Systems
 
-*   [LiveReload (⭐139)](https://github.com/alepez/LiveReload-sublimetext3) — a web browser page reloading plugin.
+*   [LiveReload (⭐143)](https://github.com/alepez/LiveReload-sublimetext3) — a web browser page reloading plugin.
 
 ## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Related projects / Syntax highlighting packages
 
-*   [ArduinoGameBoy (⭐133)](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer.
+*   [ArduinoGameBoy (⭐138)](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer.
 
 ## [11. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 

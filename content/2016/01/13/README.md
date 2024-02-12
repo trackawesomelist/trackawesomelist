@@ -20,7 +20,7 @@
 
 ### Packages / Command-line apps
 
-*   [diff2html-cli (⭐456)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
+*   [diff2html-cli (⭐476)](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
 
 ## [3. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Articles
 
-*   [Small focused modules (⭐128)](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)
+*   [Small focused modules (⭐129)](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)
 *   [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/) *(Must read!)*
 *   [Semver: Tilde and Caret](https://nodesource.com/blog/semver-tilde-and-caret/)
 *   [Offline installation of npm packages](https://addyosmani.com/blog/using-npm-offline/)
@@ -56,31 +56,28 @@
 ### Publishing
 
 *   [np (⭐7.2k)](https://github.com/sindresorhus/np) - A better `npm publish`.
-*   [publish-please (⭐741)](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
+*   [publish-please (⭐739)](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
 *   [npm-release (⭐102)](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™.
 *   [pkgfiles (⭐83)](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
-*   [semantic-release (⭐18k)](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
+*   [semantic-release (⭐19k)](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
 
 ### Registry
 
-*   [npm-name (⭐271)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
-*   [package-json (⭐215)](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry.
-*   [npm-keyword (⭐49)](https://github.com/sindresorhus/npm-keyword) - Get a list of npm packages with a certain keyword.
+*   [npm-name (⭐273)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
+*   [package-json (⭐227)](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry.
+*   [npm-keyword (⭐51)](https://github.com/sindresorhus/npm-keyword) - Get a list of npm packages with a certain keyword.
 *   [dpn (⭐26)](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages.
 
 ### Other
 
-*   [npm-home (⭐183)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
-*   [gh-home (⭐187)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
-*   [david (⭐960)](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
-*   [npm-check (⭐6.4k)](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
-*   [npm-shrinkwrap (⭐776)](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
+*   [npm-home (⭐191)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
+*   [gh-home (⭐190)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
+*   [david (⭐962)](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
+*   [npm-check (⭐6.5k)](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
+*   [npm-shrinkwrap (⭐775)](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
 *   [npm-windows-upgrade (⭐2.5k)](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
-*   [pkg-up (⭐147)](https://github.com/sindresorhus/pkg-up) - Find the closest package.json file.
-*   [read-pkg-up (⭐236)](https://github.com/sindresorhus/read-pkg-up) - Read the closest package.json file.
-*   [normalize-package-data (⭐177)](https://github.com/npm/normalize-package-data) - Normalize package metadata.
-*   [pkg-conf (⭐114)](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
-*   [npm-run-path (⭐94)](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
+*   [normalize-package-data (⭐186)](https://github.com/npm/normalize-package-data) - Normalize package metadata.
+*   [npm-run-path (⭐97)](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
 *   [local-npm (⭐1.1k)](https://github.com/nolanlawson/local-npm) - Use npm [offline](https://addyosmani.com/blog/using-npm-offline/).
 *   [npe (⭐92)](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json.
 *   [engine-deps (⭐20)](https://github.com/samccone/engine-deps) - Manage Node.js version specific dependencies with ease.
@@ -152,7 +149,7 @@
 
 ### Distributed Computing
 
-*   [Orleans (⭐9.5k)](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
+*   [Orleans (⭐9.7k)](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
 
 ## [10. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

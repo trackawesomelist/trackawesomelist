@@ -60,7 +60,7 @@
 
 ### Table of Contents / Framework Extras
 
-*   [CakePHP CRUD (⭐352)](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
+*   [CakePHP CRUD (⭐373)](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
 
 ## [8. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Application Skeleton
 
-*   [MVC (⭐810)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
+*   [MVC (⭐812)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
 
 ### Command Line
 

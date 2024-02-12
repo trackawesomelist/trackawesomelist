@@ -81,11 +81,11 @@
 
 ### Code Analysis and Linters
 
-*   [flow (⭐22k)](https://github.com/facebook/flow) - flow is a static type checker for JavaScript
+*   [flow (⭐22k)](https://github.com/facebook/flow) - flow is a static type checker for JavaScript.
 
 ### Exercises and Short Examples
 
-*   [OCaml at Exercism](http://exercism.io/languages/ocaml) – Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive readable code. [Solutions (⭐85)](https://github.com/exercism/xocaml).
+*   [OCaml at Exercism](http://exercism.io/languages/ocaml) – Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive, readable code. [Solutions (⭐89)](https://github.com/exercism/xocaml).
 
 ## [4. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
@@ -138,7 +138,7 @@
 
 ### Image Processing
 
-*   [DotImaging (⭐310)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
+*   [DotImaging (⭐314)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
 
 ## [9. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
@@ -196,8 +196,8 @@
 
 ### Graphic Displays
 
-*   [ggrepel (⭐1k)](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
-*   [ggalt (⭐616)](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms and Statistical Transformations for ggplot2.
+*   [ggrepel (⭐1.2k)](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
+*   [ggalt (⭐645)](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms and Statistical Transformations for ggplot2.
 
 ## [17. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -213,7 +213,7 @@
 
 ### Images / Barcode
 
-*   [PassportScanner (⭐454)](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
+*   [PassportScanner (⭐453)](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
 
 ### Utility / Barcode
 
@@ -541,7 +541,7 @@
 
 ### Software / Frameworks
 
-*   [Countly IoT Analytics (⭐5.1k)](http://github.com/countly/countly-server) - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
+*   [Countly IoT Analytics (⭐5.3k)](http://github.com/countly/countly-server) - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
 
 ## [22. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
@@ -730,11 +730,11 @@
 ### For Developers / Directory Navigation
 
 *   [dokku (⭐25k)](https://github.com/dokku/dokku) - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
-*   [hub (⭐22k)](https://github.com/github/hub) - hub helps you win at git.
+*   [hub (⭐23k)](https://github.com/github/hub) - hub helps you win at git.
 
 ### System Utilities / Directory Navigation
 
-*   [goaccess (⭐16k)](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems.
+*   [goaccess (⭐17k)](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems.
 
 ## [24. Vim Galore](/content/mhinz/vim-galore/week/README.md)
 
@@ -788,11 +788,7 @@
 ### C++
 
 *   [Cap’n Proto RPC](https://capnproto.org/cxxrpc.html) - The Cap’n Proto C++ RPC implementation.
-*   [Enduro/X (⭐115)](https://github.com/endurox-dev/endurox/) - XATMI based service framework for GNU/Linux.
-
-### Node.js / Scala
-
-*   [Graft (⭐227)](https://github.com/GraftJS/graft) - Full-stack javascript through microservices.
+*   [Enduro/X (⭐121)](https://github.com/endurox-dev/endurox/) - XATMI based service framework for GNU/Linux.
 
 ### Messaging / Scala
 
@@ -804,7 +800,7 @@
 
 ### Storage / Scala
 
-*   [Secure Scuttlebutt (⭐61)](https://github.com/ssbc/docs) - P2P database of message-feeds.
+*   [Secure Scuttlebutt (⭐60)](https://github.com/ssbc/docs) - P2P database of message-feeds.
 
 ## [28. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -882,7 +878,7 @@
 
 ### Serialization
 
-*   [cppcodec (⭐554)](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
+*   [cppcodec (⭐572)](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
 
 ### Miscellaneous
 
@@ -892,7 +888,7 @@
 
 ### Command Line Applications
 
-*   [table\_rex (⭐232)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
+*   [table\_rex (⭐236)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
 
 ### Files and Directories
 

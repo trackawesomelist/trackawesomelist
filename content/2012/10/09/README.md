@@ -10,7 +10,7 @@
 
 ### Table of Contents / Strings
 
-*   [Color Jizz (⭐282)](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colours.
+*   [Color Jizz (⭐290)](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colors.
 
 ---
 

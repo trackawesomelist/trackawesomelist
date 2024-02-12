@@ -11,36 +11,36 @@
 ### Other LLM Frameworks / Videos Playlists
 
 *   [SuperAGI (⭐13k)](https://github.com/TransformerOptimus/SuperAGI): A dev-first open source autonomous AI agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)
-*   [e2b (⭐5.5k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
+*   [e2b (⭐5.7k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
 *   [SmartGPT (⭐1.7k)](https://github.com/Cormanz/smartgpt): A program that provides LLMs with the ability to complete complex tasks using plugins. ![GitHub Repo stars](https://img.shields.io/github/stars/Cormanz/smartgpt?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [TutorGPT (⭐545)](https://github.com/plastic-labs/tutor-gpt): Dynamic few-shot metaprompting for the task of tutoring. ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)
+*   [TutorGPT (⭐609)](https://github.com/plastic-labs/tutor-gpt): Dynamic few-shot metaprompting for the task of tutoring. ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)
 
 ## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Database / Text-Based User Interfaces
 
-*   [CosId (⭐367)](https://github.com/Ahoo-Wang/CosId) - Universal, flexible, high-performance distributed ID generator.
+*   [CosId (⭐393)](https://github.com/Ahoo-Wang/CosId) - Universal, flexible, high-performance distributed ID generator.
 
 ## [3. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Editors & IDEs & Explorers / React
 
-*   [Brangr (⭐0)](https://github.com/networkimprov/brangr) - A unique, user-friendly data browser/viewer for any GraphQL service, with attractive result layouts.
+*   [Brangr (⭐1)](https://github.com/networkimprov/brangr) - A unique, user-friendly data browser/viewer for any GraphQL service, with attractive result layouts.
 
 ## [4. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Parser / Package managers
 
-*   [Himujjal/zig-json5 (⭐23)](https://github.com/Himujjal/zig-json5) - JSON5 parser resembling the `std.json` APIs.
+*   [Himujjal/zig-json5 (⭐24)](https://github.com/Himujjal/zig-json5) - JSON5 parser resembling the `std.json` APIs.
 
 ## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Reactive Programming
 
-*   [OneWay (⭐56)](https://github.com/DevYeom/OneWay) - A Swift library for state management with unidirectional data flow.
+*   [OneWay (⭐72)](https://github.com/DevYeom/OneWay) - A Swift library for state management with unidirectional data flow.
 
 ## [6. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -68,15 +68,15 @@
 
 *   [vue-global-alert-utility (⭐0)](https://github.com/RashadSaleh/vue-global-alert-utility) - A Vue.js global alert utility to replace vanilla JavaScript `alert` function with better user and developer experience, while keeping it as simple as possible.
 *   [v-image-magnifier (⭐9)](https://github.com/fchancel/v-image-magnifier) - A Vue 3 plugin that provides interactive image zoom functionality. Allow users to zoom in on an image by hovering over it, providing an enlarged view of the corresponding part of the image.
-*   [Everright-filter (⭐43)](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.
+*   [Everright-filter (⭐54)](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.
 
 ### Components & Libraries / UI Utilities
 
 *   [vrf (⭐9)](https://github.com/dimailn/vrf) - Declarative scalable ui-agnostic markup-based Vue forms.
 *   [vueginate (⭐2)](https://github.com/lombervid/vueginate) - A simple pagination component for Vue 3
-*   [blottie (⭐2)](https://github.com/Applelo/blottie) Lottie component for Vue 3
-*   [TresJs (⭐747)](https://github.com/tresjs/tres): Declarative ThreeJS using Vue Components
-*   [Cientos (⭐127)](https://github.com/Tresjs/cientos): Collection of useful helpers and fully functional, ready-made abstractions for TresJs
+*   [blottie (⭐4)](https://github.com/Applelo/blottie) Lottie component for Vue 3
+*   [TresJs (⭐1.1k)](https://github.com/tresjs/tres): Declarative ThreeJS using Vue Components
+*   [Cientos (⭐179)](https://github.com/Tresjs/cientos): Collection of useful helpers and fully functional, ready-made abstractions for TresJs
 
 ---
 

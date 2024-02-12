@@ -28,11 +28,11 @@
 
 ### Image Processing
 
-*   [Video++ (⭐707)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. \[MIT]
+*   [Video++ (⭐713)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. \[MIT]
 
 ### Math
 
-*   [QuantLib (⭐4.3k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
+*   [QuantLib (⭐4.6k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
 
 ## [4. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 
@@ -48,15 +48,15 @@
 
 ### Database Tools
 
-*   [Lol DBA (⭐1.5k)](https://github.com/plentz/lol_dba) - Scan your models and displays a list of columns that probably should be indexed.
+*   [Lol DBA (⭐1.6k)](https://github.com/plentz/lol_dba) - Scan your models and displays a list of columns that probably should be indexed.
 
 ### Performance Monitoring
 
-*   [Instrumental (⭐56)](https://github.com/expectedbehavior/instrumental_agent) - Measure your application in real time with [Instrumental](http://instrumentalapp.com).
+*   [Instrumental (⭐58)](https://github.com/expectedbehavior/instrumental_agent) - Measure your application in real time with [Instrumental](http://instrumentalapp.com).
 
 ### Third-party APIs
 
-*   [Slack ruby gem (⭐245)](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API.
+*   [Slack ruby gem (⭐244)](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

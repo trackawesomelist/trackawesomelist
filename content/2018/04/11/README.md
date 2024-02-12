@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 11, 2018
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -48,17 +48,11 @@
 
 ### ORM and SQL generation
 
-*   [Walkable (⭐432)](https://github.com/walkable-server/walkable)
+*   [Walkable (⭐438)](https://github.com/walkable-server/walkable)
 *   [Specql (⭐127)](https://github.com/tatut/specql/)
 *   [sqlium (⭐26)](https://github.com/TheLadders/sqlium/)
 
-## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
-
-### Go / Erlang
-
-*   [go-api-boilerplate (⭐743)](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices, DDD, CQRS, ES, gRPC
-
-## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [7. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### Golang
 

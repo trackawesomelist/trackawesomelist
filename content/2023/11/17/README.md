@@ -10,13 +10,13 @@
 
 ### Firmware projects / WIP
 
-*   [LuLuu (⭐4)](https://github.com/fu5ha/luluu): Firmware for a custom RP2040-based display controller which streams animated images from a microSD card to a small LCD display.
+*   [LuLuu (⭐5)](https://github.com/fu5ha/luluu): Firmware for a custom RP2040-based display controller that streams animated images from a microSD card to a small LCD display.
 
 ## [2. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Utility
 
-*   [votp (⭐8)](https://github.com/OdaiGH/votp) - TOTP and HOTP implementation in v.
+*   [votp (⭐13)](https://github.com/OdaiGH/votp) - TOTP and HOTP implementation in v.
 
 ## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -49,7 +49,7 @@
 
 ### LangChain / Multi-agents
 
-*   [LangChain Template: Research Assistant (⭐68k)](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant)
+*   [LangChain Template: Research Assistant (⭐76k)](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant)
 
 ### Image Segmentation / Deforum
 
@@ -66,7 +66,7 @@
 
 ### Component Libraries
 
-*   [TrendChart Elements (⭐5)](https://github.com/WebLogin/trendchart-elements) - Components to generate simple charts representing trends.
+*   [TrendChart Elements (⭐12)](https://github.com/WebLogin/trendchart-elements) - Components to generate simple charts representing trends.
 
 ### Standalone Components
 
@@ -84,19 +84,19 @@
 
 ### Component Libraries
 
-*   [LDRS (⭐1.1k)](https://github.com/GriffinJohnston/ldrs) - Lightweight, customizable loading animations/spinners.
+*   [LDRS (⭐1.2k)](https://github.com/GriffinJohnston/ldrs) - Lightweight, customizable loading animations/spinners.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Split and Window / Diagnostics
 
-*   [jyscao/ventana.nvim (⭐8)](https://github.com/jyscao/ventana.nvim) - Convenient flips & shifts for your windows layout.
+*   [jyscao/ventana.nvim (⭐17)](https://github.com/jyscao/ventana.nvim) - Convenient flips & shifts for your windows layout.
 
 ## [9. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Libraries/Packages/Scripts / R
 
-*   [polarssql (⭐8)](https://github.com/rpolars/r-polarssql) - `polarssql` experimental package which is a DBI-compliant interface to Polars.
+*   [polarssql (⭐20)](https://github.com/rpolars/r-polarssql) - `polarssql` experimental package which is a DBI-compliant interface to Polars.
 
 ### Resources / Talks and videos
 
@@ -106,7 +106,7 @@
 
 ### Algorithms and Data Structures
 
-*   [ODiff (⭐1.7k)](https://github.com/dmtrKovalenko/odiff) – Library of [YIQ NTSC transmission image difference alghoritm](http://www.progmat.uaem.mx:8080/artVol2Num2/Articulo3Vol2Num2.pdf) implemented in OCaml and ReasonML.
+*   [ODiff (⭐1.8k)](https://github.com/dmtrKovalenko/odiff) – Library of [YIQ NTSC transmission image difference alghoritm](http://www.progmat.uaem.mx:8080/artVol2Num2/Articulo3Vol2Num2.pdf) implemented in OCaml and ReasonML.
 
 ### Code Analysis and Linters
 
@@ -118,7 +118,7 @@
 
 ### Serialization
 
-*   [atdgen (⭐279)](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
+*   [atdgen (⭐288)](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
 
 ## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -142,4 +142,5 @@
 
 ---
 
+- Prev: [Nov 18, 2023](/content/2023/11/18/README.md)
 - Next: [Nov 16, 2023](/content/2023/11/16/README.md)

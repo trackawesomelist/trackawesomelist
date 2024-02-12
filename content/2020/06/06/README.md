@@ -37,7 +37,7 @@
 
 ### Table of Contents / Frameworks
 
-*   [Spiral](https://spiral.dev/) - A high performance PHP/Go framework.
+*   [Spiral](https://spiral.dev/) - A high-performance PHP/Go framework.
 
 ### Configuration / PHP Podcasts
 
@@ -46,14 +46,13 @@
 ### Configuration / PHP Internals Reading
 
 *   [Externals](https://externals.io/) - PHP internal discussions.
-*   [PHP RFC Watch](https://php-rfc-watch.beberlei.de/) - Watch the latest PHP [RFCs](https://wiki.php.net/rfc).
 
 ## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### WSL Tools / Miscellaneous Tools
 
-*   [wsl2-ssh-pageant (⭐341)](https://github.com/BlackReloaded/wsl2-ssh-pageant) - A bridge between Windows Pageant and WSL2.
-*   [WinCryptSSHAgent (⭐498)](https://github.com/buptczq/WinCryptSSHAgent) - Using a Yubikey for SSH Authentication on Windows Seamlessly.  Supports WSL and WSL2.
+*   [wsl2-ssh-pageant (⭐348)](https://github.com/BlackReloaded/wsl2-ssh-pageant) - A bridge between Windows Pageant and WSL2.
+*   [WinCryptSSHAgent (⭐506)](https://github.com/buptczq/WinCryptSSHAgent) - Using a Yubikey for SSH Authentication on Windows Seamlessly.  Supports WSL and WSL2.
 
 ## [5. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -82,7 +81,7 @@
 
 ### Projects
 
-*   [Yew-WebRTC-Chat (⭐113)](https://github.com/codec-abc/Yew-WebRTC-Chat) - A simple WebRTC chat made with Yew.
+*   [Yew-WebRTC-Chat (⭐118)](https://github.com/codec-abc/Yew-WebRTC-Chat) - A simple WebRTC chat made with Yew.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -94,7 +93,7 @@
 
 ### Packages / Apps
 
-*   [jamhub (⭐32)](https://github.com/fletcherist/jamhub) - low-latency remote music collaboration & jam.
+*   [jamhub (⭐33)](https://github.com/fletcherist/jamhub) - low-latency remote music collaboration & jam.
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

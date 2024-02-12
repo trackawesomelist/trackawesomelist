@@ -17,9 +17,9 @@
 ### Learning / Game Development
 
 *   Awesome Collections
-    *   📚 [Awesome Gamedev (⭐2.1k)](https://github.com/Calinou/awesome-gamedev#readme) - Collection of free resources for making games.
-    *   📚 [GameDev-Resources (⭐3.4k)](https://github.com/Kavex/GameDev-Resources) - Wonderful list of game development resources.
-    *   📚 [Magictools (⭐12k)](https://github.com/ellisonleao/magictools#readme) - List of game development resources to make magic happen.
+    *   📚 [Awesome Gamedev (⭐2.2k)](https://github.com/Calinou/awesome-gamedev#readme) - Collection of free resources for making games.
+    *   📚 [GameDev-Resources (⭐3.6k)](https://github.com/Kavex/GameDev-Resources) - Wonderful list of game development resources.
+    *   📚 [Magictools (⭐13k)](https://github.com/ellisonleao/magictools#readme) - List of game development resources to make magic happen.
     *   🌎 [Web Game Dev](https://www.webgamedev.com) - Resources on techniques and tools around JavaScript game development.
 
 ### Learning / Graphical User Interface
@@ -34,17 +34,17 @@
 
 ### Security
 
-*   [Fingerprinter (⭐249)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
-*   [haiti (⭐469)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
-*   [Pipal (⭐595)](https://github.com/digininja/pipal) - Password analyser and statistics generator
-*   [WhatWeb (⭐4.8k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
+*   [Fingerprinter (⭐250)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
+*   [haiti (⭐525)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
+*   [Pipal (⭐602)](https://github.com/digininja/pipal) - Password analyser and statistics generator
+*   [WhatWeb (⭐4.9k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
 *   [WPscan](http://wpscan.org/) - WordPress vulnerability scanner.
 
 ## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Photo / Image
 
-*   [react-photo-album (⭐315)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
+*   [react-photo-album (⭐383)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
 
 ## [4. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Clojure / General-Purpose Machine Learning
 
-*   [scicloj.ml (⭐175)](https://github.com/scicloj/scicloj.ml) -  A idiomatic Clojure machine learning library based on tech.ml.dataset with a unique approach for immutable data processing pipelines.
+*   [scicloj.ml (⭐193)](https://github.com/scicloj/scicloj.ml) -  A idiomatic Clojure machine learning library based on tech.ml.dataset with a unique approach for immutable data processing pipelines.
 
 ## [6. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
@@ -87,13 +87,13 @@
 
 ### Open Source / Community
 
-*   [Nhost (⭐7.1k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐7.4k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 
 ## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Email
 
-*   [go-email-normalizer (⭐59)](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address.
+*   [go-email-normalizer (⭐60)](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address.
 
 ### Go Tools / Libraries for creating HTTP middlewares
 
@@ -103,11 +103,11 @@
 
 ### Programming Language
 
-*   [C++ Developer Roadmap (⭐1.6k)](https://github.com/salmer/CppDeveloperRoadmap) - Roadmap focuses on general competencies and skills about C++ in 2022 [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://github.com/salmer/CppDeveloperRoadmap).
+*   [C++ Developer Roadmap (⭐2.5k)](https://github.com/salmer/CppDeveloperRoadmap) - Roadmap focuses on general competencies and skills about C++ in 2022 [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://github.com/salmer/CppDeveloperRoadmap).
 
 ### Miscellaneous
 
-*   [Awesome Quality Assurance Roadmap (⭐1.2k)](https://github.com/fityanos/awesome-quality-assurance-roadmap) - Roadmap for QA and software testing learning curve which you might need to start the journey [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/fityanos/awesome-quality-assurance-roadmap).
+*   [Awesome Quality Assurance Roadmap (⭐1.6k)](https://github.com/fityanos/awesome-quality-assurance-roadmap) - Roadmap for QA and software testing learning curve which you might need to start the journey [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/fityanos/awesome-quality-assurance-roadmap).
 
 ---
 

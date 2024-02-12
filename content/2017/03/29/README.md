@@ -17,7 +17,7 @@
 ### Web / Playground
 
 *   :octocat: [APIs-guru/graphql-voyager (⭐7.5k)](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
-*   :octocat: [Rebilly/ReDoc (⭐21k)](https://github.com/Rebilly/Redoc) - OpenAPI/Swagger-generated API Reference Documentation
+*   :octocat: [Rebilly/ReDoc (⭐22k)](https://github.com/Rebilly/Redoc) - OpenAPI/Swagger-generated API Reference Documentation
 
 ## [3. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 

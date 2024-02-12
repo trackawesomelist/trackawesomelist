@@ -23,7 +23,7 @@
 *   [Processingjs](http://ejohn.org/blog/processingjs/) is a data visualization programming language.
     *   [Overview](http://ejohn.org/blog/overview-of-processing/)
     *   [91 basic demos](http://ejohn.org/apps/processing.js/examples/basic/)
-*   [Visualize (⭐353)](https://github.com/filamentgroup/jQuery-Visualize) is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
+*   [Visualize (⭐354)](https://github.com/filamentgroup/jQuery-Visualize) is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
 
 ### Resources / Talks
 

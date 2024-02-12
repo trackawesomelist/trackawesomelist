@@ -15,7 +15,7 @@
 
 ### Cartridges / Custom cartridges
 
-*   [Nekocart (⭐93)](https://github.com/zephray/NekoCart-GB) - Open-source flash cartridge using an Xilinx CPLD as MBC5 ([Post](https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge)).
+*   [Nekocart (⭐101)](https://github.com/zephray/NekoCart-GB) - Open-source flash cartridge using an Xilinx CPLD as MBC5 ([Post](https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge)).
 *   [Reiner Ziegler's Game Boy page](http://reinerziegler.de.mirrors.gg8.se/) - Commercial and homemade programmable cartridges and programming systems. Tutorials, wiring and schematics provided.
 
 ## [3. Awesome Rest](/content/marmelab/awesome-rest/README.md)
@@ -87,7 +87,7 @@
 
 ### Modules / CLI utils
 
-*   [cac (⭐2.4k)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
+*   [cac (⭐2.5k)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 
 ---
 

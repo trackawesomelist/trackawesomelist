@@ -10,9 +10,9 @@
 
 ### Configuration / Third Party APIs
 
-*   [Amazon Web Service SDK (⭐5.7k)](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
+*   [Amazon Web Service SDK (⭐5.9k)](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
 
 ---
 
 - Prev: [Nov 15, 2013](/content/2013/11/15/README.md)
-- Next: [Nov 07, 2013](/content/2013/11/07/README.md)
+- Next: [Oct 24, 2013](/content/2013/10/24/README.md)

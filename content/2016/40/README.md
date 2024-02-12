@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 03 - Oct 09, 2016
 
-47 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### Web Technologies and Services
 
-*   [plumber (⭐1.3k)](https://github.com/trestletech/plumber) - A library to expose existing R code as web API.
+*   [plumber (⭐1.4k)](https://github.com/trestletech/plumber) - A library to expose existing R code as web API.
 
 ## [4. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -30,11 +30,7 @@
 
 *   [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi) - Security-oriented, lightweight Linux distribution based on musl libc and busybox.
 *   [Arch Linux ARM](https://archlinuxarm.org/) - Lightweight and flexible Linux distribution that tries to Keep It Simple.
-*   [chilipie-kiosk (⭐1.3k)](https://github.com/futurice/chilipie-kiosk) - Image which boots directly into full-screen Chrome, perfect for dashboards and build monitors. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png)
-
-### Tools
-
-*   [ApplePi Bakery](http://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) - macOS application to easily install/backup/restore images onto an SD card.
+*   [chilipie-kiosk (⭐1.3k)](https://github.com/futurice/chilipie-kiosk) - Image which boots directly into full-screen Chrome, perfect for dashboards and build monitors. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-2+.png)
 
 ### Projects
 
@@ -42,7 +38,7 @@
 *   [Building a Ceph Cluster on Raspberry Pi](http://bryanapperson.com/blog/the-definitive-guide-ceph-cluster-on-raspberry-pi/) - Highly redundant and low power usage RADOS home storage solution.
 *   [Chromebook Charger Kiosk](https://www.reddit.com/r/raspberry_pi/comments/53nj1z/chromebook_charger_kiosk_last_minute_charge_for/) - Timed charging station for students using Chromebooks at school.
 *   [Jasper](https://jasperproject.github.io/) - Flexible open source personal assistant.
-*   [Movel (⭐133)](https://github.com/stevelacy/movel) - Raspberry Pi car computer.
+*   [Movel (⭐131)](https://github.com/stevelacy/movel) - Raspberry Pi car computer.
 *   [Nerves Project](https://github.com/nerves-project) - Craft and deploy bulletproof embedded software in Elixir.
 *   [Pi-hole](https://pi-hole.net/) - Black hole for internet ads.
 
@@ -311,19 +307,13 @@
 
 *   [run-npm (⭐180)](https://github.com/timoxley/npm-run) - Run locally-installed node module executables. Useful for debugging npm scripts.
 
-## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Unix / Deno
-
-*   [Unix as IDE (⭐346)](https://github.com/mrzool/unix-as-ide) - Tom Ryder (epub, mobi)
-
-## [18. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [17. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Resources / Articles
 
 *   [Debugging PostgreSQL performance, the hard way](https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/)
 
-## [19. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [18. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -333,13 +323,13 @@
 
 *   [Inkdrop](https://www.inkdrop.info) - Markdown notebook for hackers.
 
-## [20. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [19. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
 *   [d3scription (⭐29)](https://github.com/GlobalWebIndex/d3scription) - Tooltip with window edge collision detection
 
-## [21. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [20. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Programming
 
@@ -347,6 +337,12 @@
 *   [Mimo](https://getmimo.com/) - Learn how to become a developer on mobile.
 *   [ReturnTrue](https://alf.nu/ReturnTrue) - A game were you learn about booleans, return true to win.
 *   [Untrusted](https://alexnisnevich.github.io/untrusted/) - Learn while playing a JavaScript adventure game.
+
+## [21. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+
+### Table of Contents / Caching and Locking
+
+*   [Metaphore (⭐101)](https://github.com/sobstel/metaphore) - Cache slam defense using a semaphore to prevent dogpile effect.
 
 ## [22. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -388,7 +384,7 @@
 
 ### Build Tools
 
-*   [rebar3\_auto (⭐49)](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
+*   [rebar3\_auto (⭐50)](https://github.com/vans163/rebar3_auto) - Rebar3 plugin to auto compile and reload on file change.
 
 ### HTTP
 
@@ -400,7 +396,7 @@
 
 ### Macros
 
-*   [named\_args (⭐27)](https://github.com/mgwidmann/named_args) - Allows named arg style arguments in Elixir.
+*   [named\_args (⭐28)](https://github.com/mgwidmann/named_args) - Allows named arg style arguments in Elixir.
 
 ### Release Management
 
@@ -649,7 +645,7 @@
 
 ### ACL
 
-*   [PhalconUserPlugin (⭐185)](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea
+*   [PhalconUserPlugin (⭐184)](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea
 
 ### CMS & Blogs
 
@@ -663,7 +659,7 @@
 
 ### Swift / Git
 
-*   [IDZSwiftCommonCrypto (⭐476)](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Wrapper for Apple's [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) library written in Swift.
+*   [IDZSwiftCommonCrypto (⭐474)](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Wrapper for Apple's [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) library written in Swift.
 
 ## [38. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
@@ -837,17 +833,7 @@
 *   [Clojure](http://clojure.org/)
 *   [Clojure Slack](http://clojurians.net/)
 
-## [44. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
-
-### Table of Contents / Caching and Locking
-
-*   [Metaphore (⭐102)](https://github.com/sobstel/metaphore) - Cache slam defense using a semaphore to prevent dogpile effect.
-
-### Configuration / PHP Installation
-
-*   [PHP OSX](https://php-osx.liip.ch/) - A PHP installer for OSX.
-
-## [45. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [44. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Vert.x Event Bus Clients
 
@@ -859,9 +845,9 @@
 
 ### Miscellaneous
 
-*   [Simple File Server (⭐85)](https://github.com/pitchpoint-solutions/sfs) - An OpenStack Swift compatible distributed object storage server that can serve and securely store billions of large and small files using minimal resources implemented using Vert.x.
+*   [Simple File Server (⭐83)](https://github.com/pitchpoint-solutions/sfs) - An OpenStack Swift compatible distributed object storage server that can serve and securely store billions of large and small files using minimal resources implemented using Vert.x.
 
-## [46. Tips](/content/git-tips/tips/week/README.md)
+## [45. Tips](/content/git-tips/tips/week/README.md)
 
 ## Always rebase instead of merge on pull.
 
@@ -881,7 +867,7 @@ git config --global branch.autosetuprebase always
 git fetch origin master:refs/remotes/origin/mymaster
 ```
 
-## [47. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [46. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### Government
 

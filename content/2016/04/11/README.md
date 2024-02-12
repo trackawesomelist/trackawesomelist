@@ -10,7 +10,7 @@
 
 ### Table of Contents / Filtering and Validation
 
-*   [Assert (⭐2.3k)](https://github.com/beberlei/assert) - A validation library with a rich set of assertions. Supports assertion chaining and lazy assertions.
+*   [Assert (⭐2.4k)](https://github.com/beberlei/assert) - A validation library with a rich set of assertions. Supports assertion chaining and lazy assertions.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

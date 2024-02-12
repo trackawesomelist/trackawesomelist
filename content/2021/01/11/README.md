@@ -16,8 +16,8 @@
 
 ### Others
 
-*   [Promotion Text Kata (⭐1)](https://github.com/nealhu/promotion-text-kata)
-*   [Args Kata (⭐0)](https://github.com/nealhu/args-kata)
+*   [Promotion Text Kata (⭐0)](https://github.com/nealhu/promotion-text-kata)
+*   [Args Kata (⭐1)](https://github.com/nealhu/args-kata)
 
 ## [3. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Preprocessing
 
-*   [svelte-preprocess (⭐1.6k)](https://github.com/sveltejs/svelte-preprocess) - A preprocessor for PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
+*   [svelte-preprocess (⭐1.7k)](https://github.com/sveltejs/svelte-preprocess) - A preprocessor for PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
 
 ## [11. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

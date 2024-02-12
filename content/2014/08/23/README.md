@@ -16,7 +16,7 @@
 
 ### Table of Contents / Email
 
-*   [CssToInlineStyles (⭐5.6k)](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
+*   [CssToInlineStyles (⭐5.7k)](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
 
 ## [3. Awesome Python](/content/vinta/awesome-python/README.md)
 

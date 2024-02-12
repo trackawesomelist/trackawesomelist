@@ -20,11 +20,11 @@
 
 ### JSON
 
-*   [RapidJSON (⭐13k)](https://github.com/miloyip/rapidjson) :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. \[MIT] [website](https://rapidjson.org)
+*   [RapidJSON (⭐14k)](https://github.com/miloyip/rapidjson) :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. \[MIT] [website](https://rapidjson.org)
 
 ### Machine Learning
 
-*   [OpenCV (⭐72k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
+*   [OpenCV (⭐74k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
 
 ### Networking
 
@@ -42,25 +42,25 @@
 
 ### Table of Contents / Routers
 
-*   [Fast Route (⭐4.7k)](https://github.com/nikic/FastRoute) - A fast routing library.
+*   [Fast Route (⭐5k)](https://github.com/nikic/FastRoute) - A fast routing library.
 *   [Pux (⭐1.3k)](https://github.com/c9s/Pux) - Another fast routing library.
 
 ### Table of Contents / Dependency Injection
 
-*   [Container (⭐774)](https://github.com/thephpleague/container) - Another flexible dependency injection container.
+*   [Container (⭐813)](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 
 ### Table of Contents / Imagery
 
-*   [Glide (⭐2.4k)](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
+*   [Glide (⭐2.5k)](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
 
 ### Table of Contents / Event
 
-*   [Event (⭐1.4k)](https://github.com/thephpleague/event) - An event library with a focus on domain events.
+*   [Event (⭐1.5k)](https://github.com/thephpleague/event) - An event library with a focus on domain events.
 
 ### Table of Contents / Authentication and Authorization
 
-*   [OAuth 1.0 Client (⭐900)](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
-*   [OAuth 2.0 Client (⭐3.3k)](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
+*   [OAuth 1.0 Client (⭐949)](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
+*   [OAuth 2.0 Client (⭐3.6k)](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
 
 ## [4. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Loading Status / Runner
 
-*   [Mprogress.js (⭐1.5k)](https://github.com/lightningtgc/MProgress.js) - Create Google Material Design progress linear bars.
+*   [Mprogress.js (⭐1.6k)](https://github.com/lightningtgc/MProgress.js) - Create Google Material Design progress linear bars.
 
 ## [8. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
@@ -160,9 +160,9 @@
 
 **Mixed** platform for courses from universities and organizations worldwide\
 *(varied computer science subjects including theory and programming, data science, algorithms, ...)*
-#### [Awesome CS Courses (⭐48k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
+#### [Awesome CS Courses (⭐50k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
 
-**Free** university-level courses scoured from around the internet.\
+**Free** university-level courses scoured from around the internet\
 *(varied and extensive computer science topics, ...)*
 #### Metacademy [Roadmaps](https://metacademy.org/roadmaps/), [Course Guides](https://metacademy.org/course_guides/)
 
@@ -187,7 +187,7 @@
 ### Scientific
 
 *   Classifiers
-    *   [classifier-reborn (⭐540)](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
+    *   [classifier-reborn (⭐541)](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
 
 ## [10. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
@@ -210,7 +210,7 @@
 
 *   [cipher (⭐60)](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
 *   [exgpg (⭐18)](https://github.com/rozap/exgpg) - Use gpg from Elixir.
-*   [pot (⭐231)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
+*   [pot (⭐232)](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
 
 ### Documentation
 
@@ -218,7 +218,7 @@
 
 ### Email
 
-*   [gen\_smtp (⭐661)](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
+*   [gen\_smtp (⭐667)](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
 
 ### Examples and funny stuff
 
@@ -226,17 +226,17 @@
 
 ### Feeds
 
-*   [feeder\_ex (⭐70)](https://github.com/manukall/feeder_ex) - RSS feed parser. Simple wrapper for feeder.
+*   [feeder\_ex (⭐69)](https://github.com/manukall/feeder_ex) - RSS feed parser. Simple wrapper for feeder.
 
 ### Framework Components
 
 *   [addict (⭐649)](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
 *   [plug\_heartbeat (⭐36)](https://github.com/whatyouhide/plug_heartbeat) - A plug for responding to heartbeat requests.
-*   [scrivener (⭐550)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
+*   [scrivener (⭐548)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
 
 ### Geolocation
 
-*   [geolix (⭐183)](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
+*   [geolix (⭐184)](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
 
 ### Networking
 
@@ -244,9 +244,9 @@
 
 ### ORM and Datamapping
 
-*   [esqlite (⭐119)](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
+*   [esqlite (⭐121)](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
 *   [sqlitex (⭐119)](https://github.com/mmmries/sqlitex) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
-*   [tds (⭐106)](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
+*   [tds (⭐109)](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
 *   [yar (⭐8)](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
 
 ### Templating
@@ -268,7 +268,7 @@
 
 ### YAML
 
-*   [yamerl (⭐195)](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
+*   [yamerl (⭐200)](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
 
 ### Books
 

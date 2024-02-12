@@ -27,16 +27,17 @@
 *   [DokuWiki](https://www.patreon.com/dokuwiki) - Wiki application.
 *   [Homebrew](https://www.patreon.com/homebrew) - Package manager for macOS.
 *   [MuseScore](https://www.patreon.com/musescore) - Music notation software.
-*   [OctoPrint](https://www.patreon.com/foosel) - Web interface for 3D printers.
 *   [OpenShot](https://www.patreon.com/openshot) - Video editor.
 *   [Paperwork](https://www.patreon.com/openpaper) - Personal document manager.
 *   [PlantUML](https://www.patreon.com/plantuml) - UML diagram creation software.
 *   [Project Lombok](https://www.patreon.com/lombok) - Java editor plugin.
-*   [Reddit Enhancement Suite](https://www.patreon.com/honestbleeps) - Reddit browser extension.
-*   [Synfig](https://www.patreon.com/synfig), [#2](https://opencollective.com/synfig) - 2D animation software.
-*   [Tiled](https://www.patreon.com/bjorn) - A 2D game level editor.
+*   [Tiled](https://www.patreon.com/bjorn), [#2](https://opencollective.com/tiled), [#3](https://liberapay.com/Tiled) - A 2D game level editor.
 *   [Transmission](https://transmissionbt.com/donate/) - BitTorrent client.
 *   [VideoLAN](http://www.videolan.org/contribute.html#paypal) - Maker of the VLC video player.
+
+### Open Source Projects / Messaging and social media
+
+*   [Reddit Enhancement Suite](https://www.patreon.com/honestbleeps) - Reddit browser extension.
 
 ### Open Source Projects / Libraries
 
@@ -55,6 +56,14 @@
 ### Open Source Projects / Games
 
 *   [Libretro Team](https://www.patreon.com/libretro) - Libretro, RetroArch and Lakka.
+
+### Open Source Projects / Open Source Art
+
+*   [Synfig](https://www.patreon.com/synfig), [#2](https://opencollective.com/synfig) - 2D animation software.
+
+### Open Source Projects / Hardware related
+
+*   [OctoPrint](https://www.patreon.com/foosel) - Web interface for 3D printers.
 
 ### People Doing Open Source Work / Hardware related
 
@@ -76,13 +85,8 @@
 *   [Thomas M. Edwards](https://www.patreon.com/thomasmedwards) - Gaming related projects.
 *   [Timothée Giet](https://www.patreon.com/animtim) - GCompris contributor.
 
-### Other kinds of content / Videos
-
-*   [CS Dojo](https://www.patreon.com/csdojo) - Programming videos.
-
 ### Other kinds of content / Podcasts
 
-*   [CPP Cast](https://www.patreon.com/CppCast) - Podcast for C++ developers.
 *   [The Debug Log](https://www.patreon.com/thedebuglog) - Game development.
 
 ## [4. Awesome Linux](/content/inputsh/awesome-linux/README.md)
@@ -138,7 +142,7 @@
 
 ### Contents / Communication
 
-*   [SpaceX GO (⭐818)](https://github.com/jesusrp98/spacex-go) - Simple yet powerful, open-source SpaceX launch tracker by [Chechu](https://github.com/jesusrp98/).
+*   [SpaceX GO (⭐824)](https://github.com/jesusrp98/spacex-go) - Simple yet powerful, open-source SpaceX launch tracker by [Chechu](https://github.com/jesusrp98/).
 
 ### Contents / Finance
 
@@ -146,12 +150,12 @@
 
 ### Contents / Media
 
-*   [Grey (⭐522)](https://github.com/avirias/Grey) - A Material designed music player developed in Flutter by [Avinash Kumar](https://github.com/avirias).
-*   [InKino (⭐3.5k)](https://github.com/roughike/inKino) - A multiplatform Dart movie app by [Iiro Krankka](https://github.com/roughike).
+*   [Grey (⭐524)](https://github.com/avirias/Grey) - A Material designed music player developed in Flutter by [Avinash Kumar](https://github.com/avirias).
+*   [InKino (⭐3.6k)](https://github.com/roughike/inKino) - A multiplatform Dart movie app by [Iiro Krankka](https://github.com/roughike).
 
 ### Contents / Productivity
 
-*   [Trinity Orientation (⭐614)](https://github.com/matthewtory/trinity-orientation-2018) - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
+*   [Trinity Orientation (⭐615)](https://github.com/matthewtory/trinity-orientation-2018) - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
 
 ---
 

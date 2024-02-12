@@ -69,31 +69,23 @@ Naver Map: <http://naver.me/FjThMRso>
 
 *   [CircuitPeople](https://circuitpeople.com) - No frills 2D layer viewer for Gerbers, without the excessive processing.
 
-### Free EDA Packages / Installable
-
-*   [DipTrace](https://diptrace.com) - Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version.
-
 ### CAD Specific / KiCad
 
 *   [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
 *   [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial.
 
-### PCB Batching Services / Eagle
+### PCB Batching Services / Altium
 
 *   [Dirty PCBs](http://dirtypcbs.com/store/pcbs) - Low cost PCB batching service that prides itself on its "dirty" quality.
 
-### Part Search Engines / Eagle
-
-*   [Findchips](https://www.findchips.com/) - Part search from Supply Frame.
-
-### Development Board Retailers / Eagle
+### Development Board Retailers / Altium
 
 *   [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
 *   [Adafruit](https://www.adafruit.com/) - Another retailer and designer with excellent selection and tutorials.
 
 ### Forums / Discussion
 
-*   [EEVBlog forum](https://www.eevblog.com/forum/) - Probably the largest and most active forum to discuss electronic engineering topics.
+*   [EEVBlog forum](https://www.eevblog.com/forum/) - Probably the largest and most active forum to discuss Electronic Engineering topics.
 *   [/r/electronics](https://www.reddit.com/r/electronics/) and [/r/ECE](https://www.reddit.com/r/ECE/) are the two most active sub-reddits for EE topics.
 
 ### Videos / Help

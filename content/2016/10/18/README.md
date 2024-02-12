@@ -107,7 +107,7 @@
 
 ### Resources / Tutorials
 
-*   [Jayway Vue.js 2 workshop. Build an e-commerce site with vue-router, vuex and vue-resource (⭐321)](https://github.com/jayway/vue-js-workshop)
+*   [Jayway Vue.js 2 workshop. Build an e-commerce site with vue-router, vuex and vue-resource (⭐320)](https://github.com/jayway/vue-js-workshop)
 
 ## [11. Computer Science](/content/ossu/computer-science/README.md)
 

@@ -39,13 +39,13 @@
 
 ### E-Commerce and Payments
 
-*   [Braintree (⭐433)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
+*   [Braintree (⭐436)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 
 ## [5. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
-### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
+### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [Русский (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
+*   [Русский (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
 
 ## [6. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 

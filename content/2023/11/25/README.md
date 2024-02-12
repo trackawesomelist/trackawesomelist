@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [Jinja2С++ (⭐434)](https://github.com/jinja2cpp/Jinja2Cpp) - almost full-conformance template engine implementation. [website](https://jinja2cpp.github.io/)
+*   [Jinja2С++ (⭐450)](https://github.com/jinja2cpp/Jinja2Cpp) - almost full-conformance template engine implementation. [website](https://jinja2cpp.github.io/)
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -52,4 +52,5 @@
 
 ---
 
+- Prev: [Nov 26, 2023](/content/2023/11/26/README.md)
 - Next: [Nov 24, 2023](/content/2023/11/24/README.md)

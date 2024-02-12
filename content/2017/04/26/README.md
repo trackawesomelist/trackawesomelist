@@ -88,13 +88,13 @@
 
 ### Shell Package Management / Directory Navigation
 
-*   [dotdrop (⭐1.6k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
+*   [dotdrop (⭐1.7k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 
 ## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Open-source sites / Lists
 
-*   [RTEI (⭐14)](https://github.com/okfn/rtei) – Right to Education Index website (OKFN).
+*   [RTEI (⭐15)](https://github.com/okfn/rtei) – Right to Education Index website (OKFN).
 
 ## [11. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 

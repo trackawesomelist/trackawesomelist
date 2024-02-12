@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 31, 2017
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,18 +16,18 @@
 
 ### Browser automation
 
-*   [Selenium (⭐27k)](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem.
+*   [Selenium (⭐28k)](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem.
 *   [SlimerJS (⭐3k)](https://github.com/laurentj/slimerjs) - Scriptable browser like PhantomJS, based on Firefox.
-*   [Webdriver.io (⭐8.2k)](https://github.com/webdriverio/webdriverio/) - Node.js bindings implementation for the W3C WebDriver protocol.
+*   [Webdriver.io (⭐8.4k)](https://github.com/webdriverio/webdriverio/) - Node.js bindings implementation for the W3C WebDriver protocol.
 
 ### Tools and frameworks
 
-*   [gatling (⭐54)](https://github.com/gabrielrotbart/gatling) - Integrated visual RSpec matcher which makes real visual testing easy (Ruby).
-*   [vrtest (⭐13)](https://github.com/nathanmarks/vrtest) - JavaScript library for running visual regression tests on your components cross browser via selenium.
+*   [gatling (⭐53)](https://github.com/gabrielrotbart/gatling) - Integrated visual RSpec matcher which makes real visual testing easy (Ruby).
+*   [vrtest (⭐14)](https://github.com/nathanmarks/vrtest) - JavaScript library for running visual regression tests on your components cross browser via selenium.
 
 ### Online services
 
-*   [BrowserStack](https://www.browserstack.com) - Free for Open Source. Supports [Selenium Webdriver (⭐27k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
+*   [BrowserStack](https://www.browserstack.com) - Free for Open Source. Supports [Selenium Webdriver (⭐28k)](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
 *   [screener.io](https://screener.io) - For React, looks open source.
 *   [applitools](https://applitools.com) - Cloud base visual tests.
 *   [percy.io](https://percy.io) - Continuous visual reviews for web apps.
@@ -47,13 +47,13 @@
 
 ### Command-Line Productivity
 
-*   [has (⭐529)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
+*   [has (⭐563)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 
 ## [4. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
 ### Libraries / To draw using canvas
 
-*   [d3 (⭐104k)](https://github.com/d3/d3) (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
+*   [d3 (⭐107k)](https://github.com/d3/d3) (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -133,13 +133,7 @@
 
 *   [Summit 2017](https://www.youtube.com/watch?v=TDpiyrcOO30\&list=PLNYkxOF6rcIDP0PqVaJxqNWwIgvoEPzJi)
 
-## [8. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
-
-### PHP / Scala
-
-*   [Fat-Free](https://fatfreeframework.com/) - A powerful yet easy-to-use PHP micro-framework.
-
-## [9. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### User Groups / Ruby
 
@@ -149,26 +143,26 @@
 *   [Nederland](http://www.meetup.com/Domain-Driven-Design-Nederland/)
 *   [Phoenix](https://www.meetup.com/DDD-Phoenix)
 
-## [10. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [9. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Microservices
 
-*   [Resilience4j (⭐8.8k)](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming. Resilience4j provides modules for Circuit Breaking, Rate Limiting, Bulkheading, Automatic retrying, Response caching and Metric measuring.
+*   [Resilience4j (⭐9.1k)](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming. Resilience4j provides modules for Circuit Breaking, Rate Limiting, Bulkheading, Automatic retrying, Response caching and Metric measuring.
 
-## [11. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
+## [10. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 
 ### Authentication
 
 *   [pyramid\_ldap3 (⭐11)](https://github.com/Cito/pyramid_ldap3) - Provides LDAP authentication
     services for your Pyramid application based on the ldap3 package.
 
-## [12. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line utilities
 
-*   [gradient-string (⭐964)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
+*   [gradient-string (⭐975)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 
-## [13. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
+## [12. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 
 ### Libraries for driving the protocol (or a layer above)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 07, 2020
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,7 @@
 
 *   [tapping\_device (⭐447)](https://github.com/st0012/tapping_device) - A tool that allows you to inspect your program from an Object's perspective.
 
-## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
-
-### Tools
-
-*   🌍 [Typography Playground](https://tailwind-typography-playground.vercel.app/) - Tool for trying different Google Fonts combinations with the Tailwind CSS Typography Plugin.
-
-## [3. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [2. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / EHR
 
@@ -32,32 +26,32 @@
 
 *   [IHRIS](https://www.ihris.org/toolkit-new/) - Health Information System for management of human resources for health.
 
-## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / Other
 
-*   [AHT20](https://crates.io/crates/aht20) - I2C - Humidity and temperature sensor - [github (⭐2)](https://github.com/chocol4te/aht20) - ![crates.io](https://img.shields.io/crates/v/aht20.svg)
+*   [AHT20](https://crates.io/crates/aht20) - I2C - Humidity and temperature sensor - [github (⭐3)](https://github.com/chocol4te/aht20) - ![crates.io](https://img.shields.io/crates/v/aht20.svg)
 
-## [5. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
+## [4. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
 ### Books / Uncategorized
 
 *   [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) - This book focuses on supervised or predictive modeling for text, using text data to make predictions about the world around us. Authors: Emil Hvitfeldt and Julia Silge.
 
-## [6. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+## [5. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ### Artificial Intelligence / Mobile
 
-*   [Habitica (⭐1.2k)](https://github.com/HabitRPG/habitica-android) - Gamify your life.
+*   [Habitica (⭐1.3k)](https://github.com/HabitRPG/habitica-android) - Gamify your life.
 
-## [7. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
+## [6. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
 ### Restaurants
 
 *   Bonn, Germany
     *   [Kaiserhüttn](https://kaiserhuettn.com/) - Eat like in Austria.
 
-## [8. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [7. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Audio and Video
 
@@ -95,31 +89,31 @@
 
 *   [Randommer](https://randommer.io/) - Random data generator and validator.
 
-## [9. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [8. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Conventions
 
 *   Any list item with a Paper :newspaper: has a scientific paper or detailed description
 
-## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Meaning of Symbols:
 
 *   :warning: means that this tool was not updated for more than 1 year, or the repo was archived.
 
-## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Miscellaneous
 
-*   [react-customizable-chat-bot (⭐14)](https://github.com/chithakumar13/react-chat-bot) - [Demo](https://chithakumar13.github.io/bot-example) - Build your own chatbot matching your brand needs in minutes.
+*   [react-customizable-chat-bot (⭐15)](https://github.com/chithakumar13/react-chat-bot) - [Demo](https://chithakumar13.github.io/bot-example) - Build your own chatbot matching your brand needs in minutes.
 
-## [12. Awesome Internships](/content/lodthe/awesome-internships/README.md)
+## [11. Awesome Internships](/content/lodthe/awesome-internships/README.md)
 
 ### Feedback on your CV
 
 *   [TopCV](https://www.topcv.com) - Get detailed feedback from experts.
 
-## [13. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Code Pipeline
 

@@ -10,7 +10,7 @@
 
 ### Development
 
-*   [LoveDebug (⭐28)](https://github.com/flamendless/lovedebug) - Inline console-like debugger utility.
+*   [LoveDebug (⭐30)](https://github.com/flamendless/lovedebug) - Inline console-like debugger utility.
 
 ## [2. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
@@ -26,7 +26,7 @@
 
 ### DASH / Talks Presentations Podcasts
 
-*   [dash-mpd-rs (⭐34)](https://github.com/emarsden/dash-mpd-rs)  - Rust library for parsing, serializing and downloading media content from a DASH MPD file.
+*   [dash-mpd-rs (⭐47)](https://github.com/emarsden/dash-mpd-rs)  - Rust library for parsing, serializing and downloading media content from a DASH MPD file.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Boilerplate / Mouse Events
 
-*   [elegant (⭐92)](https://github.com/elegantframework/elegant-cli) - [docs](https://www.elegantframework.com/docs/installation) - [demo](https://www.elegantframework.com/) - A simple React framework for rapidly building beautiful and expressive web applications with Next.js, Tailwind CSS, and Markdown loading.
+*   [elegant (⭐125)](https://github.com/elegantframework/elegant-cli) - [docs](https://www.elegantframework.com/docs/installation) - [demo](https://www.elegantframework.com/) - A simple React framework for rapidly building beautiful and expressive web applications with Next.js, Tailwind CSS, and Markdown loading.
 
 ## [8. Tips](/content/git-tips/tips/README.md)
 

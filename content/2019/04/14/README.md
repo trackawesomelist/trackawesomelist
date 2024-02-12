@@ -26,15 +26,15 @@
 
 ### Miscellaneous
 
-*   [icecream-cpp (⭐464)](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. \[MIT]
+*   [icecream-cpp (⭐506)](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. \[MIT]
 
 ## [4. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
-### Nuxt, TypeScript + Docker   [↗](https://awesomestacks.dev/nuxt-type-script-docker) / Resources
+### Nuxt, TypeScript + Docker [↗](https://awesomestacks.dev/nuxt-type-script-docker) / Resources
 
-*   [Jest](https://jestjs.io/) - [🛠️](https://stackshare.io/jest) - [🐙 (⭐41k)](https://github.com/facebook/jest) - A comprehensive, delightful JavaScript testing solution.
-*   [stylelint](https://stylelint.io/) - [🛠️](https://stackshare.io/stylelint) - [🐙 (⭐10k)](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
-*   [wemake-vue-template (⭐724)](https://github.com/wemake-services/wemake-vue-template)
+*   [Jest](https://jestjs.io/) - [🛠️](https://stackshare.io/jest) - [🐙 (⭐43k)](https://github.com/facebook/jest) - A comprehensive, delightful JavaScript testing solution.
+*   [stylelint](https://stylelint.io/) - [🛠️](https://stackshare.io/stylelint) - [🐙 (⭐11k)](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
+*   [wemake-vue-template (⭐731)](https://github.com/wemake-services/wemake-vue-template)
 
 ## [5. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Hacker Roadmap (⭐9.9k)](https://github.com/sundowndev/hacker-roadmap)
+- Repository: [Hacker Roadmap (⭐12k)](https://github.com/sundowndev/hacker-roadmap)
 
   Description: A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking.
 
@@ -78,7 +78,7 @@
 
 ### Packages / Apps
 
-*   [BassoonTracker (⭐932)](https://github.com/steffest/BassoonTracker) - MOD/XM Tracker in Javascript.
+*   [BassoonTracker (⭐954)](https://github.com/steffest/BassoonTracker) - MOD/XM Tracker in Javascript.
 
 ## [10. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

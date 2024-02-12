@@ -10,11 +10,11 @@
 
 ### Applications / Utilities
 
-*   [guoxbin/dtool (⭐340)](https://github.com/guoxbin/dtool) — A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.
+*   [guoxbin/dtool (⭐356)](https://github.com/guoxbin/dtool) — A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.
 
 ### Development tools / Profiling
 
-*   [bheisler/criterion.rs (⭐3.7k)](https://github.com/bheisler/criterion.rs) — Statistics-driven benchmarking library for Rust
+*   [bheisler/criterion.rs (⭐4k)](https://github.com/bheisler/criterion.rs) — Statistics-driven benchmarking library for Rust
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -50,8 +50,8 @@
 
 ### Projects / Libraries
 
-*   [Formalised Undecidable Problems (⭐96)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
-*   [Regular Language Representations (⭐37)](https://github.com/coq-community/reglang) - Translations between different definitions of regular languages, including regular expressions and automata.
+*   [Formalised Undecidable Problems (⭐98)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
+*   [Regular Language Representations (⭐38)](https://github.com/coq-community/reglang) - Translations between different definitions of regular languages, including regular expressions and automata.
 
 ### Projects / Plugins
 
@@ -72,20 +72,20 @@
 
 ### Command-Line Productivity
 
-*   [boom (⭐1.2k)](https://github.com/holman/boom) - Store links and snippets in the command line
-*   [cod (⭐475)](https://github.com/dim-an/cod) — A completion daemon for shell that learns when you invoke `--help` commands
-*   [dnote (⭐2.5k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface
+*   [boom (⭐1.3k)](https://github.com/holman/boom) - Store links and snippets in the command line
+*   [cod (⭐493)](https://github.com/dim-an/cod) — A completion daemon for shell that learns when you invoke `--help` commands
+*   [dnote (⭐2.6k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface
 *   [foxy (⭐39)](https://github.com/s-p-k/foxy) - Plain text bookmarks for Firefox and surf browsers.
-*   [resh (⭐888)](https://github.com/curusarn/resh) - Contextual shell history for Zsh and Bash
-*   [snips (⭐70)](https://github.com/srijanshetty/snips) - Command line tool to manage snippets of code.
+*   [resh (⭐918)](https://github.com/curusarn/resh) - Contextual shell history for Zsh and Bash
+*   [snips (⭐74)](https://github.com/srijanshetty/snips) - Command line tool to manage snippets of code.
 
 ### For Developers / Directory Navigation
 
-*   [mkdkr (⭐332)](https://github.com/rosineygp/mkdkr) - Makefile + Docker = CI Pipeline
+*   [mkdkr (⭐348)](https://github.com/rosineygp/mkdkr) - Makefile + Docker = CI Pipeline
 
 ### Downloading and Serving / Directory Navigation
 
-*   [bashhub-server (⭐274)](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub
+*   [bashhub-server (⭐289)](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub
 
 ## [10. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 

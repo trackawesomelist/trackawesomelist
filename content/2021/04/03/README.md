@@ -10,13 +10,13 @@
 
 ### Applications / Video
 
-*   [dertuxmalwieder/yaydl (⭐239)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
+*   [dertuxmalwieder/yaydl (⭐255)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Apps / Third-party APIs
 
-*   [cl-mock (⭐16)](https://github.com/Ferada/cl-mock) - Another mocking library. It has more features than Mockingbird, like pattern matching on the mocked call, etc.
+*   [cl-mock (⭐17)](https://github.com/Ferada/cl-mock) - Another mocking library. It has more features than Mockingbird, like pattern matching on the mocked call, etc.
 
 ## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Multimedia
 
-*   [Clapper (⭐610)](https://github.com/Rafostar/clapper) - Simple and modern media player.
+*   [Clapper (⭐643)](https://github.com/Rafostar/clapper) - Simple and modern media player.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-dataset (⭐217)](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets with filtering, paging, and sorting capabilities!
+*   [vue-dataset (⭐219)](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets with filtering, paging, and sorting capabilities!
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 13, 2016
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,7 +20,7 @@
 
 ### Music Notation
 
-*   [MusicKit (⭐109)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
+*   [MusicKit (⭐108)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
 
 ## [3. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
@@ -28,13 +28,7 @@
 
 *   [CSS Layout: from Table to Flexbox](https://speakerdeck.com/diogomoretti/css-layout-from-table-to-flexbox)
 
-## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
-
-### Table of Contents / Code Analysis
-
-*   [Qafoo Quality Analyzer (⭐495)](https://github.com/Qafoo/QualityAnalyzer) - A tool to visualize metrics and source code.
-
-## [5. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [4. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Metaprogramming
 
@@ -45,13 +39,13 @@
 *   [HdrLogProcessing (⭐29)](https://github.com/nitsanw/HdrLogProcessing) - Utilities for HDR Histogram logs manipulation.
 *   [Java Flight Recorder (JFR)](http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html) - Tool for collecting diagnostic and profiling data about a running Java application with almost no performance overhead.
 
-## [6. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [5. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Wargames
 
 *   [WebHacking](http://webhacking.kr) - Hacking challenges for web.
 
-## [7. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Courses
 
@@ -62,7 +56,7 @@
 *   [DSSTNE - Amazon's library for building Deep Learning models (⭐4.4k)](https://github.com/amznlabs/amazon-dsstne)
 *   [SyntaxNet - Google's syntactic parser - A TensorFlow dependency library (⭐75k)](https://github.com/tensorflow/models/tree/master/syntaxnet)
 
-## [8. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [7. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Plugins / IRC
 
@@ -102,7 +96,7 @@
 *   [How Composer helped shape the new way of writing PHP - Nils Adermann @ Drupal Camp Frankfurt](https://www.youtube.com/watch?v=C2jfLM-Egvg)
 *   [Composer Package Management - Nils Adermann @ T3CON12DE](https://www.youtube.com/watch?v=P4Qnp90TG0g)
 
-## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -112,17 +106,17 @@
 
 *   [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for python.
 
-## [10. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [9. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Books / Videos
 
 *   [Laravel: Code Smart](https://leanpub.com/codesmart) by Dayle Rees
 
-## [11. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [10. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Downloading and Serving / Directory Navigation
 
-*   [aria2 (⭐30k)](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, BitTorrent and Metalink
+*   [aria2 (⭐32k)](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, BitTorrent and Metalink
 
 ### Shell Script Development / Directory Navigation
 

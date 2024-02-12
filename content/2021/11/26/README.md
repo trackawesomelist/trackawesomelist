@@ -34,10 +34,6 @@
 *   [From Grafana ObservabilityCON: Building performance tests into your CI pipeline with k6 and Grafana, w/ Matthew Churcher, QA Engineer at Vonage](https://grafana.com/go/observabilitycon/2021/performance-testing-vonage/)
 *   [EveryoneCanContribute cafe: Load Performance Testing with k6](https://youtu.be/_ty40gSaaw8)
 
-### CI
-
-*   [k6 for Buddy CI/CD](https://k6.io/blog/integrating-k6-with-buddy-devops/)
-
 ## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Vue / Loaders
@@ -48,7 +44,7 @@
 
 ### Carousel
 
-*   [swiper (⭐37k)](https://github.com/nolimits4web/Swiper) - [demo](https://swiperjs.com/demos) - [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+*   [swiper (⭐38k)](https://github.com/nolimits4web/Swiper) - [demo](https://swiperjs.com/demos) - [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
 
 ## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

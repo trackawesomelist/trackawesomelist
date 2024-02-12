@@ -18,7 +18,7 @@
 
 ### Video / Barcode
 
-*   [NextLevelSessionExporter (⭐242)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
+*   [NextLevelSessionExporter (⭐243)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
 
 ## [2. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -36,7 +36,7 @@
 
 ### WebSocket
 
-*   [Chord (⭐437)](https://github.com/jarohen/chord)
+*   [Chord (⭐436)](https://github.com/jarohen/chord)
 
 ## [5. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
@@ -47,7 +47,7 @@
 ### Deprecated
 
 *   [PhantomCSS (⭐4.7k)](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS or SlimerJS. No longer maintained since 22 Dec 2017.
-*   [DalekJS (⭐701)](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.
+*   [DalekJS (⭐698)](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

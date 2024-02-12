@@ -25,7 +25,7 @@
 
 ### Examples and funny stuff
 
-*   [blackjack-cr (⭐7)](https://github.com/gdonald/blackjack-cr) - Console Blackjack
+*   [blackjack-cr (⭐8)](https://github.com/gdonald/blackjack-cr) - Console Blackjack
 
 ## [3. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Command-Line Productivity
 
-*   [q (⭐62)](https://github.com/cal2195/q) - Vim like macro registers for your Bash and Zsh Shell
+*   [q (⭐65)](https://github.com/cal2195/q) - Vim like macro registers for your Bash and Zsh Shell
 
 ### For Developers / Directory Navigation
 
@@ -18,17 +18,17 @@
 
 ### System Utilities / Directory Navigation
 
-*   [progress (⭐7.4k)](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
+*   [progress (⭐7.9k)](https://github.com/Xfennec/progress) - Linux tool to show progress for `cp`, `rm`, `dd`, and more...
 *   [stronghold (⭐1k)](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
 *   [xiringuito (⭐1.1k)](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [adb-export (⭐97)](https://github.com/sromku/adb-export) - Export Android content providers to CSV format
+*   [adb-export (⭐101)](https://github.com/sromku/adb-export) - Export Android content providers to CSV format
 
 ### Games / Directory Navigation
 
-*   [piu-piu (⭐698)](https://github.com/vaniacer/piu-piu-SH) - Horizontal scroller game in bash with multiplayer mode!
+*   [piu-piu (⭐712)](https://github.com/vaniacer/piu-piu-SH) - Horizontal scroller game in bash with multiplayer mode!
 
 ### Shell Script Development / Directory Navigation
 
@@ -44,7 +44,7 @@
 
 ### Email
 
-*   [carbon (⭐83)](https://github.com/luckyframework/carbon) - Fun, testable, and adapter-based email library
+*   [carbon (⭐84)](https://github.com/luckyframework/carbon) - Fun, testable, and adapter-based email library
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Code Analysis and Metrics
 
-*   [Traceroute (⭐880)](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
+*   [Traceroute (⭐887)](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
 
 ## [2. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
@@ -45,7 +45,7 @@ Covers a lot of useful information for developing secure Node.js applications.
 
 ### Extensions / Python Profile
 
-*   [MagicPython (⭐1.3k)](https://github.com/MagicStack/MagicPython) — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
+*   [MagicPython (⭐1.4k)](https://github.com/MagicStack/MagicPython) — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
 
 ## [7. Awesome Codepoints](/content/Codepoints/awesome-codepoints/README.md)
 

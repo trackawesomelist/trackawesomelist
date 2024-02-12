@@ -117,7 +117,7 @@
 
 ### For Electron / Other
 
-*   [debug-menu (⭐134)](https://github.com/parro-it/debug-menu) - Chrome-like "inspect element" context-menu.
+*   [debug-menu (⭐135)](https://github.com/parro-it/debug-menu) - Chrome-like "inspect element" context-menu.
 
 ## [5. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

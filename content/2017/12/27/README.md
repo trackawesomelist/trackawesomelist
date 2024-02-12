@@ -46,11 +46,11 @@
 
 ### Automation
 
-*   [Danger (⭐5.2k)](https://github.com/danger/danger) - Automate your team's conventions surrounding code review.
+*   [Danger (⭐5.3k)](https://github.com/danger/danger) - Automate your team's conventions surrounding code review.
 
 ### Cryptocurrencies and Blockchains
 
-*   [Blockchain Lite (⭐208)](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
+*   [Blockchain Lite (⭐212)](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

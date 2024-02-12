@@ -33,17 +33,17 @@
 
 ### Templates / Vanilla
 
-*   [create-domco (⭐4)](https://github.com/rossrobino/domco) - Starter template for domco SSG.
+*   [create-domco (⭐8)](https://github.com/rossrobino/domco) - Starter template for domco SSG.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Media / Diagnostics
 
-*   [edluffy/hologram.nvim (⭐1k)](https://github.com/edluffy/hologram.nvim) - A cross platform terminal image viewer. Works on macOS and Linux.
+*   [edluffy/hologram.nvim (⭐1.1k)](https://github.com/edluffy/hologram.nvim) - A cross platform terminal image viewer. Works on macOS and Linux.
 
 ### Code Runner / Diagnostics
 
-*   [dasupradyumna/launch.nvim (⭐11)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
+*   [dasupradyumna/launch.nvim (⭐36)](https://github.com/dasupradyumna/launch.nvim) - A simple and quick task launcher which allows dynamically configuring tasks on the fly, with optional support for debugging.
 
 ## [6. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
 
@@ -129,11 +129,11 @@
 
 ### Packages / Command-line utilities
 
-*   [listr2 (⭐398)](https://github.com/listr2/listr2) - Terminal task list.
+*   [listr2 (⭐420)](https://github.com/listr2/listr2) - Terminal task list.
 
 ## [9. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
-### Machine Learning
+### AI
 
 *   [Landing AI](https://landing.ai/) - Building computer vision systems in minutes via natural prompting interactions.
 
@@ -201,17 +201,21 @@
 
 ### Customization
 
-*   [LS\_COLORS (⭐1.9k)](https://github.com/trapd00r/LS_COLORS) - A collection of LS\_COLORS definitions.
+*   [LS\_COLORS (⭐2k)](https://github.com/trapd00r/LS_COLORS) - A collection of LS\_COLORS definitions.
 
-## [14. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### iOS / Bootstrap
+### Algorithms & Data Structures
 
-*   [Xcode Tutorial for Beginners](https://codewithchris.com/xcode-tutorial) - Chris Ching
+*   [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) - Jeff Erickson (PDF)
 
-### MySQL / PicoLisp
+### Artificial Intelligence
 
-*   [Learning MySQL](https://riptutorial.com/Download/mysql.pdf) - Compiled from StackOverflow Documentation (PDF)
+*   [Artificial Intelligence and the Future for Teaching and Learning](https://www2.ed.gov/documents/ai-report/ai-report.pdf) - Office of Educational Technology (PDF)
+
+### Computer Science
+
+*   [Computer Science Class XI](https://cbseacademic.nic.in/web_material/doc/cs/1_Computer-Science-Python-Book-Class-XI.pdf) - CBSE (PDF)
 
 ---
 

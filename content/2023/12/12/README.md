@@ -10,7 +10,7 @@
 
 ### Other Development Tools / Smart Contracts
 
-*   [puya (⭐30)](https://github.com/algorandfoundation/puya) - PuyaPy is an official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax.
+*   [puya (⭐41)](https://github.com/algorandfoundation/puya) - PuyaPy is an official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax.
 
 ## [2. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -30,5 +30,5 @@
 
 ---
 
-- Prev: [Dec 14, 2023](/content/2023/12/14/README.md)
+- Prev: [Dec 13, 2023](/content/2023/12/13/README.md)
 - Next: [Dec 11, 2023](/content/2023/12/11/README.md)

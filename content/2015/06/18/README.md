@@ -16,19 +16,19 @@
 
 ### Table of Contents / HTTP
 
-*   [Retrofit (⭐153)](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
+*   [Retrofit (⭐156)](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Templating Engines / Runner
 
-*   [xtemplate (⭐558)](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
+*   [xtemplate (⭐559)](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 
 ## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
-*   [thefuck (⭐78k)](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
+*   [thefuck (⭐80k)](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 
 ### Customization / Directory Navigation
 
@@ -36,7 +36,7 @@
 
 ### For Developers / Directory Navigation
 
-*   [git-open (⭐3.1k)](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser
+*   [git-open (⭐3.2k)](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser
 
 ## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

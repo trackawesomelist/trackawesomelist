@@ -10,7 +10,7 @@
 
 ### Android App Store
 
-*   [Obtainium (⭐2.8k)](https://github.com/ImranR98/Obtainium) - Get app updates directly from the source.
+*   [Obtainium (⭐4.1k)](https://github.com/ImranR98/Obtainium) - Get app updates directly from the source.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -22,23 +22,23 @@
 
 ### Concurrency and Parallelism
 
-*   [Polyphony (⭐639)](https://github.com/digital-fabric/polyphony) - Fine-grained concurrency for Ruby.
+*   [Polyphony (⭐646)](https://github.com/digital-fabric/polyphony) - Fine-grained concurrency for Ruby.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Database Schema Migration
 
-*   [dbmate (⭐3.9k)](https://github.com/amacneil/dbmate) - A lightweight, framework-agnostic database migration tool.
+*   [dbmate (⭐4.1k)](https://github.com/amacneil/dbmate) - A lightweight, framework-agnostic database migration tool.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Caching
 
-*   [moka-rs/moka (⭐1k)](https://github.com/moka-rs/moka) - A high performance concurrent caching library for Rust inspired by the Caffeine library for Java [![build badge](https://github.com/moka-rs/moka/workflows/CI/badge.svg)](https://github.com/moka-rs/moka/actions/workflows/CI.yml)
+*   [moka-rs/moka (⭐1.2k)](https://github.com/moka-rs/moka) - A high performance concurrent caching library for Rust inspired by the Caffeine library for Java [![build badge](https://github.com/moka-rs/moka/workflows/CI/badge.svg)](https://github.com/moka-rs/moka/actions/workflows/CI.yml)
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Browsers / File Sharing
+### Browsers / Audio Record and Process
 
 *   [Orion](https://browser.kagi.com/) - Lightweight WebKit-based browser with support for Chrome and Firefox extensions. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
@@ -58,7 +58,7 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [asimov-ts (⭐9)](https://github.com/pedrozaalex/asimov-ts) - A type safe (as much as possible) engine for the web written in TypeScript.
+*   :tada: [asimov-ts (⭐10)](https://github.com/pedrozaalex/asimov-ts) - A type safe (as much as possible) engine for the web written in TypeScript.
 
 ## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

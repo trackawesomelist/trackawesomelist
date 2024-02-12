@@ -60,62 +60,62 @@
 
 ## [2. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
-### Electron React Boilerplate   [↗](https://awesomestacks.dev/electron-react-boilerplate) / Resources
+### Electron React Boilerplate [↗](https://awesomestacks.dev/electron-react-boilerplate) / Resources
 
-*   [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 (⭐201k)](https://github.com/facebook/react) - React components can be used on the client and server side.
-*   [Redux](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 (⭐59k)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
+*   [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 (⭐217k)](https://github.com/facebook/react) - React components can be used on the client and server side.
+*   [Redux](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 (⭐60k)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
 *   [Electron React Boilerplate website](https://electron-react-boilerplate.js.org/)
 
-### Victor Hugo boilerplate   [↗](https://awesomestacks.dev/victor-hugo-boilerplate) / Resources
+### Victor Hugo boilerplate [↗](https://awesomestacks.dev/victor-hugo-boilerplate) / Resources
 
-*   [Webpack](https://webpack.js.org/) - [🛠️](https://stackshare.io/webpack) - [🐙 (⭐62k)](https://github.com/webpack/webpack) - A static module bundler for modern JavaScript applications.
-*   [Hugo](https://gohugo.io/) - [🛠](https://stackshare.io/hugo_2)- [🐙 (⭐65k)](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+*   [Webpack](https://webpack.js.org/) - [🛠️](https://stackshare.io/webpack) - [🐙 (⭐64k)](https://github.com/webpack/webpack) - A static module bundler for modern JavaScript applications.
+*   [Hugo](https://gohugo.io/) - [🛠](https://stackshare.io/hugo_2)- [🐙 (⭐71k)](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 *   [netlify-templates/victor-hugo (⭐1.5k)](https://github.com/netlify-templates/victor-hugo)
 
-### Progressive Web App with Gatsby   [↗](https://awesomestacks.dev/progressive-web-app-with-gatsby) / Resources
+### Progressive Web App with Gatsby [↗](https://awesomestacks.dev/progressive-web-app-with-gatsby) / Resources
 
 *   [Cloud Firestore](https://firebase.google.com/docs/firestore/) - [🛠️](https://stackshare.io/cloud-firestore) - A noSQL cloud database that exposes event listeners for real-time updates.
-*   [styled components](https://www.styled-components.com/) - [🛠](https://stackshare.io/styled-components) - [🐙 (⭐38k)](https://github.com/styled-components/styled-components) - A react-specific css-in-js solution.
+*   [styled components](https://www.styled-components.com/) - [🛠](https://stackshare.io/styled-components) - [🐙 (⭐40k)](https://github.com/styled-components/styled-components) - A react-specific css-in-js solution.
 *   [JAMstack PWA — Let’s Build a Polling App. with Gatsby.js, Firebase, and Styled-components](https://medium.com/@UnicornAgency/jamstack-pwa-lets-build-a-polling-app-with-gatsby-js-firebase-and-styled-components-pt-1-78a03a633092)
 
-### GraphCMS React + Apollo   [↗](https://awesomestacks.dev/graph-cms-react-apollo) / Resources
+### GraphCMS React + Apollo [↗](https://awesomestacks.dev/graph-cms-react-apollo) / Resources
 
 *   [GraphCMS](https://graphcms.com/) - [🛠️](https://stackshare.io/graphcms) - GraphCMS providing a backend to your app, giving you the tools to manage content.
-*   [Apollo](https://www.apollographql.com/) - [🛠️](https://stackshare.io/apollo) - [🐙 (⭐18k)](https://github.com/apollographql/apollo-client) - Apollo Client is the best way to use GraphQL to build client applications.
+*   [Apollo](https://www.apollographql.com/) - [🛠️](https://stackshare.io/apollo) - [🐙 (⭐19k)](https://github.com/apollographql/apollo-client) - Apollo Client is the best way to use GraphQL to build client applications.
 
-### Algolia site search   [↗](https://awesomestacks.dev/algolia-site-search) / Resources
+### Algolia site search [↗](https://awesomestacks.dev/algolia-site-search) / Resources
 
 *   [Algolia](https://algolia.com/) - [🛠](https://stackshare.io/algolia) - Hosted search API, free up to 10,000 records.
-*   [DocSearch](https://community.algolia.com/docsearch) - [🐙 (⭐264)](https://github.com/algolia/docsearch-scraper) - Crawls a website and uploads it to an index.
-*   [gatsby-plugin-algolia](https://www.gatsbyjs.org/packages/gatsby-plugin-algolia/) - [🐙 (⭐176)](https://github.com/algolia/gatsby-plugin-algolia) - Use GraphQL to specify Gatsby object to index with Algolia (beta).
-*   [hugo-algolia (⭐45)](https://github.com/replicatedhq/hugo-algolia) - [🐙 (⭐45)](https://github.com/replicatedhq/hugo-algolia) - Generate and send indices from Hugo static sites for use with Algolia.
-*   [instantsearch.js](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) - [🐙 (⭐3.1k)](https://github.com/algolia/instantsearch.js) - JavaScript library for building performant and instant search experiences.
+*   [DocSearch](https://community.algolia.com/docsearch) - [🐙 (⭐290)](https://github.com/algolia/docsearch-scraper) - Crawls a website and uploads it to an index.
+*   [gatsby-plugin-algolia](https://www.gatsbyjs.org/packages/gatsby-plugin-algolia/) - [🐙 (⭐179)](https://github.com/algolia/gatsby-plugin-algolia) - Use GraphQL to specify Gatsby object to index with Algolia (beta).
+*   [hugo-algolia (⭐46)](https://github.com/replicatedhq/hugo-algolia) - [🐙 (⭐46)](https://github.com/replicatedhq/hugo-algolia) - Generate and send indices from Hugo static sites for use with Algolia.
+*   [instantsearch.js](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) - [🐙 (⭐3.4k)](https://github.com/algolia/instantsearch.js) - JavaScript library for building performant and instant search experiences.
 *   [Static site search with Hugo + Algolia](https://forestry.io/blog/search-with-algolia-in-hugo/)
 
-### Serverless Stack with React on AWS   [↗](https://awesomestacks.dev/serverless-stack-with-react-on-aws) / Resources
+### Serverless Stack with React on AWS [↗](https://awesomestacks.dev/serverless-stack-with-react-on-aws) / Resources
 
-*   [Serverless Framework](https://serverless.com/) - [🛠️](https://stackshare.io/serverless) - [🐙 (⭐44k)](https://github.com/serverless/serverless) - A toolkit for building serverless applications.
+*   [Serverless Framework](https://serverless.com/) - [🛠️](https://stackshare.io/serverless) - [🐙 (⭐46k)](https://github.com/serverless/serverless) - A toolkit for building serverless applications.
 *   [AWS Lambda](https://aws.amazon.com/lambda) - [🛠️](https://stackshare.io/aws-lambda) - A compute service that runs your code in response to events.
 *   [DynamoDB](http://aws.amazon.com/dynamodb/) - [🛠️](https://stackshare.io/amazon-dynamodb) - Fully managed NoSQL database service.
 *   [Amazon Cognito](https://aws.amazon.com/cognito/) - [🛠️](https://stackshare.io/amazon-cognito) - Securely manage and synchronize app data for your users across their mobile devices.
 *   [serverless-stack.com](https://serverless-stack.com/)
 
-### GCP Kubernetes Stack   [↗](https://awesomestacks.dev/gcp-kubernetes-stack) / Resources
+### GCP Kubernetes Stack [↗](https://awesomestacks.dev/gcp-kubernetes-stack) / Resources
 
 *   [GKE](https://cloud.google.com/kubernetes-engine/) - [🛠](https://stackshare.io/google-kubernetes-engine) - Kubernetes cluster managed by Google.
 
-### Ethereum DApp   [↗](https://awesomestacks.dev/ethereum-d-app) / Resources
+### Ethereum DApp [↗](https://awesomestacks.dev/ethereum-d-app) / Resources
 
-*   [Solidity](https://solidity.readthedocs.io) - [🐙 (⭐19k)](https://github.com/ethereum/solidity) - Solidity is an object-oriented, high-level language for implementing smart contracts.
-*   [web3.js](https://web3js.readthedocs.io) - [🐙 (⭐17k)](https://github.com/ethereum/web3.js) - Ethereum JavaScript API.
+*   [Solidity](https://solidity.readthedocs.io) - [🐙 (⭐21k)](https://github.com/ethereum/solidity) - Solidity is an object-oriented, high-level language for implementing smart contracts.
+*   [web3.js](https://web3js.readthedocs.io) - [🐙 (⭐18k)](https://github.com/ethereum/web3.js) - Ethereum JavaScript API.
 *   [Truffle](https://truffleframework.com/truffle) - [🐙 (⭐14k)](https://github.com/trufflesuite/truffle) - A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM).
-*   [Ganache](https://truffleframework.com/ganache) - [🐙 (⭐2.2k)](https://github.com/trufflesuite/ganache) - Personal blockchain for Ethereum development.
-*   [drizzle](https://truffleframework.com/drizzle) - [🐙 (⭐892)](https://github.com/trufflesuite/drizzle) - A collection of front-end libraries that make writing dapp user interfaces easier and more predictable.
+*   [Ganache](https://truffleframework.com/ganache) - [🐙 (⭐2.6k)](https://github.com/trufflesuite/ganache) - Personal blockchain for Ethereum development.
+*   [drizzle](https://truffleframework.com/drizzle) - [🐙 (⭐911)](https://github.com/trufflesuite/drizzle) - A collection of front-end libraries that make writing dapp user interfaces easier and more predictable.
 
-### React Native with Expo and Hasura   [↗](https://awesomestacks.dev/react-native-with-expo-and-hasura) / Resources
+### React Native with Expo and Hasura [↗](https://awesomestacks.dev/react-native-with-expo-and-hasura) / Resources
 
-*   [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙 (⭐107k)](https://github.com/facebook/react-native) - Build native mobile apps using JavaScript and React.
-*   [Expo](https://expo.io/) - [🛠️](https://stackshare.io/expo) - [🐙 (⭐19k)](https://github.com/expo/expo) - Build, deploy, and quickly iterate on native iOS and Android apps from the same JavaScript codebase.
+*   [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙 (⭐113k)](https://github.com/facebook/react-native) - Build native mobile apps using JavaScript and React.
+*   [Expo](https://expo.io/) - [🛠️](https://stackshare.io/expo) - [🐙 (⭐25k)](https://github.com/expo/expo) - Build, deploy, and quickly iterate on native iOS and Android apps from the same JavaScript codebase.
 *   [Digital Ocean](https://www.digitalocean.com/) - [🛠️](https://stackshare.io/digitalocean) - [🐙](https://github.com/digitalocean/) - Deploy an SSD cloud server in less than 55 seconds with a dedicated IP and root access.
 *   [Auth0](https://auth0.com/) - [🛠️](https://stackshare.io/auth0) - A universal authentication & authorization platform for web, mobile and legacy applications.
 *   [Tutorial: Fullstack React Native with GraphQL and Authentication](https://blog.hasura.io/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a/)
@@ -129,7 +129,7 @@
 
 ### CMS & Blogs
 
-*   [Yona CMS (⭐368)](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
+*   [Yona CMS (⭐367)](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
 
 ### Config
 
@@ -166,11 +166,11 @@
 ### Applications
 
 *   [Pijul](https://pijul.org) — A patch-based distributed version control system
-*   [Servo (⭐24k)](https://github.com/servo/servo) — A prototype web browser engine
+*   [Servo (⭐25k)](https://github.com/servo/servo) — A prototype web browser engine
 
 ### Applications / Utilities
 
-*   [fcsonline/tmux-thumbs (⭐754)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator.
+*   [fcsonline/tmux-thumbs (⭐811)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator.
 
 ### Applications / Virtualization
 
@@ -178,7 +178,7 @@
 
 ### Applications / Web Servers
 
-*   [TheWaWaR/simple-http-server (⭐2k)](https://github.com/TheWaWaR/simple-http-server) — simple static http server
+*   [TheWaWaR/simple-http-server (⭐2.3k)](https://github.com/TheWaWaR/simple-http-server) — simple static http server
 
 ### Development tools / Debugging
 
@@ -188,7 +188,7 @@
 ### Development tools / Deployment
 
 *   Heroku
-    *   [emk/heroku-buildpack-rust (⭐514)](https://github.com/emk/heroku-buildpack-rust) — A buildpack for Rust applications on Heroku
+    *   [emk/heroku-buildpack-rust (⭐517)](https://github.com/emk/heroku-buildpack-rust) — A buildpack for Rust applications on Heroku
 
 ### Development tools / Services
 
@@ -200,21 +200,21 @@
 
 ### Libraries / Configuration
 
-*   [Kixunil/configure\_me (⭐54)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] — library for processing application configuration easily
+*   [Kixunil/configure\_me (⭐57)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] — library for processing application configuration easily
 
 ### Libraries / GUI
 
 *   [IUP](http://webserver2.tecgraf.puc-rio.br/iup/)
-    *   [Kiss-ui (⭐341)](https://github.com/KISS-UI/kiss-ui) — A simple UI framework built on IUP
+    *   [Kiss-ui (⭐342)](https://github.com/KISS-UI/kiss-ui) — A simple UI framework built on IUP
 
 ### Libraries / Network programming
 
 *   Low level
-    *   [actix/actix (⭐8.1k)](https://github.com/actix/actix) — Actor library for Rust
-    *   [dylanmckay/protocol (⭐175)](https://github.com/dylanmckay/protocol) — Custom TCP/UDP protocol definitions
-    *   [libpnet/libpnet (⭐2k)](https://github.com/libpnet/libpnet) — A cross-platform, low level networking
-    *   [smoltcp-rs/smoltcp (⭐3.2k)](https://github.com/smoltcp-rs/smoltcp) — A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
-    *   [tokio-rs/tokio (⭐22k)](https://github.com/tokio-rs/tokio) — A network application framework for rapid development and highly scalable production deployments of clients and servers.
+    *   [actix/actix (⭐8.3k)](https://github.com/actix/actix) — Actor library for Rust
+    *   [dylanmckay/protocol (⭐179)](https://github.com/dylanmckay/protocol) — Custom TCP/UDP protocol definitions
+    *   [libpnet/libpnet (⭐2.1k)](https://github.com/libpnet/libpnet) — A cross-platform, low level networking
+    *   [smoltcp-rs/smoltcp (⭐3.4k)](https://github.com/smoltcp-rs/smoltcp) — A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
+    *   [tokio-rs/tokio (⭐24k)](https://github.com/tokio-rs/tokio) — A network application framework for rapid development and highly scalable production deployments of clients and servers.
 
 ### Libraries / Parsing
 
@@ -224,8 +224,8 @@
 
 *   Client-side / WASM
     *   [cargo-web](https://crates.io/crates/cargo-web) — A Cargo subcommand for the client-side Web
-    *   [leptos (⭐12k)](https://github.com/leptos-rs/leptos) — Leptos is a full-stack, isomorphic Rust web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
-    *   [sauron (⭐1.8k)](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture.
+    *   [leptos (⭐14k)](https://github.com/leptos-rs/leptos) — Leptos is a full-stack, isomorphic Rust web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
+    *   [sauron (⭐1.9k)](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture.
     *   [seed](https://seed-rs.org/) — A Rust framework for creating web apps
     *   [stdweb](https://crates.io/crates/stdweb) — A standard library for the client-side Web
     *   [yew](https://crates.io/crates/yew) — Rust framework for making client web apps
@@ -238,11 +238,11 @@
 
 ### Game Engine
 
-*   [Spring (⭐3.3k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
+*   [Spring (⭐3.4k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
 
 ### Reflection
 
-*   [Magic Enum (⭐4k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
+*   [Magic Enum (⭐4.2k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
 
 ## [7. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 

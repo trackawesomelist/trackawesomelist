@@ -1,6 +1,6 @@
 # Awesome List Updates on May 01 - May 07, 2017
 
-39 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -171,8 +171,7 @@
 
 ### Python / Reinforcement Learning
 
-*   [DeepMind Lab (⭐6.9k)](https://github.com/deepmind/lab) - DeepMind Lab is a 3D learning environment based on id Software's Quake III Arena via ioquake3 and other open source software. Its primary purpose is to act as a testbed for research in artificial intelligence, especially deep reinforcement learning.
-*   [Gym (⭐33k)](https://github.com/openai/gym) - OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms.
+*   [DeepMind Lab (⭐7k)](https://github.com/deepmind/lab) - DeepMind Lab is a 3D learning environment based on id Software's Quake III Arena via ioquake3 and other open source software. Its primary purpose is to act as a testbed for research in artificial intelligence, especially deep reinforcement learning.
 *   [ViZDoom (⭐1.6k)](https://github.com/mwydmuch/ViZDoom) - ViZDoom allows developing AI bots that play Doom using only the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular.
 
 ## [15. Guides](/content/NARKOZ/guides/week/README.md)
@@ -498,7 +497,7 @@
 
 ### Webdriver automation
 
-*   [Etaoin (⭐859)](https://github.com/igrishaev/etaoin)
+*   [Etaoin (⭐883)](https://github.com/igrishaev/etaoin)
 
 ## [23. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
@@ -705,12 +704,6 @@
 ### WebGL 2 / Particles
 
 *   [PicoGL.js](https://tsherif.github.io/picogl.js/) - Minimal WebGL 2-only rendering library.
-
-## [39. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
-
-### API Gateways / Edge Services / Scala
-
-*   [Annon (⭐325)](https://github.com/nebo15/annon.api) - Open source API gateway with built-in API management, authentication and status pages written in Elixir.
 
 ---
 

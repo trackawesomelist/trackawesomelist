@@ -212,40 +212,40 @@
 
 ### Extensions / General Purpose
 
-*   [Sidebar Enhancements (⭐2.1k)](https://github.com/titoBouzout/SideBarEnhancements) — provides enhancements to the operations on Sidebar of Files and Folders.
-*   [Trailing Spaces (⭐884)](https://github.com/SublimeText/TrailingSpaces) — highlight trailing spaces and delete them in a flash.
-*   [GitGutter (⭐3.9k)](https://github.com/jisaacks/GitGutter) — a plugin to see git diff in gutter.
+*   [All Autocomplete (⭐917)](https://github.com/alienhard/SublimeAllAutocomplete) — extends the default autocomplete to find matches in all open files.
+*   [ApplySyntax (⭐342)](https://github.com/facelessuser/ApplySyntax) — a plugin that allows to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files.
 *   [EditorConfig (⭐1.8k)](https://github.com/sindresorhus/editorconfig-sublime) — .editorconfig support.
-*   [SublimeLinter (⭐1.9k)](https://github.com/SublimeLinter/SublimeLinter3) — a plugin that provides a framework for linting code. Whatever language you code in, SublimeLinter can help you write cleaner, better, more bug-free code. SublimeLinter has been designed to provide maximum flexibility and usability for users and maximum simplicity for linter authors.
+*   [GitGutter (⭐3.9k)](https://github.com/jisaacks/GitGutter) — a plugin to see git diff in gutter.
+*   [Sidebar Enhancements (⭐2.2k)](https://github.com/titoBouzout/SideBarEnhancements) — provides enhancements to the operations on Sidebar of Files and Folders.
+*   [Sublime Alignment (⭐522)](https://github.com/wbond/sublime_alignment) — a simple key-binding for aligning multi-line and multiple selections.
 *   [Sublime Worksheet (⭐334)](https://github.com/jcartledge/sublime-worksheet) — an inline REPL for JavaScript, PHP, Ruby and more.
-*   [Sublime Alignment (⭐514)](https://github.com/wbond/sublime_alignment) — a simple key-binding for aligning multi-line and multiple selections.
-*   [ApplySyntax (⭐336)](https://github.com/facelessuser/ApplySyntax) — a plugin that allows to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files.
-*   [All Autocomplete (⭐907)](https://github.com/alienhard/SublimeAllAutocomplete) — extends the default autocomplete to find matches in all open files.
+*   [SublimeLinter (⭐2k)](https://github.com/SublimeLinter/SublimeLinter3) — a plugin that provides a framework for linting code. Whatever language you code in, SublimeLinter can help you write cleaner, better, more bug-free code. SublimeLinter has been designed to provide maximum flexibility and usability for users and maximum simplicity for linter authors.
 *   [SublimeREPL (⭐2.1k)](https://github.com/wuub/SublimeREPL) — runs an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself).
+*   [Trailing Spaces (⭐890)](https://github.com/SublimeText/TrailingSpaces) — highlight trailing spaces and delete them in a flash.
 
 ### Extensions / Ruby Profile
 
+*   [ChangeQuotes (⭐123)](https://github.com/colinta/SublimeChangeQuotes) — converts single to double or double to single quotes.
 *   [Setting up Sublime Text for Ruby development](http://zhuravel.biz/setting-up-sublime-text-for-ruby-development)
-*   [ChangeQuotes (⭐122)](https://github.com/colinta/SublimeChangeQuotes) — converts single to double or double to single quotes.
-*   [RSpec plugin (⭐125)](https://github.com/SublimeText/RSpec)
-*   [BeautifyRuby (⭐257)](https://github.com/CraigWilliams/BeautifyRuby) — beautifies Ruby code.
-*   [Sublime Ruby Debugger (⭐430)](https://github.com/shuky19/sublime_debugger) — a debugger plugin for interactive ruby and RoR debugging on Sublime Text.
+*   [BeautifyRuby (⭐258)](https://github.com/CraigWilliams/BeautifyRuby) — beautifies Ruby code.
+*   [RSpec plugin (⭐124)](https://github.com/SublimeText/RSpec)
+*   [Sublime Ruby Debugger (⭐428)](https://github.com/shuky19/sublime_debugger) — a debugger plugin for interactive ruby and RoR debugging on Sublime Text.
 
 ### Extensions / Python Profile
 
 *   [Sublime Text 3 for Python development](http://piotr.banaszkiewicz.org/blog/2013/08/24/sublime-text-3-for-python-development/)
 *   [Sublime Text 3 for Python, JavaScript and web developers](http://opensourcehacker.com/2014/03/10/sublime-text-3-for-python-javascript-and-web-developers/)
-*   [Rope (⭐1.4k)](https://github.com/python-rope/rope) — a Python refactoring library.
-*   [SublimeLinter PEP 257 (⭐11)](https://github.com/SublimeLinter/SublimeLinter-pep257) — an interface to [PEP 257 (⭐956)](https://github.com/GreenSteam/pep257#pep-257-docstring-style-checker) (docstring style checker).
-*   [Djaneiro (⭐857)](https://github.com/squ1b3r/Djaneiro) — Django support.
-*   [SublimePythonTidy (⭐40)](https://github.com/witsch/SublimePythonTidy) — [PythonTidy](https://pypi.python.org/pypi/PythonTidy/) integration.
 *   [Anaconda (⭐2.2k)](https://github.com/DamnWidget/anaconda) — autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.
-*   [SublimeJEDI (⭐931)](https://github.com/srusskih/SublimeJEDI) — Python autocompletion.
+*   [Djaneiro (⭐858)](https://github.com/squ1b3r/Djaneiro) — Django support.
+*   [Rope (⭐1.8k)](https://github.com/python-rope/rope) — a Python refactoring library.
+*   [SublimeJEDI (⭐939)](https://github.com/srusskih/SublimeJEDI) — Python autocompletion.
+*   [SublimeLinter PEP 257 (⭐10)](https://github.com/SublimeLinter/SublimeLinter-pep257) — an interface to [PEP 257 (⭐1.1k)](https://github.com/GreenSteam/pep257#pep-257-docstring-style-checker) (docstring style checker).
+*   [SublimePythonTidy (⭐40)](https://github.com/witsch/SublimePythonTidy) — [PythonTidy](https://pypi.python.org/pypi/PythonTidy/) integration.
 
 ### Extensions / JavaScript Profile
 
+*   [CoffeeScript (⭐292)](https://github.com/Xavura/CoffeeScript-Sublime-Plugin) — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
 *   [JsFormat (⭐1.4k)](https://github.com/jdc0589/JsFormat) — a JavaScript formatting plugin. It uses the command-line/python-module JavaScript formatter from <http://jsbeautifier.org> to format whole js or json files, or the selected portion(s).
-*   [CoffeeScript (⭐294)](https://github.com/Xavura/CoffeeScript-Sublime-Plugin) — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
 
 ### Extensions / Client Side Profile
 
@@ -254,42 +254,42 @@
 
 ### Extensions / Markdown Editing Profile
 
-*   [MarkdownEditing (⭐3k)](https://github.com/SublimeText-Markdown/MarkdownEditing) — powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
 *   [Markdown Preview (⭐2.3k)](https://github.com/revolunet/sublimetext-markdown-preview) — preview and build your markdown files quickly in your web browser from Sublime Text.
+*   [MarkdownEditing (⭐3.1k)](https://github.com/SublimeText-Markdown/MarkdownEditing) — powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
 
 ### Extensions / Documentation and Help Systems
 
 *   [GotoDocumentation (⭐128)](https://github.com/kemayo/sublime-text-2-goto-documentation) — a plugin to jump to documentation for the current word.
-*   [HowDoI (⭐220)](https://github.com/azac/sublime-howdoi-direct-paste) — integration for instant [coding answers search tool (⭐9.7k)](https://github.com/gleitz/howdoi).
+*   [HowDoI (⭐220)](https://github.com/azac/sublime-howdoi-direct-paste) — integration for instant [coding answers search tool (⭐10k)](https://github.com/gleitz/howdoi).
 
 ### Integration / Documentation and Help Systems
 
+*   [Alfred Workflow (⭐606)](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) to open files and folders in Sublime Text.
 *   [Command line usage](http://www.sublimetext.com/docs/2/osx_command_line.html) (for OS X).
-*   [Alfred Workflow (⭐601)](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) to open files and folders in Sublime Text.
 
 ### Fun stuff / Color Schemes
 
-*   [Base 16 (⭐86)](https://github.com/chriskempson/base16) — carefully chosen syntax highlighting and a default set of sixteen colors.
+*   [Base 16 (⭐370)](https://github.com/chriskempson/base16) — carefully chosen syntax highlighting and a default set of sixteen colors.
 *   [Solarized](http://ethanschoonover.com/solarized) — balanced dark and light themes.
 
 ### Fun stuff / Alternative Icons
 
-*   [By Jon-Paul Lunney](https://dribbble.com/shots/382465-Sublime-Text-2-update-Replacement-Icon)
 *   [By Chris Lee](https://dribbble.com/shots/382409-Sublime-Text-2-Icon)
 *   [By Daniel Matarazzo](https://github.com/dbmzzo/Sublime-Text-2-Icon)
 *   [By Ernest Ojeh](https://dribbble.com/shots/1027361-Sublime-Text-icon-replacement-for-Flatland-Theme)
+*   [By Jon-Paul Lunney](https://dribbble.com/shots/382465-Sublime-Text-2-update-Replacement-Icon)
 *   [By Shi Yan Hui](https://github.com/shiyanhui/Sublime-Text-Icon)
 *   [By Tomas Sykora (⭐11)](https://github.com/syky27/Sublime-Text-Icon)
 
 ### Fun stuff / Monospace Fonts
 
-*   [PT Mono](http://www.paratype.com/public/)
 *   [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
-*   [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (goes with Microsoft Office)
-*   [Droid Sans Mono](http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender)
-*   [Deja Vu Sans Mono](http://dejavu-fonts.org)
-*   [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 *   [Bitstream Vera Sans Mono](http://www.dafont.com/bitstream-vera-mono.font)
+*   [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (goes with Microsoft Office)
+*   [Deja Vu Sans Mono](http://dejavu-fonts.org)
+*   [Droid Sans Mono](http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender)
+*   [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
+*   [PT Mono](http://www.paratype.com/public/)
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -343,15 +343,15 @@
 
 ### Build Automation
 
-*   [Invoke-Build (⭐580)](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
+*   [Invoke-Build (⭐594)](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
 
 ### Logging
 
-*   [StackExchange.Exceptional (⭐854)](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
+*   [StackExchange.Exceptional (⭐856)](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
 
 ### Queue
 
-*   [MassTransit (⭐6k)](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
+*   [MassTransit (⭐6.3k)](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
 
 ## [8. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -377,7 +377,7 @@
 
 ### Data Manipulation
 
-*   [tidyr (⭐1.2k)](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions.
+*   [tidyr (⭐1.3k)](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions.
 
 ### Graphic Displays
 
@@ -386,7 +386,7 @@
 ### Web Technologies and Services
 
 *   [RCurl](http://cran.r-project.org/web/packages/RCurl/index.html) - General network (HTTP/FTP/...) client interface for R.
-*   [httpuv (⭐204)](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
+*   [httpuv (⭐220)](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
 
 ### Machine Learning
 
@@ -431,8 +431,8 @@
 
 ### 2017 / Book/monograph Lists and Reviews
 
-*   [awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness)
-*   [lists (⭐8.5k)](https://github.com/jnv/lists)
+*   [awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness)
+*   [lists (⭐9.3k)](https://github.com/jnv/lists)
 
 ## [10. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 
@@ -461,7 +461,7 @@
 
 ### Log / Runner
 
-*   [console.log-wrapper (⭐407)](https://github.com/patik/console.log-wrapper) - Log to the console in any browser with clarity.
+*   [console.log-wrapper (⭐406)](https://github.com/patik/console.log-wrapper) - Log to the console in any browser with clarity.
 *   [loglevel (⭐2.5k)](https://github.com/pimterry/loglevel) - Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods.
 
 ## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)

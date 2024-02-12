@@ -2,7 +2,7 @@
 
 :mortar_board: Path to a free self-taught education in Computer Science!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ossu/computer-science/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ossu/computer-science](https://github.com/ossu/computer-science) · ⭐ 150K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ossu/computer-science/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ossu/computer-science](https://github.com/ossu/computer-science) · ⭐ 158K · 🏷️ Computer Science
 
 [ [Daily](/content/ossu/computer-science/README.md) / Weekly / [Overview](/content/ossu/computer-science/readme/README.md) ]
 
@@ -31,7 +31,7 @@
 
 ### How to show your progress / Which programming languages should I use?
 
-*   **[Contributors (⭐150k)](https://github.com/ossu/computer-science/graphs/contributors)**
+*   **[Contributors (⭐157k)](https://github.com/ossu/computer-science/graphs/contributors)**
 
 ## [Sep 24 - Sep 30, 2018](/content/2018/39/README.md)
 

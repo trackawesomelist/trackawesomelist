@@ -34,7 +34,7 @@
 
 ### Design Systems
 
-*   [Brightspace UI core (⭐38)](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
+*   [Brightspace UI core (⭐48)](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
 
 ## [6. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 

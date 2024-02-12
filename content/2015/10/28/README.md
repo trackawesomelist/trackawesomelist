@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 28, 2015
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,50 +12,19 @@
 
 *   [Forms (⭐2)](https://github.com/refinery/refinerycms-forms)
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Android
-
-*   [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/4-2-free) (PDF - older versions)
-
-### Clojure / Non-X86
-
-*   [The Clojure Style Guide (⭐4k)](https://github.com/bbatsov/clojure-style-guide)
-
-### HTML and CSS / Spock Framework
-
-*   [Adaptive Web Design](http://adaptivewebdesign.info/1st-edition/) - Aaron Gustafson
-
-### Perl / PicoLisp
-
-*   [Perl 5 Internals](http://www.faqs.org/docs/perl5int/)
-*   [The DBIx-Class Book (⭐74)](https://github.com/castaway/dbix-class-book)
-
-### Racket / Tornado
-
-*   [The Racket Guide](http://docs.racket-lang.org/guide/index.html)
-
-### Unix / Deno
-
-*   [UNIX Commands and Concepts](http://www.cs.bu.edu/teaching/unix/reference/) - Robert I. Pitts
-
-### Windows Phone / Vulkan
-
-*   [Windows Phone Programming Blue Book](http://www.robmiles.com/c-yellow-book/)
-
-## [3. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
+## [2. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [github-issues-import (⭐412)](https://github.com/IQAndreas/github-issues-import) - A Python script that allows you to import issues and pull requests from one GitHub repository to another
 
-## [4. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
+## [3. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
 
 ### Programming Languages / JavaScript
 
 *   [Functional Javascript: Reverse-engineering the Hype](https://www.youtube.com/watch?v=aeh5Fmh_tmw) By Ben Anderson
 
-## [5. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
+## [4. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
 ### Specifications
 
@@ -72,19 +41,19 @@
 *   [sysdig-container-ecosystem (⭐104)](https://github.com/draios/sysdig-container-ecosystem)\
     The ecosystem of awesome new technologies emerging around containers and microservices can be a little overwhelming, to say the least. We thought we might be able to help: welcome to the Container Ecosystem Project.
 
-## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Localization / Barcode
 
 *   [Localize-Swift (⭐3k)](https://github.com/marmelroy/Localize-Swift) - Localize apps using e.g. regular expressions in Localizable.strings.
 
-## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### SDK / Other
 
 *   [Spotify SDK (⭐230)](https://github.com/loverajoel/spotify-sdk) - Entity oriented SDK to work with the Spotify Web API.
 
-## [8. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
+## [7. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
 
 ### Bindings
 
@@ -108,13 +77,13 @@
 
 *   [RxJava-Android-Samples (⭐7.6k)](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example.
 
-## [9. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Frameworks
 
 *   [Brainstorm - Fast, flexible and fun neural networks. (⭐1.3k)](https://github.com/IDSIA/brainstorm)
 
-## [10. Tips](/content/git-tips/tips/README.md)
+## [9. Tips](/content/git-tips/tips/README.md)
 
 ## Everyday Git in twenty commands or so
 
@@ -138,7 +107,7 @@ git fetch origin pull/<id>/head:<branch-name>
 git pull origin pull/<id>/head:<branch-name>
 ```
 
-## [11. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [10. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Layout
 
@@ -194,7 +163,7 @@ git pull origin pull/<id>/head:<branch-name>
 
 
 
-## [12. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
+## [11. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
 
 ### Data Science
 

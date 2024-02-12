@@ -10,7 +10,7 @@
 
 ### Plugins / Practices and Specific ES Features
 
-*   [toplevel (⭐15)](https://github.com/HKalbasi/eslint-plugin-toplevel) - An eslint plugin for disallow side effect at module toplevel.
+*   [toplevel (⭐16)](https://github.com/HKalbasi/eslint-plugin-toplevel) - An eslint plugin for disallow side effect at module toplevel.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -38,12 +38,12 @@
 
 ### React Awesome Components
 
-*   [react-archer (⭐990)](https://github.com/pierpo/react-archer) - Draw arrows between React elements
+*   [react-archer (⭐1k)](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 
 ### React Real Apps
 
 *   [kibana (⭐19k)](https://github.com/elastic/kibana) - Your window into the Elastic Stack
-*   [overreacted (⭐6.7k)](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
+*   [overreacted (⭐6.9k)](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 
 ---
 

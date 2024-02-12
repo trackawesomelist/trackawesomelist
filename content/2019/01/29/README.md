@@ -40,9 +40,8 @@
 
 ## [5. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
-### Open Source Projects
+### Open Source Projects / Messaging and social media
 
-*   [Termux](https://www.patreon.com/termux) - Android terminal emulator.
 *   [The Lounge](https://opencollective.com/thelounge) - Modern web IRC client.
 
 ### Open Source Projects / Operating Systems
@@ -132,7 +131,7 @@
 
 ### Python / Git
 
-*   [Crypto-Vinaigrette (⭐17)](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum resistant asymmetric key generation tool for digital signatures.
+*   [Crypto-Vinaigrette (⭐18)](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum resistant asymmetric key generation tool for digital signatures.
 
 ## [14. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 

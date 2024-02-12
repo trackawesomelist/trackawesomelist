@@ -239,9 +239,9 @@
 
 ## [4. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
-### Realtime
+### Datasets / Realtime
 
-*   [Eventsim (⭐452)](https://github.com/Interana/eventsim) Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
+*   [Eventsim (⭐478)](https://github.com/Interana/eventsim) - Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
 
 ## [5. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -325,7 +325,7 @@ This is a great introduction to several aspects of R programming. Loading data i
 
 ### Debug
 
-*   [UnitTest++ (⭐533)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
+*   [UnitTest++ (⭐541)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
 
 ## [10. Tips](/content/git-tips/tips/week/README.md)
 
@@ -460,7 +460,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 ### HTML Widgets
 
 *   [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScript Network Graphs from R.
-*   [threejs (⭐280)](https://github.com/bwlewis/rthreejs) - Interactive 3D scatter plots and globes.
+*   [threejs (⭐296)](https://github.com/bwlewis/rthreejs) - Interactive 3D scatter plots and globes.
 
 ### Reproducible Research
 
@@ -477,7 +477,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### Database Management
 
-*   [RHive (⭐124)](https://github.com/nexr/RHive) - R extension facilitating distributed computing via Apache Hive.
+*   [RHive (⭐123)](https://github.com/nexr/RHive) - R extension facilitating distributed computing via Apache Hive.
 
 ### Natural Language Processing
 
@@ -517,7 +517,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [cmus (⭐5k)](https://github.com/cmus/cmus) - Cross-platform cli audio player.
+*   [cmus (⭐5.1k)](https://github.com/cmus/cmus) - Cross-platform cli audio player.
 
 ## [19. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
@@ -571,13 +571,13 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### PDF
 
-*   [Squid (⭐218)](https://github.com/fullscreen/squid) - Squid · A Ruby library to plot charts in PDF files
+*   [Squid (⭐219)](https://github.com/fullscreen/squid) - Squid · A Ruby library to plot charts in PDF files
 
 ## [22. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
-*   [bus-router (⭐34)](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM (⭐5.6k)](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
+*   [bus-router (⭐34)](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM (⭐5.9k)](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
 
 ## [23. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -810,7 +810,6 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 *   [A Concise Introduction to Numerical Analysis](http://www.ima.umn.edu/~arnold/597.00-01/nabook.pdf) - Douglas N. Arnold (University of Minnesota)
 *   [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) - L. Ridgway Scott
-*   [Lectures In Basic Computational Numerical Analysis](http://www.engr.uky.edu/~acfd/egr537-lctrs.pdf) - J. M. McDonough (University of Kentucky)
 *   [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
 
 ## [24. Awesome Python](/content/vinta/awesome-python/week/README.md)
@@ -884,8 +883,8 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### Algorithms and Data structures
 
-*   [bitmap (⭐32)](https://github.com/hashd/bitmap-elixir) - Pure Elixir implementation of [bitmaps](https://en.wikipedia.org/wiki/Bitmap).
-*   [tfidf (⭐16)](https://github.com/OCannings/tf-idf) - An Elixir implementation of term frequency–inverse document frequency.
+*   [bitmap (⭐33)](https://github.com/hashd/bitmap-elixir) - Pure Elixir implementation of [bitmaps](https://en.wikipedia.org/wiki/Bitmap).
+*   [tfidf (⭐17)](https://github.com/OCannings/tf-idf) - An Elixir implementation of term frequency–inverse document frequency.
 
 ### Office
 
@@ -893,7 +892,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### Text and Numbers
 
-*   [money (⭐747)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
+*   [money (⭐768)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 
 ## [29. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 

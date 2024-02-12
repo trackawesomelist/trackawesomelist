@@ -43,7 +43,7 @@
 
 ### Events
 
-*   [Observable (⭐368)](https://github.com/roberthein/Observable) - The easiest way to observe values.
+*   [Observable (⭐369)](https://github.com/roberthein/Observable) - The easiest way to observe values.
 
 ### Images / Barcode
 
@@ -140,7 +140,7 @@
 
 ### Email
 
-*   [Maily (⭐692)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
+*   [Maily (⭐698)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
 
 ### Form Builder
 
@@ -155,9 +155,9 @@
 
 ## [10. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
-### Podcasts
+### Community / Podcasts
 
-*   [Data Engineering Podcast](https://www.dataengineeringpodcast.com/) The show about modern data infrastructure.
+*   [Data Engineering Podcast](https://www.dataengineeringpodcast.com/) - The show about modern data infrastructure.
 
 ## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

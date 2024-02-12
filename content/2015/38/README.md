@@ -70,18 +70,13 @@
 *   [Camel](http://camel.apache.org/) - Empowers you to define routing and mediation rules in a variety of domain-specific languages, including a Java-based fluent API, Spring or Blueprint XML configuration files, and a Scala DSL.
 *   [OpenResty](http://openresty.org/) - Fast web application server built on top of Nginx.
 
-### Messaging / Scala
-
-*   [Ascoltatori (⭐526)](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
-*   [STOMP](https://stomp.github.io/) - Simple Text Oriented Messaging Protocol.
-
-### REST / Scala
-
-*   [Apidoc (⭐543)](https://github.com/mbryzek/apidoc) - Beautiful documentation for REST services.
-
 ### RPC / Scala
 
 *   [JSON-RPC 2.0](http://www.jsonrpc.org/specification) - A stateless, light-weight remote procedure call (RPC) protocol.
+
+### Messaging / Scala
+
+*   [STOMP](https://stomp.github.io/) - Simple Text Oriented Messaging Protocol.
 
 ### Articles & Papers / Scala
 
@@ -107,7 +102,7 @@ git rev-parse --abbrev-ref HEAD
 
 ### Coding Style
 
-*   [C++ Core Guidelines (⭐40k)](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
+*   [C++ Core Guidelines (⭐41k)](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
 
 ## [9. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -173,7 +168,7 @@ git rev-parse --abbrev-ref HEAD
 
 ### R Development
 
-*   [import (⭐202)](https://github.com/smbache/import/) - An import mechanism for R.
+*   [import (⭐214)](https://github.com/smbache/import/) - An import mechanism for R.
 
 ## [11. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
@@ -226,7 +221,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### Packages / URL
 
-*   [url-unshort (⭐109)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
+*   [url-unshort (⭐111)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
 *   [embedza (⭐62)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
 
 ## [14. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
@@ -485,7 +480,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### ORM and Datamapping
 
-*   [ecto\_enum (⭐559)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
+*   [ecto\_enum (⭐560)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
 
 ### Third Party APIs
 
@@ -504,7 +499,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### Threat Intelligence / Forensics
 
-*   [IntelMQ (⭐848)](https://github.com/certtools/intelmq/) - IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs. [ENSIA Homepage](https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation).
+*   [IntelMQ (⭐862)](https://github.com/certtools/intelmq/) - IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs. [ENSIA Homepage](https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation).
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Office
 
-*   [xlsxir (⭐202)](https://github.com/kennellroxco/xlsxir) - Xlsx file parser with support for ISO 8601 date formats. Data is extracted to an Erlang Term Storage (ETS) table and is accessed through various functions.
+*   [xlsxir (⭐209)](https://github.com/kennellroxco/xlsxir) - Xlsx file parser with support for ISO 8601 date formats. Data is extracted to an Erlang Term Storage (ETS) table and is accessed through various functions.
 
 ## [2. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Misc / Other
 
-*   [picturefill (⭐10k)](https://github.com/scottjehl/picturefill) - A responsive image polyfill for \<picture>, srcset, sizes.
+*   [picturefill (⭐9.9k)](https://github.com/scottjehl/picturefill) - A responsive image polyfill for \<picture>, srcset, sizes.
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

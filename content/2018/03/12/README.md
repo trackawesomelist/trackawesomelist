@@ -43,7 +43,7 @@
 
 ### Table of Contents / Testing
 
-*   [ParaTest (⭐2k)](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
+*   [ParaTest (⭐2.2k)](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
 
 ### Table of Contents / E-commerce
 
@@ -53,7 +53,7 @@
 
 ### Packages / HTTP
 
-*   [gotql (⭐400)](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got (⭐13k)](https://github.com/sindresorhus/got).
+*   [gotql (⭐402)](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got (⭐14k)](https://github.com/sindresorhus/got).
 
 ### Packages / Job queues
 

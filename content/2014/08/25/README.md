@@ -10,11 +10,7 @@
 
 ### Table of Contents / Imagery
 
-*   [Image Optimizer (⭐874)](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
-
-### Table of Contents / PDF
-
-*   [PHPPdf (⭐336)](https://github.com/psliwa/PHPPdf) - A library for generating PDFs and images from XML.
+*   [Image Optimizer (⭐899)](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

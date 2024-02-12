@@ -26,7 +26,7 @@
 
 ### Control Flow / Runner
 
-*   [when (⭐3.5k)](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
+*   [when (⭐3.4k)](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
 
 ## [3. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 

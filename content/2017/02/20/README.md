@@ -37,8 +37,8 @@
 
 ### Games / Directory Navigation
 
-*   [nudoku (⭐276)](https://github.com/jubalh/nudoku) - ncurses based sudoku game written in C
-*   [tty-solitaire (⭐247)](https://github.com/mpereira/tty-solitaire) - Play solitaire in your terminal!
+*   [nudoku (⭐294)](https://github.com/jubalh/nudoku) - ncurses based sudoku game written in C
+*   [tty-solitaire (⭐258)](https://github.com/mpereira/tty-solitaire) - Play solitaire in your terminal!
 
 ## [6. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 

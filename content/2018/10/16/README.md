@@ -47,19 +47,19 @@
 
 ### Networking / Text-Based User Interfaces
 
-*   [TLS Channel (⭐161)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
+*   [TLS Channel (⭐176)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
 
 ## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [Home Assistant (⭐5.1k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
+*   [Home Assistant (⭐5.3k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Logging
 
-*   [Syslogger (⭐113)](https://github.com/crohr/syslogger) - A drop-in replacement for the standard Logger Ruby library, that logs to the syslog instead of a log file.
+*   [Syslogger (⭐114)](https://github.com/crohr/syslogger) - A drop-in replacement for the standard Logger Ruby library, that logs to the syslog instead of a log file.
 
 ## [8. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -120,19 +120,19 @@
 ### RESTful API
 
 *   [Compojure-api (⭐1.1k)](https://github.com/metosin/compojure-api)
-*   [reitit (⭐1.3k)](https://github.com/metosin/reitit)
+*   [reitit (⭐1.4k)](https://github.com/metosin/reitit)
 
 ### Web Framework
 
-*   [Reitit (⭐1.3k)](https://github.com/metosin/reitit)
+*   [Reitit (⭐1.4k)](https://github.com/metosin/reitit)
 
 ### JSON
 
-*   [jsonista (⭐383)](https://github.com/metosin/jsonista)
+*   [jsonista (⭐391)](https://github.com/metosin/jsonista)
 
 ### Async processing
 
-*   [manifold (⭐977)](https://github.com/ztellman/manifold)
+*   [manifold (⭐997)](https://github.com/ztellman/manifold)
 
 ### WebSocket
 

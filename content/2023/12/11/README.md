@@ -10,7 +10,7 @@
 
 ### Templating
 
-*   🍰 [Templating (⭐0)](https://github.com/dereuromark/cakephp-templating) - HTML snippets as value objects, (Font) icons, and templating topics.
+*   🍰 [Templating (⭐1)](https://github.com/dereuromark/cakephp-templating) - HTML snippets as value objects, (Font) icons, and templating topics.
 
 ---
 

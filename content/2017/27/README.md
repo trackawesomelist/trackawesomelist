@@ -41,9 +41,9 @@
 
 ## [4. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
-### Other useful repositories
+### Other Useful Repositories
 
-- Repository: [API Security Checklist (⭐18k)](https://github.com/shieldfy/API-Security-Checklist)
+- Repository: [API Security Checklist (⭐22k)](https://github.com/shieldfy/API-Security-Checklist)
 
   Description: Checklist of the most important security countermeasures when designing, testing, and releasing your API
 
@@ -53,11 +53,7 @@
 
 ### Table of Contents / Command Line
 
-*   [GetOpt (⭐321)](https://github.com/getopt-php/getopt-php) - A command line opt parser.
-
-### Configuration / PHP Websites
-
-*   [Seven PHP](https://7php.com/) - A website that interviews members of the PHP community.
+*   [GetOpt (⭐331)](https://github.com/getopt-php/getopt-php) - A command line opt parser.
 
 ## [6. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
@@ -103,7 +99,7 @@
 
 ### Examples
 
-*   [Crabzilla (⭐66)](https://github.com/crabzilla/crabzilla) - Yet another Event Sourcing experiment. A project exploring Vert.x to develop Event Sourcing / CQRS applications.
+*   [Crabzilla (⭐68)](https://github.com/crabzilla/crabzilla) - Yet another Event Sourcing experiment. A project exploring Vert.x to develop Event Sourcing / CQRS applications.
 
 ## [12. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -134,7 +130,7 @@
 
 ### Monitoring & Quality Control
 
-*   [Jack Meter (⭐42)](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK.
+*   [Jack Meter (⭐43)](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK.
 
 ## [17. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
@@ -146,7 +142,7 @@
 
 ### Contents / Components
 
-*   [Preact Head (⭐36)](https://github.com/matthewmueller/preact-head) - Standalone, declarative \<Head /> for Preact.
+*   [Preact Head (⭐37)](https://github.com/matthewmueller/preact-head) - Standalone, declarative \<Head /> for Preact.
 
 ## [19. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -405,7 +401,7 @@
 
 ### CLI
 
-*   [ReadLine (⭐792)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
+*   [ReadLine (⭐796)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
 
 ### Decompilation
 
@@ -413,7 +409,7 @@
 
 ### Distributed Computing
 
-*   [Foundatio (⭐1.8k)](https://github.com/FoundatioFx/Foundatio#jobs) - Pluggable foundation blocks for building distributed apps.
+*   [Foundatio (⭐1.9k)](https://github.com/FoundatioFx/Foundatio#jobs) - Pluggable foundation blocks for building distributed apps.
 
 ### GUI
 
@@ -421,7 +417,7 @@
 
 ### MVVM
 
-*   [Gemini (⭐1k)](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
+*   [Gemini (⭐1.1k)](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
 
 ### Windows Services
 
@@ -435,9 +431,9 @@
 
 ### Network Tools / Network Reconnaissance Tools
 
-*   [dnsenum (⭐522)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
-*   [dnsmap (⭐108)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
-*   [dnsrecon (⭐2.3k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
+*   [dnsenum (⭐541)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
+*   [dnsmap (⭐109)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
+*   [dnsrecon (⭐2.4k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
 *   [dnstracer](http://www.mavetju.org/unix/dnstracer.php) - Determines where a given DNS server gets its information from, and follows the chain of DNS servers.
 *   [passivedns-client (⭐194)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
 *   [passivedns (⭐1.6k)](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
@@ -526,7 +522,7 @@
 
 ### Images / Barcode
 
-*   [MapleBacon (⭐340)](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
+*   [MapleBacon (⭐341)](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
 
 ### Maps / Barcode
 
@@ -562,19 +558,19 @@ Wifi pw: `fermento`
 
 ### Chatting
 
-*   [alice (⭐108)](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
+*   [alice (⭐109)](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
 
 ### Encoding and Compression
 
-*   [ex\_rlp (⭐28)](https://github.com/exthereum/ex_rlp) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding.
+*   [ex\_rlp (⭐29)](https://github.com/exthereum/ex_rlp) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding.
 
 ### HTTP
 
-*   [neuron (⭐316)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
+*   [neuron (⭐322)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
 
 ### Macros
 
-*   [expat (⭐176)](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
+*   [expat (⭐175)](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
 
 ### Natural Language Processing (NLP)
 
@@ -582,7 +578,7 @@ Wifi pw: `fermento`
 
 ### Queue
 
-*   [que (⭐658)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
+*   [que (⭐659)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
 
 ### Static Page Generation
 
@@ -728,7 +724,7 @@ Wifi pw: `fermento`
 ### Example Projects
 
 *   [Red Hat Single Sign-On Labs (⭐13)](https://github.com/RedHatWorkshops/red-hat-sso)
-*   [Spring Boot Keycloak Tutorial (⭐197)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
+*   [Spring Boot Keycloak Tutorial (⭐200)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
 
 ## [43. Inspire](/content/noahbuscher/inspire/week/README.md)
 

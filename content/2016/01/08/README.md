@@ -8,23 +8,19 @@
 
 ## [1. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
-### Node.js / Scala
-
-*   [Graft (⭐227)](https://github.com/GraftJS/graft) - Full-stack javascript through microservices.
-
 ### Messaging / Scala
 
 *   [Mosca](http://www.mosca.io/) - MQTT broker as a module.
 
 ### Storage / Scala
 
-*   [Secure Scuttlebutt (⭐61)](https://github.com/ssbc/docs) - P2P database of message-feeds.
+*   [Secure Scuttlebutt (⭐60)](https://github.com/ssbc/docs) - P2P database of message-feeds.
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Image Processing
 
-*   [DotImaging (⭐310)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
+*   [DotImaging (⭐314)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
 
 ## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

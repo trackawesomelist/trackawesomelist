@@ -22,7 +22,7 @@
 
 ### Utility / Diagnostics
 
-*   [malbertzard/inline-fold.nvim (⭐67)](https://github.com/malbertzard/inline-fold.nvim) - Hide certain elements inline like long CSS classes or `href` content.
+*   [malbertzard/inline-fold.nvim (⭐73)](https://github.com/malbertzard/inline-fold.nvim) - Hide certain elements inline like long CSS classes or `href` content.
 
 ## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
@@ -32,23 +32,19 @@
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Constraint Satisfaction Problem Solver / Text-Based User Interfaces
-
-*   [Timefold (⭐362)](https://github.com/TimefoldAI/timefold-solver) - Flexible solver with Spring/Quarkus support and quickstarts for the Vehicle Routing Problem, Maintenance Scheduling, Employee Shift Scheduling and much more.
-
 ### Websites / Other
 
 *   [Java Weekly](https://discu.eu/weekly/java/)
 
 ## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models (LLMs) / Autonomous LLM Agents
-
-*   [GPT Researcher](https://app.tavily.com/): AI agents for insights and research
-
-### Inbox: DEV + AI / Generative Adversarial Networks (GANs)
+### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
+
+### Autonomous LLM Agents / Prompt Engineering for Text-to-image
+
+*   [GPT Researcher](https://app.tavily.com/): AI agents for insights and research
 
 ## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -60,7 +56,7 @@
 
 ### Nodes & Consensus Participation / Wallets
 
-*   [AlloCTRL (⭐11)](https://github.com/AlgoNode/alloctrl) - A simple, open source, dashboard to help managing your node and participation keys safely, from your local machine.
+*   [AlloCTRL (⭐12)](https://github.com/AlgoNode/alloctrl) - A simple, open source, dashboard to help managing your node and participation keys safely, from your local machine.
 
 ---
 

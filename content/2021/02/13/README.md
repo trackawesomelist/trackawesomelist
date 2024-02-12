@@ -94,9 +94,9 @@
 
 ## [5. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
-### Conferences
+### Community / Conferences
 
-*   [Data Council](https://www.datacouncil.ai/about) Data Council is the first technical conference that bridges the gap between data scientists, data engineers and data analysts.
+*   [Data Council](https://www.datacouncil.ai/about) - Data Council is the first technical conference that bridges the gap between data scientists, data engineers and data analysts.
 
 ## [6. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [@owumaro/vue-date-range-picker (⭐28)](https://github.com/Owumaro/vue-date-range-picker) - A vue component using Bootstrap 4 styles for date range selection
+*   [@owumaro/vue-date-range-picker (⭐27)](https://github.com/Owumaro/vue-date-range-picker) - A vue component using Bootstrap 4 styles for date range selection
 
 ## [2. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
@@ -26,7 +26,7 @@
 
 ### C++ Libraries
 
-*   [libwally-core (⭐241)](https://github.com/ElementsProject/libwally-core)
+*   [libwally-core (⭐262)](https://github.com/ElementsProject/libwally-core)
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Similar libraries / Other Tools
 
-*   [hybrids (⭐2.7k)](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
+*   [hybrids (⭐2.9k)](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 
 ## [6. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
 
@@ -168,7 +168,7 @@
 
 ### Work
 
-*   [Code Review (⭐4k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
+*   [Code Review (⭐4.1k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 
 ### Miscellaneous
 

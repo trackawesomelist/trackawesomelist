@@ -10,7 +10,7 @@
 
 ### Natural Language Processing
 
-*   [Text (⭐581)](https://github.com/threedaymonk/text) - A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
+*   [Text (⭐584)](https://github.com/threedaymonk/text) - A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
 
 ### Queues and Messaging
 
@@ -18,7 +18,7 @@
 
 ### Web Servers
 
-*   [TorqueBox (⭐471)](https://github.com/torquebox/torquebox) - A Ruby application server built on JBoss AS7 and JRuby.
+*   [TorqueBox (⭐470)](https://github.com/torquebox/torquebox) - A Ruby application server built on JBoss AS7 and JRuby.
 
 ## [2. Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md)
 

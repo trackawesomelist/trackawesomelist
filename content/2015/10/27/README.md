@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 27, 2015
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### ORM/ODM
 
-*   [NoBrainer (⭐387)](https://github.com/nviennot/nobrainer/) - A RethinkDB ORM for Ruby
+*   [NoBrainer (⭐388)](https://github.com/nviennot/nobrainer/) - A RethinkDB ORM for Ruby
 
 ## [3. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
@@ -57,13 +57,7 @@
 *   [LoneStarRuby 2015 - Code Club](https://www.youtube.com/watch?v=sLAvSgcrgZM) By Saron Yitbarek
 *   [My Dog Taught Me to Code](https://www.youtube.com/watch?v=yCBUsd52a3s) By Dave Thomas
 
-## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Hadoop / Spock Framework
-
-*   [Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf) (Jimmy Lin and Chris Dyer) (PDF)
-
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Macros
 
@@ -73,7 +67,7 @@
 
 *   [LearnElixir.tv](https://www.learnelixir.tv/) - Beginner friendly, in-depth, step by step screencasts.
 
-## [10. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [9. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Wargames
 

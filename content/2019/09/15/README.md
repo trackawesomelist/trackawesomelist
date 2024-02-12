@@ -10,7 +10,7 @@
 
 ### Blockchain API and Web services
 
-*   [One-Time Address (⭐52)](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
+*   [One-Time Address (⭐60)](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
 
 ## [2. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 

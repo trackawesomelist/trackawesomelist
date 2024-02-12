@@ -28,7 +28,7 @@
 
 ### Tools
 
-*   💼 [twined-components (⭐7)](https://github.com/lowfront/twined-components) - Extended component of a styled-components that prioritizes class names for use in Tailwind CSS.
+*   💼 [twined-components (⭐8)](https://github.com/lowfront/twined-components) - Extended component of a styled-components that prioritizes class names for use in Tailwind CSS.
 
 ## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -46,11 +46,11 @@
 
 ### Libraries / JavaScript
 
-*   [node-mapnik (⭐524)](https://github.com/mapnik/node-mapnik) - Node wrapper for mapnik.
+*   [node-mapnik (⭐523)](https://github.com/mapnik/node-mapnik) - Node wrapper for mapnik.
 
 ### Libraries / Python
 
-*   [python-mapnik (⭐150)](https://github.com/mapnik/python-mapnik) - Python wrapper for mapnik.
+*   [python-mapnik (⭐151)](https://github.com/mapnik/python-mapnik) - Python wrapper for mapnik.
 
 ### Articles / Wiki-Pages
 
@@ -66,15 +66,15 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [LunarVim/LunarVim (⭐16k)](https://github.com/LunarVim/LunarVim) - This project aims to help one transition away from VSCode, and into a superior text editing experience.
+*   [LunarVim/LunarVim (⭐17k)](https://github.com/LunarVim/LunarVim) - This project aims to help one transition away from VSCode, and into a superior text editing experience.
 
 ## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### YouTube
 
-*   [Piped (⭐5.7k)](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐6.5k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐6.5k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
+*   [Piped (⭐7.1k)](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐7.2k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐7.2k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
 
 ## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

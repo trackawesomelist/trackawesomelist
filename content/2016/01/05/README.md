@@ -10,7 +10,7 @@
 
 ### Software / Frameworks
 
-*   [Countly IoT Analytics (⭐5.1k)](http://github.com/countly/countly-server) - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
+*   [Countly IoT Analytics (⭐5.3k)](http://github.com/countly/countly-server) - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
 
 ## [2. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
@@ -198,11 +198,11 @@
 
 ### For Developers / Directory Navigation
 
-*   [hub (⭐22k)](https://github.com/github/hub) - hub helps you win at git.
+*   [hub (⭐23k)](https://github.com/github/hub) - hub helps you win at git.
 
 ### System Utilities / Directory Navigation
 
-*   [goaccess (⭐16k)](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems.
+*   [goaccess (⭐17k)](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems.
 
 ## [4. Vim Galore](/content/mhinz/vim-galore/README.md)
 

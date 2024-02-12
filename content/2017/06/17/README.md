@@ -51,7 +51,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Hare (⭐258)](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
+*   [Hare (⭐259)](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
 
 ### Components & Libraries / UI Components
 

@@ -1,18 +1,12 @@
 # Awesome List Updates on Jan 16, 2018
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
-
-### REPLs / Third-party APIs
-
-*   [cl-repl (⭐139)](https://github.com/koji-kojiro/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [MIT](https://opensource.org/licenses/MIT). With [colorthemes (⭐12)](https://github.com/koji-kojiro/lem-pygments-colorthemes).
-
-## [2. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [1. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### Messaging
 
@@ -117,33 +111,33 @@
 *   [Tent](https://tent.io/) is a protocol that puts users back in control. Users should control the data they create, choose who can access it, and change service providers without losing their social graph.Tent is a protocol, not a platform. Like email, anyone can build Tent apps or host Tent servers, all Tent servers can talk to each other, and there is no central authority to restrict users or developers.
 *   [arkOS](https://arkos.io) is an operating system and software stack to easily host your own websites, email addresses, cloud services and more. It uses a graphical interface (called Genesis) to do all of this, with a focus on end-user experience and simple design. Presently in active development, it is currently functional on the Raspberry Pi with new services and platforms in the works.
 
-## [3. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+## [2. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
 ### Courses
 
 *   [Robotics](https://www.edx.org/micromasters/pennx-robotics) **edx** :dollar:
 *   [Columbia Robotics](https://www.edx.org/course/robotics-columbiax-csmm-103x-2) **edx**
 
-## [4. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [3. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Blogs / Image Deblurring
 
 *   [Computer Vision Basics with Python Keras and OpenCV (⭐416)](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) - Jason Chin (University of Western Ontario)
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 
 *   [Have I been pwned?](https://haveibeenpwned.com) — REST API for fetching the information on the breaches.
 *   [Internet.nl](https://internet.nl) — Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Graphics
 
-*   [magnum (⭐4.5k)](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. \[MIT] [website](http://magnum.graphics)
+*   [magnum (⭐4.6k)](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. \[MIT] [website](http://magnum.graphics)
 
-## [7. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [6. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### E-Commerce / Provided by the Host
 

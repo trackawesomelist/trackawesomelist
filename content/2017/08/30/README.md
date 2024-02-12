@@ -27,13 +27,13 @@
 
 ### Libraries / To draw using canvas
 
-*   [Konva (⭐8.7k)](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
+*   [Konva (⭐10k)](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 
 ## [4. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community Extensions
 
-*   [Keycloak: Link IdP Login with User Provider (⭐24)](https://github.com/ohioit/keycloak-link-idp-with-user)
+*   [Keycloak: Link IdP Login with User Provider (⭐25)](https://github.com/ohioit/keycloak-link-idp-with-user)
 *   [Client Owner Manager: Control who can edit a client (⭐6)](https://github.com/cyclone-project/cyclone-client-registration)
 
 ### Example Projects

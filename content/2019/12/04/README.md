@@ -25,11 +25,11 @@
 *   [Geolocator (⭐1.1k)](https://github.com/baseflow/flutter-geolocator)<!--stargazers:baseflow/flutter-geolocator--> - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com)
 *   [Permission Handler (⭐1.8k)](https://github.com/baseflow/flutter-permission-handler)<!--stargazers:baseflow/flutter-permission-handler--> - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com)
 
-## [4. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [4. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
-### Software / File Management
+### Collaboration Tools
 
-*   [Filestash](http://www.filestash.app) - A Dropbox-like web client where users can bring their own backend (FTP, SFTP, Webdav, S3, Minio, ...). ([GNU AGPLv3 (⭐8.1k)](https://github.com/mickael-kerjean/filestash/blob/master/LICENSE))
+*   [Filestash](http://www.filestash.app) - A Dropbox-like web client where users can bring their own backend (FTP, SFTP, Webdav, S3, Minio, ...).
 
 ## [5. Awesome Corda](/content/chainstack/awesome-corda/README.md)
 

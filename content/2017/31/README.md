@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 31 - Aug 06, 2017
 
-42 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -41,7 +41,6 @@
 ### Coordinated disclosure / JavaScript
 
 *   [General Motors](https://hackerone.com/gm) on HackerOne - Coordinated disclosure submissions accepted
-*   [Fiat Chrysler Automobiles](https://bugcrowd.com/fca) on Bugcrowd - Coordinated disclosure submissions accepted, paid bounties offered
 *   [Tesla Motors](https://bugcrowd.com/tesla) on Bugcrowd - Coordinated disclosure submissions accepted, paid bounties offered
 
 ## [2. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
@@ -91,7 +90,7 @@
 
 ### GUI
 
-*   [WinApi (⭐788)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
+*   [WinApi (⭐806)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
 
 ### State machines
 
@@ -163,20 +162,14 @@
 
     For indie entrepreneurs & makers who live and work on their own terms. Every Friday, you’ll get hand-picked startup resources & essays exploring the future of work in the exponential age. By [Marc Eglon](https://twitter.com/MarcEglon).
 
-## [12. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
-
-### Python / Scala
-
-*   [Aiohttp](http://aiohttp.readthedocs.io/en/stable/) - HTTP client/server for asyncio.
-
-## [13. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [12. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Scheduling
 
 *   [Apache Airflow (⭐30k)](https://github.com/apache/incubator-airflow) - a platform to programmatically author, schedule and monitor workflows.
 *   [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/data-factory-introduction) - cloud-based pipeline orchestration for on-prem, cloud and HDInsight
 
-## [14. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [13. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Videos / Individual Videos
 
@@ -188,41 +181,41 @@
 *   [Abhayagiri Buddhist Monastery](https://www.youtube.com/channel/UCFAuQ5fmYYVv5_Dim0EQpVA/videos) - Live streams, talks, and events at Abhayagiri.
 *   [Buddhist Fellowship](https://www.youtube.com/user/buddhistfellowshipsg/videos) - Videos from the non-sectarian Buddhist organisation of the same name.
 
-## [15. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [14. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Official Resources
 
 *   [Getting Started Guide](https://angular.io/guide/quickstart)
 
-## [16. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [15. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Command Line / XML
 
-*   [argsd (⭐14)](https://github.com/burner/argsd) - A command line and config file parser for DLang
+*   [argsd (⭐15)](https://github.com/burner/argsd) - A command line and config file parser for DLang
 
 ### Machine Learning / XML
 
 *   [vectorflow (⭐1.3k)](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework.
 
-## [17. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [16. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Platforms
 
 *   \[Paqmind.com] – Guides and challenges to learn and improve in programming. All content is CS and FP oriented.
 
-## [18. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [17. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### :sparkles: Tutorials
 
 *   [Unsupervised learning using k-means clustering in Ruby](https://www.practicalai.io/unsupervised-learning-using-k-means-clustering-in-ruby/) <sup>\[[code (⭐0)](https://github.com/daugaard/example-kmeans-clustering)]</sup>
 
-## [19. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+## [18. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
 
 ### Code
 
 *   [Ripplectron (⭐52)](https://github.com/devjin0617/ripplectron): Desktop client for Electron
 
-## [20. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [19. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tutorial
 
@@ -232,13 +225,13 @@
 
 *   [gapid (⭐2.2k)](https://github.com/google/gapid) - Graphics API Debugger, can trace and replay Android OpenGL ES and Vulkan applications. \[Apache License 2.0]
 
-## [21. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [20. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### General
 
 *   [Serverless Summit](http://inserverless.com) - Conference about serverless technologies / computing.
 
-## [22. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
+## [21. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
 
 ### How-to lockpicking guides
 
@@ -252,7 +245,7 @@
 
 *   [Security Snobs](https://securitysnobs.com/) - Retailer of numerous high-security, collector, and cutaway locks who also maintain some informational pages about locksmithing.
 
-## [23. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [22. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Lighting / Firmwares for ESP based Devices
 
@@ -263,13 +256,13 @@
 
 *   [broadlink-mqtt (⭐198)](https://github.com/eschava/broadlink-mqtt) - MQTT client to control BroadLink RM devices.
 
-## [24. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [23. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
 *   [Building a Blog With Next.js](https://timber.io/blog/building-a-blog-with-next-js)
 
-## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -279,7 +272,7 @@
 
 *   [vue-pure-lightbox (⭐160)](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin without any dependencies - only Vue! 🖼
 
-## [26. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [25. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Implementations/Compilers
 
@@ -287,15 +280,15 @@
 
 ### ORM/ODM Extensions
 
-*   [jennifer.cr (⭐406)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
+*   [jennifer.cr (⭐409)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
 
-## [27. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [26. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Applications
 
 *   [Amphi Festival 2017](http://www.amphi-festival.de/) - Semi-official app for Amphi Festival 2017 [(​iOS)](https://itunes.apple.com/us/app/amphi-festival-2017/id1258744398) [(Android)](https://play.google.com/store/apps/details?id=org.knatten.AmphiFestival2017).
 
-## [28. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/week/README.md)
+## [27. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/week/README.md)
 
 ### Identity Applications / Guidance
 
@@ -306,7 +299,7 @@
 *   [How the blockchain is changing money and business](https://www.youtube.com/watch?v=Pl8OlkkwRpc) - TED Talk from the author of "Blockchain Revolution" book on what is blockchain and its applications.
 *   [Non Financial Uses of Blockchain Technology](https://www.youtube.com/watch?v=GGCHaphRjoM) - Presentation of non-financial uses of blockchain at Fintech Week 2016.
 
-## [29. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+## [28. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Cloud
 
@@ -347,13 +340,13 @@
 
 *   [HubSpot HBase support (⭐16)](https://github.com/HubSpot/hbase-support) - Configs and tools for HBase at HubSpot, including Hystrix integration and coprocessors.
 
-## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [29. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / IOC
 
 *   [Stashbox (⭐130)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
 
-## [31. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [30. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -363,13 +356,13 @@
 
 *   [CRE life lessons: What is a dark launch, and what does it do for me?](https://cloudplatform.googleblog.com/2017/08/CRE-life-lessons-what-is-a-dark-launch-and-what-does-it-do-for-me.html)
 
-## [32. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [31. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### System / Web
 
 *   [Vista Audio Control Functions (⭐15)](https://github.com/ahkscript/VistaAudio) - by Lexikos - Provides alternatives to some SoundSet/SoundGet subcommands, as well as some additional features that SoundSet/SoundGet do not support. Forum thread: [Link](https://autohotkey.com/board/topic/21984-vista-audio-control-functions/?p=143564)
 
-## [33. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [32. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Libraries and Frameworks / Slides and Notes
 
@@ -379,7 +372,7 @@
 
 *   [Flexbox Zombies](http://flexboxzombies.com/p/flexbox-zombies) - A game for learning CSS flexbox.
 
-## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Augmented Reality
 
@@ -400,9 +393,9 @@
 
 ### Walkthrough / Barcode
 
-*   [AwesomeSpotlightView (⭐318)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
+*   [AwesomeSpotlightView (⭐319)](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Create tutorial or coach tour.
 
-## [35. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [34. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Tools / Editors
 
@@ -410,27 +403,27 @@
 *   [Pro Motion](http://www.cosmigo.com/pixel_animation_software) - Paid with trial, works on Windows. Advanced features tailored to creating pixel art for games.
 *   [GIMP](https://www.gimp.org/) - Open source and free, works on Linux, macOS and Windows. Not specifically for creating pixel art but is more than capable to do so.
 
-## [36. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [35. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shell Script Development / Directory Navigation
 
 *   [sh-semver (⭐31)](https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
-*   [zunit (⭐180)](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
+*   [zunit (⭐184)](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
 
-## [37. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [36. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Videos / IRC
 
 *   [Managing dependencies is more than running "composer update" -  Nils Adermann @ phpsrb17](https://www.youtube.com/watch?v=QL6w8H2eHQE)
 
-## [38. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
+## [37. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
 
 ### Links Sent by Readers / Projects
 
 *   [Deveconodata Blogspot](http://devecondata.blogspot.com/) - Development economics datasets. Updated regularly.
 *   [Quantitative Economics](https://lectures.quantecon.org/py/index.html) - Lecture series by Thomas J. Sargent and John Stachurski using Python computational tools.
 
-## [39. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [38. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
@@ -438,7 +431,7 @@
 *   [d3-loom (⭐91)](https://github.com/nbremer/d3-loom) - Plugin to create a "loom" visualization
 *   [d3-sparql (⭐109)](https://github.com/zazuko/d3-sparql) - Utility for accessing data from SPARQL Endpoints
 
-## [40. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
+## [39. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
 
 ### Contents / Articles
 
@@ -450,13 +443,13 @@
 *   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 *   [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
 
-## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [40. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Integrations
 
 *   [HapiJS Keycloak Auth (⭐36)](https://github.com/felixheck/hapi-auth-keycloak)
 
-## [42. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Java / Data Analysis / Data Visualization
 

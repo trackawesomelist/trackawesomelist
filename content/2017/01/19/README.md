@@ -125,7 +125,7 @@
 
 ### For Electron / Other
 
-*   [elemon (⭐72)](https://github.com/manidlou/elemon) - Live-reload your app during development.
+*   [elemon (⭐73)](https://github.com/manidlou/elemon) - Live-reload your app during development.
 
 ## [9. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
@@ -143,7 +143,7 @@
 
 ### Trading
 
-*   [Lean (⭐8k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
+*   [Lean (⭐8.4k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
 
 ### Source Generator
 
@@ -153,7 +153,7 @@
 
 ### Other Awesome Projects
 
-*   [C++ links (⭐3.7k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
+*   [C++ links (⭐3.9k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 
 ---
 

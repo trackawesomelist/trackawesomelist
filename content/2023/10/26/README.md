@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26, 2023
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,30 +10,30 @@
 
 ### Resources / Blog posts
 
-*   [Date and DateTime Manipulation in Polars ](https://www.confessionsofadataguy.com/date-and-datetime-manipulation-in-polar/) - A blog post that shows examples of doing a number of date and datetime manipulations in Polars (Python) by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐0)](https://github.com/danielbeach/PolarsDateTimeManipulation/tree/main).
+*   [Date and DateTime Manipulation in Polars ](https://www.confessionsofadataguy.com/date-and-datetime-manipulation-in-polar/) - A blog post that shows examples of doing a number of date and datetime manipulations in Polars (Python) by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐1)](https://github.com/danielbeach/PolarsDateTimeManipulation/tree/main).
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Logging
 
-*   [haclog (⭐62)](https://github.com/MuggleWei/haclog) - An extremely fast plain C logging library. \[MIT]
+*   [haclog (⭐66)](https://github.com/MuggleWei/haclog) - An extremely fast plain C logging library. \[MIT]
 
 ### Miscellaneous
 
-*   [faker-cxx (⭐73)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
-*   [inja (⭐1.4k)](https://github.com/pantor/inja) - A Template Engine for Modern C++. \[MIT]
+*   [faker-cxx (⭐165)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
+*   [inja (⭐1.5k)](https://github.com/pantor/inja) - A Template Engine for Modern C++. \[MIT]
 
 ## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Blockchain
 
-*   [kubo (⭐15k)](https://github.com/ipfs/kubo) - A blockchain framework implemented in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol.
+*   [kubo (⭐16k)](https://github.com/ipfs/kubo) - A blockchain framework implemented in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol.
 
 ## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Game
 
-*   [DotRecast (⭐221)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
+*   [DotRecast (⭐312)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-ui-preloader (⭐0)](https://github.com/gbast0s/vue3-ui-preloader) - Vue3 Pre Loader components for vue.js projects with playground.
+*   [vue3-ui-preloader (⭐2)](https://github.com/gbast0s/vue3-ui-preloader) - Vue3 Pre Loader components for vue.js projects with playground.
 
 ## [7. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Models
 
-*   [Qwen (⭐5.7k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
+*   [Qwen (⭐8.9k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
 
 ### Spreadsheets
 
@@ -144,9 +144,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 6 |        8 | 15-30m |
-
-### Contribute
-
 ### [Keyflower](https://boardgamegeek.com/boardgame/122515/keyflower)
 
 > Keyflower is a strategic board game designed for 2 to 6 players, with four rounds representing the seasons: spring, summer, autumn, and winter. Players begin with a home tile and eight workers, each in red, yellow, or blue, which are used for bidding on tiles and for resource generation and skill acquisition. During spring, summer, and autumn, additional workers with skills related to key resources like iron, stone, and wood arrive, and random village tiles are auctioned. In the winter, no new workers arrive, and players select village tiles for auction, which offer victory points based on combinations of resources, skills, and workers. The player with the most victory points at the end of the winter season wins the game.
@@ -157,19 +154,17 @@
 | ------: | -------: | ------: |
 |   2 - 6 |      12+ | 90-120m |
 
-Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
-
 ## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Courses and Educational Materials / Deforum
-
-*   [Animated AI](https://animatedai.github.io/): animations and instructional videos about neural networks
-
-### Discussions and Philosophy / Critical Views about Generative AI
+### Critical Views about Generative AI
 
 *   [AI Worship | Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2023/10/ai-worship.html)
 
-### Roadmaps, Tracks, Rails / Auxiliary tools and concepts
+### Courses and Educational Materials
+
+*   [Animated AI](https://animatedai.github.io/): animations and instructional videos about neural networks
+
+### Roadmaps, Tracks, Rails / Deforum
 
 *   [Prompt Engineering Guide | Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/docs/intro)
 *   [Short Courses | Learn Generative AI from DeepLearning.AI](https://www.deeplearning.ai/short-courses/)
@@ -192,25 +187,15 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
-### (requires Neovim 0.5)
-
-*   [soulis-1256/hoverhints.nvim (⭐3)](https://github.com/soulis-1256/hoverhints.nvim) - Mouse-hover LSP hints.
-
 ### Deployment / Diagnostics
 
-*   [coffebar/transfer.nvim (⭐3)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
+*   [coffebar/transfer.nvim (⭐36)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
 
 ## [14. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Testing / Zabbix
 
-*   [pgTAP (⭐866)](https://github.com/theory/pgtap) - Unit Testing for PostgreSQL.
-
-## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Graphs / Gremlin
-
-*   [Practical Gremlin - An Apache TinkerPop Tutorial](https://www.kelvinlawrence.net/book/PracticalGremlin.html) - Kelvin R. Lawrence
+*   [pgTAP (⭐894)](https://github.com/theory/pgtap) - Unit Testing for PostgreSQL.
 
 ---
 

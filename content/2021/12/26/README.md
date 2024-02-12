@@ -10,7 +10,7 @@
 
 ### Real-time / Real-time Operating System (RTOS)
 
-*   [Hubris (⭐2.4k)](https://github.com/oxidecomputer/hubris) A real-time operating systems built by Oxide Computer to run the Service Controller processor in the mainboards of their rack-mount servers.
+*   [Hubris (⭐2.6k)](https://github.com/oxidecomputer/hubris) A real-time operating system built by Oxide Computer to run the Service Controller processor in the mainboards of their rack-mount servers.
 
 ### Peripheral Access Crates / Raspberry Pi Silicon
 
@@ -31,7 +31,7 @@
 
 ### Board support crates / Raspberry Pi
 
-*   [`rp-pico`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the RP2040 based Raspberry Pi Pico.
+*   [`rp-pico`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the RP2040-based Raspberry Pi Pico.
 
 ### Board support crates / Sparkfun
 
@@ -41,7 +41,7 @@
 
 ### Tab / Barcode
 
-*   [CardTabBar (⭐198)](https://github.com/yusadogru/CardTabBar) - Adding animation to iOS tabbar items.
+*   [CardTabBar (⭐199)](https://github.com/yusadogru/CardTabBar) - Adding animation to iOS tabbar items.
 
 ## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

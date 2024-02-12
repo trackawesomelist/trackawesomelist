@@ -76,7 +76,7 @@
 
 ### Packages / Libraries
 
-*   [Howler.js (⭐22k)](https://github.com/goldfire/howler.js) - A comprehensive library with a fallback to HTML5 Audio.
+*   [Howler.js (⭐23k)](https://github.com/goldfire/howler.js) - A comprehensive library with a fallback to HTML5 Audio.
 
 ---
 

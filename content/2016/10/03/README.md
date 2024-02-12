@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 03, 2016
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Swift / Git
 
-*   [IDZSwiftCommonCrypto (⭐476)](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Wrapper for Apple's [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) library written in Swift.
+*   [IDZSwiftCommonCrypto (⭐474)](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Wrapper for Apple's [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) library written in Swift.
 
 ## [2. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
@@ -163,13 +163,7 @@
 
 *   [klipse (⭐3.1k)](https://github.com/viebel/klipse)
 
-## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
-
-### Configuration / PHP Installation
-
-*   [PHP OSX](https://php-osx.liip.ch/) - A PHP installer for OSX.
-
-## [9. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [8. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Vert.x Event Bus Clients
 
@@ -179,7 +173,7 @@
 *   [C (⭐4)](https://github.com/jaymine/TCP-eventbus-client-C) - Event bus client for C99 using the [TCP-based protocol (⭐48)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 *   [Go (⭐28)](https://github.com/jponge/vertx-go-tcp-eventbus-bridge)- Event bus client for Go-lang using the [TCP-based protocol (⭐48)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 
-## [10. Tips](/content/git-tips/tips/README.md)
+## [9. Tips](/content/git-tips/tips/README.md)
 
 ## Specific fetch reference
 
@@ -187,7 +181,7 @@
 git fetch origin master:refs/remotes/origin/mymaster
 ```
 
-## [11. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
+## [10. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 
 ### Government
 

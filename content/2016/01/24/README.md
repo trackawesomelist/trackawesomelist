@@ -22,21 +22,13 @@
 
 ### Go / Erlang
 
-*   [Goa (⭐5.1k)](https://github.com/goadesign/goa) - Design-based HTTP microservices in Go.
-
-### Java VM / Java
-
-*   [QBit (⭐709)](https://github.com/advantageous/qbit) - Reactive programming library for building microservices.
+*   [Goa (⭐5.4k)](https://github.com/goadesign/goa) - Design-based HTTP microservices in Go.
 
 ### Ruby / Scala
 
 *   [Hanami](https://github.com/hanami) - A modern web framework for Ruby.
-*   [Praxis (⭐299)](https://github.com/rightscale/praxis) - Framework for both designing and implementing APIs.
+*   [Praxis (⭐300)](https://github.com/rightscale/praxis) - Framework for both designing and implementing APIs.
 *   [Scorched (⭐275)](https://github.com/wardrop/Scorched) - Light-weight web framework for Ruby.
-
-### Configuration & Discovery / Scala
-
-*   [Doozer (⭐3.3k)](https://github.com/ha/doozerd) - Highly-available, completely consistent store for small amounts of data. When the data changes, it can notify connected clients immediately.
 
 ## [4. Codeface](/content/chrissimpkins/codeface/README.md)
 

@@ -66,6 +66,7 @@ Discover more awesome lists at [sindresorhus/awesome (⭐283k)](https://github.c
     *   [bwpot (⭐25)](https://github.com/graneed/bwpot) - Breakable Web applications honeyPot.
     *   [django-admin-honeypot (⭐977)](https://github.com/dmpayton/django-admin-honeypot) - Fake Django admin login screen to notify admins of attempted unauthorized access.
     *   [drupo (⭐57)](https://github.com/d1str0/drupot) - Drupal Honeypot.
+    *   [galah (⭐21)](https://github.com/0x4D31/galah) - an LLM-powered web honeypot using the OpenAI API.
     *   [honeyhttpd (⭐34)](https://github.com/bocajspear1/honeyhttpd) - Python-based web server honeypot builder.
     *   [honeyup (⭐24)](https://github.com/LogoiLab/honeyup) - An uploader honeypot designed to look like poor website security.
     *   [owa-honeypot (⭐21)](https://github.com/joda32/owa-honeypot) - A basic flask based Outlook Web Honey pot.
@@ -122,6 +123,7 @@ Discover more awesome lists at [sindresorhus/awesome (⭐283k)](https://github.c
 *   Anti-honeypot stuff
 
     *   [canarytokendetector (⭐7)](https://github.com/referefref/canarytokendetector) - Tool for detection and nullification of Thinkst CanaryTokens
+    *   [honeydet (⭐14)](https://github.com/referefref/honeydet) - Signature based honeypot detector tool written in Golang
     *   [kippo\_detect (⭐54)](https://github.com/andrew-morris/kippo_detect) - Offensive component that detects the presence of the kippo honeypot.
 
 *   ICS/SCADA honeypots

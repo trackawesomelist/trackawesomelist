@@ -10,7 +10,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [Filestash](https://www.filestash.app/) - A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive . ([Demo](https://demo.filestash.app/), [Source Code (⭐8.5k)](https://github.com/mickael-kerjean/filestash)) `AGPL-3.0` `Docker`
+*   [Filestash](https://www.filestash.app/) - A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive . ([Demo](https://demo.filestash.app/), [Source Code (⭐9k)](https://github.com/mickael-kerjean/filestash)) `AGPL-3.0` `Docker`
 
 ## [2. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -84,22 +84,22 @@
 
 ### Debug
 
-*   [Unity (⭐3.3k)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. \[MIT]
+*   [Unity (⭐3.6k)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. \[MIT]
 
 ## [7. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
-### Progressive Web App with Gatsby   [↗](https://awesomestacks.dev/progressive-web-app-with-gatsby) / Resources
+### Progressive Web App with Gatsby [↗](https://awesomestacks.dev/progressive-web-app-with-gatsby) / Resources
 
 *   [Learn how to easily build a GatsbyJS website powered by Contentful](https://www.contentful.com/r/knowledgebase/gatsbyjs-and-contentful-in-five-minutes/)
 
-### Strapi CMS with Gatsby   [↗](https://awesomestacks.dev/strapi-cms-with-gatsby) / Resources
+### Strapi CMS with Gatsby [↗](https://awesomestacks.dev/strapi-cms-with-gatsby) / Resources
 
 *   [Heroku](https://www.heroku.com/) - [🛠️](https://stackshare.io/heroku) - Heroku is a powerful platform for deploying your apps.
 
-### Workflow Automation with GitHub, Jira and Jenkins   [↗](https://awesomestacks.dev/workflow-automation-with-git-hub-jira-and-jenkins) / Resources
+### Workflow Automation with GitHub, Jira and Jenkins [↗](https://awesomestacks.dev/workflow-automation-with-git-hub-jira-and-jenkins) / Resources
 
 *   [GitHub](https://github.com/) - [🛠](https://stackshare.io/github) - The site to keep your code and open it to world.
-*   [Jenkins](https://jenkins.io/) - [🛠️](https://stackshare.io/jenkins) - [🐙 (⭐20k)](https://github.com/jenkinsci/jenkins) - Open source automation server for CI/CD.
+*   [Jenkins](https://jenkins.io/) - [🛠️](https://stackshare.io/jenkins) - [🐙 (⭐22k)](https://github.com/jenkinsci/jenkins) - Open source automation server for CI/CD.
 *   [Jira](https://es.atlassian.com/software/jira) - [🛠️](https://stackshare.io/jira) - Agile software development.
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)

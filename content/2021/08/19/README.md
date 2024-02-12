@@ -10,7 +10,7 @@
 
 ### Game
 
-*   [FNA (⭐2.4k)](https://github.com/FNA-XNA/FNA) - FNA is an XNA4 reimplementation that focuses solely on developing a fully accurate XNA4 runtime for the desktop
+*   [FNA (⭐2.5k)](https://github.com/FNA-XNA/FNA) - FNA is an XNA4 reimplementation that focuses solely on developing a fully accurate XNA4 runtime for the desktop
 
 ## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -32,45 +32,44 @@
 
 ### Table of Contents / Dependency Management Extras
 
-*   [Composer Merge Plugin (⭐834)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
-*   [Composer Require Checker (⭐701)](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
-*   [Tooly (⭐100)](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in project using Composer.
+*   [Composer Merge Plugin (⭐908)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
+*   [Composer Require Checker (⭐830)](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
+*   [Tooly (⭐101)](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in a project using Composer.
 
 ### Table of Contents / Scraping
 
-*   [Chrome PHP (⭐1.6k)](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
+*   [Chrome PHP (⭐2.1k)](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
 
 ### Table of Contents / Debugging and Profiling
 
-*   [Metrics (⭐313)](https://github.com/beberlei/metrics) - A simple metrics API library.
+*   [Metrics (⭐314)](https://github.com/beberlei/metrics) - A simple metrics API library.
 
 ### Table of Contents / Build Tools
 
-*   [RMT (⭐441)](https://github.com/liip/RMT) - A library for versioning and releasing software.
+*   [RMT (⭐451)](https://github.com/liip/RMT) - A library for versioning and releasing software.
 
 ### Table of Contents / Geolocation
 
-*   [Country List (⭐5k)](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
+*   [Country List (⭐5.1k)](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 
 ### Table of Contents / Event
 
-*   [Pawl (⭐524)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
+*   [Pawl (⭐564)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
 
 ### Table of Contents / Database
 
-*   [Slimdump (⭐176)](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
+*   [Slimdump (⭐181)](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
 
 ### Table of Contents / Authentication and Authorization
 
-*   [Paseto (⭐3.1k)](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens.
+*   [Paseto (⭐3.2k)](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens.
 
 ### Table of Contents / Markup and CSS
 
-*   [Essence (⭐765)](https://github.com/essence/essence) - A library for extracting web media.
-*   [Embera (⭐305)](https://github.com/mpratt/Embera) - An Oembed consumer library.
-*   [PHP CSS Parser (⭐1.6k)](https://github.com/sabberworm/PHP-CSS-Parser) - A Parser for CSS Files written in PHP.
-*   [Shiki PHP (⭐225)](https://github.com/spatie/shiki-php) - A [Shiki (⭐3.9k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
-*   [VObject (⭐527)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
+*   [Essence (⭐767)](https://github.com/essence/essence) - A library for extracting web media.
+*   [Embera (⭐325)](https://github.com/mpratt/Embera) - An Oembed consumer library.
+*   [Shiki PHP (⭐260)](https://github.com/spatie/shiki-php) - A [Shiki (⭐6.9k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
+*   [VObject (⭐557)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 
 ### Table of Contents / JSON
 
@@ -78,23 +77,23 @@
 
 ### Table of Contents / Numbers
 
-*   [IP (⭐220)](https://github.com/darsyn/ip) - An immutable value object for working with IPv4 and IPv6 addresses.
-*   [MathPHP (⭐2.1k)](https://github.com/markrogoyski/math-php) - A math library for PHP.
+*   [IP (⭐245)](https://github.com/darsyn/ip) - An immutable value object for working with IPv4 and IPv6 addresses.
+*   [MathPHP (⭐2.3k)](https://github.com/markrogoyski/math-php) - A math library for PHP.
 
 ### Table of Contents / Caching and Locking
 
-*   [Lock (⭐867)](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
+*   [Lock (⭐915)](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
 
 ### Configuration / Miscellaneous
 
-*   [Annotations (⭐6.5k)](https://github.com/doctrine/annotations) - An annotation library (part of Doctrine).
+*   [Annotations (⭐6.7k)](https://github.com/doctrine/annotations) - An annotation library (part of Doctrine).
 *   [Hprose-PHP (⭐2k)](https://github.com/hprose/hprose-php) - A cross-language RPC.
 
 ### Configuration / Development Environment
 
-*   [Expose (⭐3.9k)](https://github.com/beyondcode/expose) - An open source PHP tunneling service.
+*   [Expose (⭐4.1k)](https://github.com/beyondcode/expose) - An open-source PHP tunneling service.
 *   [Lando](https://lando.dev/) - Push-button development environments.
-*   [Takeout (⭐1.4k)](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
+*   [Takeout (⭐1.6k)](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
 
 ### Configuration / PHP Reading
 
@@ -104,7 +103,7 @@
 
 ### Libraries/Frameworks / Serialization
 
-*   [Jire/KTON (⭐59)](https://github.com/Jire/KTON) - Object notation in pure Kotlin!
+*   [Jire/KTON (⭐60)](https://github.com/Jire/KTON) - Object notation in pure Kotlin!
 
 ## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 

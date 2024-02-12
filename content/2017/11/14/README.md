@@ -58,7 +58,7 @@ Topics: WebAPI, Microservices, JavaScript\
 
 ### Others
 
-*   [incremental\_katas (⭐63)](https://github.com/Gianfrancoalongi/incremental_katas)
+*   [incremental\_katas (⭐62)](https://github.com/Gianfrancoalongi/incremental_katas)
 
 ## [7. Awesome Choo](/content/choojs/awesome-choo/README.md)
 

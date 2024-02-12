@@ -44,13 +44,13 @@
 
 ### Packages / Testing
 
-*   [Playwright (⭐56k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
+*   [Playwright (⭐58k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
 
 ### Packages / Miscellaneous
 
-*   [basic-ftp (⭐613)](https://github.com/patrickjuchli/basic-ftp) – FTP/FTPS client.
-*   [cashify (⭐395)](https://github.com/xxczaki/cashify) - Currency conversion.
-*   [genepi (⭐70)](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
+*   [basic-ftp (⭐627)](https://github.com/patrickjuchli/basic-ftp) - FTP/FTPS client.
+*   [cashify (⭐399)](https://github.com/xxczaki/cashify) - Currency conversion.
+*   [genepi (⭐72)](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
 
 ### Resources / Tools
 
@@ -60,7 +60,7 @@
 
 ### Tools / Misc
 
-*   [m2cgen (⭐2.6k)](https://github.com/BayesWitnesses/m2cgen) - A tool that allows the conversion of ML models into native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart) with zero dependencies.
+*   [m2cgen (⭐2.7k)](https://github.com/BayesWitnesses/m2cgen) - A tool that allows the conversion of ML models into native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart) with zero dependencies.
 
 ## [6. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
@@ -122,21 +122,21 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐405)](https://github.com/typemill/typemill)) `MIT` `PHP`
+*   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐415)](https://github.com/typemill/typemill)) `MIT` `PHP`
 
 ### Software / Games
 
-*   [Mindustry](https://mindustrygame.github.io/) - Factorio-like tower defense game. Build production chains to gather more resources, and build complex facilities. ([Source Code (⭐19k)](https://github.com/Anuken/Mindustry)) `GPL-3.0` `Java`
+*   [Mindustry](https://mindustrygame.github.io/) - Factorio-like tower defense game. Build production chains to gather more resources, and build complex facilities. ([Source Code (⭐20k)](https://github.com/Anuken/Mindustry)) `GPL-3.0` `Java`
 
 ## [12. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Typescript Project Starters
 
-*   [jsynowiec/node-typescript-boilerplate (⭐2.4k)](https://github.com/jsynowiec/node-typescript-boilerplate) Up-to-date, developer ready and comprehensive, yet minimalistic template. Works out of the box for most Node.js projects. All basic tools included and configured. Targets latest Node.js LTS and TypeScript releases.
+*   [jsynowiec/node-typescript-boilerplate (⭐2.5k)](https://github.com/jsynowiec/node-typescript-boilerplate) Up-to-date, developer ready and comprehensive, yet minimalistic template. Works out of the box for most Node.js projects. All basic tools included and configured. Targets latest Node.js LTS and TypeScript releases.
 
 ### Cloud Data Warehousing / Playground
 
-*   :sparkles: [Crisp BigQuery (⭐39)](https://github.com/winwiz1/crisp-bigquery) Starter project that delivers Google BigQuery data to end user browsers with cost control. Allows to implement rich data presentation options.
+*   :sparkles: [Crisp BigQuery (⭐43)](https://github.com/winwiz1/crisp-bigquery) Starter project that delivers Google BigQuery data to end user browsers with cost control. Allows to implement rich data presentation options.
 
 ### CMS / Playground
 
@@ -146,7 +146,7 @@
 
 ### Sample Projects / JVM languages
 
-*   [EventStormingWorkshop - Designing Cloud Native Microservices On AWS (⭐306)](https://github.com/humank/EventStormingWorkShop/) - A concrete sample to go through EventStorming workshop and implement DDD tactical design pattern in Java, apply AWS cloud native services to build up business Event based Coffeeshop scenario.
+*   [EventStormingWorkshop - Designing Cloud Native Microservices On AWS (⭐308)](https://github.com/humank/EventStormingWorkShop/) - A concrete sample to go through EventStorming workshop and implement DDD tactical design pattern in Java, apply AWS cloud native services to build up business Event based Coffeeshop scenario.
 
 ### User Groups / Ruby
 
@@ -206,7 +206,7 @@
 
 ### Table of Contents / Scraping
 
-*   [DiDOM (⭐2k)](https://github.com/Imangazaliev/DiDOM) - A super fast HTML scrapper and parser.
+*   [DiDOM (⭐2.2k)](https://github.com/Imangazaliev/DiDOM) - A super-fast HTML scrapper and parser.
 
 ## [19. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
@@ -218,19 +218,19 @@
 
 ### Plugins
 
-*   [tmux-jump (⭐280)](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
+*   [tmux-jump (⭐292)](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
 
 ## [21. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Utility / Barcode
 
-*   [PrivacyFlash Pro (⭐149)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your Swift iOS app from its code.
+*   [PrivacyFlash Pro (⭐150)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your Swift iOS app from its code.
 
 ## [22. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Side-channel Tools / Reverse Engineering Tools
 
-*   [SGX-Step (⭐398)](https://github.com/jovanbulck/sgx-step) - Open-source framework to facilitate side-channel attack research on Intel x86 processors in general and Intel SGX (Software Guard Extensions) platforms in particular.
+*   [SGX-Step (⭐405)](https://github.com/jovanbulck/sgx-step) - Open-source framework to facilitate side-channel attack research on Intel x86 processors in general and Intel SGX (Software Guard Extensions) platforms in particular.
 
 ## [23. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
@@ -278,7 +278,7 @@
 
 ### Video/Audio / Other
 
-*   [exifr (⭐894)](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. <https://mutiny.cz/exifr/>
+*   [exifr (⭐954)](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. <https://mutiny.cz/exifr/>
 
 ## [28. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
@@ -389,7 +389,7 @@
 
 ### UML / Apache License
 
-*   [ada-ml (⭐8)](https://github.com/rocher/AdaML) - Ada-tailored UML Modeling Language.
+*   [ada-ml (⭐9)](https://github.com/rocher/AdaML) - Ada-tailored UML Modeling Language.
 
 ## [39. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
@@ -413,7 +413,7 @@
 
 ### Automation / Packages
 
-*   [loadtest (⭐90)](https://github.com/tmobile/loadtest) - An R package for load testing using JMeter.
+*   [loadtest (⭐91)](https://github.com/tmobile/loadtest) - An R package for load testing using JMeter.
 
 ## [43. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -429,9 +429,9 @@
 
 ### Product Management / Standups
 
-*   [Open Product Management (⭐3.6k)](https://github.com/tron1991/open-product-management) - Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.
+*   [Open Product Management (⭐3.7k)](https://github.com/tron1991/open-product-management) - Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.
 *   [Things Many People Find Too Obvious To Have Told You Already](https://twitter.com/patio11/status/936615043126370306) - A set of heuristics on tech companies and the ecosystem they live in.
-*   [How to exit vim, the Product Manager way (⭐6.5k)](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
+*   [How to exit vim, the Product Manager way (⭐6.7k)](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
 
 ### Product Management / Product-Market Fit
 
@@ -475,14 +475,14 @@
 ### Development tools / IDEs
 
 *   Visual Studio
-    *   [dgriffen/rls-vs2017 (⭐109)](https://github.com/ZoeyR/rls-vs2017) — Rust support for Visual Studio 2017 Preview [![build badge](https://ci.appveyor.com/api/projects/status/d2lxlincwninhsng?svg=true)](https://ci.appveyor.com/project/dgriffen/rls-vs2017)
-    *   [PistonDevelopers/VisualRust (⭐700)](https://github.com/PistonDevelopers/VisualRust) — A Visual Studio extension for Rust [![Build status](https://ci.appveyor.com/api/projects/status/5nw5no10jj0y4p3f?svg=true)](https://ci.appveyor.com/project/vosen/visualrust)
+    *   [dgriffen/rls-vs2017 (⭐110)](https://github.com/ZoeyR/rls-vs2017) — Rust support for Visual Studio 2017 Preview [![build badge](https://ci.appveyor.com/api/projects/status/d2lxlincwninhsng?svg=true)](https://ci.appveyor.com/project/dgriffen/rls-vs2017)
+    *   [PistonDevelopers/VisualRust (⭐701)](https://github.com/PistonDevelopers/VisualRust) — A Visual Studio extension for Rust [![Build status](https://ci.appveyor.com/api/projects/status/5nw5no10jj0y4p3f?svg=true)](https://ci.appveyor.com/project/vosen/visualrust)
 
 ## [49. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Virtualisation / Discovery
 
-*   [nixos-shell (⭐463)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
+*   [nixos-shell (⭐521)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
 
 ## [50. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -492,11 +492,11 @@
 
 ### E-Commerce and Payments
 
-*   [Workarea (⭐323)](https://github.com/workarea-commerce/workarea) - An extensible, high-performance eCommerce platform depended on by some of the world's top retailers.
+*   [Workarea (⭐325)](https://github.com/workarea-commerce/workarea) - An extensible, high-performance eCommerce platform depended on by some of the world's top retailers.
 
 ### Game Development and Graphics
 
-*   [Ruby 2D (⭐612)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
+*   [Ruby 2D (⭐618)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
 
 ## [51. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
@@ -521,7 +521,7 @@
 ### Cost Forecast / Market Research
 
 *   [Time Series Prediction - A short introduction for pragmatists](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices) - Great introduction on how time series can be used to evaluate business problems.
-*   [Komiser (⭐3.5k)](https://github.com/mlabouardy/komiser) - Open-source tool to stay under budget by uncovering hidden costs, monitoring increases in spend, and making impactful changes based on custom recommendations.
+*   [Komiser (⭐3.8k)](https://github.com/mlabouardy/komiser) - Open-source tool to stay under budget by uncovering hidden costs, monitoring increases in spend, and making impactful changes based on custom recommendations.
 
 ### Marketplace / Market Research
 
@@ -545,7 +545,7 @@
 
 ### Payments / Bank Accounts
 
-*   [Swift Codes Repository (⭐166)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
+*   [Swift Codes Repository (⭐175)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
 
 ### Fraud / Billing
 
@@ -559,7 +559,7 @@
 
 *   [Practical Business Python](https://pbpython.com) - A blog collecting and spreading ideas on how to use Python more effectively in the business setting.
 *   [`redash`](https://github.com/getredash/redash) - Connect and query your data sources, build dashboards to visualize data and share them with your company.
-*   [Apache Superset (⭐54k)](https://github.com/apache/incubator-superset) - Enterprise-ready business intelligence web application.
+*   [Apache Superset (⭐56k)](https://github.com/apache/incubator-superset) - Enterprise-ready business intelligence web application.
 *   [Meltano](https://gitlab.com/meltano/meltano) - Open source convention-over-configuration product for the whole data lifecycle, all the way from loading data to analyzing it.
 *   [`insights`](https://github.com/mariusandra/insights) - Insights is a tool to visually explore a PostgreSQL database, with an emphasis on generating graphs that show business performance over time.
 
@@ -620,24 +620,24 @@
 
 ### For Developers
 
-*   [mkdkr (⭐345)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline.
+*   [mkdkr (⭐352)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline.
 
 ### Shell Script Development
 
-*   [ansi (⭐529)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more.
+*   [ansi (⭐554)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more.
 *   [argbash (⭐1.3k)](https://github.com/matejak/argbash) - Bash argument parsing code generator.
-*   [assert.sh (⭐477)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework.
-*   [async-bash (⭐130)](https://github.com/zombieleet/async-bash) - Implementation of async functions in bash.
-*   [bash3boilerplate (⭐2k)](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts.
-*   [bashful (⭐587)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts.
+*   [assert.sh (⭐479)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework.
+*   [async-bash (⭐135)](https://github.com/zombieleet/async-bash) - Implementation of async functions in bash.
+*   [bash3boilerplate (⭐2.1k)](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts.
+*   [bashful (⭐591)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts.
 *   [bashify (⭐98)](https://github.com/zombieleet/bashify) - Few helper functions in bash (especially string manipulation functions).
 *   [bashing (⭐73)](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools.
-*   [bashmanager (⭐88)](https://github.com/lingtalfi/bashmanager) - Mini bash framework for creating command line tools.
+*   [bashmanager (⭐90)](https://github.com/lingtalfi/bashmanager) - Mini bash framework for creating command line tools.
 *   [Bash Infinity (⭐5.5k)](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash.
-*   [bash\_unit (⭐546)](https://github.com/pgrange/bash_unit) -  Bash unit testing enterprise edition framework for professionals.
-*   [mo (⭐522)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash.
-*   [semver\_bash (⭐238)](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash.
-*   [shfmt (⭐6.2k)](https://github.com/mvdan/sh) - Format bash programs.
+*   [bash\_unit (⭐564)](https://github.com/pgrange/bash_unit) -  Bash unit testing enterprise edition framework for professionals.
+*   [mo (⭐531)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash.
+*   [semver\_bash (⭐240)](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash.
+*   [shfmt (⭐6.5k)](https://github.com/mvdan/sh) - Format bash programs.
 *   [shunit2 (⭐1.5k)](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 
 ## [57. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
@@ -650,11 +650,11 @@
 
 ### Form Logic / Mouse Events
 
-*   [data-driven-forms (⭐272)](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
+*   [data-driven-forms (⭐283)](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
 
 ### Boilerplate / Mouse Events
 
-*   [phoenix (⭐156)](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
+*   [phoenix (⭐160)](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
 
 ## [59. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 

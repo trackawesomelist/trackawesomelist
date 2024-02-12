@@ -18,7 +18,7 @@
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Browsers / File Sharing
+### Browsers / Audio Record and Process
 
 *   [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brave/brave-browser/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
@@ -116,7 +116,7 @@
 
 ### Date and Time Processing
 
-*   [holidays (⭐778)](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
+*   [holidays (⭐782)](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
 
 ## [10. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 

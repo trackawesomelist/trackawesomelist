@@ -16,7 +16,7 @@
 
 ### Game Engine
 
-*   [EnTT (⭐8.8k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
+*   [EnTT (⭐9.2k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
 
 ## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

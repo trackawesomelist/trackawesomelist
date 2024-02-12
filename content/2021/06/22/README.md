@@ -50,8 +50,8 @@
 
 ### Tools & Software / Acquisition
 
-*   [WAIL (⭐328)](https://github.com/machawk1/wail) - A graphical user interface (GUI) atop multiple web archiving tools intended to be used as an easy way for anyone to preserve and replay web pages; [Python](https://machawk1.github.io/wail/), [Electron (⭐114)](https://github.com/n0tan3rd/wail). *(Stable)*
-*   [Warcprox (⭐348)](https://github.com/internetarchive/warcprox) - WARC-writing MITM HTTP/S proxy. *(Stable)*
+*   [WAIL (⭐334)](https://github.com/machawk1/wail) - A graphical user interface (GUI) atop multiple web archiving tools intended to be used as an easy way for anyone to preserve and replay web pages; [Python](https://machawk1.github.io/wail/), [Electron (⭐116)](https://github.com/n0tan3rd/wail). *(Stable)*
+*   [Warcprox (⭐349)](https://github.com/internetarchive/warcprox) - WARC-writing MITM HTTP/S proxy. *(Stable)*
 
 ## [7. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [@egjs/vue-flicking (⭐2.5k)](https://github.com/naver/egjs-flicking/tree/master/packages/vue-flicking) - It's reliable, flexible and extendable carousel for Vue.js 2 & 3.
+*   [@egjs/vue-flicking (⭐2.6k)](https://github.com/naver/egjs-flicking/tree/master/packages/vue-flicking) - It's reliable, flexible and extendable carousel for Vue.js 2 & 3.
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Libraries / Authentication
 
-*   [oauth2 (⭐744)](https://github.com/ramosbugs/oauth2-rs) — Extensible, strongly-typed Rust OAuth2 client library
+*   [oauth2 (⭐797)](https://github.com/ramosbugs/oauth2-rs) — Extensible, strongly-typed Rust OAuth2 client library
 
 ## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -50,16 +50,16 @@
     functions, etc) from others into your own configuration files.
 *   [GNU Stow](http://www.gnu.org/software/stow/) - Symlink farm manager which takes distinct packages of software and/or
     data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
-*   [Pearl (⭐219)](https://github.com/pearl-core/pearl) - Package manager that allows to control, sync, share dotfiles as
-    packages automatically activated during shells or editors startup. There is a wide range of packages already available
-    in the [Official Pearl Hub](https://github.com/pearl-hub) (for Linux and OSX).
+*   [Pearl (⭐223)](https://github.com/pearl-core/pearl) - Package manager that allows to control, sync, share dotfiles as
+    packages automatically activated during shells or editors startup. There is a wide range of packages already
+    available. in the [Official Pearl Hub](https://github.com/pearl-hub) (for Linux and OSX).
 *   [rcm (⭐3k)](https://github.com/thoughtbot/rcm) - rc file (dotfile) management.
-*   [yadm (⭐4.3k)](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers,
+*   [yadm (⭐4.5k)](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers,
     using a shared Git repository and some additional features.
 
 ### Tools / macOS
 
-*   [zero (⭐249)](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.
+*   [zero (⭐258)](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.
 
 ### Miscellaneous / macOS
 
@@ -70,11 +70,11 @@
 
 ### Related Lists / macOS
 
-*   [Awesome Dev Env (⭐2.6k)](https://github.com/jondot/awesome-devenv) - Curated list of awesome tools, resources and workflow
+*   [Awesome Dev Env (⭐2.7k)](https://github.com/jondot/awesome-devenv) - Curated list of awesome tools, resources and workflow
     tips making an awesome development environment.
-*   [Awesome Shell (⭐28k)](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits,
+*   [Awesome Shell (⭐30k)](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits,
     guides and gizmos.
-*   [Awesome Zsh Plugins (⭐13k)](https://github.com/unixorn/awesome-zsh-plugins) - List of Zsh plugins suitable for use with
+*   [Awesome Zsh Plugins (⭐14k)](https://github.com/unixorn/awesome-zsh-plugins) - List of Zsh plugins suitable for use with
     oh-my-zsh, antigen & Prezto.
 *   [Terminals Are Sexy (⭐12k)](https://github.com/k4m4/terminals-are-sexy) - A curated list of Terminal frameworks, plugins &
     resources for CLI lovers.
@@ -84,12 +84,11 @@
 *   [Bork (⭐220)](https://github.com/mattly/bork)
 *   [Cider (⭐841)](https://github.com/msanders/cider)
 *   [dev-setup (⭐6k)](https://github.com/donnemartin/dev-setup)
-*   [dotfiles (⭐563)](https://github.com/jbernard/dotfiles)
-*   [ellipsis (⭐351)](https://github.com/ellipsis/ellipsis)
-*   [emplace (⭐223)](https://github.com/tversteeg/emplace)
-*   [holman does dotfiles (⭐7k)](https://github.com/holman/dotfiles)
+*   [dotfiles (⭐568)](https://github.com/jbernard/dotfiles)
+*   [ellipsis (⭐350)](https://github.com/ellipsis/ellipsis)
+*   [emplace (⭐231)](https://github.com/tversteeg/emplace)
+*   [holman does dotfiles (⭐7.1k)](https://github.com/holman/dotfiles)
 *   [homesick (⭐2.4k)](https://github.com/technicalpickles/homesick)
-*   [OS X Defaults (⭐1.2k)](https://github.com/kevinSuttle/macOS-Defaults)
 *   [vcsh (⭐2.1k)](https://github.com/RichiH/vcsh)
     ([article](https://blog.tfnico.com/2014/03/managing-dot-files-with-vcsh-and-myrepos.html),
     [article](https://www.kunxi.org/2014/02/manage-dotfiles-using-vcsh-and-mr/))
@@ -102,7 +101,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-lumino (⭐69)](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
+*   [vue-lumino (⭐74)](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
 
 ## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

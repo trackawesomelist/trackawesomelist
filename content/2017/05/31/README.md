@@ -32,7 +32,7 @@
 
 ## [4. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
-### Blogs / Eagle
+### Blogs / Altium
 
 *   [Hackaday](https://hackaday.com) - Probably the most popular blog covering electronics and hardware hacking with a whole staff of writers.
 *   [Bald Engineer](https://www.baldengineer.com) - Project logs, tutorials and articles about electronics and embedded software by James Lewis.

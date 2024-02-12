@@ -1,6 +1,6 @@
 # Awesome List Updates on May 09 - May 15, 2016
 
-40 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -101,21 +101,15 @@
 
 ### Music Notation
 
-*   [MusicKit (⭐109)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
+*   [MusicKit (⭐108)](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
 
-## [9. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
-
-### Table of Contents / Code Analysis
-
-*   [Qafoo Quality Analyzer (⭐495)](https://github.com/Qafoo/QualityAnalyzer) - A tool to visualize metrics and source code.
-
-## [10. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [9. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Wargames
 
 *   [WebHacking](http://webhacking.kr) - Hacking challenges for web.
 
-## [11. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [10. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Courses
 
@@ -127,7 +121,7 @@
 *   [DSSTNE - Amazon's library for building Deep Learning models (⭐4.4k)](https://github.com/amznlabs/amazon-dsstne)
 *   [SyntaxNet - Google's syntactic parser - A TensorFlow dependency library (⭐75k)](https://github.com/tensorflow/models/tree/master/syntaxnet)
 
-## [12. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [11. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
@@ -167,13 +161,13 @@
 *   [How Composer helped shape the new way of writing PHP - Nils Adermann @ Drupal Camp Frankfurt](https://www.youtube.com/watch?v=C2jfLM-Egvg)
 *   [Composer Package Management - Nils Adermann @ T3CON12DE](https://www.youtube.com/watch?v=P4Qnp90TG0g)
 
-## [13. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [12. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Books / Videos
 
 *   [Laravel: Code Smart](https://leanpub.com/codesmart) by Dayle Rees
 
-## [14. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [13. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
@@ -183,7 +177,7 @@
 
 *   [The New Desktop: Electron, React, & Pixel-Perfect Native-Feeling Experiences](https://www.youtube.com/watch?v=jRPUB-D1Wx0)
 
-## [15. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [14. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
@@ -220,31 +214,31 @@
 
 *   [The Good, Bad, & Ugly of TensorFlow](https://indico.io/blog/the-good-bad-ugly-of-tensorflow/) - A survey of six months rapid evolution (+ tips/hacks and code to fix the ugly stuff), Dan Kuster at Indico, May 9, 2016
 
-## [16. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [15. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Downloading and Serving / Directory Navigation
 
-*   [aria2 (⭐30k)](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, BitTorrent and Metalink
+*   [aria2 (⭐32k)](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, BitTorrent and Metalink
 
 ### Shell Script Development / Directory Navigation
 
-*   [rebash (⭐67)](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
+*   [rebash (⭐72)](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
 *   [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
 
-## [17. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [16. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Ruby SDK
 
 *   [Repo :fire::fire::fire::fire::fire: (⭐3.4k)](https://github.com/aws/aws-sdk-ruby)
 
-## [18. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [17. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Libraries / To draw using canvas
 
 *   [fabric.js](http://fabricjs.com) provides interactive object model on top of canvas element
     and also has SVG-to-canvas (and canvas-to-SVG) parser
 
-## [19. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [18. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### [Sketching with CSS](http://www.sketchingwithcss.com)   Flexbox Guide by   [@sfioritto](https://github.com/sfioritto) / Slides and Notes
 
@@ -254,13 +248,13 @@
 
 *   [Flexbox layout (⭐18k)](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.
 
-## [20. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [19. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / Social, Economic and Political Networks
 
 *   [Polinode](https://www.polinode.com/) - Web-based platform to both analyze network data as well as collect network data via relationship-based surveys.
 
-## [21. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [20. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Reliability
 
@@ -270,7 +264,7 @@
 
 *   [Capacity Planning](https://www.usenix.org/system/files/login/articles/login_feb15_07_hixson.pdf)
 
-## [22. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [21. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Metaprogramming
 
@@ -282,7 +276,7 @@
 *   [Java Flight Recorder (JFR)](http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html) - Tool for collecting diagnostic and profiling data about a running Java application with almost no performance overhead.
 *   [jfr-flame-graph (⭐244)](https://github.com/chrishantha/jfr-flame-graph) - Converting JFR Method Profiling Samples to FlameGraph compatible format.
 
-## [23. Tips](/content/git-tips/tips/week/README.md)
+## [22. Tips](/content/git-tips/tips/week/README.md)
 
 ## List only the root and merge commits.
 
@@ -290,31 +284,21 @@
 git log --first-parent
 ```
 
-## [24. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [23. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Blogs
 
 *   [The Netflix Tech Blog](http://techblog.netflix.com/) - A Netflix blog focused on technology and technology issues.
 
-## [25. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C++ / Non-X86
-
-*   [The Ultimate Question of Programming, Refactoring, and Everything](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details)
-
-### Java / Bootstrap
-
-*   [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
-
-## [26. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [24. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Reproducible Research
 
-*   [checkpoint (⭐157)](https://github.com/RevolutionAnalytics/checkpoint) - Install packages from snapshots on the checkpoint server.
+*   [checkpoint (⭐163)](https://github.com/RevolutionAnalytics/checkpoint) - Install packages from snapshots on the checkpoint server.
 
 ### Web Technologies and Services
 
-*   [RSiteCatalyst (⭐126)](https://github.com/randyzwitch/RSiteCatalyst) - R client library for the Adobe Analytics.
+*   [RSiteCatalyst (⭐127)](https://github.com/randyzwitch/RSiteCatalyst) - R client library for the Adobe Analytics.
 
 ### Network Analysis
 
@@ -331,7 +315,7 @@ git log --first-parent
 *   [R Talk](http://rtalk.org) - News and discussions of statistical software and language R.
     *   [@Oliver Keyes](https://twitter.com/quominus), [@Jasmine Dumas](https://twitter.com/jasdumas), [@Ted Hart](https://twitter.com/emhrt_) and [@Mikhail Popov](https://twitter.com/bearloga).
 
-## [27. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [25. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -339,38 +323,38 @@ git log --first-parent
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Dora (⭐621)](https://github.com/nathanepstein/dora) - Tools for exploratory data analysis in Python.
+*   [Dora (⭐633)](https://github.com/nathanepstein/dora) - Tools for exploratory data analysis in Python.
 *   [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for python.
 
-## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [26. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Examples and funny stuff
 
-*   [oop (⭐294)](https://github.com/wojtekmach/oop) - OOP in Elixir.
+*   [oop (⭐298)](https://github.com/wojtekmach/oop) - OOP in Elixir.
 
 ### Office
 
-*   [xlsxir (⭐202)](https://github.com/kennellroxco/xlsxir) - Xlsx file parser with support for ISO 8601 date formats. Data is extracted to an Erlang Term Storage (ETS) table and is accessed through various functions.
+*   [xlsxir (⭐209)](https://github.com/kennellroxco/xlsxir) - Xlsx file parser with support for ISO 8601 date formats. Data is extracted to an Erlang Term Storage (ETS) table and is accessed through various functions.
 
-## [29. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [27. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Android
 
 *   [Collection of Android and Java questions divided by experience](https://medium.com/@neteinstein/not-another-android-interviews-article-the-questions-3dedafa30bec)
 
-## [30. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [28. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Misc / Other
 
-*   [picturefill (⭐10k)](https://github.com/scottjehl/picturefill) - A responsive image polyfill for \<picture>, srcset, sizes.
+*   [picturefill (⭐9.9k)](https://github.com/scottjehl/picturefill) - A responsive image polyfill for \<picture>, srcset, sizes.
 
-## [31. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [29. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Babel Plugins / Components
 
 *   [babel-preset-angular2 (⭐14)](https://github.com/shuhei/babel-preset-angular2) Babel presets for Angular2
 
-## [32. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [30. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Meteor
 
@@ -382,7 +366,7 @@ git log --first-parent
 
 
 
-## [33. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [31. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / Massachusetts <a id="massachusetts"></a>
 
@@ -444,7 +428,7 @@ Webpage: <http://www.pushcartcoffee.com/>
 | ---- | ----- | ------ | -------------------------------------------------------------------- | ------------------ |
 | ask  | ✔     | ✔      | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQaXynm) | Mon-Sun 8:00-22:00 |
 
-## [34. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [32. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries / Algebraic Data Types
 
@@ -481,7 +465,7 @@ Webpage: <http://www.pushcartcoffee.com/>
 *   [FPJS-Class (⭐94)](https://github.com/loop-recur/FPJS-Class) – Functional Programming learned through JavaScript.
 *   [functional-javascript-workshop (⭐2k)](https://github.com/timoxley/functional-javascript-workshop) – The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.
 
-## [35. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [33. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Downloads
 
@@ -491,13 +475,13 @@ Webpage: <http://www.pushcartcoffee.com/>
 
 *   [Audiograph](http://audiograph.xyz/) - Amazing audio visualization made by Matt DesLauriers.
 
-## [36. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [34. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / S companies
 
 *   Segment <https://segment.com/blog/categories/engineering/>
 
-## [37. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [35. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Testing
 
@@ -509,7 +493,7 @@ Webpage: <http://www.pushcartcoffee.com/>
     *   [sixpack (⭐1.7k)](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
     *   [splinter (⭐2.6k)](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
 
-## [38. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [36. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Databases
 
@@ -528,14 +512,14 @@ Webpage: <http://www.pushcartcoffee.com/>
 
 *   [JsonMapper (⭐1.4k)](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
 
-## [39. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [37. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Blog posts
 
 *   [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 *   [Monads Made Difficult](http://www.stephendiehl.com/posts/monads.html)
 
-## [40. Awesome Rethinkdb](/content/d3viant0ne/awesome-rethinkdb/week/README.md)
+## [38. Awesome Rethinkdb](/content/d3viant0ne/awesome-rethinkdb/week/README.md)
 
 ### Community
 

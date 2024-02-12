@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 19 - Jul 25, 2021
 
-51 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,7 +20,7 @@
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
-### Applications / Cryptocurrencies
+### Applications / Blockchain
 
 *   [Diem (⭐17k)](https://github.com/diem/diem) — Diem’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
 
@@ -32,96 +32,95 @@
 ### Applications / Emulators
 
 *   Intel 8080 CPU
-    *   [mohanson/i8080 (⭐97)](https://github.com/mohanson/i8080) — Intel 8080 cpu emulator by Rust
+    *   [mohanson/i8080 (⭐104)](https://github.com/mohanson/i8080) — Intel 8080 cpu emulator by Rust
 
 ### Applications / Games
 
 *   [cristicbz/rust-doom (⭐2.3k)](https://github.com/cristicbz/rust-doom) — A renderer for Doom, may progress to being a playable game
-*   [garkimasera/rusted-ruins (⭐454)](https://github.com/garkimasera/rusted-ruins) — Extensible open world rogue like game with pixel art
-*   [lifthrasiir/angolmois-rust (⭐99)](https://github.com/lifthrasiir/angolmois-rust) — A minimalistic music video game which supports the BMS format
-*   [ozkriff/zemeroth (⭐1.3k)](https://github.com/ozkriff/zemeroth) — A small 2D turn-based hexagonal strategy game
-*   [rhex (⭐143)](https://github.com/dpc/rhex) — hexagonal ascii roguelike
+*   [garkimasera/rusted-ruins (⭐471)](https://github.com/garkimasera/rusted-ruins) — Extensible open world rogue like game with pixel art
+*   [lifthrasiir/angolmois-rust (⭐100)](https://github.com/lifthrasiir/angolmois-rust) — A minimalistic music video game which supports the BMS format
+*   [ozkriff/zemeroth (⭐1.4k)](https://github.com/ozkriff/zemeroth) — A small 2D turn-based hexagonal strategy game
+*   [rhex (⭐153)](https://github.com/dpc/rhex) — hexagonal ascii roguelike
 
 ### Applications / Graphics
 
-*   [ivanceras/svgbob (⭐3.6k)](https://github.com/ivanceras/svgbob) — converts ASCII diagrams into SVG graphics
-*   [Twinklebear/tray\_rust (⭐505)](https://github.com/Twinklebear/tray_rust) — A ray tracer
+*   [ivanceras/svgbob (⭐3.7k)](https://github.com/ivanceras/svgbob) — converts ASCII diagrams into SVG graphics
+*   [Twinklebear/tray\_rust (⭐510)](https://github.com/Twinklebear/tray_rust) — A ray tracer
 
 ### Applications / Image processing
 
-*   [Imager (⭐547)](https://github.com/imager-io/imager) — Automated image optimization.
+*   [Imager (⭐578)](https://github.com/imager-io/imager) — Automated image optimization.
 
 ### Applications / Security tools
 
-*   [kpcyrd/authoscope (⭐365)](https://github.com/kpcyrd/authoscope) — A scriptable network authentication cracker
-*   [kpcyrd/sniffglue (⭐977)](https://github.com/kpcyrd/sniffglue) — A secure multithreaded packet sniffer
-*   [ripasso (⭐638)](https://github.com/cortex/ripasso/) — A password manager, filesystem compatible with pass
-*   [rustscan/rustscan (⭐11k)](https://github.com/RustScan/RustScan) — Make Nmap faster with this port scanning tool [![build badge](https://github.com/RustScan/RustScan/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/RustScan/RustScan/actions?query=workflow%3A%22Continuous+integration%22)
+*   [kpcyrd/authoscope (⭐377)](https://github.com/kpcyrd/authoscope) — A scriptable network authentication cracker
+*   [kpcyrd/sniffglue (⭐1k)](https://github.com/kpcyrd/sniffglue) — A secure multithreaded packet sniffer
+*   [ripasso (⭐662)](https://github.com/cortex/ripasso/) — A password manager, filesystem compatible with pass
+*   [rustscan/rustscan (⭐12k)](https://github.com/RustScan/RustScan) — Make Nmap faster with this port scanning tool [![build badge](https://github.com/RustScan/RustScan/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/RustScan/RustScan/actions?query=workflow%3A%22Continuous+integration%22)
 
 ### Applications / System tools
 
-*   [Luminarys/synapse (⭐835)](https://github.com/Luminarys/synapse) — Flexible and fast BitTorrent daemon.
+*   [Luminarys/synapse (⭐844)](https://github.com/Luminarys/synapse) — Flexible and fast BitTorrent daemon.
 *   [m4b/bingrep (⭐1.7k)](https://github.com/m4b/bingrep) — Greps through binaries from various OSs and architectures, and colors them.
-*   [mxseev/logram (⭐94)](https://github.com/mxseev/logram) — Push log files' updates to Telegram
-*   [nivekuil/rip (⭐1.1k)](https://github.com/nivekuil/rip) - A safe and ergonomic alternative to `rm`
+*   [mxseev/logram (⭐95)](https://github.com/mxseev/logram) — Push log files' updates to Telegram
+*   [nivekuil/rip (⭐1.2k)](https://github.com/nivekuil/rip) - A safe and ergonomic alternative to `rm`
 
 ### Applications / Text editors
 
-*   [vamolessa/pepper (⭐366)](https://github.com/vamolessa/pepper) \[[pepper](https://crates.io/crates/pepper)] — An opinionated modal editor to simplify code editing from the terminal [![build badge](https://github.com/vamolessa/pepper/workflows/rust/badge.svg?branch=master)](https://github.com/vamolessa/pepper)
+*   [vamolessa/pepper (⭐373)](https://github.com/vamolessa/pepper) \[[pepper](https://crates.io/crates/pepper)] — An opinionated modal editor to simplify code editing from the terminal [![build badge](https://github.com/vamolessa/pepper/workflows/rust/badge.svg?branch=master)](https://github.com/vamolessa/pepper)
 
 ### Applications / Text processing
 
-*   [Lisprez/so\_stupid\_search (⭐148)](https://github.com/Lisprez/so_stupid_search) — A simple and fast string search tool for human beings
+*   [Lisprez/so\_stupid\_search (⭐157)](https://github.com/Lisprez/so_stupid_search) — A simple and fast string search tool for human beings
 *   [ripgrep](https://crates.io/crates/ripgrep) — combines the usability of The Silver Searcher with the raw speed of grep
 
 ### Applications / Utilities
 
-*   [yaa110/cb (⭐81)](https://github.com/yaa110/cb) — Command line interface to manage clipboard
+*   [yaa110/cb (⭐83)](https://github.com/yaa110/cb) — Command line interface to manage clipboard
 
 ### Applications / Web Servers
 
-*   [ronanyeah/rust-hasura (⭐136)](https://github.com/ronanyeah/rust-hasura) — A demonstration of how a Rust GraphQL server can be used as a remote schema with [Hasura](https://hasura.io/) ![Rust](https://github.com/ronanyeah/rust-hasura/workflows/Rust/badge.svg?branch=master)
-*   [thecoshman/http (⭐409)](https://github.com/thecoshman/http) — Host These Things Please — A basic http server for hosting a folder fast and simply
+*   [ronanyeah/rust-hasura (⭐139)](https://github.com/ronanyeah/rust-hasura) — A demonstration of how a Rust GraphQL server can be used as a remote schema with [Hasura](https://hasura.io/) ![Rust](https://github.com/ronanyeah/rust-hasura/workflows/Rust/badge.svg?branch=master)
+*   [thecoshman/http (⭐424)](https://github.com/thecoshman/http) — Host These Things Please — A basic http server for hosting a folder fast and simply
 
 ### Development tools / Web Servers
 
-*   [rust-lang/rustfix (⭐844)](https://github.com/rust-lang/rustfix)  — automatically applies the suggestions made by rustc
-*   [Rustup (⭐5.6k)](https://github.com/rust-lang/rustup) — the Rust toolchain installer [![build badge](https://github.com/rust-lang/rustup/workflows/Linux%20\(master\)/badge.svg?branch=master)](https://github.com/rust-lang/rustup/actions)
+*   [Rustup (⭐5.7k)](https://github.com/rust-lang/rustup) — the Rust toolchain installer [![build badge](https://github.com/rust-lang/rustup/workflows/Linux%20\(master\)/badge.svg?branch=master)](https://github.com/rust-lang/rustup/actions)
 
 ### Development tools / FFI
 
 *   C++
-    *   [dtolnay/cxx (⭐5.1k)](https://github.com/dtolnay/cxx) — Safe interop between Rust and C++ [![build badge](https://img.shields.io/badge/github-dtolnay/cxx-8da0cb?style=for-the-badge\&labelColor=555555\&logo=github)](https://github.com/dtolnay/cxx)
+    *   [dtolnay/cxx (⭐5.3k)](https://github.com/dtolnay/cxx) — Safe interop between Rust and C++ [![build badge](https://img.shields.io/badge/github-dtolnay/cxx-8da0cb?style=for-the-badge\&labelColor=555555\&logo=github)](https://github.com/dtolnay/cxx)
     *   [rust-cpp](https://crates.io/crates/cpp) - Embed C++ code directly in Rust. [![Build status](https://ci.appveyor.com/api/projects/status/uu76vmcrwnjqra0u/branch/master?svg=true)](https://ci.appveyor.com/project/mystor/rust-cpp/branch/master)
-    *   [rust-lang/rust-bindgen (⭐3.7k)](https://github.com/rust-lang/rust-bindgen) — A Rust bindings generator
+    *   [rust-lang/rust-bindgen (⭐3.9k)](https://github.com/rust-lang/rust-bindgen) — A Rust bindings generator
 
 ### Development tools / Profiling
 
-*   [sharkdp/hyperfine (⭐18k)](https://github.com/sharkdp/hyperfine) — A command-line benchmarking tool
+*   [sharkdp/hyperfine (⭐19k)](https://github.com/sharkdp/hyperfine) — A command-line benchmarking tool
 
 ### Libraries / Artificial Intelligence
 
-*   [Martin1887/oxigen (⭐150)](https://github.com/Martin1887/oxigen) — Fast, parallel, extensible and adaptable genetic algorithm library. A example using this library solves the N Queens problem for N = 255 in only few seconds and using less than 1 MB of RAM.
-*   [willi-kappler/darwin-rs (⭐108)](https://github.com/willi-kappler/darwin-rs) — Evolutionary algorithms with Rust
-*   [LaurentMazare/tch-rs (⭐3.3k)](https://github.com/LaurentMazare/tch-rs) — Rust language bindings for PyTorch.
-*   [maciejkula/rustlearn (⭐597)](https://github.com/maciejkula/rustlearn) — Machine learning crate for Rust. [![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://app.circleci.com/pipelines/github/maciejkula/rustlearn)
-*   [rust-ml/linfa (⭐3k)](https://github.com/rust-ml/linfa) — Machine learning framework.
-*   [tensorflow/rust (⭐4.7k)](https://github.com/tensorflow/rust) — Rust language bindings for TensorFlow.
+*   [Martin1887/oxigen (⭐155)](https://github.com/Martin1887/oxigen) — Fast, parallel, extensible and adaptable genetic algorithm library. A example using this library solves the N Queens problem for N = 255 in only few seconds and using less than 1 MB of RAM.
+*   [willi-kappler/darwin-rs (⭐111)](https://github.com/willi-kappler/darwin-rs) — Evolutionary algorithms with Rust
+*   [LaurentMazare/tch-rs (⭐3.6k)](https://github.com/LaurentMazare/tch-rs) — Rust language bindings for PyTorch.
+*   [maciejkula/rustlearn (⭐604)](https://github.com/maciejkula/rustlearn) — Machine learning crate for Rust. [![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://app.circleci.com/pipelines/github/maciejkula/rustlearn)
+*   [rust-ml/linfa (⭐3.2k)](https://github.com/rust-ml/linfa) — Machine learning framework.
+*   [tensorflow/rust (⭐4.8k)](https://github.com/tensorflow/rust) — Rust language bindings for TensorFlow.
 
 ### Libraries / Astronomy
 
-*   [saurvs/astro-rust (⭐231)](https://github.com/saurvs/astro-rust) — astronomy for Rust
+*   [saurvs/astro-rust (⭐246)](https://github.com/saurvs/astro-rust) — astronomy for Rust
 
 ### Libraries / Asynchronous
 
-*   [rust-lang/futures-rs (⭐5k)](https://github.com/rust-lang/futures-rs) — Zero-cost futures in Rust
-*   [TeaEntityLab/fpRust (⭐108)](https://github.com/TeaEntityLab/fpRust) — Monad/MonadIO, Handler, Coroutine/doNotation, Functional Programming features for Rust
-*   [Xudong-Huang/may (⭐1.5k)](https://github.com/Xudong-Huang/may) — rust stackful coroutine library
+*   [rust-lang/futures-rs (⭐5.2k)](https://github.com/rust-lang/futures-rs) — Zero-cost futures in Rust
+*   [TeaEntityLab/fpRust (⭐114)](https://github.com/TeaEntityLab/fpRust) — Monad/MonadIO, Handler, Coroutine/doNotation, Functional Programming features for Rust
+*   [Xudong-Huang/may (⭐1.6k)](https://github.com/Xudong-Huang/may) — rust stackful coroutine library
 
 ### Libraries / Audio and Music
 
 *   [hound](https://crates.io/crates/hound) — A WAV encoding and decoding library
-*   [ozankasikci/rust-music-theory (⭐592)](https://github.com/ozankasikci/rust-music-theory) — A Rust music theory library
+*   [ozankasikci/rust-music-theory (⭐610)](https://github.com/ozankasikci/rust-music-theory) — A Rust music theory library
 
 ### Libraries / Authentication
 
@@ -129,38 +128,38 @@
 
 ### Libraries / Caching
 
-*   [mozilla/sccache (⭐4.6k)](https://github.com/mozilla/sccache/) - Shared Compilation Cache, great for Rust compilation
+*   [mozilla/sccache (⭐5.2k)](https://github.com/mozilla/sccache/) - Shared Compilation Cache, great for Rust compilation
 
 ### Libraries / Configuration
 
-*   [mehcode/config-rs (⭐2.1k)](https://github.com/mehcode/config-rs) \[[config](https://crates.io/crates/config)] — Layered configuration system for Rust applications (with strong support for 12-factor applications).
+*   [mehcode/config-rs (⭐2.2k)](https://github.com/mehcode/config-rs) \[[config](https://crates.io/crates/config)] — Layered configuration system for Rust applications (with strong support for 12-factor applications).
 
 ### Libraries / Cryptography
 
-*   [conradkleinespel/rooster (⭐137)](https://github.com/conradkleinespel/rooster) \[[rooster](https://crates.io/crates/rooster)] — Simple password manager to use in your terminal
-*   [orion-rs/orion (⭐525)](https://github.com/orion-rs/orion) — This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse. [![Tests](https://github.com/orion-rs/orion/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/orion-rs/orion/actions/workflows/test.yml)
-*   [RustCrypto/hashes (⭐1.5k)](https://github.com/RustCrypto/hashes) — Collection of cryptographic hash functions written in pure Rust
+*   [conradkleinespel/rooster (⭐147)](https://github.com/conradkleinespel/rooster) \[[rooster](https://crates.io/crates/rooster)] — Simple password manager to use in your terminal
+*   [orion-rs/orion (⭐535)](https://github.com/orion-rs/orion) — This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse. [![Tests](https://github.com/orion-rs/orion/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/orion-rs/orion/actions/workflows/test.yml)
+*   [RustCrypto/hashes (⭐1.6k)](https://github.com/RustCrypto/hashes) — Collection of cryptographic hash functions written in pure Rust
 
 ### Libraries / Email
 
-*   [jdrouet/mrml (⭐260)](https://github.com/jdrouet/mrml) - A library to generate nice email templates working on any mail client.
-*   [lettre/lettre (⭐1.5k)](https://github.com/lettre/lettre) — an SMTP-library for Rust [![CI](https://github.com/lettre/lettre/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/lettre/lettre/actions/workflows/test.yml)
-*   [staktrace/mailparse (⭐164)](https://github.com/staktrace/mailparse) \[[mailparse](https://crates.io/crates/mailparse)] — A library for parsing real-world email files
+*   [jdrouet/mrml (⭐284)](https://github.com/jdrouet/mrml) - A library to generate nice email templates working on any mail client.
+*   [lettre/lettre (⭐1.6k)](https://github.com/lettre/lettre) — an SMTP-library for Rust [![CI](https://github.com/lettre/lettre/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/lettre/lettre/actions/workflows/test.yml)
+*   [staktrace/mailparse (⭐170)](https://github.com/staktrace/mailparse) \[[mailparse](https://crates.io/crates/mailparse)] — A library for parsing real-world email files
 
 ### Libraries / Encoding
 
 *   XML
-    *   [Florob/RustyXML (⭐98)](https://github.com/Florob/RustyXML) — an XML parser written in Rust
-    *   [media-io/yaserde (⭐152)](https://github.com/media-io/yaserde) — Yet Another Serializer/Deserializer specialized for XML
-    *   [netvl/xml-rs (⭐451)](https://github.com/netvl/xml-rs) — A streaming XML library
-    *   [shepmaster/sxd-document (⭐147)](https://github.com/shepmaster/sxd-document) — An XML library in Rust
-    *   [shepmaster/sxd-xpath (⭐112)](https://github.com/shepmaster/sxd-xpath) — An XPath library in Rust
-    *   [tafia/quick-xml (⭐969)](https://github.com/tafia/quick-xml) — High performance XML pull reader/writer
+    *   [Florob/RustyXML (⭐99)](https://github.com/Florob/RustyXML) — an XML parser written in Rust
+    *   [media-io/yaserde (⭐160)](https://github.com/media-io/yaserde) — Yet Another Serializer/Deserializer specialized for XML
+    *   [netvl/xml-rs (⭐457)](https://github.com/netvl/xml-rs) — A streaming XML library
+    *   [shepmaster/sxd-document (⭐153)](https://github.com/shepmaster/sxd-document) — An XML library in Rust
+    *   [shepmaster/sxd-xpath (⭐117)](https://github.com/shepmaster/sxd-xpath) — An XPath library in Rust
+    *   [tafia/quick-xml (⭐1.1k)](https://github.com/tafia/quick-xml) — High performance XML pull reader/writer
 
 ### Libraries / Graphics
 
 *   [gfx-rs/gfx (⭐5.3k)](https://github.com/gfx-rs/gfx) — A high-performance, bindless graphics API for Rust.
-*   [gfx-rs/wgpu (⭐9k)](https://github.com/gfx-rs/wgpu) - Native WebGPU implementation based on gfx-hal. [![build badge](https://github.com/gfx-rs/wgpu/workflows/CI/badge.svg?branch=master)](https://github.com/gfx-rs/wgpu/actions)
+*   [gfx-rs/wgpu (⭐10k)](https://github.com/gfx-rs/wgpu) - Native WebGPU implementation based on gfx-hal. [![build badge](https://github.com/gfx-rs/wgpu/workflows/CI/badge.svg?branch=master)](https://github.com/gfx-rs/wgpu/actions)
 
 ### Libraries / GUI
 
@@ -169,42 +168,37 @@
 
 ### Libraries / Image processing
 
-*   [twistedfall/opencv-rust (⭐1.5k)](https://github.com/twistedfall/opencv-rust) — Rust bindings for OpenCV
+*   [twistedfall/opencv-rust (⭐1.7k)](https://github.com/twistedfall/opencv-rust) — Rust bindings for OpenCV
 
 ### Libraries / Logging
 
-*   [estk/log4rs (⭐856)](https://github.com/estk/log4rs) — highly configurable logging framework modeled after Java's Logback and log4j libraries [![CircleCI](https://circleci.com/gh/estk/log4rs.svg?style=shield)](https://app.circleci.com/pipelines/github/estk/log4rs)
-*   [seanmonstar/pretty-env-logger (⭐443)](https://github.com/seanmonstar/pretty-env-logger) — A pretty, easy-to-use logger for Rust.
-
-### Libraries / Mobile
-
-*   Android / iOS
-    *   [ivanschuetz/rust\_android\_ios (⭐219)](https://github.com/ivanschuetz/rust_android_ios) — An example of using a shared Rust lib for Android and iOS using rust-swig and cbindgen respectively.
+*   [estk/log4rs (⭐894)](https://github.com/estk/log4rs) — highly configurable logging framework modeled after Java's Logback and log4j libraries [![CircleCI](https://circleci.com/gh/estk/log4rs.svg?style=shield)](https://app.circleci.com/pipelines/github/estk/log4rs)
+*   [seanmonstar/pretty-env-logger (⭐456)](https://github.com/seanmonstar/pretty-env-logger) — A pretty, easy-to-use logger for Rust.
 
 ### Libraries / Network programming
 
 *   CoAP
-    *   [Covertness/coap-rs (⭐184)](https://github.com/Covertness/coap-rs) — A [Constrained Application Protocol(CoAP)](https://datatracker.ietf.org/doc/html/rfc7252) library for Rust.
+    *   [Covertness/coap-rs (⭐192)](https://github.com/Covertness/coap-rs) — A [Constrained Application Protocol(CoAP)](https://datatracker.ietf.org/doc/html/rfc7252) library for Rust.
 *   Docker
-    *   [fussybeaver/bollard (⭐582)](https://github.com/fussybeaver/bollard) — Docker daemon API in Rust
+    *   [fussybeaver/bollard (⭐671)](https://github.com/fussybeaver/bollard) — Docker daemon API in Rust
 
 ### Libraries / Parsing
 
-*   [freestrings/jsonpath (⭐104)](https://github.com/freestrings/jsonpath) — [JsonPath](https://goessner.net/articles/JsonPath/) engine written in Rust. Webassembly and Javascript support too
+*   [freestrings/jsonpath (⭐111)](https://github.com/freestrings/jsonpath) — [JsonPath](https://goessner.net/articles/JsonPath/) engine written in Rust. Webassembly and Javascript support too
 
 ### Libraries / Scripting
 
-*   [PistonDevelopers/dyon (⭐1.6k)](https://github.com/PistonDevelopers/dyon) — A rusty dynamically typed scripting language
+*   [PistonDevelopers/dyon (⭐1.7k)](https://github.com/PistonDevelopers/dyon) — A rusty dynamically typed scripting language
 
 ### Libraries / Text processing
 
-*   [Daniel-Liu-c0deb0t/triple\_accel (⭐88)](https://github.com/Daniel-Liu-c0deb0t/triple_accel) \[[triple\_accel](https://crates.io/crates/triple_accel)] - Rust edit distance routines accelerated using SIMD; supports fast Hamming, Levenshtein, restricted Damerau-Levenshtein, etc. distance calculations and string search [![build badge](https://github.com/Daniel-Liu-c0deb0t/triple_accel/workflows/Test/badge.svg?branch=master)](https://github.com/Daniel-Liu-c0deb0t/triple_accel/actions)
-*   [greyblake/whatlang-rs (⭐892)](https://github.com/greyblake/whatlang-rs) — Natural language detection library based on trigrams
-*   [Lucretiel/joinery (⭐82)](https://github.com/Lucretiel/joinery) \[[joinery](https://crates.io/crates/joinery)] – Generic string + iterable joining
+*   [Daniel-Liu-c0deb0t/triple\_accel (⭐92)](https://github.com/Daniel-Liu-c0deb0t/triple_accel) \[[triple\_accel](https://crates.io/crates/triple_accel)] - Rust edit distance routines accelerated using SIMD; supports fast Hamming, Levenshtein, restricted Damerau-Levenshtein, etc. distance calculations and string search [![build badge](https://github.com/Daniel-Liu-c0deb0t/triple_accel/workflows/Test/badge.svg?branch=master)](https://github.com/Daniel-Liu-c0deb0t/triple_accel/actions)
+*   [greyblake/whatlang-rs (⭐932)](https://github.com/greyblake/whatlang-rs) — Natural language detection library based on trigrams
+*   [Lucretiel/joinery (⭐91)](https://github.com/Lucretiel/joinery) \[[joinery](https://crates.io/crates/joinery)] – Generic string + iterable joining
 
 ### Libraries / Virtualization
 
-*   [unicorn-rs/unicorn-rs (⭐130)](https://github.com/unicorn-rs/unicorn-rs) — Rust bindings for the unicorn CPU emulator
+*   [unicorn-rs/unicorn-rs (⭐131)](https://github.com/unicorn-rs/unicorn-rs) — Rust bindings for the unicorn CPU emulator
 
 ### Registries / Web programming
 
@@ -212,7 +206,7 @@
 
 ### Resources / Web programming
 
-*   [RustBooks (⭐3.6k)](https://github.com/sger/RustBooks) — list of RustBooks
+*   [RustBooks (⭐3.8k)](https://github.com/sger/RustBooks) — list of RustBooks
 *   [RustCamp 2015 Talks](https://www.youtube.com/playlist?list=PLE7tQUdRKcybdIw61JpCoo89i4pWU5f_t)
 
 ## [4. Awesome Python](/content/vinta/awesome-python/week/README.md)
@@ -418,14 +412,14 @@
 
 ### HTTP Servers / Clack plugins
 
-*   [clath (⭐35)](https://github.com/BnMcGn/clath) - a single sign-on
+*   [clath (⭐36)](https://github.com/BnMcGn/clath) - a single sign-on
     middleware for Clack. It allows basic login with OAuth1.0a, OAuth2
     and OpenID. At the time of writing, it supports authentication from
     Google, Twitter, LinkedIn, StackExchange, Reddit and Github. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Shells, shells interfaces / Third-party APIs
 
-*   [shcl (⭐296)](https://github.com/bradleyjensen/shcl) - a POSIX-like shell in Common Lisp. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [shcl (⭐304)](https://github.com/bradleyjensen/shcl) - a POSIX-like shell in Common Lisp. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### System administration / Third-party APIs
 
@@ -433,14 +427,14 @@
 
 ### Apps / Third-party APIs
 
-*   [Slite (⭐48)](https://github.com/tdrhq/slite/) - a SLIme-based TEst runner for FiveAM Tests. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)
+*   [Slite (⭐49)](https://github.com/tdrhq/slite/) - a SLIme-based TEst runner for FiveAM Tests. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0)
     *   Slite interactively runs your Common Lisp tests (at the time of writing only FiveAM is supported). It allows you to see the summary of test failures, jump to test definitions, rerun tests with the debugger, all from inside Emacs.
 
 ### Project skeletons / Third-party APIs
 
-*   [cl-project (⭐217)](https://github.com/fukamachi/cl-project) - General modern project skeletons. [LLGPL](http://opensource.franz.com/preamble.html).
-*   [cl-project-with-docs (⭐3)](https://github.com/40ants/cl-project-with-docs) - uses Sphinx and reStructured text to render nice and readable HTML documentation. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   [cl-cookieproject (⭐52)](https://github.com/vindarel/cl-cookieproject) -  Generate a ready-to-use Common Lisp project. Not in Quicklisp. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-project (⭐226)](https://github.com/fukamachi/cl-project) - General modern project skeletons. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-project-with-docs (⭐4)](https://github.com/40ants/cl-project-with-docs) - uses Sphinx and reStructured text to render nice and readable HTML documentation. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-cookieproject (⭐55)](https://github.com/vindarel/cl-cookieproject) -  Generate a ready-to-use Common Lisp project. Not in Quicklisp. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   test definitions, entry point to run from sources, build a binary, Roswell integration…
 
 ## [16. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
@@ -492,13 +486,13 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-ucloud (⭐65)](https://github.com/ucloud/terraform-provider-ucloud) - Provider to manage UCloud resources.
+*   [terraform-provider-ucloud (⭐66)](https://github.com/ucloud/terraform-provider-ucloud) - Provider to manage UCloud resources.
 
 ## [22. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Installation and Setup / Testing Tools
 
-*   [Lintier (⭐16)](https://github.com/josh-stillman/lintier) - CLI to quickly scaffold an ESLint & Prettier setup in a TypeScript project.
+*   [Lintier (⭐17)](https://github.com/josh-stillman/lintier) - CLI to quickly scaffold an ESLint & Prettier setup in a TypeScript project.
 
 ## [23. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -510,15 +504,9 @@
 
 ### Themes
 
-*   [tmux-nova (⭐129)](https://github.com/o0th/tmux-nova) Fully customizable tmux theme
+*   [tmux-nova (⭐142)](https://github.com/o0th/tmux-nova) Fully customizable tmux theme
 
-## [25. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Java / Bootstrap
-
-*   [Using RxJava 2 Tutorial](https://www.vogella.com/tutorials/RxJava/article.html) - Lars Vogel, Simon Scholz (HTML)
-
-## [26. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [25. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Code generators / Individual Podcast episodes
 
@@ -607,29 +595,29 @@
 
 *   [elm-light-table (⭐134)](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
 
-## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Fuzzy Finder / Diagnostics
 
-*   [camspiers/snap (⭐407)](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
+*   [camspiers/snap (⭐436)](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [MunifTanjim/nui.nvim (⭐1.1k)](https://github.com/MunifTanjim/nui.nvim) - UI Component Library.
+*   [MunifTanjim/nui.nvim (⭐1.3k)](https://github.com/MunifTanjim/nui.nvim) - UI Component Library.
 
-## [28. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [27. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / WIP
 
 *   [VEML7700](https://crates.io/crates/veml7700) - I2C - Ambient light sensors - ![crates.io](https://img.shields.io/crates/v/veml7700.svg)
 
-## [29. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [28. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Utilities
 
 *   [gowarcserver (⭐11)](https://github.com/nlnwa/gowarcserver) - [BadgerDB (⭐13k)](https://github.com/dgraph-io/badger)-based capture index (CDX) and WARC record server, used to index and serve WARC files (Go).
 
-## [30. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [29. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Stub packages
 
@@ -641,15 +629,15 @@
 
 ### Integrations / Mypy plugins
 
-*   [nbQA (⭐815)](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
+*   [nbQA (⭐898)](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
 
-## [31. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [30. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Components / Color Picker
 
-*   [react-color (⭐132)](https://github.com/uiwjs/react-color) - Is a tiny color picker widget component for React apps.
+*   [react-color (⭐182)](https://github.com/uiwjs/react-color) - Is a tiny color picker widget component for React apps.
 
-## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [31. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -659,22 +647,22 @@
 
 *   [vue-path-store (⭐4)](https://github.com/kouts/vue-path-store) - Simple state management that uses the dot notation path syntax, also comes with Vuex and Pinia plugins.
 
-## [33. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [32. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
-*   [vitesse-lite (⭐941)](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
-*   [vitesse-webext (⭐2.3k)](https://github.com/antfu/vitesse-webext) - WebExtension Vite Starter Template.
+*   [vitesse-lite (⭐1k)](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
+*   [vitesse-webext (⭐2.5k)](https://github.com/antfu/vitesse-webext) - WebExtension Vite Starter Template.
 
 ### Templates / React
 
-*   [Tropical (⭐142)](https://github.com/bensmithett/tropical) - React, Storybook, MDX, Fela, SSR prerendering, and [islands architecture](https://www.npmjs.com/package/tropical-islands).
+*   [Tropical (⭐150)](https://github.com/bensmithett/tropical) - React, Storybook, MDX, Fela, SSR prerendering, and [islands architecture](https://www.npmjs.com/package/tropical-islands).
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@nabla/vite-plugin-eslint (⭐94)](https://github.com/nabla/vite-plugin-eslint) - Runs ESLint asynchronously in a worker to keep HMR fast.
+*   [@nabla/vite-plugin-eslint (⭐101)](https://github.com/nabla/vite-plugin-eslint) - Runs ESLint asynchronously in a worker to keep HMR fast.
 
-## [34. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [33. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Vendor Data Resources / Urban Observation
 
@@ -695,7 +683,7 @@
 
 *   [Harvard Dataverse](https://dataverse.harvard.edu/) - Harvard Dataverse is a repository for research data. It contains a wide variety of datasets spanning the sciences, many with public domain dedications.
 
-## [35. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [34. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Tutorials / Other Tools
 
@@ -703,54 +691,47 @@
 
 ### Open Source Projects / Other Tools
 
-*   [DogeAPI (⭐120)](https://github.com/yezz123/DogeAPI) - API with high performance to create a simple blog and CRUD with OAuth2PasswordBearer.
+*   [DogeAPI (⭐125)](https://github.com/yezz123/DogeAPI) - API with high performance to create a simple blog and CRUD with OAuth2PasswordBearer.
 *   [JeffQL (⭐28)](https://github.com/yezz123/JeffQL/) - Simple authentication and login API using GraphQL and JWT.
 
-## [36. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [35. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Websites and Resources
 
 *   [Biomindmap](https://biomindmap.com/) - Database of interventions from research studies with a network viz option.
 
-## [37. Awesome Gif](/content/davisonio/awesome-gif/week/README.md)
+## [36. Awesome Gif](/content/davisonio/awesome-gif/week/README.md)
 
 ### Libraries / C++
 
 *   [msf\_gif (⭐177)](https://github.com/notnullnotvoid/msf_gif) - C/C++ single-header library for creating animated GIFs.
 
-## [38. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [37. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
-*   [JAXopt (⭐801)](https://github.com/google/jaxopt) - Hardware accelerated (GPU/TPU), batchable and differentiable optimizers in JAX. <img src="https://img.shields.io/github/stars/google/jaxopt?style=social" align="center">
-*   [PIX (⭐329)](https://github.com/deepmind/dm_pix) - PIX is an image processing library in JAX, for JAX. <img src="https://img.shields.io/github/stars/deepmind/dm_pix?style=social" align="center">
+*   [JAXopt (⭐835)](https://github.com/google/jaxopt) - Hardware accelerated (GPU/TPU), batchable and differentiable optimizers in JAX. <img src="https://img.shields.io/github/stars/google/jaxopt?style=social" align="center">
+*   [PIX (⭐336)](https://github.com/deepmind/dm_pix) - PIX is an image processing library in JAX, for JAX. <img src="https://img.shields.io/github/stars/deepmind/dm_pix?style=social" align="center">
 
-## [39. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [38. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Godot SQLite (⭐564)](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project (Godot 3.2+).
+*   [Godot SQLite (⭐656)](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project (Godot 3.2+).
 
-## [40. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [39. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
-### Image Synthesis / Promptism
+### Image Synthesis / Multi-agents
 
 *   [DALL·E](https://openai.com/blog/dall-e/): Creating Images from Text
 
-### Image Synthesis / Generative Adversarial Networks (GANs)
-
-*   [Latent Space Exploration with StyleGAN2](https://amarsaini.github.io/Epoching-Blog/jupyter/2020/08/10/Latent-Space-Exploration-with-StyleGAN2.html)
-*   [Let's Talk Energy Usage of Generative Machine Learning](https://www.youtube.com/watch?v=3nViZGCkAhU\&t=1276s)
-*   [StyleGAN: Use machine learning to generate and customize realistic images | by Jamshed Khan | Heartbeat](https://heartbeat.fritz.ai/stylegans-use-machine-learning-to-generate-and-customize-realistic-images-c943388dc672)
-*   [Audio-reactive Latent Interpolations with StyleGAN](https://wavefunk.xyz/audio-reactive-stylegan)
-
-### People and works / Interesting Youtube Channels
+### Interesting Youtube Channels / Deforum
 
 *   [Artificial Images](https://www.youtube.com/channel/UCaZuPdmZ380SFUMKHVsv_AA): Demos and explanations to make art using machine learning
 *   [Glenn Marshall Neural Art](https://www.youtube.com/user/glenniszen)
 *   [How to Generate Art - Intro to Deep Learning #8](https://www.youtube.com/watch?v=Oex0eWoU7AQ)
 
-### People and works / Artists and Artworks
+### Artists and Artworks / Deforum
 
 *   [Learning to See – Memo Akten | Mehmet Selim Akten | The Mega Super Awesome Visuals Company](http://www.memo.tv/works/learning-to-see/)
 *   [Alien Dreams: An Emerging Art Scene - ML@B Blog](https://ml.berkeley.edu/blog/posts/clip-art/)
@@ -764,18 +745,18 @@
 *   [Helena Sarin – Artist Profile (Photos, Videos, Exhibitions) — AIArtists.org](https://aiartists.org/helena-sarin)
 *   [Images Generated By AI Machines (@images\_ai) / Twitter](https://twitter.com/images_ai?s=08)
 
-### People and works / Galleries
+### Galleries / Deforum
 
 *   [AICAN](https://aican.io/)
 *   [Ganvas Studio - Neural Network Paintings](https://ganvas.studio/)
 *   [Syn Feather Sweater / STRELITZIA – HATRA E STORE](https://hatroid.com/collections/synthetic-feather/products/syn-feather-sweater-strelitzia)
 
-### Related Awesome Lists / Galleries
+### Related Awesome Lists / Deforum
 
-*   [margaretmz/awesome-ai-art-design (⭐24)](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
+*   [margaretmz/awesome-ai-art-design (⭐26)](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
 *   [justinpinkney/awesome-pretrained-stylegan2 (⭐1.2k)](https://github.com/justinpinkney/awesome-pretrained-stylegan2): A collection of pre-trained StyleGAN 2 models to download
 
-## [41. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [40. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Animals
 
@@ -1047,19 +1028,19 @@
 
 
 
-## [42. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [41. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authorization / AWS policy tools
 
 *   [ConsoleMe (⭐3k)](https://github.com/Netflix/consoleme) - A self-service tool for AWS that provides end-users and administrators credentials and console access to the onboarded accounts based on their authorization level of managing permissions across multiple accounts, while encouraging least-privilege permissions.
 
-## [43. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [42. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
 
 *   Projectium Network - <https://projectium.network>
 
-## [44. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [43. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
@@ -1069,13 +1050,13 @@
 
 *   [4 Day Week](https://4dayweek.io) - Software jobs with a better work / life balance.
 
-## [45. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [44. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Tools & Utilities / Others
 
 *   [Fluxor (⭐1.1k)](https://github.com/mrpmorris/fluxor) - ![GitHub stars](https://img.shields.io/github/stars/mrpmorris/fluxor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mrpmorris/fluxor?style=flat-square\&cacheSeconds=86400) Zero boilerplate Flux/Redux library for DotNet.
 
-## [46. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [45. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### Supported Distributions / Pengwin Enterprise
 
@@ -1088,7 +1069,7 @@
 
 ### WSL Tools / For Managing WSL Installations
 
-*   [Ansible-WSL (⭐56)](https://github.com/Wintus/Ansible-WSL) - Provision WSL using Ansible. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [Ansible-WSL (⭐55)](https://github.com/Wintus/Ansible-WSL) - Provision WSL using Ansible. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [Raft WSL](https://www.microsoft.com/store/apps/9MSMJQD017X7) - Raft is a Windows Subsystem for Linux (WSL) distribution manager in native C#/XAML. 💰
 
 ### Books / Miscellaneous Tools
@@ -1096,25 +1077,25 @@
 *   [Pro Windows Subsystem for Linux (WSL): Powerful Tools and Practices for Cross-Platform Development and Collaboration](https://www.amazon.com/Hayden-Barnes-ebook/dp/B096TRZMW1)
 *   [Windows Subsystem for Linux: Tactics, Mindset and Tips](https://www.amazon.com/Windows-Subsystem-Linux-Tactics-Mindset/dp/1977718094)
 
-## [47. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [46. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### E-mail Search / E-mail Check / Telegram
 
 *   [Email Permutator](https://www.polished.app/email-permutator/)
 
-## [48. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [47. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
 *   [Load Testing SQL Databases with k6](https://k6.io/blog/load-testing-sql-databases-with-k6/) - How to use the xk6-sql extension to test SQL databases directly.
 
-## [49. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [48. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Official Guides
 
 *   [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) - Official SwiftUI tutorial with 4+ hours of content and interactive tutorials.
 
-## [50. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [49. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / IDEs
 
@@ -1122,11 +1103,11 @@
 
 ### Reading and Writing Tools / Journaling
 
-*   [linked (⭐762)](https://github.com/lostdesign/linked) - Link your thoughts to days, distraction free. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
+*   [linked (⭐811)](https://github.com/lostdesign/linked) - Link your thoughts to days, distraction free. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 
 ### Audio and Video Tools / File Sharing
 
-*   [BlackHole (⭐12k)](https://github.com/ExistentialAudio/BlackHole) - Freemium, open-source virtual output/input audio driver for recording/routing internal audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ExistentialAudio/BlackHole) [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/ExistentialAudio/BlackHole)
+*   [BlackHole (⭐13k)](https://github.com/ExistentialAudio/BlackHole) - Freemium, open-source virtual output/input audio driver for recording/routing internal audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ExistentialAudio/BlackHole) [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/ExistentialAudio/BlackHole)
 
 ### Utilities / General Tools
 
@@ -1136,24 +1117,24 @@
 
 *   [Lunar](https://lunar.fyi/) -  Help you adujst brightness, contrast and volumn of your external display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alin23/Lunar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [51. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [50. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Entertainment
 
-*   [AnimSearch (⭐71)](https://github.com/ArizArmeidi/AnimSearch) - Anime and Manga search app. created using Flutter and Jikan API. by [Ariz Armeidi](https://github.com/ArizArmeidi).
+*   [AnimSearch (⭐74)](https://github.com/ArizArmeidi/AnimSearch) - Anime and Manga search app. created using Flutter and Jikan API. by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ### Contents / Productivity
 
-*   [LibreTrack (⭐177)](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app by [Yaroslav Pronin](https://github.com/proninyaroslav)
+*   [LibreTrack (⭐182)](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app by [Yaroslav Pronin](https://github.com/proninyaroslav)
 
 ### Contents / Social Network
 
-*   [Fedi (⭐124)](https://github.com/Big-Fig/Fediverse.app) - Open-source client for Pleroma and Mastodon social networks by [Big-Fig](https://github.com/Big-Fig)
+*   [Fedi (⭐126)](https://github.com/Big-Fig/Fediverse.app) - Open-source client for Pleroma and Mastodon social networks by [Big-Fig](https://github.com/Big-Fig)
 
 ### Contents / Tools
 
-*   [Weather (⭐31)](https://github.com/1hanzla100/flutter-weather) - Weather App Built with Flutter and OpenWeatherMap API by [1hanzla100](https://github.com/1hanzla100/).
-*   [FlutterWeather (⭐238)](https://github.com/ArizArmeidi/FlutterWeather) - Weather App with clean and modern UI by [Ariz Armeidi](https://github.com/ArizArmeidi).
+*   [Weather (⭐32)](https://github.com/1hanzla100/flutter-weather) - Weather App Built with Flutter and OpenWeatherMap API by [1hanzla100](https://github.com/1hanzla100/).
+*   [FlutterWeather (⭐250)](https://github.com/ArizArmeidi/FlutterWeather) - Weather App with clean and modern UI by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ---
 

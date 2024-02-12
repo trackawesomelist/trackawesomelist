@@ -57,13 +57,13 @@ Webpage: <http://ogniwo.org/>
 ### Applications / Directory Navigation
 
 *   [awless (⭐4.9k)](https://github.com/wallix/awless) - A powerful, innovative and small surface CLI to manage AWS.
-*   [ranger (⭐13k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
+*   [ranger (⭐14k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 
 ## [7. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Books and Resources
 
-*   [Pure Bash Bible (⭐35k)](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
+*   [Pure Bash Bible (⭐36k)](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -93,13 +93,13 @@ Webpage: <http://ogniwo.org/>
 
 ### Official Documentation Translations
 
-*   [mpngin (⭐31)](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
+*   [mpngin (⭐32)](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
 
 ## [11. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pgstats (⭐111)](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
+*   [pgstats (⭐113)](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
 
 ## [12. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -136,7 +136,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Security / Other
 
-*   [Jwks RSA (⭐181)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
+*   [Jwks RSA (⭐189)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
 
 ---
 

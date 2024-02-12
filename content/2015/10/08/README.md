@@ -32,7 +32,7 @@
 
 ### Packages / Debugging / Profiling
 
-*   [locus (⭐305)](https://github.com/alidavut/locus) - Starts a REPL at runtime that has access to all variables.
+*   [locus (⭐306)](https://github.com/alidavut/locus) - Starts a REPL at runtime that has access to all variables.
 
 ## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -44,8 +44,8 @@
 
 ### Pattern Matching
 
-*   [core.match (⭐1.1k)](https://github.com/clojure/core.match)
-*   [defun (⭐461)](https://github.com/killme2008/defun)
+*   [core.match (⭐1.2k)](https://github.com/clojure/core.match)
+*   [defun (⭐462)](https://github.com/killme2008/defun)
 
 ## [7. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 

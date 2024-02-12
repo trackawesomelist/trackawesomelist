@@ -10,7 +10,7 @@
 
 ### C++
 
-*   [Enduro/X (⭐115)](https://github.com/endurox-dev/endurox/) - XATMI based service framework for GNU/Linux.
+*   [Enduro/X (⭐121)](https://github.com/endurox-dev/endurox/) - XATMI based service framework for GNU/Linux.
 
 ## [2. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 
@@ -55,14 +55,14 @@
 
 ### Graphic Displays
 
-*   [ggrepel (⭐1k)](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
-*   [ggalt (⭐616)](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms and Statistical Transformations for ggplot2.
+*   [ggrepel (⭐1.2k)](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
+*   [ggalt (⭐645)](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms and Statistical Transformations for ggplot2.
 
 ## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Command Line Applications
 
-*   [table\_rex (⭐232)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
+*   [table\_rex (⭐236)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
 
 ### Files and Directories
 

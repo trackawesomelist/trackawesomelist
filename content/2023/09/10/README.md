@@ -10,43 +10,43 @@
 
 ### Concurrency
 
-*   [mitchellh/libxev (⭐652)](https://github.com/mitchellh/libxev) - Cross-platform event-loop.
+*   [mitchellh/libxev (⭐880)](https://github.com/mitchellh/libxev) - Cross-platform event-loop.
 *   [kprotty/zefi (⭐31)](https://github.com/kprotty/zefi) - Fiber library.
-*   [rsepassi/zigcoro (⭐8)](https://github.com/rsepassi/zigcoro) - coroutine-friendly, based on libxev.
+*   [rsepassi/zigcoro (⭐51)](https://github.com/rsepassi/zigcoro) - coroutine-friendly, based on libxev.
 *   [iacore/minicoro-zig](https://git.envs.net/iacore/minicoro-zig) - Bindings for minicoro - Stackful Stack-Switching Coroutine.
 
 ### Misc libraries
 
-*   [kassane/lean4-zig (⭐4)](https://github.com/kassane/lean4-zig) - Bindings for Lean 4 (theorem prover).
+*   [kassane/lean4-zig (⭐6)](https://github.com/kassane/lean4-zig) - Bindings for Lean 4 (theorem prover).
 
 ### Zig development tools / Package managers
 
-*   [mattnite/ezpkg (⭐21)](https://github.com/mattnite/ezpkg) - Zig Package Manager Expansion Pack.
-*   [nix-community/zon2nix (⭐40)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
+*   [mattnite/ezpkg (⭐26)](https://github.com/mattnite/ezpkg) - Zig Package Manager Expansion Pack.
+*   [nix-community/zon2nix (⭐57)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
 ### Parser / Package managers
 
-*   [InKryption/comath (⭐19)](https://github.com/InKryption/comath) - Calculate math expressions in comptime.
+*   [InKryption/comath (⭐33)](https://github.com/InKryption/comath) - Calculate math expressions in comptime.
 
 ### Learning resources / Package managers
 
-*   [zighelp/zighelp (⭐16)](https://github.com/zighelp/zighelp) - Get up to speed with Zig quickly (ziglearn fork).
+*   [zighelp/zighelp (⭐23)](https://github.com/zighelp/zighelp) - Get up to speed with Zig quickly (ziglearn fork).
 
 ### C/C++ libraries packaged for Zig / C
 
-*   [andrewrk/libz (⭐8)](https://github.com/andrewrk/libz) - Zlib data compression.
-*   [kassane/openssl-zig (⭐2)](https://github.com/kassane/openssl-zig) - crypto, providers & ssl libraries only.
-*   [raysan5/raylib (⭐15k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming.
-*   [jmcnamara/libxlsxwriter (⭐1.2k)](https://github.com/jmcnamara/libxlsxwriter) - Creating Excel XLSX files.
+*   [andrewrk/libz (⭐12)](https://github.com/andrewrk/libz) - Zlib data compression.
+*   [kassane/openssl-zig (⭐3)](https://github.com/kassane/openssl-zig) - crypto, providers & ssl libraries only.
+*   [raysan5/raylib (⭐18k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming.
+*   [jmcnamara/libxlsxwriter (⭐1.3k)](https://github.com/jmcnamara/libxlsxwriter) - Creating Excel XLSX files.
 
 ### C/C++ libraries packaged for Zig / C++
 
 *   [kassane/fiber (⭐0)](https://github.com/kassane/fiber) - (boost-fiber) userland threads (C++14/17/20).
-*   [kassane/beast (⭐0)](https://github.com/kassane/beast) - (boost-beast) HTTP and WebSocket (C++14/17/20).
+*   [kassane/beast (⭐1)](https://github.com/kassane/beast) - (boost-beast) HTTP and WebSocket (C++14/17/20).
 *   [kassane/unordered (⭐0)](https://github.com/kassane/unordered) - (boost-unordered) hashmap and set concurrency containers (C++03/11/14).
 *   [kassane/Standalone-Server (⭐1)](https://github.com/kassane/Standalone-Server) - Asio standalone C++ HTTP/S Server.
 *   [kassane/libsigcplusplus (⭐0)](https://github.com/kassane/libsigcplusplus) - Typesafe callback system for standard C++.
-*   [ggerganov/llama.cpp (⭐40k)](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++.
+*   [ggerganov/llama.cpp (⭐50k)](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++.
 
 ## [2. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Plugin Manager
 
-*   [roobert/activate.nvim (⭐48)](https://github.com/roobert/activate.nvim) - A plugin installation system designed to complement `folke/lazy.nvim`.
+*   [roobert/activate.nvim (⭐69)](https://github.com/roobert/activate.nvim) - A plugin installation system designed to complement `folke/lazy.nvim`.
 
 ---
 

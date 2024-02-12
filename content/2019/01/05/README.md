@@ -34,7 +34,7 @@
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Apache License
 
-*   [aforth (⭐19)](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
+*   [aforth (⭐21)](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
 
 ## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Utility / Collection View Layout
 
-*   [ZamzamKit (⭐266)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
+*   [ZamzamKit (⭐269)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

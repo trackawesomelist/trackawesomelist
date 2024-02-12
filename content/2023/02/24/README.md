@@ -16,7 +16,7 @@
 
 ### Code Analysis
 
-*   [ex\_check (⭐288)](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project.
+*   [ex\_check (⭐292)](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Keychain / Barcode
 
-*   [GoodPersistence (⭐31)](https://github.com/GoodRequest/GoodPersistence) - 💾 GoodPersistence simplifies caching data in keychain and UserDefaults. Using a property wrappers.
+*   [GoodPersistence (⭐32)](https://github.com/GoodRequest/GoodPersistence) - 💾 GoodPersistence simplifies caching data in keychain and UserDefaults. Using a property wrappers.
 
 ### HUD / Barcode
 
@@ -71,34 +71,34 @@
 
 ### Architecture Patterns
 
-*   [The Composable Architecture (⭐9.5k)](https://github.com/pointfreeco/swift-composable-architecture) - The Composable Architecture is a library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+*   [The Composable Architecture (⭐11k)](https://github.com/pointfreeco/swift-composable-architecture) - The Composable Architecture is a library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 
 ### ARKit
 
-*   [ARKit Virtual Objects (⭐354)](https://github.com/ignacio-chiazzo/ARKit) - Placing Virtual Objects in Augmented Reality.
+*   [ARKit Virtual Objects (⭐366)](https://github.com/ignacio-chiazzo/ARKit) - Placing Virtual Objects in Augmented Reality.
 
 ### Video
 
-*   [VLC for iOS (⭐884)](https://github.com/videolan/vlc-ios) - VLC is a free and open source multimedia player for iOS.
+*   [VLC for iOS (⭐942)](https://github.com/videolan/vlc-ios) - VLC is a free and open source multimedia player for iOS.
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### The Generative AI Area: history, maps, and definitions / Contribute to Our Repository
+### Generative AI history, maps, and definitions
 
 *   [A Review of Generative AI from Historical Perspectives](https://www.techrxiv.org/articles/preprint/A_Review_of_Generative_AI_from_Historical_Perspectives/22097942): paper by Dipankar Dasgupta, Deepak Venugopal and Kishor Datta Gupta
 
-### Online Tools and Applications / Generative Adversarial Networks (GANs)
-
-*   [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI
-
-### Discussions and Philosophy / Critical Views about Generative AI
+### Critical Views about Generative AI
 
 *   [Noam Chomsky on ChatGPT: It's "Basically High-Tech Plagiarism" and "a Way of Avoiding Learning" | Open Culture](https://www.openculture.com/2023/02/noam-chomsky-on-chatgpt.html)
 *   [Will ChatGPT Kill the Student Essay? | The Atlantic](https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/)
 
-### Collections / Generative Adversarial Networks (GANs)
+### Generative AI Tools Directories
 
 *   [The ultimate list of AI tools for creators | Descript](https://www.descript.com/blog/article/the-ultimate-list-of-ai-tools-for-creators): collection organized by Descript
+
+### Hypertechniques / ControlNet
+
+*   [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI (based on ControlNet)
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

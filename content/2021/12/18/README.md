@@ -1,51 +1,45 @@
 # Awesome List Updates on Dec 18, 2021
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
-
-### Plugins
-
-*   🧬 [Container Queries (⭐85)](https://github.com/dgknca/tailwindcss-container-query) - Adds CSS Container Query variants.
-
-## [2. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [1. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Log Management
 
-*   [Loki](https://grafana.com/oss/loki/) - Log aggregation system designed to store and query logs from all your applications and infrastructure. ([Source Code (⭐20k)](https://github.com/grafana/loki)) `AGPL-3.0` `Go`
+*   [Loki](https://grafana.com/oss/loki/) - Log aggregation system designed to store and query logs from all your applications and infrastructure. ([Source Code (⭐21k)](https://github.com/grafana/loki)) `AGPL-3.0` `Go`
 
-## [3. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [2. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Apps / Miscellaneous
 
-*   [golem-bulk-image-handler (⭐1)](https://github.com/figurestudios/golem-bulk-image-handler) - Takes an input image and processes it in many different ways using the Pillow library.
+*   [golem-bulk-image-handler (⭐0)](https://github.com/figurestudios/golem-bulk-image-handler) - Takes an input image and processes it in many different ways using the Pillow library.
 
-## [4. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [3. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### ARKit
 
-*   [ARHeadsetKit (⭐111)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate
+*   [ARHeadsetKit (⭐119)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate
     Microsoft Hololens.
 
-## [5. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [4. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
-*   [Interaction Trees (⭐180)](https://github.com/DeepSpec/InteractionTrees) - Library for representing recursive and impure programs.
+*   [Interaction Trees (⭐183)](https://github.com/DeepSpec/InteractionTrees) - Library for representing recursive and impure programs.
 
 ### Projects / Tools
 
-*   [Sail (⭐478)](https://github.com/rems-project/sail) - Tool for specifying instruction set architecture semantics of processors and generating Coq definitions.
+*   [Sail (⭐498)](https://github.com/rems-project/sail) - Tool for specifying instruction set architecture semantics of processors and generating Coq definitions.
 
 ### Projects / Type Theory and Mathematics
 
 *   [Monae (⭐66)](https://github.com/affeldt-aist/monae) - Monadic effects and equational reasoning.
 
-## [6. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
+## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
 ### General Purpose
 
@@ -88,7 +82,7 @@
     [Repo (⭐800)](https://github.com/turretcss/turretcss)
     \| #CSS
 
-## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Web development utilities / User login and password management
 
@@ -96,13 +90,13 @@
     *   [cas-middleware (⭐0)](https://github.com/fferrere/cas-middleware) - CAS authenticaton middleware for Caveman.
     *   [cas-demo (⭐2)](https://github.com/fferrere/cas-demo) - a demo project.
 
-## [8. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
+## [7. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
 ### Supplement: Troubleshooting / Risks - some starting points
 
 *   [Overfitting vs. Underfitting: A Conceptual Explanation](https://towardsdatascience.com/overfitting-vs-underfitting-a-conceptual-explanation-d94ee20ca7f9)
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 

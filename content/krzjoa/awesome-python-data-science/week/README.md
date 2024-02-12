@@ -250,10 +250,10 @@ Probably the best curated list of data science software in Python.
 
 *   [darts (⭐6.5k)](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
 *   [statsforecast (⭐3.1k)](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
-*   [mlforecast (⭐530)](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
+*   [mlforecast (⭐547)](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
 *   [neuralforecast (⭐1.8k)](https://github.com/Nixtla/neuralforecast) - Scalable machine learning-based time series forecasting.
 *   [greykite (⭐1.7k)](https://github.com/linkedin/greykite) - A flexible, intuitive, and fast forecasting library next.
-*   [Chaos Genius (⭐640)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
+*   [Chaos Genius (⭐648)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
 
 ### Experimentation / Synthetic Data
 
@@ -557,11 +557,6 @@ Probably the best curated list of data science software in Python.
 *   [scikit-rvm (⭐219)](https://github.com/JamesRitchie/scikit-rvm) - Relevance Vector Machine implementation using the scikit-learn API. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [ThunderSVM (⭐1.5k)](https://github.com/Xtra-Computing/thundersvm) - A fast SVM Library on GPUs and CPUs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
 
-### Machine Learning / Extreme Learning Machine
-
-*   [Python Extreme Learning Machine (ELM) (⭐88)](https://github.com/acba/elm) - A machine learning technique used for classification/regression tasks.
-*   [hpelm (⭐179)](https://github.com/akusok/hpelm) - High-performance implementation of Extreme Learning Machines (fast randomized neural networks). <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
-
 ### Deep Learning / PyTorch
 
 *   [PyTorch (⭐72k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
@@ -740,7 +735,7 @@ Probably the best curated list of data science software in Python.
 *   [pandas\_summary (⭐486)](https://github.com/mouradmourafiq/pandas-summary) - Extension to pandas dataframes describe function. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 *   [Pandas Profiling (⭐11k)](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 *   [scikit-posthocs (⭐299)](https://github.com/maximtrp/scikit-posthocs) - Pairwise Multiple Comparisons Post-hoc Tests.
-*   [Alphalens (⭐2.8k)](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors.
+*   [Alphalens (⭐2.9k)](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors.
 
 ### Data Manipulation / Data Frames
 

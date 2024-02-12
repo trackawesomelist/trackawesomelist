@@ -30,64 +30,64 @@
 
 ## [3. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
-### React Firebase starter   [↗](https://awesomestacks.dev/react-firebase-starter) / Resources
+### React Firebase starter [↗](https://awesomestacks.dev/react-firebase-starter) / Resources
 
 *   [Firebase](https://firebase.google.com/) - [🛠️](https://stackshare.io/firebase) - A cloud-hosted NoSQL database that lets you store and sync data between your users in real-time.
 
-### Strapi CMS with Gatsby   [↗](https://awesomestacks.dev/strapi-cms-with-gatsby) / Resources
+### Strapi CMS with Gatsby [↗](https://awesomestacks.dev/strapi-cms-with-gatsby) / Resources
 
-*   [Strapi CMS](https://strapi.io) - [🐙 (⭐51k)](https://github.com/strapi/strapi) - Strapi is the Headless CMS developers love.
+*   [Strapi CMS](https://strapi.io) - [🐙 (⭐58k)](https://github.com/strapi/strapi) - Strapi is the Headless CMS developers love.
 
-### Rock Solid Modern Rails   [↗](https://awesomestacks.dev/rock-solid-modern-rails) / Resources
+### Rock Solid Modern Rails [↗](https://awesomestacks.dev/rock-solid-modern-rails) / Resources
 
-*   [Rails](https://rubyonrails.org/) - [🛠](https://stackshare.io/rails) - [🐙 (⭐52k)](https://github.com/rails/rails) - An established web app framework with a focus on simplicity and productivity.
-*   [GraphQL Ruby](https://graphql-ruby.org/) - [🛠](https://stackshare.io/graphql-ruby) - [🐙 (⭐5.2k)](https://github.com/rmosolgo/graphql-ruby) - Ruby server implementation of the GraphQL specification.
-*   [Apollo Client](https://dev.apollodata.com/) - [🛠](https://stackshare.io/apollo) - [🐙 (⭐18k)](https://github.com/apollographql/apollo-client) - A powerfully extensible GraphQL JavaScript client.
+*   [Rails](https://rubyonrails.org/) - [🛠](https://stackshare.io/rails) - [🐙 (⭐54k)](https://github.com/rails/rails) - An established web app framework with a focus on simplicity and productivity.
+*   [GraphQL Ruby](https://graphql-ruby.org/) - [🛠](https://stackshare.io/graphql-ruby) - [🐙 (⭐5.3k)](https://github.com/rmosolgo/graphql-ruby) - Ruby server implementation of the GraphQL specification.
+*   [Apollo Client](https://dev.apollodata.com/) - [🛠](https://stackshare.io/apollo) - [🐙 (⭐19k)](https://github.com/apollographql/apollo-client) - A powerfully extensible GraphQL JavaScript client.
 *   [Heroku](https://heroku.com) - [🛠️](https://stackshare.io/heroku) Developer friendly web app infrastructure provider with seamless Ruby/Rails support.
 
-### Serverless Stack with React on AWS   [↗](https://awesomestacks.dev/serverless-stack-with-react-on-aws) / Resources
+### Serverless Stack with React on AWS [↗](https://awesomestacks.dev/serverless-stack-with-react-on-aws) / Resources
 
 *   [Amazon S3](https://aws.amazon.com/s3/) - [🛠️](https://stackshare.io/amazon-s3) - Store and retrieve any amount of data, at any time, from anywhere on the web.
 *   [Amazon CloudFront](https://aws.amazon.com/cloudfront/) - [🛠️](https://stackshare.io/amazon-cloudfront) - Content delivery with low latency and high data transfer speeds.
 
-### Vue SPA with Laravel   [↗](https://awesomestacks.dev/vue-spa-with-laravel) / Resources
+### Vue SPA with Laravel [↗](https://awesomestacks.dev/vue-spa-with-laravel) / Resources
 
-*   [PHP 7](https://php.net) - [🛠](https://stackshare.io/php) - [🐙 (⭐35k)](https://github.com/php/php-src) - A popular general-purpose scripting language that is especially suited for web development.
+*   [PHP 7](https://php.net) - [🛠](https://stackshare.io/php) - [🐙 (⭐37k)](https://github.com/php/php-src) - A popular general-purpose scripting language that is especially suited for web development.
 
-### GCP Kubernetes Stack   [↗](https://awesomestacks.dev/gcp-kubernetes-stack) / Resources
+### GCP Kubernetes Stack [↗](https://awesomestacks.dev/gcp-kubernetes-stack) / Resources
 
-*   [Kubernetes](https://kubernetes.io/) - [🐙 (⭐95k)](https://github.com/kubernetes/kubernetes) - [🛠](https://stackshare.io/kubernetes) - Production-Grade Container Scheduling and Management.
+*   [Kubernetes](https://kubernetes.io/) - [🐙 (⭐104k)](https://github.com/kubernetes/kubernetes) - [🛠](https://stackshare.io/kubernetes) - Production-Grade Container Scheduling and Management.
 
-### Rails Monitoring Stack   [↗](https://awesomestacks.dev/rails-monitoring-stack) / Resources
+### Rails Monitoring Stack [↗](https://awesomestacks.dev/rails-monitoring-stack) / Resources
 
 *   [Skylight](https://www.skylight.io) - [🛠](https://stackshare.io/skylight) - The smart profiler for your Rails apps.
 *   [New Relic](https://newrelic.com) - [🛠](https://stackshare.io/new-relic) - SaaS Application Performance Management for Ruby, PHP, .Net, Java, Python, and Node.js Apps.
 *   [Sqreen](https://www.sqreen.com/) - [🛠](https://stackshare.io/sqreen) - Security monitoring and protection for Ruby, PHP, Java, Go, Python, and Node.js Apps.
 
-### User Behavior Analytics via Segment   [↗](https://awesomestacks.dev/user-behavior-analytics-via-segment) / Resources
+### User Behavior Analytics via Segment [↗](https://awesomestacks.dev/user-behavior-analytics-via-segment) / Resources
 
 *   [Amplitude](https://amplitude.com) - [🛠️](https://stackshare.io/amplitude) - User analytics to fuel explosive user growth.
 *   [FullStory](https://www.fullstory.com/) - [🛠️](https://stackshare.io/fullstory) - Capture all your customer experience data in one powerful, easy-to-use platform.
 
-### Streaming Analytics with Kafka, Spark, and Cassandra   [↗](https://awesomestacks.dev/streaming-analytics-with-kafka-spark-and-cassandra) / Resources
+### Streaming Analytics with Kafka, Spark, and Cassandra [↗](https://awesomestacks.dev/streaming-analytics-with-kafka-spark-and-cassandra) / Resources
 
-*   [Kafka](http://kafka.apache.org/) - [🛠](https://stackshare.io/kafka) - [🐙 (⭐24k)](https://github.com/apache/kafka) - Distributed, fault tolerant, high throughput pub-sub messaging system.
-*   [Apache Spark](https://spark.apache.org) - [🛠](https://stackshare.io/spark) - [🐙 (⭐35k)](https://github.com/apache/spark) - Fast and general engine for large-scale data processing.
-*   [Cassandra](http://cassandra.apache.org) - [🛠](https://stackshare.io/cassandra) - [🐙 (⭐7.8k)](https://github.com/apache/cassandra) - Highly-scalable partitioned row store.
+*   [Kafka](http://kafka.apache.org/) - [🛠](https://stackshare.io/kafka) - [🐙 (⭐26k)](https://github.com/apache/kafka) - Distributed, fault tolerant, high throughput pub-sub messaging system.
+*   [Apache Spark](https://spark.apache.org) - [🛠](https://stackshare.io/spark) - [🐙 (⭐37k)](https://github.com/apache/spark) - Fast and general engine for large-scale data processing.
+*   [Cassandra](http://cassandra.apache.org) - [🛠](https://stackshare.io/cassandra) - [🐙 (⭐8.3k)](https://github.com/apache/cassandra) - Highly-scalable partitioned row store.
 
-### Self-Hosted Devops and Collaboration   [↗](https://awesomestacks.dev/self-hosted-devops-and-collaboration) / Resources
+### Self-Hosted Devops and Collaboration [↗](https://awesomestacks.dev/self-hosted-devops-and-collaboration) / Resources
 
-*   [Zulip](https://zulipchat.com) - [🛠](https://stackshare.io/zulip) - [🐙 (⭐17k)](https://github.com/zulip/zulip) - Powerful open source team chat.
+*   [Zulip](https://zulipchat.com) - [🛠](https://stackshare.io/zulip) - [🐙 (⭐19k)](https://github.com/zulip/zulip) - Powerful open source team chat.
 *   [Hubot](https://hubot.github.com) - [🛠](https://stackshare.io/hubot) - [🐙 (⭐16k)](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
-*   [Sentry](https://sentry.io) - [🛠](https://stackshare.io/sentry) - [🐙 (⭐33k)](https://github.com/getsentry/sentry) - Cross-platform application monitoring, with a focus on error reporting.
+*   [Sentry](https://sentry.io) - [🛠](https://stackshare.io/sentry) - [🐙 (⭐36k)](https://github.com/getsentry/sentry) - Cross-platform application monitoring, with a focus on error reporting.
 *   [Taiga.io](https://taiga.io) - [🛠](https://stackshare.io/taiga) - [🐙](https://github.com/taigaio) - Project management web application with scrum in mind.
-*   [Metabase](https://www.metabase.com/) - [🛠](https://stackshare.io/metabase) - [🐙 (⭐31k)](https://github.com/metabase/metabase) - An open-source business intelligence tool.
+*   [Metabase](https://www.metabase.com/) - [🛠](https://stackshare.io/metabase) - [🐙 (⭐35k)](https://github.com/metabase/metabase) - An open-source business intelligence tool.
 
-### React Native with Expo and Hasura   [↗](https://awesomestacks.dev/react-native-with-expo-and-hasura) / Resources
+### React Native with Expo and Hasura [↗](https://awesomestacks.dev/react-native-with-expo-and-hasura) / Resources
 
-*   [Hasura](https://hasura.io/) - [🛠️](https://stackshare.io/hasura) - [🐙 (⭐29k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant real-time GraphQL APIs on Postgres with fine grained access control.
+*   [Hasura](https://hasura.io/) - [🛠️](https://stackshare.io/hasura) - [🐙 (⭐31k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant real-time GraphQL APIs on Postgres with fine grained access control.
 
-### Workflow Automation with GitHub, Jira and Jenkins   [↗](https://awesomestacks.dev/workflow-automation-with-git-hub-jira-and-jenkins) / Resources
+### Workflow Automation with GitHub, Jira and Jenkins [↗](https://awesomestacks.dev/workflow-automation-with-git-hub-jira-and-jenkins) / Resources
 
 *   [Integrating Jira, GitHub, Jenkins, and Slack in your workflow](https://support.acquia.com/hc/en-us/articles/360005167214-Integrating-JIRA-GitHub-Jenkins-and-Slack-in-your-workflow)
 
@@ -146,20 +146,20 @@
 
 ### Python / Neural Networks
 
-*   [nn\_builder (⭐163)](https://github.com/p-christ/nn_builder) - nn\_builder is a python package that lets you build neural networks in 1 line
+*   [nn\_builder (⭐164)](https://github.com/p-christ/nn_builder) - nn\_builder is a python package that lets you build neural networks in 1 line
 
 ## [12. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
 ### Machine Learning Libraries / Frameworks
 
-*   [eps (⭐629)](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
+*   [eps (⭐631)](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
     using [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend using [GSL](https://www.gnu.org/software/gsl/).
 
 ## [13. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Projects
 
-*   [Ceil (⭐42)](https://github.com/helmuthva/ceil) - Auto-provisioned RPi cluster running K8S on bare-metal. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
+*   [Ceil (⭐43)](https://github.com/helmuthva/ceil) - Auto-provisioned RPi cluster running K8S on bare-metal. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
 
 ## [14. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 

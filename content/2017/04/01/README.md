@@ -16,7 +16,7 @@
 
 ### Framework Components
 
-*   [kemal-session (⭐49)](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
+*   [kemal-session (⭐50)](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
 
 ## [3. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 

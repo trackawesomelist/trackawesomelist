@@ -40,13 +40,13 @@
 
 ### Build and Package / Apache License
 
-*   [alire (⭐230)](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
+*   [alire (⭐238)](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
 
 ## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Honeypots / Tarpits
 
-*   [Endlessh (⭐6.2k)](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner.
+*   [Endlessh (⭐6.4k)](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner.
 *   [LaBrea](http://labrea.sourceforge.net/labrea-info.html) - Program that answers ARP requests for unused IP space, creating the appearance of fake machines that answer further requests very slowly in order to slow down scanners, worms, etcetera.
 
 ## [8. Awesome Ava](/content/avajs/awesome-ava/README.md)

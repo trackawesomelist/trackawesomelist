@@ -2,13 +2,13 @@
 
 :neckbeard: Awesome list GitHub Wikis
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 144 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 164 · 🏷️ Miscellaneous
 
 [ [Daily](/content/MyHoneyBadger/awesome-github-wiki/README.md) / [Weekly](/content/MyHoneyBadger/awesome-github-wiki/week/README.md) / Overview ]
 
 ---
 
-# Awesome GitHub Wikis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome GitHub Wikis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome Lint](https://github.com/MyHoneyBadger/awesome-github-wiki/actions/workflows/action.yml/badge.svg?branch=main)](https://github.com/MyHoneyBadger/awesome-github-wiki/actions/workflows/action.yml?query=branch%3Amain) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/)
 
 > A curated list of awesome GitHub Wikis
 
@@ -25,18 +25,18 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 Wiki should be detail, up to date and well structured. It should be easy to find required information and navigate through the pages. Use rich possibilities of Markdown in Wiki formatting. Wiki doesn't fully repeat information which is already presented at README. The following list of examples represents mentioned good practices:
 
 *   [Netflix/Hystrix (⭐24k)](https://github.com/Netflix/Hystrix/wiki)
-*   [aws/aws-parallelcluster (⭐799)](https://github.com/aws/aws-parallelcluster/wiki)
+*   [aws/aws-parallelcluster (⭐802)](https://github.com/aws/aws-parallelcluster/wiki)
 *   [facebook/hhvm (⭐18k)](https://github.com/facebook/hhvm/wiki)
 *   [thinkaurelius/titan (⭐5.2k)](https://github.com/thinkaurelius/titan/wiki)
 *   [guard/guard (⭐6.2k)](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
-*   [apple/foundationdb (⭐13k)](https://github.com/apple/foundationdb/wiki)
+*   [apple/foundationdb (⭐14k)](https://github.com/apple/foundationdb/wiki)
 *   [google/guava (⭐49k)](https://github.com/google/guava/wiki)
-*   [hyperledger/cacti (⭐294)](https://github.com/hyperledger/cacti/wiki)
-*   [facebook/react-native (⭐113k)](https://github.com/facebook/react-native/wiki)
+*   [hyperledger/cacti (⭐300)](https://github.com/hyperledger/cacti/wiki)
+*   [facebook/react-native (⭐114k)](https://github.com/facebook/react-native/wiki)
 *   [FortAwesome/Font-Awesome (⭐73k)](https://github.com/FortAwesome/Font-Awesome/wiki)
-*   [golang/go (⭐117k)](https://github.com/golang/go/wiki)
+*   [golang/go (⭐118k)](https://github.com/golang/go/wiki)
 *   [uber/NullAway (⭐3.5k)](https://github.com/uber/NullAway/wiki)
-*   [internetarchive/openlibrary (⭐4.6k)](https://github.com/internetarchive/openlibrary/wiki)
+*   [internetarchive/openlibrary (⭐4.7k)](https://github.com/internetarchive/openlibrary/wiki)
 
 ## Useful links with tips & tricks
 

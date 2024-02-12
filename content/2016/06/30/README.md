@@ -82,11 +82,11 @@ git log --pretty=oneline --reverse | head -1 | cut -c 1-40
 
 ### Queue
 
-*   [Warewolf ESB (⭐261)](https://github.com/Warewolf-ESB/Warewolf) - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
+*   [Warewolf ESB (⭐264)](https://github.com/Warewolf-ESB/Warewolf) - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
 
 ### Testing
 
-*   [FakeItEasy (⭐1.5k)](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET <https://fakeiteasy.github.io>
+*   [FakeItEasy (⭐1.6k)](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET <https://fakeiteasy.github.io>
 
 ## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

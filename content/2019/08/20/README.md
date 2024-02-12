@@ -24,13 +24,13 @@
 
 ### Software / URL Shorteners
 
-*   [Simple-URL-Shortener (⭐38)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
+*   [Simple-URL-Shortener (⭐42)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
 
 ## [3. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
 
 ### Tools / update
 
-*   [CaptainHook (⭐787)](https://github.com/CaptainHookPhp/captainhook) - Git hooks manager for PHP developers.
+*   [CaptainHook (⭐931)](https://github.com/CaptainHookPhp/captainhook) - Git hooks manager for PHP developers.
 
 ## [4. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 

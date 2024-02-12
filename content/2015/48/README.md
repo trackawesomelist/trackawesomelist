@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 30 - Dec 06, 2015
 
-34 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -48,11 +48,11 @@
 
 ### Git Tools
 
-*   [GitLink (⭐555)](https://github.com/GitTools/GitLink) - let's users step through their code hosted on GitHub or BitBucket
+*   [GitLink (⭐556)](https://github.com/GitTools/GitLink) - let's users step through their code hosted on GitHub or BitBucket
 
 ### HTML and CSS
 
-*   [AngleSharp (⭐4.8k)](https://github.com/AngleSharp/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
+*   [AngleSharp (⭐4.9k)](https://github.com/AngleSharp/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
 
 ### Logging
 
@@ -60,13 +60,13 @@
 
 ### Metrics
 
-*   [C# StatsD Client (⭐110)](https://github.com/Pereingo/statsd-csharp-client) - C# client for Etsy's StatsD
+*   [C# StatsD Client (⭐111)](https://github.com/Pereingo/statsd-csharp-client) - C# client for Etsy's StatsD
 
 ### Misc
 
-*   [CsvHelper (⭐4.3k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [https://github.com/JoshClose/CsvHelper (⭐4.3k)](https://github.com/JoshClose/CsvHelper)
-*   [Humanizer (⭐8k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
-*   [Shielded (⭐231)](https://github.com/jbakic/Shielded) - Software Transactional Memory (STM) implementation for .NET
+*   [CsvHelper (⭐4.4k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [https://github.com/JoshClose/CsvHelper (⭐4.4k)](https://github.com/JoshClose/CsvHelper)
+*   [Humanizer (⭐8.2k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
+*   [Shielded (⭐233)](https://github.com/jbakic/Shielded) - Software Transactional Memory (STM) implementation for .NET
 
 ### ORM
 
@@ -130,31 +130,31 @@
 
 ### [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas)
 
-*   [Alphabet Cipher (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher)
-*   [Card game War (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/card-game-war)
-*   [Doublets (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/doublets)
-*   [Fox Goose Bag of Corn (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn)
-*   [Magic Square (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/magic-square)
-*   [Tiny Maze (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/tiny-maze)
-*   [Wonderland Number (⭐848)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/wonderland-number)
+*   [Alphabet Cipher (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher)
+*   [Card game War (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/card-game-war)
+*   [Doublets (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/doublets)
+*   [Fox Goose Bag of Corn (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn)
+*   [Magic Square (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/magic-square)
+*   [Tiny Maze (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/tiny-maze)
+*   [Wonderland Number (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/wonderland-number)
 
 ### [Gaurav Arora's TDD Katas Collection](https://github.com/garora/TDD-Katas)
 
-*   [String Sum Kata (⭐707)](https://github.com/garora/TDD-Katas#string-sum-kata)
-*   [String Calculator Kata (⭐707)](https://github.com/garora/TDD-Katas#string-calculator-kata-via-roy-osherove)
-*   [The Bowling Game Kata (⭐707)](https://github.com/garora/TDD-Katas#the-bowling-game-kata-via-uncle-bob)
-*   [The FizzBuzz Kata (⭐707)](https://github.com/garora/TDD-Katas#the-fizzbuzz-kata)
-*   [The OddEven Kata (⭐707)](https://github.com/garora/TDD-Katas#the-oddeven-kata)
-*   [The PrimeFactor Kata (⭐707)](https://github.com/garora/TDD-Katas#the-primefactor-kata-via-uncle-bob)
-*   [Game of Life (⭐707)](https://github.com/garora/TDD-Katas#game-of-life-)
-*   [Harry Potter (⭐707)](https://github.com/garora/TDD-Katas#harry-potter-)
-*   [LCD Digits (⭐707)](https://github.com/garora/TDD-Katas#lcd-digits-)
-*   [Leap Year (⭐707)](https://github.com/garora/TDD-Katas#leap-year-)
-*   [Mine Fields (⭐707)](https://github.com/garora/TDD-Katas#mine-fields-)
-*   [Poker Hands (⭐707)](https://github.com/garora/TDD-Katas#poker-hands)
-*   [Recently Used List (⭐707)](https://github.com/garora/TDD-Katas#recently-used-list-)
-*   [Reversi (⭐707)](https://github.com/garora/TDD-Katas#reversi-)
-*   [Yehtzee (⭐707)](https://github.com/garora/TDD-Katas#yehtzee-)
+*   [String Sum Kata (⭐714)](https://github.com/garora/TDD-Katas#string-sum-kata)
+*   [String Calculator Kata (⭐714)](https://github.com/garora/TDD-Katas#string-calculator-kata-via-roy-osherove)
+*   [The Bowling Game Kata (⭐714)](https://github.com/garora/TDD-Katas#the-bowling-game-kata-via-uncle-bob)
+*   [The FizzBuzz Kata (⭐714)](https://github.com/garora/TDD-Katas#the-fizzbuzz-kata)
+*   [The OddEven Kata (⭐714)](https://github.com/garora/TDD-Katas#the-oddeven-kata)
+*   [The PrimeFactor Kata (⭐714)](https://github.com/garora/TDD-Katas#the-primefactor-kata-via-uncle-bob)
+*   [Game of Life (⭐714)](https://github.com/garora/TDD-Katas#game-of-life-)
+*   [Harry Potter (⭐714)](https://github.com/garora/TDD-Katas#harry-potter-)
+*   [LCD Digits (⭐714)](https://github.com/garora/TDD-Katas#lcd-digits-)
+*   [Leap Year (⭐714)](https://github.com/garora/TDD-Katas#leap-year-)
+*   [Mine Fields (⭐714)](https://github.com/garora/TDD-Katas#mine-fields-)
+*   [Poker Hands (⭐714)](https://github.com/garora/TDD-Katas#poker-hands)
+*   [Recently Used List (⭐714)](https://github.com/garora/TDD-Katas#recently-used-list-)
+*   [Reversi (⭐714)](https://github.com/garora/TDD-Katas#reversi-)
+*   [Yehtzee (⭐714)](https://github.com/garora/TDD-Katas#yehtzee-)
 *   [The Word Wrap Kata](http://codingdojo.org/cgi-bin/wiki.pl?KataWordWrap)
 
 ### Others
@@ -277,8 +277,8 @@
 
 ### Command-Line Productivity
 
-*   [pathpicker (⭐4.9k)](https://github.com/facebook/PathPicker) - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as argument to a command.
-*   [qfc (⭐562)](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
+*   [pathpicker (⭐5k)](https://github.com/facebook/PathPicker) - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as argument to a command.
+*   [qfc (⭐566)](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 
 ## [24. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -307,7 +307,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ggfortify (⭐518)](https://github.com/sinhrks/ggfortify) - Unified interface to ggplot2 popular R packages.
+*   [ggfortify (⭐526)](https://github.com/sinhrks/ggfortify) - Unified interface to ggplot2 popular R packages.
 
 ## [27. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
 
@@ -340,7 +340,7 @@
 *   [rebar3\_idl\_compiler (⭐0)](https://github.com/sebastiw/rebar3_idl_compiler) - This is a plugin for compiling Erlang IDL files using Rebar3.
 *   [rebar3\_live (⭐3)](https://github.com/pvmart/rebar3_live) - Rebar3 live plugin.
 *   [rebar3\_neotoma\_plugin (⭐2)](https://github.com/zamotivator/rebar3_neotoma_plugin) - Rebar3 neotoma (Parser Expression Grammar) compiler.
-*   [rebar3\_run (⭐23)](https://github.com/tsloughter/rebar3_run) - Run a release with one simple command.
+*   [rebar3\_run (⭐24)](https://github.com/tsloughter/rebar3_run) - Run a release with one simple command.
 *   [rebar3\_yang\_plugin (⭐0)](https://github.com/surik/rebar3_yang_plugin) - Rebar3 yang compiler.
 
 ### Debugging
@@ -361,7 +361,7 @@
 
 ### ORM and Datamapping
 
-*   [moebius (⭐560)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
+*   [moebius (⭐563)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
 
 ### Testing
 
@@ -393,20 +393,9 @@
 
 ### Key Value Store
 
-*   [Zephyr (⭐897)](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
+*   [Zephyr (⭐899)](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
 
-## [31. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Go / Phoenix
-
-*   [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) - astaxie
-
-### Haxe / Spock Framework
-
-*   [Flambe Handbook (⭐56)](https://github.com/markknol/flambe-guide/wiki)
-*   [Haxe Manual](http://haxe.org/documentation/introduction/) - Haxe Foundation (PDF, HTML)
-
-## [32. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -416,7 +405,7 @@
 
 *   [NexusData (⭐72)](https://github.com/dkharrat/NexusData) - Object graph and persistence framework for Android.
 
-## [33. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [32. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Universal Seed Projects / Components
 
@@ -426,7 +415,7 @@
 
 *   [Angular 2 Goldilocks seed (⭐40)](https://github.com/ColinEberhardt/angular2-goldilocks-seed) - A seed project for Angular 2 and TypeScript that is not too simple, yet not too complex. In fact it's just right!
 
-## [34. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [33. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 

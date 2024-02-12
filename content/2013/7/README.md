@@ -10,7 +10,7 @@
 
 ### Table of Contents / Dependency Management
 
-*   [Composer Installers (⭐1.4k)](https://github.com/composer/installers) - A  multi framework Composer library installer.
+*   [Composer Installers (⭐1.4k)](https://github.com/composer/installers) - A  multi-framework Composer library installer.
 
 ---
 

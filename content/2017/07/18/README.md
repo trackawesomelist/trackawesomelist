@@ -16,7 +16,7 @@
 
 ### Sample Projects / JVM languages
 
-*   [Event Sourcing and CQRS Sample (⭐461)](https://github.com/pilloPl/event-source-cqrs-sample) - Sample event sourced application with Command Query Responsibility Segregation
+*   [Event Sourcing and CQRS Sample (⭐463)](https://github.com/pilloPl/event-source-cqrs-sample) - Sample event sourced application with Command Query Responsibility Segregation
 
 ## [3. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
@@ -776,7 +776,7 @@
 
 ### Integrations
 
-*   [Meteor Keycloak Accounts (⭐8)](https://github.com/mxab/meteor-keycloak)
+*   [Meteor Keycloak Accounts (⭐7)](https://github.com/mxab/meteor-keycloak)
 
 ### Example Projects
 

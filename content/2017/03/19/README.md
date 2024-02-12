@@ -10,7 +10,7 @@
 
 ### Command-Line Productivity
 
-*   [fz (⭐466)](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
+*   [fz (⭐484)](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 
 ## [2. Tools](/content/lvwzhen/tools/README.md)
 

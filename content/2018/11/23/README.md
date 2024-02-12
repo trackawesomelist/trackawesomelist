@@ -99,7 +99,7 @@
 
 ### Network Tools / Protocol Analyzers and Sniffers
 
-*   [sniffglue (⭐977)](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer.
+*   [sniffglue (⭐1k)](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer.
 
 ### Reverse Engineering / Reverse Engineering Tools
 

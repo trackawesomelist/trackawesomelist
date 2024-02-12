@@ -22,13 +22,13 @@
 
 ### Containers
 
-*   [C++ B-tree (⭐70)](https://github.com/algorithm-ninja/cpp-btree) - A template library that implements ordered in-memory containers based on a B-tree data structure. \[Apache2]
+*   [C++ B-tree (⭐72)](https://github.com/algorithm-ninja/cpp-btree) - A template library that implements ordered in-memory containers based on a B-tree data structure. \[Apache2]
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
-*   [UDcide (⭐29)](https://github.com/UDcide/udcide) - Android Malware Behavior Editor.
+*   [UDcide (⭐30)](https://github.com/UDcide/udcide) - Android Malware Behavior Editor.
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

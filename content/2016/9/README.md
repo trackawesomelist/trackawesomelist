@@ -144,7 +144,7 @@
 
 ### Table of Contents / Email
 
-*   [Mautic (⭐5.5k)](https://github.com/mautic/mautic) - Email marketing automation
+*   [Mautic (⭐6.5k)](https://github.com/mautic/mautic) - Email marketing automation
 
 ## [10. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -360,12 +360,12 @@ git log Branch1 ^Branch2
 
 ### Framework Components
 
-*   [absinthe\_plug (⭐250)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
+*   [absinthe\_plug (⭐252)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
 *   [ex\_admin (⭐1.2k)](https://github.com/smpallen99/ex_admin) - ExAdmin is an auto administration package for Elixir and the Phoenix Framework.
 
 ### ORM and Datamapping
 
-*   [eventstore (⭐967)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
+*   [eventstore (⭐992)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
 
 ### Text and Numbers
 
@@ -405,7 +405,7 @@ git log Branch1 ^Branch2
 
 ### Packages / Command-line utilities
 
-*   [boxen (⭐1.4k)](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
+*   [boxen (⭐1.5k)](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
 *   [shelljs (⭐14k)](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
 
 ### Packages / Text
@@ -420,7 +420,7 @@ git log Branch1 ^Branch2
 
 ### Packages / Miscellaneous
 
-*   [mem (⭐1k)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
+*   [mem (⭐1.1k)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 *   [adit (⭐53)](https://github.com/markelog/adit) - SSH tunneling made simple.
 
 ## [36. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
@@ -568,7 +568,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### For Electron / Other
 
-*   [electron-packager (⭐8.3k)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
+*   [electron-packager (⭐44)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
 
 ## [47. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 

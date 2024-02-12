@@ -56,7 +56,7 @@
 
   Description: Continuous Integration services for [sourcehut](https://sourcehut.org), the hacker's forge
 
-  Features: [open-source](https://git.sr.ht/\~sircmpwn/builds.sr.ht); supports many Linux distros, BSDs and even Plan9; runs anonymous jobs that aren't tied to a repository; post-build triggers for email, webhooks, etc.; powerful API for complex build scenarios; git and mercurial support; SSH login after build failures
+  Features: [open-source](https://git.sr.ht/~sircmpwn/builds.sr.ht); supports many Linux distros, BSDs and even Plan9; runs anonymous jobs that aren't tied to a repository; post-build triggers for email, webhooks, etc.; powerful API for complex build scenarios; git and mercurial support; SSH login after build failures
 
   Supported repositories: any supported by [dispatch.sr.ht](https://dispatch.sr.ht) (GitHub, GitLab etc.), [git.sr.ht](https://git.sr.ht), [hg.sr.ht](https://hg.sr.ht)
 
@@ -91,11 +91,11 @@
 
 ### Projects Using Vue.js / Apps/Websites
 
-*   [n2ex (⭐271)](https://github.com/OrangeXC/n2ex) - A vue ssr(nuxt) website, use v2ex API
+*   [n2ex (⭐272)](https://github.com/OrangeXC/n2ex) - A vue ssr(nuxt) website, use v2ex API
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-digital-transform (⭐57)](https://github.com/DakerHub/vue-digital-transform) A vue component for better digital transform animation
+*   [vue-digital-transform (⭐58)](https://github.com/DakerHub/vue-digital-transform) A vue component for better digital transform animation
 
 ## [11. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Table of Contents / Streaming Library
 
-*   [Tributary (⭐15)](https://github.com/timkpaine/tributary) \[Python] - A python library for constructing dataflow graphs. Supports synchronous, reactive data streams built using python generators that mimic complex event processors, as well as lazily-evaluated acyclic graphs and functional currying streams.
+*   [Tributary (⭐17)](https://github.com/timkpaine/tributary) \[Python] - A python library for constructing dataflow graphs. Supports synchronous, reactive data streams built using python generators that mimic complex event processors, as well as lazily-evaluated acyclic graphs and functional currying streams.
 
 ## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

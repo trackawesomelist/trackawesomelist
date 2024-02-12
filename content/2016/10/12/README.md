@@ -44,7 +44,7 @@
 
 ### Command-Line Productivity
 
-*   [bashhub (⭐1.1k)](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
+*   [bashhub (⭐1.2k)](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 
 ## [5. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 

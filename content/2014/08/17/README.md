@@ -10,7 +10,7 @@
 
 ### Packages / Debugging / Profiling
 
-*   [vstream (⭐56)](https://github.com/joyent/node-vstream) - Instrumentable streams mix-ins to inspect a pipeline of streams.
+*   [vstream (⭐55)](https://github.com/joyent/node-vstream) - Instrumentable streams mix-ins to inspect a pipeline of streams.
 
 ## [2. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
 

@@ -36,7 +36,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Hacker Roadmap (⭐9.9k)](https://github.com/sundowndev/hacker-roadmap)
+- Repository: [Hacker Roadmap (⭐12k)](https://github.com/sundowndev/hacker-roadmap)
 
   Description: A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking.
 
@@ -46,7 +46,7 @@
 
 ### Packages / Apps
 
-*   [BassoonTracker (⭐932)](https://github.com/steffest/BassoonTracker) - MOD/XM Tracker in Javascript.
+*   [BassoonTracker (⭐954)](https://github.com/steffest/BassoonTracker) - MOD/XM Tracker in Javascript.
 
 ## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [Filestash](https://www.filestash.app/) - A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive . ([Demo](https://demo.filestash.app/), [Source Code (⭐8.5k)](https://github.com/mickael-kerjean/filestash)) `AGPL-3.0` `Docker`
+*   [Filestash](https://www.filestash.app/) - A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive . ([Demo](https://demo.filestash.app/), [Source Code (⭐9k)](https://github.com/mickael-kerjean/filestash)) `AGPL-3.0` `Docker`
 
 ## [7. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
@@ -561,7 +561,7 @@
 
 ### Basic / Bare metal / kernel development
 
-*   [hunt (⭐90)](https://github.com/huntlabs/hunt) - A refined core library for D programming language. The module has concurrency / collection / event / io / logging / text / serialize and more.
+*   [hunt (⭐91)](https://github.com/huntlabs/hunt) - A refined core library for D programming language. The module has concurrency / collection / event / io / logging / text / serialize and more.
 *   [hunt-time (⭐2)](https://github.com/huntlabs/hunt-time) - A time library and similar to Joda-time and Java.time api.
 *   [hunt-validation (⭐3)](https://github.com/huntlabs/hunt-validation) - A data validation library for DLang based on hunt library.
 
@@ -570,7 +570,7 @@
 *   [hunt-net (⭐19)](https://github.com/huntlabs/hunt-net) - High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll).
 *   [hunt-http (⭐31)](https://github.com/huntlabs/hunt-http) - HTTP/1 and HTTP/2 protocol library for D.
 *   [hunt-stomp (⭐0)](https://github.com/huntlabs/hunt-stomp) - STOMP for websocket protocol library implement in D.
-*   [Hunt Framework (⭐294)](https://github.com/huntlabs/hunt-framework/) - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
+*   [Hunt Framework (⭐296)](https://github.com/huntlabs/hunt-framework/) - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
 *   [grpc (⭐45)](https://github.com/huntlabs/grpc-dlang) - Grpc for D programming language, hunt-http library based.
 *   [kissrpc (⭐40)](https://github.com/huntlabs/kissrpc) - Fast and light, flatbuffers based rpc framework.
 *   [hunt-gossip (⭐0)](https://github.com/huntlabs/hunt-gossip) - A Apache V2 gossip protocol implementation for D programming language.
@@ -578,8 +578,8 @@
 
 ### Database clients / XML
 
-*   [hunt-entity (⭐55)](https://github.com/huntlabs/hunt-entity) - Hunt entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite.
-*   [hunt-database (⭐45)](https://github.com/huntlabs/hunt-database) - Hunt database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
+*   [hunt-entity (⭐56)](https://github.com/huntlabs/hunt-entity) - Hunt entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite.
+*   [hunt-database (⭐46)](https://github.com/huntlabs/hunt-database) - Hunt database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
 
 ### Command Line / XML
 
@@ -658,67 +658,67 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [Apache Apex (⭐349)](https://github.com/apache/apex-core) \[Java] - unified platform for big data stream and batch processing.
-*   [Apache Flink (⭐22k)](https://github.com/apache/flink) \[Java] - system for high-throughput, low-latency data stream processing that supports stateful computation, data-driven windowing semantics and iterative stream processing.
-*   [Apache Samza (⭐784)](https://github.com/apache/samza) \[Scala/Java] - distributed stream processing framework that build on Kafka(messaging, storage) and YARN(fault tolerance, processor isolation, security and resource management).
-*   [Apache Spark Streaming (⭐37k)](https://github.com/apache/spark) \[Scala] - makes it easy to build scalable fault-tolerant streaming applications.
+*   [Apache Apex (⭐350)](https://github.com/apache/apex-core) \[Java] - unified platform for big data stream and batch processing.
+*   [Apache Flink (⭐23k)](https://github.com/apache/flink) \[Java] - system for high-throughput, low-latency data stream processing that supports stateful computation, data-driven windowing semantics and iterative stream processing.
+*   [Apache Samza (⭐793)](https://github.com/apache/samza) \[Scala/Java] - distributed stream processing framework that build on Kafka(messaging, storage) and YARN(fault tolerance, processor isolation, security and resource management).
+*   [Apache Spark Streaming (⭐38k)](https://github.com/apache/spark) \[Scala] - makes it easy to build scalable fault-tolerant streaming applications.
 *   [Apache Storm (⭐6.5k)](https://github.com/apache/storm) \[Clojure/Java] - distributed real-time computation system. Storm is to stream processing what Hadoop is to batch processing.
 *   [AthenaX (⭐1.2k)](https://github.com/uber/AthenaX) \[Java] - Uber's Stream Analytics Framework used in production
-*   [Faust (⭐6.6k)](https://github.com/robinhood/faust) \[Python] - stream processing library, porting the ideas from Kafka Streams to Python
+*   [Faust (⭐6.7k)](https://github.com/robinhood/faust) \[Python] - stream processing library, porting the ideas from Kafka Streams to Python
 *   [Hazelcast Jet (⭐1.1k)](https://github.com/hazelcast/hazelcast-jet) \[Java] - A general purpose distributed data processing engine, built on top of Hazelcast.
-*   [hailstorm (⭐89)](https://github.com/hailstorm-hs/hailstorm) \[Haskell] - distributed stream processing with exactly-once semantics based on Storm.
+*   [hailstorm (⭐90)](https://github.com/hailstorm-hs/hailstorm) \[Haskell] - distributed stream processing with exactly-once semantics based on Storm.
 *   [mupd8(muppet) (⭐126)](https://github.com/walmartlabs/mupd8) \[Scala/Java] - mapReduce-style framework for processing fast/streaming data.
 *   [Onyx (⭐2k)](https://github.com/onyx-platform/onyx) \[Clojure] - Distributed, masterless, high performance, fault tolerant data processing.
 *   [s4 (⭐41)](https://github.com/apache/incubator-s4) \[Java] - general-purpose, distributed, scalable, fault-tolerant, pluggable platform that allows programmers to easily develop applications for processing continuous unbounded streams of data.
-*   [SABER (⭐38)](https://github.com/lsds/Saber) \[Java/C] - Window-Based Hybrid CPU/GPU Stream Processing Engine.
+*   [SABER (⭐39)](https://github.com/lsds/Saber) \[Java/C] - Window-Based Hybrid CPU/GPU Stream Processing Engine.
 *   [SPQR (⭐29)](https://github.com/ottogroup/SPQR) \[Java] - dynamic framework for processing high volumn data streams through pipelines.
-*   [tigon (⭐279)](https://github.com/caskdata/tigon) \[C++/Java] - high throughput real-time streaming processing framework built on Hadoop and HBase.
+*   [tigon (⭐282)](https://github.com/caskdata/tigon) \[C++/Java] - high throughput real-time streaming processing framework built on Hadoop and HBase.
 *   [Teknek (⭐8)](https://github.com/edwardcapriolo/teknek-core) \[Java] - Simple elegant stream processing with interactive prototying shell SOL (Stream Operator Language)
     Mesos, designed for high performance data processing jobs that require flexibility & control.
 
 ### Table of Contents / Streaming Library
 
-*   [Apache Kafka Streams (⭐26k)](https://github.com/apache/kafka) \[Java] - lightweight stream processing library included in Apache Kafka (since 0.10 version).
-*   [Benthos (⭐6.6k)](https://github.com/Jeffail/benthos) \[Go] - Benthos is a high performance and resilient message streaming service, able to connect various sources and sinks and perform arbitrary actions, transformations and filters on payloads
+*   [Apache Kafka Streams (⭐27k)](https://github.com/apache/kafka) \[Java] - lightweight stream processing library included in Apache Kafka (since 0.10 version).
+*   [Benthos (⭐7.1k)](https://github.com/Jeffail/benthos) \[Go] - Benthos is a high performance and resilient message streaming service, able to connect various sources and sinks and perform arbitrary actions, transformations and filters on payloads
 *   [FS2(prev. 'Scalaz-Stream') (⭐2.3k)](https://github.com/functional-streams-for-scala/fs2) \[Scala] - Compositional, streaming I/O library for Scala.
 *   [monix (⭐1.9k)](https://github.com/monix/monix) \[Scala] - high-performance Scala / Scala.js library for composing asynchronous and event-based programs.
-*   [Streamline (⭐160)](https://github.com/hortonworks/streamline) \[Java] - Stream Analytics Framework by Hortonworks, designed as a wrapper around existing streaming solutions like Storm. Aimed to allow users to drag-and-drop streaming components to focus on business logic.
+*   [Streamline (⭐164)](https://github.com/hortonworks/streamline) \[Java] - Stream Analytics Framework by Hortonworks, designed as a wrapper around existing streaming solutions like Storm. Aimed to allow users to drag-and-drop streaming components to focus on business logic.
 *   [StreamAlert (⭐2.8k)](https://github.com/airbnb/streamalert) \[Python] - Airbnb's Real-time Data Analysis and Alerting.
 *   [Swave (⭐172)](https://github.com/sirthias/swave) \[Scala] - A lightweight Reactive Streams Infrastructure Toolkit for Scala.
 
 ### Table of Contents / Streaming Application
 
-*   [straw (⭐102)](https://github.com/rwalk/straw) \[Python/Java] - A platform for real-time streaming search.
-*   [storm-crawler (⭐821)](https://github.com/DigitalPebble/storm-crawler) \[Java] - Web crawler SDK based on Apache Storm.
+*   [straw (⭐103)](https://github.com/rwalk/straw) \[Python/Java] - A platform for real-time streaming search.
+*   [storm-crawler (⭐841)](https://github.com/DigitalPebble/storm-crawler) \[Java] - Web crawler SDK based on Apache Storm.
 
 ### Table of Contents / IoT
 
-*   [sensorbee (⭐222)](https://github.com/sensorbee/sensorbee) \[Go] - lightweight stream processing engine for IoT.
-*   [Apache Edgent (⭐214)](https://github.com/apache/incubator-edgent) \[Java] - a programming model and runtime that enables continuous streaming analytics on gateways and edge devices which can work with centralized systems to provide efficient and timely analytics across the whole IoT ecosystem: from the center to the edge, opens sourced by IBM.
+*   [sensorbee (⭐227)](https://github.com/sensorbee/sensorbee) \[Go] - lightweight stream processing engine for IoT.
+*   [Apache Edgent (⭐215)](https://github.com/apache/incubator-edgent) \[Java] - a programming model and runtime that enables continuous streaming analytics on gateways and edge devices which can work with centralized systems to provide efficient and timely analytics across the whole IoT ecosystem: from the center to the edge, opens sourced by IBM.
 
 ### Table of Contents / DSL
 
 *   [coast (⭐60)](https://github.com/bkirwi/coast) \[Scala] - a DSL that builds DAGs on top of Samza and provides exactly-once semantics.
-*   [Esper (⭐806)](https://github.com/espertechinc/esper) \[Java] - component for complex event processing (CEP) and event series analysis.
+*   [Esper (⭐821)](https://github.com/espertechinc/esper) \[Java] - component for complex event processing (CEP) and event series analysis.
 *   [Streamparse (⭐1.5k)](https://github.com/Parsely/streamparse) \[Python] - lets you run Python code against real-time streams of data via Apache Storm.
 *   [summingbird (⭐2.1k)](https://github.com/twitter/summingbird) \[Scala] - library that lets you write MapReduce programs that look like native Scala or Java collection transformations and execute them on a number of well-known distributed MapReduce platforms, including Storm and Scalding.
 
 ### Table of Contents / Data Pipeline
 
-*   [Apache Kafka (⭐26k)](https://github.com/apache/kafka) \[Scala/Java] - distributed, partitioned, replicated commit log service, which provides the functionality of a messaging system, but with a unique design.
-*   [Apache Pulsar (⭐13k)](https://github.com/apache/incubator-pulsar) \[Java] - distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API.
+*   [Apache Kafka (⭐27k)](https://github.com/apache/kafka) \[Scala/Java] - distributed, partitioned, replicated commit log service, which provides the functionality of a messaging system, but with a unique design.
+*   [Apache Pulsar (⭐14k)](https://github.com/apache/incubator-pulsar) \[Java] - distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API.
 *   [camus (⭐880)](https://github.com/linkedin/camus) \[Java] - Linkedin's Kafka -> HDFS pipeline.
-*   [databus (⭐3.5k)](https://github.com/linkedin/databus) \[Java] - Linkedin's source-agnostic distributed change data capture system.
+*   [databus (⭐3.6k)](https://github.com/linkedin/databus) \[Java] - Linkedin's source-agnostic distributed change data capture system.
 *   [flume (⭐2.5k)](https://github.com/apache/flume) \[Java] - distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
 *   [metaq (⭐1.3k)](https://github.com/killme2008/Metamorphosis) \[Java] - Taobao's high available, high performance distributed messaging system
 *   [NATS streaming (⭐2.5k)](https://github.com/nats-io/nats-streaming-server) \[Go] - fast disk-backed messaging solution
 *   [nsq (⭐24k)](https://github.com/nsqio/nsq) \[Go] - realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.
-*   [suro (⭐784)](https://github.com/Netflix/suro) \[Java] - data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data.
+*   [suro (⭐787)](https://github.com/Netflix/suro) \[Java] - data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data.
 
 ### Table of Contents / Online Machine Learning
 
-*   [Apache Samoa (⭐242)](https://github.com/apache/incubator-samoa) \[Java] - distributed streaming machine learning (ML) framework that contains a programing abstraction for distributed streaming ML algorithms.
-*   [DataSketches (⭐841)](https://github.com/DataSketches/sketches-core) \[Java] - sketches library from Yahoo!.
+*   [Apache Samoa (⭐243)](https://github.com/apache/incubator-samoa) \[Java] - distributed streaming machine learning (ML) framework that contains a programing abstraction for distributed streaming ML algorithms.
+*   [DataSketches (⭐857)](https://github.com/DataSketches/sketches-core) \[Java] - sketches library from Yahoo!.
 *   [StreamingBandit (⭐79)](https://github.com/Nth-iteration-labs/streamingbandit) \[Python] - Provides a webserver to quickly setup and evaluate possible solutions to contextual multi-armed bandit (cMAB) problems.
 
 ### Table of Contents / Streaming SQL
@@ -728,17 +728,17 @@
 
 ### Table of Contents / Benchmark
 
-*   [storm-perf-test (⭐76)](https://github.com/yahoo/storm-perf-test) \[Java] - a simple storm performance/stress test.
-*   [streaming-benchmarks (⭐614)](https://github.com/yahoo/streaming-benchmarks) \[Java] - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, etc.
-*   [flotilla (⭐235)](https://github.com/tylertreat/Flotilla) \[Go] - Automated message queue orchestration for scaled-up benchmarking.
+*   [storm-perf-test (⭐77)](https://github.com/yahoo/storm-perf-test) \[Java] - a simple storm performance/stress test.
+*   [streaming-benchmarks (⭐619)](https://github.com/yahoo/streaming-benchmarks) \[Java] - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, etc.
+*   [flotilla (⭐236)](https://github.com/tylertreat/Flotilla) \[Go] - Automated message queue orchestration for scaled-up benchmarking.
 
 ### Table of Contents / Toolkit
 
 *   [akka (⭐13k)](https://github.com/akka/akka) \[Scala] - toolkit and runtime for building highly concurrent, distributed, and resilient message-driven application on the JVM.
 *   [pulsar (⭐1.9k)](https://github.com/quantmind/pulsar/) \[Python] - Actor based event driven concurrent framework for Python.
-*   [aeron (⭐6.7k)](https://github.com/real-logic/Aeron) \[Java/C++] - efficient reliable unicast and multicast message transport.
-*   [StreamFlow (⭐245)](https://github.com/lmco/streamflow) \[Java] - stream processing tool designed to help build and monitor processing workflows.
-*   [samza-luwak (⭐101)](https://github.com/romseygeek/samza-luwak) \[Java] - uses Luwak, a stored-query engine built on Lucene, to implement full-text search on streams.
+*   [aeron (⭐6.9k)](https://github.com/real-logic/Aeron) \[Java/C++] - efficient reliable unicast and multicast message transport.
+*   [StreamFlow (⭐249)](https://github.com/lmco/streamflow) \[Java] - stream processing tool designed to help build and monitor processing workflows.
+*   [samza-luwak (⭐102)](https://github.com/romseygeek/samza-luwak) \[Java] - uses Luwak, a stored-query engine built on Lucene, to implement full-text search on streams.
 *   [Turbine (⭐831)](https://github.com/Netflix/Turbine) \[Java] - tool for aggregating streams of Server-Sent Event (SSE) JSON data into a single stream.
 
 ## [28. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
@@ -859,107 +859,107 @@
 
 ## [34. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
-### Electron React Boilerplate   [↗](https://awesomestacks.dev/electron-react-boilerplate) / Resources
+### Electron React Boilerplate [↗](https://awesomestacks.dev/electron-react-boilerplate) / Resources
 
-*   [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 (⭐201k)](https://github.com/facebook/react) - React components can be used on the client and server side.
-*   [Redux](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 (⭐59k)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
+*   [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙 (⭐217k)](https://github.com/facebook/react) - React components can be used on the client and server side.
+*   [Redux](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 (⭐60k)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
 *   [Electron React Boilerplate website](https://electron-react-boilerplate.js.org/)
 
-### Victor Hugo boilerplate   [↗](https://awesomestacks.dev/victor-hugo-boilerplate) / Resources
+### Victor Hugo boilerplate [↗](https://awesomestacks.dev/victor-hugo-boilerplate) / Resources
 
-*   [Webpack](https://webpack.js.org/) - [🛠️](https://stackshare.io/webpack) - [🐙 (⭐62k)](https://github.com/webpack/webpack) - A static module bundler for modern JavaScript applications.
-*   [Hugo](https://gohugo.io/) - [🛠](https://stackshare.io/hugo_2)- [🐙 (⭐65k)](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+*   [Webpack](https://webpack.js.org/) - [🛠️](https://stackshare.io/webpack) - [🐙 (⭐64k)](https://github.com/webpack/webpack) - A static module bundler for modern JavaScript applications.
+*   [Hugo](https://gohugo.io/) - [🛠](https://stackshare.io/hugo_2)- [🐙 (⭐71k)](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 *   [netlify-templates/victor-hugo (⭐1.5k)](https://github.com/netlify-templates/victor-hugo)
 
-### Serverless Stack with React on AWS   [↗](https://awesomestacks.dev/serverless-stack-with-react-on-aws) / Resources
+### Serverless Stack with React on AWS [↗](https://awesomestacks.dev/serverless-stack-with-react-on-aws) / Resources
 
-*   [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 (⭐99k)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
-*   [Serverless Framework](https://serverless.com/) - [🛠️](https://stackshare.io/serverless) - [🐙 (⭐44k)](https://github.com/serverless/serverless) - A toolkit for building serverless applications.
+*   [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 (⭐101k)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+*   [Serverless Framework](https://serverless.com/) - [🛠️](https://stackshare.io/serverless) - [🐙 (⭐46k)](https://github.com/serverless/serverless) - A toolkit for building serverless applications.
 *   [AWS Lambda](https://aws.amazon.com/lambda) - [🛠️](https://stackshare.io/aws-lambda) - A compute service that runs your code in response to events.
 *   [DynamoDB](http://aws.amazon.com/dynamodb/) - [🛠️](https://stackshare.io/amazon-dynamodb) - Fully managed NoSQL database service.
 *   [Amazon Cognito](https://aws.amazon.com/cognito/) - [🛠️](https://stackshare.io/amazon-cognito) - Securely manage and synchronize app data for your users across their mobile devices.
 *   [serverless-stack.com](https://serverless-stack.com/)
 
-### Nuxt, TypeScript + Docker   [↗](https://awesomestacks.dev/nuxt-type-script-docker) / Resources
+### Nuxt, TypeScript + Docker [↗](https://awesomestacks.dev/nuxt-type-script-docker) / Resources
 
-*   [Jest](https://jestjs.io/) - [🛠️](https://stackshare.io/jest) - [🐙 (⭐41k)](https://github.com/facebook/jest) - A comprehensive, delightful JavaScript testing solution.
-*   [stylelint](https://stylelint.io/) - [🛠️](https://stackshare.io/stylelint) - [🐙 (⭐10k)](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
-*   [wemake-vue-template (⭐724)](https://github.com/wemake-services/wemake-vue-template)
+*   [Jest](https://jestjs.io/) - [🛠️](https://stackshare.io/jest) - [🐙 (⭐43k)](https://github.com/facebook/jest) - A comprehensive, delightful JavaScript testing solution.
+*   [stylelint](https://stylelint.io/) - [🛠️](https://stackshare.io/stylelint) - [🐙 (⭐11k)](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
+*   [wemake-vue-template (⭐731)](https://github.com/wemake-services/wemake-vue-template)
 
-### Vue with Electron   [↗](https://awesomestacks.dev/vue-with-electron) / Resources
+### Vue with Electron [↗](https://awesomestacks.dev/vue-with-electron) / Resources
 
 *   [Vue Router](https://router.vuejs.org/) - [🐙 (⭐19k)](https://github.com/vuejs/vue-router) - Vue Router is the official router for Vue.js.
 *   [Vue CLI](https://cli.vuejs.org/) - [🐙 (⭐30k)](https://github.com/vuejs/vue-cli) - An approachable core library that focuses on the view layer only.
-*   [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙 (⭐106k)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+*   [Electron](http://electron.atom.io/) - [🛠️](https://stackshare.io/electron) - [🐙 (⭐110k)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
 *   [electron-builder](https://www.electron.build) - [🐙 (⭐13k)](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box.
-*   [Vuex](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 (⭐59k)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
+*   [Vuex](https://redux.js.org/) - [🛠](https://stackshare.io/reduxjs) - [🐙 (⭐60k)](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps.
 *   [Vue.js & Electron: The easy way. – Mikeal](https://medium.com/@mikeal/vue-js-electron-the-easy-way-adc3ca09234a)
 *   [How to use Vue.js with Electron and Vuex](https://alligator.io/vuejs/vue-electron/)
 
-### Strapi CMS with Gatsby   [↗](https://awesomestacks.dev/strapi-cms-with-gatsby) / Resources
+### Strapi CMS with Gatsby [↗](https://awesomestacks.dev/strapi-cms-with-gatsby) / Resources
 
-*   [Gatsby](https://gatsbyjs.org/) - [🛠](https://stackshare.io/gatsbyjs) - [🐙 (⭐54k)](https://github.com/gatsbyjs/gatsby) - Gatsby is a blazing fast modern site generator for React.
+*   [Gatsby](https://gatsbyjs.org/) - [🛠](https://stackshare.io/gatsbyjs) - [🐙 (⭐55k)](https://github.com/gatsbyjs/gatsby) - Gatsby is a blazing fast modern site generator for React.
 *   [Heroku](https://www.heroku.com/) - [🛠️](https://stackshare.io/heroku) - Heroku is a powerful platform for deploying your apps.
 *   [Building a Static Blog using Gatsby and Strapi](https://blog.strapi.io/building-a-static-website-using-gatsby-and-strapi/)
 *   [Learn Gatsby with Strapi Headless CMS Video Series](https://www.youtube.com/playlist?list=PL7Q0DQYATmvgGiz0MbbsMA_aB1V0yLE7a)
 *   [Deploying Strapi to Heroku](https://strapi.io/documentation/3.x.x/guides/deployment.html#heroku)
 
-### Progressive Web App with Gatsby   [↗](https://awesomestacks.dev/progressive-web-app-with-gatsby) / Resources
+### Progressive Web App with Gatsby [↗](https://awesomestacks.dev/progressive-web-app-with-gatsby) / Resources
 
 *   [Cloud Firestore](https://firebase.google.com/docs/firestore/) - [🛠️](https://stackshare.io/cloud-firestore) - A noSQL cloud database that exposes event listeners for real-time updates.
-*   [styled components](https://www.styled-components.com/) - [🛠](https://stackshare.io/styled-components) - [🐙 (⭐38k)](https://github.com/styled-components/styled-components) - A react-specific css-in-js solution.
+*   [styled components](https://www.styled-components.com/) - [🛠](https://stackshare.io/styled-components) - [🐙 (⭐40k)](https://github.com/styled-components/styled-components) - A react-specific css-in-js solution.
 *   [Contentful](https://www.contentful.com/) - [🛠](https://stackshare.io/contentful) - [🐙](https://github.com/contentful) - Contentful is a flexible and future-friendly content platform that helps editors to manage and developers to serve content into mobile or web applications. Last but not least a powerhouse when worked with Gatsby.
 *   [JAMstack PWA — Let’s Build a Polling App. with Gatsby.js, Firebase, and Styled-components](https://medium.com/@UnicornAgency/jamstack-pwa-lets-build-a-polling-app-with-gatsby-js-firebase-and-styled-components-pt-1-78a03a633092)
 *   [Learn how to easily build a GatsbyJS website powered by Contentful](https://www.contentful.com/r/knowledgebase/gatsbyjs-and-contentful-in-five-minutes/)
 
-### GraphCMS React + Apollo   [↗](https://awesomestacks.dev/graph-cms-react-apollo) / Resources
+### GraphCMS React + Apollo [↗](https://awesomestacks.dev/graph-cms-react-apollo) / Resources
 
 *   [GraphCMS](https://graphcms.com/) - [🛠️](https://stackshare.io/graphcms) - GraphCMS providing a backend to your app, giving you the tools to manage content.
-*   [Apollo](https://www.apollographql.com/) - [🛠️](https://stackshare.io/apollo) - [🐙 (⭐18k)](https://github.com/apollographql/apollo-client) - Apollo Client is the best way to use GraphQL to build client applications.
+*   [Apollo](https://www.apollographql.com/) - [🛠️](https://stackshare.io/apollo) - [🐙 (⭐19k)](https://github.com/apollographql/apollo-client) - Apollo Client is the best way to use GraphQL to build client applications.
 
-### Algolia site search   [↗](https://awesomestacks.dev/algolia-site-search) / Resources
+### Algolia site search [↗](https://awesomestacks.dev/algolia-site-search) / Resources
 
 *   [Algolia](https://algolia.com/) - [🛠](https://stackshare.io/algolia) - Hosted search API, free up to 10,000 records.
-*   [DocSearch](https://community.algolia.com/docsearch) - [🐙 (⭐264)](https://github.com/algolia/docsearch-scraper) - Crawls a website and uploads it to an index.
-*   [gatsby-plugin-algolia](https://www.gatsbyjs.org/packages/gatsby-plugin-algolia/) - [🐙 (⭐176)](https://github.com/algolia/gatsby-plugin-algolia) - Use GraphQL to specify Gatsby object to index with Algolia (beta).
-*   [hugo-algolia (⭐45)](https://github.com/replicatedhq/hugo-algolia) - [🐙 (⭐45)](https://github.com/replicatedhq/hugo-algolia) - Generate and send indices from Hugo static sites for use with Algolia.
-*   [instantsearch.js](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) - [🐙 (⭐3.1k)](https://github.com/algolia/instantsearch.js) - JavaScript library for building performant and instant search experiences.
+*   [DocSearch](https://community.algolia.com/docsearch) - [🐙 (⭐290)](https://github.com/algolia/docsearch-scraper) - Crawls a website and uploads it to an index.
+*   [gatsby-plugin-algolia](https://www.gatsbyjs.org/packages/gatsby-plugin-algolia/) - [🐙 (⭐179)](https://github.com/algolia/gatsby-plugin-algolia) - Use GraphQL to specify Gatsby object to index with Algolia (beta).
+*   [hugo-algolia (⭐46)](https://github.com/replicatedhq/hugo-algolia) - [🐙 (⭐46)](https://github.com/replicatedhq/hugo-algolia) - Generate and send indices from Hugo static sites for use with Algolia.
+*   [instantsearch.js](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) - [🐙 (⭐3.4k)](https://github.com/algolia/instantsearch.js) - JavaScript library for building performant and instant search experiences.
 *   [Static site search with Hugo + Algolia](https://forestry.io/blog/search-with-algolia-in-hugo/)
 
-### Workflow Automation with GitHub, Jira and Jenkins   [↗](https://awesomestacks.dev/workflow-automation-with-git-hub-jira-and-jenkins) / Resources
+### Workflow Automation with GitHub, Jira and Jenkins [↗](https://awesomestacks.dev/workflow-automation-with-git-hub-jira-and-jenkins) / Resources
 
 *   [GitHub](https://github.com/) - [🛠](https://stackshare.io/github) - The site to keep your code and open it to world.
-*   [Jenkins](https://jenkins.io/) - [🛠️](https://stackshare.io/jenkins) - [🐙 (⭐20k)](https://github.com/jenkinsci/jenkins) - Open source automation server for CI/CD.
+*   [Jenkins](https://jenkins.io/) - [🛠️](https://stackshare.io/jenkins) - [🐙 (⭐22k)](https://github.com/jenkinsci/jenkins) - Open source automation server for CI/CD.
 *   [Jira](https://es.atlassian.com/software/jira) - [🛠️](https://stackshare.io/jira) - Agile software development.
 
-### GCP Kubernetes Stack   [↗](https://awesomestacks.dev/gcp-kubernetes-stack) / Resources
+### GCP Kubernetes Stack [↗](https://awesomestacks.dev/gcp-kubernetes-stack) / Resources
 
 *   [GKE](https://cloud.google.com/kubernetes-engine/) - [🛠](https://stackshare.io/google-kubernetes-engine) - Kubernetes cluster managed by Google.
 
-### Ethereum DApp   [↗](https://awesomestacks.dev/ethereum-d-app) / Resources
+### Ethereum DApp [↗](https://awesomestacks.dev/ethereum-d-app) / Resources
 
-*   [Solidity](https://solidity.readthedocs.io) - [🐙 (⭐19k)](https://github.com/ethereum/solidity) - Solidity is an object-oriented, high-level language for implementing smart contracts.
-*   [web3.js](https://web3js.readthedocs.io) - [🐙 (⭐17k)](https://github.com/ethereum/web3.js) - Ethereum JavaScript API.
+*   [Solidity](https://solidity.readthedocs.io) - [🐙 (⭐21k)](https://github.com/ethereum/solidity) - Solidity is an object-oriented, high-level language for implementing smart contracts.
+*   [web3.js](https://web3js.readthedocs.io) - [🐙 (⭐18k)](https://github.com/ethereum/web3.js) - Ethereum JavaScript API.
 *   [Truffle](https://truffleframework.com/truffle) - [🐙 (⭐14k)](https://github.com/trufflesuite/truffle) - A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM).
-*   [Ganache](https://truffleframework.com/ganache) - [🐙 (⭐2.2k)](https://github.com/trufflesuite/ganache) - Personal blockchain for Ethereum development.
-*   [drizzle](https://truffleframework.com/drizzle) - [🐙 (⭐892)](https://github.com/trufflesuite/drizzle) - A collection of front-end libraries that make writing dapp user interfaces easier and more predictable.
+*   [Ganache](https://truffleframework.com/ganache) - [🐙 (⭐2.6k)](https://github.com/trufflesuite/ganache) - Personal blockchain for Ethereum development.
+*   [drizzle](https://truffleframework.com/drizzle) - [🐙 (⭐911)](https://github.com/trufflesuite/drizzle) - A collection of front-end libraries that make writing dapp user interfaces easier and more predictable.
 
-### Rails Monitoring Stack   [↗](https://awesomestacks.dev/rails-monitoring-stack) / Resources
+### Rails Monitoring Stack [↗](https://awesomestacks.dev/rails-monitoring-stack) / Resources
 
-*   [rack-mini-profiler (⭐3.5k)](https://github.com/MiniProfiler/rack-mini-profiler) - [🐙 (⭐3.5k)](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps.
+*   [rack-mini-profiler (⭐3.6k)](https://github.com/MiniProfiler/rack-mini-profiler) - [🐙 (⭐3.6k)](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps.
 
-### React Native with Expo and Hasura   [↗](https://awesomestacks.dev/react-native-with-expo-and-hasura) / Resources
+### React Native with Expo and Hasura [↗](https://awesomestacks.dev/react-native-with-expo-and-hasura) / Resources
 
-*   [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙 (⭐107k)](https://github.com/facebook/react-native) - Build native mobile apps using JavaScript and React.
-*   [Expo](https://expo.io/) - [🛠️](https://stackshare.io/expo) - [🐙 (⭐19k)](https://github.com/expo/expo) - Build, deploy, and quickly iterate on native iOS and Android apps from the same JavaScript codebase.
+*   [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙 (⭐113k)](https://github.com/facebook/react-native) - Build native mobile apps using JavaScript and React.
+*   [Expo](https://expo.io/) - [🛠️](https://stackshare.io/expo) - [🐙 (⭐25k)](https://github.com/expo/expo) - Build, deploy, and quickly iterate on native iOS and Android apps from the same JavaScript codebase.
 *   [Digital Ocean](https://www.digitalocean.com/) - [🛠️](https://stackshare.io/digitalocean) - [🐙](https://github.com/digitalocean/) - Deploy an SSD cloud server in less than 55 seconds with a dedicated IP and root access.
 *   [Auth0](https://auth0.com/) - [🛠️](https://stackshare.io/auth0) - A universal authentication & authorization platform for web, mobile and legacy applications.
 *   [Tutorial: Fullstack React Native with GraphQL and Authentication](https://blog.hasura.io/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a/)
 *   [Guide: Hasura GraphQL Engine One-click App on DigitalOcean Marketplace](https://docs.hasura.io/1.0/graphql/manual/guides/deployment/digital-ocean-one-click.html)
 
-### Unity Game Development boilerplate   [↗](https://awesomestacks.dev/unity-Game-Development-boilerplate) / Resources
+### Unity Game Development boilerplate [↗](https://awesomestacks.dev/unity-Game-Development-boilerplate) / Resources
 
-*   [Unity](https://unity.com/) - [🛠](https://stackshare.io/unity-3d) - [🐙 (⭐10k)](https://github.com/Unity-Technologies/UnityCsReference) - The C# part of the Unity engine and editor source code. May be used for reference purposes only.
+*   [Unity](https://unity.com/) - [🛠](https://stackshare.io/unity-3d) - [🐙 (⭐11k)](https://github.com/Unity-Technologies/UnityCsReference) - The C# part of the Unity engine and editor source code. May be used for reference purposes only.
 *   [Plastic SCM](https://www.plasticscm.com/) - [🛠️](https://stackshare.io/plastic-scm) - [🐙 (⭐5)](https://github.com/PlasticSCM/plastic-docker) - PlasticSCM Docker image.
 *   [TeamCity](https://www.jetbrains.com/teamcity/) - [🛠](https://stackshare.io/teamcity) - A Java-based build management and continuous integration server from JetBrains.
 *   [First steps with Plastic SCM in Unity](https://www.youtube.com/playlist?list=PL29P1RRr5_NzEhAustJCTwdahs60JvcMm)
@@ -973,7 +973,7 @@
 
 ### CMS & Blogs
 
-*   [Yona CMS (⭐368)](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
+*   [Yona CMS (⭐367)](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
 
 ### Config
 
@@ -1010,11 +1010,11 @@
 ### Applications
 
 *   [Pijul](https://pijul.org) — A patch-based distributed version control system
-*   [Servo (⭐24k)](https://github.com/servo/servo) — A prototype web browser engine
+*   [Servo (⭐25k)](https://github.com/servo/servo) — A prototype web browser engine
 
 ### Applications / Utilities
 
-*   [fcsonline/tmux-thumbs (⭐754)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator.
+*   [fcsonline/tmux-thumbs (⭐811)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator.
 
 ### Applications / Virtualization
 
@@ -1022,7 +1022,7 @@
 
 ### Applications / Web Servers
 
-*   [TheWaWaR/simple-http-server (⭐2k)](https://github.com/TheWaWaR/simple-http-server) — simple static http server
+*   [TheWaWaR/simple-http-server (⭐2.3k)](https://github.com/TheWaWaR/simple-http-server) — simple static http server
 
 ### Development tools / Debugging
 
@@ -1032,7 +1032,7 @@
 ### Development tools / Deployment
 
 *   Heroku
-    *   [emk/heroku-buildpack-rust (⭐514)](https://github.com/emk/heroku-buildpack-rust) — A buildpack for Rust applications on Heroku
+    *   [emk/heroku-buildpack-rust (⭐517)](https://github.com/emk/heroku-buildpack-rust) — A buildpack for Rust applications on Heroku
 
 ### Development tools / Services
 
@@ -1044,21 +1044,21 @@
 
 ### Libraries / Configuration
 
-*   [Kixunil/configure\_me (⭐54)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] — library for processing application configuration easily
+*   [Kixunil/configure\_me (⭐57)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] — library for processing application configuration easily
 
 ### Libraries / GUI
 
 *   [IUP](http://webserver2.tecgraf.puc-rio.br/iup/)
-    *   [Kiss-ui (⭐341)](https://github.com/KISS-UI/kiss-ui) — A simple UI framework built on IUP
+    *   [Kiss-ui (⭐342)](https://github.com/KISS-UI/kiss-ui) — A simple UI framework built on IUP
 
 ### Libraries / Network programming
 
 *   Low level
-    *   [actix/actix (⭐8.1k)](https://github.com/actix/actix) — Actor library for Rust
-    *   [dylanmckay/protocol (⭐175)](https://github.com/dylanmckay/protocol) — Custom TCP/UDP protocol definitions
-    *   [libpnet/libpnet (⭐2k)](https://github.com/libpnet/libpnet) — A cross-platform, low level networking
-    *   [smoltcp-rs/smoltcp (⭐3.2k)](https://github.com/smoltcp-rs/smoltcp) — A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
-    *   [tokio-rs/tokio (⭐22k)](https://github.com/tokio-rs/tokio) — A network application framework for rapid development and highly scalable production deployments of clients and servers.
+    *   [actix/actix (⭐8.3k)](https://github.com/actix/actix) — Actor library for Rust
+    *   [dylanmckay/protocol (⭐179)](https://github.com/dylanmckay/protocol) — Custom TCP/UDP protocol definitions
+    *   [libpnet/libpnet (⭐2.1k)](https://github.com/libpnet/libpnet) — A cross-platform, low level networking
+    *   [smoltcp-rs/smoltcp (⭐3.4k)](https://github.com/smoltcp-rs/smoltcp) — A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
+    *   [tokio-rs/tokio (⭐24k)](https://github.com/tokio-rs/tokio) — A network application framework for rapid development and highly scalable production deployments of clients and servers.
 
 ### Libraries / Parsing
 
@@ -1068,8 +1068,8 @@
 
 *   Client-side / WASM
     *   [cargo-web](https://crates.io/crates/cargo-web) — A Cargo subcommand for the client-side Web
-    *   [leptos (⭐12k)](https://github.com/leptos-rs/leptos) — Leptos is a full-stack, isomorphic Rust web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
-    *   [sauron (⭐1.8k)](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture.
+    *   [leptos (⭐14k)](https://github.com/leptos-rs/leptos) — Leptos is a full-stack, isomorphic Rust web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
+    *   [sauron (⭐1.9k)](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture.
     *   [seed](https://seed-rs.org/) — A Rust framework for creating web apps
     *   [stdweb](https://crates.io/crates/stdweb) — A standard library for the client-side Web
     *   [yew](https://crates.io/crates/yew) — Rust framework for making client web apps
@@ -1082,27 +1082,27 @@
 
 ### Debug
 
-*   [Unity (⭐3.3k)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. \[MIT]
+*   [Unity (⭐3.6k)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. \[MIT]
 
 ### Game Engine
 
-*   [Spring (⭐3.3k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
+*   [Spring (⭐3.4k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
 
 ### Graphics
 
-*   [Blend2D (⭐1.3k)](https://github.com/blend2d/blend2d) - 2D vector graphics engine powered by a JIT compiler. \[Zlib] [website](https://blend2d.com/)
+*   [Blend2D (⭐1.4k)](https://github.com/blend2d/blend2d) - 2D vector graphics engine powered by a JIT compiler. \[Zlib] [website](https://blend2d.com/)
 
 ### Math
 
-*   [universal (⭐350)](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. \[MIT license]
+*   [universal (⭐359)](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. \[MIT license]
 
 ### Reflection
 
-*   [Magic Enum (⭐4k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
+*   [Magic Enum (⭐4.2k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
 
 ### Miscellaneous
 
-*   [icecream-cpp (⭐464)](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. \[MIT]
+*   [icecream-cpp (⭐506)](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. \[MIT]
 
 ## [39. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
@@ -1219,7 +1219,7 @@
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome Cucumber (⭐41)](https://github.com/virajkulkarni14/awesome-cucumber) - A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources.
+*   [Awesome Cucumber (⭐40)](https://github.com/virajkulkarni14/awesome-cucumber) - A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources.
 
 ## [45. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
@@ -1234,14 +1234,14 @@
 *   AngularJS
     *   [design patterns (⭐2k)](https://github.com/mgechev/angularjs-in-patterns)
 *   JavaScript
-    *   [es6 design patterns (⭐276)](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
-    *   [humans (⭐3.3k)](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - ultra simplified explanation to design patterns.
-    *   [design-patterns (⭐1.7k)](https://github.com/nnupoor/js_designpatterns)
+    *   [es6 design patterns (⭐312)](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
+    *   [humans (⭐4.2k)](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [design-patterns (⭐7)](https://github.com/nnupoor/js_designpatterns)
     *   [design patterns by addy osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
 *   Scala
-    *   [design-patterns (⭐142)](https://github.com/josephguan/scala-design-patterns)
+    *   [design-patterns (⭐180)](https://github.com/josephguan/scala-design-patterns)
 *   TypeScript
-    *   [design-patterns (⭐4.7k)](https://github.com/torokmark/design_patterns_in_typescript)
+    *   [design-patterns (⭐5k)](https://github.com/torokmark/design_patterns_in_typescript)
 *   UML
     *   [design-patterns quick reference](http://www.mcdonaldland.info/2007/11/28/40)
     *   [design-patterns cheat-sheet](https://www.slideshare.net/hustwj/design-patterns-cheat-sheet)
@@ -1252,7 +1252,7 @@
 
 ### DevOps & containers
 
-*   [kubernetes patterns (⭐28)](https://github.com/ro14nd-talks/kubernetes-patterns) - Presentation around the book kubernetes paterns.
+*   [kubernetes patterns (⭐29)](https://github.com/ro14nd-talks/kubernetes-patterns) - Presentation around the book kubernetes paterns.
 
 ## [47. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
@@ -1265,7 +1265,7 @@
 
 ### Platforms
 
-*   [Node.js (⭐53k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Node.js (⭐54k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
     *   [Cross-Platform (⭐1.1k)](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
 
 ## [49. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
@@ -1284,7 +1284,7 @@
 
 ### Atom, Pulsar / Third-party APIs
 
-*   [SLIMA (⭐63)](https://github.com/neil-lindquist/slima) allows you to
+*   [SLIMA (⭐65)](https://github.com/neil-lindquist/slima) allows you to
     interactively develop Common Lisp code, turning Atom (or now Pulsar) into a
     pretty good, and actively developped, Lisp IDE. [MIT](https://opensource.org/licenses/MIT).
 
@@ -1306,7 +1306,7 @@
 
 ### Key Value Store
 
-*   [SecureDefaults (⭐223)](https://github.com/vpeschenkov/SecureDefaults) - A lightweight wrapper over UserDefaults & NSUserDefaults with an extra AES-256 encryption layer.
+*   [SecureDefaults (⭐222)](https://github.com/vpeschenkov/SecureDefaults) - A lightweight wrapper over UserDefaults & NSUserDefaults with an extra AES-256 encryption layer.
 
 ### Utility / Barcode
 

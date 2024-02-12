@@ -8,13 +8,13 @@
 
 ## [1. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
-### Serverless Stack with React on AWS   [↗](https://awesomestacks.dev/serverless-stack-with-react-on-aws) / Resources
+### Serverless Stack with React on AWS [↗](https://awesomestacks.dev/serverless-stack-with-react-on-aws) / Resources
 
 *   [AWS Amplify](https://aws-amplify.github.io/) - [🛠️](https://stackshare.io/aws-amplify) - JavaScript Open Source Library with React, React Native Extensions.
 
-### Vue SPA with Laravel   [↗](https://awesomestacks.dev/vue-spa-with-laravel) / Resources
+### Vue SPA with Laravel [↗](https://awesomestacks.dev/vue-spa-with-laravel) / Resources
 
-*   [Laravel](https://laravel.com/) - [🛠](https://stackshare.io/laravel)  - [🐙 (⭐72k)](https://github.com/laravel/laravel) - One of the most popular Object Oriented MVC PHP Framework with elegant syntax and golden standard software patterns.
+*   [Laravel](https://laravel.com/) - [🛠](https://stackshare.io/laravel)  - [🐙 (⭐76k)](https://github.com/laravel/laravel) - One of the most popular Object Oriented MVC PHP Framework with elegant syntax and golden standard software patterns.
 
 ## [2. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
@@ -84,7 +84,7 @@
 
 *   [JD-GUI (⭐13k)](https://github.com/java-decompiler/jd-gui)
 *   Python
-    *   [uncompyle6 (⭐3.3k)](https://github.com/rocky/python-uncompyle6) - decompiler for the over 20 releases and 20 years of CPython.
+    *   [uncompyle6 (⭐3.4k)](https://github.com/rocky/python-uncompyle6) - decompiler for the over 20 releases and 20 years of CPython.
 
 ### Binary files examination and editing / Hex editors
 
@@ -104,30 +104,33 @@
 
 ### Open Source Projects
 
-*   [Improved Initiative](https://www.patreon.com/improvedinitiative) - D\&D tabletop role-playing game combat tracker.
 *   [iTerm2](https://www.patreon.com/gnachman) - macOS terminal replacement.
+
+### Open Source Projects / Games
+
+*   [Improved Initiative](https://www.patreon.com/improvedinitiative) - D\&D tabletop role-playing game combat tracker.
 
 ## [13. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Graphic Displays
 
-*   [ggstatsplot (⭐1.6k)](https://github.com/IndrajeetPatil/ggstatsplot) - ggplot2 Based Plots with Statistical Details
+*   [ggstatsplot (⭐1.8k)](https://github.com/IndrajeetPatil/ggstatsplot) - ggplot2 Based Plots with Statistical Details
 
 ## [14. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### For Electron / Other
 
-*   [electron-better-ipc (⭐676)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
+*   [electron-better-ipc (⭐683)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
 
 ## [15. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Programming Languages
 
-*   [Pascal (⭐1.6k)](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
+*   [Pascal (⭐1.7k)](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
 
 ### Security
 
-*   [Fuzzing (⭐700)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+*   [Fuzzing (⭐732)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 ---
 

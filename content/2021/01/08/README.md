@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 08, 2021
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Tools / Libraries and tools for developers
 
-*   [Polyglot (⭐354)](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
+*   [Polyglot (⭐365)](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
 
 ### Tools / Other tools
 
@@ -22,13 +22,7 @@
 
 *   [Options for styling web components](https://nolanlawson.com/2021/01/03/options-for-styling-web-components/)
 
-## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
-
-### Interactive Experiences
-
-*   [Adidas ZX Game](https://zx-game.de) - Branded rhythm action game (German).
-
-## [4. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
+## [3. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
 ### Politics
 
@@ -42,14 +36,14 @@
 *   [Our Changing Climate](https://www.youtube.com/channel/UCNXvxXpDJXp-mZu3pFMzYHQ) - A bi-weekly video essay series that investigates humanity's relationship to the natural world.
 *   [Simon Clark](https://www.youtube.com/user/SimonOxfPhys) - PhD in climate physics by day, YouTuber by night. He makes videos about both!
 
-## [5. Awesome Math](/content/rossant/awesome-math/README.md)
+## [4. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Mathematical Physics / Stochastic processes
 
 *   [Evan Chen](https://web.evanchen.cc/coursework.html) - MIT. 2012 \~ 2018. Covers Combinatorics, Number Theory, Honors Algebra, Set Theory, Real Analysis, Graph Theory, and more.
 *   [Dexter Chua](https://dec41.user.srcf.net/notes/) - Harvard. 2013 \~ 2018. Covers Analysis, Probability, Linear Algebra, Complex Analysis, Numerical Analysis, Statistics, Optimization, Algebraic Topology, Quantum Field Theory, and more.
 
-## [6. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
+## [5. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 
 ### Cryptography / DSP
 
@@ -65,11 +59,11 @@
 *   [MooseX::Types](https://metacpan.org/pod/MooseX::Types) - Moose types management tool
 *   [Type::Tiny](https://metacpan.org/pod/Type::Tiny) - Tiny, yet comprehensive type library
 
-## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Solid / Integrations
 
-*   [vite-plugin-solid (⭐375)](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
+*   [vite-plugin-solid (⭐405)](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
 
 ### Rollup Plugins / Included in Vite
 

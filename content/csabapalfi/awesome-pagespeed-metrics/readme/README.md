@@ -2,7 +2,7 @@
 
 ⚡Metrics to help understand page speed and user experience
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/csabapalfi/awesome-pagespeed-metrics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 csabapalfi/awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) · ⭐ 629 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/csabapalfi/awesome-pagespeed-metrics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 csabapalfi/awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) · ⭐ 656 · 🏷️ Front-End Development
 
 [ [Daily](/content/csabapalfi/awesome-pagespeed-metrics/README.md) / [Weekly](/content/csabapalfi/awesome-pagespeed-metrics/week/README.md) / Overview ]
 
@@ -79,7 +79,7 @@ Collect performance data from real users visiting your page. Be mindful of the a
 *   [Akamai mPulse](https://www.akamai.com/uk/en/products/performance/mpulse-real-user-monitoring.jsp) - Real User Monitoring SaaS.
 *   [Sematext Experience](https://sematext.com/experience/) - Real User Monitoring SaaS.
 *   [Perfume.js](https://zizzamia.github.io/perfume/) - Open Source Library to collect Field Data.
-*   [Web Vitals (⭐5.4k)](https://github.com/GoogleChrome/web-vitals) - Open Source Library to collect Field Data.
+*   [Web Vitals (⭐6.7k)](https://github.com/GoogleChrome/web-vitals) - Open Source Library to collect Field Data.
 *   [Vercel Analytics](https://vercel.com/docs/analytics) - Real User Monitoring based on Web Vitals.
 
 ### Critical rendering path
@@ -104,9 +104,9 @@ To optimize interactivity metrics like [Total Blocking Time (TBT)](#total-blocki
 It's important to track metrics relevant to users and their experience. To measure the perceived performance we can choose metrics by framing them around a few key questions.
 
 *   [Docs - User-centric Performance Metrics - web.dev](https://web.dev/user-centric-performance-metrics/)
-*   Is it happening? - Did the navigation start successfully? Has the server responded? (e.g [FCP (⭐629)](https://github.com/csabapalfi/awesome-web-performance-metrics/#first-contentful-paint-fcp))
-*   Is it useful/meaningful? - Has enough content rendered that users can engage with it? (e.g. [LCP (⭐629)](https://github.com/csabapalfi/awesome-web-performance-metrics/#largest-contentful-paint-lcp))
-*   Is it usable - Can users interact with the page, or is it still busy loading? (e.g [TBT (⭐629)](https://github.com/csabapalfi/awesome-web-performance-metrics/#total-blocking-time-tbt))
+*   Is it happening? - Did the navigation start successfully? Has the server responded? (e.g [FCP (⭐656)](https://github.com/csabapalfi/awesome-web-performance-metrics/#first-contentful-paint-fcp))
+*   Is it useful/meaningful? - Has enough content rendered that users can engage with it? (e.g. [LCP (⭐656)](https://github.com/csabapalfi/awesome-web-performance-metrics/#largest-contentful-paint-lcp))
+*   Is it usable - Can users interact with the page, or is it still busy loading? (e.g [TBT (⭐656)](https://github.com/csabapalfi/awesome-web-performance-metrics/#total-blocking-time-tbt))
 *   Is it delightful/smooth? - Are the interactions smooth and natural, free of lag and jank?
 
 ***
@@ -129,7 +129,7 @@ The Largest Contentful Paint (LCP) metric reports the render time of the largest
 *   Lab: Lighthouse/WPT
 *   Field: Chrome 77+
 *   [Docs - LCP - web.dev](https://web.dev/largest-contentful-paint/)
-*   [Spec - LCP - W3C (⭐79)](https://github.com/WICG/largest-contentful-paint#readme)
+*   [Spec - LCP - W3C (⭐87)](https://github.com/WICG/largest-contentful-paint#readme)
 
 ### Cumulative Layout Shift (CLS)
 
@@ -138,7 +138,7 @@ A layout shift occurs any time a visible element changes its position from one f
 *   Lab: Lighthouse/WPT
 *   Field: Chrome 77+
 *   [Docs - CLS - web.dev](https://web.dev/cls/)
-*   [Spec - Layout Instability API - W3C (⭐143)](https://github.com/WICG/layout-instability)
+*   [Spec - Layout Instability API - W3C (⭐155)](https://github.com/WICG/layout-instability)
 
 ### Visually Complete
 
@@ -164,7 +164,7 @@ Element Timing captures **when specific elements are painted** by the browser. H
 
 *   Lab: WPT
 *   Field: Chrome 77+
-*   [Docs - Last Painted Hero - WPT (⭐2.8k)](https://github.com/WPO-Foundation/webpagetest/blob/master/docs/Metrics/HeroElements.md)
+*   [Docs - Last Painted Hero - WPT (⭐3k)](https://github.com/WPO-Foundation/webpagetest/blob/master/docs/Metrics/HeroElements.md)
 *   [Spec - Element Timing API](https://wicg.github.io/element-timing/)
 *   [Blogpost - Hero Element Timing - SpeedCurve](https://speedcurve.com/blog/web-performance-monitoring-hero-times/)
 

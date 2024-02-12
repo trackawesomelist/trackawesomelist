@@ -686,10 +686,6 @@
 
 ## [Aug 08 - Aug 14, 2022](/content/2022/32/README.md)
 
-### Reading and Writing Tools / Note-taking
-
-*   [Skiff](https://skiff.com/) - End-to-end encrypted & decentralized email, real-time document collaboration, and file storage designed with zero-trust privacy -- available on web, iOS/Android, and macOS. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/skiff-org)
-
 ### Developer Tools / API Development and Analysis
 
 *   [HTTPie](https://httpie.io/) - HTTPie is making APIs simple and intuitive for those building the tools of our time.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")

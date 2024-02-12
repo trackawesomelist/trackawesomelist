@@ -16,13 +16,13 @@
 
 ### Network perimeter defenses / Evidence collection
 
-*   [Gatekeeper (⭐1k)](https://github.com/AltraMayor/gatekeeper) - First open source Distributed Denial of Service (DDoS) protection system.
+*   [Gatekeeper (⭐1.1k)](https://github.com/AltraMayor/gatekeeper) - First open source Distributed Denial of Service (DDoS) protection system.
 
 ## [3. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Sample Projects / PHP
 
-*   [DDD CQRS Todo Sample (⭐333)](https://github.com/ferrius/ddd-cqrs-example) - DDD CQRS ADR hexagonal architecture implementation built with PHP 7 and Symfony 5.
+*   [DDD CQRS Todo Sample (⭐343)](https://github.com/ferrius/ddd-cqrs-example) - DDD CQRS ADR hexagonal architecture implementation built with PHP 7 and Symfony 5.
 
 ## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -40,13 +40,13 @@
 
 ### Tools and session management
 
-*   [dmux (⭐270)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
+*   [dmux (⭐279)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Intermediate
 
-*   [Lisp Tips (⭐102)](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks. A continuation of [Common Lisp tips](http://lisptips.com/).
+*   [Lisp Tips (⭐111)](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks. A continuation of [Common Lisp tips](http://lisptips.com/).
 *   [Lisp project of the day](http://40ants.com/lisp-project-of-the-day/) - A blog showcasing many Lisp libraries.
 
 ## [8. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
@@ -65,7 +65,7 @@
 
 ### :safety_vest: Community Prisma Tools
 
-*   [prisma-relay-cursor-connection (⭐220)](https://github.com/devoxa/prisma-relay-cursor-connection)
+*   [prisma-relay-cursor-connection (⭐258)](https://github.com/devoxa/prisma-relay-cursor-connection)
 
 ## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Packages / Apps
 
-*   [Web Audio Metronome (⭐546)](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
+*   [Web Audio Metronome (⭐561)](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
 
 ## [17. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -145,7 +145,7 @@
 
 *   [Secure Development Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - *Microsoft* - A collection of tools and practices that serve as a framework for the secure development lifecycle.
 *   [Secure Software Development Framework](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf) - *NIST* - A framework consisting of practices, tasks and implementation examples for a secure development lifecycle.
-*   [Software Assurance Maturity Model (⭐391)](https://github.com/OWASP/samm) - *OWASP* - A framework to measure and improve the maturity of the secure development lifecycle.
+*   [Software Assurance Maturity Model (⭐394)](https://github.com/OWASP/samm) - *OWASP* - A framework to measure and improve the maturity of the secure development lifecycle.
 
 ### Training
 
@@ -168,44 +168,44 @@
 
 ### Dynamic Analysis
 
-*   [Automatic API Attack Tool (⭐343)](https://github.com/imperva/automatic-api-attack-tool) - *Imperva* - Perform automated security scanning against an API based on an API specification.
+*   [Automatic API Attack Tool (⭐414)](https://github.com/imperva/automatic-api-attack-tool) - *Imperva* - Perform automated security scanning against an API based on an API specification.
 *   [BurpSuite Enterprise Edition](https://portswigger.net/burp/enterprise) - *PortSwigger* - BurpSuite's web application vulnerability scanner used widely by penetration testers, modified with CI/CD integration and continuous monitoring over multiple web applications.
-*   [Gauntlt (⭐929)](https://github.com/gauntlt/gauntlt) - *Gauntlt* - A Behaviour Driven Development framework to run security scans using common security tools and test output, defined using Gherkin syntax.
-*   [SSL Labs Scan (⭐1.6k)](https://github.com/ssllabs/ssllabs-scan) - *SSL Labs* - Automated scanning for SSL / TLS configuration issues.
-*   [Zed Attack Proxy (ZAP) (⭐10k)](https://github.com/zaproxy/zaproxy) - *OWASP* - An open-source web application vulnerability scanner, including an API for CI/CD integration.
+*   [Gauntlt (⭐967)](https://github.com/gauntlt/gauntlt) - *Gauntlt* - A Behaviour Driven Development framework to run security scans using common security tools and test output, defined using Gherkin syntax.
+*   [SSL Labs Scan (⭐1.7k)](https://github.com/ssllabs/ssllabs-scan) - *SSL Labs* - Automated scanning for SSL / TLS configuration issues.
+*   [Zed Attack Proxy (ZAP) (⭐12k)](https://github.com/zaproxy/zaproxy) - *OWASP* - An open-source web application vulnerability scanner, including an API for CI/CD integration.
 
 ### Infrastructure as Code Analysis / Cloud Formation
 
-*   [Cfn Nag (⭐1.1k)](https://github.com/stelligent/cfn_nag) - *Stelligent* - Scan AWS CloudFormation templates for insecure configuration.
+*   [Cfn Nag (⭐1.2k)](https://github.com/stelligent/cfn_nag) - *Stelligent* - Scan AWS CloudFormation templates for insecure configuration.
 
 ### Infrastructure as Code Analysis / Containers
 
-*   [Clair (⭐9.1k)](https://github.com/quay/clair) - *Quay* - Scan App Container and Docker containers for publicly disclosed vulnerabilities.
-*   [Dagda (⭐1k)](https://github.com/eliasgranderubio/dagda/) - *Elías Grande* - Compares OS and software dependency versions installed in Docker containers with public vulnerability databases, and also performs virus scanning.
+*   [Clair (⭐9.9k)](https://github.com/quay/clair) - *Quay* - Scan App Container and Docker containers for publicly disclosed vulnerabilities.
+*   [Dagda (⭐1.1k)](https://github.com/eliasgranderubio/dagda/) - *Elías Grande* - Compares OS and software dependency versions installed in Docker containers with public vulnerability databases, and also performs virus scanning.
 *   [Snyk Container](https://snyk.io/product/container-vulnerability-management/) - *Snyk* - Scan Docker and Kubernetes applications for security vulnerabilities during CI/CD or via continuous monitoring.
 
 ### Infrastructure as Code Analysis / Terraform
 
-*   [Tfsec (⭐5.2k)](https://github.com/liamg/tfsec) - *Liam Galvin* - Scan Terraform templates for security misconfiguration and noncompliance with AWS, Azure and GCP security best practice.
+*   [Tfsec (⭐6.4k)](https://github.com/liamg/tfsec) - *Liam Galvin* - Scan Terraform templates for security misconfiguration and noncompliance with AWS, Azure and GCP security best practice.
 
 ### Infrastructure as Code Analysis / Kubernetes
 
-*   [Kube-Score (⭐2k)](https://github.com/zegl/kube-score) - *Gustav Westling* - Scan Kubernetes object definitions for security and performance misconfiguration.
-*   [Kubectrl Kubesec (⭐431)](https://github.com/controlplaneio/kubectl-kubesec) - *ControlPlane* - Plugin for kubesec.io to perform security risk analysis for Kubernetes resources.
+*   [Kube-Score (⭐2.4k)](https://github.com/zegl/kube-score) - *Gustav Westling* - Scan Kubernetes object definitions for security and performance misconfiguration.
+*   [Kubectrl Kubesec (⭐495)](https://github.com/controlplaneio/kubectl-kubesec) - *ControlPlane* - Plugin for kubesec.io to perform security risk analysis for Kubernetes resources.
 
 ### Intentionally Vulnerable Applications / Ansible
 
-*   [Bad SSL (⭐2.4k)](https://github.com/chromium/badssl.com) - *The Chromium Project* - A container running a number of webservers with poor SSL / TLS configuration. Useful for testing tooling.
+*   [Bad SSL (⭐2.7k)](https://github.com/chromium/badssl.com) - *The Chromium Project* - A container running a number of webservers with poor SSL / TLS configuration. Useful for testing tooling.
 *   [Damn Vulnerable Web App](http://www.dvwa.co.uk/) - *Ryan Dewhurst* - A web application that provides a safe environment to understand and exploit common web vulnerabilities.
-*   [Juice Shop (⭐7.3k)](https://github.com/bkimminich/juice-shop) - *OWASP* - A web application containing the OWASP Top 10 security vulnerabilities and more.
-*   [NodeGoat (⭐1.6k)](https://github.com/OWASP/NodeGoat) - *OWASP* - A Node.js web application that demonstrates and provides ways to address common security vulnerabilities.
+*   [Juice Shop (⭐9k)](https://github.com/bkimminich/juice-shop) - *OWASP* - A web application containing the OWASP Top 10 security vulnerabilities and more.
+*   [NodeGoat (⭐1.8k)](https://github.com/OWASP/NodeGoat) - *OWASP* - A Node.js web application that demonstrates and provides ways to address common security vulnerabilities.
 
 ### Related Lists / Ruby
 
 *   [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - *OWASP* - A collection of vulnerable web applications for learning purposes.
-*   [Awesome Threat Modelling (⭐769)](https://github.com/hysnsec/awesome-threat-modelling) - *Practical DevSecOps* - A curated list of threat modeling resources.
-*   [Awesome Dynamic Analysis (⭐611)](https://github.com/analysis-tools-dev/dynamic-analysis/) - *Matthias Endler* - A collection of dynamic analysis tools and code quality checkers.
-*   [Awesome Static Analysis (⭐10k)](https://github.com/analysis-tools-dev/static-analysis/) - *Matthias Endler* - A collection of static analysis tools and code quality checkers.
+*   [Awesome Threat Modelling (⭐1.1k)](https://github.com/hysnsec/awesome-threat-modelling) - *Practical DevSecOps* - A curated list of threat modeling resources.
+*   [Awesome Dynamic Analysis (⭐816)](https://github.com/analysis-tools-dev/dynamic-analysis/) - *Matthias Endler* - A collection of dynamic analysis tools and code quality checkers.
+*   [Awesome Static Analysis (⭐12k)](https://github.com/analysis-tools-dev/static-analysis/) - *Matthias Endler* - A collection of static analysis tools and code quality checkers.
 
 ### Monitoring / Ansible
 
@@ -215,41 +215,41 @@
 
 *   [Ansible Vault](https://docs.ansible.com/ansible/latest/user_guide/vault.html) - *Ansible* - Securely store secrets within Ansible pipelines.
 *   [Azure Key Vault](https://azure.microsoft.com/en-au/services/key-vault/) - *Microsoft Azure* - Securely store secrets within Azure.
-*   [BlackBox (⭐6.4k)](https://github.com/StackExchange/blackbox) - *StackExchange* - Encrypt credentials within your code repository.
-*   [Chef Vault (⭐409)](https://github.com/chef/chef-vault) - *Chef* - Securely store secrets within Chef.
-*   [CredStash (⭐2k)](https://github.com/fugue/credstash) - *Fugue* - Securely store secrets within AWS using KMS and DynamoDB.
+*   [BlackBox (⭐6.6k)](https://github.com/StackExchange/blackbox) - *StackExchange* - Encrypt credentials within your code repository.
+*   [Chef Vault (⭐407)](https://github.com/chef/chef-vault) - *Chef* - Securely store secrets within Chef.
+*   [CredStash (⭐2.1k)](https://github.com/fugue/credstash) - *Fugue* - Securely store secrets within AWS using KMS and DynamoDB.
 *   [CyberArk Application Access Manager](https://www.cyberark.com/products/privileged-account-security-solution/application-access-manager/) - *CyberArk* - Secrets management for applications including secret rotation and auditing.
 *   [Docker Secrets](https://docs.docker.com/engine/swarm/secrets/) - *Docker* - Store and manage access to secrets within a Docker swarm.
-*   [Git Secrets (⭐11k)](https://github.com/awslabs/git-secrets) - *Amazon AWS* - Scan git repositories for secrets committed within code or commit messages.
+*   [Git Secrets (⭐12k)](https://github.com/awslabs/git-secrets) - *Amazon AWS* - Scan git repositories for secrets committed within code or commit messages.
 *   [Google Cloud Key Management Service (KMS)](https://cloud.google.com/kms) - *Google Cloud Platform* - Securely store secrets within GCP.
 *   [HashiCorp Vault](https://www.vaultproject.io/) - *HashiCorp* - Securely store secrets via UI, CLI or HTTP API.
-*   [Pinterest Knox (⭐1.1k)](https://github.com/pinterest/knox) - *Pinterest* - Securely store, rotate and audit secrets.
-*   [Secrets Operations (SOPS) (⭐11k)](https://github.com/mozilla/sops) - *Mozilla* - Encrypt keys stored within YAML, JSON, ENV, INI and BINARY files.
+*   [Pinterest Knox (⭐1.2k)](https://github.com/pinterest/knox) - *Pinterest* - Securely store, rotate and audit secrets.
+*   [Secrets Operations (SOPS) (⭐14k)](https://github.com/mozilla/sops) - *Mozilla* - Encrypt keys stored within YAML, JSON, ENV, INI and BINARY files.
 
 ### Static Analysis / Multi-Language Support
 
-*   [Graudit (⭐1.1k)](https://github.com/wireghoul/graudit/) - *Eldar Marcussen* - Grep source code for potential security flaws with custom or pre-configured regex signatures.
+*   [Graudit (⭐1.3k)](https://github.com/wireghoul/graudit/) - *Eldar Marcussen* - Grep source code for potential security flaws with custom or pre-configured regex signatures.
 *   [LGTM](https://lgtm.com/) - *Semmle* - Scan and monitor code for security vulnerabilities using custom or built-in CodeQL queries.
 *   [RIPS](https://www.ripstech.com/) - *RIPS Technologies* - Automated static analysis for PHP, Java and Node.js projects.
 *   [SonarQube](https://www.sonarqube.org/) - *SonarSource* - Scan code for security and quality issues with support for a wide variety of languages.
 
 ### Static Analysis / C / C++
 
-*   [FlawFinder (⭐295)](https://github.com/david-a-wheeler/flawfinder) - *David Wheeler* - Scan C / C++ code for potential security weaknesses.
+*   [FlawFinder (⭐421)](https://github.com/david-a-wheeler/flawfinder) - *David Wheeler* - Scan C / C++ code for potential security weaknesses.
 
 ### Static Analysis / C#
 
-*   [Puma Scan (⭐413)](https://github.com/pumasecurity/puma-scan) - *Puma Security* - A Visual Studio plugin to scan .NET projects for potential security flaws.
+*   [Puma Scan (⭐430)](https://github.com/pumasecurity/puma-scan) - *Puma Security* - A Visual Studio plugin to scan .NET projects for potential security flaws.
 
 ### Static Analysis / Configuration Files
 
-*   [Conftest (⭐2.4k)](https://github.com/instrumenta/conftest) - *Instrumenta* - Create custom tests to scan any configuration file for security flaws.
+*   [Conftest (⭐2.7k)](https://github.com/instrumenta/conftest) - *Instrumenta* - Create custom tests to scan any configuration file for security flaws.
 
 ### Static Analysis / Java
 
 *   [Deep Dive](https://discotek.ca/deepdive.xhtml) - *Discotek.ca* - Static analysis for JVM deployment units including Ear, War, Jar and APK.
-*   [Find Security Bugs (⭐2k)](https://github.com/find-sec-bugs/find-sec-bugs/) - *OWASP* - SpotBugs plugin for security audits of Java web applications. Supports Eclipse, IntelliJ, Android Studio and SonarQube.
-*   [SpotBugs (⭐2.9k)](https://github.com/spotbugs/spotbugs) - *SpotBugs* - Static code analysis for Java applications.
+*   [Find Security Bugs (⭐2.2k)](https://github.com/find-sec-bugs/find-sec-bugs/) - *OWASP* - SpotBugs plugin for security audits of Java web applications. Supports Eclipse, IntelliJ, Android Studio and SonarQube.
+*   [SpotBugs (⭐3.3k)](https://github.com/spotbugs/spotbugs) - *SpotBugs* - Static code analysis for Java applications.
 
 ### Static Analysis / JavaScript
 
@@ -257,31 +257,31 @@
 
 ### Static Analysis / Go
 
-*   [Golang Security Checker (⭐6.4k)](https://github.com/securego/gosec) - *securego* - CLI tool to scan Go code for potential security flaws.
+*   [Golang Security Checker (⭐7.3k)](https://github.com/securego/gosec) - *securego* - CLI tool to scan Go code for potential security flaws.
 
 ### Static Analysis / .NET
 
-*   [Security Code Scan (⭐796)](https://github.com/security-code-scan/security-code-scan) - *Security Code Scan* - Static code analysis for C# and VB.NET applications.
+*   [Security Code Scan (⭐893)](https://github.com/security-code-scan/security-code-scan) - *Security Code Scan* - Static code analysis for C# and VB.NET applications.
 
 ### Static Analysis / PHP
 
-*   [PHPCS Security Audit (⭐643)](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - *Floe* - PHP static analysis with rules for PHP, Drupal 7 and PHP related CVEs.
-*   [Progpilot (⭐268)](https://github.com/designsecurity/progpilot) - *Design Security* - Static analysis for PHP source code.
+*   [PHPCS Security Audit (⭐689)](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - *Floe* - PHP static analysis with rules for PHP, Drupal 7 and PHP related CVEs.
+*   [Progpilot (⭐305)](https://github.com/designsecurity/progpilot) - *Design Security* - Static analysis for PHP source code.
 
 ### Static Analysis / Python
 
-*   [Bandit (⭐4.6k)](https://github.com/PyCQA/bandit) - *Python Code Quality Authority* - Find common security vulnerabilities in Python code.
+*   [Bandit (⭐5.7k)](https://github.com/PyCQA/bandit) - *Python Code Quality Authority* - Find common security vulnerabilities in Python code.
 
 ### Static Analysis / Ruby
 
-*   [Brakeman (⭐6.5k)](https://github.com/presidentbeef/brakeman) - *Justin Collins* - Static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
-*   [DawnScanner (⭐673)](https://github.com/thesp0nge/dawnscanner) - *Paolo Perego* - Security scanning for Ruby scripts and web application. Supports Ruby on Rails, Sinatra and Padrino frameworks.
+*   [Brakeman (⭐6.8k)](https://github.com/presidentbeef/brakeman) - *Justin Collins* - Static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
+*   [DawnScanner (⭐723)](https://github.com/thesp0nge/dawnscanner) - *Paolo Perego* - Security scanning for Ruby scripts and web application. Supports Ruby on Rails, Sinatra and Padrino frameworks.
 
 ### Threat Modelling / Ruby
 
 *   [SecuriCAD](https://www.foreseeti.com/) - *Forseeti* - Treat modelling and attack simulations for IT infrastructure.
 *   [IriusRisk](https://iriusrisk.com/) - *IriusRisk* - Draw threat models and capture threats and countermeasures and manage risk.
-*   [Raindance Project (⭐39)](https://github.com/devsecops/raindance) - *DevSecOps* - Use attack maps to identify attack surface and adversary strategies that may lead to compromise.
+*   [Raindance Project (⭐42)](https://github.com/devsecops/raindance) - *DevSecOps* - Use attack maps to identify attack surface and adversary strategies that may lead to compromise.
 *   [SD Elements](https://www.securitycompass.com/sdelements/threat-modeling/) - *Security Compass* - Identify and rank threats, generate actionable tasks and track related tickets.
 *   [Threat Dragon](https://owasp.org/www-project-threat-dragon/) - *OWASP* - Threat model diagramming tool.
 *   [Threat Modelling Tool](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling) - *Microsoft* - Threat model diagramming tool.

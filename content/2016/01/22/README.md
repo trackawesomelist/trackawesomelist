@@ -22,7 +22,7 @@
 
 ### JSON
 
-*   [json (⭐37k)](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. \[MIT] [website](https://json.nlohmann.me)
+*   [json (⭐39k)](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. \[MIT] [website](https://json.nlohmann.me)
 
 ## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -66,19 +66,19 @@
 ### Articles
 
 *   [Optimizing the footprint of an npm package](https://medium.com/@goldglovecb/npm-needs-a-personal-trainer-537e0f8859c6)
-*   [The Art of Node (⭐9.6k)](https://github.com/maxogden/art-of-node#modules) - An introduction to Node.js and client-side development with npm.
+*   [The Art of Node (⭐9.7k)](https://github.com/maxogden/art-of-node#modules) - An introduction to Node.js and client-side development with npm.
 
 ### Registry
 
-*   [latest-version (⭐51)](https://github.com/sindresorhus/latest-version-cli) - Get the latest version of an npm package.
-*   [npm-user (⭐57)](https://github.com/sindresorhus/npm-user) - Get user info of an npm user.
+*   [latest-version (⭐52)](https://github.com/sindresorhus/latest-version-cli) - Get the latest version of an npm package.
+*   [npm-user (⭐56)](https://github.com/sindresorhus/npm-user) - Get user info of an npm user.
 *   [npm-email (⭐31)](https://github.com/sindresorhus/npm-email) - Get the email of an npm user.
 *   [npm-user-packages (⭐1)](https://github.com/kevva/npm-user-packages-cli) - Get packages by an npm user.
 *   [npm-stats (⭐51)](https://github.com/hughsk/npm-stats) - Get data from an npm registry.
 
 ### Other
 
-*   [generator-nm (⭐741)](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
+*   [generator-nm (⭐742)](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
 *   [npm-issues (⭐49)](https://github.com/seanzarrin/npm-issues) - Search known issues of all your packages at once.
 
 ## [9. Awesome Rest](/content/marmelab/awesome-rest/README.md)

@@ -62,7 +62,7 @@
 
 ### Third-party APIs
 
-*   [google (⭐21)](https://github.com/PlaceOS/google) - Google API wrapper
+*   [google (⭐23)](https://github.com/PlaceOS/google) - Google API wrapper
 *   [office365 (⭐9)](https://github.com/PlaceOS/office365) - Microsoft Graph API wrapper
 
 ## [3. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
@@ -75,7 +75,7 @@
 
 ### Applications / System tools
 
-*   [orhun/kmon (⭐2k)](https://github.com/orhun/kmon) — Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
+*   [orhun/kmon (⭐2.3k)](https://github.com/orhun/kmon) — Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
 
 ## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -115,18 +115,18 @@
 
 ### WSL Tools / WSL Utilities
 
-*   [pinentry-wsl-ps1 (⭐87)](https://github.com/diablodale/pinentry-wsl-ps1) - Store passwords for gpg-agent in Windows Credential Manager ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [pinentry-wsl-ps1 (⭐91)](https://github.com/diablodale/pinentry-wsl-ps1) - Store passwords for gpg-agent in Windows Credential Manager ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [11. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Database Management
 
-*   [redux (⭐77)](https://github.com/richfitz/redux) - Redis client for R.
+*   [redux (⭐85)](https://github.com/richfitz/redux) - Redis client for R.
 
 ### Machine Learning
 
 *   [mlr (⭐1.6k)](https://github.com/mlr-org/mlr) - Extensible framework for classification, regression, survival analysis and clustering \[DEPRECIATED]
-*   [mlr3 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐706)](https://github.com/mlr-org/mlr3) -  Next generation extensible framework for classification, regression, survival analysis and clustering
+*   [mlr3 <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐837)](https://github.com/mlr-org/mlr3) -  Next generation extensible framework for classification, regression, survival analysis and clustering
 
 ---
 

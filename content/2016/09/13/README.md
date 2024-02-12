@@ -16,7 +16,7 @@
 
 ### Table of Contents / Build Tools
 
-*   [Construct (⭐263)](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator.
+*   [Construct (⭐266)](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Authentication
 
-*   [doorman (⭐119)](https://github.com/BlakeWilliams/doorman) - Tools to make Elixir authentication simple and flexible.
+*   [doorman (⭐120)](https://github.com/BlakeWilliams/doorman) - Tools to make Elixir authentication simple and flexible.
 
 ### Macros
 

@@ -10,19 +10,19 @@
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [Godot syntax themes (⭐271)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
+*   [Godot syntax themes (⭐304)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Search Engines
 
-*   [sist2 (⭐643)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
+*   [sist2 (⭐680)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
 
 ## [3. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Utils
 
-*   [Moon (⭐186)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
+*   [Moon (⭐197)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 
 ## [4. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
@@ -73,33 +73,32 @@
 ### Preconfigured Configs with ESLint Set up / Other Configs
 
 *   [Node.js Standard Style (⭐6)](https://github.com/geek/node-style) - Node.js core config.
-*   [prettier-standard (⭐865)](https://github.com/sheerun/prettier-standard) - Prettier formatter with custom eslint rules allowed.
-*   [Standard (⭐28k)](https://github.com/feross/standard) - JavaScript Standard Style.
-*   [Superlint (⭐4)](https://github.com/supermind/superlint) - JavaScript Supermind Style.
-*   [XO (⭐7.2k)](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
-*   [Healthier (⭐80)](https://github.com/KidkArolis/healthier) - Code style agnostic version of Standard, perfect companion to Prettier.
+*   [Standard (⭐29k)](https://github.com/feross/standard) - JavaScript Standard Style.
+*   [Superlint (⭐5)](https://github.com/supermind/superlint) - JavaScript Supermind Style.
+*   [XO (⭐7.5k)](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
+*   [Healthier (⭐82)](https://github.com/KidkArolis/healthier) - Code style agnostic version of Standard, perfect companion to Prettier.
 
 ### Parsers / Testing Tools
 
 *   [TypeScript (⭐14k)](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
-*   [BrightScript (⭐44)](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
+*   [BrightScript (⭐42)](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
 
 ### Globals / Testing Tools
 
-*   [ES and browser globals (⭐283)](https://github.com/sindresorhus/globals) (originally from ESLint)
+*   [ES and browser globals (⭐319)](https://github.com/sindresorhus/globals) (originally from ESLint)
 *   [chai globals (⭐2)](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 
 ## [10. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Documentation
 
-*   [Game Boy Project Report](http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/reports/GameBoy.pdf) - Report of an hardware [emulator (⭐3)](https://github.com/kitsuneh/SVGameBoy) (on a Terasic DE1-SoC Board) developed as final project for the CSEE4840 Embedded Systems Design course at Columbia University.
+*   [Game Boy Project Report](http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/reports/GameBoy.pdf) - Report of an hardware [emulator (⭐4)](https://github.com/kitsuneh/SVGameBoy) (on a Terasic DE1-SoC Board) developed as final project for the CSEE4840 Embedded Systems Design course at Columbia University.
 
 ## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community Extensions
 
-*   [leroyguillaume/keycloak-bcrypt (⭐110)](https://github.com/leroyguillaume/keycloak-bcrypt)
+*   [leroyguillaume/keycloak-bcrypt (⭐116)](https://github.com/leroyguillaume/keycloak-bcrypt)
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -127,19 +126,19 @@
 
 ### Applications
 
-*   [asm-cli-rust (⭐272)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
-*   [denoland/deno (⭐91k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
-*   [kytan (⭐420)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
-*   [linkerd/linkerd2-proxy (⭐1.8k)](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
-*   [rx (⭐2.9k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
+*   [asm-cli-rust (⭐289)](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
+*   [denoland/deno (⭐92k)](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
+*   [kytan (⭐442)](https://github.com/changlan/kytan) — High Performance Peer-to-Peer VPN
+*   [linkerd/linkerd2-proxy (⭐1.9k)](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
+*   [rx (⭐3k)](https://github.com/cloudhead/rx) — Vi inspired Modern Pixel Art Editor
 
 ## [16. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/README.md)
 
 ### Concepts / User-centric metrics
 
 *   [Docs - User-centric Performance Metrics - web.dev](https://web.dev/user-centric-performance-metrics/)
-*   Is it useful/meaningful? - Has enough content rendered that users can engage with it? (e.g. [LCP (⭐629)](https://github.com/csabapalfi/awesome-web-performance-metrics/#largest-contentful-paint-lcp))
-*   Is it usable - Can users interact with the page, or is it still busy loading? (e.g [TBT (⭐629)](https://github.com/csabapalfi/awesome-web-performance-metrics/#total-blocking-time-tbt))
+*   Is it useful/meaningful? - Has enough content rendered that users can engage with it? (e.g. [LCP (⭐656)](https://github.com/csabapalfi/awesome-web-performance-metrics/#largest-contentful-paint-lcp))
+*   Is it usable - Can users interact with the page, or is it still busy loading? (e.g [TBT (⭐656)](https://github.com/csabapalfi/awesome-web-performance-metrics/#total-blocking-time-tbt))
 
 ### Rendering metrics / First Contentful Paint (FCP)
 
@@ -151,20 +150,20 @@
 
 *   Lab: Lighthouse/WPT
 *   [Docs - CLS - web.dev](https://web.dev/cls/)
-*   [Spec - Layout Instability API - W3C (⭐143)](https://github.com/WICG/layout-instability)
+*   [Spec - Layout Instability API - W3C (⭐155)](https://github.com/WICG/layout-instability)
 
 ### Rendering metrics / (Hero) Element Timing
 
 *   Field: Chrome 77+
 *   Lab: WPT
-*   [Docs - Last Painted Hero - WPT (⭐2.8k)](https://github.com/WPO-Foundation/webpagetest/blob/master/docs/Metrics/HeroElements.md)
+*   [Docs - Last Painted Hero - WPT (⭐3k)](https://github.com/WPO-Foundation/webpagetest/blob/master/docs/Metrics/HeroElements.md)
 *   [Spec - Element Timing API](https://wicg.github.io/element-timing/)
 *   [Blogpost - Hero Element Timing - SpeedCurve](https://speedcurve.com/blog/web-performance-monitoring-hero-times/)
 
 ### Rendering metrics / Largest Contentful Paint (LCP)
 
 *   [Docs - LCP - web.dev](https://web.dev/largest-contentful-paint/)
-*   [Spec - LCP - W3C (⭐79)](https://github.com/WICG/largest-contentful-paint#readme)
+*   [Spec - LCP - W3C (⭐87)](https://github.com/WICG/largest-contentful-paint#readme)
 
 ### Rendering metrics / Speed Index
 

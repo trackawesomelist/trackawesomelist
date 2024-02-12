@@ -36,13 +36,13 @@
 
 ### Miscellaneous
 
-*   [phone (⭐104)](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
+*   [phone (⭐105)](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
 
 ## [5. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Other
 
-*   [npm-upgrade (⭐329)](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
+*   [npm-upgrade (⭐340)](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
 
 ## [6. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
 

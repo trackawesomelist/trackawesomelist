@@ -61,7 +61,7 @@
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Malware Analysis (⭐10k)](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources.
+*   [Awesome Malware Analysis (⭐11k)](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources.
 
 ---
 

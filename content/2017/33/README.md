@@ -34,8 +34,8 @@
 
 ### Scientific / XML
 
-*   [mir (⭐210)](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others.
-*   [mir-algorithm (⭐210)](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
+*   [mir (⭐211)](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others.
+*   [mir-algorithm (⭐211)](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
 *   [mir-random (⭐31)](https://github.com/libmir/mir-random) -  Advanced Random Number Generators.
 
 ## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
@@ -54,7 +54,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [ML-From-Scratch (⭐22k)](https://github.com/eriklindernoren/ML-From-Scratch) - Implementations of Machine Learning models from scratch in Python with a focus on transparency. Aims to showcase the nuts and bolts of ML in an accessible way.
+*   [ML-From-Scratch (⭐23k)](https://github.com/eriklindernoren/ML-From-Scratch) - Implementations of Machine Learning models from scratch in Python with a focus on transparency. Aims to showcase the nuts and bolts of ML in an accessible way.
 
 ## [8. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
@@ -70,7 +70,6 @@
 *   [Code Climate](https://codeclimate.com/) - Automated code review & health analysis.
 *   [codebeat](https://codebeat.co/) - Automated code review for mobile and web.
 *   [CodeFactor](https://www.codefactor.io/) - Automated static analysis for C#, Java, CSS, JS, Ruby, Go and Python source code.
-*   [Ebert](https://ebertapp.io/) - Continuous static analysis.
 *   [Hound](https://houndci.com/) - Source code style review.
 *   [PullApprove](https://about.pullapprove.com/) - Approve GitHub pull request through code review.
 *   [Reviewable](https://reviewable.io/) - Automated GitHub code reviews.
@@ -140,17 +139,13 @@
 
 ## [9. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
-### PHP / Scala
-
-*   [Upswarm (⭐81)](https://github.com/Zizaco/upswarm) - Multi-processed, async, fault-tolerant micro-framework for writing service-oriented applications.
-
 ### API Gateways / Edge Services / Scala
 
 *   [Istio](https://istio.io/) - An open platform to connect, manage, and secure microservices.
 
 ### Testing / Scala
 
-*   [Goreplay (⭐17k)](https://github.com/buger/goreplay) - A tool for capturing and replaying live HTTP traffic into a test environment.
+*   [Goreplay (⭐18k)](https://github.com/buger/goreplay) - A tool for capturing and replaying live HTTP traffic into a test environment.
 
 ## [10. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
@@ -286,7 +281,7 @@
 
 ### Reverse Engineering / Reverse Engineering Tools
 
-*   [Voltron (⭐6k)](https://github.com/snare/voltron) - Extensible debugger UI toolkit written in Python.
+*   [Voltron (⭐6.1k)](https://github.com/snare/voltron) - Extensible debugger UI toolkit written in Python.
 
 ## [19. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -333,7 +328,7 @@
 
 ### Libraries / Parsing
 
-*   [pest-parser/pest (⭐4k)](https://github.com/pest-parser/pest) — The Elegant Parser
+*   [pest-parser/pest (⭐4.2k)](https://github.com/pest-parser/pest) — The Elegant Parser
 
 ## [25. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
@@ -368,16 +363,12 @@
 
 ### Multimedia
 
-*   [Vocal (⭐342)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
+*   [Vocal (⭐344)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 *   [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
 
 ### Graphics
 
-*   [Coulr (⭐32)](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
-
-### Gaming
-
-*   [GNOME Games](https://wiki.gnome.org/Apps/Games) - Game launcher and an emulation frontend to libretro.
+*   [Coulr (⭐33)](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
 
 ### System and Customization
 
@@ -391,7 +382,7 @@
 ### Icons / Material Icons
 
 *   [Paper](https://snwh.org/paper) - Material icon theme.
-*   [Papirus (⭐6k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+*   [Papirus (⭐6.2k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
 ### Icons / Flat Icons
 
@@ -399,11 +390,11 @@
 
 ### Icons / Homogeneous Icons
 
-*   [Obsidian (⭐177)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
+*   [Obsidian (⭐178)](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
 
 ### Icons / Skeumorphic Icons
 
-*   [Elementary XFCE (⭐261)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
+*   [Elementary XFCE (⭐262)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ### Documentations / Skeumorphic Icons
 
@@ -420,19 +411,19 @@
 
 ### Exceptions and Error Handling
 
-*   [Perseverance (⭐175)](https://github.com/grammarly/perseverance)
-*   [Dire (⭐484)](https://github.com/MichaelDrogalis/dire)
+*   [Perseverance (⭐178)](https://github.com/grammarly/perseverance)
+*   [Dire (⭐482)](https://github.com/MichaelDrogalis/dire)
 
 ### Editor Plugins
 
-*   [CIDER (Emacs) (⭐3.4k)](https://github.com/clojure-emacs/cider)
-*   [smartparens (Emacs) (⭐1.7k)](https://github.com/Fuco1/smartparens)
-*   [rainbow-delimiters (Emacs) (⭐613)](https://github.com/Fanael/rainbow-delimiters)
-*   [aggressive-indent (Emacs) (⭐808)](https://github.com/Malabarba/aggressive-indent-mode)
+*   [CIDER (Emacs) (⭐3.5k)](https://github.com/clojure-emacs/cider)
+*   [smartparens (Emacs) (⭐1.8k)](https://github.com/Fuco1/smartparens)
+*   [rainbow-delimiters (Emacs) (⭐640)](https://github.com/Fanael/rainbow-delimiters)
+*   [aggressive-indent (Emacs) (⭐824)](https://github.com/Malabarba/aggressive-indent-mode)
 *   [vim-fireplace (Vim) (⭐1.7k)](https://github.com/tpope/vim-fireplace)
 *   [vim-redl (Vim) (⭐107)](https://github.com/dgrnbrg/vim-redl)
-*   [vim-leiningen (Vim) (⭐196)](https://github.com/tpope/vim-salve)
-*   [rainbow\_parentheses.vim (Vim) (⭐371)](https://github.com/junegunn/rainbow_parentheses.vim)
+*   [vim-leiningen (Vim) (⭐197)](https://github.com/tpope/vim-salve)
+*   [rainbow\_parentheses.vim (Vim) (⭐377)](https://github.com/junegunn/rainbow_parentheses.vim)
 *   [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
 
 ### Archives and Compression
@@ -447,7 +438,7 @@
 
 ### Command-Line Productivity
 
-*   [lf.sh (⭐40)](https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (grepping, copying path to clipboard, etc)
+*   [lf.sh (⭐41)](https://github.com/suewonjp/lf.sh) - Quickly search files with fewer typings and do many more (grepping, copying path to clipboard, etc)
 
 ### For Developers / Directory Navigation
 
@@ -455,7 +446,7 @@
 
 ### Applications / Directory Navigation
 
-*   [wttr.in (⭐22k)](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather (curl wttr.in)
+*   [wttr.in (⭐23k)](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather (curl wttr.in)
 
 ## [31. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
@@ -500,8 +491,8 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeafPlayer (⭐152)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
-*   [JSON Editor (⭐226)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
+*   [LeafPlayer (⭐151)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
+*   [JSON Editor (⭐228)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
 
 ### Components & Libraries / UI Utilities
 
@@ -596,24 +587,24 @@
 
 ### Algorithms and Data structures
 
-*   [ecto\_materialized\_path (⭐58)](https://github.com/asiniy/ecto_materialized_path) - Tree structure, hierarchy and ancestry for the ecto models.
+*   [ecto\_materialized\_path (⭐60)](https://github.com/asiniy/ecto_materialized_path) - Tree structure, hierarchy and ancestry for the ecto models.
 
 ### Debugging
 
-*   [ex\_debug\_toolbar (⭐405)](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
+*   [ex\_debug\_toolbar (⭐406)](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
 
 ### Deployment
 
-*   [bootleg (⭐394)](https://github.com/labzero/bootleg) - Simple deployment and server automation for Elixir.
+*   [bootleg (⭐395)](https://github.com/labzero/bootleg) - Simple deployment and server automation for Elixir.
 *   [Gigalixir](https://www.gigalixir.com) - A fully-featured PaaS designed for Elixir. Supports clustering, hot upgrades, and remote console/observer. Free to try without a credit card.
 
 ### Eventhandling
 
-*   [event\_bus (⭐676)](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
+*   [event\_bus (⭐683)](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
 
 ### Macros
 
-*   [shorter\_maps (⭐228)](https://github.com/meyercm/shorter_maps) - \~M sigil for map shorthand. `~M{id name} ~> %{id: id, name: name}`.
+*   [shorter\_maps (⭐229)](https://github.com/meyercm/shorter_maps) - \~M sigil for map shorthand. `~M{id name} ~> %{id: id, name: name}`.
 
 ### Networking
 
@@ -675,7 +666,7 @@
 
 ### Colors
 
-*   [ChromaColorPicker (⭐560)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
+*   [ChromaColorPicker (⭐559)](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
 
 ### Date
 

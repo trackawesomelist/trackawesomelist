@@ -10,7 +10,7 @@
 
 ### Application Frameworks
 
-*   [CSLA .NET (⭐1.1k)](https://github.com/MarimerLLC/csla) - business layer development framework <https://cslanet.com/>
+*   [CSLA .NET (⭐1.2k)](https://github.com/MarimerLLC/csla) - business layer development framework <https://cslanet.com/>
 
 ### Caching
 
@@ -22,7 +22,7 @@
 
 ### GIS
 
-*   [CoordinateSharp (⭐321)](https://github.com/Tronald/CoordinateSharp) - Easily parse or convert coordinate formats and calculate location based solar/lunar information.
+*   [CoordinateSharp (⭐331)](https://github.com/Tronald/CoordinateSharp) - Easily parse or convert coordinate formats and calculate location based solar/lunar information.
 
 ### IDE
 
@@ -128,13 +128,13 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 ### Other lists / Hash functions
 
-*   [Awesome crypto-papers (⭐1.5k)](https://github.com/pFarb/awesome-crypto-papers) – A curated list of cryptography papers, articles, tutorials and howtos.
+*   [Awesome crypto-papers (⭐1.6k)](https://github.com/pFarb/awesome-crypto-papers) – A curated list of cryptography papers, articles, tutorials and howtos.
 
 ## [12. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Video Production
 
-*   [MOS-connection (⭐13)](https://github.com/nrkno/tv-automation-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
+*   [MOS-connection (⭐17)](https://github.com/nrkno/tv-automation-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
 
 ## [13. Typography](/content/deanhume/typography/README.md)
 

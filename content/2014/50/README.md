@@ -10,7 +10,7 @@
 
 ### Packages / Image
 
-*   [pica (⭐3.4k)](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.
+*   [pica (⭐3.5k)](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.
 
 ## [2. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Sliders / Runner
 
-*   [PhotoSwipe (⭐23k)](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent.
+*   [PhotoSwipe (⭐24k)](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent.
 
 ### Scroll / Other
 
@@ -96,7 +96,7 @@
 
 ### Other Awesome Projects
 
-*   [awesome-algorithms (⭐15k)](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
+*   [awesome-algorithms (⭐17k)](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 
 ## [10. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -123,13 +123,13 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [deap (⭐5.3k)](https://github.com/deap/deap) - Evolutionary algorithm framework.
+*   [deap (⭐5.4k)](https://github.com/deap/deap) - Evolutionary algorithm framework.
 
 ## [13. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Language API
 
-*   [V8 (⭐181)](https://github.com/jeroenooms/V8) - Embedded JavaScript Engine.
+*   [V8 (⭐189)](https://github.com/jeroenooms/V8) - Embedded JavaScript Engine.
 
 ---
 

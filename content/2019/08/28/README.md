@@ -58,7 +58,7 @@
 
 ### Tools
 
-*   [orbit-db (⭐7.9k)](https://github.com/orbitdb/orbit-db) - OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.
+*   [orbit-db (⭐8k)](https://github.com/orbitdb/orbit-db) - OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.
 
 ## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

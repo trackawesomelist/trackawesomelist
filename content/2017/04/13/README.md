@@ -115,13 +115,13 @@
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [TensorFlow (⭐281)](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
+*   [TensorFlow (⭐283)](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
 
 ## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Libraries and Frameworks / JavaScript / TypeScript
 
-*   [Node API Boilerplate (⭐3.2k)](https://github.com/talyssonoc/node-api-boilerplate) - NodeJS web API boilerplate for DDD and Clean Architecture applications.
+*   [Node API Boilerplate (⭐3.3k)](https://github.com/talyssonoc/node-api-boilerplate) - NodeJS web API boilerplate for DDD and Clean Architecture applications.
 
 ## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -133,7 +133,7 @@
 
 ### Questions
 
-*   [tensorflow-ocaml (⭐279)](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
+*   [tensorflow-ocaml (⭐283)](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
 
 ## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -155,7 +155,7 @@
 
 ### Miscellaneous
 
-*   [Awesome (⭐223k)](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
+*   [Awesome (⭐278k)](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
 
 ## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

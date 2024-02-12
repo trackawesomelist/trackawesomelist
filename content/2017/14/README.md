@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 03 - Apr 09, 2017
 
-45 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -23,13 +23,7 @@
 
 *   [Why you shouldn't use ENV variables for secret data](https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/)
 
-## [3. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
-
-### Python / Scala
-
-*   [Sanic (⭐17k)](https://github.com/channelcat/sanic) - Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
-
-## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Debugging and Reverse Engineering / Other Resources
 
@@ -37,49 +31,49 @@
 *   [LIEF](https://lief.quarkslab.com/) - LIEF provides a cross-platform library
     to parse, modify and abstract ELF, PE and MachO formats.
 
-## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Datasets
 
 *   [Digital Embryos](https://web-beta.archive.org/web/20011216051535/vision.psych.umn.edu/www/kersten-lab/demos/digitalembryo.html) - Digital embryos are novel objects which may be used to develop and test object recognition systems. They have an organic appearance. (Formats: various formats are available on request)
 
-## [6. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [5. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
-- Repository: [Hacking (⭐9.1k)](https://github.com/carpedm20/awesome-hacking)
+- Repository: [Hacking (⭐11k)](https://github.com/carpedm20/awesome-hacking)
 
   Description: List of awesome Hacking tutorials, tools and resources
 
 
 
-## [7. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Lighting / Firmwares for ESP based Devices
 
 *   [TRADFRI2MQTT (⭐79)](https://github.com/hardillb/TRADFRI2MQTT) - MQTT Bridge for IKEA TRÅDFRI Light Gateway.
 
-## [8. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+## [7. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Specific topics / Secret key cryptography
 
 *   [Recomendation for Block Cipher modes of operation: Methods and Techniques](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38a.pdf).
 
-## [9. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [8. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### IDEs, Editors, and Plugins
 
 *   [Module Linker](http://fiatjaf.alhur.es/module-linker/#/dart) - Chrome Extension that adds direct links to module import statements on GitHub.
 
-## [10. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Realtime Libraries & Demo Apps / Ruby
 
-*   [gtfs-realtime-bindings (⭐332)](https://github.com/google/gtfs-realtime-bindings) - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official [GTFS-realtime protocol buffer specification (⭐446)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto).
+*   [gtfs-realtime-bindings (⭐347)](https://github.com/google/gtfs-realtime-bindings) - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official [GTFS-realtime protocol buffer specification (⭐496)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto).
 
 ### GTFS Realtime (and Other Real-time API) Archival Tools / Ruby
 
-*   [gtfsrdb (⭐35)](https://github.com/CUTR-at-USF/gtfsrdb) - A Python tool that supports reading and archiving GTFS-realtime feeds into a database
+*   [gtfsrdb (⭐37)](https://github.com/CUTR-at-USF/gtfsrdb) - A Python tool that supports reading and archiving GTFS-realtime feeds into a database
 
 ### SIRI / Ruby
 
@@ -87,13 +81,13 @@
 *   [SIRI REST Client (⭐26)](https://github.com/CUTR-at-USF/SiriRestClient/wiki) - An open-source Android library for interacting with the RESTful SIRI interface for real-time transit data, such as that currently being used by the [MTA Bus Time API](http://bustime.mta.info/wiki/Developers/SIRIIntro).
 *   [SIRI 1.3 POJOs (Android-compatible) (⭐4)](https://github.com/CUTR-at-USF/onebusaway-siri-api-v13-pojos/wiki) - Android-compatible Plain Old Java Objects (POJOSs) used for data binding (deserliazing XML/JSON) responses for SIRI v1.3 APIs.  Used by the [SIRI REST Client (⭐26)](https://github.com/CUTR-at-USF/SiriRestClient/wiki).
 
-## [11. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [10. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Remote / Aggregator
 
 *   [whoishiring.io](https://whoishiring.io/)
 
-## [12. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [11. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / California <a id="california"></a>
 
@@ -113,13 +107,13 @@
 | ---- | ----- | ----------------------------------------------------------------------- | ---------------------------------------- |
 | ✔    | ✔     | [5401 College Ave, Oakland, CA 94618](https://goo.gl/maps/fHX4zid3HH72) | Weekdays: 6AM - 6PM, Weekends: 7AM - 6PM |
 
-## [13. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [12. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Open Source / Eclipse
 
 *   [dropwizard-money (⭐1)](https://github.com/smoketurner/dropwizard-money) - A Money bundle for Dropwizard
 
-## [14. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [13. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -131,7 +125,7 @@
 
 
 
-## [15. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [14. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Developer
 
@@ -143,13 +137,13 @@ Free
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/macosKernelPanic.png)](http://doomlaser.com/kernel-panic-screensaver/)
 
-## [16. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [15. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Utilities
 
 *   [pg\_migrate (⭐27)](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
 
-## [17. Tips](/content/git-tips/tips/week/README.md)
+## [16. Tips](/content/git-tips/tips/week/README.md)
 
 ## Checkout a commit prior to a day ago
 
@@ -157,7 +151,7 @@ Free
 git checkout master@{yesterday}
 ```
 
-## [18. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [17. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Machine Learning
 
@@ -165,19 +159,19 @@ git checkout master@{yesterday}
     *   A course on reinforcement learning in the wild. Taught on-campus in HSE and Yandex SDA (russian) and maintained to be friendly to online students (both english and russian).
     *   [Syllabus (⭐5.1k)](https://github.com/yandexdataschool/Practical_RL#syllabus)
 
-## [19. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [18. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Database Drivers
 
 *   [asyncpgsa (⭐404)](https://github.com/CanopyTax/asyncpgsa) - Asyncpg with sqlalchemy core support.
 
-## [20. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [19. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Libraries and Mixins / Miscellaneous
 
 *   [Sass Deprecate (⭐271)](https://github.com/salesforce-ux/sass-deprecate) - Sass mixin that helps managing code deprecation.
 
-## [21. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [20. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / *SSH*   keys / Authentication
 
@@ -191,7 +185,7 @@ git checkout master@{yesterday}
 
 *   [Apache Guacamole](https://guacamole.incubator.apache.org/) - Apache Guacamole is a HTML5 based clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.
 
-## [22. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [21. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Micro Frameworks
 
@@ -199,32 +193,32 @@ git checkout master@{yesterday}
 
 ### Table of Contents / Routers
 
-*   [Aura.Router (⭐467)](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
+*   [Aura.Router (⭐491)](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
 
 ### Table of Contents / Dependency Injection
 
-*   [Aura.Di (⭐342)](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
+*   [Aura.Di (⭐346)](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
 
 ### Table of Contents / Database
 
-*   [Aura.Sql (⭐531)](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
-*   [Spot2 (⭐603)](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
+*   [Aura.Sql (⭐548)](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
+*   [Spot2 (⭐602)](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
 
 ### Table of Contents / Command Line
 
-*   [Aura.Cli (⭐103)](https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
+*   [Aura.Cli (⭐104)](https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
 
 ### Table of Contents / Authentication and Authorization
 
-*   [Aura.Auth (⭐125)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
+*   [Aura.Auth (⭐130)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
 
 ### Table of Contents / Filtering and Validation
 
-*   [Aura.Filter (⭐151)](https://github.com/auraphp/Aura.Filter) - Provides tools to validate and sanitize objects and arrays.
+*   [Aura.Filter (⭐159)](https://github.com/auraphp/Aura.Filter) - Provides tools to validate and sanitize objects and arrays.
 
 ### Table of Contents / Internationalisation and Localisation
 
-*   [Aura.Intl (⭐84)](https://github.com/auraphp/Aura.Intl) - Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.
+*   [Aura.Intl (⭐90)](https://github.com/auraphp/Aura.Intl) - Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.
 
 ### Configuration / PHP Websites
 
@@ -235,13 +229,13 @@ git checkout master@{yesterday}
 
 *   [Modernizing Legacy Applications in PHP](https://leanpub.com/mlaphp) - A book about modernizing legacy PHP applications by Paul M. Jones.
 
-## [23. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
+## [22. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
 ### Miscellaneous / Utility Packs
 
 *   [edit-script (⭐9)](https://github.com/RyanZim/edit-script) - Edit npm scripts from the command line without worrying about JSON escaping.
 
-## [24. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [23. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Multipurpose Engines / On-line APIs
 
@@ -269,26 +263,26 @@ git checkout master@{yesterday}
 *   2007
     *   *Decision Tree Learning in Ruby* by [Ilya Grigorik](https://twitter.com/igrigorik) <sup>\[[post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>
 
-## [25. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [24. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Devices / NoSQL Databases
 
 *   [Device::Modem](https://metacpan.org/pod/Device::Modem) - Talk to modem devices conneted via serial port
 *   [Device::Onkyo](https://metacpan.org/pod/Device::Onkyo) - Control Onkyo/Integra AV equipment via LAN or Serial
 
-## [26. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [25. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Frameworks
 
-*   [ava (⭐20k)](https://github.com/avajs/ava) - 🚀 Futuristic JavaScript test runner
+*   [ava (⭐21k)](https://github.com/avajs/ava) - 🚀 Futuristic JavaScript test runner
 
-## [27. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [26. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Resources / Papers
 
 *   [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf) - Paper introducing a core distributed memory abstraction.
 
-## [28. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [27. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Logger / Field Validation
 
@@ -298,35 +292,35 @@ git checkout master@{yesterday}
 
 *   [RateMeMaybe (⭐97)](https://github.com/nspo/RateMeMaybe) - Asks the user if (s)he wants to open the Play Store to rate your application.
 
-## [29. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [28. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 
-*   [package-size (⭐422)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
+*   [package-size (⭐425)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
 
-## [30. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
-### Translation Tools / File Sharing
+### Translation Tools / Audio Record and Process
 
 *   [Grammarly](https://app.grammarly.com/) - Refine your english
 
-### Genuine Sites / Package Managers
+### Mac App Download Sites / Genuine Sites
 
 *   [alternativeTo](http://alternativeto.net/) - Also a very nice community. If you are looking for some alternative apps **FOR** Windows or another platform, check this site.
 
-## [31. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [30. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Magic Read Along](http://www.magicreadalong.com) - A podcast about programming, life and the internet. Topics include FP, OOP, development practices, and a dip into our personal lives from time to time.
 
-## [32. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [31. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Game Engine
 
 *   [Urho3D](https://urho3d.github.io/) - A free lightweight, cross-platform 2D and 3D game engine implemented in C++. Greatly inspired by OGRE and Horde3D. \[MIT]
 
-## [33. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/week/README.md)
+## [32. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/week/README.md)
 
 ### Update & Publish
 
@@ -398,7 +392,7 @@ $ git config --global merge.tool meld
 
     $ git mergetool
 
-## [34. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [33. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Experts on Twitter
 
@@ -409,11 +403,11 @@ $ git config --global merge.tool meld
 
 *   [Material Light (⭐40)](https://github.com/YagoLopez/material-light) Light, fast and easy to use Material Design components for Angular 2+ (Especially for mobile UI). There are several alternatives but this one has added value and advantages in my opinion (Take a loot at the Readme.md for details). There is also an online demo to see it in action. (API documentation is still lacking but in process).
 
-## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [34. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
-*   [tabula (⭐88)](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
+*   [tabula (⭐89)](https://github.com/aerosol/tabula) - Pretty print list of Ecto query results / maps in ascii tables (GitHub Markdown/OrgMode).
 
 ### Testing
 
@@ -423,13 +417,13 @@ $ git config --global merge.tool meld
 
 *   [mnemonix (⭐38)](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
 
-## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / DynamoDB
 
 *   [sebdah/dynamic-dynamodb :fire::fire::fire: (⭐612)](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling.
 
-## [37. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
+## [36. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
 ### Programming / Python
 
@@ -453,13 +447,13 @@ $ git config --global merge.tool meld
 
 *   [On The Brain](http://neuro.hms.harvard.edu/harvard-mahoney-neuroscience-institute/hmni-newsletter) - Harvard Mahoney Neuroscience Institute's quarterly e-newsletter.
 
-## [38. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [37. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
 *   [CNN visualization using Tensorflow (⭐778)](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/\~fergus/papers/zeilerECCV2014.pdf)
 
-## [39. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
+## [38. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
 
 ### Books
 
@@ -467,13 +461,13 @@ $ git config --global merge.tool meld
 *   [深度解析SDN: 利益、战略、技术、实践](http://www.sdnlab.com/book/9470.html)
 *   [软件定义网络:SDN与OpenFlow解析](http://www.sdnlab.com/book/9473.html)
 
-## [40. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [39. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Utilities
 
-*   [Audion (⭐339)](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
+*   [Audion (⭐346)](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
 
-## [41. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [40. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / Charting libraries
 
@@ -483,7 +477,7 @@ $ git config --global merge.tool meld
 
 *   [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js (⭐15k)](https://github.com/plotly/plotly.js)
 
-## [42. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [41. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Caching
 
@@ -497,14 +491,14 @@ $ git config --global merge.tool meld
 
 *   [NSpec (⭐255)](https://github.com/nspec/NSpec) - Battle hardened testing framework for C# that's heavily inspired by Mocha and RSpec.
 
-## [43. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [42. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Language
 
 *   [CrossPascal (⭐40)](https://github.com/BeRo1985/crosspascal). `[Delphi]` Aims to be a Delphi 7 compatible cross-platform source-to-source compiler (together with the new unicode string types from XE3 but where ansistring is still the default string type for to be still Delphi 7 compatible) which generates intermediate C code.
     // *Quite interesting project though seems abandoned*
 
-## [44. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [43. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
@@ -527,7 +521,7 @@ $ git config --global merge.tool meld
 
 *   [Swift Windows Switcher (⭐328)](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
 
-## [45. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [44. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Guides
 

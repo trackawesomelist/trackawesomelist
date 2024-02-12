@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 11 - Aug 17, 2014
 
-17 awesome lists updated this week.
+16 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -31,41 +31,34 @@
 *   [Regression Analysis Refcard](http://cran.r-project.org/doc/contrib/Ricci-refcard-regression.pdf) - R Reference Card for Regression Analysis.
 *   [Reference Card for ESS](http://ess.r-project.org/refcard.pdf) - Reference Card for ESS.
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Google's Python Class](https://developers.google.com/edu/python/) (2.4 - 2.x)
-*   [Python for you and me](http://pymbook.readthedocs.org/en/py3/) (3.x)
-
-## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Streams
 
-*   [duplexify (⭐185)](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
-*   [pumpify (⭐251)](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
+*   [duplexify (⭐188)](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
+*   [pumpify (⭐252)](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
 *   [peek-stream (⭐55)](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it.
 
 ### Packages / Natural language processing
 
-*   [leven (⭐692)](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
+*   [leven (⭐697)](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 
 ### Packages / Process management
 
 *   [node-mac (⭐528)](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
-*   [node-linux (⭐415)](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
+*   [node-linux (⭐416)](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
 
 ### Packages / Miscellaneous
 
-*   [strip-bom (⭐107)](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
+*   [strip-bom (⭐106)](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
 
-## [6. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [5. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Tools / Coverage
 
 *   [App::Ack](https://metacpan.org/pod/App::Ack) - ack is a tool like grep, optimized for programmers.
 
-## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Key Map Data Model
 
@@ -77,13 +70,13 @@
 *   [Actian Vector](http://www.actian.com/) - column-oriented analytic database.
 *   [MonetDB](https://www.monetdb.org/) - column store database.
 
-## [8. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [7. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Extensions / Client Side Profile
 
 *   [Hayaku](http://hayakubundle.com) — fuzzy abbreviations, support for preprocessors (Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster.
 
-## [9. Awesome Db](/content/numetriclabz/awesome-db/week/README.md)
+## [8. Awesome Db](/content/numetriclabz/awesome-db/week/README.md)
 
 ### Clojure
 
@@ -145,35 +138,35 @@
 
 *   [BlinkDB (⭐646)](https://github.com/sameeragarwal/blinkdb) - BlinkDB: Sub-Second Approximate Queries on Very Large Data \[website]	(<http://blinkdb.cs.berkeley.edu/>)
 
-## [10. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [9. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Polyfills / Brunch Plugins
 
 *   [`Number.isFinite`](https://github.com/sindresorhus/is-finite)
 
-## [11. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [10. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Integrated Development Environment / Web
 
 *   [SciTE4AutoHotkey](http://fincs.ahk4.net/scite4ahk/) - SciTE-based IDE for AutoHotkey.
 
-## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Queue
 
-*   [Hangfire (⭐8.6k)](https://github.com/HangfireIO/Hangfire) - Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications
+*   [Hangfire (⭐8.9k)](https://github.com/HangfireIO/Hangfire) - Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications
 
-## [13. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [12. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Metaprogramming
 
 *   **Tools and Language Extensions**:
     *   [MetaOCaml](http://okmij.org/ftp/ML/MetaOCaml.html) – an OCaml dialect for multi-stage programming.
-    *   [Fan](http://zhanghongbo.me/fan/) – Fan is a compile-time metaprogramming system for OCaml, originally inspired from Camlp4. It's a combination of OCaml and Lispy Macros. It shares the same concrete syntax with OCaml.
+    *   [Fan](http://bobzhang.github.io/fan/) – Fan is a compile-time metaprogramming system for OCaml, originally inspired from Camlp4. It's a combination of OCaml and Lispy Macros. It shares the same concrete syntax with OCaml.
     *   [camlp5](https://camlp5.github.io/) - Camlp5 is a preprocessor-pretty-printer of OCaml.
     *   [camlp4](http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html) - Camlp4 is part of the standard OCaml distribution and is different from Camlp5.
 
-## [14. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
+## [13. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
 
 ### Boxes
 
@@ -219,7 +212,7 @@
 *   [Laravel4-Vagrant (⭐488)](https://github.com/bryannielsen/Laravel4-Vagrant) - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
 *   [OpenStack on Ansible with Vagrant (⭐219)](https://github.com/openstack-ansible/openstack-ansible).
 
-## [15. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [14. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Organizations
 
@@ -231,7 +224,7 @@
 
 ### Command Line / XML
 
-*   [terminal.d (⭐495)](https://github.com/adamdruppe/arsd/blob/master/terminal.d) - Part of Adam Ruppe's [arsd (⭐495)](https://github.com/adamdruppe/arsd) library supporting cursor and color manipulation on the console.
+*   [terminal.d (⭐517)](https://github.com/adamdruppe/arsd/blob/master/terminal.d) - Part of Adam Ruppe's [arsd (⭐517)](https://github.com/adamdruppe/arsd) library supporting cursor and color manipulation on the console.
 
 ### Game Frameworks / XML
 
@@ -243,20 +236,20 @@
 
 ### Image Processing / XML
 
-*   [ArmageddonEngine (⭐169)](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
+*   [ArmageddonEngine (⭐168)](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
 *   [Blogsort](https://bitbucket.org/infognition/bsort/) -  A simple Windows app for viewing photos and preparing them for a blog.
 
 ### Configuration / Language Processing
 
-*   [sdlang (⭐120)](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
+*   [sdlang (⭐118)](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
 
-## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Coding Style
 
 *   [GNU Coding Standard](http://www.gnu.org/prep/standards/standards.html)
 
-## [17. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [16. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Loaders
 
@@ -269,21 +262,21 @@
 
 ### Data Structure / Runner
 
-*   [hashmap (⭐383)](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
+*   [hashmap (⭐385)](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
 
 ### Control Flow / Runner
 
-*   [when (⭐3.5k)](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
+*   [when (⭐3.4k)](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
 
 ### Range Sliders / Runner
 
 *   [Ion.RangeSlider (⭐2.5k)](https://github.com/IonDen/ion.rangeSlider) - Powerful and easily customizable range slider with many options and skin support.
-*   [noUiSlider (⭐5.5k)](https://github.com/leongersen/noUiSlider) - A lightweight, highly customizable range slider without bloat.
+*   [noUiSlider (⭐5.6k)](https://github.com/leongersen/noUiSlider) - A lightweight, highly customizable range slider without bloat.
 *   [rangeslider.js (⭐2.2k)](https://github.com/andreruffert/rangeslider.js) - HTML5 input range slider element polyfill.
 
 ### Gesture / Other
 
-*   [touchemulator (⭐356)](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop.
+*   [touchemulator (⭐365)](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop.
 
 ---
 

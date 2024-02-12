@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 19 - Jun 25, 2017
 
-44 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -37,31 +37,75 @@
 *   [GOV.uk Design Principles](https://www.gov.uk/design-principles)
 *   [Mailchimp Writing Goals and Principles](http://styleguide.mailchimp.com/writing-principles/)
 
-## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [5. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+
+### Coordination & Governance / Scala
+
+*   [Conductor (⭐13k)](https://github.com/Netflix/conductor) - A microservices orchestration engine.
+
+### Logging / Scala
+
+*   [Fluentd](http://www.fluentd.org/) - Open source data collector for unified logging layer.
+*   [Graylog](https://www.graylog.org/) - Fully integrated open source log management platform.
+*   [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
+
+### Monitoring & Debugging / Scala
+
+*   [Elastalert (⭐8k)](https://github.com/yelp/elastalert) - Easy & flexible alerting for Elasticsearch.
+*   [Ganglia](http://ganglia.info/) - A scalable distributed monitoring system for high-performance computing systems such as clusters and grids.
+*   [Grafana](http://grafana.org/) - An open source, feature rich metrics dashboard and graph editor for Graphite, InfluxDB & OpenTSDB.
+*   [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
+*   [Prometheus](http://prometheus.io/) - An open source service monitoring system and time series database.
+*   [Riemann](http://riemann.io/) - Monitors distributed systems.
+*   [Sensu](https://github.com/sensu) - Monitoring for today's infrastructure.
+*   [Zabbix](http://www.zabbix.com/) - Open source enterprise-class monitoring solution.
+*   [Zipkin](http://zipkin.io) - Distributed tracing system.
+
+### Reactivity / Scala
+
+*   [Reactive Kafka (⭐1.4k)](https://github.com/softwaremill/reactive-kafka) - Reactive Streams API for Apache Kafka.
+*   [ReactiveX](http://reactivex.io/) - API for asynchronous programming with observable streams. Available for idiomatic Java, Scala, C#, C++, Clojure, JavaScript, Python, Groovy, JRuby, and others.
+
+### Resilience / Scala
+
+*   [Hystrix (⭐24k)](https://github.com/Netflix/Hystrix) - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+*   [Raft Consensus](http://raftconsensus.github.io/) - Consensus algorithm that is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance.
+*   [Resilient HTTP](http://resilient-http.github.io/) - A smart HTTP client with super powers like fault tolerance, dynamic server discovery, auto balancing and reactive recovery, designed for distributed systems.
+
+### Security / Scala
+
+*   [Dex (⭐8.8k)](https://github.com/coreos/dex) - Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.
+*   [JWT](http://jwt.io/) - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
+*   [Keycloak (⭐19k)](https://github.com/keycloak/keycloak) - Full-featured and extensible auth service. OpenID Connect provider and third-party OAuth 2.0 delegation.
+*   [Light OAuth2 (⭐310)](https://github.com/networknt/light-oauth2) - A fast, lightweight and cloud native OAuth 2.0 authorization microservices based on light-java.
+*   [OAuth](http://oauth.net/2/) - Provides specific authorization flows for web applications, desktop applications, mobile phones, and living room devices. Many implementations.
+*   [Vault](https://www.vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
+
+## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Tutorials
 
 *   [TensorFlow-World (⭐4.5k)](https://github.com/astorfi/TensorFlow-World)
 
-## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Ruby / Natural Language Processing
 
 *   [Awesome NLP with Ruby (⭐1k)](https://github.com/arbox/nlp-with-ruby) - Curated link list for practical natural language processing in Ruby.
 
-## [7. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [8. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Literature / Education
 
 *   [Going serverless](https://leanpub.com/going-serverless) - Building scalable applications with the Serverless Framework and AWS Lambda.
 
-## [8. ElixirBooks](/content/sger/ElixirBooks/week/README.md)
+## [9. ElixirBooks](/content/sger/ElixirBooks/week/README.md)
 
 ### **Web Development** / [Programming Phoenix LiveView](https://pragprog.com/titles/liveview/programming-phoenix-liveview/)
 
 *   [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers)
 
-## [9. Awesome Standard](/content/standard/awesome-standard/week/README.md)
+## [10. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
 ### usage stats
 
@@ -98,13 +142,13 @@
 *   **[stylelint-config-standard](https://www.npmjs.com/package/stylelint-config-standard)** - The standard shareable config for stylelint.
 *   **[standard-sass](https://www.npmjs.com/package/standard-sass)** - Sass & Scss & Css Standard Style. One Style to Rule Them All!
 
-## [10. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [11. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
-*   [electron-unhandled (⭐424)](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
+*   [electron-unhandled (⭐426)](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
 
-## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [12. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Media Players
 
@@ -117,29 +161,23 @@
 
 *   [rgain](https://bitbucket.org/fk/rgain) - Tools and Python library to read, write and calculate Replay Gain.
 
-## [12. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [13. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Lua / Custom Dialog
 
 *   [Corona SDK](https://coronalabs.com/product/) - Framework to create native iOS and Android Apps (especially Games).
 
-## [13. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [14. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Utils
 
 *   [progress\_bar.cr (⭐15)](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
 
-## [14. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
+## [15. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
 
 ### Paper
 
 *   [High Performance Datacenter Networks: Architectures, Algorithms, and Opportunities](https://static.googleusercontent.com/media/research.google.com/zh-TW//pubs/archive/37069.pdf)
-
-## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C# / Non-X86
-
-*   [High level asynchronous programming with Reactive Extensions (⭐73)](https://github.com/petroemil/Rx.Book) - Emil Petro
 
 ## [16. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
@@ -157,7 +195,7 @@
 
 ### Plugins / Misc
 
-*   [Notice (⭐23)](https://github.com/nickdeis/eslint-plugin-notice) - An eslint rule that checks the top of files and fixes them too!
+*   [Notice (⭐25)](https://github.com/nickdeis/eslint-plugin-notice) - An eslint rule that checks the top of files and fixes them too!
 
 ## [18. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -348,7 +386,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scrollactive (⭐544)](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
+*   [vue-scrollactive (⭐546)](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
 
 ## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
@@ -489,77 +527,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 *   [multiplayerchess.com](http://multiplayerchess.com) - A simple single page chess playing application facilitating the play of chess.
 *   [chesstempo.com](http://chesstempo.com) - Online chess tactics training site.
 
-## [38. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
-
-### Java VM / Java
-
-*   [Jersey](https://jersey.github.io/) - RESTful services in Java. JAX-RS reference implementation.
-
-### Coordination & Governance / Scala
-
-*   [Conductor (⭐8.4k)](https://github.com/Netflix/conductor) - A microservices orchestration engine.
-
-### Job Schedulers / Workload Automation / Scala
-
-*   [Chronos (⭐4.3k)](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
-*   [Fenzo (⭐703)](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
-*   [JobScheduler](http://www.sos-berlin.com/jobscheduler) - Open Source solution for enterprise-level workload automation. It is used to launch executable files and shell scripts and to run database procedures automatically.
-*   [Rundeck](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
-*   [Schedulix](http://www.schedulix.org/en) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
-
-### Logging / Scala
-
-*   [Bunyan (⭐7k)](https://github.com/trentm/node-bunyan) - Simple and fast JSON logging library for Node.js services.
-*   [Fluentd](http://www.fluentd.org/) - Open source data collector for unified logging layer.
-*   [Graylog](https://www.graylog.org/) - Fully integrated open source log management platform.
-*   [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
-*   [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
-*   [Suro (⭐774)](https://github.com/Netflix/suro/wiki) - Distributed data pipeline which enables services for moving, aggregating, routing, storing data.
-
-### Monitoring & Debugging / Scala
-
-*   [Beats](https://www.elastic.co/products/beats) - Lightweight shippers for Elasticsearch & Logstash.
-*   [Collectd](https://collectd.org/) - The system statistics collection daemon.
-*   [Elastalert (⭐7.9k)](https://github.com/yelp/elastalert) - Easy & flexible alerting for Elasticsearch.
-*   [Ganglia](http://ganglia.info/) - A scalable distributed monitoring system for high-performance computing systems such as clusters and grids.
-*   [Grafana](http://grafana.org/) - An open source, feature rich metrics dashboard and graph editor for Graphite, InfluxDB & OpenTSDB.
-*   [Graphite](http://graphite.wikidot.com/) - Scalable realtime graphing.
-*   [Parallec (⭐807)](https://github.com/eBay/parallec) - Fast parallel asynchronous HTTP/SSH/TCP/Ping client Java library.
-*   [Prometheus](http://prometheus.io/) - An open source service monitoring system and time series database.
-*   [REST Commander (⭐904)](https://github.com/eBay/restcommander) - Fast parallel asynchronous HTTP client as a service to monitor and manage HTTP endpoints.
-*   [Riemann](http://riemann.io/) - Monitors distributed systems.
-*   [Sensu](https://github.com/sensu) - Monitoring for today's infrastructure.
-*   [Trace (⭐473)](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
-*   [Watcher](https://www.elastic.co/products/watcher) - Alerting for Elasticsearch.
-*   [Zabbix](http://www.zabbix.com/) - Open source enterprise-class monitoring solution.
-*   [Zipkin](http://zipkin.io) - Distributed tracing system.
-
-### Reactivity / Scala
-
-*   [Reactor.io](http://projectreactor.io) - A second-generation Reactive library for building non-blocking applications on the JVM based on the Reactive Streams Specification.
-*   [Reactive Kafka (⭐1.4k)](https://github.com/softwaremill/reactive-kafka) - Reactive Streams API for Apache Kafka.
-*   [ReactiveX](http://reactivex.io/) - API for asynchronous programming with observable streams. Available for idiomatic Java, Scala, C#, C++, Clojure, JavaScript, Python, Groovy, JRuby, and others.
-*   [Simple React (⭐1.3k)](https://github.com/aol/simple-react) - Powerful future streams & asynchronous data structures for Java 8.
-
-### Resilience / Scala
-
-*   [Hystrix (⭐23k)](https://github.com/Netflix/Hystrix) - Latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
-*   [Pathod](http://pathod.net/) - Crafted malice for tormenting HTTP clients and servers.
-*   [Raft Consensus](http://raftconsensus.github.io/) - Consensus algorithm that is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance.
-*   [Resilient HTTP](http://resilient-http.github.io/) - A smart HTTP client with super powers like fault tolerance, dynamic server discovery, auto balancing and reactive recovery, designed for distributed systems.
-
-### Security / Scala
-
-*   [Dex (⭐7.9k)](https://github.com/coreos/dex) - Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.
-*   [JWT](http://jwt.io/) - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
-*   [Keycloak (⭐15k)](https://github.com/keycloak/keycloak) - Full-featured and extensible auth service. OpenID Connect provider and third-party OAuth 2.0 delegation.
-*   [Light OAuth2 (⭐295)](https://github.com/networknt/light-oauth2) - A fast, lightweight and cloud native OAuth 2.0 authorization microservices based on light-java.
-*   [OAuth](http://oauth.net/2/) - Provides specific authorization flows for web applications, desktop applications, mobile phones, and living room devices. Many implementations.
-*   [OpenID Connect](http://openid.net/developers/libraries/) - Libraries, products, and tools implementing current OpenID specifications and related specs.
-*   [SCIM](http://www.simplecloud.info/) - System for Cross-domain Identity Management.
-*   [Vault](https://www.vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
-
-## [39. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -569,13 +537,13 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 *   [akka.net (⭐4.5k)](https://github.com/akkadotnet/akka.net) - Toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
 
-## [40. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [39. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Key-value Data Model
 
 *   [BTDB (⭐126)](https://github.com/Bobris/BTDB) - Key Value Database in .Net with Object DB Layer, RPC, dynamic IL and much more
 
-## [41. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
+## [40. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
 
 ### Development Tools / Asset Creators
 
@@ -639,15 +607,15 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 *   [Bluetooth (⭐8)](https://github.com/myflashlab/bluetooth-ANE) - Scan for other devices, connect to and pair with them and transfer data between them.
 
-## [42. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Analytics
 
-*   [Umbrella (⭐609)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
+*   [Umbrella (⭐611)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
 
 ### XML
 
-*   [SwiftyXML (⭐99)](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
+*   [SwiftyXML (⭐100)](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
 
 ### Date
 
@@ -679,7 +647,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Menu / Barcode
 
-*   [KWDrawerController (⭐155)](https://github.com/Kawoou/KWDrawerController) - Drawer view controller that easy to use.
+*   [KWDrawerController (⭐156)](https://github.com/Kawoou/KWDrawerController) - Drawer view controller that easy to use.
 
 ### Template / Barcode
 
@@ -691,9 +659,9 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ### Version Manager / Barcode
 
-*   [Siren (⭐4.2k)](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
+*   [Siren (⭐4.1k)](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
 
-## [43. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [42. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / C companies
 
@@ -703,7 +671,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 *   Opensooq <http://engineering.opensooq.com/>
 
-## [44. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
+## [43. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
 ### Blogs
 

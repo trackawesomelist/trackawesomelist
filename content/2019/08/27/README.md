@@ -16,7 +16,7 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [Gearpump (⭐766)](https://github.com/gearpump/gearpump) \[Scala] - lightweight real-time distributed streaming engine built on Akka.
+*   [Gearpump (⭐765)](https://github.com/gearpump/gearpump) \[Scala] - lightweight real-time distributed streaming engine built on Akka.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

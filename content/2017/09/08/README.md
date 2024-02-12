@@ -62,7 +62,7 @@
 
 ### Multimedia content processing
 
-*   [Dynamorse (⭐45)](https://github.com/Streampunk/node-red-contrib-dynamorse-core) - IT swiss army knife - a Node-RED media pipeline builder, adding professional media processing nodes.
+*   [Dynamorse (⭐43)](https://github.com/Streampunk/node-red-contrib-dynamorse-core) - IT swiss army knife - a Node-RED media pipeline builder, adding professional media processing nodes.
 
 ## [9. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 

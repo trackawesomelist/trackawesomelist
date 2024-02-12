@@ -16,7 +16,7 @@
 
 ### Miscellaneous
 
-*   [{fmt} (⭐18k)](https://github.com/fmtlib/fmt) :zap: - Small, safe and fast formatting library for C++. \[Simplified BSD] [website](https://fmt.dev)
+*   [{fmt} (⭐19k)](https://github.com/fmtlib/fmt) :zap: - Small, safe and fast formatting library for C++. \[Simplified BSD] [website](https://fmt.dev)
 
 ## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

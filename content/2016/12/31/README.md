@@ -71,7 +71,7 @@
 
 ### Static Code Analysis
 
-*   [Infer (⭐14k)](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C. \[BSD]
+*   [Infer (⭐15k)](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C. \[BSD]
 
 ## [9. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

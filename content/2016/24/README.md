@@ -73,7 +73,7 @@
 
 *   [Color Thief (⭐12k)](https://github.com/lokesh/color-thief) - Grab color palette from an image.
 *   [Colorify.js (⭐810)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
-*   [Colofilter.css (⭐621)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
+*   [Colofilter.css (⭐619)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
 
 ### Tools / Web App
 
@@ -139,7 +139,7 @@
 
 ### Subtitling
 
-*   [EBU-TT-D W3C XML Schema (⭐7)](https://github.com/ebu/ebu-tt-d-xsd/) - Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
+*   [EBU-TT-D W3C XML Schema (⭐8)](https://github.com/ebu/ebu-tt-d-xsd/) - Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
 
 ## [13. Bots](/content/hackerkid/bots/week/README.md)
 
@@ -256,8 +256,8 @@
 
 ### For Electron / Other
 
-*   [fix-path (⭐268)](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
-*   [electron-osx-sign (⭐518)](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
+*   [fix-path (⭐269)](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
+*   [electron-osx-sign (⭐529)](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
 *   [electron-context-menu (⭐1.3k)](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
 
 ### Components / Other
@@ -302,12 +302,12 @@
 
 ### Graphic Displays
 
-*   [ggfortify (⭐502)](https://github.com/sinhrks/ggfortify) - A unified interface to ggplot2 popular statistical packages using one line of code.
-*   [corrplot (⭐267)](https://github.com/taiyun/corrplot) - A graphical display of a correlation matrix or general matrix. It also contains some algorithms to do matrix reordering.
+*   [ggfortify (⭐523)](https://github.com/sinhrks/ggfortify) - A unified interface to ggplot2 popular statistical packages using one line of code.
+*   [corrplot (⭐299)](https://github.com/taiyun/corrplot) - A graphical display of a correlation matrix or general matrix. It also contains some algorithms to do matrix reordering.
 
 ### Data Packages
 
-*   [engsoccerdata (⭐697)](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2016.
+*   [engsoccerdata (⭐736)](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2016.
 
 ## [23. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 

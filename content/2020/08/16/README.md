@@ -77,7 +77,7 @@
 
 ### Network / Scanning / Pentesting
 
-*   [Boofuzz (⭐1.8k)](https://github.com/jtpereyda/boofuzz) - Fuzzing engine and fuzz testing framework.
+*   [Boofuzz (⭐1.9k)](https://github.com/jtpereyda/boofuzz) - Fuzzing engine and fuzz testing framework.
 
 ### Endpoint / Anti-Virus / Anti-Malware
 
@@ -128,7 +128,7 @@
 
 ### Components & Libraries / Integrations
 
-*   [Vuecket (⭐31)](https://github.com/OrienteerBAP/vuecket) - WebFramework where power of Vue.JS married with magic of [Apache Wicket](https://wicket.apache.org/)
+*   [Vuecket (⭐32)](https://github.com/OrienteerBAP/vuecket) - WebFramework where power of Vue.JS married with magic of [Apache Wicket](https://wicket.apache.org/)
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -136,7 +136,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-routisan (⭐206)](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel.
+*   [vue-routisan (⭐205)](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel.
 
 ---
 

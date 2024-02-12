@@ -10,15 +10,11 @@
 
 ### Table of Contents / Queue
 
-*   [PHP AMQP (⭐4.2k)](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
+*   [PHP AMQP (⭐4.4k)](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
 
 ### Configuration / Development Environment
 
 *   [Ansible](https://www.ansible.com/) - A radically simple orchestration framework.
-
-### Configuration / PHP Websites
-
-*   [PHP Versions](http://phpversions.info/) - Lists which versions of PHP are available on several popular web hosts.
 
 ## [2. Tips](/content/git-tips/tips/README.md)
 
@@ -77,7 +73,7 @@ git checkout <commit-ish> -- <file_path>
 
 ### Fun stuff / Themes
 
-*   [Comfort (⭐2)](https://github.com/devanshdalal/Comfort) — A Wonderful theme for sublime Text!.
+*   [Comfort (⭐2)](https://github.com/devanshdalal/Comfort) — A wonderful theme for sublime Text!.
 
 ## [5. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
@@ -107,7 +103,7 @@ git checkout <commit-ish> -- <file_path>
 
 ### Email
 
-*   [mail (⭐375)](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
+*   [mail (⭐377)](https://github.com/DockYard/elixir-mail) - An RFC2822 implementation in Elixir, built for composability.
 
 ## [10. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

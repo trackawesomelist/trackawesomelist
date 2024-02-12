@@ -32,9 +32,9 @@
 
 ## [5. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
-### Other useful repositories
+### Other Useful Repositories
 
-- Repository: [Detection Lab (⭐3.9k)](https://github.com/clong/DetectionLab)
+- Repository: [Detection Lab (⭐4.4k)](https://github.com/clong/DetectionLab)
 
   Description: Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
 

@@ -21,7 +21,7 @@
 ### API Builder and Discovery
 
 *   [Version Cake (⭐653)](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
-*   [versionist (⭐968)](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
+*   [versionist (⭐969)](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
 
 ### Authorization
 
@@ -29,7 +29,7 @@
 
 ### Data Visualization
 
-*   [LazyHighCharts (⭐1k)](https://github.com/michelson/lazy_high_charts) - A simple and extremely flexible way to use HighCharts from ruby code. Tested on Ruby on Rails, Sinatra and Nanoc, but it should work with others too.
+*   [LazyHighCharts (⭐1.1k)](https://github.com/michelson/lazy_high_charts) - A simple and extremely flexible way to use HighCharts from ruby code. Tested on Ruby on Rails, Sinatra and Nanoc, but it should work with others too.
 
 ### Database Tools
 
@@ -51,7 +51,7 @@
 
 ### Internationalization
 
-*   [FastGettext (⭐389)](https://github.com/grosser/fast_gettext) - Ruby internationalization tool with less memory, simple, clean namespace and threadsafe.
+*   [FastGettext (⭐393)](https://github.com/grosser/fast_gettext) - Ruby internationalization tool with less memory, simple, clean namespace and threadsafe.
 *   [Globalize (⭐2.1k)](https://github.com/globalize/globalize) - Globalize builds on the I18n API in Ruby on Rails to add model translations to ActiveRecord models.
 
 ### Security
@@ -71,16 +71,16 @@
 ### Table of Contents / Passwords
 
 *   [Password Compat (⭐2.2k)](https://github.com/ircmaxell/password_compat) - A compatibility library for the new PHP 5.5 password functions.
-*   [Password Policy (⭐74)](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
-*   [Password Validator (⭐142)](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
+*   [Password Policy (⭐77)](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
+*   [Password Validator (⭐146)](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
 
 ### Table of Contents / Debugging and Profiling
 
-*   [Barbushin PHP Console (⭐1.4k)](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
+*   [Barbushin PHP Console (⭐1.3k)](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
 
 ### Table of Contents / Numbers
 
-*   [ByteUnits (⭐156)](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
+*   [ByteUnits (⭐160)](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
 
 ---
 

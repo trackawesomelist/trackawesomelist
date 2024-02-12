@@ -23,7 +23,7 @@
 
 ### Graphic Displays
 
-*   [gganimate (⭐1.8k)](https://github.com/dgrtwo/gganimate) - Create easy animations with ggplot2.
+*   [gganimate (⭐1.9k)](https://github.com/dgrtwo/gganimate) - Create easy animations with ggplot2.
 
 ## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

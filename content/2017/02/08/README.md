@@ -28,7 +28,7 @@
 
 ### Open Source / Other
 
-*   [LosslessCut (⭐19k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
+*   [LosslessCut (⭐20k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
 
 ## [5. Awesome Mad Science](/content/feross/awesome-mad-science/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Game Frameworks / XML
 
-*   [Voxelman (⭐122)](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
+*   [Voxelman (⭐123)](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
 
 ## [9. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 

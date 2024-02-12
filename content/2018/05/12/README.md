@@ -87,7 +87,7 @@
 
 ### Contents / Components
 
-*   [Pimg (⭐101)](https://github.com/ooade/pimg) - Progressive Image Component; Used for lazy loading images.
+*   [Pimg (⭐100)](https://github.com/ooade/pimg) - Progressive Image Component; Used for lazy loading images.
 
 ## [9. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

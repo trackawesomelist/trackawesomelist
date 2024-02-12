@@ -1,24 +1,18 @@
 # Awesome List Updates on Feb 27, 2019
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
-
-### E-Commerce and Payments
-
-*   [Square (⭐28)](https://github.com/square/connect-csharp-sdk) - The official SDK for Square payments and other Square APIs.
-
-## [2. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [1. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Articles
 
 *   [Make your deprecated CSS stand out](https://ondrejsevcik.com/deprecate-css/)
 
-## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [2. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Official Resources
 
@@ -78,7 +72,7 @@
 *   [JS Build Actions (⭐46)](https://github.com/elstudio/actions-js-build) - Run Grunt or Gulp build tasks and commit file changes.
 *   [GitHub Action for Gatsby CLI (⭐47)](https://github.com/jzweifel/gatsby-cli-github-action)
 
-## [4. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [3. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Books
 
@@ -96,7 +90,7 @@
 
 *   [Warsaw](https://www.meetup.com/DDD-WAW)
 
-## [5. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+## [4. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ### Tutorials and Examples
 
@@ -162,17 +156,17 @@
 
 *   [scala-native-sbt-docker (⭐4)](https://github.com/ScalaWilliam/scala-native-sbt-docker) - Docker image for Scala Native and sbt.
 
-## [6. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
+## [5. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 
 ### Regional
 
 *   [Rochester NY USA Developers (RocDev)](https://rocdev.org/)
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Chat
 
-*   [Real-time Chat with Firebase (⭐708)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
+*   [Real-time Chat with Firebase (⭐709)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
 
 ### UI / Barcode
 
@@ -182,20 +176,20 @@
 
 *   [CollapsibleTableSectionViewController (⭐353)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A library to support collapsible sections in a table view.
 
-## [8. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
+## [7. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
 ### Web Development
 
-*   [React Developer Roadmap (⭐18k)](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://github.com/adam-golab/react-developer-roadmap).
+*   [React Developer Roadmap (⭐19k)](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://github.com/adam-golab/react-developer-roadmap).
 
-## [9. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [8. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Papers / The Network and Distributed System Security Symposium (NDSS)
 
 *   [CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines, 2019](https://daramg.gift/paper/han-ndss2019.pdf)
-*   [PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary, 2019](https://people.cs.kuleuven.be/\~stijn.volckaert/papers/2019_NDSS_PeriScope.pdf)
+*   [PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary, 2019](https://people.cs.kuleuven.be/~stijn.volckaert/papers/2019_NDSS_PeriScope.pdf)
 *   [REDQUEEN: Fuzzing with Input-to-State Correspondence, 2019](https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2018/12/17/NDSS19-Redqueen.pdf)
-*   [Send Hardest Problems My Way: Probabilistic Path Prioritization for Hybrid Fuzzing, 2019](https://www.cs.ucr.edu/\~heng/pubs/digfuzz_ndss19.pdf)
+*   [Send Hardest Problems My Way: Probabilistic Path Prioritization for Hybrid Fuzzing, 2019](https://www.cs.ucr.edu/~heng/pubs/digfuzz_ndss19.pdf)
 *   [Life after Speech Recognition: Fuzzing Semantic Misinterpretation for Voice Assistant Applications, 2019](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_08-4_Zhang_paper.pdf)
 *   [INSTRIM: Lightweight Instrumentation for Coverage-guided Fuzzing, 2018](https://www.ndss-symposium.org/wp-content/uploads/2018/07/bar2018_14_Hsu_paper.pdf)
 *   [IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing, 2018](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_01A-1_Chen_paper.pdf)
@@ -208,21 +202,17 @@
 
 *   [Feedback-directed random test generation, 2007](https://dl.acm.org/citation.cfm?id=1248841)
 
-### Tools / Binary
-
-*   [shellphish fuzzer (⭐614)](https://github.com/shellphish/fuzzer) - A Python interface to AFL, allowing for easy injection of testcases and other functionality.
-
-## [10. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [9. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Metadata
 
-*   [libadm (⭐28)](https://github.com/irt-open-source/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library.
+*   [libadm (⭐33)](https://github.com/irt-open-source/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library.
 
 ### Multimedia content processing
 
-*   [libbw64 (⭐19)](https://github.com/irt-open-source/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
+*   [libbw64 (⭐24)](https://github.com/irt-open-source/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
 
-## [11. Awesome R](/content/qinwf/awesome-R/README.md)
+## [10. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Integrated Development Environments
 
@@ -230,16 +220,16 @@
 
 ### Machine Learning
 
-*   [anomalize (⭐313)](https://github.com/business-science/anomalize) - Tidy Anomaly Detection using Twitter's AnomalyDetection method.
+*   [anomalize (⭐334)](https://github.com/business-science/anomalize) - Tidy Anomaly Detection using Twitter's AnomalyDetection method.
 *   [L0Learn](https://cran.r-project.org/web/packages/L0Learn/index.html) - Fast algorithms for best subset selection
 
-## [12. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [11. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Community / Local User Groups
 
 *   [Laravel Bangladesh](https://www.facebook.com/groups/LaravelBanglaDesh/)
 
-## [13. Awesome Msr](/content/dspinellis/awesome-msr/README.md)
+## [12. Awesome Msr](/content/dspinellis/awesome-msr/README.md)
 
 ### Repositories
 
@@ -289,34 +279,34 @@
 *   [reaper (⭐99)](https://github.com/RepoReapers/reaper) - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is *engineered*.
 *   [VulData7 (⭐32)](https://github.com/electricalwind/data7) - Java framework enabling the automated collection of commits fixing vulnerabilities that are reported in NVD (links NVD with Git).
 
-## [14. Awesome List](/content/sindresorhus/awesome/README.md)
+## [13. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
-*   [CSS (⭐4.6k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+*   [CSS (⭐4.7k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
     *   [Critical-Path Tools (⭐1.1k)](https://github.com/addyosmani/critical-path-css-tools#readme)
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
     *   [Must-Watch Talks (⭐4.6k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
-    *   [Protips (⭐26k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐6.6k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Protips (⭐27k)](https://github.com/AllThingsSmitty/css-protips#readme)
+    *   [Frameworks (⭐6.8k)](https://github.com/troxler/awesome-css-frameworks#readme)
 
 ### Gaming
 
 *   [PICO-8 (⭐2.4k)](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
 
-## [15. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
+## [14. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 
 ### AIR Native Extensions / Analytics ANE
 
 *   [HockeyApp (⭐2)](https://github.com/airext/hockeyapp) - ANE for the Hockeyapp testing & distribute platform.
 
-## [16. Amas](/content/sindresorhus/amas/README.md)
+## [15. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [Diki Ananta (⭐1)](https://github.com/dikiaap/ama) - Freelance full-stack developer working with Laravel.
 
-## [17. Public Apis](/content/public-apis/public-apis/README.md)
+## [16. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Personality
 
@@ -332,13 +322,13 @@
 
 
 
-## [18. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
+## [17. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
 
 ### Tools
 
 *   [ParaText (⭐1.1k)](https://github.com/wiseio/paratext) - CSV parsing at 2.5 GB per second.
 
-## [19. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
+## [18. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
 
 ### Blogs
 

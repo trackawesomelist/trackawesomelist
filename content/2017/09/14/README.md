@@ -42,13 +42,13 @@
 
 ### operations
 
-*   [CoGran (⭐105)](https://github.com/berlinermorgenpost/cogran): Resample statistics from one set of GeoJSON polygons to another
+*   [CoGran (⭐106)](https://github.com/berlinermorgenpost/cogran): Resample statistics from one set of GeoJSON polygons to another
 
 ## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Misc
 
-*   [Wagtail Condensed Inline Panel (⭐85)](https://github.com/wagtail/wagtail-condensedinlinepanel) - Drop-in replacement for Wagtail's InlinePanel suited for large number of inlines (collapsible with drag and drop support).
+*   [Wagtail Condensed Inline Panel (⭐84)](https://github.com/wagtail/wagtail-condensedinlinepanel) - Drop-in replacement for Wagtail's InlinePanel suited for large number of inlines (collapsible with drag and drop support).
 
 ## [8. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
 
@@ -61,7 +61,7 @@
 ### Components & Libraries / UI Components
 
 *   [@hscmap/vue-window (⭐295)](https://github.com/michitaro/vue-window) - Window UI Component for vue2.
-*   [vue-gallery (⭐457)](https://github.com/RobinCK/vue-gallery) - VueJS responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. Based on blueimp-gallery
+*   [vue-gallery (⭐463)](https://github.com/RobinCK/vue-gallery) - VueJS responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. Based on blueimp-gallery
 
 ---
 

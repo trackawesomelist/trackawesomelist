@@ -1,6 +1,6 @@
 # Awesome List Updates on May 11 - May 17, 2015
 
-23 awesome lists updated this week.
+22 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -296,26 +296,20 @@
 
 *   \[2015] [Scroll Back: The Theory and Practice of Cameras in Side-Scrollers](http://www.gdcvault.com/play/1022243/): Itay Keren (Untame)
 
-## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/) ([Source (⭐1.7k)](https://github.com/quantifiedcode/python-anti-patterns))
-
-## [9. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [8. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Videos / Other
 
 *   [Packaging and Distributing Electron Desktop Apps](https://www.youtube.com/watch?v=dz5SnmBzBXc)
 
-## [10. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [9. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Integrated Development Environments
 
-*   [Sublime Text + R-Box (⭐176)](http://github.com/randy3k/R-Box/) - Add-on package for Sublime Text 2/3.
+*   [Sublime Text + R-Box (⭐172)](http://github.com/randy3k/R-Box/) - Add-on package for Sublime Text 2/3.
 *   [StatET](http://www.walware.de/goto/statet) - An Eclipse based IDE for R.
 
-## [11. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [10. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Books
 
@@ -388,20 +382,20 @@ Though this article is a few years old, much of its advice is still relevant as 
 
 A secure OAuth2 server implementation
 
-## [12. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [11. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Regular Expressions
 
-*   [Humane-re (⭐25)](https://github.com/rgrinberg/humane-re) – Humane-re attempts to provide an easy interface for 90% of your regex needs Courtesy of ocaml-re
+*   [Humane-re (⭐25)](https://github.com/rgrinberg/humane-re) – Humane-re attempts to provide an easy interface for 90% of your regex needs. Courtesy of ocaml-re.
 
-## [13. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+## [12. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
 
 ### Hosted Tools
 
 *   [GateHub](https://gatehub.net/)
 *   [Ripple Live (GateHub)](https://gatehub.net/live)
 
-## [14. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [13. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### Build Tooling
 
@@ -419,7 +413,7 @@ A secure OAuth2 server implementation
 *   [Video - "PureScript (Maybe This Time We Get JavaScript Right)" by Bodil Stokke](https://www.youtube.com/watch?v=yIlDBPiMb0o)
 *   [Book - "PureScript by Example" by Phil Freeman](https://leanpub.com/purescript/read)
 
-## [15. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [14. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Ruby Clients
 
@@ -436,13 +430,13 @@ A secure OAuth2 server implementation
 *   [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps.
 *   [sandman (⭐2.3k)](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems.
 
-## [16. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [15. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Databases
 
 *   [JSON Server (⭐64k)](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds.
 
-## [17. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [16. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -494,7 +488,7 @@ A secure OAuth2 server implementation
 
 
 
-## [18. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [17. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
@@ -504,13 +498,13 @@ A secure OAuth2 server implementation
 
 *   [BEM Grid (⭐136)](https://github.com/bem-incubator/bem-grid)
 
-## [19. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
+## [18. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
 
 ### Lint
 
 *   [JavaScript](https://atom.io/packages/linter-eslint) — eslint
 
-## [20. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
+## [19. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
 
 ### Libraries / SVG
 
@@ -524,23 +518,23 @@ A secure OAuth2 server implementation
 *   Apple Watch
     *   [Specifications: Animations](https://developer.apple.com/watch/human-interface-guidelines/specifications/#animations)
 
-## [21. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [20. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Testing
 
 *   [Speclj (⭐424)](https://github.com/slagyr/speclj) – A TDD/BDD framework for Clojure and ClojureScript.
 
-## [22. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [21. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Programming Languages / Ruby
 
 *   [Ruby craziness: Class vs Object?](http://stackoverflow.com/a/4969822/1766338)
 
-## [23. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [22. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Builder
 
-*   [Commander (⭐782)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
+*   [Commander (⭐783)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
 
 ### DevOps Tools
 

@@ -14,17 +14,17 @@
 
 ### Tools / Fuzz Testing
 
-*   [An Android port of the Melkor ELF fuzzer (⭐56)](https://github.com/anestisb/melkor-android)
+*   [An Android port of the Melkor ELF fuzzer (⭐57)](https://github.com/anestisb/melkor-android)
 
 ### Tools / Market Crawlers
 
-*   [Google Play crawler (Java) (⭐538)](https://github.com/Akdeniz/google-play-crawler)
-*   [Google Play crawler (Python) (⭐851)](https://github.com/egirault/googleplay-api)
-*   [Google Play crawler (Node) (⭐264)](https://github.com/dweinstein/node-google-play) - get app details and download apps from the official Google Play Store.
+*   [Google Play crawler (Java) (⭐548)](https://github.com/Akdeniz/google-play-crawler)
+*   [Google Play crawler (Python) (⭐864)](https://github.com/egirault/googleplay-api)
+*   [Google Play crawler (Node) (⭐267)](https://github.com/dweinstein/node-google-play) - get app details and download apps from the official Google Play Store.
 
 ### Academic/Research/Publications/Books / Research Papers
 
-*   [Android security-related presentations (⭐161)](https://github.com/jacobsoo/AndroidSlides)
+*   [Android security-related presentations (⭐164)](https://github.com/jacobsoo/AndroidSlides)
 
 ### Exploits/Vulnerabilities/Bugs / Malware
 
@@ -40,17 +40,17 @@
 
 ### Community Extensions
 
-*   [rciam/keycloak-group-management (⭐6)](https://github.com/rciam/keycloak-group-management)
+*   [rciam/keycloak-group-management (⭐8)](https://github.com/rciam/keycloak-group-management)
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Productivity
 
-*   [Furtherance (⭐182)](https://github.com/lakoliu/Furtherance) - Time tracking app built with Rust and GTK4
+*   [Furtherance (⭐206)](https://github.com/lakoliu/Furtherance) - Time tracking app built with Rust and GTK4
 
 ### Applications / System tools
 
-*   [atuin (⭐12k)](https://github.com/atuinsh/atuin) \[[atuin](https://crates.io/crates/atuin)] — Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.
+*   [atuin (⭐16k)](https://github.com/atuinsh/atuin) \[[atuin](https://crates.io/crates/atuin)] — Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.
 
 ## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Spell Checking and Linting
 
-*   [LanguageCheck (⭐78)](https://github.com/JohannesBuchner/languagecheck) - Analyses scientific LaTeX papers, suggesting improvements from a list of common mistakes/ambiguities, tense consistency, a vs. an, spell check, and paragraph topic sentences.
+*   [LanguageCheck (⭐83)](https://github.com/JohannesBuchner/languagecheck) - Analyses scientific LaTeX papers, suggesting improvements from a list of common mistakes/ambiguities, tense consistency, a vs. an, spell check, and paragraph topic sentences.
 
 ### Tutorials / Books
 
@@ -81,27 +81,27 @@
 
 ### Table
 
-*   [mantine-datatable (⭐687)](https://github.com/icflorescu/mantine-datatable) - [demo/docs](https://icflorescu.github.io/mantine-datatable/) - Lightweight table component for Mantine UI applications, with lots of features
+*   [mantine-datatable (⭐785)](https://github.com/icflorescu/mantine-datatable) - [demo/docs](https://icflorescu.github.io/mantine-datatable/) - Lightweight table component for Mantine UI applications, with lots of features
 
 ### Menu
 
-*   [mantine-contextmenu (⭐64)](https://github.com/icflorescu/mantine-contextmenu) - [demo/docs](https://icflorescu.github.io/mantine-contextmenu/) - Context-menu hook/component for applications built with Mantine UI.
+*   [mantine-contextmenu (⭐92)](https://github.com/icflorescu/mantine-contextmenu) - [demo/docs](https://icflorescu.github.io/mantine-contextmenu/) - Context-menu hook/component for applications built with Mantine UI.
 
 ### Form Components / Input Types
 
-*   [react-multi-email (⭐260)](https://github.com/axisj/react-multi-email) - [demo](https://react-multi-email.vercel.app/) - Format multiple emails as the user types.
+*   [react-multi-email (⭐267)](https://github.com/axisj/react-multi-email) - [demo](https://react-multi-email.vercel.app/) - Format multiple emails as the user types.
 
 ## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Themes
 
-*   [tmux-snazzy (⭐2)](https://github.com/ivnvxd/tmux-snazzy) Elegant tmux theme with bright colors
+*   [tmux-snazzy (⭐5)](https://github.com/ivnvxd/tmux-snazzy) Elegant tmux theme with bright colors
 
 ## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### API / Samples
 
-*   [VulcanSQL (⭐531)](https://github.com/Canner/vulcan-sql) - Write templated SQL to automatically exposing RESTful APIs from your database/data warehouse/data lake.
+*   [VulcanSQL (⭐572)](https://github.com/Canner/vulcan-sql) - Write templated SQL to automatically exposing RESTful APIs from your database/data warehouse/data lake.
 
 ### HA/Failover/Sharding / Zabbix
 

@@ -10,11 +10,7 @@
 
 ### Table of Contents / E-commerce
 
-*   [OmniPay (⭐5.6k)](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
-
-### Table of Contents / API
-
-*   [wsdl2phpgenerator (⭐803)](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - A tool to generate PHP classes from SOAP WSDL files.
+*   [OmniPay (⭐5.9k)](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
 
 ## [2. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -38,7 +34,7 @@
 
 ### Packages / Templating
 
-*   [EJS (⭐7.3k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
+*   [EJS (⭐7.4k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
 
 ### Packages / Parsing
 

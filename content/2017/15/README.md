@@ -137,9 +137,9 @@
 
 ## [5. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
-### Other useful repositories
+### Other Useful Repositories
 
-- Repository: [Cryptography (⭐4.1k)](https://github.com/sobolevn/awesome-cryptography)
+- Repository: [Cryptography (⭐5.1k)](https://github.com/sobolevn/awesome-cryptography)
 
   Description: Cryptography resources and tools
 
@@ -403,13 +403,13 @@
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [TensorFlow (⭐281)](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
+*   [TensorFlow (⭐283)](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
 
 ## [17. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Libraries and Frameworks / JavaScript / TypeScript
 
-*   [Node API Boilerplate (⭐3.2k)](https://github.com/talyssonoc/node-api-boilerplate) - NodeJS web API boilerplate for DDD and Clean Architecture applications.
+*   [Node API Boilerplate (⭐3.3k)](https://github.com/talyssonoc/node-api-boilerplate) - NodeJS web API boilerplate for DDD and Clean Architecture applications.
 
 ## [18. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -421,13 +421,13 @@
 
 ### Questions
 
-*   [tensorflow-ocaml (⭐279)](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
+*   [tensorflow-ocaml (⭐283)](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
 
 ## [20. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### Miscellaneous
 
-*   [Awesome (⭐223k)](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
+*   [Awesome (⭐278k)](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
 
 ## [21. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
@@ -471,10 +471,10 @@
 
 ## [24. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
-### Forums
+### Community / Forums
 
-*   [/r/dataengineering](https://www.reddit.com/r/dataengineering/) News, tips and background on Data Engineering
-*   [/r/etl](https://www.reddit.com/r/ETL/) Subreddit focused on ETL
+*   [/r/dataengineering](https://www.reddit.com/r/dataengineering/) - News, tips and background on Data Engineering.
+*   [/r/etl](https://www.reddit.com/r/ETL/) - Subreddit focused on ETL.
 
 ## [25. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -830,7 +830,7 @@
 
 ### Projection Mapping • VJing
 
-*   [VirtualMapper (⭐219)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
+*   [VirtualMapper (⭐225)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
 
 ### Videos
 
@@ -853,7 +853,7 @@
 
 ### Machine learning • Computer Vision • Ai / Other
 
-*   [Machine Learning (⭐948)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
+*   [Machine Learning (⭐946)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
 
 ## [46. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -865,11 +865,11 @@
 
 ### Code Analysis and Metrics
 
-*   [NsDepCop (⭐165)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
+*   [NsDepCop (⭐176)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
 
 ### Decompilation
 
-*   [dnSpy (⭐24k)](https://github.com/0xd4d/dnSpy) - open-source .NET assembly browser, editor, decompiler and debugger
+*   [dnSpy (⭐25k)](https://github.com/0xd4d/dnSpy) - open-source .NET assembly browser, editor, decompiler and debugger
 
 ### Distributed Computing
 

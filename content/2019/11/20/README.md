@@ -54,7 +54,7 @@
 
 ### Extensions / LaTeX Profile
 
-*   [LaTeXing (⭐77)](https://github.com/LaTeXing/LaTeXing) — an extension for which makes your life easier and more comfortable while creating your documents.
+*   [LaTeXing (⭐78)](https://github.com/LaTeXing/LaTeXing) — an extension for which makes your life easier and more comfortable while creating your documents.
 
 ## [7. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [CKAN](https://ckan.org) - CKAN is a tool for making open data websites. ([Source Code (⭐4.1k)](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
+*   [CKAN](https://ckan.org) - CKAN is a tool for making open data websites. ([Source Code (⭐4.2k)](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
 
 ## [9. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

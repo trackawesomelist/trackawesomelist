@@ -87,7 +87,7 @@
 
 ### PHP Libraries
 
-*   [BlockTrail PHP SDK (⭐42)](https://github.com/blocktrail/blocktrail-sdk-php)
+*   [BlockTrail PHP SDK (⭐43)](https://github.com/blocktrail/blocktrail-sdk-php)
 
 ## [9. Awesome Atom](/content/mehcode/awesome-atom/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Others
 
-*   [Racing Car Katas (⭐260)](https://github.com/emilybache/Racing-Car-Katas)
+*   [Racing Car Katas (⭐273)](https://github.com/emilybache/Racing-Car-Katas)
 
 ---
 

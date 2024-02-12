@@ -10,7 +10,7 @@
 
 ### Packages / Image
 
-*   [pica (⭐3.4k)](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.
+*   [pica (⭐3.5k)](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.
 
 ## [2. Es6 Tools](/content/addyosmani/es6-tools/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 08 - Apr 14, 2019
 
-42 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -29,7 +29,7 @@
 ### Development tools / IDEs
 
 *   [Eclipse](https://www.eclipse.org/)
-    *   [Eclipse Corrosion (⭐207)](https://github.com/eclipse-corrosion/corrosion)
+    *   [Eclipse Corrosion (⭐213)](https://github.com/eclipse-corrosion/corrosion)
 
 ## [5. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -77,31 +77,25 @@
     *   "Keeping Important Code Alive" ([slides](https://speakerdeck.com/indexzero/keeping-important-code-alive-seattlejs-march-2015))
     *   "Modernizing winston for node\@4" ([video](https://www.youtube.com/watch?v=uPw7QIx3JZM), [slides](https://speakerdeck.com/indexzero/modernizing-winston-for-node-at-4))
 
-## [9. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Kotlin / Vue.js
-
-*   [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
-
-## [10. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [9. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Trading & Backtesting
 
-*   [PyPortfolioOpt (⭐3.8k)](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier and advanced methods.
+*   [PyPortfolioOpt (⭐4k)](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier and advanced methods.
 
-## [11. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [10. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### DevOps
 
 *   [Terraform for Dominos (⭐995)](https://github.com/ndmckinley/terraform-provider-dominos) - The Terraform plugin for the Dominos Pizza provider.
 
-## [12. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
+## [11. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
 
 ### Calculator apps: / Windows
 
 *   [Windows Calculator (⭐26k)](https://github.com/Microsoft/calculator) - Simple yet powerful calculator that ships with Windows
 
-## [13. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [12. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Streaming Sites / Anime
 
@@ -135,39 +129,39 @@
 *   [WarezNX](https://discord.gg/d6xxuPq) Nintendo Switch Warez server. (/hbg/ has more up to date games as of April 2019)
 *   [/hbg/ Homebrew General](https://discord.io/homebrew) A Discord server that shares Nintendo Switch Games.
 
-## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compression
 
-*   [LZ4 (⭐8.7k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
+*   [LZ4 (⭐9k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
 
 ### Game Engine
 
-*   [raylib (⭐16k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
+*   [raylib (⭐18k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
 
-## [15. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [14. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / StreamField
 
-*   [Wagtail Blocks (⭐64)](https://github.com/ibrahimawadhamid/wagtail_blocks) - A Collection of awesome Wagtail CMS stream-field blocks and Charts.
+*   [Wagtail Blocks (⭐69)](https://github.com/ibrahimawadhamid/wagtail_blocks) - A Collection of awesome Wagtail CMS stream-field blocks and Charts.
 
 ### Open-source sites / Lists
 
-*   [SecureDrop (⭐40)](https://github.com/freedomofpress/securedrop.org) – Wagtail-powered website of the SecureDrop whistleblower document submission system.
+*   [SecureDrop (⭐39)](https://github.com/freedomofpress/securedrop.org) – Wagtail-powered website of the SecureDrop whistleblower document submission system.
 
-## [16. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [15. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Forms
 
 *   [django-bootstrap4 (⭐1k)](https://github.com/zostera/django-bootstrap4) - Bootstrap 4 integration with Django.
 
-## [17. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [16. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Tools / Playground
 
-*   [type-config (⭐18)](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
+*   [type-config (⭐19)](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
 
-## [18. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Utils
 
@@ -175,93 +169,93 @@
 
 ### HTML Builders
 
-*   [form\_builder.cr (⭐32)](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
+*   [form\_builder.cr (⭐31)](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
 
-## [19. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [18. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Resources
 
 *   [Lecture](https://www.youtube.com/watch?v=y7ndUhdQuU8) - More Modern CMake ([slides & examples (⭐155)](https://github.com/Bagira80/More-Modern-CMake))- by Deniz Bahadir, Meeting C++ 2018.
 
-## [20. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
+## [19. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
 
 ### Developer documentation
 
 *   [DigitalOcean API Slugs](https://slugs.do-api.dev/)
 
-## [21. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [20. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Vulnerability Scanners / Web Vulnerability Scanners
 
-*   [SQLmate (⭐396)](https://github.com/UltimateHackers/sqlmate) - Friend of `sqlmap` that identifies SQLi vulnerabilities based on a given dork and (optional) website.
+*   [SQLmate (⭐405)](https://github.com/UltimateHackers/sqlmate) - Friend of `sqlmap` that identifies SQLi vulnerabilities based on a given dork and (optional) website.
 
 ### Online Resources / Other Lists Online
 
-*   [Serverless Security (⭐547)](https://github.com/puresec/awesome-serverless-security/) - Curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
+*   [Serverless Security (⭐562)](https://github.com/puresec/awesome-serverless-security/) - Curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
 
 ### Windows Utilities / Web Exploitation Books
 
-*   [Commando VM (⭐6.4k)](https://github.com/fireeye/commando-vm) - Automated installation of over 140 Windows software packages for penetration testing and red teaming.
-*   [Covenant (⭐3.8k)](https://github.com/cobbr/Covenant) - ASP.NET Core application that serves as a collaborative command and control platform for red teamers.
+*   [Commando VM (⭐6.5k)](https://github.com/fireeye/commando-vm) - Automated installation of over 140 Windows software packages for penetration testing and red teaming.
+*   [Covenant (⭐3.9k)](https://github.com/cobbr/Covenant) - ASP.NET Core application that serves as a collaborative command and control platform for red teamers.
 
-## [22. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [21. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Debugging Tools
 
 *   [pry-rails (⭐1.3k)](https://github.com/rweng/pry-rails) - Avoid repeating yourself, use pry-rails instead of copying the initializer to every rails project. This is a small gem which causes rails console to open pry. It therefore depends on pry.
 
-## [23. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [22. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Console
 
 *   [scallop (⭐641)](https://github.com/scallop/scallop) - A simple Scala CLI parsing library.
 
-## [24. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [23. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
 *   [Ray Tracing In One Weekend (Vulkan RTX) (⭐1k)](https://github.com/GPSnoopy/RayTracingInVulkan) - Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 
-## [25. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
+## [24. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
-### React Firebase starter   [↗](https://awesomestacks.dev/react-firebase-starter) / Resources
+### React Firebase starter [↗](https://awesomestacks.dev/react-firebase-starter) / Resources
 
-*   [GraphQL](https://graphql.org/) - [🛠](https://stackshare.io/graphql) - [🐙 (⭐19k)](https://github.com/graphql/graphql-js) - A query language for APIs and a runtime for fulfilling those queries with your existing data.
-*   [Material UI](https://material-ui.com/) - [🛠️](https://stackshare.io/material-ui) - [🐙 (⭐84k)](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design.
+*   [GraphQL](https://graphql.org/) - [🛠](https://stackshare.io/graphql) - [🐙 (⭐20k)](https://github.com/graphql/graphql-js) - A query language for APIs and a runtime for fulfilling those queries with your existing data.
+*   [Material UI](https://material-ui.com/) - [🛠️](https://stackshare.io/material-ui) - [🐙 (⭐90k)](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design.
 *   [Relay](https://facebook.github.io/relay/) - [🛠️](https://stackshare.io/relay) - [🐙 (⭐18k)](https://github.com/facebook/relay) - A JavaScript framework for building data-driven React applications.
-*   [react-firebase-starter (⭐4.4k)](https://github.com/kriasoft/react-firebase-starter)
+*   [react-firebase-starter (⭐4.5k)](https://github.com/kriasoft/react-firebase-starter)
 
-### MEVN: Mongo Express Vue Node   [↗](https://awesomestacks.dev/mevn-mongo-express-vue-node) / Resources
+### MEVN: Mongo Express Vue Node [↗](https://awesomestacks.dev/mevn-mongo-express-vue-node) / Resources
 
-*   [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙 (⭐60k)](https://github.com/expressjs/express) - A minimal and flexible Node.js web application framework.
-*   [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐93k)](https://github.com/nodejs/node) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙 (⭐63k)](https://github.com/expressjs/express) - A minimal and flexible Node.js web application framework.
+*   [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐101k)](https://github.com/nodejs/node) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 *   [Welcome to Vue-Express-Mongo BoilerPlate](http://vemapp.moleculer.services/)
 
-### React starter kit   [↗](https://awesomestacks.dev/react-starter-kit) / Resources
+### React starter kit [↗](https://awesomestacks.dev/react-starter-kit) / Resources
 
-*   [Node.js](https://nodejs.org/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐93k)](https://github.com/nodejs/node) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Node.js](https://nodejs.org/) - [🛠️](https://stackshare.io/nodejs) - [🐙 (⭐101k)](https://github.com/nodejs/node) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
 *   [react-starter-kit (⭐22k)](https://github.com/kriasoft/react-starter-kit)
 
-### vue-starter   [↗](https://awesomestacks.dev/vue-starter) / Resources
+### vue-starter [↗](https://awesomestacks.dev/vue-starter) / Resources
 
-*   [Prettier](https://prettier.io/) - [🛠️](https://stackshare.io/prettier) - [🐙 (⭐45k)](https://github.com/prettier/prettier) - An opinionated code formatter.
+*   [Prettier](https://prettier.io/) - [🛠️](https://stackshare.io/prettier) - [🐙 (⭐48k)](https://github.com/prettier/prettier) - An opinionated code formatter.
 *   [vue-starter](https://vue-starter.herokuapp.com/docs/)
 
-### Vue Enterprise Boilerplate   [↗](https://awesomestacks.dev/vue-enterprise-boilerplate) / Resources
+### Vue Enterprise Boilerplate [↗](https://awesomestacks.dev/vue-enterprise-boilerplate) / Resources
 
-*   [vue-enterprise-boilerplate (⭐7.6k)](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
+*   [vue-enterprise-boilerplate (⭐7.7k)](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
 
-### Rock Solid Modern Rails   [↗](https://awesomestacks.dev/rock-solid-modern-rails) / Resources
+### Rock Solid Modern Rails [↗](https://awesomestacks.dev/rock-solid-modern-rails) / Resources
 
 *   [A Rock Solid, Modern Web Stack—Rails 5 API + ActiveAdmin + Create React App on Heroku](https://blog.heroku.com/a-rock-solid-modern-web-stack)
 
-## [26. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
+## [25. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
 
 ### Platforms and toolkits
 
-*   [UralicNLP (⭐59)](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
+*   [UralicNLP (⭐65)](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
 
-## [27. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
+## [26. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
 ### Resources
 
@@ -346,17 +340,17 @@
 
 *   [spawn issues (⭐35k)](https://github.com/nodejs/node-v0.x-archive/issues/2318) - `child_process.spawn()` behavior is not consistent between Windows and Linux.
 
-## [28. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [27. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Template Engine / Other
 
-*   [Rocker (⭐698)](https://github.com/fizzed/rocker) - Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
+*   [Rocker (⭐707)](https://github.com/fizzed/rocker) - Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
 
 ### Related Awesome Lists / Mocking
 
 *   [Java Concurrency Checklist (⭐1.2k)](https://github.com/code-review-checklists/java-concurrency)
 
-## [29. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [28. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Learning Platforms
 
@@ -367,13 +361,13 @@
 
 *   [Mathsisfun](https://www.mathsisfun.com) simple text lightweight site for students up to highschool
 
-## [30. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
+## [29. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
 
 ### Blogs / Case Study
 
 *   [Bootsity](https://bootsity.com/)
 
-## [31. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [30. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Habits
 
@@ -383,13 +377,13 @@
 
 *   [Hourly](http://hourly-app.com) - Minimalistic time tracker with smart functions and nice design (iOS).
 
-## [32. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [31. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Software
 
 *   [Taskade](http://www.taskade.com/)
 
-## [33. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [32. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Go / Svelte
 
@@ -399,13 +393,13 @@
 
 *   [Bootsity Newsletter](https://bootsity.com/). A free one-in-two-weeks newsletter curating great articles, videos and news.
 
-## [34. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [33. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Websites
 
 *   [Stoimen's web log](http://www.stoimen.com/) - Some algorithms nicely explained.
 
-## [35. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [34. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Documentation / Scalability and Resilience
 
@@ -453,7 +447,7 @@
 
 *   [Wikipedia: DevOps](https://en.wikipedia.org/wiki/DevOps) - Combining software development and operations practices to shorten time to market while maintaining high quality.
 
-## [36. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [35. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Bottom bars
 
@@ -463,7 +457,7 @@
 
 *   [RangeSlider (⭐367)](https://github.com/boeledi/RangeSlider) <!--stargazers:boeledi/RangeSlider--> - 2-thumb configurable RangeSlider by [Didier Boelens](https://www.didierboelens.com)
 
-## [37. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [36. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Broker
 
@@ -485,7 +479,7 @@
 
 *   [d3-MQTT-Topic-Tree (⭐94)](https://github.com/hardillb/d3-MQTT-Topic-Tree) - A MQTT Topic Tree viewer using the d3 collapsible tree and MQTT over websockets.
 
-## [38. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [37. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -495,7 +489,7 @@
 
 *   [react-native-vanilla ★185 (⭐1.5k)](https://github.com/pavjacko/react-native-vanilla) - 🚀🚀🚀 Build universal cross-platform apps with React Native. Includes latest `iOS`, `tvOS`, `Android`, `Android TV`, `Android Wear`, `Web`, `Tizen TV`, `Tizen Watch`, `LG webOS`, `macOS/OSX`, `Windows` and `KaiOS` platforms
 
-## [39. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [38. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Games & Comics
 
@@ -539,13 +533,13 @@
 
 
 
-## [40. Amas](/content/sindresorhus/amas/week/README.md)
+## [39. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Even Stensberg](https://github.com/evenstensberg/ama) - OSS contributor and developer.
 
-## [41. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [40. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -563,11 +557,11 @@
 
 *   [firebase-admin-dotnet (⭐333)](https://github.com/firebase/firebase-admin-dotnet) - Firebase Admin .NET SDK
 
-## [42. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [41. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Monitoring / Logging
 
-*   [opensnitch (⭐9.1k)](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+*   [opensnitch (⭐9.3k)](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 
 ---
 

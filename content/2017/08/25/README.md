@@ -34,7 +34,7 @@
 
 ### Code Analysis and Linters
 
-*   [MemCAD (⭐24)](https://github.com/Antique-team/memcad) - MemCAD is an abstract interpreter for shape analysis. MemCAD can verify C programs manipulating complex data structures.
+*   [MemCAD (⭐25)](https://github.com/Antique-team/memcad) - MemCAD is an abstract interpreter for shape analysis. MemCAD can verify C programs manipulating complex data structures.
 
 ## [6. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Database
 
-*   [JsonFlatFileDataStore (⭐389)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
+*   [JsonFlatFileDataStore (⭐401)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
 
 ---
 

@@ -10,12 +10,8 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-env0 (⭐31)](https://github.com/env0/terraform-provider-env0) - Provider for [env0](https://www.env0.com/)
-*   [terraform-provider-scalr (⭐18)](https://github.com/Scalr/terraform-provider-scalr) - Provider for [Scalr](https://scalr.com)
-
-### Tools / Community providers
-
-*   [Argonaut](https://argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes. Autogenerate Terraform modules, customize configurations through PRs. Support for app deployments on Kubernetes and Lambda environments.
+*   [terraform-provider-env0 (⭐33)](https://github.com/env0/terraform-provider-env0) - Provider for [env0](https://www.env0.com/)
+*   [terraform-provider-scalr (⭐18)](https://github.com/Scalr/terraform-provider-scalr) - Provider for [Scalr](https://www.scalr.com/)
 
 ## [2. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
@@ -57,12 +53,12 @@
 
 ### Modules / Machine learning
 
-*   [netsaur (⭐160)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
+*   [netsaur (⭐182)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
 *   [synaptic (⭐14)](https://github.com/load1n9/synaptic) - Dependency-less neural network library ported to deno
 
 ### Modules / Math
 
-*   [neo (⭐62)](https://github.com/denosaurs/neo/) - Matrix and other math, accelerated by WebGPU
+*   [neo (⭐64)](https://github.com/denosaurs/neo/) - Matrix and other math, accelerated by WebGPU
 
 ## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -75,11 +71,11 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-connect-wallet (⭐81)](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
+*   [vue-connect-wallet (⭐84)](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
 
 ### Components & Libraries / UI Utilities
 
-*   [v-route-generate (⭐9)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
+*   [v-route-generate (⭐10)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
 
 ## [10. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -99,13 +95,13 @@
 
 ### Form / Checkbox
 
-*   [svelte-formly (⭐239)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
+*   [svelte-formly (⭐248)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
 
 ## [12. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Open Source Projects / Other Tools
 
-*   [Bali (⭐183)](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
+*   [Bali (⭐217)](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
 
 ## [13. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
@@ -118,22 +114,20 @@
 *   [Marc Jeanmougin](https://www.patreon.com/marcjeanmougin) - Inkscape contributor.
 *   [Morevna Project](https://www.patreon.com/morevna) - Various contributions to open source animation tools and animated shorts sources released under CC.
 *   [Øyvind Kolås](https://www.patreon.com/pippin), [#2](https://liberapay.com/pippin/) - Lead developer of babl & GEGL libraries used in the graphics editor GIMP.
+*   [Pablo Dobarro](https://www.patreon.com/pablodp606) - Sculpting improvements for Blender.
 *   [Tavmjong Bah](https://www.patreon.com/tavmjong) - Working on Inkscape vector graphics editor.
 *   [ZeMarmot](https://www.patreon.com/zemarmot), [#2](https://www.tipeee.com/zemarmot), [#3](https://liberapay.com/ZeMarmot/) - 2D animation film project to be released under CC. GIMP contributions from Jehan Pagès, art and direction by Aryeom Han.
 
 ### Open Source Projects / Hardware related
 
-*   [Alyssa Rosenzweig](https://liberapay.com/alyssa/) - FOSS graphics driver work (Panfrost, Asahi) and contributions to several other projects.
 *   [Damien Maguire](https://www.patreon.com/evbmw) - Electric vehicle projects.
 *   [Espruino](https://www.patreon.com/espruino) - JavaScript interpreter for microcontrollers.
 *   [Frank Buss](https://www.patreon.com/frankbuss) - FPGA and other hardware projects.
 *   [GitClear](https://github.com/sponsors/gitclear) - Improved Linux support for touchpads.
 *   [Hector Martin "marcan"](https://www.patreon.com/marcan), [#2](https://github.com/sponsors/marcan) - Asahi, Linux support for Apple Silicon Macs.
-*   [Micah Elizabeth Scott](https://www.patreon.com/scanlime) - Videos and hardware.
 *   [Nefarius Software Solutions](https://www.patreon.com/nefarius) - Windows drivers for the Sony DualShock controller and others.
 *   [Pinout.xyz](https://www.patreon.com/gadgetoid) - Pinout diagrams for various microcontrollers.
 *   [Professor Abrasive](https://www.patreon.com/prof_abrasive) - Retro gaming.
-*   [Pablo Dobarro](https://www.patreon.com/pablodp606) - Sculpting improvements for Blender.
 
 ### People Doing Open Source Work / Hardware related
 

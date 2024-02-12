@@ -163,7 +163,7 @@
 
 ### UI / Barcode
 
-*   [KMPlaceholderTextView (⭐802)](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
+*   [KMPlaceholderTextView (⭐803)](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
 
 ## [10. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -245,11 +245,11 @@
 
 ### Applications
 
-*   [tty2048 (⭐154)](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
+*   [tty2048 (⭐153)](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
 
 ### Files and Directories
 
-*   [librex (⭐34)](https://github.com/ricn/librex) - Elixir library to convert office documents to other formats using LibreOffice.
+*   [librex (⭐35)](https://github.com/ricn/librex) - Elixir library to convert office documents to other formats using LibreOffice.
 *   [zarex (⭐25)](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
 
 ### Framework Components
@@ -258,17 +258,17 @@
 
 ### Testing
 
-*   [espec (⭐795)](https://github.com/antonmi/espec) - BDD test framework for Elixir inspired by RSpec.
+*   [espec (⭐797)](https://github.com/antonmi/espec) - BDD test framework for Elixir inspired by RSpec.
 
 ## [15. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
-*   [istextorbinary (⭐107)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
+*   [istextorbinary (⭐139)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 
 ### Packages / Network
 
-*   [getmac (⭐321)](https://github.com/bevry/getmac) - Get the computer MAC address.
+*   [getmac (⭐339)](https://github.com/bevry/getmac) - Get the computer MAC address.
 
 ## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 

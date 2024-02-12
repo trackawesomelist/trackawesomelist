@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 03, 2015
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Contents / Tools
 
-*   [picotool (⭐345)](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
+*   [picotool (⭐353)](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
 
 ## [2. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
@@ -52,15 +52,9 @@
 
 ### Queue
 
-*   [toniq (⭐340)](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
+*   [toniq (⭐342)](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
 
-## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [A Guide to Python's Magic Methods (⭐1.7k)](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
-
-## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Photography / CC0-license
 
@@ -83,13 +77,13 @@
 
 *   [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 
-## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Individuals/Group Contributors / D individuals
 
 *   Dragan Gaic <http://www.gajotres.net/>
 
-## [9. Tips](/content/git-tips/tips/README.md)
+## [8. Tips](/content/git-tips/tips/README.md)
 
 ## Show the most recent tag on the current branch.
 

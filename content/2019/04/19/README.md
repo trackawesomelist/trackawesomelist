@@ -10,13 +10,13 @@
 
 ### Resources / Examples
 
-*   [Laravel + Nuxt.js boilerplate (⭐566)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
+*   [Laravel + Nuxt.js boilerplate (⭐600)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Music and Sound
 
-*   [Maestro (⭐121)](https://github.com/smashingboxes/maestro) - A Slack-Powered music bot for Spotify
+*   [Maestro (⭐122)](https://github.com/smashingboxes/maestro) - A Slack-Powered music bot for Spotify
 *   [Sonic Pi (⭐10k)](https://github.com/samaaron/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
 
 ## [3. Awesome Msr](/content/dspinellis/awesome-msr/README.md)
@@ -74,7 +74,7 @@
 
 ## [9. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
-### Code Coverage & CI   [↗](https://awesomestacks.dev/code-coverage-and-ci) / Resources
+### Code Coverage & CI [↗](https://awesomestacks.dev/code-coverage-and-ci) / Resources
 
 *   [CircleCI](https://circleci.com/) - [🛠](https://stackshare.io/circleci) - Popular managed CI server.
 *   [Codecov](https://codecov.io/) - [🛠️](https://stackshare.io/codecov) - Hosted coverage reports with awesome features to enhance your CI workflow.

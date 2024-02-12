@@ -26,7 +26,7 @@
 
 ### Resources / Job Portal
 
-*   [Vue.js Interview Questions (⭐2.2k)](https://github.com/sudheerj/vuejs-interview-questions) - A List of 300 VueJS Interview Questions and Answers
+*   [Vue.js Interview Questions (⭐2.3k)](https://github.com/sudheerj/vuejs-interview-questions) - A List of 300 VueJS Interview Questions and Answers
 
 ### Resources / Community
 
@@ -55,11 +55,11 @@
 
 ### Networking
 
-*   [librdkafka (⭐7k)](https://github.com/edenhill/librdkafka) - Apache Kafka client library for C and C++. \[BSD-2-Clause]
+*   [librdkafka (⭐7.2k)](https://github.com/edenhill/librdkafka) - Apache Kafka client library for C and C++. \[BSD-2-Clause]
 
 ### Reflection
 
-*   [meta (⭐503)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
+*   [meta (⭐527)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. \[MIT]
 
 ### Scripting
 
@@ -68,7 +68,7 @@
 ### Miscellaneous
 
 *   [CPPItertools (⭐1.3k)](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library. \[BSD-2-Clause]
-*   [mio (⭐1.5k)](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO. \[MIT]
+*   [mio (⭐1.6k)](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO. \[MIT]
 
 ## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -87,22 +87,22 @@
 
 ### Media Players
 
-*   [rx-player (⭐742)](https://github.com/canalplus/rx-player) - HTML5/Javascript video player that supports MPEG-DASH and SmoothStreaming.
+*   [rx-player (⭐802)](https://github.com/canalplus/rx-player) - HTML5/Javascript video player that supports MPEG-DASH and SmoothStreaming.
 
 ### Monitoring & Quality Control
 
-*   [LTC-tools (⭐57)](https://github.com/x42/ltc-tools) - A collection of tools to handle Linear Timecode (LTC) and convert to MIDI Timecode (MTC).
+*   [LTC-tools (⭐64)](https://github.com/x42/ltc-tools) - A collection of tools to handle Linear Timecode (LTC) and convert to MIDI Timecode (MTC).
 
 ### Multimedia content processing
 
-*   [AvTranscoder (⭐153)](https://github.com/avTranscoder/avTranscoder) - FFmpeg/LibAV-based high-level API to re-wrap or transcode media, with bindings for Java and Python.
+*   [AvTranscoder (⭐159)](https://github.com/avTranscoder/avTranscoder) - FFmpeg/LibAV-based high-level API to re-wrap or transcode media, with bindings for Java and Python.
 *   [FFmpeg](http://ffmpeg.org) - A cross-platform solution to record, convert and stream audio and video. Supports SMPTE ST 2110.
-*   [VideoContext (⭐1.2k)](https://github.com/bbc/videocontext) - Experimental HTML5/WebGL library for creating interactive and responsive web videos.
-*   [Voctomix (⭐545)](https://github.com/voc/voctomix) - Customizable conference recording/mixing/streaming software based on Python and GStreamer.
+*   [VideoContext (⭐1.3k)](https://github.com/bbc/videocontext) - Experimental HTML5/WebGL library for creating interactive and responsive web videos.
+*   [Voctomix (⭐560)](https://github.com/voc/voctomix) - Customizable conference recording/mixing/streaming software based on Python and GStreamer.
 
 ### Network & Storage Testing
 
-*   [SMPTE 2110-20 Analyzer (⭐50)](https://github.com/ebu/smpte2110-analyzer) - Analyzer to inspect network packets generated in accordance with SMPTE ST 2110.
+*   [SMPTE 2110-20 Analyzer (⭐61)](https://github.com/ebu/smpte2110-analyzer) - Analyzer to inspect network packets generated in accordance with SMPTE ST 2110.
 
 ### Software-defined radio
 
@@ -111,11 +111,11 @@
 ### Subtitling
 
 *   [EBU-TT-D Subtitling within dash.js (⭐11)](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - dash.js fork with EBU-TT-D subtitles in HTML/CSS overlay. Later added to [dash.js (⭐11)](https://github.com/ebu/dash.js).
-*   [EBU-TT Live Interoperability Toolkit (⭐23)](https://github.com/ebu/ebu-tt-live-toolkit) - Components for generating, testing and distributing [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) subtitles.
-*   [GStreamer TTML subtitling package (⭐18)](https://github.com/bbc/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render EBU-TT-D (TTML) subtitles.
+*   [EBU-TT Live Interoperability Toolkit (⭐24)](https://github.com/ebu/ebu-tt-live-toolkit) - Components for generating, testing and distributing [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) subtitles.
+*   [GStreamer TTML subtitling package (⭐20)](https://github.com/bbc/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render EBU-TT-D (TTML) subtitles.
 *   [IRT EBU-TT-D Application Samples (⭐13)](https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples) - EBU-TT-D sample files, PNG images and mp4 videos as rendering references.
-*   [Subtitling Conversion Framework (SCF) (⭐49)](https://github.com/Irt-Open-Source/scf) - Modules for converting subtitle formats, incl. EBU STL and EBU-TT files.
-*   [Timed Text Toolkit (ttt) (⭐73)](https://github.com/skynav/ttt) - Tools that support/use the W3C Timed Text Markup Language (TTML).
+*   [Subtitling Conversion Framework (SCF) (⭐50)](https://github.com/Irt-Open-Source/scf) - Modules for converting subtitle formats, incl. EBU STL and EBU-TT files.
+*   [Timed Text Toolkit (ttt) (⭐75)](https://github.com/skynav/ttt) - Tools that support/use the W3C Timed Text Markup Language (TTML).
 
 ### Video Production
 
@@ -126,21 +126,21 @@
 
 ### Project Management
 
-*   [milestones (⭐112)](https://github.com/turbopape/milestones)
+*   [milestones (⭐114)](https://github.com/turbopape/milestones)
 
 ### Terminal UI
 
 *   [triki (⭐143)](https://github.com/lambdaisland/trikl)
-*   [zaffre (⭐100)](https://github.com/aaron-santos/zaffre)
+*   [zaffre (⭐101)](https://github.com/aaron-santos/zaffre)
 *   [closh (⭐1.6k)](https://github.com/dundalek/closh)
 
 ### Graphviz
 
 *   [zipper-viz (⭐8)](https://github.com/lambdaisland/zipper-viz)
-*   [dorothy (⭐237)](https://github.com/daveray/dorothy)
+*   [dorothy (⭐240)](https://github.com/daveray/dorothy)
 *   [viz.cljc (⭐31)](https://github.com/jebberjeb/viz.cljc)
-*   [fsmviz (⭐49)](https://github.com/jebberjeb/fsmviz)
-*   [rhizome (⭐449)](https://github.com/ztellman/rhizome)
+*   [fsmviz (⭐50)](https://github.com/jebberjeb/fsmviz)
+*   [rhizome (⭐446)](https://github.com/ztellman/rhizome)
 
 ## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -150,26 +150,26 @@
 
 ## [10. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
-### Nuxt, TypeScript + Docker   [↗](https://awesomestacks.dev/nuxt-type-script-docker) / Resources
+### Nuxt, TypeScript + Docker [↗](https://awesomestacks.dev/nuxt-type-script-docker) / Resources
 
-*   [Nuxt](https://nuxtjs.org/) - [🛠](https://stackshare.io/nuxt) - [🐙 (⭐43k)](https://github.com/nuxt/nuxt.js) - Vue.js Meta Framework to create complex, fast & universal web applications quickly.
+*   [Nuxt](https://nuxtjs.org/) - [🛠](https://stackshare.io/nuxt) - [🐙 (⭐49k)](https://github.com/nuxt/nuxt.js) - Vue.js Meta Framework to create complex, fast & universal web applications quickly.
 
-### Production Ready Django + Docker   [↗](https://awesomestacks.dev/production-ready-django-docker) / Resources
+### Production Ready Django + Docker [↗](https://awesomestacks.dev/production-ready-django-docker) / Resources
 
-*   [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙 (⭐65k)](https://github.com/docker/docker) - A tool to create, deploy and run applications inside containers.
+*   [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙 (⭐67k)](https://github.com/docker/docker) - A tool to create, deploy and run applications inside containers.
 *   [GitLab](https://about.gitlab.com/) - [🛠](https://stackshare.io/gitlab) - [🐙 (⭐23k)](https://github.com/gitlabhq/gitlabhq) - Open source self-hosted Git management software.
-*   [Django](https://www.djangoproject.com/) - [🛠](https://stackshare.io/django) - [🐙 (⭐68k)](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-*   [Caddy](https://caddyserver.com/) - [🛠](https://stackshare.io/caddy) - [🐙 (⭐45k)](https://github.com/mholt/caddy) - The HTTP/2 Web Server with Automatic HTTPS.
-*   [wemake-django-template (⭐1.7k)](https://github.com/wemake-services/wemake-django-template)
+*   [Django](https://www.djangoproject.com/) - [🛠](https://stackshare.io/django) - [🐙 (⭐75k)](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+*   [Caddy](https://caddyserver.com/) - [🛠](https://stackshare.io/caddy) - [🐙 (⭐51k)](https://github.com/mholt/caddy) - The HTTP/2 Web Server with Automatic HTTPS.
+*   [wemake-django-template (⭐1.9k)](https://github.com/wemake-services/wemake-django-template)
 
-### User Behavior Analytics via Segment   [↗](https://awesomestacks.dev/user-behavior-analytics-via-segment) / Resources
+### User Behavior Analytics via Segment [↗](https://awesomestacks.dev/user-behavior-analytics-via-segment) / Resources
 
 *   [Segment](https://segment.com) - [🛠️](https://stackshare.io/segment) - A single hub to collect, translate and send your data with the flip of a switch.
 *   [Google Analytics](https://marketingplatform.google.com/about/analytics/) - [🛠️](https://stackshare.io/google-analytics) - Enterprise-class web analytics.
 
-### Streaming Analytics with Kafka, Spark, and Cassandra   [↗](https://awesomestacks.dev/streaming-analytics-with-kafka-spark-and-cassandra) / Resources
+### Streaming Analytics with Kafka, Spark, and Cassandra [↗](https://awesomestacks.dev/streaming-analytics-with-kafka-spark-and-cassandra) / Resources
 
-*   [kafka-sparkstreaming-cassandra (⭐94)](https://github.com/Yannael/kafka-sparkstreaming-cassandra)
+*   [kafka-sparkstreaming-cassandra (⭐96)](https://github.com/Yannael/kafka-sparkstreaming-cassandra)
 *   [Applying the Lambda Architecture with Spark, Kafka, and Cassandra](https://www.pluralsight.com/courses/spark-kafka-cassandra-applying-lambda-architecture)
 *   [Streaming Analytics with Spark, Kafka, Cassandra, and Akka](https://databricks.com/session/streaming-analytics-with-spark-kafka-cassandra-and-akka)
 

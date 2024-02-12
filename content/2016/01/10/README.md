@@ -103,11 +103,11 @@
 
 ### Code Analysis and Linters
 
-*   [flow (⭐22k)](https://github.com/facebook/flow) - flow is a static type checker for JavaScript
+*   [flow (⭐22k)](https://github.com/facebook/flow) - flow is a static type checker for JavaScript.
 
 ### Exercises and Short Examples
 
-*   [OCaml at Exercism](http://exercism.io/languages/ocaml) – Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive readable code. [Solutions (⭐85)](https://github.com/exercism/xocaml).
+*   [OCaml at Exercism](http://exercism.io/languages/ocaml) – Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive, readable code. [Solutions (⭐89)](https://github.com/exercism/xocaml).
 
 ---
 

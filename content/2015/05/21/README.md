@@ -99,27 +99,27 @@
 
 ### Code Quality
 
-*   [sonarqube (⭐7.6k)](https://github.com/SonarSource/sonarqube) - Put your technical debt under control
+*   [sonarqube (⭐8.4k)](https://github.com/SonarSource/sonarqube) - Put your technical debt under control
 *   [gerrit](https://gerrit.googlesource.com/) - Code Review
 
 ### CI / CD
 
-*   [Jenkins (⭐20k)](https://github.com/jenkinsci/jenkins) - open-source continuous integration server
-*   [Travis CI (⭐8.3k)](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects
+*   [Jenkins (⭐22k)](https://github.com/jenkinsci/jenkins) - open-source continuous integration server
+*   [Travis CI (⭐8.4k)](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects
 
 ### Security and PKI
 
 *   [Ralasafe](http://sourceforge.net/projects/ralasafe/) - Access Control Middleware
-*   [OpenXPKI (⭐440)](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software
+*   [OpenXPKI (⭐492)](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software
 
 ### Bug trackers
 
-*   [Bugzilla (⭐527)](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software
-*   [Mantis (⭐1.5k)](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power
+*   [Bugzilla (⭐608)](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software
+*   [Mantis (⭐1.6k)](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power
 
 ### PaaS
 
-*   [OpenShift (⭐8.3k)](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes
+*   [OpenShift (⭐8.4k)](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes
 
 ---
 

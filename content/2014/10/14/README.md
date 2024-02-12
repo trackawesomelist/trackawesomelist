@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 14, 2014
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,21 +10,15 @@
 
 ### Authorization
 
-*   [CanCanCan (⭐5.4k)](https://github.com/CanCanCommunity/cancancan) - Continuation of CanCan, an authorization Gem for Ruby on Rails.
+*   [CanCanCan (⭐5.5k)](https://github.com/CanCanCommunity/cancancan) - Continuation of CanCan, an authorization Gem for Ruby on Rails.
 
-## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
-
-### Packages / Filesystem
-
-*   [lnfs (⭐12)](https://github.com/kevva/lnfs) - Force create symlinks like `ln -fs`.
-
-## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Data Visualization
 
 *   [C3](http://c3js.org/) - D3-based reusable chart library
 
-## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Storage / Runner
 

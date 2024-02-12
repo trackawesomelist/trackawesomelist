@@ -56,8 +56,8 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [P (⭐2.8k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
-*   [Roslyn-linq-rewrite (⭐716)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
+*   [P (⭐2.9k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
+*   [Roslyn-linq-rewrite (⭐717)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
 
 ## [6. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Examples and funny stuff
 
-*   [try.cr (⭐26)](https://github.com/maiha/try.cr) - Try monad
+*   [try.cr (⭐27)](https://github.com/maiha/try.cr) - Try monad
 
 ## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -103,13 +103,13 @@
 
 *   [Shaders: A primer](https://notes.underscorediscovery.com/shaders-a-primer/) - A primer on shaders.
 *   [Shaders: Second stage](https://notes.underscorediscovery.com/shaders-second-stage/) - The second part to the previous.
-*   [WebGL Lessons — Fragment Shaders (⭐307)](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
+*   [WebGL Lessons — Fragment Shaders (⭐306)](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
 *   [Ray Marching and Signed Distance Functions](http://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing) - Introduction to ray tracing.
 *   [Introduction to Ray Tracing](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - A simple method for creating 3D images.
 
 ### Interactive / Other
 
-*   [Webgl-workshop (⭐1.4k)](https://github.com/stackgl/webgl-workshop) - The sequel to shader-school: Learn the WebGL API.
+*   [Webgl-workshop (⭐1.5k)](https://github.com/stackgl/webgl-workshop) - The sequel to shader-school: Learn the WebGL API.
 *   [Fragment-oundry](http://hughsk.io/fragment-foundry) - Interactive fragment shader tutorial.
 *   [SDF Tutorial 1: box & balloon](https://www.shadertoy.com/view/Xl2XWt) - Shadertoy tutorial on raytracing.
 *   [HOWTO: Ray Marching](https://www.shadertoy.com/view/XllGW4) - Shadertoy tutorial on Ray Marching.

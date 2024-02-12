@@ -11,7 +11,7 @@
 ### Storage / Runner
 
 *   [lawnchair.js (⭐2.1k)](https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
-*   [sql.js (⭐112)](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
+*   [sql.js (⭐115)](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
 
 ### Color / Runner
 
@@ -61,13 +61,13 @@
 
 ### Web frameworks / Clack plugins
 
-*   [ningle (⭐257)](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL](http://opensource.franz.com/preamble.html).
-    *   [jingle (⭐46)](https://github.com/dnaeon/cl-jingle) - based on ningle, adds  bells and whistles, such as middlewares.
+*   [ningle (⭐260)](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL](http://opensource.franz.com/preamble.html).
+    *   [jingle (⭐45)](https://github.com/dnaeon/cl-jingle) - based on ningle, adds  bells and whistles, such as middlewares.
         *   includes an OpenAPI and Swagger UI demo.
 
 ### Other / Third-party APIs
 
-*   [corona (⭐48)](https://github.com/eudoxia0/corona) -  Create and manage virtual machines from Common Lisp <http://eudoxia.me/corona> [MIT](https://opensource.org/licenses/MIT).
+*   [corona (⭐49)](https://github.com/eudoxia0/corona) -  Create and manage virtual machines from Common Lisp <http://eudoxia.me/corona> [MIT](https://opensource.org/licenses/MIT).
 
 ## [8. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
@@ -111,29 +111,28 @@
 
 ### Table of Contents / Code Analysis
 
-*   [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code (⭐443)](https://github.com/scrutinizer-ci/php-analyzer).
+*   [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code (⭐445)](https://github.com/scrutinizer-ci/php-analyzer).
 
 ### Table of Contents / Code Quality
 
-*   [PHP CodeSniffer (⭐9.8k)](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
-*   [PHP CS Fixer (⭐11k)](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A coding standards fixer library.
-*   [PHPCheckstyle (⭐156)](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
+*   [PHP CodeSniffer (⭐11k)](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
+*   [PHPCheckstyle (⭐164)](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 *   [PHPCPD (⭐2.2k)](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
 
 ### Table of Contents / Static Analysis
 
-*   [Exakat (⭐368)](https://github.com/exakat/exakat) - A static analysis engine for PHP.
-*   [Mondrian (⭐391)](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
-*   [phan (⭐5.3k)](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
-*   [PhpDependencyAnalysis (⭐545)](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
-*   [PHP Metrics (⭐2.3k)](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
-*   [PHP Migration (⭐194)](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
-*   [PHPStan (⭐11k)](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
+*   [Exakat (⭐374)](https://github.com/exakat/exakat) - A static analysis engine for PHP.
+*   [Mondrian (⭐392)](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
+*   [phan (⭐5.5k)](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
+*   [PhpDependencyAnalysis (⭐553)](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
+*   [PHP Metrics (⭐2.4k)](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
+*   [PHP Migration (⭐201)](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
+*   [PHPStan (⭐12k)](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
 
 ### Table of Contents / Database
 
-*   [Atlas.Orm (⭐428)](https://github.com/atlasphp/Atlas.Orm) - A data mapper implementation for your persistence model in PHP.
-*   [Aura.SqlQuery (⭐421)](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
+*   [Atlas.Orm (⭐426)](https://github.com/atlasphp/Atlas.Orm) - A data mapper implementation for your persistence model in PHP.
+*   [Aura.SqlQuery (⭐444)](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
 
 ### Configuration / Text Editors and IDEs
 
@@ -156,7 +155,7 @@
 
 ### Clients
 
-*   [pnpm (⭐24k)](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
+*   [pnpm (⭐26k)](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
 
 ## [16. Inspire](/content/noahbuscher/inspire/week/README.md)
 
@@ -185,7 +184,7 @@
 
 ### Application Libraries
 
-*   [ocaml-containers (⭐439)](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library and interfaces to various libraries (bigarrays, unix, etc...). BSD license.
+*   [ocaml-containers (⭐470)](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library, and interfaces to various libraries (bigarrays, Unix, etc.) BSD license.
 
 ## [20. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
@@ -257,11 +256,11 @@
 
 ### CMS
 
-*   [BlogEngine.NET (⭐929)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
+*   [BlogEngine.NET (⭐943)](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
 
 ### Misc
 
-*   [Valit (⭐319)](https://github.com/valit-stack/Valit) - Valit is dead simple, fluent validation for .NET Core.
+*   [Valit (⭐320)](https://github.com/valit-stack/Valit) - Valit is dead simple, fluent validation for .NET Core.
 
 ## [29. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
@@ -281,7 +280,7 @@
 
 ### Tools and frameworks
 
-*   [reg-suit (⭐1k)](https://github.com/reg-viz/reg-suit) - Visual regression testing suite which compares images, stores snapshots, and notifies the difference to your GitHub repo.
+*   [reg-suit (⭐1.1k)](https://github.com/reg-viz/reg-suit) - Visual regression testing suite which compares images, stores snapshots, and notifies the difference to your GitHub repo.
 
 ## [32. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
@@ -308,7 +307,7 @@
 ### Components & Libraries / UI Components
 
 *   [vue-modal-dialogs (⭐294)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
-*   [vue-cleave-component (⭐284)](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
+*   [vue-cleave-component (⭐282)](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
 
 ## [35. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 

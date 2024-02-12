@@ -76,7 +76,7 @@
 
 ### Table of Contents / Code Analysis
 
-*   [Better Reflection (⭐1.1k)](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
+*   [Better Reflection (⭐1.2k)](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

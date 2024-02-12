@@ -10,7 +10,7 @@
 
 ### Integrated Development Environments
 
-*   [Nvim-R (⭐815)](https://github.com/jalvesaq/Nvim-R) - Neovim plugin for R.
+*   [Nvim-R (⭐912)](https://github.com/jalvesaq/Nvim-R) - Neovim plugin for R.
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -22,11 +22,11 @@
 
 ### Command-Line Productivity
 
-*   [sman (⭐282)](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
+*   [sman (⭐286)](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
 
 ### Shell Script Development / Directory Navigation
 
-*   [is.sh (⭐155)](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
+*   [is.sh (⭐156)](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -74,7 +74,7 @@
 
 ### RESTful API
 
-*   [yada (⭐733)](https://github.com/juxt/yada)
+*   [yada (⭐729)](https://github.com/juxt/yada)
 
 ### Dependency injection
 

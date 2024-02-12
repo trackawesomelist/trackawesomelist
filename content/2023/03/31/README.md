@@ -16,7 +16,7 @@
 
 ### Bars and Lines / Diagnostics
 
-*   [Bekaboo/deadcolumn.nvim (⭐157)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
+*   [Bekaboo/deadcolumn.nvim (⭐202)](https://github.com/Bekaboo/deadcolumn.nvim) - Shows your colorcolumn dynamically.
 
 ## [3. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
@@ -32,14 +32,14 @@
 
 ### no-std crates / WIP
 
-*   [crossbus (⭐117)](https://github.com/hominee/crossbus): A Platform-Less, Runtime-Less Actor Computing Model.
+*   [crossbus (⭐118)](https://github.com/hominee/crossbus): A Platform-Less, Runtime-Less Actor Computing Model.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [haiku (⭐1)](https://github.com/alesr/oh-my-zsh-haiku-plugin) - Prints a haiku promoting work-life balance and stress management once every 24 hours when the terminal is open.
-*   [ranger (⭐4)](https://github.com/rc2dev/ranger-zshz) - Integrates [zsh-z (⭐1.7k)](https://github.com/agkozak/zsh-z) into [ranger (⭐14k)](https://github.com/ranger/ranger).
+*   [ranger (⭐4)](https://github.com/rc2dev/ranger-zshz) - Integrates [zsh-z (⭐1.8k)](https://github.com/agkozak/zsh-z) into [ranger (⭐14k)](https://github.com/ranger/ranger).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

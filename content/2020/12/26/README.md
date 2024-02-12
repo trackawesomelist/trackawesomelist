@@ -35,32 +35,32 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [go-featureprocessing (⭐101)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
+*   [go-featureprocessing (⭐106)](https://github.com/nikolaydubina/go-featureprocessing) - Fast and convenient feature processing for low latency machine learning in Go.
 
 ## [4. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Data Formats
 
-*   [vroom (⭐571)](https://github.com/r-lib/vroom) - Fast reading of delimited files.
+*   [vroom (⭐598)](https://github.com/r-lib/vroom) - Fast reading of delimited files.
 *   [arrow <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://arrow.apache.org/docs/r/) - An interface to the Arrow C++ library.
-*   [feather <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐2.6k)](https://github.com/wesm/feather) - Fast, interoperable binary data frame storage for Python, R, and more powered by Apache Arrow.
+*   [feather <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐2.7k)](https://github.com/wesm/feather) - Fast, interoperable binary data frame storage for Python, R, and more powered by Apache Arrow.
 *   [fst <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://github.com/qinwf/awesome-R/blob/master/README.md/www.fstpackage.org/fst/) - Lightning Fast Serialization of Data Frames for R.
-*   [haven (⭐384)](https://github.com/hadley/haven) - Improved methods to import SPSS, Stata and SAS files in R.
-*   [jsonlite (⭐330)](https://github.com/jeroenooms/jsonlite) - A robust and quick way to parse JSON files in R.
-*   [qs (⭐324)](https://github.com/traversc/qs) - Quick serialization of R objects.
+*   [haven (⭐413)](https://github.com/hadley/haven) - Improved methods to import SPSS, Stata and SAS files in R.
+*   [jsonlite (⭐361)](https://github.com/jeroenooms/jsonlite) - A robust and quick way to parse JSON files in R.
+*   [qs (⭐360)](https://github.com/traversc/qs) - Quick serialization of R objects.
 *   [readxl <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://readxl.tidyverse.org/) - Read excel files (.xls and .xlsx) into R.
-*   [readr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐927)](https://github.com/hadley/readr) - A fast and friendly way to read tabular data into R.
-*   [rio (⭐534)](https://github.com/leeper/rio) - A Swiss-Army Knife for Data I/O.
-*   [readODS (⭐47)](https://github.com/chainsawriot/readODS/) - Read OpenDocument Spreadsheets into R as data.frames.
-*   [RcppTOML (⭐25)](https://github.com/eddelbuettel/rcpptoml) - Rcpp Bindings to C++ parser for TOML files.
+*   [readr <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20"> (⭐975)](https://github.com/hadley/readr) - A fast and friendly way to read tabular data into R.
+*   [rio (⭐579)](https://github.com/leeper/rio) - A Swiss-Army Knife for Data I/O.
+*   [readODS (⭐51)](https://github.com/chainsawriot/readODS/) - Read OpenDocument Spreadsheets into R as data.frames.
+*   [RcppTOML (⭐32)](https://github.com/eddelbuettel/rcpptoml) - Rcpp Bindings to C++ parser for TOML files.
 *   [writexl](https://docs.ropensci.org/writexl/) - Portable, light-weight data frame to xlsx exporter for R.
-*   [yaml (⭐138)](https://github.com/viking/r-yaml) - R package for converting objects to and from YAML.
+*   [yaml (⭐152)](https://github.com/viking/r-yaml) - R package for converting objects to and from YAML.
 
 ## [5. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
 ### Canvas / Examples
 
-*   [PixelCraft (⭐956)](https://github.com/rgab1508/PixelCraft) • A pixel-art editor made using canvas
+*   [PixelCraft (⭐1.2k)](https://github.com/rgab1508/PixelCraft) • A pixel-art editor made using canvas
 
 ---
 

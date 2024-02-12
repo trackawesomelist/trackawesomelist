@@ -1,22 +1,22 @@
 # Awesome List Updates on May 24, 2021
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Miscellaneous
+
+*   [redirect.pizza](https://redirect.pizza/) - Easily manage redirects with HTTPS support. The free plan includes 10 sources and 100,000 hits per month.
+
+## [2. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### FIAT
 
-*   [My Expenses (⭐603)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
-
-## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
-
-### Tools
-
-*   💼 [Gust](https://www.getgust.com) - Drag and drop page builder for WordPress.
+*   [My Expenses (⭐667)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -32,29 +32,19 @@
 *   [Oathbringer](https://www.goodreads.com/book/show/34002132-oathbringer) \[4.73] :fire:
 *   [Rhythm of War](https://www.goodreads.com/book/show/49021976-rhythm-of-war) \[4.63]
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Web Hosting
-
-*   [Stormkit](https://stormkit.io/) — Integrate building, deploying, and hosting seamlessly with the git flow of your JAMStack or Node.JS app. 50 GB bandwidth and 10m monthly requests for free, including free SSL.
-
-### Miscellaneous
-
-*   [redirect.pizza](https://redirect.pizza/) - Easily manage redirects with HTTPS support. The free plan includes 10 sources and 100,000 hits per month.
-
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Layout
 
 *   [vue-layout-system (⭐34)](https://github.com/leeboyin/vue-layout-system) - Vue components that solve daily layout problems.
 
-## [7. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
+## [6. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
 ### Alternatives / File Sharing
 
 *   [Mega](https://mega.nz/) - 50 GB of secure free storage (in which 35 GB will expire after 30 days). Files are encrypted client-side. More (non-permanent) space can be claimed from achievements.
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### URL Shorteners
 
@@ -70,23 +60,23 @@
 
 
 
-## [9. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [8. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Tools / Testing Tools
 
-*   [editor-info (⭐5)](https://github.com/fisker/editor-info) - Detect whether one is within an editor/IDE and which type, allowing one to tweak ESLint configuration accordingly.
+*   [editor-info (⭐6)](https://github.com/fisker/editor-info) - Detect whether one is within an editor/IDE and which type, allowing one to tweak ESLint configuration accordingly.
 
-## [10. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [9. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Infrastructure as Code Analysis / Containers
 
-*   [Docker-Bench-Security (⭐8k)](https://github.com/docker/docker-bench-security) - *Docker* - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+*   [Docker-Bench-Security (⭐8.7k)](https://github.com/docker/docker-bench-security) - *Docker* - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 
 ### Infrastructure as Code Analysis / Ansible
 
-*   [Ansible-Lint (⭐2.9k)](https://github.com/ansible-community/ansible-lint) - *Ansible Community* - Checks playbooks for practices and behaviour that could potentially be improved. As a community backed project ansible-lint supports only the last two major versions of Ansible.
+*   [Ansible-Lint (⭐3.2k)](https://github.com/ansible-community/ansible-lint) - *Ansible Community* - Checks playbooks for practices and behaviour that could potentially be improved. As a community backed project ansible-lint supports only the last two major versions of Ansible.
 
-## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Events
 
@@ -96,7 +86,7 @@
 
 *   [ExportData](https://www.exportdata.io/team) - Export, search & analyse Twitter data. Ruby, Rails, React.JS, Terraform, AWS.
 
-## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Forums and Discussion Boards Search / Telegram
 

@@ -10,7 +10,7 @@
 
 ### Table of Contents / Routers
 
-*   [Klein (⭐2.6k)](https://github.com/klein/klein.php) - A flexible router.
+*   [Klein (⭐2.7k)](https://github.com/klein/klein.php) - A flexible router.
 
 ## [2. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -34,7 +34,7 @@ git config --global rerere.enabled 1
 
 ### ORM and Datamapping
 
-*   [neo4j\_sips (⭐80)](https://github.com/florinpatrascu/neo4j_sips) - Neo4j driver for Elixir.
+*   [neo4j\_sips (⭐81)](https://github.com/florinpatrascu/neo4j_sips) - Neo4j driver for Elixir.
 *   [neo4j\_sips\_models (⭐6)](https://github.com/florinpatrascu/neo4j_sips_models) - Minimalistic Model support for the Neo4j.Sips Elixir driver.
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
@@ -45,9 +45,9 @@ git config --global rerere.enabled 1
 
 ### For Electron / Other
 
-*   [electron-installer-debian (⭐350)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
+*   [electron-installer-debian (⭐354)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
 *   [electron-installer-redhat (⭐75)](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package.
-*   [electron-installer-windows (⭐464)](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
+*   [electron-installer-windows (⭐463)](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
 
 ## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

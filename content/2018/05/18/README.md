@@ -16,19 +16,19 @@
 
 ### GUI
 
-*   [TablePlus (⭐3k)](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
+*   [TablePlus (⭐3.2k)](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
 
 ### Schema / Changes
 
-*   [2bass (⭐39)](https://github.com/CourseOrchestra/2bass) - Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.
-*   [flyway (⭐7.4k)](https://github.com/flyway/flyway) - Database migration tool.
-*   [liquibase (⭐4.1k)](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
-*   [Pyrseas (⭐373)](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
+*   [2bass (⭐41)](https://github.com/CourseOrchestra/2bass) - Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.
+*   [flyway (⭐7.7k)](https://github.com/flyway/flyway) - Database migration tool.
+*   [liquibase (⭐4.3k)](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
+*   [Pyrseas (⭐387)](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
 
 ### API / Samples
 
 *   [Prisma (⭐17k)](https://github.com/prismagraphql/prisma) -  Prisma turns your database into a realtime GraphQL API.
-*   [PostgREST (⭐21k)](https://github.com/PostgREST/postgrest) - REST API for any Postgres database.
+*   [PostgREST (⭐22k)](https://github.com/PostgREST/postgrest) - REST API for any Postgres database.
 
 ## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -41,7 +41,7 @@
 ### Tools and frameworks
 
 *   [ember-visual-test (⭐25)](https://github.com/Cropster/ember-visual-test) - Simple visual regression testing for [Ember](https://emberjs.com/).
-*   [AET (⭐132)](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more.
+*   [AET (⭐136)](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more.
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -72,13 +72,13 @@
 
 ### Libraries / To draw using canvas
 
-*   [Proton (⭐2.2k)](https://github.com/a-jie/Proton) is a lightweight and powerful javascript particle engine. With it you can easily create countless cool effects
+*   [Proton (⭐2.3k)](https://github.com/a-jie/Proton) is a lightweight and powerful javascript particle engine. With it you can easily create countless cool effects
 
 ## [9. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Multimedia content processing
 
-*   [EBU ADM Renderer (⭐55)](https://github.com/ebu/ebu_adm_renderer) - Reference implementation of the EBU ADM Renderer ([EBU Tech 3388](https://tech.ebu.ch/publications/tech3388))
+*   [EBU ADM Renderer (⭐70)](https://github.com/ebu/ebu_adm_renderer) - Reference implementation of the EBU ADM Renderer ([EBU Tech 3388](https://tech.ebu.ch/publications/tech3388))
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

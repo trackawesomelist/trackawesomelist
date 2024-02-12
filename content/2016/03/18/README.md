@@ -10,7 +10,7 @@
 
 ### Hardware
 
-*   [Bus Tracking GPS (⭐27)](https://github.com/herrdragon/busTrackingGps) - Code for Miami prototype of a cheap open-source solution to track transit buses.
+*   [Bus Tracking GPS (⭐28)](https://github.com/herrdragon/busTrackingGps) - Code for Miami prototype of a cheap open-source solution to track transit buses.
 
 ## [2. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Date and Time
 
-*   [ex\_ical (⭐22)](https://github.com/fazibear/ex_ical) - ICalendar parser.
+*   [ex\_ical (⭐23)](https://github.com/fazibear/ex_ical) - ICalendar parser.
 
 ### Networking
 

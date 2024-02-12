@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 31, 2015
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,21 +12,17 @@
 
 *   [omelette (⭐1.4k)](https://github.com/f/omelette) - Shell autocompletion helper.
 
-## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
-
-### System Utilities / Directory Navigation
-
-*   [mtr (⭐2.3k)](https://github.com/traviscross/mtr) - The functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
-
-## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Messaging / Scala
 
-*   [Malamute (⭐306)](https://github.com/zeromq/malamute) - ZeroMQ enterprise messaging broker.
+*   [Malamute (⭐312)](https://github.com/zeromq/malamute) - ZeroMQ enterprise messaging broker.
 
-### REST / Scala
+## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
-*   [Slate (⭐35k)](https://github.com/tripit/slate) - Beautiful static documentation for your API.
+### System Utilities / Directory Navigation
+
+*   [mtr (⭐2.4k)](https://github.com/traviscross/mtr) - The functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
 
 ## [4. Awesome Purescript](/content/passy/awesome-purescript/README.md)
 
@@ -55,12 +51,6 @@
 ### Projects to keep an eye on (ie projects in development)
 
 *   [Day of Action (⭐8)](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
-
-## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### COBOL / Non-X86
-
-*   [Enterprise COBOL for z/OS documentation library](http://www-01.ibm.com/support/docview.wss?uid=swg27036733)
 
 ---
 

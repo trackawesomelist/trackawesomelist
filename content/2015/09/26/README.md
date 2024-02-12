@@ -70,11 +70,11 @@
 ### Erlang VM / Elixir
 
 *   [Phoenix](http://www.phoenixframework.org/) - Framework for building HTML5 apps, API backends and distributed systems.
-*   [Plug (⭐2.6k)](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules between web applications.
+*   [Plug (⭐2.7k)](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules between web applications.
 
 ### Erlang VM / Erlang
 
-*   [Cowboy (⭐6.9k)](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
+*   [Cowboy (⭐7.1k)](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
 
 ## [4. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 

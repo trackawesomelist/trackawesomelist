@@ -49,7 +49,7 @@
 
 ### Files and Directories
 
-*   [waffle (⭐651)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
+*   [waffle (⭐670)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
 
 ## [6. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
@@ -64,7 +64,7 @@
 ### Concepts / Field Data (Real User Monitoring - RUM)
 
 *   [Perfume.js](https://zizzamia.github.io/perfume/) - Open Source Library to collect Field Data.
-*   [Web Vitals (⭐5.4k)](https://github.com/GoogleChrome/web-vitals) - Open Source Library to collect Field Data.
+*   [Web Vitals (⭐6.7k)](https://github.com/GoogleChrome/web-vitals) - Open Source Library to collect Field Data.
 
 ## [8. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Python / Git
 
-*   [django-cryptography (⭐329)](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
+*   [django-cryptography (⭐351)](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
 
 ### Web-sites / Git
 

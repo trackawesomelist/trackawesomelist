@@ -53,9 +53,9 @@
 
 ## [6. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
-### Other useful repositories
+### Other Useful Repositories
 
-- Repository: [API Security Checklist (⭐18k)](https://github.com/shieldfy/API-Security-Checklist)
+- Repository: [API Security Checklist (⭐22k)](https://github.com/shieldfy/API-Security-Checklist)
 
   Description: Checklist of the most important security countermeasures when designing, testing, and releasing your API
 
@@ -71,11 +71,7 @@
 
 ### Table of Contents / Command Line
 
-*   [GetOpt (⭐321)](https://github.com/getopt-php/getopt-php) - A command line opt parser.
-
-### Configuration / PHP Websites
-
-*   [Seven PHP](https://7php.com/) - A website that interviews members of the PHP community.
+*   [GetOpt (⭐331)](https://github.com/getopt-php/getopt-php) - A command line opt parser.
 
 ---
 

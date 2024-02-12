@@ -10,9 +10,9 @@
 
 ### Table of Contents / Search
 
-*   [Elastica (⭐2.2k)](https://github.com/ruflin/Elastica) - A client library for ElasticSearch.
+*   [Elastica (⭐2.3k)](https://github.com/ruflin/Elastica) - A client library for ElasticSearch.
 
 ---
 
-- Prev: [Oct 25, 2013](/content/2013/10/25/README.md)
+- Prev: [Nov 14, 2013](/content/2013/11/14/README.md)
 - Next: [Oct 19, 2013](/content/2013/10/19/README.md)

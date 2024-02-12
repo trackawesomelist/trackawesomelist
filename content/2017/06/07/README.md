@@ -55,7 +55,7 @@
 
 ### Web / Web Application Firewall
 
-*   [sql\_firewall (⭐174)](https://github.com/uptimejp/sql_firewall) SQL Firewall Extension for PostgreSQL
+*   [sql\_firewall (⭐175)](https://github.com/uptimejp/sql_firewall) SQL Firewall Extension for PostgreSQL
 
 ## [8. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 

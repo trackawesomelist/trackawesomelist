@@ -18,7 +18,7 @@
 
 ### External Services
 
-*   [goodreads-box (⭐19)](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
+*   [goodreads-box (⭐20)](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

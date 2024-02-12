@@ -16,7 +16,7 @@
 
 ### Table of Contents / Imagery
 
-*   [Image Hash (⭐1.8k)](https://github.com/jenssegers/imagehash) - A library for generating perceptual image hashes.
+*   [Image Hash (⭐1.9k)](https://github.com/jenssegers/imagehash) - A library for generating perceptual image hashes.
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

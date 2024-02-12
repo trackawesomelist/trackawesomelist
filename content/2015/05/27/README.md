@@ -16,7 +16,7 @@
 
 ### Project management
 
-*   [Redmine (⭐4.7k)](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails
+*   [Redmine (⭐5k)](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails
 *   [Phabricator (⭐12k)](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software
 *   [Taiga.io](https://github.com/taigaio) - Your Agile, Free and Open Source Project Management Tool
 

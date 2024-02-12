@@ -65,17 +65,17 @@
 
 ### Metrics
 
-*   [prometheus (⭐46)](https://github.com/mirage/prometheus) – OCaml client library for Prometheus monitoring.
+*   [prometheus (⭐49)](https://github.com/mirage/prometheus) – OCaml client library for Prometheus monitoring.
 
 ## [9. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Tools and frameworks
 
-*   [Happo (⭐506)](https://github.com/Galooshi/happo) - Visual diffing in CI for user interfaces.
-*   [Wendigo (⭐144)](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer.
+*   [Happo (⭐504)](https://github.com/Galooshi/happo) - Visual diffing in CI for user interfaces.
+*   [Wendigo (⭐147)](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer.
 *   [Loki (⭐1.7k)](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al.
-*   [CodeceptJS (⭐3.9k)](https://github.com/codeception/codeceptjs/) - Modern Era Acceptance Testing Framework for NodeJS.
-*   [FuncUnit (⭐568)](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
+*   [CodeceptJS (⭐4k)](https://github.com/codeception/codeceptjs/) - Modern Era Acceptance Testing Framework for NodeJS.
+*   [FuncUnit (⭐569)](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
 *   [Nightwatch (⭐11k)](https://github.com/nightwatchjs/nightwatch) - Automated testing and continuous integration framework based on Node.js and using the Webdriver protocol.
 *   [Protractor (⭐8.8k)](https://github.com/angular/protractor) - E2E test framework for Angular apps.
 

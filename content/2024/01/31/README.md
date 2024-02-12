@@ -16,7 +16,7 @@
 
 ### Router / Mouse Events
 
-*   [tanstack-router (⭐6.1k)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
+*   [tanstack-router (⭐6.5k)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

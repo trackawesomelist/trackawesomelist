@@ -14,13 +14,13 @@
 
 ### Utilities / Productivity
 
-*   [Pomodoro Cycle (⭐71)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
+*   [Pomodoro Cycle (⭐74)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
 
 ## [2. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
-*   [movie-box (⭐21)](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
+*   [movie-box (⭐22)](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Form Components / Drag and Drop
 
-*   [react-drag-sizing (⭐16)](https://github.com/fritx/react-drag-sizing) - "Drag to resize" (sizing) as React Component.
+*   [react-drag-sizing (⭐17)](https://github.com/fritx/react-drag-sizing) - "Drag to resize" (sizing) as React Component.
 
 ### Form Components / Rich Text Editor
 
@@ -40,7 +40,7 @@
 
 ### Framework bindings / integrations / Mouse Events
 
-*   [react-threejs (⭐79)](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
+*   [react-threejs (⭐80)](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Databases
 
-*   [Database Tools (⭐3.2k)](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
+*   [Database Tools (⭐3.4k)](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
 
 ## [8. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 

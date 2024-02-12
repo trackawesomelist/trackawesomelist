@@ -34,7 +34,7 @@
 
 ### Video/Audio / Other
 
-*   [exifr (⭐894)](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. <https://mutiny.cz/exifr/>
+*   [exifr (⭐954)](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. <https://mutiny.cz/exifr/>
 
 ## [5. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 

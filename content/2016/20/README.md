@@ -16,17 +16,13 @@
 
 ### Frameworks / Runtimes
 
-*   [Vert.X Toolbox (⭐109)](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
-
-### Node.js / Scala
-
-*   [Hudson Taylor (⭐29)](https://github.com/hudson-taylor/hudson-taylor) - Set of libraries for building automatically documented, well validated services.
+*   [Vert.X Toolbox (⭐113)](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debug
 
-*   [doctest (⭐5.2k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
+*   [doctest (⭐5.4k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
 
 ## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
@@ -140,13 +136,13 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐668)](https://github.com/llogiq/flame) —
-    *   [mrhooray/torch (⭐128)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
+    *   [llogiq/flame (⭐679)](https://github.com/llogiq/flame) —
+    *   [mrhooray/torch (⭐129)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
 
 ### Libraries / Computation
 
 *   [BLAS](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) \[[blas](https://crates.io/keywords/blas)]
-    *   [mikkyang/rust-blas (⭐79)](https://github.com/mikkyang/rust-blas) — BLAS bindings
+    *   [mikkyang/rust-blas (⭐82)](https://github.com/mikkyang/rust-blas) — BLAS bindings
 
 ## [11. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -187,7 +183,7 @@
 
 ### Online / Playground
 
-*   [TypeScript playground-on-ace (⭐88)](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5 (⭐56)](https://github.com/basarat/TypeScriptEditor)
+*   [TypeScript playground-on-ace (⭐90)](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5 (⭐56)](https://github.com/basarat/TypeScriptEditor)
 *   [TypeScript official Playground](http://www.typescriptlang.org/Playground/)
 *   [JS Bin](http://jsbin.com/?js) (Select TypeScript)
 *   [Codepen](http://codepen.io/) (Select TypeScript)
@@ -314,7 +310,7 @@
 
 ### Configuration / Miscellaneous
 
-*   [noCAPTCHA (⭐339)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
+*   [noCAPTCHA (⭐354)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 
 ## [19. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -699,7 +695,7 @@
 
 ### Packages / Testing
 
-*   [Nightwatch (⭐11k)](https://github.com/nightwatchjs/nightwatch) - Automated UI testing framework based on Selenium WebDriver.
+*   [Nightwatch (⭐12k)](https://github.com/nightwatchjs/nightwatch) - Automated UI testing framework based on Selenium WebDriver.
 
 ## [25. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
@@ -729,7 +725,7 @@ git rebase --interactive HEAD~2
 
 ### Open Source / Featured
 
-*   [Min (⭐7.1k)](https://github.com/minbrowser/min) - Minimal web browser.
+*   [Min (⭐7.3k)](https://github.com/minbrowser/min) - Minimal web browser.
 
 ### Open Source / Other
 
@@ -843,7 +839,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Geolocation
 
-*   [ipgeobase (⭐8)](https://github.com/sergey-chechaev/elixir_ipgeobase) - Find Russian and Ukraine city by IP address and find country for other country.
+*   [ipgeobase (⭐7)](https://github.com/sergey-chechaev/elixir_ipgeobase) - Find Russian and Ukraine city by IP address and find country for other country.
 
 ### Hardware
 
@@ -914,7 +910,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Menu / Barcode
 
-*   [MenuItemKit (⭐850)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
+*   [MenuItemKit (⭐851)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 
 ### Utility / Barcode
 

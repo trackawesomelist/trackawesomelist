@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 09, 2016
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,13 +24,8 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 ## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
-### Platforms
-
-*   [Netflix OSS](https://netflix.github.io/) - Netflix open source software ecosystem.
-
 ### API Gateways / Edge Services / Scala
 
-*   [Kong](https://getkong.org/) - Open source management layer for APIs.
 *   [Tyk](https://tyk.io/) - Open source, fast and scalable API gateway, portal and API management platform.
 
 ### Configuration & Discovery / Scala
@@ -52,7 +47,6 @@ A **must-read** for anyone looking to build their own cryptography features.
 ### Storage / Scala
 
 *   [ArangoDB](https://www.arangodb.com/) - A distributed free and open source database with a flexible data model for documents, graphs, and key-values.
-*   [Elasticsearch](https://www.elastic.co/products/elasticsearch) - Open source distributed, scalable, and highly available search server.
 *   [Geode](http://geode.incubator.apache.org/) - Open source, distributed, in-memory database for scale-out applications.
 *   [RethinkDB](http://rethinkdb.com/) - Open source, scalable database that makes building realtime apps easier.
 
@@ -71,7 +65,7 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 ### Documentation
 
-*   [DocFX (⭐3.6k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
+*   [DocFX (⭐3.8k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -141,14 +135,6 @@ A **must-read** for anyone looking to build their own cryptography features.
 ### Unofficial
 
 *   [fluxter (⭐99)](https://github.com/lexmag/fluxter) - An InfluxDB writer for Elixir
-
-## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Spark / Play Scala
-
-*   [Databricks Spark Knowledge Base](https://www.gitbook.com/book/databricks/databricks-spark-knowledge-base/details)
-*   [Databricks Spark Reference Applications](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
-*   [Mastering Apache Spark](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
 
 ---
 

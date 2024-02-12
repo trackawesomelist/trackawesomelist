@@ -10,7 +10,7 @@
 
 ### Build Systems / Playground
 
-*   [Zwitterion (⭐564)](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
+*   [Zwitterion (⭐565)](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
 
 ## [2. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
@@ -112,7 +112,7 @@
 
 ### Applications / Directory Navigation
 
-*   [terjira (⭐819)](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
+*   [terjira (⭐845)](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
 
 ---
 

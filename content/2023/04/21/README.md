@@ -16,8 +16,8 @@
 
 ### Tools / Community Chat Rooms
 
-*   [espflash (⭐375)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - ![crates.io](https://img.shields.io/crates/v/espflash.svg)
-*   [espup (⭐153)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - ![crates.io](https://img.shields.io/crates/v/espup.svg)
+*   [espflash (⭐411)](https://github.com/esp-rs/espflash) Serial flasher utility for Espressif SoCs and modules. - ![crates.io](https://img.shields.io/crates/v/espflash.svg)
+*   [espup (⭐177)](https://github.com/esp-rs/espup) Tool for installing and maintaining Espressif Rust ecosystem. - ![crates.io](https://img.shields.io/crates/v/espup.svg)
 
 ### Peripheral Access Crates / Espressif
 
@@ -25,7 +25,7 @@
 
 ## [3. Awesome V](/content/vlang/awesome-v/README.md)
 
-### Tutorials / IntelliJ & CLion & GoLand etc
+### Tutorials / Vim
 
 *   [VOSCA Blog Tutorials](https://blog.vosca.dev/categories/tutorials/) - Tutorial category on VOSCA blog.
 
@@ -33,7 +33,7 @@
 
 ### Machine Learning
 
-*   [ruby-openai (⭐1.8k)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
+*   [ruby-openai (⭐2.1k)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
 
 ## [5. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -49,11 +49,11 @@
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Inbox: Large Language Models (LLMs) / Contribute to Our Repository
+### Large Language Models (LLMs)
 
 *   [Stability AI Launches the First of its StableLM Suite of Language Models — Stability AI](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models?utm_source=bensbites\&utm_medium=newsletter\&utm_campaign=stability-ai-release-their-llm)
 
-### Inbox: Video AI tools / Generative Adversarial Networks (GANs)
+### Image Segmentation / Deforum
 
 *   [Align your Latents](https://research.nvidia.com/labs/toronto-ai/VideoLDM/): high-resolution video synthesis with latent diffusion models [\[arxiv\]](https://arxiv.org/abs/2304.08818)
 
@@ -61,28 +61,27 @@
 
 ### Authentication, Authorization, and User Management
 
-*   [Clerk](https://clerk.com) — User management, auth, 2FA/MFA with prebuilt UI components. Free up to 5,000 monthly active users.
+*   [Clerk](https://clerk.com) — User management, authentication, 2FA/MFA, prebuilt UI components for sign-in, sign-up, user profiles, and more. Free up to 10,000 monthly active users.
 
 ## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Chart
 
-*   [echarts for react (⭐4.2k)](https://github.com/hustcc/echarts-for-react) - Wrapper around beautiful Apache Echarts
+*   [echarts for react (⭐4.3k)](https://github.com/hustcc/echarts-for-react) - Wrapper around beautiful Apache Echarts
 
 ## [10. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Frameworks
 
-*   [next (⭐113k)](https://github.com/vercel/next.js) - The React Framework
+*   [next (⭐117k)](https://github.com/vercel/next.js) - The React Framework
 *   [blitz (⭐13k)](https://github.com/blitz-js/blitz) - The Missing Fullstack Toolkit for Next.js
 *   [gatsby (⭐55k)](https://github.com/gatsbyjs/gatsby) - Build modern websites with React
-*   [refine (⭐15k)](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
-*   [aleph (⭐5.2k)](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno
+*   [refine (⭐20k)](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
 
 ### React Awesome Components
 
-*   [kbar (⭐4.3k)](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
-*   [tagify (⭐3.1k)](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
+*   [kbar (⭐4.5k)](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
+*   [tagify (⭐3.2k)](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 
 ### React Native General Resources
 

@@ -15,11 +15,11 @@
 
 ### Cloud Infrastructure and Management
 
-*   [nomad (⭐81)](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere.
+*   [nomad (⭐82)](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere.
 
 ### HTTP
 
-*   [http\_proxy (⭐58)](https://github.com/KazuCocoa/http_proxy) - Multi port HTTP Proxy.
+*   [http\_proxy (⭐59)](https://github.com/KazuCocoa/http_proxy) - Multi port HTTP Proxy.
 
 ### JSON
 
@@ -27,7 +27,7 @@
 
 ### Utilities
 
-*   [erlang-history (⭐495)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
+*   [erlang-history (⭐496)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
 
 ## [2. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -53,9 +53,9 @@
 
 ## [5. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
-### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
+### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [日本語 (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
+*   [日本語 (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
 
 ## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -83,7 +83,7 @@
 
 ### RESTful API
 
-*   [Friboo (⭐119)](https://github.com/zalando/friboo)
+*   [Friboo (⭐117)](https://github.com/zalando/friboo)
 
 ## [10. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

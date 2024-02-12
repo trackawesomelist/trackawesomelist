@@ -10,7 +10,7 @@
 
 ### Emails
 
-*   [postal (⭐569)](https://github.com/drewr/postal)
+*   [postal (⭐578)](https://github.com/drewr/postal)
 
 ## [2. Typography](/content/deanhume/typography/README.md)
 

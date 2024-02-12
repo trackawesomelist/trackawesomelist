@@ -25,94 +25,28 @@
 
 ### Javascript / Isomorphic web frameworks
 
-*   [Valtan (⭐205)](https://github.com/cxxxr/valtan) -  Common Lisp to JavaScript compiler.
+*   [Valtan (⭐214)](https://github.com/cxxxr/valtan) -  Common Lisp to JavaScript compiler.
 *   [JACL](https://tailrecursion.com/JACL/) - an experimental Lisp system for the Web browser platform to explore new techniques for developing large Single Page Applications with Lisp.
 
 ### Others / Email
 
-*   [sendgrid (⭐13)](https://github.com/vindarel/cl-sendgrid) - send emails with Sendgrid's API. [MIT](https://opensource.org/licenses/MIT).
+*   [sendgrid (⭐14)](https://github.com/vindarel/cl-sendgrid) - send emails with Sendgrid's API. [MIT](https://opensource.org/licenses/MIT).
 
 ### Actors pattern / Third-party APIs
 
-*   👍 [Sento (⭐162)](https://github.com/mdbergmann/cl-gserver) - Sento (formerly cl-gserver) is a 'message passing' library/framework with actors similar to Erlang or Akka. It supports creating systems that should work reactive, require parallel computing and event based message handling. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
+*   👍 [Sento (⭐173)](https://github.com/mdbergmann/cl-gserver) - Sento (formerly cl-gserver) is a 'message passing' library/framework with actors similar to Erlang or Akka. It supports creating systems that should work reactive, require parallel computing and event based message handling. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Caching / Third-party APIs
 
-*   [function-cache (⭐45)](https://github.com/AccelerationNet/function-cache) -  A Common Lisp function caching / memoization library. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [function-cache (⭐47)](https://github.com/AccelerationNet/function-cache) -  A Common Lisp function caching / memoization library. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-## [3. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Bindings
+### Image Synthesis / Multi-agents
 
-*   [Raw Node.js Vulkan API](https://github.com/hydra2s/node-vulkan-api) - A new Vulkan bindings for Node.JS, similar with LWJGL-3 or NVK.
+*   [\[arxiv/2211.11319\] VectorFusion](https://arxiv.org/abs/2211.11319): Text-to-SVG by Abstracting Pixel-Based Diffusion Models
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Projects Using Vue.js / Commercial Products
-
-*   [He3](https://he3.app) - Free and Modern Developer Utilities Toolbox.
-
-### Projects Using Vue.js / Apps/Websites
-
-*   [findcharitables.org](https://findcharitables.org/) - Website for listing of organizations that need donation
-
-### Components & Libraries / UI Components
-
-*   [vue2-text-annotation (⭐3)](https://github.com/HC200ok/vue2-text-annotation) - A \[Vue 2.x] component for text annotation and manual data masking
-*   [vue-auth-ui (⭐19)](https://github.com/ndrbrt/vue-auth-ui) - Pre-built set of components for user authentication
-
-## [5. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
-
-### Pricing
-
-*   [The 5 Pillars of PriceOps](https://priceops.org) - A manifesto inspired by the DevOps movement in which pricing is no longer ossified, but is practiced as a responsive iteration process, and implemented as a flexible property of the system.
-
-## [6. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
-
-### Table of Contents / Streaming Engine
-
-*   [Bytewax (⭐738)](https://github.com/bytewax/bytewax) \[Python] - data parallel, distributed, stateful stream processing framework.
-
-### Table of Contents / Online Machine Learning
-
-*   [River (⭐4.4k)](https://github.com/online-ml/river) \[Python] - online machine learning library.
-
-## [7. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
-
-### Cryptography / Identifiers
-
-*   [RFC #4122: UUID - Security Considerations](https://www.rfc-editor.org/rfc/rfc4122#section-6) - “Do not assume that UUIDs are hard to guess; they should not be used as security capabilities (identifiers whose mere possession grants access)”. UUIDs are designed to be unique, not to be random or unpredictable: do not use UUIDs as a secret.
-*   [Awesome Identifiers](https://adileo.github.io/awesome-identifiers/) - A benchmark of all identifier formats.
-*   [Awesome GUID (⭐13)](https://github.com/secretGeek/AwesomeGUID) - Funny take on the global aspect of unique identifiers.
-
-## [8. Awesome Rails](/content/gramantin/awesome-rails/README.md)
-
-### Community / Other external resources
-
-*   [Ruby on Rails Link (Slack)](https://www.rubyonrails.link/)
-
-## [9. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
-
-### Tools and Apps / Screen Capture
-
-*   [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
-
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-### Applications / Social networks
-
-*   Mastodon
-    *   [Rustodon (⭐832)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust
-
-## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
-
-### Modules / Frontend framework
-
-*   [fresh (⭐11k)](https://github.com/denoland/fresh) - The next-gen web framework.
-
-## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
-
-### Inbox: Stable Diffusion / For text-to-image
+### Inbox: Stable Diffusion / Multi-agents
 
 *   \[🔥🔥🔥] [SD GUIDE FOR ARTISTS AND NON-ARTISTS - Google Docs](https://docs.google.com/document/d/1R2UZi5G-DXiz2HcCrfAFLYJoer_JPDEoZmV7wy1tEz0/edit#): a Google Docs with in-depth tips, tricks, tutorials and more related to Stable Diffusion
 
@@ -124,13 +58,75 @@
 
 *   [Deforum Stable Diffusion Animation - v5 Math Functions - Demo and Test - YouTube](https://www.youtube.com/watch?v=6snk7gw898g)
 
-### Image Synthesis / Promptism
+## [4. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
-*   [\[arxiv/2211.11319\] VectorFusion](https://arxiv.org/abs/2211.11319): Text-to-SVG by Abstracting Pixel-Based Diffusion Models
+### Bindings
 
-### Image Synthesis / DALL-E 2
+*   [Raw Node.js Vulkan API](https://github.com/hydra2s/node-vulkan-api) - A new Vulkan bindings for Node.JS, similar with LWJGL-3 or NVK.
 
-*   [lucidrains/DALLE2-pytorch (⭐10k)](https://github.com/lucidrains/DALLE2-pytorch): Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Projects Using Vue.js / Commercial Products
+
+*   [He3](https://he3.app) - Free and Modern Developer Utilities Toolbox.
+
+### Projects Using Vue.js / Apps/Websites
+
+*   [findcharitables.org](https://findcharitables.org/) - Website for listing of organizations that need donation
+
+### Components & Libraries / UI Components
+
+*   [vue2-text-annotation (⭐4)](https://github.com/HC200ok/vue2-text-annotation) - A \[Vue 2.x] component for text annotation and manual data masking
+*   [vue-auth-ui (⭐22)](https://github.com/ndrbrt/vue-auth-ui) - Pre-built set of components for user authentication
+
+## [6. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+
+### Pricing
+
+*   [The 5 Pillars of PriceOps](https://priceops.org) - A manifesto inspired by the DevOps movement in which pricing is no longer ossified, but is practiced as a responsive iteration process, and implemented as a flexible property of the system.
+
+## [7. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+
+### Table of Contents / Streaming Engine
+
+*   [Bytewax (⭐1k)](https://github.com/bytewax/bytewax) \[Python] - data parallel, distributed, stateful stream processing framework.
+
+### Table of Contents / Online Machine Learning
+
+*   [River (⭐4.6k)](https://github.com/online-ml/river) \[Python] - online machine learning library.
+
+## [8. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+
+### Cryptography / Identifiers
+
+*   [RFC #4122: UUID - Security Considerations](https://www.rfc-editor.org/rfc/rfc4122#section-6) - “Do not assume that UUIDs are hard to guess; they should not be used as security capabilities (identifiers whose mere possession grants access)”. UUIDs are designed to be unique, not to be random or unpredictable: do not use UUIDs as a secret.
+*   [Awesome Identifiers](https://adileo.github.io/awesome-identifiers/) - A benchmark of all identifier formats.
+*   [Awesome GUID (⭐14)](https://github.com/secretGeek/AwesomeGUID) - Funny take on the global aspect of unique identifiers.
+
+## [9. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+
+### Community / Other external resources
+
+*   [Ruby on Rails Link (Slack)](https://www.rubyonrails.link/)
+
+## [10. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
+
+### Tools and Apps / Screen Capture
+
+*   [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
+
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Social networks
+
+*   Mastodon
+    *   [Rustodon (⭐846)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust
+
+## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
+
+### Modules / Frontend framework
+
+*   [fresh (⭐12k)](https://github.com/denoland/fresh) - The next-gen web framework.
 
 ## [13. Awesome Research](/content/emptymalei/awesome-research/README.md)
 

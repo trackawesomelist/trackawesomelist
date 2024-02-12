@@ -10,8 +10,8 @@
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Red/Blue (⭐3.6k)](https://github.com/pret/pokered)
-*   [Pokémon Crystal (⭐1.9k)](https://github.com/pret/pokecrystal)
+*   [Pokémon Red/Blue (⭐3.7k)](https://github.com/pret/pokered)
+*   [Pokémon Crystal (⭐2k)](https://github.com/pret/pokecrystal)
 
 ### Related projects / Syntax highlighting packages
 

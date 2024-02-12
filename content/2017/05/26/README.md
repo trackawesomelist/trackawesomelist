@@ -28,7 +28,7 @@
 
 ### Utility / Collection View Layout
 
-*   [InAppSettingsKit (⭐3.1k)](https://github.com/futuretap/InAppSettingsKit) - This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.
+*   [InAppSettingsKit (⭐3.2k)](https://github.com/futuretap/InAppSettingsKit) - This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.
 
 ## [4. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Shell Package Management / Directory Navigation
 
-*   [shundle (⭐79)](https://github.com/javier-lopez/shundle) - Plugin manager for shell scripts
+*   [shundle (⭐82)](https://github.com/javier-lopez/shundle) - Plugin manager for shell scripts
 
 ## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

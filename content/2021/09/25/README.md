@@ -15,14 +15,14 @@
 
 ### Visual Changes / Design Tooling
 
-*   [Blur-my-shell (⭐1.1k)](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
+*   [Blur-my-shell (⭐1.2k)](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
 
 ## [2. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Starter Templates
 
-*   [Vite Lit Starter (⭐49k)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) - Lit based template preset for Vite.
-*   [Vite Lit TS Starter (⭐49k)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) - Lit and TypeScript based template preset for Vite.
+*   [Vite Lit Starter (⭐62k)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) - Lit based template preset for Vite.
+*   [Vite Lit TS Starter (⭐62k)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) - Lit and TypeScript based template preset for Vite.
 
 ### Extensions
 
@@ -30,11 +30,11 @@
 
 ### Design Systems
 
-*   [Outline Design System (⭐69)](https://github.com/phase2/outline) - Web component based design system starter kit.
+*   [Outline Design System (⭐111)](https://github.com/phase2/outline) - Web component based design system starter kit.
 
 ### Integrations / Other Tools
 
-*   [Bridgetown Lit Renderer (⭐11)](https://github.com/bridgetownrb/bridgetown-lit-renderer) - SSR + hydration of Lit components for Bridgetown.
+*   [Bridgetown Lit Renderer (⭐13)](https://github.com/bridgetownrb/bridgetown-lit-renderer) - SSR + hydration of Lit components for Bridgetown.
 
 ## [3. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -54,13 +54,13 @@
 
 ### Tools
 
-*   [Pi-Apps (⭐1.5k)](https://github.com/Botspot/pi-apps) - The most popular app store for Raspberry Pi computers, 100% open-source bash scripts.
+*   [Pi-Apps (⭐1.7k)](https://github.com/Botspot/pi-apps) - The most popular app store for Raspberry Pi computers, 100% open-source bash scripts.
 
 ## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Exfiltration Tools / Zealandia
 
-*   [QueenSono (⭐130)](https://github.com/ariary/QueenSono) - Client/Server Binaries for data exfiltration with ICMP. Useful in a network where ICMP protocol is less monitored than others (which is a common case).
+*   [QueenSono (⭐132)](https://github.com/ariary/QueenSono) - Client/Server Binaries for data exfiltration with ICMP. Useful in a network where ICMP protocol is less monitored than others (which is a common case).
 
 ---
 

@@ -54,7 +54,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [atvjs (⭐304)](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
+*   [atvjs (⭐308)](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
 
 ## [8. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -76,7 +76,7 @@
 
 ### SDK and API Clients
 
-*   [Getty Images API SDK (⭐9)](https://github.com/gettyimages/gettyimages-api_dotnet) - SDK for the Getty Images and iStock APIs
+*   [Getty Images API SDK (⭐10)](https://github.com/gettyimages/gettyimages-api_dotnet) - SDK for the Getty Images and iStock APIs
 
 ## [11. Awesome Python](/content/vinta/awesome-python/README.md)
 

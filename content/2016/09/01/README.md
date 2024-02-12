@@ -46,8 +46,8 @@
 
 ### Errors and Exception Handling
 
-*   [exceptional (⭐282)](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
-*   [happy (⭐44)](https://github.com/vic/happy) - Happy path programming, alternative to elixir `with` form.
+*   [exceptional (⭐286)](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
+*   [happy (⭐45)](https://github.com/vic/happy) - Happy path programming, alternative to elixir `with` form.
 
 ## [7. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 

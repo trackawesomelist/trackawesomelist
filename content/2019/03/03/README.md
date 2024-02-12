@@ -22,7 +22,7 @@
 
 ### conversion
 
-*   [togeojson (⭐343)](https://github.com/tmcw/togeojson): convert GPX & KML to geojson
+*   [togeojson (⭐374)](https://github.com/tmcw/togeojson): convert GPX & KML to geojson
 
 ## [4. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Platforms
 
-*   [Robot Operating System 2.0 (⭐1.4k)](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
+*   [Robot Operating System 2.0 (⭐1.5k)](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
 
 ### Decentralized Systems
 
@@ -93,8 +93,8 @@
 
 ### Miscellaneous
 
-*   [Scientific Computing (⭐1.1k)](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
-*   [Amazon Sellers (⭐257)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
+*   [Scientific Computing (⭐1.2k)](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
+*   [Amazon Sellers (⭐271)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 
 ## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 

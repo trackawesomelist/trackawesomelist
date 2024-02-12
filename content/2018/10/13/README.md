@@ -40,7 +40,7 @@
 
 ### Misc
 
-*   [Guard (⭐709)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
+*   [Guard (⭐711)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
 
 ## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
@@ -56,13 +56,13 @@
 
 ### CSV / Third-party APIs
 
-*   [cl-decimals (⭐19)](https://github.com/tlikonen/cl-decimals) - Decimal number parser and formatter. Public domain.
+*   [cl-decimals (⭐20)](https://github.com/tlikonen/cl-decimals) - Decimal number parser and formatter. Public domain.
 
 ## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Etcher (⭐26k)](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
+*   [Etcher (⭐27k)](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
 
 ### Closed Source / Other
 
@@ -135,8 +135,8 @@
 
 ### Packages / Command-line apps
 
-*   [cash-cli (⭐213)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
-*   [discharge (⭐536)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
+*   [cash-cli (⭐223)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
+*   [discharge (⭐544)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 
 ### Packages / Debugging / Profiling
 
@@ -144,11 +144,11 @@
 
 ### Packages / Command-line utilities
 
-*   [Cliffy (⭐336)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
+*   [Cliffy (⭐337)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
 
 ### Packages / Real-time
 
-*   [rpc-websockets (⭐529)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
+*   [rpc-websockets (⭐539)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
 
 ### Packages / Security
 

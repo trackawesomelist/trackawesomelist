@@ -10,7 +10,7 @@
 
 ### UI / Barcode
 
-*   [HidesNavigationBarWhenPushed (⭐55)](https://github.com/gontovnik/HidesNavigationBarWhenPushed) - A library, which adds the ability to hide navigation bar when view controller is pushed via hidesNavigationBarWhenPushed flag.
+*   [HidesNavigationBarWhenPushed (⭐54)](https://github.com/gontovnik/HidesNavigationBarWhenPushed) - A library, which adds the ability to hide navigation bar when view controller is pushed via hidesNavigationBarWhenPushed flag.
 
 ## [2. Awesome Frege](/content/sfischer13/awesome-frege/week/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Logging / Text-Based User Interfaces
 
-*   [p6spy (⭐1.9k)](https://github.com/p6spy/p6spy) - Enables logging for all JDBC transactions without changes to the code.
+*   [p6spy (⭐2k)](https://github.com/p6spy/p6spy) - Enables logging for all JDBC transactions without changes to the code.
 
 ### Messaging / Text-Based User Interfaces
 
@@ -89,7 +89,7 @@
 
 ### Security / Other
 
-*   [Kalium (⭐207)](https://github.com/abstractj/kalium) - Binding for the Networking and Cryptography (NaCl) library.
+*   [Kalium (⭐208)](https://github.com/abstractj/kalium) - Binding for the Networking and Cryptography (NaCl) library.
 
 ### Websites / Other
 
@@ -100,7 +100,7 @@
 
 ### Software / DNS - Servers
 
-*   [CoreDNS](https://coredns.io/) - Flexible DNS server. ([Source Code (⭐11k)](https://github.com/coredns/coredns)) `Apache-2.0` `Go`
+*   [CoreDNS](https://coredns.io/) - Flexible DNS server. ([Source Code (⭐12k)](https://github.com/coredns/coredns)) `Apache-2.0` `Go`
 
 ## [12. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -1255,7 +1255,7 @@ Topics: Standards, Web Assembly\
 
 ### Modules / Utils
 
-*   [deno-opn (⭐39)](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
+*   [deno-opn (⭐40)](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
 
 ## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -1265,7 +1265,7 @@ Topics: Standards, Web Assembly\
 
 ### Serialization
 
-*   [nanopb (⭐3.7k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
+*   [nanopb (⭐3.9k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
 
 ## [36. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 

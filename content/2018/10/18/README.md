@@ -61,7 +61,7 @@
 
 ### Canvas / Examples
 
-*   [Trigonoparty!](https://ramesaliyev.com/trigonoparty) \[[show me the code (⭐480)](https://github.com/ramesaliyev/trigonoparty)] • Simple trigonometry visualisation.
+*   [Trigonoparty!](https://ramesaliyev.com/trigonoparty) \[[show me the code (⭐488)](https://github.com/ramesaliyev/trigonoparty)] • Simple trigonometry visualisation.
 
 ### Libraries / To draw using canvas
 
@@ -172,7 +172,7 @@ Topics: Accessibility\
 
 ### GTFS Analysis Tools / Ruby
 
-*   [Peartree (⭐194)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
+*   [Peartree (⭐201)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
 *   [transitr (⭐20)](https://github.com/tmelliott/transitr) - An R package for constructing and modelling a transit network in real time to obtain vehicle ETAs
 
 ## [8. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
@@ -195,7 +195,7 @@ Topics: Accessibility\
 
 ### Intermediate
 
-#### [1 Million Women To Tech Summer of Code (⭐623)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
+#### [1 Million Women To Tech Summer of Code (⭐622)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
 
 **Free** programming course material for beginner, intermediate and advanced levels\
 *(Python, JavaScript, Data Science, artificial intelligence, machine learning, AR & VR)*

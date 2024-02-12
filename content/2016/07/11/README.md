@@ -88,7 +88,7 @@ Webpage: <https://www.bop.pt>
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [gifgen (⭐508)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
+*   [gifgen (⭐525)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 
 ---
 

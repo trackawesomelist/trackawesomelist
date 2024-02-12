@@ -16,7 +16,7 @@
 
 ### Testing Frameworks / Frameworks
 
-*   [tape (⭐5.7k)](https://github.com/substack/tape) - Tap-producing test harness for node and browsers.
+*   [tape (⭐5.8k)](https://github.com/substack/tape) - Tap-producing test harness for node and browsers.
 
 ## [3. Awesome Atom](/content/mehcode/awesome-atom/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Math
 
-*   [Vc (⭐1.3k)](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++. \[BSD]
+*   [Vc (⭐1.4k)](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++. \[BSD]
 
 ## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 

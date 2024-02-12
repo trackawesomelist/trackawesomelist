@@ -36,8 +36,8 @@
 
 ### Table of Contents / Database
 
-*   [Atlas.Orm (⭐428)](https://github.com/atlasphp/Atlas.Orm) - A data mapper implementation for your persistence model in PHP.
-*   [Aura.SqlQuery (⭐421)](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
+*   [Atlas.Orm (⭐426)](https://github.com/atlasphp/Atlas.Orm) - A data mapper implementation for your persistence model in PHP.
+*   [Aura.SqlQuery (⭐444)](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
 
 ### Configuration / Text Editors and IDEs
 
@@ -60,7 +60,7 @@
 
 ### Clients
 
-*   [pnpm (⭐24k)](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
+*   [pnpm (⭐26k)](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
 
 ## [7. Inspire](/content/noahbuscher/inspire/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-cleave-component (⭐284)](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
+*   [vue-cleave-component (⭐282)](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
 
 ## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

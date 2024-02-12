@@ -10,7 +10,7 @@
 
 ### Ports to other languages
 
-*   [LangchainRb (⭐620)](https://github.com/andreibondarev/langchainrb): Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social)
+*   [LangchainRb (⭐776)](https://github.com/andreibondarev/langchainrb): Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social)
 
 ## [2. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
@@ -22,8 +22,8 @@
 
 ### Starter Templates / Diagnostics
 
-*   [tokiory/neovim-boilerplate (⭐52)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
-*   [frans-johansson/lazy-nvim-starter (⭐46)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
+*   [tokiory/neovim-boilerplate (⭐73)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
+*   [frans-johansson/lazy-nvim-starter (⭐57)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Tools / Community providers
 
-*   [tpm (⭐75)](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
+*   [tpm (⭐76)](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
 
 ---
 

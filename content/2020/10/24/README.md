@@ -10,7 +10,7 @@
 
 ### Algorithms and Data structures
 
-*   [exor\_filter (⭐29)](https://github.com/mpope9/exor_filter) - Nif for xor\_filters.  'Faster and Smaller Than Bloom and Cuckoo Filters'.
+*   [exor\_filter (⭐31)](https://github.com/mpope9/exor_filter) - Nif for xor\_filters.  'Faster and Smaller Than Bloom and Cuckoo Filters'.
 
 ### Artificial Intelligence
 
@@ -24,11 +24,11 @@
 
 ### Table of Contents / Build Tools
 
-*   [Box (⭐839)](https://github.com/box-project/box) - A utility to build PHAR files.
+*   [Box (⭐1k)](https://github.com/box-project/box) - A utility to build PHAR files.
 
 ### Table of Contents / NoSQL
 
-*   [Predis (⭐7.2k)](https://github.com/predis/predis) - A feature complete Redis library.
+*   [Predis (⭐7.5k)](https://github.com/predis/predis) - A feature-complete Redis library.
 
 ### Configuration / Web Applications
 
@@ -36,7 +36,7 @@
 
 ### Configuration / PHP Books
 
-*   [Modern PHP New Features and Good Practices](https://www.oreilly.com/library/view/\~/9781491905173/) - A book about new PHP features and best practices by Josh Lockhart.
+*   [Modern PHP New Features and Good Practices](https://www.oreilly.com/library/view/~/9781491905173/) - A book about new PHP features and best practices by Josh Lockhart.
 
 ## [3. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 

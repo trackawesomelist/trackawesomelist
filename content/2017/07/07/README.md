@@ -34,7 +34,7 @@
 
 ### Examples
 
-*   [Crabzilla (⭐66)](https://github.com/crabzilla/crabzilla) - Yet another Event Sourcing experiment. A project exploring Vert.x to develop Event Sourcing / CQRS applications.
+*   [Crabzilla (⭐68)](https://github.com/crabzilla/crabzilla) - Yet another Event Sourcing experiment. A project exploring Vert.x to develop Event Sourcing / CQRS applications.
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

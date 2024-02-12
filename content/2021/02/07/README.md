@@ -10,7 +10,7 @@
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [Send (⭐3.6k)](https://github.com/timvisee/send) - Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ([Clients (⭐3.6k)](https://github.com/timvisee/send#clients)) `MPL-2.0` `Nodejs/Docker`
+*   [Send (⭐3.8k)](https://github.com/timvisee/send) - Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ([Clients (⭐3.8k)](https://github.com/timvisee/send#clients)) `MPL-2.0` `Nodejs/Docker`
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -26,22 +26,22 @@
 
 ### Tools / Ansible
 
-*   [dotbare (⭐596)](https://github.com/kazhala/dotbare) - Manage dotfiles interactively with fzf.
-*   [toml-bombadil (⭐169)](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
+*   [dotbare (⭐622)](https://github.com/kazhala/dotbare) - Manage dotfiles interactively with fzf.
+*   [toml-bombadil (⭐185)](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
 
 ## [4. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Configs / Other Prominent Configs (100 stars or so)
 
-*   [Auto (⭐371)](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on your project's dependencies.
+*   [Auto (⭐382)](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on your project's dependencies.
 
 ### Configs / Other Configs
 
-*   [Adjunct (⭐47)](https://github.com/davidjbradshaw/eslint-config-adjunct) - A reasonable collection of plugins to use alongside your main ESLint configuration.
+*   [Adjunct (⭐50)](https://github.com/davidjbradshaw/eslint-config-adjunct) - A reasonable collection of plugins to use alongside your main ESLint configuration.
 
 ### Plugins / Languages and Environments
 
-*   [TOML (⭐16)](https://github.com/ota-meshi/eslint-plugin-toml) - ESLint plugin for TOML.
+*   [TOML (⭐23)](https://github.com/ota-meshi/eslint-plugin-toml) - ESLint plugin for TOML.
 
 ## [5. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -63,9 +63,9 @@
 ### Programming Language Design Patterns
 
 *   C#
-    *   [design-patterns (⭐2k)](https://github.com/abishekaditya/DesignPatterns)
-    *   [design-patterns-for-human (⭐1.1k)](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra simplified explanation to design patterns.
-    *   [Design Patterns Library (⭐1.6k)](https://github.com/nemanjarogic/DesignPatternsLibrary)
+    *   [design-patterns (⭐2.3k)](https://github.com/abishekaditya/DesignPatterns)
+    *   [design-patterns-for-human (⭐1.2k)](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [Design Patterns Library (⭐1.9k)](https://github.com/nemanjarogic/DesignPatternsLibrary)
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

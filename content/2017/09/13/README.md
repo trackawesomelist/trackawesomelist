@@ -22,8 +22,8 @@
 
 ### Icons / Homogeneous Icons
 
-*   [Numix Circle (⭐846)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
-*   [Numix Square (⭐154)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
+*   [Numix Circle (⭐848)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
+*   [Numix Square (⭐156)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
 
 ---
 

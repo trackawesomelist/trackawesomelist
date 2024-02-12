@@ -31,7 +31,7 @@
 
 ### Database Tools
 
-*   [Scenic (⭐3.2k)](https://github.com/thoughtbot/scenic) - Versioned database views for Rails.
+*   [Scenic (⭐3.3k)](https://github.com/thoughtbot/scenic) - Versioned database views for Rails.
 
 ## [5. Julia.jl](/content/svaksha/Julia.jl/README.md)
 

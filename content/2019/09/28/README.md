@@ -22,13 +22,13 @@
 
 ### Using Electron / Other
 
-*   [jest-electron (⭐153)](https://github.com/hustcc/jest-electron) - Run and debug Jest unit tests in a browser environment.
+*   [jest-electron (⭐155)](https://github.com/hustcc/jest-electron) - Run and debug Jest unit tests in a browser environment.
 
 ## [4. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
-*   [Ember (⭐186)](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
+*   [Ember (⭐188)](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
 
 ## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -44,20 +44,15 @@
 
 ## [7. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
-### Free EDA Packages / Installable
-
-*   [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (board size restricted) free version.
-*   [Horizon EDA (⭐927)](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
-
 ### CAD Specific / KiCad
 
-*   [InteractiveHtmlBom (⭐3.2k)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
+*   [InteractiveHtmlBom (⭐3.4k)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
 
-### PCB Batching Services / Eagle
+### PCB Batching Services / Altium
 
 *   [JLCPCB](https://jlcpcb.com/) - Low cost PCB batching service with inhouse low cost SMT service.
 
-### Blogs / Eagle
+### Blogs / Altium
 
 *   [Dangerous Prototypes](http://dangerousprototypes.com/blog/) - Blog about open source hardware projects and interesting app notes.
 
@@ -65,7 +60,7 @@
 
 ### Cloud Support
 
-*   [AWS SDK (⭐45)](https://github.com/reactiverse/aws-sdk) - Use AWS Java SDK v2 (async) with Vert.x
+*   [AWS SDK (⭐46)](https://github.com/reactiverse/aws-sdk) - Use AWS Java SDK v2 (async) with Vert.x
 
 ## [9. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 

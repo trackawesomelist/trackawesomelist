@@ -10,7 +10,7 @@
 
 ### Software / DNS - Control Panels & Domain Management
 
-*   [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. ([Source Code (⭐532)](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
+*   [Poweradmin](https://www.poweradmin.org/) - Web-based DNS control panel for PowerDNS server. ([Source Code (⭐565)](https://github.com/poweradmin/poweradmin)) `GPL-3.0` `PHP`
 
 ## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 
@@ -18,7 +18,7 @@
 
 View and create Linear tickets from any GitHub PR or issue.
 
-Installs: 52 | Stars: 20 | Last update: 12 Apr 2023
+Installs: 73 | Stars: 20 | Last update: 31 Jan 2024
 
 ## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
@@ -40,23 +40,19 @@ Installs: 52 | Stars: 20 | Last update: 12 Apr 2023
 
 ### Software / Analytics
 
-*   [Matomo](https://matomo.org/) - Google Analytics alternative that protects your data and your customers' privacy. ([Source Code (⭐18k)](https://github.com/matomo-org/matomo)) `GPL-3.0` `PHP`
-
-### Software / Communication - Email - Mail Transfer Agents
-
-*   [vSMTP](https://viridit.com/products/) - Next-gen MTA. Secured, Faster and Greener. ([Source Code (⭐537)](https://github.com/viridIT/vSMTP)) `GPL-3.0` `Rust`
+*   [Matomo](https://matomo.org/) - Google Analytics alternative that protects your data and your customers' privacy. ([Source Code (⭐19k)](https://github.com/matomo-org/matomo)) `GPL-3.0` `PHP`
 
 ### Software / Document Management
 
-*   [Stirling-PDF (⭐3.5k)](https://github.com/Frooodle/Stirling-PDF) - Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR. `Apache-2.0` `Docker/Java`
+*   [Stirling-PDF (⭐17k)](https://github.com/Frooodle/Stirling-PDF) - Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR. `Apache-2.0` `Docker/Java`
 
 ### Software / Note-taking & Editors
 
-*   [Memos](https://usememos.com/) - An open source, self-hosted knowledge base that works with a SQLite db file. ([Source Code (⭐20k)](https://github.com/usememos/memos)) `MIT` `Docker/Go`
+*   [Memos](https://usememos.com/) - An open source, self-hosted knowledge base that works with a SQLite db file. ([Source Code (⭐23k)](https://github.com/usememos/memos)) `MIT` `Docker/Go`
 
 ### Software / Software Development - IDE & Tools
 
-*   [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) - Web-based environment for interactive and reproducible computing. ([Demo](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab), [Source Code (⭐13k)](https://github.com/jupyterlab/jupyterlab/)) `BSD-3-Clause` `Python/Docker`
+*   [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) - Web-based environment for interactive and reproducible computing. ([Demo](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab), [Source Code (⭐14k)](https://github.com/jupyterlab/jupyterlab/)) `BSD-3-Clause` `Python/Docker`
 
 ## [6. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
@@ -68,15 +64,15 @@ Installs: 52 | Stars: 20 | Last update: 12 Apr 2023
 
 ### Templates / Vue 3
 
-*   [vue3-ts-pinia-vant (⭐62)](https://github.com/zhousg/consult-patient-h5-vue3-ts-pinia-vant) - Vue3, Vue Router, Pinia, Composition API, TypeScript, Vant4, VueUse, Axios, SocketIO, PostCSS, ESlint, Prettier, Husky, Lint-staged, Mock, Amap, QQ Login, Alipay Sandbox, Eruda, CI/CD, Vercel, Mobile Project.
+*   [vue3-ts-pinia-vant (⭐86)](https://github.com/zhousg/consult-patient-h5-vue3-ts-pinia-vant) - Vue3, Vue Router, Pinia, Composition API, TypeScript, Vant4, VueUse, Axios, SocketIO, PostCSS, ESlint, Prettier, Husky, Lint-staged, Mock, Amap, QQ Login, Alipay Sandbox, Eruda, CI/CD, Vercel, Mobile Project.
 
 ### Templates / Solid
 
-*   [vitesse-lite-solid (⭐6)](https://github.com/Nauxscript/vitesse-lite-solid) - Lightweight Vite Starter Template for SolidJS.
+*   [vitesse-lite-solid (⭐7)](https://github.com/Nauxscript/vitesse-lite-solid) - Lightweight Vite Starter Template for SolidJS.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-svg-spritemap (⭐15)](https://github.com/g-makarov/vite-plugin-svg-spritemap) - Generates a SVG spritemap from multiple .svg files.
+*   [vite-plugin-svg-spritemap (⭐18)](https://github.com/g-makarov/vite-plugin-svg-spritemap) - Generates a SVG spritemap from multiple .svg files.
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -105,7 +101,7 @@ Installs: 52 | Stars: 20 | Last update: 12 Apr 2023
 
 ### Global Connectivity Indexes
 
-*   [ITU Measuring digital development](https://www.itu.int/en/ITU-D/Statistics/Pages/facts/default.aspx) - Facts and Figures. ([2023](https://www.itu.int/hub/publication/d-ind-ict_mdd-2023/)) ([2022](https://www.itu.int/hub/publication/d-ind-ict_mdd-2022/)) ([2021](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2021.pdf)) ([2020](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2020.pdf))
+*   [ITU Measuring digital development](https://www.itu.int/en/ITU-D/Statistics/Pages/facts/default.aspx) - Facts and Figures. ([2023](https://www.itu.int/dms_pub/itu-d/opb/ind/d-ind-ict_mdd-2023-1-pdf-e.pdf))  ([March 2023 - Focus on Least Developed Countries​](https://www.itu.int/hub/publication/d-ind-ict_mdd-2023/)) ([2022](https://www.itu.int/hub/publication/d-ind-ict_mdd-2022/)) ([2021](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2021.pdf)) ([2020](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2020.pdf))  ([2019](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)) ([2017](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2017.pdf)).
 
 ### Regional Connectivity Reports and Data
 
@@ -117,7 +113,7 @@ Installs: 52 | Stars: 20 | Last update: 12 Apr 2023
 
 ### Extensions / Community
 
-*   [Directus Mailer (⭐32)](https://github.com/ryntab/Directus-Mailer) - An endpoint for sending emails with the Directus Nodemailer service.
+*   [Directus Mailer (⭐35)](https://github.com/ryntab/Directus-Mailer) - An endpoint for sending emails with the Directus Nodemailer service.
 
 ### Articles / Educational
 
@@ -131,7 +127,7 @@ Installs: 52 | Stars: 20 | Last update: 12 Apr 2023
 
 ### Development
 
-*   [LoveDebug (⭐28)](https://github.com/flamendless/lovedebug) - Inline console-like debugger utility.
+*   [LoveDebug (⭐30)](https://github.com/flamendless/lovedebug) - Inline console-like debugger utility.
 
 ## [12. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
@@ -147,7 +143,7 @@ Installs: 52 | Stars: 20 | Last update: 12 Apr 2023
 
 ### DASH / Talks Presentations Podcasts
 
-*   [dash-mpd-rs (⭐34)](https://github.com/emarsden/dash-mpd-rs)  - Rust library for parsing, serializing and downloading media content from a DASH MPD file.
+*   [dash-mpd-rs (⭐47)](https://github.com/emarsden/dash-mpd-rs)  - Rust library for parsing, serializing and downloading media content from a DASH MPD file.
 
 ## [14. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
@@ -169,7 +165,7 @@ Installs: 52 | Stars: 20 | Last update: 12 Apr 2023
 
 ### Boilerplate / Mouse Events
 
-*   [elegant (⭐92)](https://github.com/elegantframework/elegant-cli) - [docs](https://www.elegantframework.com/docs/installation) - [demo](https://www.elegantframework.com/) - A simple React framework for rapidly building beautiful and expressive web applications with Next.js, Tailwind CSS, and Markdown loading.
+*   [elegant (⭐125)](https://github.com/elegantframework/elegant-cli) - [docs](https://www.elegantframework.com/docs/installation) - [demo](https://www.elegantframework.com/) - A simple React framework for rapidly building beautiful and expressive web applications with Next.js, Tailwind CSS, and Markdown loading.
 
 ## [17. Tips](/content/git-tips/tips/week/README.md)
 
@@ -229,7 +225,7 @@ git checkout -- <file_name>
 
 ### Tools / Community providers
 
-*   [tpm (⭐75)](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
+*   [tpm (⭐76)](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
 
 ## [23. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
@@ -239,60 +235,60 @@ git checkout -- <file_name>
 
 ### Ports to other languages
 
-*   [Langchain Go (⭐1.3k)](https://github.com/tmc/langchaingo): Golang Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social)
-*   [LangchainRb (⭐620)](https://github.com/andreibondarev/langchainrb): Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social)
+*   [Langchain Go (⭐1.8k)](https://github.com/tmc/langchaingo): Golang Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social)
+*   [LangchainRb (⭐776)](https://github.com/andreibondarev/langchainrb): Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social)
 
 ### Tools / Services
 
-*   [Auto Evaluator (⭐624)](https://github.com/langchain-ai/auto-evaluator): Langchain auto evaluator ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/auto-evaluator?style=social)
+*   [Auto Evaluator (⭐668)](https://github.com/langchain-ai/auto-evaluator): Langchain auto evaluator ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/auto-evaluator?style=social)
 
 ### Tools / Agents
 
-*   [SkyAGI (⭐701)](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
+*   [SkyAGI (⭐715)](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [AudioGPT (⭐9.3k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
+*   [AudioGPT (⭐9.5k)](https://github.com/AIGC-Audio/AudioGPT): Understanding and Generating Speech, Music, Sound, and Talking Head ![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [llm-chain (⭐806)](https://github.com/sobelio/llm-chain): is a powerful rust crate for building chains in LLMs allowing you to summarise text and complete complex tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/sobelio/llm-chain?style=social)
+*   [llm-chain (⭐925)](https://github.com/sobelio/llm-chain): is a powerful rust crate for building chains in LLMs allowing you to summarise text and complete complex tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/sobelio/llm-chain?style=social)
 
 ## [24. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Testing / React
 
-*   [graphql-to-karate (⭐12)](https://github.com/wbaldoumas/graphql-to-karate) - Generate Karate API tests from your GraphQL schemas
+*   [graphql-to-karate (⭐11)](https://github.com/wbaldoumas/graphql-to-karate) - Generate Karate API tests from your GraphQL schemas
 
 ## [25. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Example Apps
 
-*   [Play.cash](https://play.cash) :notes: *([GitHub Project (⭐94)](https://github.com/feross/play.cash))*
+*   [Play.cash](https://play.cash) :notes: *([GitHub Project (⭐93)](https://github.com/feross/play.cash))*
 *   [Songsterr](https://www.songsterr.com) 🎼 Using Preact X in production since 10.0 alpha
-*   [BitMidi](https://bitmidi.com/) 🎹 Wayback machine for free MIDI files *([GitHub Project (⭐546)](https://github.com/feross/bitmidi.com))*
+*   [BitMidi](https://bitmidi.com/) 🎹 Wayback machine for free MIDI files *([GitHub Project (⭐548)](https://github.com/feross/bitmidi.com))*
 *   [Ultimate Guitar](https://www.ultimate-guitar.com) 🎸speed boosted by Preact.
 *   [ESBench](http://esbench.com) is built using Preact.
 *   [BigWebQuiz](https://bigwebquiz.com) *([GitHub Project (⭐110)](https://github.com/jakearchibald/big-web-quiz))*
-*   [Nectarine.rocks](http://nectarine.rocks) *([GitHub Project (⭐59)](https://github.com/developit/nectarine))* :peach:
-*   [OSS.Ninja](https://oss.ninja) *([GitHub Project (⭐147)](https://github.com/developit/oss.ninja))*
-*   [GuriVR](https://gurivr.com) *([GitHub Project (⭐191)](https://github.com/opennewslabs/guri-vr))*
+*   [Nectarine.rocks](http://nectarine.rocks) *([GitHub Project (⭐60)](https://github.com/developit/nectarine))* :peach:
+*   [OSS.Ninja](https://oss.ninja) *([GitHub Project (⭐146)](https://github.com/developit/oss.ninja))*
+*   [GuriVR](https://gurivr.com) *([GitHub Project (⭐194)](https://github.com/opennewslabs/guri-vr))*
 *   [Offline Gallery](https://use-the-platform.com/offline-gallery/) *([GitHub Project (⭐94)](https://github.com/vaneenige/offline-gallery/))* :balloon:
 *   [Periodic Weather](https://use-the-platform.com/periodic-weather/) *([GitHub Project (⭐59)](https://github.com/vaneenige/periodic-weather/))* :sunny:
 *   [Rugby News Board](http://nbrugby.com) *[(GitHub Project) (⭐7)](https://github.com/rugby-board/rugby-board-node)*
 *   [Preact Gallery](https://preact.gallery/) an 8KB photo gallery PWA built using Preact.
 *   [Rainbow Explorer](https://use-the-platform.com/rainbow-explorer/) Preact app to translate real life color to digital color *([Github project (⭐27)](https://github.com/vaneenige/rainbow-explorer))*.
-*   [YASCC](https://carlosqsilva.github.io/YASCC/#/) Yet Another SoundCloud Client *([Github project (⭐34)](https://github.com/carlosqsilva/YASCC))*.
+*   [YASCC](https://carlosqsilva.github.io/YASCC/#/) Yet Another SoundCloud Client *([Github project (⭐35)](https://github.com/carlosqsilva/YASCC))*.
 *   [Journalize](https://preact-journal.herokuapp.com/) 14k offline-capable journaling PWA using preact. *([Github project (⭐35)](https://github.com/jpodwys/preact-journal))*.
 *   [Proxx](https://proxx.app) A game of proximity by GoogleChromeLabs using preact. *([Github project (⭐1.3k)](https://github.com/GoogleChromeLabs/proxx))*.
 *   [Web Maker](https://webmaker.app) An offline and blazing fast frontend playground built using Preact. *([Github project (⭐2.4k)](https://github.com/chinchang/web-maker))*.
 *   [Intergram](https://www.intergram.xyz) A live chat widget linked to your Telegram messenger built using Preact. *([Github project (⭐1.4k)](https://github.com/idoco/intergram))*.
 *   [Preact App in ES6 without Babel or JSX](https://vanilla-preact.surge.sh) *([GitHub Project (⭐8)](https://github.com/safdarjamal/vanilla-preact/))*.
-*   [GHFresh](https://code2k.github.io/ghfresh/) Monitor GitHub repository releases – Prerendering with Preact. Built with Preact Compat, TypeScript, Material-UI and Redux Toolkit. *([GitHub Project (⭐7)](https://github.com/code2k/ghfresh))*.
+*   [GHFresh](https://code2k.github.io/ghfresh/) Monitor GitHub repository releases – Prerendering with Preact. Built with Preact Compat, TypeScript, Material-UI and Redux Toolkit. *([GitHub Project (⭐8)](https://github.com/code2k/ghfresh))*.
 *   [Passwords Fountain](https://passwords-fountain.com/) - modern & performant password manager interface which works everywhere *([Github project (⭐63)](https://github.com/kolodziejczakM/passwords-fountain))*.
 *   [macOS Web](https://macos-preact.now.sh) - macOS Big Sur Desktop experience for Web, built with Preact and Vite *([Github project (⭐1k)](https://github.com/PuruVJ/macos-preact))*.
 *   [Cinemate](https://cinemate.me) - Movie Recommender System built with Preact and TypeScript. Backend written in Rust.
-*   [Windows 11 Web](https://win11.vercel.app) - Awe-amazing Windows 11 clone for the web! ⚡ *([Github project (⭐514)](https://github.com/PiyushSuthar/Windows-11-Web))*.
+*   [Windows 11 Web](https://win11.vercel.app) - Awe-amazing Windows 11 clone for the web! ⚡ *([Github project (⭐526)](https://github.com/PiyushSuthar/Windows-11-Web))*.
 *   [Idea Keeper](https://miftikcz.github.io/idea-keeper-2) :brain: Highly extensible and minimalistic idea keeping app *([GitHub Project (⭐0)](https://github.com/MiftikCZ/idea-keeper-2))*.
 
 ## [26. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
@@ -305,48 +301,44 @@ git checkout -- <file_name>
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [kiran94/edit-markdown-table.nvim (⭐23)](https://github.com/kiran94/edit-markdown-table.nvim) - Edit Markdown Tables using Tree-sitter.
+*   [kiran94/edit-markdown-table.nvim (⭐24)](https://github.com/kiran94/edit-markdown-table.nvim) - Edit Markdown Tables using Tree-sitter.
 
 ### Search / Diagnostics
 
-*   [AckslD/muren.nvim (⭐283)](https://github.com/AckslD/muren.nvim/) - Multiple replacements through interactive UI.
+*   [AckslD/muren.nvim (⭐321)](https://github.com/AckslD/muren.nvim/) - Multiple replacements through interactive UI.
 
 ### File Explorer / Diagnostics
 
-*   [kelly-lin/ranger.nvim (⭐87)](https://github.com/kelly-lin/ranger.nvim) - [Ranger (⭐14k)](https://github.com/ranger/ranger) integration for neovim.
+*   [kelly-lin/ranger.nvim (⭐115)](https://github.com/kelly-lin/ranger.nvim) - [Ranger (⭐15k)](https://github.com/ranger/ranger) integration for neovim.
 
 ### Comment / Diagnostics
 
-*   [LucasTavaresA/SingleComment.nvim (⭐5)](https://github.com/LucasTavaresA/SingleComment.nvim) - Always single line, comment sensitive, indentation preserving commenting.
+*   [LucasTavaresA/SingleComment.nvim (⭐7)](https://github.com/LucasTavaresA/SingleComment.nvim) - Always single line, comment sensitive, indentation preserving commenting.
 
 ### Indent / Diagnostics
 
-*   [nvimdev/indentmini.nvim (⭐64)](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin by using nvim\_set\_decoration\_provide api.
+*   [nvimdev/indentmini.nvim (⭐76)](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin by using nvim\_set\_decoration\_provide api.
 
 ### Workflow / Diagnostics
 
-*   [m4xshen/hardtime.nvim (⭐522)](https://github.com/m4xshen/hardtime.nvim) - Helping you establish good command workflow and habit.
-*   [antonk52/bad-practices.nvim (⭐67)](https://github.com/antonk52/bad-practices.nvim) - Helping you give up bad practices in Vim.
+*   [m4xshen/hardtime.nvim (⭐691)](https://github.com/m4xshen/hardtime.nvim) - Helping you establish good command workflow and habit.
+*   [antonk52/bad-practices.nvim (⭐73)](https://github.com/antonk52/bad-practices.nvim) - Helping you give up bad practices in Vim.
 
 ### Starter Templates / Diagnostics
 
-*   [tokiory/neovim-boilerplate (⭐52)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
-*   [frans-johansson/lazy-nvim-starter (⭐46)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
+*   [tokiory/neovim-boilerplate (⭐73)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
+*   [frans-johansson/lazy-nvim-starter (⭐57)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
 
 ## [28. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-packagemanager (⭐0)](https://github.com/goarano/zsh-fzf-packagemanager) - Adds commands for installing tools via various package managers using [fzf (⭐55k)](https://github.com/junegunn/fzf). Supports `apt`, `brew` & `dnf`.
-*   [lazy-load (⭐0)](https://github.com/goarano/zsh-lazy-load) - Lazy load tab completions only when you actually need them.
+*   [fzf-packagemanager (⭐0)](https://github.com/goarano/zsh-fzf-packagemanager) - Adds commands for installing tools via various package managers using [fzf (⭐57k)](https://github.com/junegunn/fzf). Supports `apt`, `brew` & `dnf`.
+*   [lazy-load (⭐2)](https://github.com/goarano/zsh-lazy-load) - Lazy load tab completions only when you actually need them.
 *   [oh-my-tmux-manager](https://github.com/unixorn/awesome-zsh-plugins/blob/main/README.md/omt-manager) - Lets you easily manage your tmux configurations.
 *   [pipe (⭐0)](https://github.com/pipe-felipe/zsh-pipe-plugin) - Includes `docker` and package-related scripts.
 *   [ssh-quickconnect (⭐0)](https://github.com/breda/zsh-ssh-quickconnect) - Simple utility to quickly connect to hosts from your `ssh` config & `known_hosts` file.
-*   [zgenom-ext-eval (⭐1)](https://github.com/jandamm/zgenom-ext-eval/) - Zgenom extension for creating plugins inline.
-
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
-
-*   [purr (⭐0)](https://github.com/mubinben/purr-zsh-theme) - Minimalist. Includes decorations for `git` status, username and current directory.
+*   [zgenom-ext-eval (⭐3)](https://github.com/jandamm/zgenom-ext-eval/) - Zgenom extension for creating plugins inline.
 
 ## [29. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
@@ -358,15 +350,15 @@ git checkout -- <file_name>
 
 ### Orchestration
 
-*   [Ansible Linux Docker (⭐5)](https://github.com/Peco602/ansible-linux-docker) - Run Ansible from a Linux container. By [@Peco602](https://github.com/Peco602)
+*   [Ansible Linux Docker (⭐13)](https://github.com/Peco602/ansible-linux-docker) - Run Ansible from a Linux container. By [@Peco602](https://github.com/Peco602)
 
 ### Security
 
-*   [dvwassl (⭐2)](https://github.com/Peco602/dvwassl) - SSL-enabled Damn Vulnerable Web App to test Web Application Firewalls. By [@Peco602](https://github.com/Peco602)
+*   [dvwassl (⭐3)](https://github.com/Peco602/dvwassl) - SSL-enabled Damn Vulnerable Web App to test Web Application Firewalls. By [@Peco602](https://github.com/Peco602)
 
 ### Development Environment / Other
 
-*   [Rust Universal Compiler (⭐22)](https://github.com/Peco602/rust-universal-compiler) - Container solution to compile Rust projects for Linux, macOS and Windows. By [@Peco602](https://github.com/Peco602)
+*   [Rust Universal Compiler (⭐24)](https://github.com/Peco602/rust-universal-compiler) - Container solution to compile Rust projects for Linux, macOS and Windows. By [@Peco602](https://github.com/Peco602)
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Testing
 
-*   [Alcotest (⭐356)](https://github.com/mirage/alcotest) – A lightweight and colourful test framework.
+*   [Alcotest (⭐402)](https://github.com/mirage/alcotest) – A lightweight and colourful test framework.
 
 ## [3. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -76,26 +76,13 @@
 
 ## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
-### Frameworks / Runtimes
-
-*   [Flogo (⭐2.2k)](https://github.com/TIBCOSoftware/flogo) - Flogo is an open source framework to simplify building efficient & modern serverless functions and edge microservices.
-
 ### CSharp
 
-*   [Microdot (⭐1.5k)](https://github.com/gigya/microdot) - Open source .NET microservices framework.
 *   [Orleans](https://dotnet.github.io/orleans/) - Provides a straightforward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns.
-
-### Node.js / Scala
-
-*   [Steriods Framework (⭐27)](https://github.com/99xt/steroidslibrary) - Steroids framework simplifies the development of microservices with Serverless using TypeScript by enabling the developer to emphasize more on business/domain logic rather than focusing too much on technical details.
 
 ### PHP / Scala
 
 *   [Symfony](https://symfony.com/) - Micro-framework based on the Symfony components.
-
-### API Gateways / Edge Services / Scala
-
-*   [Ambassador](https://www.getambassador.io) - Kubernetes-native API gateway for microservices built on Envoy.
 
 ## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -117,7 +104,7 @@
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Podcasts / Package Managers
+### Podcasts / Pirated software download site blacklist
 
 *   [Mac Power Users](https://www.relay.fm/mpu) - Learn about getting the most from your Apple technology with focused topics and workflow guests. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/podcast/mac-power-users/id458066753)
 

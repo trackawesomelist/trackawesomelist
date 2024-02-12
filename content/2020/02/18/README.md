@@ -44,7 +44,7 @@
 
 ### UML / Apache License
 
-*   [ada-ml (⭐8)](https://github.com/rocher/AdaML) - Ada-tailored UML Modeling Language.
+*   [ada-ml (⭐9)](https://github.com/rocher/AdaML) - Ada-tailored UML Modeling Language.
 
 ## [7. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Automation / Packages
 
-*   [loadtest (⭐90)](https://github.com/tmobile/loadtest) - An R package for load testing using JMeter.
+*   [loadtest (⭐91)](https://github.com/tmobile/loadtest) - An R package for load testing using JMeter.
 
 ## [12. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -92,13 +92,13 @@
 
 ### Boilerplate / Mouse Events
 
-*   [phoenix (⭐156)](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
+*   [phoenix (⭐160)](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
 
 ## [15. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Trading & Backtesting
 
-*   [riskparity.py (⭐256)](https://github.com/dppalomar/riskparity.py) - fast and scalable design of risk parity portfolios with TensorFlow 2.0
+*   [riskparity.py (⭐265)](https://github.com/dppalomar/riskparity.py) - fast and scalable design of risk parity portfolios with TensorFlow 2.0
 
 ## [16. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -126,7 +126,7 @@
 
 ### Payments / Bank Accounts
 
-*   [Swift Codes Repository (⭐166)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
+*   [Swift Codes Repository (⭐175)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
 
 ---
 

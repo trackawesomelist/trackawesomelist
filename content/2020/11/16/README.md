@@ -28,7 +28,7 @@
 
 ### Plugins
 
-*   [tmux-bitwarden (⭐29)](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
+*   [tmux-bitwarden (⭐30)](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
 
 ## [5. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Table of Contents / Testing
 
-*   [Faker (⭐2.6k)](https://github.com/fakerphp/faker) - A fake data generator library.
+*   [Faker (⭐3.3k)](https://github.com/fakerphp/faker) - A fake data generator library.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Domain-specific language
 
-*   [absinthe\_gen (⭐27)](https://github.com/sashman/absinthe_gen) - Scaffold generator for Absithne.
+*   [absinthe\_gen (⭐28)](https://github.com/sashman/absinthe_gen) - Scaffold generator for Absithne.
 
 ## [12. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Others / Object detection and object tracking
 
-*   [Pointcloudprinter :octocat: (⭐144)](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
+*   [Pointcloudprinter :octocat: (⭐143)](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
 
 ## [14. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 

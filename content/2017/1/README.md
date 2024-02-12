@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 02 - Jan 08, 2017
 
-41 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -41,32 +41,26 @@
 git rev-parse --show-toplevel
 ```
 
-## [5. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
-
-### Go / Erlang
-
-*   [Nano (⭐44)](https://github.com/pasztorpisti/nano) - A minimalistic, transport-agnostic and testing-friendly microservice framework.
-
-## [6. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [5. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Testing
 
 *   [Fixtures plugin (⭐2)](https://github.com/LubosRemplik/CakePHP-Fixtures) - Fixtures plugin to read existing fixtures and create table/insert data for quick start with app.
 
-## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / ReactJS
 
 *   [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 
-## [8. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [7. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Videos
 
 *   [Paul Adenot: Elements of Dance Music - JSConf.Asia 2015](https://www.youtube.com/watch?v=Ww0jTafmd_w)
 *   [8-bit Music Theory](https://www.youtube.com/channel/UCeZLO2VgbZHeDcongKzzfOw)
 
-## [9. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
+## [8. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
 ### Community
 
@@ -76,7 +70,7 @@ git rev-parse --show-toplevel
 
 *   [Official CouchDB Wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Apache+CouchDB+Wiki)
 
-## [10. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [9. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Non-dedicated
 
@@ -90,13 +84,13 @@ git rev-parse --show-toplevel
 
 *   [Chronograf (⭐1.4k)](https://github.com/influxdata/chronograf) - Official InfluxDB data visualization tool
 
-## [11. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Build Systems / Playground
 
-*   [Zwitterion (⭐564)](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
+*   [Zwitterion (⭐565)](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
 
-## [12. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [11. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Standalone Editors Built on Draft.js
 
@@ -104,13 +98,13 @@ git rev-parse --show-toplevel
 *   [Facebook Notes Clone(ish) (⭐228)](https://github.com/andrewcoelho/react-text-editor) - Rich text editor similar to Facebook notes.
 *   [Medium Draft (⭐1.7k)](https://github.com/brijeshb42/medium-draft) - Medium-like rich text editor with a focus on keyboard shortcuts.
 
-## [13. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
+## [12. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
 
 ### Software that Uses Qt / New Functionality
 
 *   [Wolfram Mathematica](https://www.wolfram.com/mathematica) - Programming language, symbolic calculator, and an engineer's best friend.
 
-## [14. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [13. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Articles
 
@@ -158,7 +152,7 @@ git rev-parse --show-toplevel
 
 *   [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
 
-## [15. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [14. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -170,23 +164,23 @@ git rev-parse --show-toplevel
 
 
 
-## [16. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [15. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 
 *   [jimpick/lambda-comments :fire::fire::fire: (⭐623)](https://github.com/jimpick/lambda-comments) - Blog commenting system built with Lambda.
 
-## [17. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [16. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Inpad (⭐3.5k)](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
+*   [Inpad (⭐3.6k)](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
 
 ### Community / Other
 
 *   [`electronjs` on Facebook](https://www.facebook.com/groups/electronjs/)
 
-## [18. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [17. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -200,35 +194,35 @@ git rev-parse --show-toplevel
 
 *   [Don't gamble when it comes to reliability](https://www.oreilly.com/ideas/dont-gamble-when-it-comes-to-reliability)
 
-## [19. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [18. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Third-party APIs
 
-*   [terjira (⭐841)](https://github.com/keepcosmos/terjira) - A command-line power tool for Jira.
+*   [terjira (⭐853)](https://github.com/keepcosmos/terjira) - A command-line power tool for Jira.
 
-## [20. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [19. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
-- Repository: [Cyber Skills (⭐2.2k)](https://github.com/joe-shenouda/awesome-cyber-skills)
+- Repository: [Cyber Skills (⭐3.2k)](https://github.com/joe-shenouda/awesome-cyber-skills)
 
   Description: Curated list of hacking environments where you can train your cyber skills legally and safely
 
 
 
-## [21. Awesome Browserify](/content/browserify/awesome-browserify/week/README.md)
+## [20. Awesome Browserify](/content/browserify/awesome-browserify/week/README.md)
 
 ### Articles
 
 *   [Introduction to Browserify](https://writingjavascript.org/posts/introduction-to-browserify)
 
-## [22. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [21. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Cyber Skills (⭐2.9k)](https://github.com/joe-shenouda/awesome-cyber-skills) - A curated list of hacking environments where you can train your cyber skills legally and safely.
+*   [Awesome Cyber Skills (⭐3.2k)](https://github.com/joe-shenouda/awesome-cyber-skills) - A curated list of hacking environments where you can train your cyber skills legally and safely.
 
-## [23. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [22. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Multipurpose Engines
 
@@ -251,51 +245,51 @@ git rev-parse --show-toplevel
 *   [Awesome TensorFlow (⭐17k)](https://github.com/jtoy/awesome-tensorflow) -
     Machine Learning with TensorFlow libraries.
 
-## [24. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [23. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Security
 
 *   [BeEF](http://beefproject.com/) - Manipulate the browser exploiting any XSS vulns you find.
 
-## [25. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [24. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### System Utilities / Directory Navigation
 
-*   [ls++ (⭐497)](https://github.com/trapd00r/ls--) - Colorized ls on steroids
+*   [ls++ (⭐498)](https://github.com/trapd00r/ls--) - Colorized ls on steroids
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [xidel (⭐575)](https://github.com/benibela/xidel/) - Cli tool to filter, map and create HTML/XML/JSON data with (Turing-complete) XPath and XQuery.
+*   [xidel (⭐611)](https://github.com/benibela/xidel/) - Cli tool to filter, map and create HTML/XML/JSON data with (Turing-complete) XPath and XQuery.
 
-## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [25. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Go / Natural Language Processing
 
-*   [snowball (⭐38)](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
+*   [snowball (⭐42)](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
 
-## [27. Vim Galore](/content/mhinz/vim-galore/week/README.md)
+## [26. Vim Galore](/content/mhinz/vim-galore/week/README.md)
 
 ### Vim distributions / Screencasts
 
 *   [spacevim (⭐19k)](https://github.com/SpaceVim/SpaceVim)
 
-## [28. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
+## [27. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
 
 ### Web
 
 *   [Fortran Machine (⭐783)](https://github.com/mapmeld/fortran-machine) - An MVC web stack written in Fortran 90
 
-## [29. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [28. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Realtime Convertors / Ruby
 
 *   [NextBus API to GTFS-realtime (⭐16)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-from-nextbus-cli/wiki) - A Java-based command-line utility to convert from the [NextBus API format](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf) to GTFS-realtime.  Note that NextBus now directly offers a GTFS-realtime API for their products.  See [Cubic site](http://nextbus.cubic.com/Products/Real-Time-Rider-Information) and [this FAQ](https://medium.com/omnimodal/want-more-riders-open-up-your-nextbus-api-with-gtfs-realtime-7387c80f31e1#.pkuzizhl5).
 
-## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Chatting
 
-*   [ExMustang (⭐68)](https://github.com/techgaun/ex_mustang) - A simple, clueless slackbot and collection of responders.
+*   [ExMustang (⭐69)](https://github.com/techgaun/ex_mustang) - A simple, clueless slackbot and collection of responders.
 
 ### Date and Time
 
@@ -303,43 +297,32 @@ git rev-parse --show-toplevel
 
 ### ORM and Datamapping
 
-*   [Bolt.Sips (⭐249)](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir using the Bolt protocol.
+*   [Bolt.Sips (⭐253)](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir using the Bolt protocol.
 
 ### Testing
 
 *   [chemistry (⭐7)](https://github.com/genericlady/chemistry) - Testing Framework for Elixir.
 
-## [31. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [30. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Frameworks and libraries / XMPP / Jabber
 
 *   [Jabberjay (⭐36)](https://github.com/vbauer/jabberjay) (Clojure)
 
-## [32. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [31. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
 *   [DCMTK](http://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
 *   [tesseract-ocr](https://github.com/tesseract-ocr) - An OCR engine. \[Apache2]
 
-## [33. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C / Non-X86
-
-*   [Everything you need to know about pointers in C - Peter Hosey](http://boredzo.org/pointers/)
-
-### LaTeX / TeX / LaTeX
-
-*   [Arbitrary LaTex Reference](http://latex.knobs-dials.com)
-*   [Begin Latex in minutes (⭐3.2k)](https://github.com/VoLuong/Begin-Latex-in-minutes)
-
-## [34. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [32. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Videos
 
 *   [User Interfaces as Pure Functions of Time](https://www.youtube.com/watch?v=9BG0Y3C6WqM) - Lightning talk by [Thomas Belin](http://twitter.com/atomrc) at [dotjs 2016](http://dotjs.io/)
 
-## [35. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [33. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 
@@ -349,7 +332,7 @@ git rev-parse --show-toplevel
 
 *   [Building Machine Learning Projects with Tensorflow](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow) – by Rodolfo Bonnin. This book covers various projects in TensorFlow that expose what can be done with TensorFlow in different scenarios. The book provides projects on training models, machine learning, deep learning, and working with various neural networks. Each project is an engaging and insightful exercise that will teach you how to use TensorFlow and show you how layers of data can be explored by working with Tensors.
 
-## [36. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [34. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Articles
 
@@ -359,7 +342,7 @@ git rev-parse --show-toplevel
 
 *   [WC-Loader (⭐100)](https://github.com/aruntk/wc-loader). Webcomponents webpack loader
 
-## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -373,11 +356,11 @@ git rev-parse --show-toplevel
 
 *   [Jil (⭐2.1k)](https://github.com/kevin-montrose/Jil) - Fast .NET JSON (De)Serializer, Built On Sigil.
 
-## [38. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [36. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Docker Images for Penetration Testing & Security
 
-*   `docker pull owasp/zap2docker-stable` - [official OWASP ZAP (⭐11k)](https://github.com/zaproxy/zaproxy)
+*   `docker pull owasp/zap2docker-stable` - [official OWASP ZAP (⭐12k)](https://github.com/zaproxy/zaproxy)
 *   `docker pull wpscanteam/wpscan` - [official WPScan](https://hub.docker.com/r/wpscanteam/wpscan/)
 *   `docker pull citizenstig/dvwa` - [Damn Vulnerable Web Application (DVWA)](https://hub.docker.com/r/citizenstig/dvwa/)
 *   `docker pull wpscanteam/vulnerablewordpress` - [Vulnerable WordPress Installation](https://hub.docker.com/r/wpscanteam/vulnerablewordpress/)
@@ -388,15 +371,15 @@ git rev-parse --show-toplevel
 *   `docker pull ismisepaul/securityshepherd` - [OWASP Security Shepherd](https://hub.docker.com/r/ismisepaul/securityshepherd/)
 *   `docker pull danmx/docker-owasp-webgoat` - [OWASP WebGoat Project docker image](https://hub.docker.com/r/danmx/docker-owasp-webgoat/)
 *   `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
-*   `docker pull bkimminich/juice-shop` - [OWASP Juice Shop (⭐8.7k)](https://github.com/bkimminich/juice-shop#docker-container--)
+*   `docker pull bkimminich/juice-shop` - [OWASP Juice Shop (⭐9k)](https://github.com/bkimminich/juice-shop#docker-container--)
 
-## [39. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [37. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
 *   [ColorFavs](http://www.colorfavs.com/) - Create and Discover Beautiful Color Palettes and Colors.
 
-## [40. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [38. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Classics
 
@@ -426,7 +409,7 @@ git rev-parse --show-toplevel
 *   [RCy3](https://bioconductor.org/packages/3.3/bioc/html/RCy3.html) - Interface between R and recent versions of Cytoscape.
 *   [RCyjs](https://bioconductor.org/packages/release/bioc/html/RCyjs.html) - Interface between R and Cytoscape.js.
 
-## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Static Site Generators
 
@@ -434,7 +417,7 @@ git rev-parse --show-toplevel
 
 ### Web Frameworks
 
-*   [DotVVM (⭐701)](https://github.com/riganti/dotvvm) - MVVM framework for people who don't like to write JavaScript, with OWIN and ASP.NET Core support and a free extension for Visual Studio 2015 and 2017.
+*   [DotVVM (⭐716)](https://github.com/riganti/dotvvm) - MVVM framework for people who don't like to write JavaScript, with OWIN and ASP.NET Core support and a free extension for Visual Studio 2015 and 2017.
 
 ---
 

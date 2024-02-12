@@ -16,13 +16,13 @@
 
 ### QA Tools / Runner
 
-*   [ESLint (⭐23k)](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
+*   [ESLint (⭐24k)](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Database
 
-*   [ProxyManager (⭐4.8k)](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
+*   [ProxyManager (⭐4.9k)](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
 
 ### Configuration / Text Editors and IDEs
 

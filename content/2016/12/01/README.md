@@ -19,9 +19,9 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [bashwithnails (⭐25)](https://github.com/mindaugasbarysas/bashwithnails) - a Bash framework written just for fun with testing, dependency management & packaging
+*   [bashwithnails (⭐33)](https://github.com/mindaugasbarysas/bashwithnails) - a Bash framework written just for fun with testing, dependency management & packaging
 *   [lumberjack (⭐38)](https://github.com/molovo/lumberjack) - A logging interface for shell scripts
-*   [revolver (⭐134)](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts
+*   [revolver (⭐137)](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts
 
 ## [2. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Extensions / General Purpose
 
-*   [SublimeFileBrowser (⭐388)](https://github.com/aziz/SublimeFileBrowser) - Ditch the sidebar and browse your files in a normal tab with your keyboard, like a pro! Also, [Dired](https://en.wikipedia.org/wiki/Dired) lets you modify your directory structure using the powerful text editing feature that ST provides.
+*   [SublimeFileBrowser (⭐391)](https://github.com/aziz/SublimeFileBrowser) - Ditch the sidebar and browse your files in a normal tab with your keyboard, like a pro! Also, [Dired](https://en.wikipedia.org/wiki/Dired) lets you modify your directory structure using the powerful text editing feature that ST provides.
 
 ## [7. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/README.md)
 

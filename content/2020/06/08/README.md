@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 08, 2020
 
-22 awesome lists updated today.
+23 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -11,7 +11,7 @@
 ### Databases / ORMs
 
 *   [GINO (⭐2.6k)](https://github.com/python-gino/gino) - A lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio.
-    *   [FastAPI Example (⭐380)](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
+    *   [FastAPI Example (⭐386)](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -57,17 +57,13 @@
 
 ### Table of Contents / Testing
 
-*   [Infection (⭐1.8k)](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
+*   [Infection (⭐1.9k)](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
 
 ### Configuration / PHP Internals Reading
 
 *   [PHP RFCs](https://wiki.php.net/rfc) - The home of PHP RFCs (Request for Comments).
 
 ## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### Layout / Barcode
-
-*   [Grid (⭐1.5k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
 
 ### Keyboard / Barcode
 
@@ -77,12 +73,12 @@
 
 ### Plugins / Misc
 
-*   [Only-Error (⭐11)](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
-*   [Only-Warn (⭐131)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
+*   [Only-Error (⭐14)](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
+*   [Only-Warn (⭐145)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
 
 ### Plugins / Testing Tools
 
-*   [Testing Library (⭐891)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
+*   [Testing Library (⭐940)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
 
 ## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -105,7 +101,7 @@
 ### Network / Anti-Spam
 
 *   [Spam Scanner](https://github.com/spamscanner) - Anti-Spam Scanning Service and Anti-Spam API by [@niftylettuce](https://github.com/niftylettuce).
-*   [rspamd (⭐1.8k)](https://github.com/rspamd/rspamd) - Fast, free and open-source spam filtering system.
+*   [rspamd (⭐1.9k)](https://github.com/rspamd/rspamd) - Fast, free and open-source spam filtering system.
 
 ## [14. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 
@@ -121,67 +117,71 @@
 
 ### Libraries and Tools / Python
 
-*   [Scapy (⭐9k)](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
+*   [Scapy (⭐9.8k)](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
 
-## [16. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [16. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+
+### Layout
+
+*   [Grid (⭐1.6k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
+
+## [17. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Bindings
 
 *   [vulkan (⭐134)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
 
-## [17. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [18. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Official Documentation Translations
 
 *   [Crank (⭐50)](https://github.com/arktisklada/crank) - A Procfile-based application manager (like Foreman)
 
-## [18. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
+## [19. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
-*   [steam-box (⭐139)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
+*   [steam-box (⭐143)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
 
-## [19. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [20. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### IDE and Code Editing
 
 *   [JetBrains IDE pack](https://www.jetbrains.com/community/education/) \[FREE] - Free professional developer IDEs and tools from JetBrains, including:
-    *   ReSharper Ultimate - Visual Studio Extension
-    *   IntelliJ - JVM based development
-    *   AppCode - iOS/macOS IDE
     *   CLion - C/C++ IDE
     *   DataGrip - Database/SQL IDE
+    *   DataSpell - Data analysis IDE
+    *   dotCover, dotMemory, dotTrace - .NET Tools
     *   GoLand - Go IDE
+    *   IntelliJ IDEA Ultimate - Java IDE
     *   PhpStorm - PHP IDE
     *   PyCharm - Python IDE
+    *   ReSharper - Visual Studio Extension for .NET
+    *   ReSharper C++ - Visual Studio Extension for C++
     *   Rider - .NET IDE
-    *   WebStorm - JavaScript IDE
     *   RubyMine - Ruby IDE
-*   [Wisej](https://wisej.com/github-studentpack/) \[FREE] - Build powerful web applications in Visual Studio with C# or VB.NET.Free Wisej Developer license plus free updates for a year.
-*   [SQLGate](https://www.sqlgate.com/student-pack) \[FREE] - Simple but powerful IDE for multiple SQL databases.Access to most Standard Subscription features for 1 year.
+    *   WebStorm - JavaScript IDE
+*   [SQLGate](https://www.sqlgate.com/student-pack) \[FREE] - Simple but powerful IDE for multiple SQL databases. Access to most Standard Subscription features for 1 year.
 
 ### Version Control
 
-*   [Tower](https://www.git-tower.com/students/github) \[DISCOUNT] -  The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows.Free Pro account for 1 year.
-*   [GitKraken](https://www.gitkraken.com/github-student-developer-pack) \[FREE] - Another free as in price desktop Git client. Based on Electron, runs on Windows, GNU/Linux, and Mac. To claim free 1-year PRO license, you must claim your [Github Student Developer Pack](https://education.github.com/pack) and sign in to the desktop client w/ GitHub.
-*   [Sentry](https://sentry.io/for/education/) \[FREE] - Open-source error tracking that helps developers monitor and fix crashes in real time.Also included via [Github Student Developer Pack](https://education.github.com/pack).
-*   [Working Copy](https://workingcopy.app/education/) \[FREE] - Powerful Git client for iOS that clones, edits, commits, pushes.All Pro features for free while you are a student via [Github Student Developer Pack](https://education.github.com/pack).
+*   [Tower](https://www.git-tower.com/students/github) \[DISCOUNT] -  The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows. Free license for Tower Pro while you're a student.
+*   [GitKraken](https://www.gitkraken.com/github-student-developer-pack) \[FREE] - Pro version of the GitKraken Client. Sign into the desktop version after getting your [Github Student Developer Pack](https://education.github.com/pack).
+*   [Sentry](https://sentry.io/for/education/) \[FREE] - Open-source error tracking that helps developers monitor and fix crashes in real time. Also included via [Github Student Developer Pack](https://education.github.com/pack).
+*   [Working Copy](https://workingcopy.app/education/) \[FREE] - Powerful Git client for iOS that clones, edits, commits, pushes. All Pro features for free while you are a student via [Github Student Developer Pack](https://education.github.com/pack).
 *   [Github Desktop](https://desktop.github.com/) \[FREE] - Focus on what matters instead of fighting with Git. Whether you're new to Git or a seasoned user, GitHub Desktop simplifies your development workflow.
-*   [Better Code Hub](https://bettercodehub.com/github-student-developer-pack) \[FREE] -Better Code Hub provides a definition of done for code quality and actionable refactoring feedback for every push and pull request. A free upgrade to an Individual license to analyse your personal private repos.
-*   [Datree](https://app.datree.io/github-student-pack) \[FREE] - Datree is a git-based rules engine for enforcing best development practices, coding standards, and security policies on every commit.Free Pro subscription while you are a student.
-*   [Imgbot](https://imgbot.net/github-students/) \[FREE] - Imgbot is a GitHub App that automatically optimizes your images.Free image optimization for all your public and private projects while you are a student.
-*   [Restyled](https://restyled.io/github-students) \[FREE] - With Restyled, automatically re-format Pull Requests to have consistent style.Run Restyled for free on private repositories while you're a student.
+*   [Imgbot](https://imgbot.net/github-students/) \[FREE] - Imgbot is a GitHub App that automatically optimizes your images. Free image optimization for all your public and private projects while you are a student.
+*   [Restyled](https://restyled.io/github-students) \[FREE] - With Restyled, automatically re-format Pull Requests to have consistent style. Run Restyled for free on private repositories while you're a student.
 
 ### Web Hosting
 
-*   [Pageclip](https://pageclip.co/github-students) \[FREE] - A server for your static websites and HTML forms.Free basic plan while you are a student.
+*   [Pageclip](https://pageclip.co/github-students) \[FREE] - A server for your static websites and HTML forms. Free basic plan while you are a student.
 
 ### Design and Photo Editing
 
-*   [Canva](https://www.canva.com) \[FREE] - Free 12 month subscription of Canva's Pro tier via [Github Student Developer Pack](https://education.github.com/pack).
 *   [Icons8](https://icons8.com/github-students)\[FREE] - Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects. Full 3-month all access subscription with icons, photos, illustrations, and music via [Github Student Developer Pack](https://education.github.com/pack).
 *   [Figma](https://www.figma.com/education/) \[FREE] - Receive Professional Team features for free when verified as a student.
-*   [Iconscout](https://iconscout.com/github-students) \[FREE] - Iconscout is design resources marketplace to get high quality icons, illustrations and stock images.Download 60 premium icons per month for 1 year.
+*   [Iconscout](https://iconscout.com/github-students) \[FREE] - Iconscout is design resources marketplace to get high quality icons, illustrations and stock images. Download 60 premium icons per month for 1 year.
 
 ### SaaS
 
@@ -265,23 +265,23 @@
 *   [HazeOver](https://hazeover.com/github-students.html) \[FREE] - Get focused while working on your projects or studying with HazeOver for Mac.Free app license, including minor updates.
 *   [Github Campus Experts](https://apply.githubcampus.expert/) \[FREE] - GitHub Campus Experts are students who build technical communities on campus, with training and support from GitHub.Apply to become part of the program while you’re a student.
 
-## [20. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [21. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Web
 
 *   🔧 [Typesaurus (⭐348)](https://github.com/kossnocorp/typesaurus) - Type-safe TypeScript-first ODM for Firestore.
 
-## [21. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+## [22. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Visualization
 
-*   [D-Tale (⭐4.3k)](https://github.com/man-group/dtale) - Visualizer for pandas dataframes and xarray datasets.
+*   [D-Tale (⭐4.4k)](https://github.com/man-group/dtale) - Visualizer for pandas dataframes and xarray datasets.
 
-## [22. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [23. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [Yew Fullstack Boilerplate (⭐55)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
+*   [Yew Fullstack Boilerplate (⭐57)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
 
 ---
 

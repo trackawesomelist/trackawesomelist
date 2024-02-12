@@ -10,7 +10,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Dash (⭐19k)](https://github.com/plotly/dash) - A framework for creating analytical web applications built on top of Plotly.js, React, and Flask
+*   [Dash (⭐20k)](https://github.com/plotly/dash) - A framework for creating analytical web applications built on top of Plotly.js, React, and Flask
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -57,7 +57,7 @@
 
 ### Concurrency
 
-*   [Async++ (⭐1.2k)](https://github.com/Amanieu/asyncplusplus) - A lightweight concurrency framework for C++11, inspired by the Microsoft PPL library and the N3428 C++ standard proposal. \[MIT]
+*   [Async++ (⭐1.3k)](https://github.com/Amanieu/asyncplusplus) - A lightweight concurrency framework for C++11, inspired by the Microsoft PPL library and the N3428 C++ standard proposal. \[MIT]
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

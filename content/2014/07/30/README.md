@@ -59,8 +59,8 @@
 
 ### Extensions / General Purpose
 
+*   [StyleToken (⭐48)](https://github.com/vcharnahrebel/style-token) — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
 *   [Synesthesia (⭐17)](https://github.com/dariusf/synesthesia) — a plugin for highlighting text with pretty colours.
-*   [StyleToken (⭐47)](https://github.com/vcharnahrebel/style-token) — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
 
 ## [7. Awesome R](/content/qinwf/awesome-R/README.md)
 

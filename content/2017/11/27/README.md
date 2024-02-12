@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 27, 2017
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -19,13 +19,7 @@
 *   [Hubot](https://hubot.github.com/) + [adapter (⭐20)](https://github.com/zulip/hubot-zulip) (CoffeeScript, Node.js)
 *   [Errbot](http://errbot.io/) + [adapter (⭐4)](https://github.com/zulip/errbot-backend-zulip) (Python)
 
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
-
-### Javascript / Isomorphic web frameworks
-
-*   [SmackJack (⭐18)](https://github.com/aarvid/SmackJack) - An Ajax Common Lisp Library using parenscript to generate javascript and hunchentoot (for now) as the web server. Also allows a server-side lisp function to call a client-side parenscript one. [MIT](https://opensource.org/licenses/MIT).
-
-## [4. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+## [3. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
 ### Europe / Portugal 🇵🇹
 

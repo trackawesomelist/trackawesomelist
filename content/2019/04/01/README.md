@@ -144,7 +144,7 @@
 
 ### Network / Monitoring / Logging
 
-*   [opensnitch (⭐9.1k)](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+*   [opensnitch (⭐9.3k)](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 
 ---
 

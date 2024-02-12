@@ -32,7 +32,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Bowtie (⭐760)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
+*   [Bowtie (⭐762)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
 
 ## [4. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -42,16 +42,16 @@
 
 ### DVB & WiFi
 
-*   [ts2mpa (⭐4)](https://github.com/njh/ts2mpa) - Simple tool to extract MPEG Audio from a MPEG Transport Stream (TS).
+*   [ts2mpa (⭐5)](https://github.com/njh/ts2mpa) - Simple tool to extract MPEG Audio from a MPEG Transport Stream (TS).
 
 ### Hybrid Radio
 
 *   [RadioDNS for Node.js (⭐6)](https://github.com/bbc/node-radiodns) - Perform RadioDNS resolutions and service lookups in node.js.
-*   [RadioVIS Stomp Server (⭐11)](https://github.com/bbc/node-radiovis-stomp-server) - RadioVIS STOMP server written in node.js.
+*   [RadioVIS Stomp Server (⭐12)](https://github.com/bbc/node-radiovis-stomp-server) - RadioVIS STOMP server written in node.js.
 
 ### Network & Storage Testing
 
-*   [Fio (⭐4.1k)](https://github.com/axboe/fio) - Flexible I/O Tester
+*   [Fio (⭐4.6k)](https://github.com/axboe/fio) - Flexible I/O Tester
 *   [iPerf3](https://iperf.fr/) - The TCP, UDP and SCTP network bandwidth measurement tool.
 
 ## [5. Amas](/content/sindresorhus/amas/README.md)
@@ -88,7 +88,7 @@
 
 ### Tools / Libraries
 
-*   [Palettable (⭐702)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+*   [Palettable (⭐719)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 
 ### Color Palettes / Web App
 
@@ -107,9 +107,9 @@
 
 ## [11. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
-### Other useful repositories
+### Other Useful Repositories
 
-- Repository: [Probable Wordlists (⭐7.7k)](https://github.com/berzerk0/Probable-Wordlists)
+- Repository: [Probable Wordlists (⭐8.3k)](https://github.com/berzerk0/Probable-Wordlists)
 
   Description: Wordlists sorted by probability originally created for password generation and testing
 

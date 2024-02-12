@@ -30,7 +30,7 @@
 
 ### Command Line / XML
 
-*   [argsd (⭐14)](https://github.com/burner/argsd) - A command line and config file parser for DLang
+*   [argsd (⭐15)](https://github.com/burner/argsd) - A command line and config file parser for DLang
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

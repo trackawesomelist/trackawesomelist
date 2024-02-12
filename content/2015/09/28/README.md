@@ -43,7 +43,7 @@
 
 ### For Developers / Directory Navigation
 
-*   [cloc (⭐16k)](https://github.com/AlDanial/cloc) - Count Lines of Code
+*   [cloc (⭐17k)](https://github.com/AlDanial/cloc) - Count Lines of Code
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Resources / Tutorials
 
-*   [Web Audio Basics (⭐115)](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each.
+*   [Web Audio Basics (⭐116)](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each.
 
 ## [9. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 

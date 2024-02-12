@@ -90,7 +90,7 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [QuantFinanceBook (⭐285)](https://github.com/LechGrzelak/QuantFinanceBook) - Quantitative Finance book.
+*   [QuantFinanceBook (⭐319)](https://github.com/LechGrzelak/QuantFinanceBook) - Quantitative Finance book.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -100,7 +100,6 @@
 
 ### Visitor Session Recording
 
-*   [Visualime.com](https://www.visualime.com/) — Free and unlimited session recordings, no traffic limits
 *   [inspectlet.com](https://www.inspectlet.com/) — 2,500 sessions/month free for one website
 *   [mouseflow.com](https://mouseflow.com/) — 500 sessions/month free for one website
 

@@ -10,12 +10,12 @@
 
 ### Regular Expressions
 
-*   [Re (⭐203)](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str...)
-*   [ocaml-pcre (⭐26)](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
+*   [Re (⭐220)](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str, etc.).
+*   [ocaml-pcre (⭐29)](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
 
 ### Serialization
 
-*   [sexplib (⭐140)](https://github.com/janestreet/sexplib) – A S-expression parser and printer
+*   [sexplib (⭐142)](https://github.com/janestreet/sexplib) – A S-expression parser and printer
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Security
 
-*   [Metasploit (⭐31k)](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
+*   [Metasploit (⭐32k)](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
 
 ---
 

@@ -28,13 +28,13 @@
 
 ### Table of Contents / Components
 
-*   [Spatie Open Source](https://spatie.be/open-source) - A collection of open source PHP and Laravel packages.
+*   [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### HTTP
 
-*   [finch (⭐1.1k)](https://github.com/keathley/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
+*   [finch (⭐1.2k)](https://github.com/keathley/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
 
 ## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Audio Tools
 
-*   [Cecilia (⭐177)](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
+*   [Cecilia (⭐180)](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
 
 ## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 

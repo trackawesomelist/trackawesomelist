@@ -14,19 +14,19 @@
 
 ### Table of Contents / URL
 
-*   [PHP Domain Parser (⭐1k)](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
+*   [PHP Domain Parser (⭐1.1k)](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
 
 ### Table of Contents / Security
 
-*   [HTML Purifier (⭐2.6k)](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
+*   [HTML Purifier (⭐2.9k)](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 
 ### Table of Contents / PDF
 
-*   [Snappy (⭐4.1k)](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
+*   [Snappy (⭐4.3k)](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
 
 ### Table of Contents / Command Line
 
-*   [Commando (⭐791)](https://github.com/nategood/commando) - Another simple command line opt parser.
+*   [Commando (⭐796)](https://github.com/nategood/commando) - Another simple command line opt parser.
 *   [Cron Expression (⭐4.9k)](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
 
 ---

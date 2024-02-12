@@ -67,10 +67,6 @@ Webpage: <http://sanktoberholz.de/en/coffee/>
 
 *   [Keepalived](http://www.keepalived.org/) - Simple and robust facilities for loadbalancing and high-availability to Linux system and Linux based infrastructures.
 
-### Configuration & Discovery / Scala
-
-*   [ContainerPilot (⭐1.1k)](https://github.com/joyent/containerpilot) - Service for autodiscovery and configuration of applications running in containers.
-
 ### Sites & Organizations / Scala
 
 *   [Microservice Antipatterns and Pitfalls](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservice mostly known antipatterns and pitfalls.

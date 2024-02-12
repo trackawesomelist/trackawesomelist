@@ -10,7 +10,7 @@
 
 ### Performance
 
-*   [AppleCake (⭐17)](https://github.com/EngineerSmith/AppleCake) - Profiling library for LÖVE, with detailed profiling and thread support.
+*   [AppleCake (⭐19)](https://github.com/EngineerSmith/AppleCake) - Profiling library for LÖVE, with detailed profiling and thread support.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -28,13 +28,13 @@
 
 ### WSL Tools / For Managing WSL Installations
 
-*   [WSL Distro Manager (⭐765)](https://github.com/bostrot/wsl2-distro-manager) - GUI to manage, copy, distribute WSL distros. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [WSL Distro Manager (⭐989)](https://github.com/bostrot/wsl2-distro-manager) - GUI to manage, copy, distribute WSL distros. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Functional
 
-*   [underscore (⭐92)](https://github.com/rjNemo/underscore) - Functional programming helpers for Go 1.18 and beyond.
+*   [underscore (⭐102)](https://github.com/rjNemo/underscore) - Functional programming helpers for Go 1.18 and beyond.
 
 ### Third-party APIs
 
@@ -45,7 +45,7 @@
 
 ### Templates / Vue 3
 
-*   [vue-admin-box (⭐1.5k)](https://github.com/cmdparkour/vue-admin-box) - Admin template, based on Vue 3 + Element-plus.
+*   [vue-admin-box (⭐1.6k)](https://github.com/cmdparkour/vue-admin-box) - Admin template, based on Vue 3 + Element-plus.
 
 ---
 

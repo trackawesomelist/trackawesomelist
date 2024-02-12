@@ -63,7 +63,7 @@ Webpage: <http://www.deysbreeker.nl/>
 
 ### Deployment
 
-*   [gatling (⭐499)](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
+*   [gatling (⭐500)](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

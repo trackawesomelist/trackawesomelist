@@ -16,7 +16,7 @@
 
 ### Libraries / To draw using canvas
 
-*   [zDog (⭐9.6k)](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
+*   [zDog (⭐10k)](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 
 ## [3. Amas](/content/sindresorhus/amas/README.md)
 
@@ -35,7 +35,7 @@
 
 ### PDF / Text-Based User Interfaces
 
-*   [Open HTML to PDF (⭐1.7k)](https://github.com/danfickle/openhtmltopdf) - Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
+*   [Open HTML to PDF (⭐1.8k)](https://github.com/danfickle/openhtmltopdf) - Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
 
 ## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

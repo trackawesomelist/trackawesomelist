@@ -16,7 +16,7 @@
 
 ### Micro Framework
 
-*   [.NET Micro Framework Interpreter (⭐478)](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
+*   [.NET Micro Framework Interpreter (⭐480)](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
 
 ## [3. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Parallel Computing
 
-*   [DistributedR (⭐162)](https://github.com/vertica/DistributedR) - A scalable high-performance platform from  HP Vertica Analytics Team.
+*   [DistributedR (⭐163)](https://github.com/vertica/DistributedR) - A scalable high-performance platform from  HP Vertica Analytics Team.
 
 ## [6. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
 

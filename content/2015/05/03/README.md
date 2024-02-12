@@ -30,22 +30,18 @@
 
 *   [Mocha Traceur (⭐15)](https://github.com/domenic/mocha-traceur) - A simple plugin for Mocha to pass JS files through the Traceur compiler
 
-## [5. Awesome R](/content/qinwf/awesome-R/README.md)
-
-### Natural Language Processing
-
-*   [NLP](http://cran.r-project.org/web/packages/NLP/index.html) - Basic functions for Natural Language Processing.
-
-## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Messaging / Scala
 
 *   [ØMQ](http://zeromq.org/) - Brokerless intelligent transport layer.
-*   [Apollo](http://activemq.apache.org/apollo/) - Faster, more reliable, easier to maintain messaging broker built from the foundations of the original ActiveMQ.
-*   [Disque (⭐7.9k)](https://github.com/antirez/disque) - Distributed message broker.
 *   [Kafka](http://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
-*   [Nanomsg](http://nanomsg.org/) - Socket library that provides several common communication patterns for building distributed systems.
-*   [Qpid](https://qpid.apache.org/) - Cross-platform messaging components built on AMQP.
+
+## [6. Awesome R](/content/qinwf/awesome-R/README.md)
+
+### Natural Language Processing
+
+*   [NLP](http://cran.r-project.org/web/packages/NLP/index.html) - Basic functions for Natural Language Processing.
 
 ## [7. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
@@ -60,7 +56,7 @@
 
 ### Customization / Directory Navigation
 
-*   [gittify (⭐61)](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases
+*   [gittify (⭐67)](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases
 
 ## [9. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 

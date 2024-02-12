@@ -26,7 +26,7 @@
 
 ### ORM and Datamapping
 
-*   [mariaex (⭐259)](https://github.com/xerions/mariaex) - MariaDB/MySQL driver for Elixir.
+*   [mariaex (⭐260)](https://github.com/xerions/mariaex) - MariaDB/MySQL driver for Elixir.
 
 ---
 

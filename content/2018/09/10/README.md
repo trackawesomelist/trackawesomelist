@@ -16,7 +16,7 @@
 
 ### CLI Builder
 
-*   [Terrapin (⭐217)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
+*   [Terrapin (⭐227)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
 
 ### Debugging Tools
 
@@ -30,7 +30,7 @@
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
-### Books, blogs and training materials / Community Chat Rooms
+### Books, blogs, and training materials / Community Chat Rooms
 
 *   [Physical Computing With Rust](https://rahul-thakoor.github.io/physical-computing-rust/) A (WIP) guide to physical computing with Rust on the Raspberry Pi.
 
@@ -60,7 +60,7 @@
 
 ### Clients
 
-*   [npm (⭐7.2k)](https://github.com/npm/cli) - The official client.
+*   [npm (⭐7.6k)](https://github.com/npm/cli) - The official client.
 
 ## [9. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Tools and session management
 
-*   [tmux-up (⭐111)](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
+*   [tmux-up (⭐112)](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
 
 ### Miscellaneous / Development and testing
 

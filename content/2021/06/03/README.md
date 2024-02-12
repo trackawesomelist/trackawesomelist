@@ -46,13 +46,13 @@
 
 ### Music Notation
 
-*   [OpenSheetMusicDisplay (⭐1.2k)](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - Typescript library for rendering MusicXML in the browser.
+*   [OpenSheetMusicDisplay (⭐1.3k)](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - Typescript library for rendering MusicXML in the browser.
 
 ## [4. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
 ### Libraries and Frameworks
 
-*   [ExtPay (⭐166)](https://github.com/Glench/ExtPay) - Take secure payments in extensions without needing to run a server backend.
+*   [ExtPay (⭐337)](https://github.com/Glench/ExtPay) - Take secure payments in extensions without needing to run a server backend.
 
 ## [5. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 

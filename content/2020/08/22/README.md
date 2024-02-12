@@ -26,7 +26,7 @@
 
 ### Official Resources
 
-*   [GitHub Repo (⭐60k)](https://github.com/vitejs/vite)
+*   [GitHub Repo (⭐63k)](https://github.com/vitejs/vite)
 
 ## [4. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
 
@@ -59,17 +59,17 @@
 
 ### Tools / Community providers
 
-*   [hcledit (⭐355)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
+*   [hcledit (⭐385)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
 
 ## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Finance
 
-*   [Piggyvault (⭐427)](https://github.com/piggyvault/piggyvault) - Family finance management app by [Abhith Rajan](https://www.abhith.net).
+*   [Piggyvault (⭐434)](https://github.com/piggyvault/piggyvault) - Family finance management app by [Abhith Rajan](https://www.abhith.net).
 
 ### Contents / Lifestyle
 
-*   [Food Ordering App (⭐942)](https://github.com/Tarikul711/flutter-food-delivery-app-ui) - Food delivery App UI designed by [Tarikul Islam](https://github.com/tarikul711).
+*   [Food Ordering App (⭐964)](https://github.com/Tarikul711/flutter-food-delivery-app-ui) - Food delivery App UI designed by [Tarikul Islam](https://github.com/tarikul711).
 
 ### Contents / Media
 
@@ -77,7 +77,7 @@
 
 ### Contents / Shopping
 
-*   [E-Commerce App (⭐661)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
+*   [E-Commerce App (⭐678)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
 
 ## [8. Tools](/content/lvwzhen/tools/README.md)
 

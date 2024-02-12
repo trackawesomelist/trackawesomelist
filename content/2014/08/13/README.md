@@ -22,15 +22,15 @@
 
 ### Serialization
 
-*   [cereal (⭐3.8k)](https://github.com/USCiLab/cereal) - A C++11 library for serialization. \[BSD]
-*   [SimpleBinaryEncoding (⭐2.9k)](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. \[Apache2]
+*   [cereal (⭐3.9k)](https://github.com/USCiLab/cereal) - A C++11 library for serialization. \[BSD]
+*   [SimpleBinaryEncoding (⭐3k)](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. \[Apache2]
 
 ### Web Application Framework
 
 *   [CppCMS](http://cppcms.com/) - A Free High Performance Web Development Framework (not a CMS). \[LGPLv3]
 *   [Kore](https://kore.io/) - ultra fast and flexible web server / framework for web applications developed in C. \[ISC]
 *   [libOnion](http://www.coralbits.com/libonion/) - lightweight library to help you create webservers in C programming language. \[LGPLv3]
-*   [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications. \[GPL/Commercial]
+*   [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications. \[GPL/Proprietary]
 
 ## [3. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

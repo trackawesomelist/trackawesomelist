@@ -10,7 +10,7 @@
 
 ### Build Automation and Package management
 
-*   [clojurephant (⭐160)](https://github.com/clojurephant/clojurephant) (Gradle plugin)
+*   [clojurephant (⭐170)](https://github.com/clojurephant/clojurephant) (Gradle plugin)
 
 ## [2. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 
@@ -36,7 +36,7 @@ Free (Open Source)
 
 ### Incident Response tools / Evidence collection
 
-*   [AutoMacTC (⭐480)](https://github.com/CrowdStrike/automactc) - Modular, automated forensic triage collection framework designed to access various forensic artifacts on macOS, parse them, and present them in formats viable for analysis.
+*   [AutoMacTC (⭐487)](https://github.com/CrowdStrike/automactc) - Modular, automated forensic triage collection framework designed to access various forensic artifacts on macOS, parse them, and present them in formats viable for analysis.
 
 ## [5. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -48,7 +48,7 @@ Free (Open Source)
 
 ### Python / Data Analysis / Data Visualization
 
-*   [TensorWatch (⭐3.3k)](https://github.com/microsoft/tensorwatch) - Debugging and visualization tool for machine learning and data science. It extensively leverages Jupyter Notebook to show real-time visualizations of data in running processes such as machine learning training.
+*   [TensorWatch (⭐3.4k)](https://github.com/microsoft/tensorwatch) - Debugging and visualization tool for machine learning and data science. It extensively leverages Jupyter Notebook to show real-time visualizations of data in running processes such as machine learning training.
 
 ---
 

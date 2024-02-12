@@ -10,9 +10,9 @@
 
 ### Other Lists / Books
 
-*   [Awesome Jupyter (⭐3.5k)](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion)
-*   [Awesome LaTeX (⭐1.2k)](https://github.com/egeerardyn/awesome-LaTeX/#readme)
-*   [Awesome Markdown (⭐687)](https://github.com/BubuAnabelas/awesome-markdown/#readme)
+*   [Awesome Jupyter (⭐3.6k)](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion)
+*   [Awesome LaTeX (⭐1.3k)](https://github.com/egeerardyn/awesome-LaTeX/#readme)
+*   [Awesome Markdown (⭐711)](https://github.com/BubuAnabelas/awesome-markdown/#readme)
 *   [Delightful Open Science](https://codeberg.org/teaserbot-labs/delightful-open-science)
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
@@ -25,13 +25,13 @@
 
 ### Software / Make your life easier
 
-*   [DeepfakeHTTP (⭐485)](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
+*   [DeepfakeHTTP (⭐500)](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
 
 ## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Converters / Ruby
 
-*   [gtfs2gps (⭐66)](https://github.com/ipeaGIT/gtfs2gps) - An R package that converts public transportation data in GTFS format to GPS-like records in a `data.table`, where each row represents the timestamp of each vehicle at a given spatial resolution.
+*   [gtfs2gps (⭐67)](https://github.com/ipeaGIT/gtfs2gps) - An R package that converts public transportation data in GTFS format to GPS-like records in a `data.table`, where each row represents the timestamp of each vehicle at a given spatial resolution.
 
 ## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Projects / Tools
 
-*   [coq-tools (⭐35)](https://github.com/JasonGross/coq-tools) - Scripts for manipulating Coq developments.
+*   [coq-tools (⭐36)](https://github.com/JasonGross/coq-tools) - Scripts for manipulating Coq developments.
     *   [`find-bug.py`](https://github.com/JasonGross/coq-tools/blob/master/find-bug.py) - Automatically minimizes source files producing an error, creating small test cases for Coq bugs.
     *   [`absolutize-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/absolutize-imports.py) - Processes source files to make loading of dependencies robust against shadowing of file names.
     *   [`inline-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/inline-imports.py) - Creates stand-alone source files from developments by inlining the loading of all dependencies.
@@ -101,7 +101,7 @@
 
 ### Responsive / Syntax Highlight
 
-*   [cdbreact (⭐44)](https://github.com/Devwares-Team/cdbreact) - [demo](https://www.devwares.com/product/contrast) - [docs](https://www.devwares.com/docs/contrast/react/index) - Elegant UI Kit library and reusable components for building mobile-first, responsive websites and web apps.
+*   [cdbreact (⭐48)](https://github.com/Devwares-Team/cdbreact) - [demo](https://www.devwares.com/product/contrast) - [docs](https://www.devwares.com/docs/contrast/react/index) - Elegant UI Kit library and reusable components for building mobile-first, responsive websites and web apps.
 
 ## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -119,7 +119,7 @@
 
 ### Python / Reinforcement Learning
 
-*   [RLlib (⭐27k)](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
+*   [RLlib (⭐30k)](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
 
 ---
 

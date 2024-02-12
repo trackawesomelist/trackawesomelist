@@ -10,7 +10,7 @@
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
-*   [rshijack (⭐402)](https://github.com/kpcyrd/rshijack) - TCP connection hijacker, Rust rewrite of `shijack`.
+*   [rshijack (⭐420)](https://github.com/kpcyrd/rshijack) - TCP connection hijacker, Rust rewrite of `shijack`.
 
 ## [2. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

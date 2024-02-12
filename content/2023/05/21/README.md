@@ -16,7 +16,7 @@
 
 ### Tools / Community providers
 
-*   [fuzzy-terraform-rm (⭐31)](https://github.com/paololazzari/fuzzy-terraform-rm) - A fuzzy-finder command-line tool for removing resources from terraform state.
+*   [fuzzy-terraform-rm (⭐36)](https://github.com/paololazzari/fuzzy-terraform-rm) - A fuzzy-finder command-line tool for removing resources from terraform state.
 
 ---
 

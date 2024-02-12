@@ -20,7 +20,7 @@
 
 ### Date and time / Third-party APIs
 
-*   [cl-date-time-parser (⭐17)](https://github.com/tkych/cl-date-time-parser) - Parse date-time-string, liberally. Hides the difference between date-time formats, and enables to manage date and time as the one date-time format. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-date-time-parser (⭐18)](https://github.com/tkych/cl-date-time-parser) - Parse date-time-string, liberally. Hides the difference between date-time formats, and enables to manage date and time as the one date-time format. [MIT](https://opensource.org/licenses/MIT).
 
 ## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

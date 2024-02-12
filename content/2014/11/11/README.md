@@ -10,7 +10,7 @@
 
 ### Table of Contents / Email
 
-*   [Email Validator (⭐155)](https://github.com/nojacko/email-validator) - A small email address validation library.
+*   [Email Validator (⭐161)](https://github.com/nojacko/email-validator) - A small email address validation library.
 
 ## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Connection pools
 
-*   [hikari-cp (⭐400)](https://github.com/tomekw/hikari-cp)
+*   [hikari-cp (⭐405)](https://github.com/tomekw/hikari-cp)
 
 ## [4. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 

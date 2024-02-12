@@ -17,7 +17,6 @@
 ### Exercises / YouTube
 
 *   [Clojure Koans](http://clojurekoans.com)
-*   [Clojure Katas](http://clojurekatas.org)
 
 ## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

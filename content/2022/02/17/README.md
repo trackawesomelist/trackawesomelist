@@ -30,11 +30,11 @@
 ### Programming Languages / PHP
 
 *   [composer-plugin-nixify (⭐14)](https://github.com/stephank/composer-plugin-nixify) - Composer plugin to help with Nix packaging.
-*   [nix-shell (⭐112)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
+*   [nix-shell (⭐124)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
 
 ### NixOS Modules / Zig
 
-*   [base16.nix (⭐124)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐312)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
+*   [base16.nix (⭐137)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐394)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -246,23 +246,22 @@
 
 ### IDE and Code Editing
 
-*   [Visual Studio Community 2017](https://visualstudio.microsoft.com/vs/community/) \[FREE] - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
 *   [MATLAB](https://in.mathworks.com/products/matlab/student.html) \[DISCOUNT] - MATLAB is a high-level technical computing language and interactive environment for algorithm development, data visualization, data analysis, and numerical computation.
-*   [Repl](https://replit.com/site/github-students) \[FREE] - An online IDE that lets you instantly code in over fifty languages.Hacker plan, includes unlimited private repls and multiplayer invites. Free for one year available via [Github Student Developer Pack](https://education.github.com/pack)
+*   [Repl](https://replit.com/site/github-students) \[FREE] - An online IDE that lets you instantly code in over fifty languages. Hacker plan, includes unlimited private repls and multiplayer invites. Free for one year available via [Github Student Developer Pack](https://education.github.com/pack)
 
 ### Version Control
 
-*   [Blackfire.io](https://www.blackfire.io/students) \[FREE] - Code performance measurement tool. Find & fix bottlenecks.Free Profiler subscription for students.
-*   [Codecov](https://about.codecov.io/for/education/) \[FREE] - Codecov makes it easy to implement code coverage to develop healthier code.Free access to Codecov on public and private repositories.
+*   [Blackfire.io](https://www.blackfire.io/students) \[FREE] - Code performance measurement tool. Find & fix bottlenecks. Free Profiler subscription for students.
+*   [Codecov](https://about.codecov.io/for/education/) \[FREE] - Codecov makes it easy to implement code coverage to develop healthier code. Free access to Codecov on public and private repositories.
 
 ### Web Hosting
 
-*   [RoseHosting](https://www.rosehosting.com) \[DISCOUNT] - RoseHosting offers a recurring 20% discount on all their [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting/) and [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html) when paying monthly. Students can use the discount by applying the coupon code "STUDENT20". Valid for new customers only. Cannot be combined with any other offer.
+*   [RoseHosting](https://www.rosehosting.com) \[DISCOUNT] - RoseHosting offers education specific hosting as well as general shared and dedicated hosting.
 *   [NodeHost](https://nodehost.ca/education) \[FREE] - PHP hosting. 500MB Storage, 80GB Bandwidth, 1 Database, and 2 email accounts per site, 28 day backup history.
 
 ### Design and Photo Editing
 
-*   [Adobe Creative Cloud](https://www.adobe.com/creativecloud/buy/students.html) \[DISCOUNT] - Students save big with 60% off Creative Cloud.
+*   [Adobe Creative Cloud](https://www.adobe.com/creativecloud/buy/students.html) \[DISCOUNT] - Students recieve discounts on Adobe apps and the Creative Cloud.
 *   [Themeisle](https://themeisle.com/github-students/)\[FREE] - Neve’s mobile-first approach, compatibility with AMP and popular page-builders makes website building accessible for everyone. Free year of Neve Agency WordPress theme exclusively for students.
 
 ### SaaS
@@ -332,28 +331,28 @@
 
 ### Plugins / Code Quality
 
-*   [GitHub (⭐226)](https://github.com/github/eslint-plugin-github) - Misc. rules from GitHub.
+*   [GitHub (⭐264)](https://github.com/github/eslint-plugin-github) - Misc. rules from GitHub.
 *   [@mysticatea/eslint-plugin (⭐25)](https://github.com/mysticatea/eslint-plugin) - Misc. rules.
-*   [@brettz9/eslint-plugin (⭐1)](https://github.com/brettz9/eslint-plugin) - Misc. rules. of `@mysticatea` without the personal config.
+*   [@brettz9/eslint-plugin (⭐2)](https://github.com/brettz9/eslint-plugin) - Misc. rules. of `@mysticatea` without the personal config.
 
 ### Plugins / Languages and Environments
 
-*   [Babel (⭐42k)](https://github.com/babel/babel/tree/main/eslint/babel-eslint-plugin) - Adds replacements for built-in rules to include Babel features.
-*   [eslint-plugin-eslint-plugin (⭐150)](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins.
+*   [Babel (⭐43k)](https://github.com/babel/babel/tree/main/eslint/babel-eslint-plugin) - Adds replacements for built-in rules to include Babel features.
+*   [eslint-plugin-eslint-plugin (⭐171)](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins.
 
 ### Plugins / Misc
 
-*   [TypeLint (⭐174)](https://github.com/yarax/eslint-plugin-typelint) - Introduces types, based on existing schemas (Swagger, Redux) and linting access to object properties, preventing `undefined` errors.
+*   [TypeLint (⭐175)](https://github.com/yarax/eslint-plugin-typelint) - Introduces types, based on existing schemas (Swagger, Redux) and linting access to object properties, preventing `undefined` errors.
 
 ### Plugins / Practices and Specific ES Features
 
-*   [ESLint Comments (⭐323)](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc.).
-*   [eslint-plugin-write-good-comments (⭐22)](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
-*   [import (⭐4.9k)](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
+*   [ESLint Comments (⭐343)](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc.).
+*   [eslint-plugin-write-good-comments (⭐29)](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
+*   [import (⭐5.2k)](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
 
 ### Tools / Testing Tools
 
-*   [eslint-define-config (⭐218)](https://github.com/Shinigami92/eslint-define-config) - Provide a `defineConfig` function for `.eslintrc.js` files.
+*   [eslint-define-config (⭐305)](https://github.com/Shinigami92/eslint-define-config) - Provide a `defineConfig` function for `.eslintrc.js` files.
 
 ## [13. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 

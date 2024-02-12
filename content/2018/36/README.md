@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 03 - Sep 09, 2018
 
-40 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -52,13 +52,7 @@
 
 *   [ocaml-cuid (⭐18)](https://github.com/marcoonroad/ocaml-cuid) - Collision-resistant IDs for server scalability & database performance.
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / URL Shorteners
-
-*   [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code (⭐7.6k)](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs/Docker`
-
-## [9. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [8. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -78,37 +72,37 @@
 *   [What I Learned From The Fall Of Ellen Pao](https://www.damemagazine.com/2018/03/15/what-i-learned-from-the-fall-of-ellen-pao/) - By Madhushree Ghosh.
 *   [Why Are There Few Women In Tech? Watch A Recruiting Session](https://www.wired.com/story/why-are-there-few-women-in-tech-watch-a-recruiting-session/) - By Jessi Hempel.
 
-## [10. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
+## [9. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
 
 ### Bots
 
 *   [Welcome Bot (⭐7)](https://github.com/indyhall/mastodon-welcome-bot) - Automatically send a welcome DM to new users (Python).
 
-## [11. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [10. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Realtime / Ruby
 
-*   [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification (⭐446)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) and including some extensions.
+*   [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification (⭐496)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) and including some extensions.
 
-## [12. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [11. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
-*   [tmuxpair (⭐43)](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
+*   [tmuxpair (⭐44)](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
 
-## [13. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [12. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### UI
 
 *   [XamEffects ★53 (⭐251)](https://github.com/mrxten/XamEffects) - Touch effect for Xamarin.Forms.
 
-## [14. Amas](/content/sindresorhus/amas/week/README.md)
+## [13. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Khen Daniel (⭐0)](https://github.com/thekhenzie/ama) - Software Engineer. Aspiring Photographer. Hacker.
 
-## [15. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [14. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
@@ -117,7 +111,7 @@
 *   [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio) - GUI tool for managing and developing databases and objects.
 *   [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio) - Powerful integrated development environment for SQL Server development, management, administration, data analysis, and reporting.
 
-## [16. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
+## [15. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
 ### Very Lightweight
 
@@ -222,14 +216,14 @@
     [Repo (⭐2.7k)](https://github.com/jgthms/minireset.css)
     \| #Sass
 
-## [17. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [16. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Packages
 
 *   [ava-fixture (⭐5)](https://github.com/unional/ava-fixture) - Run fixture/baseline tests.
 *   [ava-fast-check (⭐44)](https://github.com/dubzzz/ava-fast-check) - Property based testing.
 
-## [18. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [17. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Articles
 
@@ -241,45 +235,35 @@
 
 *   [npm.community](https://npm.community/c/support)
 
-## [19. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Other Awesome Lists
 
-*   [example-ios-apps (⭐920)](https://github.com/jogendra/example-ios-apps) - An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.
+*   [example-ios-apps (⭐927)](https://github.com/jogendra/example-ios-apps) - An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.
 
 ### Tab / Barcode
 
 *   [ESTabBarController (⭐5k)](https://github.com/eggswift/ESTabBarController) - A highly customizable TabBarController component, which is inherited from UITabBarController.
 
-## [20. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [19. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### File Upload
 
 *   [PaperClip (⭐9.1k)](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord. Deprecated as of May 14, 2018.
 
-## [21. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [20. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Finding Elements By Image, Part 2](https://appiumpro.com/editions/33)
 
-## [22. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Elixir / Non-X86
-
-*   [The Ultimate Guide To Elixir For Object-Oriented Programmers](http://www.binarywebpark.com/ultimate-guide-elixir-object-oriented-programmers) - Bruce Park (HTML)
-
-### HTML and CSS / Spock Framework
-
-*   [Learn to Code HTML & CSS](https://learn.shayhowe.com) - Shay Howe
-
-## [23. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [21. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
 *   [Taskist (⭐873)](https://github.com/huextrat/Taskist) <!--stargazers:huextrat/Taskist--> - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat)
 
-## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -287,29 +271,29 @@
 
 ### Resources / Examples
 
-*   [ASP.NET Core Vue Starter CLI 3.0 (⭐546)](https://github.com/SoftwareAteliers/asp-net-core-vue-starter) A Vue starter template using Vue CLI 3.0 with custom configuration (default TypeScript, Vue, Router, Vuex, Vuetify) integrated with ASP.​NET Core by [@SoftwareAteliers](https://github.com/SoftwareAteliers) (September 2018)
+*   [ASP.NET Core Vue Starter CLI 3.0 (⭐549)](https://github.com/SoftwareAteliers/asp-net-core-vue-starter) A Vue starter template using Vue CLI 3.0 with custom configuration (default TypeScript, Vue, Router, Vuex, Vuetify) integrated with ASP.​NET Core by [@SoftwareAteliers](https://github.com/SoftwareAteliers) (September 2018)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue2-scrollspy (⭐137)](https://github.com/ibufu/vue2-scrollspy) - A scrollspy plugin and animated scroll-to.
+*   [vue2-scrollspy (⭐136)](https://github.com/ibufu/vue2-scrollspy) - A scrollspy plugin and animated scroll-to.
 
-## [25. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [23. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Libraries and Tools / C
 
-*   [dbcc (⭐295)](https://github.com/howerj/dbcc) - "dbcc is a program for converting a DBC file primarily into into C code that can serialize and deserialize CAN messages." With existing DBC files from a vehicle, this file allows you to convert them to C code that extracts the CAN messages and properties of the CAN environment.
+*   [dbcc (⭐334)](https://github.com/howerj/dbcc) - "dbcc is a program for converting a DBC file primarily into into C code that can serialize and deserialize CAN messages." With existing DBC files from a vehicle, this file allows you to convert them to C code that extracts the CAN messages and properties of the CAN environment.
 
 ### Libraries and Tools / Python
 
-*   [CanCat (⭐176)](https://github.com/atlas0fd00m/CanCat) - A "swiss-army knife" for interacting with live CAN data. Primary API interface in Python, but written in C++.
+*   [CanCat (⭐186)](https://github.com/atlas0fd00m/CanCat) - A "swiss-army knife" for interacting with live CAN data. Primary API interface in Python, but written in C++.
 
-## [26. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [24. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Awareness / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [HTTP Leaks (⭐1.7k)](https://github.com/cure53/HTTPLeaks) - All possible ways, a website can leak HTTP requests.
 
-## [27. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [25. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -319,7 +303,7 @@
 
 *   [Real-World SRE](https://www.packtpub.com/web-development/real-world-sre)
 
-## [28. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [26. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Gists
 
@@ -368,54 +352,54 @@
 
 *   [Intercom Screencasts](https://www.youtube.com/playlist?list=PLpAr6J-75N27wctNT70O0lubaGTPjwi1L)
 
-## [29. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [27. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shells
 
 *   [elvish](https://elv.sh/) - Friendly, expressive shell features like anonymous functions and data structures
-*   [shenv (⭐33)](https://github.com/shenv/shenv) - Simple shell version management
+*   [shenv (⭐37)](https://github.com/shenv/shenv) - Simple shell version management
 
 ### Command-Line Productivity
 
-*   [fd (⭐28k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
+*   [fd (⭐29k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
 *   [Lmod](https://lmod.readthedocs.io/en/latest/) - Lua-based Environment Modules that enhances Tcl-based modules while being backward compatible (compare to modules)
-*   [shell-history (⭐103)](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts
+*   [shell-history (⭐102)](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts
 *   [surfraw](https://gitlab.com/surfraw/Surfraw) - browse specific site and search the web from your terminal without browser.
 
 ### Customization / Directory Navigation
 
-*   [polyglot (⭐159)](https://github.com/agkozak/polyglot) - An informative Git prompt that works in bash, zsh, ksh, mksh, pdksh, oksh, dash, yash, busybox sh, and osh
+*   [polyglot (⭐164)](https://github.com/agkozak/polyglot) - An informative Git prompt that works in bash, zsh, ksh, mksh, pdksh, oksh, dash, yash, busybox sh, and osh
 
 ### For Developers / Directory Navigation
 
-*   [add-gitignore (⭐585)](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
+*   [add-gitignore (⭐607)](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
 *   [mr](https://myrepos.branchable.com) - Multiple Repository management tool
 
 ### System Utilities / Directory Navigation
 
 *   [rng (⭐30)](https://github.com/nickolasburr/rng) - Copy range of lines from file or stdin to stdout.
-*   [wifi-wand (⭐60)](https://github.com/keithrbennett/wifiwand) - a Ruby command line application for managing WiFi on MacOS (install by `gem install wifi-wand`)
+*   [wifi-wand (⭐61)](https://github.com/keithrbennett/wifiwand) - a Ruby command line application for managing WiFi on MacOS (install by `gem install wifi-wand`)
 
 ### Multimedia and File Formats / Directory Navigation
 
-*   [korkut (⭐357)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
+*   [korkut (⭐358)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
 
 ### Applications / Directory Navigation
 
-*   [md2png (⭐26)](https://github.com/weaming/md2png) - Convert markdown to PNG image
-*   [whales (⭐357)](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications
+*   [md2png (⭐27)](https://github.com/weaming/md2png) - Convert markdown to PNG image
+*   [whales (⭐366)](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications
 
-## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [28. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
-*   [ETL (⭐1.8k)](https://github.com/ETLCPP/etl) - Embedded Template Library. \[MIT]
+*   [ETL (⭐1.9k)](https://github.com/ETLCPP/etl) - Embedded Template Library. \[MIT]
 
 ### Podcasts
 
 *   [CppCast](http://cppcast.com) - The first podcast by C++ developers for C++ developers.
 
-## [31. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [29. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / CLI
 
@@ -429,13 +413,13 @@
 
 *   [danilop/yas3fs :fire::fire::fire: (⭐639)](https://github.com/danilop/yas3fs) - Yet Another S3-backed File System, inspired by s3fs.
 
-## [32. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [30. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Blogs
 
 *   [American Monk: Bhante Subhūti](http://americanmonk.org/) - Monk with roots in the Sri Lanka and Myanmar Forest Traditions.
 
-## [33. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [31. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Visualization
 
@@ -451,28 +435,28 @@
 *   PyPI - [`Framework :: Jupyter`](https://pypi.org/search/?\&c=Framework+%3A%3A+Jupyter)
     is the PyPI trove classifier for Jupyter projects.
 
-## [34. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [32. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [CrOTP (⭐62)](https://github.com/philnash/crotp) - HOTP and TOTP implementation for two factor authentication
+*   [CrOTP (⭐63)](https://github.com/philnash/crotp) - HOTP and TOTP implementation for two factor authentication
 
 ### Misc
 
-*   [retriable.cr (⭐37)](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
+*   [retriable.cr (⭐38)](https://github.com/Sija/retriable.cr) - Simple DSL to retry failed code blocks
 
 ### DevOps
 
-*   [DPPM (⭐110)](https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (mostly Linux)
+*   [DPPM (⭐111)](https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (mostly Linux)
 
-## [35. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [33. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Open Source Apps / Navigation Demos
 
 *   [Cat-or-dog (⭐31)](https://github.com/punksta/Cat-or-dog) - Simple game with drag'n'drops and animations.
 *   [Forex Rates (⭐45)](https://github.com/MicroPyramid/forex-rates-mobile-app) - Foreign exchange rates. currency rate converter. Historical exchange rates. Android and iOS.
 
-## [36. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CDN and Protection
 
@@ -482,15 +466,11 @@
 
 *   [luadns.com](https://www.luadns.com/) — Free DNS hosting, three domains, all features with reasonable limits
 
-### Managed Data Services
-
-*   [elephantsql.com](https://www.elephantsql.com/) — PostgreSQL as a service, 20 MB free
-
 ### Storage and Media Processing
 
 *   [embed.ly](https://embed.ly/) — Provides APIs for embedding media in a webpage, responsive image scaling, and extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
 
-## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
@@ -512,19 +492,19 @@
 *   [LiquidState (⭐233)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET.
 *   [NCrontab (⭐820)](https://github.com/atifaziz/NCrontab) - Crontab for .NET.
 
-## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [bimap (⭐24)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
+*   [bimap (⭐25)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
 
-## [39. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [37. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Queues
 
 *   [Enqueue (⭐2.1k)](https://github.com/php-enqueue/enqueue-dev) -  Provides a common way for programs to create, send, read messages. Inspired by Java JMS
 
-## [40. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [38. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Websites / Wiki
 
@@ -537,11 +517,11 @@
 
 ### Mod Loaders / Archives
 
-*   [Meddle (⭐28)](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.
+*   [Meddle (⭐30)](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.
 
 ### Mods / Skins And Capes
 
-*   [Custom Skin Loader (⭐447)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
+*   [Custom Skin Loader (⭐454)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
 
 ### Mods / Maps
 
@@ -568,8 +548,8 @@
 
 ### Server Plugins / Building
 
-*   [AntiCheatReloaded (⭐102)](https://github.com/Rammelkast/AntiCheatReloaded) - AntiCheatReloaded helps server admins easily identify and block malicious users by monitoring and analyzing the behaviour of their players.
-*   [ViaVersion (⭐1k)](https://github.com/MylesIsCool/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
+*   [AntiCheatReloaded (⭐101)](https://github.com/Rammelkast/AntiCheatReloaded) - AntiCheatReloaded helps server admins easily identify and block malicious users by monitoring and analyzing the behaviour of their players.
+*   [ViaVersion (⭐1.1k)](https://github.com/MylesIsCool/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 *   [AdvancedKitsReloaded (⭐10)](https://github.com/TryHardDood/AdvancedKitsReloaded) - AdvancedKitsReloaded is a Kit managing plugin for Minecraft servers which runs Bukkit, CraftBukkit, Spigot and Paper (>1.8). With this plugin you can easily create/edit/delete your kits and you can customize it as much as you'd like.
 
 ### Web Applications / Building

@@ -1,47 +1,41 @@
 # Awesome List Updates on Jan 27, 2016
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Php](/content/ziadoz/awesome-php/README.md)
-
-### Table of Contents / Dependency Management Extras
-
-*   [Prestissimo (⭐6.3k)](https://github.com/hirak/prestissimo) - A composer plugin which enables parallel install process.
-
-## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [1. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Applications / Directory Navigation
 
 *   [fanyi (⭐1.3k)](https://github.com/afc163/fanyi) - Translate English to Chinese in terminal
 
-## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Editors / Runner
 
 *   [Trumbowyg (⭐3.9k)](https://github.com/Alex-D/Trumbowyg) - A lightweight and amazing WYSIWYG JavaScript editor.
 
-## [4. Amas](/content/sindresorhus/amas/README.md)
+## [3. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [Seth Alexander (⭐0)](https://github.com/itzsaga/ama) - Free Code Camper, Burgeoning Dev, all things JavaScript.
 
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
-*   [combination (⭐30)](https://github.com/seantanly/elixir-combination) - Elixir library to generate combinations and permutations from Enumerable collection.
-*   [paratize (⭐27)](https://github.com/seantanly/elixir-paratize) - Elixir library providing some handy parallel processing (execution) facilities that support configuring number of workers and timeout.
+*   [combination (⭐31)](https://github.com/seantanly/elixir-combination) - Elixir library to generate combinations and permutations from Enumerable collection.
+*   [paratize (⭐28)](https://github.com/seantanly/elixir-paratize) - Elixir library providing some handy parallel processing (execution) facilities that support configuring number of workers and timeout.
 
 ### Testing
 
 *   [ex\_unit\_fixtures (⭐12)](https://github.com/obmarg/ex_unit_fixtures) - A library for defining modular dependencies for ExUnit tests.
 
-## [6. Awesome Marionette](/content/sadcitizen/awesome-marionette/README.md)
+## [5. Awesome Marionette](/content/sadcitizen/awesome-marionette/README.md)
 
 ### General
 
@@ -53,7 +47,7 @@
 
 *   [Marionette Form View (⭐78)](https://github.com/viverae/marionette.formview)
 
-## [7. Awesome R](/content/qinwf/awesome-R/README.md)
+## [6. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Natural Language Processing
 
@@ -66,16 +60,16 @@
 
 ### Other Tools
 
-*   [git2r (⭐190)](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
+*   [git2r (⭐211)](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
 
-## [8. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [7. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### UX Libraries for Salesforce / Open Source Projects Repositories from Salesforce
 
 *   [Salesforce ReactJS SPA Starter (⭐16)](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)
 *   [ForceSpinner (⭐8)](https://github.com/mailtoharshit/ForceSpinner) - Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects
 
-## [9. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
+## [8. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
 
 ### Videos
 
@@ -109,7 +103,7 @@
 *   [The biggest pitfalls of OKRs and how to avoid them](https://www.atiim.com/blog/the-biggest-pitfalls-of-okrs-and-how-to-avoid-them/): Some common issues while adopting OKRs
 *   [This Is The Internal Grading System Google Uses For Its Employees — And You Should Use It Too](http://www.businessinsider.com/googles-ranking-system-okr-2014-1?IR=T): Another article from Business Insider regarding OKR and great insights from the Kris Klau talk at Google
 
-## [10. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [9. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Organizations
 

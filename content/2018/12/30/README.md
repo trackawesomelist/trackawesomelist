@@ -10,7 +10,7 @@
 
 ### UI / Barcode
 
-*   [HidesNavigationBarWhenPushed (⭐55)](https://github.com/gontovnik/HidesNavigationBarWhenPushed) - A library, which adds the ability to hide navigation bar when view controller is pushed via hidesNavigationBarWhenPushed flag.
+*   [HidesNavigationBarWhenPushed (⭐54)](https://github.com/gontovnik/HidesNavigationBarWhenPushed) - A library, which adds the ability to hide navigation bar when view controller is pushed via hidesNavigationBarWhenPushed flag.
 
 ## [2. Awesome Frege](/content/sfischer13/awesome-frege/README.md)
 

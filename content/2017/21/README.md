@@ -40,7 +40,7 @@
 
 ### Utilities
 
-*   [Vert.x Web Accesslog (⭐24)](https://github.com/romanpierson/vertx-web-accesslog) - Just a simple handler to be used in Vert.x Web to generate access logs.
+*   [Vert.x Web Accesslog (⭐26)](https://github.com/romanpierson/vertx-web-accesslog) - Just a simple handler to be used in Vert.x Web to generate access logs.
 
 ## [6. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Utility / Collection View Layout
 
-*   [InAppSettingsKit (⭐3.1k)](https://github.com/futuretap/InAppSettingsKit) - This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.
+*   [InAppSettingsKit (⭐3.2k)](https://github.com/futuretap/InAppSettingsKit) - This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.
 
 ## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Shell Package Management / Directory Navigation
 
-*   [shundle (⭐79)](https://github.com/javier-lopez/shundle) - Plugin manager for shell scripts
+*   [shundle (⭐82)](https://github.com/javier-lopez/shundle) - Plugin manager for shell scripts
 
 ## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -356,40 +356,28 @@
 
 ### Framework Components
 
-*   [multi-auth (⭐112)](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
+*   [multi-auth (⭐113)](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
 
 ### Scheduling
 
-*   [schedule.cr (⭐72)](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
+*   [schedule.cr (⭐73)](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
 
 ## [28. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
-### Node.js / Scala
-
-*   [Cote (⭐2.3k)](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices.
-
-### PHP / Scala
-
-*   [Flight (⭐2.5k)](https://github.com/mikecao/flight) - An extensible micro-framework.
-
 ### Ruby / Scala
 
-*   [Rails API](http://edgeguides.rubyonrails.org/api_app.html) - Rails as an API only.
 *   [Sinatra](http://www.sinatrarb.com/) - Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort.
 
 ### Messaging / Scala
 
-*   [RocketMQ (⭐19k)](https://github.com/apache/incubator-rocketmq) - A low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.
+*   [RocketMQ (⭐20k)](https://github.com/apache/incubator-rocketmq) - A low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.
 
 ### Storage / Scala
 
-*   [Apache Hive](https://hive.apache.org/) - Data warehouse infrastructure built on top of Hadoop.
 *   [Apache Cassandra](http://cassandra.apache.org) - Column-oriented and providing high availability with no single point of failure.
-*   [Apache HBase](http://hbase.apache.org) - Hadoop database for big data.
 *   [Infinispan](http://infinispan.org/) - Highly concurrent key/value datastore used for caching.
-*   [InfluxDB (⭐25k)](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
+*   [InfluxDB (⭐27k)](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
 *   [OpenTSDB](http://opentsdb.net) - Scalable and distributed time series database written on top of Apache HBase.
-*   [Voldemort (⭐2.6k)](https://github.com/voldemort/voldemort) - Open source clone of Amazon DynamoDB
 
 ## [29. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
@@ -436,11 +424,11 @@
 
 ### Networking
 
-*   [Breep (⭐115)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
+*   [Breep (⭐116)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
 
 ### Miscellaneous
 
-*   [Kangaru (⭐429)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
+*   [Kangaru (⭐444)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
 
 ## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -451,7 +439,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-image-lightbox (⭐335)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
+*   [vue-image-lightbox (⭐338)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
 *   [vue2-simplert (⭐216)](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired) By Irfan Maulana
 *   [vue-model-autoset (⭐17)](https://github.com/outluch/vue-model-autoset) - A Vue.js plugin to workaround Vue limitation in observing dynamically added properties with v-model directive
 
@@ -491,7 +479,7 @@
 
 ### Go / Natural Language Processing
 
-*   [word-embedding (⭐428)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
+*   [word-embedding (⭐436)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
 
 ### Java / General-Purpose Machine Learning
 
@@ -501,7 +489,7 @@
 
 ### Open Source / Other
 
-*   [Insomnia (⭐31k)](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
+*   [Insomnia (⭐32k)](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
 
 ## [41. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -520,7 +508,7 @@
 
 ### Apps / Rich text editor extensions
 
-*   [Wagtail Medium Editor (⭐18)](https://github.com/dperetti/Django-wagtailmedium) - A customizable Medium Editor for Wagtail, with link anchors support.
+*   [Wagtail Medium Editor (⭐17)](https://github.com/dperetti/Django-wagtailmedium) - A customizable Medium Editor for Wagtail, with link anchors support.
 
 ## [43. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 

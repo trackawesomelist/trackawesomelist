@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 12, 2017
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Web Servers
 
-*   [Iodine (⭐845)](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
+*   [Iodine (⭐870)](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
 
 ## [3. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
 
@@ -57,13 +57,7 @@
 *   [C# Style Guide](https://stackoverflow.com/questions/4678178/style-guide-for-c) - StackOverflow Q & A on style guides
 *   [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) - Official MSDN C# code conventions
 
-## [8. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
-
-### Java VM / Java
-
-*   [Ja-micro (⭐620)](https://github.com/Sixt/ja-micro) - Lightweight Java framework for building microservices (compatible with go-micro).
-
-## [9. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [8. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Exploits
 

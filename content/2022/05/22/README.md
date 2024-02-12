@@ -10,7 +10,7 @@
 
 ### :books: Literature / Scientific Research
 
-*   :notebook: [Towards paving the way for large-scale Windows malware analysis: Generic binary unpacking with orders-of-magnitude performance boost](https://dl.acm.org/doi/10.1145/3243734.3243771) (October 2018)  :star:
+*   :notebook: [Towards paving the way for large-scale Windows malware analysis: Generic binary unpacking with orders-of-magnitude performance boost](https://dl.acm.org/doi/10.1145/3243734.3243771) (October 2018)  :star: :star:
 *   :newspaper: [x64Unpack: Hybrid emulation unpacker for 64-bit Windows Environments and detailed analysis results on VMProtect 3.4](https://ieeexplore.ieee.org/document/9139515) (July 2020)  :star:
 
 ### :wrench: Tools / Before 2000
@@ -28,13 +28,13 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Soketi](https://soketi.app/) - Simple, fast, and resilient open-source WebSockets server (drop-in alternative to Pusher). ([Source Code (⭐4k)](https://github.com/soketi/soketi)) `MIT` `Nodejs/Docker/K8S`
+*   [Soketi](https://soketi.app/) - Simple, fast, and resilient open-source WebSockets server (drop-in alternative to Pusher). ([Source Code (⭐4.3k)](https://github.com/soketi/soketi)) `MIT` `Nodejs/Docker/K8S`
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Matrix libraries / Third-party APIs
 
-*   [magicl (⭐219)](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [magicl (⭐223)](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [5. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -52,21 +52,21 @@
 
 ### Crates / Components
 
-*   [yew-oauth2 (⭐29)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
+*   [yew-oauth2 (⭐38)](https://github.com/ctron/yew-oauth2/) - A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.
 
 ## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Standard CLI
 
-*   [carapace-spec (⭐8)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
+*   [carapace-spec (⭐13)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
 
 ### Functional
 
-*   [valor (⭐14)](https://github.com/phelmkamp/valor) - Generic option and result types that optionally contain a value.
+*   [valor (⭐16)](https://github.com/phelmkamp/valor) - Generic option and result types that optionally contain a value.
 
 ### Goroutines
 
-*   [async-job (⭐7)](https://github.com/lab210-dev/async-job) - AsyncJob is an asynchronous queue job manager with light code, clear and speed.
+*   [async-job (⭐8)](https://github.com/lab210-dev/async-job) - AsyncJob is an asynchronous queue job manager with light code, clear and speed.
 
 ## [9. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/README.md)
 
@@ -85,7 +85,6 @@
 ### Free Beginner Red Team Path / Level 2 - Tooling
 
 *   [Tmux](https://tryhackme.com/room/rptmux) - Learn to use tmux, one of the most powerful multi-tasking tools on linux.
-*   [Nmap](https://tryhackme.com/room/rpnmap) - Get experience with Nmap, a powerful network scanning tool.
 *   [Web Scanning](https://tryhackme.com/room/rpwebscanning) - Learn the basics of automated web scanning.
 *   [Sublist3r](https://tryhackme.com/room/rpsublist3r) - Learn how to find subdomains with Sublist3r.
 *   [Metasploit](https://tryhackme.com/room/rpmetasploit) - An introduction to the main components of the Metasploit Framework.
@@ -149,7 +148,7 @@
 *   [Splunk Boss of the SOC V2](https://cyberdefenders.org/blueteam-ctf-challenges/16) - Splunk analysis vol 2.
 *   [Splunk Boss of the SOC V3](https://cyberdefenders.org/blueteam-ctf-challenges/8) - Splunk analysis vol 3.
 
-### Free Beginner Blue Team Path / Level 3 - Beginner Forensics & Cryptography
+### Free Beginner Blue Team Path / Level 3 - Beginner Forensics, Threat Intel & Cryptography
 
 *   [Martryohka doll](https://play.picoctf.org/practice/challenge/129?category=4\&page=1\&solved=0) - Beginner file analysis challenge.
 *   [Packets Primer](https://play.picoctf.org/practice/challenge/286?category=4\&page=2\&solved=0) - Beginner packet analysis challenge.
@@ -158,7 +157,6 @@
 *   [Trivial flag transfer protocol](https://play.picoctf.org/practice/challenge/103?category=4\&page=1\&solved=0) - Beginner packet analysis challenge.
 *   [What Lies within](https://play.picoctf.org/practice/challenge/74?category=4\&page=2\&solved=0) - Beginner decoding analysis challenge.
 *   [Illumination](https://app.hackthebox.com/challenges/illumination) - Medium level forensics challenge.
-*   [Bucket - Cloud Security Forensics](https://cyberdefenders.org/blueteam-ctf-challenges/84) - Medium level cloud security challenge.
 *   [Introduction to Cryptohack](https://cryptohack.org/courses/intro/course_details/) - Medium level cryptography challenge.
 
 ### Free Beginner Blue Team Path / Level 4 - Memory & Disk Forensics

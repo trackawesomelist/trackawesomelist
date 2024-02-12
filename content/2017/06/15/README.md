@@ -32,7 +32,7 @@
 
 ### Table of Contents / Caching and Locking
 
-*   [APIx Cache (⭐110)](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasising cache tagging and indexing.
+*   [APIx Cache (⭐116)](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasizing cache tagging and indexing.
 
 ## [4. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -45,7 +45,7 @@
 
 ### For Electron / Other
 
-*   [electron-store (⭐4.2k)](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc.
+*   [electron-store (⭐4.3k)](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

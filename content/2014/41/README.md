@@ -45,11 +45,11 @@
 *   [Jansson (⭐2.9k)](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data. \[MIT]
 *   [jbson (⭐39)](https://github.com/chrismanning/jbson) - jbson is a library for building & iterating BSON data, and JSON documents in C++14. \[Boost]
 *   [JeayeSON (⭐129)](https://github.com/jeaye/jeayeson) - A very sane (header only) C++ JSON library. \[BSD]
-*   [JSON++ (⭐526)](https://github.com/hjiang/jsonxx) - A JSON parser in C++. \[MIT]
+*   [JSON++ (⭐534)](https://github.com/hjiang/jsonxx) - A JSON parser in C++. \[MIT]
 *   [json11 (⭐2.5k)](https://github.com/dropbox/json11) - A tiny JSON library for C++11. \[MIT]
-*   [libjson (⭐268)](https://github.com/vincenthz/libjson) - A JSON parser and printer library in C. easy to integrate with any model. \[LGPL]
+*   [libjson (⭐270)](https://github.com/vincenthz/libjson) - A JSON parser and printer library in C. easy to integrate with any model. \[LGPL]
 *   [PicoJSON (⭐1.1k)](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++. \[BSD]
-*   [qt-json (⭐316)](https://github.com/gaudecker/qt-json) - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. \[GPLv3]
+*   [qt-json (⭐318)](https://github.com/gaudecker/qt-json) - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. \[GPLv3]
 
 ### Networking
 
@@ -57,7 +57,7 @@
 
 ### Serialization
 
-*   [FlatBuffers (⭐21k)](https://github.com/google/flatbuffers) - A Memory efficient serialization library. \[Apache2]
+*   [FlatBuffers (⭐22k)](https://github.com/google/flatbuffers) - A Memory efficient serialization library. \[Apache2]
 
 ### Talks
 
@@ -79,8 +79,8 @@
 
 ### Other Awesome Projects
 
-*   [lists (⭐9.2k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
-*   [free-programming-books (⭐300k)](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
+*   [lists (⭐9.4k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
+*   [free-programming-books (⭐311k)](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 
 ## [4. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
@@ -98,7 +98,7 @@
 
 ### General
 
-*   [slacko (⭐74)](https://github.com/Leonidas-from-XIV/slacko) – A neat interface for Slack in OCaml.
+*   [slacko (⭐81)](https://github.com/Leonidas-from-XIV/slacko) – A neat interface for Slack in OCaml.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Sliders / Runner
 
-*   [reveal.js (⭐65k)](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
+*   [reveal.js (⭐66k)](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
 
 ## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -119,7 +119,7 @@
 
 ### Packages / Natural language processing
 
-*   [franc (⭐3.9k)](https://github.com/wooorm/franc) - Detect the language of text.
+*   [franc (⭐4k)](https://github.com/wooorm/franc) - Detect the language of text.
 
 ## [9. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 

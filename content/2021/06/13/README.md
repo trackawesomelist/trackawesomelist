@@ -25,11 +25,11 @@
 ### Libraries / Computation
 
 *   Statrs
-    *   [statrs-dev/statrs (⭐456)](https://github.com/statrs-dev/statrs) — Robust statistical computation library in Rust
+    *   [statrs-dev/statrs (⭐479)](https://github.com/statrs-dev/statrs) — Robust statistical computation library in Rust
 
 ### Libraries / Cryptography
 
-*   [klutzy/suruga (⭐122)](https://github.com/klutzy/suruga) — A Rust implementation of [TLS 1.2](https://datatracker.ietf.org/doc/html/rfc5246)
+*   [klutzy/suruga (⭐123)](https://github.com/klutzy/suruga) — A Rust implementation of [TLS 1.2](https://datatracker.ietf.org/doc/html/rfc5246)
 
 ## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -54,7 +54,7 @@
 ### Resources / Offical
 
 *   [Documentation](https://docs.directus.io/getting-started/introduction/)
-*   [GitHub Repository (⭐23k)](https://github.com/directus/directus)
+*   [GitHub Repository (⭐25k)](https://github.com/directus/directus)
 *   [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
 
 ## [5. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
@@ -67,7 +67,7 @@
 
 ### Table of Contents / Code Analysis
 
-*   [GrumPHP (⭐3.8k)](https://github.com/phpro/grumphp) - A PHP code-quality tool.
+*   [GrumPHP (⭐4.1k)](https://github.com/phpro/grumphp) - A PHP code-quality tool.
 
 ### Table of Contents / Search
 
@@ -77,7 +77,7 @@
 
 ### Libraries / New Libraries
 
-*   [exojax (⭐36)](https://github.com/HajimeKawahara/exojax) - Automatic differentiable spectrum modeling of exoplanets/brown dwarfs compatible to JAX. <img src="https://img.shields.io/github/stars/HajimeKawahara/exojax?style=social" align="center">
+*   [exojax (⭐37)](https://github.com/HajimeKawahara/exojax) - Automatic differentiable spectrum modeling of exoplanets/brown dwarfs compatible to JAX. <img src="https://img.shields.io/github/stars/HajimeKawahara/exojax?style=social" align="center">
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

@@ -62,7 +62,7 @@
 
 ### Editors / Runner
 
-*   [TinyMCE (⭐13k)](https://github.com/tinymce/tinymce) - The JavaScript Rich Text editor.
+*   [TinyMCE (⭐14k)](https://github.com/tinymce/tinymce) - The JavaScript Rich Text editor.
 
 ## [8. Awesome R](/content/qinwf/awesome-R/README.md)
 

@@ -52,7 +52,7 @@
 
 ### Packages / Mad science
 
-*   [ipfs (⭐7.5k)](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
+*   [ipfs (⭐7.4k)](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
 
 ### Packages / Command-line utilities
 
@@ -76,16 +76,16 @@
 
 ### Packages / Compression
 
-*   [Archiver (⭐2.6k)](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
+*   [Archiver (⭐2.7k)](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
 
 ### Packages / Testing
 
-*   [Sinon.JS (⭐9.4k)](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks.
+*   [Sinon.JS (⭐9.5k)](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks.
 
 ### Packages / Minifiers
 
-*   [minimize (⭐162)](https://github.com/Swaagie/minimize) - HTML minifier.
-*   [imagemin (⭐5.4k)](https://github.com/imagemin/imagemin) - Image minifier.
+*   [minimize (⭐164)](https://github.com/Swaagie/minimize) - HTML minifier.
+*   [imagemin (⭐5.5k)](https://github.com/imagemin/imagemin) - Image minifier.
 
 ### Packages / Node.js management
 

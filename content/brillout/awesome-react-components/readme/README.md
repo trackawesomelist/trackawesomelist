@@ -148,7 +148,7 @@ Please review our [contributing guidelines (⭐39k)](https://github.com/brillout
 *   [AG Grid (⭐11k)](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
 *   [gigatables-react (⭐140)](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
 *   [MUI X Data grid (⭐3.3k)](https://github.com/mui/mui-x) - [demo/docs](https://mui.com/x/react-data-grid/) - Fast and customizable data grid with advanced features for power users and complex use cases.
-*   [react-data-grid (⭐6.4k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
+*   [react-data-grid (⭐6.5k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
 *   [revo-grid (⭐2.6k)](https://github.com/revolist/revogrid) - [demo/docs](https://revolist.github.io/revogrid/) - Powerfull Data Grid for React / AngularJS / Vue / Web Components with advanced customization.
 *   [ReactGrid (⭐968)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
 *   [jqwidgets-react-grid](https://www.jqwidgets.com/react/react-grid/) - Filtering, Pagination, Grouping, Export to Excel, PDF, CRUD and more.
@@ -185,12 +185,12 @@ Please review our [contributing guidelines (⭐39k)](https://github.com/brillout
 
 ### Infinite Scroll
 
-*   [@egjs/react-infinitegrid (⭐1.8k)](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid) - [npm](https://www.npmjs.com/package/@egjs/react-infinitegrid) - [demo](https://naver.github.io/egjs-infinitegrid/storybook/) - A module used to arrange card elements including content infinitely according to various layout types.
+*   [@egjs/react-infinitegrid (⭐1.9k)](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid) - [npm](https://www.npmjs.com/package/@egjs/react-infinitegrid) - [demo](https://naver.github.io/egjs-infinitegrid/storybook/) - A module used to arrange card elements including content infinitely according to various layout types.
 *   [react-lazyload (⭐5.8k)](https://github.com/jasonslyvia/react-lazyload) - Lazyload your Component, Image or anything else where the performance matters.
 *   [react-list (⭐1.9k)](https://github.com/orgsync/react-list) - A versatile infinite scroll React component.
 *   [@af-utils/virtual (⭐70)](https://github.com/nowaalex/af-utils) - [demo/docs](https://af-utils.vercel.app/virtual) - Render large scrollable lists and grids.
 *   [react-window (⭐15k)](https://github.com/bvaughn/react-window) - [demo](https://react-window.now.sh/) - React components for efficiently rendering large lists and tabular data
-*   [virtua (⭐742)](https://github.com/inokawa/virtua) - [demo](https://inokawa.github.io/virtua/) - Simple, fast, small and flexible virtual scroller.
+*   [virtua (⭐795)](https://github.com/inokawa/virtua) - [demo](https://inokawa.github.io/virtua/) - A zero-config, fast and small (\~3kB) virtual list component for React, Vue and Solid.
 
 ### Overlay
 
@@ -227,7 +227,7 @@ Please review our [contributing guidelines (⭐39k)](https://github.com/brillout
 *   [hamburger-react (⭐862)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
 *   [react-burger-menu (⭐5k)](https://github.com/negomi/react-burger-menu) - An off-canvas sidebar with effects and styles.
 *   [react-offcanvas (⭐48)](https://github.com/vutran/react-offcanvas) - Off-canvas menus for React.
-*   [react-planet (⭐162)](https://github.com/innFactory/react-planet) - [demo](https://innfactory.github.io/react-planet/) - Create circular menus which looks like planets.
+*   [react-planet (⭐164)](https://github.com/innFactory/react-planet) - [demo](https://innfactory.github.io/react-planet/) - Create circular menus which looks like planets.
 *   [mantine-contextmenu (⭐92)](https://github.com/icflorescu/mantine-contextmenu) - [demo/docs](https://icflorescu.github.io/mantine-contextmenu/) - Context-menu hook/component for applications built with Mantine UI.
 
 ### Sticky
@@ -314,7 +314,7 @@ Please review our [contributing guidelines (⭐39k)](https://github.com/brillout
 *Display a tree data structure*
 
 *   [react-arborist (⭐2.6k)](https://github.com/brimdata/react-arborist) - [demo](https://react-arborist.netlify.app/) - A Full-Featured Tree View: headless, virtualized, multi-selectable, drag-n-drop, keyboard navigation, search
-*   [react-complex-tree (⭐697)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
+*   [react-complex-tree (⭐715)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
 *   [react-treeview (⭐1.1k)](https://github.com/chenglou/react-treeview) - Easy, light, flexible tree view made with React.
 
 ### UI Navigation
@@ -504,7 +504,7 @@ Please review our [contributing guidelines (⭐39k)](https://github.com/brillout
 
 #### Toggle
 
-*   [@anatoliygatt/heart-switch (⭐435)](https://github.com/anatoliygatt/heart-switch) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-heart-switch-cds5p) - A fully themeable and accessible heart-shaped toggle switch component.
+*   [@anatoliygatt/heart-switch (⭐437)](https://github.com/anatoliygatt/heart-switch) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-heart-switch-cds5p) - A fully themeable and accessible heart-shaped toggle switch component.
 *   [react-ios-switch (⭐128)](https://github.com/clari/react-ios-switch) - React switch component.
 *   [react-toggle (⭐944)](https://github.com/instructure-react/react-toggle) - An elegant, accessible toggle component for React. Also a glorified checkbox.
 *   [ui-switch (⭐4)](https://github.com/yairEO/ui-switch) - The most complete *Toggle* component
@@ -673,7 +673,7 @@ Please review our [contributing guidelines (⭐39k)](https://github.com/brillout
 ### Parallax
 
 *   [react-parallax-component (⭐162)](https://github.com/keske/react-parallax-component) - Easiest way to add scroll parallax effect on the component.
-*   [react-parallax-tilt (⭐852)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
+*   [react-parallax-tilt (⭐869)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
 
 ## UI Frameworks
 
@@ -704,7 +704,7 @@ Please review our [contributing guidelines (⭐39k)](https://github.com/brillout
 *   [radix-ui](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems and web apps.
 *   [react-bootstrap (⭐22k)](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React.
 *   [react-foundation (⭐601)](https://github.com/digiaonline/react-foundation) - Foundation as React components.
-*   [reakit (⭐7.4k)](https://github.com/ariakit/ariakit) - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
+*   [reakit (⭐7.5k)](https://github.com/ariakit/ariakit) - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
 *   [searchkit (⭐4.7k)](https://github.com/searchkit/searchkit) - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
 *   [semantic-ui-react (⭐13k)](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration.
 *   [semi-design (⭐7.6k)](https://github.com/DouyinFE/semi-design) - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system.
@@ -712,7 +712,7 @@ Please review our [contributing guidelines (⭐39k)](https://github.com/brillout
 
 #### Material Design
 
-*   🚀 [Material UI (⭐90k)](https://github.com/mui/material-ui) - Full suite of components. Build your own design system, or start with Material Design.
+*   🚀 [Material UI (⭐91k)](https://github.com/mui/material-ui) - Full suite of components. Build your own design system, or start with Material Design.
     *   [Autocomplete](https://mui.com/material-ui/react-autocomplete/) - Accessible autocomplete, combobox, multiselect
     *   [Material Icons](https://mui.com/material-ui/material-icons/) - 1,000+ SVG material icons.
     *   [Modal](https://mui.com/material-ui/react-modal/) - Accessible modal dialog component.
@@ -736,7 +736,7 @@ Please review our [contributing guidelines (⭐39k)](https://github.com/brillout
 *   [dataminr-react-components](https://github.com/dataminr/react-components) - Collection of reusable React Components and utility functions.
 *   [shards-react (⭐755)](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
 *   [aframe-react (⭐1.4k)](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
-*   [react-admin (⭐23k)](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
+*   [react-admin (⭐24k)](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
 *   [refine (⭐20k)](https://github.com/pankod/refine) - [demo](https://example.refine.dev) - [docs](https://refine.dev/docs) - Build data-intensive applications in no time. It ships with Ant Design System, an enterprise-level UI toolkit.
 *   [matrix-card (⭐21)](https://github.com/MehmetKaplan/matrix-card) - [demo](https://mehmetkaplan.github.io/matrix-card/) - Simplest possible component to generate matrix rain style cards.
 *   [rsuite (⭐8k)](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - Suite of components for "enterprise system products".
@@ -837,7 +837,7 @@ Please review our [contributing guidelines (⭐39k)](https://github.com/brillout
 *   [reselect (⭐19k)](https://github.com/reactjs/reselect) - Selector library for Redux.
 *   [resourcerer (⭐80)](https://github.com/SiftScience/resourcerer) - Declarative data-fetching framework for REST APIs
 *   [synergies (⭐9)](https://github.com/lukasbach/synergies) - [docs](https://synergies.js.org) A performant and distributed context-state library for creating reusable React state logic by synergyzing atomar context pieces.
-*   [zustand](https://zustand.surge.sh/) - [docs (⭐39k)](https://github.com/pmndrs/zustand) - A fast bearbones state-management solution using simplified flux principles and boilerplate-free hook api.
+*   [zustand](https://zustand.surge.sh/) - [docs (⭐40k)](https://github.com/pmndrs/zustand) - A fast bearbones state-management solution using simplified flux principles and boilerplate-free hook api.
 *   [teaful (⭐698)](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management
 
 ### Form Logic
@@ -846,13 +846,13 @@ Please review our [contributing guidelines (⭐39k)](https://github.com/brillout
 *   [formik (⭐33k)](https://github.com/jaredpalmer/formik) - Build forms without tears and supports Validation in ease.
 *   [formsy-react (⭐764)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
 *   [Phormal (⭐3)](https://github.com/phormal/phormal) - [Docs & Demos](https://phormal.dev/getting-started/react) - Responsive, multilingual forms with built-in validation, support for dark mode and right-to-left languages.
-*   [react-hook-form (⭐38k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
+*   [react-hook-form (⭐39k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
 *   [react-jsonschema-form (⭐13k)](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSONSchema.
 *   [react-client-validation (⭐4)](https://github.com/0529bill/react-client-validation) - Simple and super lightweight validation for React.
 *   [react-final-form (⭐7.3k)](https://github.com/final-form/react-final-form) - Subscription-based form state management
 *   [react-formawesome (⭐6)](https://github.com/MAKARD/react-formawesome) - Complex library for creating awesome forms.
 *   [surveyjs (⭐3.8k)](https://github.com/surveyjs/survey-library) - The advanced Survey and Form library
-*   [Formily (⭐10k)](https://github.com/alibaba/formily) - High performance, extensible, and Typescript friendly
+*   [Formily (⭐11k)](https://github.com/alibaba/formily) - High performance, extensible, and Typescript friendly
 
 ### Router
 
@@ -861,8 +861,8 @@ Please review our [contributing guidelines (⭐39k)](https://github.com/brillout
 *   [react-router (⭐52k)](https://github.com/reactjs/react-router) - A complete routing library for React.
 *   [redux-first-history (⭐423)](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
 *   [universal-router (⭐1.7k)](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps.
-*   [wouter (⭐5.8k)](https://github.com/molefrog/wouter) - A minimalist-friendly \~1.3KB routing library. Nothing else but hooks.
-*   [tanstack-router (⭐6.1k)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
+*   [wouter (⭐5.9k)](https://github.com/molefrog/wouter) - A minimalist-friendly \~1.3KB routing library. Nothing else but hooks.
+*   [tanstack-router (⭐6.5k)](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
 ### Props from server
 
@@ -944,12 +944,12 @@ Please review our [contributing guidelines (⭐39k)](https://github.com/brillout
 
 *Internationalization / L10n / localization / translation*
 
-*   [react-i18next (⭐8.7k)](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
+*   [react-i18next (⭐8.8k)](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
 *   [react-intl (⭐14k)](https://github.com/yahoo/react-intl) - Internationalize React apps.
 *   [react-localized (⭐9)](https://github.com/fakundo/react-localized) - Internationalization for React components based on `gettext` format.
 *   [react-translate-maker (⭐35)](https://github.com/CherryProjects/react-translate-maker) - Universal internationalization (i18n) open source library for React.
 *   [react-intl-universal (⭐1.3k)](https://github.com/alibaba/react-intl-universal) - [demo](https://g.alicdn.com/alishu/common/0.0.95/intl-example/index.html) Internationalize React apps. Not only for React.Component but also for Vanilla JS.
-*   [@tolgee/react (⭐207)](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
+*   [@tolgee/react (⭐208)](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
 *   [js-lingui (⭐4.1k)](https://github.com/lingui/js-lingui) - [docs](https://lingui.js.org) – A readable, automated, and optimized (5 kb) internationalization for JavaScript.
 
 ### Framework bindings / integrations
@@ -1061,7 +1061,7 @@ Please review our [contributing guidelines (⭐39k)](https://github.com/brillout
 
 **[`Back to top ⬆️`](#table-of-contents)**
 
-*   [DataFormsJS JSX Loader (⭐175)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
+*   [DataFormsJS JSX Loader (⭐176)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
 *   [html-to-react-components (⭐2.1k)](https://github.com/roman01la/html-to-react-components) - Extract annotated portions of HTML into React components as separate modules.
 *   [htmltojsx (⭐937)](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React. It's magic!.
 *   [jsonx (⭐164)](https://github.com/repetere/jsonx) - React JSON Syntax.

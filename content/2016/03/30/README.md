@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 30, 2016
 
-10 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,15 +22,9 @@
 
 ### Table of Contents / Event
 
-*   [Prooph Event Store (⭐531)](https://github.com/prooph/event-store) - An event source component to persist event messages
+*   [Prooph Event Store (⭐548)](https://github.com/prooph/event-store) - An event source component to persist event messages
 
-## [4. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
-
-### Frameworks / Runtimes
-
-*   [Lagom (⭐2.6k)](https://github.com/lagom/lagom) - Reactive microservices for the JVM.
-
-## [5. Awesome Promises](/content/wbinnssmith/awesome-promises/README.md)
+## [4. Awesome Promises](/content/wbinnssmith/awesome-promises/README.md)
 
 ### Resources, Blogs, and Books / Deep Dive
 
@@ -44,35 +38,29 @@
 
 *   [promise-semaphore (⭐29)](https://github.com/samccone/promise-semaphore) - Push a set of work to be done in a configurable serial fashion
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Virtualization
 
 *   [saurvs/hypervisor-rs (⭐59)](https://github.com/saurvs/hypervisor-rs) — Hardware-accelerated virtualization on OS X
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Vue.js Introduction Turkish Language](http://oguzhan.in/vue-js-ile-uygulama-gelistirme/) on oguzhan.in
 
-## [8. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
-
-### Programming / JavaScript
-
-*   [We Work Meteor](https://www.weworkmeteor.com/)
-
-## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Bundlers
 
 *   [Rollup (⭐24k)](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
 
-## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Bittorrent
 
-*   [bento (⭐87)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
+*   [bento (⭐88)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
 
 ### Email
 

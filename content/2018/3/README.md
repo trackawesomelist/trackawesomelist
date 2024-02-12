@@ -39,7 +39,7 @@
 
 ### Playgrounds
 
-*   [Script Debugger (⭐21)](https://github.com/kallewoof/btcdeb)
+*   [Script Debugger (⭐30)](https://github.com/kallewoof/btcdeb)
 
 ## [4. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
@@ -74,7 +74,7 @@
 
 ### GTFS Realtime (and Other Real-time API) Archival Tools / Ruby
 
-*   [retro-gtfs (⭐49)](https://github.com/SAUSy-Lab/retro-gtfs) - A Python application that collects real-time data from the Nextbus API and archives it into the GTFS format (i.e., retrospective GTFS).
+*   [retro-gtfs (⭐50)](https://github.com/SAUSy-Lab/retro-gtfs) - A Python application that collects real-time data from the Nextbus API and archives it into the GTFS format (i.e., retrospective GTFS).
 
 ## [8. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Monitoring & Quality Control
 
-*   [SilentJack (⭐22)](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK.
+*   [SilentJack (⭐21)](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK.
 
 ## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -230,7 +230,7 @@
 
 ### Date / Runner
 
-*   [date-fns (⭐32k)](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
+*   [date-fns (⭐33k)](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
 
 ## [20. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -277,8 +277,8 @@
 
 ### Related lists
 
-*   [Awesome Music Listening (⭐105)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
-*   [Awesome sheet music (⭐644)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
+*   [Awesome Music Listening (⭐106)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
+*   [Awesome sheet music (⭐660)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
 
 ## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -288,7 +288,7 @@
 
 ### Gesture
 
-*   [ShowTime (⭐485)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
+*   [ShowTime (⭐487)](https://github.com/KaneCheshire/ShowTime) - Show off your iOS taps and gestures for demos and videos with just one line of code.
 
 ### UICollectionView / Barcode
 
@@ -298,7 +298,7 @@
 
 ### Image Processing
 
-*   [ruby-vips (⭐792)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
+*   [ruby-vips (⭐804)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
 
 ## [24. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -320,13 +320,34 @@
 
 *   [Oven (⭐141)](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
 
-## [26. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
+## [26. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+
+### To third parties
+
+*   [cl-influxdb (⭐22)](https://github.com/mmaul/cl-influxdb/) - an interface to the Time Series Database InfluxDB. [MIT](https://opensource.org/licenses/MIT).
+
+### Miscellaneous
+
+*   [opticl (⭐179)](https://github.com/slyrus/opticl) - a library for representing and processing images. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+
+### Readline, ncurses and other graphical helpers / Third-party APIs
+
+*   [cl-charms (⭐146)](https://github.com/HiTECNOLOGYs/cl-charms) - an
+    interface to `libcurses` in Common Lisp. It provides both a raw,
+    low-level interface to libcurses via CFFI, and a more higher-level
+    lispier interface. [MIT](https://opensource.org/licenses/MIT).
+
+### Apps / Third-party APIs
+
+*   [lake (⭐84)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
+
+## [27. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
 
 ### Calculator apps: / Cross-Platform
 
 *   [mdlt (⭐146)](https://github.com/metadelta/mdlt) - Command-line utility for quick math.
 
-## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [28. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Perl SDK
 
@@ -337,36 +358,11 @@
 
 *   [ttlequals0/autovpn :fire::fire::fire::fire: (⭐2k)](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints.
 
-## [28. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [29. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
-*   [Awesome Threat Detection and Hunting (⭐3k)](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
-
-## [29. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
-
-### To third parties
-
-*   [cl-influxdb (⭐22)](https://github.com/mmaul/cl-influxdb/) - an interface to the Time Series Database InfluxDB. [MIT](https://opensource.org/licenses/MIT).
-
-### Miscellaneous
-
-*   [opticl (⭐175)](https://github.com/slyrus/opticl) - a library for representing and processing images. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
-
-### Readline, ncurses and other graphical helpers / Third-party APIs
-
-*   [cl-charms (⭐139)](https://github.com/HiTECNOLOGYs/cl-charms) - an
-    interface to `libcurses` in Common Lisp. It provides both a raw,
-    low-level interface to libcurses via CFFI, and a more higher-level
-    lispier interface. [MIT](https://opensource.org/licenses/MIT).
-
-### REPLs / Third-party APIs
-
-*   [cl-repl (⭐139)](https://github.com/koji-kojiro/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [MIT](https://opensource.org/licenses/MIT). With [colorthemes (⭐12)](https://github.com/koji-kojiro/lem-pygments-colorthemes).
-
-### Apps / Third-party APIs
-
-*   [lake (⭐82)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
+*   [Awesome Threat Detection and Hunting (⭐3.1k)](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
 
 ## [30. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -515,11 +511,11 @@
 
 ### Frameworks
 
-*   [Yomm2 (⭐310)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐116)](https://github.com/jll63/yomm11) \[Boost]
+*   [Yomm2 (⭐313)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 (⭐116)](https://github.com/jll63/yomm11) \[Boost]
 
 ### Graphics
 
-*   [magnum (⭐4.5k)](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. \[MIT] [website](http://magnum.graphics)
+*   [magnum (⭐4.6k)](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. \[MIT] [website](http://magnum.graphics)
 
 ## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -533,7 +529,7 @@
 
 ### Text and Numbers
 
-*   [nanoid (⭐194)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
+*   [nanoid (⭐197)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
 
 ## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

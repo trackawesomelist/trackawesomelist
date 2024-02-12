@@ -59,8 +59,8 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [LDA.js (⭐283)](https://github.com/primaryobjects/lda) - LDA topic modelling for Node.js
-*   [Node-SVM (⭐296)](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for Node.js
+*   [LDA.js (⭐288)](https://github.com/primaryobjects/lda) - LDA topic modelling for Node.js
+*   [Node-SVM (⭐297)](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for Node.js
 
 ### JavaScript / Misc
 
@@ -68,13 +68,13 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Machine Learning Module (⭐455)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
+*   [Machine Learning Module (⭐460)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
 
 ## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Standalone / Hash functions
 
-*   [Nipe (⭐1.6k)](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
+*   [Nipe (⭐1.8k)](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 
 ## [8. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

@@ -22,20 +22,20 @@
 
 ### Community
 
-*   [GitHub (⭐13k)](https://github.com/lit/lit)
-*   [GitHub Discussions (⭐13k)](https://github.com/lit/lit/discussions)
+*   [GitHub (⭐17k)](https://github.com/lit/lit)
+*   [GitHub Discussions (⭐17k)](https://github.com/lit/lit/discussions)
 *   [Twitter](https://twitter.com/buildWithLit)
 *   [Slack](https://lit.dev/slack-invite/)
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/lit+or+lit-html+or+lit-element)
 
 ### Starter Templates
 
-*   [LitElement JavaScript starter (⭐140)](https://github.com/lit/lit-element-starter-js) - Sample component using LitElement with JavaScript.
-*   [LitElement TypeScript starter (⭐339)](https://github.com/lit/lit-element-starter-ts) - Sample component using LitElement with TypeScript.
-*   [hello-web-components (⭐16)](https://github.com/fernandopasik/hello-web-components) - Simple starter web component written in TypeScript using Lit.
+*   [LitElement JavaScript starter (⭐168)](https://github.com/lit/lit-element-starter-js) - Sample component using LitElement with JavaScript.
+*   [LitElement TypeScript starter (⭐452)](https://github.com/lit/lit-element-starter-ts) - Sample component using LitElement with TypeScript.
+*   [hello-web-components (⭐23)](https://github.com/fernandopasik/hello-web-components) - Simple starter web component written in TypeScript using Lit.
 *   [Open Web Components Generator](https://open-wc.org/docs/development/generator/) - Starter app based on Open Web Components Recommendations.
-*   [pwa-starter (⭐767)](https://github.com/pwa-builder/pwa-starter) - LitElement edition of the PWABuilder pwa-starter.
-*   [pwa-lit-template (⭐149)](https://github.com/IBM/pwa-lit-template) - Build Progressive Web Applications following the modern web standards.
+*   [pwa-starter (⭐1.1k)](https://github.com/pwa-builder/pwa-starter) - LitElement edition of the PWABuilder pwa-starter.
+*   [pwa-lit-template (⭐175)](https://github.com/IBM/pwa-lit-template) - Build Progressive Web Applications following the modern web standards.
 
 ### Codelabs
 
@@ -66,7 +66,7 @@
 
 ### Component Libraries
 
-*   [Wired Elements (⭐9.2k)](https://github.com/rough-stuff/wired-elements) - Collection of elements that appear hand drawn.
+*   [Wired Elements (⭐9.6k)](https://github.com/rough-stuff/wired-elements) - Collection of elements that appear hand drawn.
 
 ### CDN / Other Tools
 
@@ -124,23 +124,19 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-progress (⭐23)](https://github.com/marcoschulte/vue3-progress) - Fully customizable vue3 plugin to display a progress bar while waiting for something, e.g. http requests
+*   [vue3-progress (⭐24)](https://github.com/marcoschulte/vue3-progress) - Fully customizable vue3 plugin to display a progress bar while waiting for something, e.g. http requests
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - IRC
 
-*   [UnrealIRCd](https://www.unrealircd.org/) - Modular, advanced and highly configurable IRC server written in C for Linux, BSD, Windows, and macOS. ([Source Code (⭐388)](https://github.com/unrealircd/unrealircd)) `GPL-2.0` `C`
+*   [UnrealIRCd](https://www.unrealircd.org/) - Modular, advanced and highly configurable IRC server written in C for Linux, BSD, Windows, and macOS. ([Source Code (⭐391)](https://github.com/unrealircd/unrealircd)) `GPL-2.0` `C`
 
 ### List of Licenses / Wikis
 
 *   `BSD-4-Clause` - [BSD 4-clause "Original"](https://spdx.org/licenses/BSD-4-Clause.html)
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### APIs, Data, and ML
-
-*   [DynaPictures](https://dynapictures.com) - A design automation tool that lets you dynamically generate images over REST API. Change colors, texts, logos, and images on the fly. The free plan includes 30 generated images per month and three image templates.
 
 ### Tools for Teams and Collaboration
 

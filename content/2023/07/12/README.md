@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 12, 2023
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,53 +18,39 @@
 
 *   [An overview of multi-agent reinforcement learning from game theoretical perspective](https://arxiv.org/pdf/2011.00583.pdf) - 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=16197919002723407603\&hl=en\&as_sdt=0,5)]. Yaodong Yang's review on multi-agent reinforcement learning from the perspective of game theory.
 
-## [3. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
-
-### Creative Technology
-
-- Name: [**Art Processors**](https://www.artprocessors.net)
-
-  Locations: \[Melbourne] \[NYC]
-
-  Keywords: partner with cultural and tourism organisations to invent new realities of human experience
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.artprocessors.net)
-
-
-
-## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Articles / Others
 
 *   [ASP.NET Core updates in .NET 8 Preview 6](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-6/) - July 11, 2023 - .NET 8 Preview 6 is now available and includes many great new improvements to ASP.NET Core. Here’s a summary of what’s new in this preview release: Form model binding & validation with server-side rendering, Enhanced page navigation & form handling, Preserve existing DOM elements with streaming rendering, Interactive rendering with Blazor WebAssembly and more.
 
-## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Messaging
 
-*   [Novu](https://novu.co/) - Open-source notification (Email, SMS, Direct, and Push) management. ![Novu](https://img.shields.io/github/contributors-anon/novuhq/novu?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)
+*   [Novu](https://novu.co/) - Open-source notification (Email, SMS, Direct, and Push) management. [![Novu](https://img.shields.io/github/stars/novuhq/novu?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/novuhq/novu)
 
-## [6. Awesome V](/content/vlang/awesome-v/README.md)
+## [5. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Editors
 
 *   [polygon-editor (⭐6)](https://github.com/ArtemkaKun/polygon-editor) - A tool to create and edit 2D polygons with sprite lookup, created in V.
 
-## [7. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [6. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Display / Fonts
 
-*   [packed-font (⭐3)](https://github.com/mark-gladding/packed-font) -  Memory efficient MicroPython fonts for the Pico Pi and SSD1306 OLED Display.
+*   [packed-font (⭐4)](https://github.com/mark-gladding/packed-font) -  Memory efficient MicroPython fonts for the Pico Pi and SSD1306 OLED Display.
 
 ### Motion / Servo
 
-*   [MicroPython\_PCA9685 (⭐1)](https://github.com/jposada202020/MicroPython_PCA9685) - MicroPython Driver for the PCA9685 PWM control IC, commonly used to control servos, LEDs and motors.
+*   [MicroPython\_PCA9685 (⭐2)](https://github.com/jposada202020/MicroPython_PCA9685) - MicroPython Driver for the PCA9685 PWM control IC, commonly used to control servos, LEDs and motors.
 
 ### IDEs / SRAM
 
 *   [uPIDE (⭐17)](https://github.com/harbaum/upide) - µPIDE is a simple IDE for MicroPython.
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -78,14 +64,14 @@
 
 *   [Tiles](https://freemacsoft.net/tiles/) - Easily reorganize windows by either dragging them to the edges of the screen, using keyboard shortcuts, or the menu bar. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [9. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [8. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Apps
 
 *   [Taxonomy (⭐16k)](https://github.com/shadcn/taxonomy) - An example app built using Next.js 13 server components.
 *   [shadcn/ui (⭐33k)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 
-## [10. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+## [9. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
@@ -101,22 +87,22 @@
 *   [GNUnet](https://gnunet.org): GNUnet is a network protocol stack for building secure, distributed, and privacy-preserving applications. The Internet of tomorrow needs GNUnet today.
 *   [Gun (⭐17k)](https://github.com/amark/gun): A cybersecurity protocol for syncing decentralized graph data; GUN is an ecosystem of tools that let you build community run and encrypted applications - like an Open Source Firebase or a Decentralized Dropbox.
 
-## [11. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
+## [10. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### 📁 Recipes / 🌱 Third Party
 
 *   [alpody/golang-fiber-realworld-example-app (⭐78)](https://github.com/alpody/golang-fiber-realworld-example-app) - Example real world backend API built with Fiber, Gorm, Swagger.
 
-## [12. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [11. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Admin
 
-*   [FastAPI Amis Admin (⭐602)](https://github.com/amisadmin/fastapi-amis-admin) - A high-performance, efficient and easily extensible FastAPI admin framework.
+*   [FastAPI Amis Admin (⭐734)](https://github.com/amisadmin/fastapi-amis-admin) - A high-performance, efficient and easily extensible FastAPI admin framework.
 
 ### Open Source Projects / Other Tools
 
-*   [FastAPI with Observability (⭐218)](https://github.com/Blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
-*   [Markdown-Videos (⭐31)](https://github.com/Snailedlt/Markdown-Videos) - API for generating thumbnails to embed into your markdown content.
+*   [FastAPI with Observability (⭐325)](https://github.com/Blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
+*   [Markdown-Videos (⭐43)](https://github.com/Snailedlt/Markdown-Videos) - API for generating thumbnails to embed into your markdown content.
 
 ---
 

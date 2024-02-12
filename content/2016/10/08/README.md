@@ -10,7 +10,7 @@
 
 ### ACL
 
-*   [PhalconUserPlugin (⭐185)](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea
+*   [PhalconUserPlugin (⭐184)](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea
 
 ## [2. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Web Technologies and Services
 
-*   [plumber (⭐1.3k)](https://github.com/trestletech/plumber) - A library to expose existing R code as web API.
+*   [plumber (⭐1.4k)](https://github.com/trestletech/plumber) - A library to expose existing R code as web API.
 
 ---
 

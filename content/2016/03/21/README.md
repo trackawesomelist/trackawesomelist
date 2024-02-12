@@ -10,7 +10,7 @@
 
 ### Configuration / Infrastructure
 
-*   [php-pm (⭐6.4k)](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
+*   [php-pm (⭐6.5k)](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
 
 ## [2. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Packages / Libraries
 
-*   [Wavesurfer.js (⭐7.6k)](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas.
+*   [Wavesurfer.js (⭐7.9k)](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas.
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

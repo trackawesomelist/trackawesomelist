@@ -1,18 +1,12 @@
 # Awesome List Updates on Oct 02, 2019
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
-
-### Internet and Networking
-
-*   [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
-
-## [2. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [1. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Frameworks
 
@@ -22,13 +16,13 @@
 
 *   [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
 
-## [3. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [2. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Tech / United Kingdom
 
 *   [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking and real-time job vacancy statistics.
 
-## [4. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
+## [3. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
 
 ### Resources / Toolkits and Frameworks
 
@@ -46,7 +40,7 @@
 *   [Game of Life (⭐5)](https://github.com/taw/imba-game-of-life) - [view online](https://taw.github.io/imba-game-of-life) - Game of life.
 *   [Quote Machine (⭐1)](https://github.com/taw/imba-quote-machine) - [view online](https://taw.github.io/imba-quote-machine) - App that generates random quotes.
 
-## [5. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [4. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Party
 
@@ -71,7 +65,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 | ------: | -------: | ---: |
 |   2 - 8 |       14 |  15m |
 
-## [6. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
+## [5. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
 ### Companies / Energy
 
@@ -79,14 +73,14 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
     Simplifying consumer adoption of clean energy by offering an array of affordable clean energy plans to homeowners that integrate with smart home technologies.
 
-## [7. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [6. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
 *   [Linux For Everyone](https://linuxforeveryone.fireside.fm/) - A show about the thrilling world of desktop Linux, open source software and the community creating it. For beginners and veterans alike! Hosted by Forbes' Jason Evangelho and friends.
 *   [Self Hosted](https://selfhosted.show/) - Discover new software and hardware to get the best out of your network, control smart devices, and secure your data on cloud services. Self-Hosted is a chat show between Chris and Alex two long-time "self-hosters" who share their lessons and take you on the journey of their new ones. A Linux Academy podcast showcasing free and open source technologies you can host yourself.
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 
@@ -183,31 +177,31 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 
 
-## [9. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [8. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Audio Tools
 
 *   [Beets](http://beets.io/) - a powerful command-line music organizer and manipulator.
 *   [MusicBrainz](https://musicbrainz.org) - Open Encyclopedia for Music information and Metadata, providing a unique ID for everything
 
-## [10. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+## [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Awesome Repositories
 
-- Repository: [Asset Discovery (⭐1.5k)](https://github.com/redhuntlabs/Awesome-Asset-Discovery)
+- Repository: [Asset Discovery (⭐1.8k)](https://github.com/redhuntlabs/Awesome-Asset-Discovery)
 
   Description: List of resources which help during asset discovery phase of a security assessment engagement
 
 
 
-## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Search engine and framework
 
 *   [Facebook Faiss (⭐22k)](https://github.com/facebookresearch/faiss) - is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning. Faiss is written in C++ with complete wrappers for Python/numpy.
 *   [Annoy (⭐11k)](https://github.com/spotify/annoy) - is a C++ library with Python bindings to search for points in space that are close to a given query point. It also creates large read-only file-based data structures that are mmapped into memory so that many processes may share the same data.
 
-## [12. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [11. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### IDE / Text-Based User Interfaces
 
@@ -217,36 +211,36 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 *   [Tink (⭐13k)](https://github.com/google/tink) - Provides a simple and misuse-proof API for common cryptographic tasks.
 
-## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### UI
 
 *   [react-native-easy-content-loader ★57 (⭐192)](https://github.com/sarmad1995/react-native-easy-content-loader) - React-Native light weight skeleton content loading.
 *   [react-native-scrollview-header ★5 (⭐13)](https://github.com/weifxn/react-native-scrollview-header) - An animated ScrollView header that transitions from transparent background to opaque upon scrolling.
 
-## [14. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
+## [13. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
 ### Style Guide Generators :slot_machine: / Editor's Draft :black_nib:
 
 *   [Source (⭐553)](https://github.com/sourcejs/Source)
 
-## [15. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [14. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Tools / Working with types
 
-*   [mypyc (⭐16k)](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
+*   [mypyc (⭐17k)](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
 
-## [16. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [15. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
 *   [nextjs-mongodb-app (⭐1.4k)](https://github.com/hoangvvo/nextjs-mongodb-app) - Full-fledged app made with Next.JS and MongoDB, with authentication and much more (Next.js 9, MongoDB)
 
-## [17. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [16. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Projects
 
-*   [FruitNanny](https://ivadim.github.io/2017-08-21-fruitnanny/) - Baby monitor including custom case, server, and client source code. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
+*   [FruitNanny](https://ivadim.github.io/2017-08-21-fruitnanny/) - Baby monitor including custom case, server, and client source code. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
 
 ---
 

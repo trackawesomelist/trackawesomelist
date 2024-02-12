@@ -10,15 +10,15 @@
 
 ### Logging
 
-*   [spdlog (⭐20k)](https://github.com/gabime/spdlog) - Super fast, header only, C++ logging library.
+*   [spdlog (⭐21k)](https://github.com/gabime/spdlog) - Super fast, header only, C++ logging library.
 
 ### Networking
 
-*   [Proxygen (⭐7.9k)](https://github.com/facebook/proxygen) - Facebook's collection of C++ HTTP libraries including an easy to use HTTP server. \[BSD]
+*   [Proxygen (⭐8k)](https://github.com/facebook/proxygen) - Facebook's collection of C++ HTTP libraries including an easy to use HTTP server. \[BSD]
 
 ### Other Awesome Projects
 
-*   [Projects (⭐43k)](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
+*   [Projects (⭐44k)](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
 
 ## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Connection pools
 
-*   [hikari-cp (⭐400)](https://github.com/tomekw/hikari-cp)
+*   [hikari-cp (⭐405)](https://github.com/tomekw/hikari-cp)
 
 ## [8. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Table of Contents / Email
 
-*   [Email Validator (⭐155)](https://github.com/nojacko/email-validator) - A small email address validation library.
+*   [Email Validator (⭐161)](https://github.com/nojacko/email-validator) - A small email address validation library.
 
 ### Table of Contents / Testing
 

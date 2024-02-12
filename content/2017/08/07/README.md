@@ -47,8 +47,8 @@
 
 ### Web / Playground
 
-*   :octocat: [excaliburjs/Excalibur (⭐1.4k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
-*   :octocat: [Bobril (⭐362)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
+*   :octocat: [excaliburjs/Excalibur (⭐1.5k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
+*   :octocat: [Bobril (⭐361)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
 
 ### :dollar: Paid Courses / Chrome Extensions
 
@@ -77,14 +77,14 @@
 
 ### Science and Data Analysis
 
-*   [sparklling (⭐437)](https://github.com/gorillalabs/sparkling)
-*   [flambo (⭐609)](https://github.com/yieldbot/flambo)
+*   [sparklling (⭐441)](https://github.com/gorillalabs/sparkling)
+*   [flambo (⭐607)](https://github.com/yieldbot/flambo)
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### UI Automation
 
-*   [Atata (⭐470)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
+*   [Atata (⭐471)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
 ## [11. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 

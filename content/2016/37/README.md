@@ -68,7 +68,7 @@
 
 ### Plugins
 
-*   [tmux-fingers (⭐818)](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
+*   [tmux-fingers (⭐870)](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
 
 ## [9. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Build Tools / Bare metal / kernel development
 
-*   [dub (⭐640)](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
+*   [dub (⭐645)](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
 
 ### Compilers / Bare metal / kernel development
 
@@ -238,7 +238,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Algebra / Linear Algebra
 
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐488)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐507)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -271,11 +271,11 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Table of Contents / Testing
 
-*   [PHP-Mock (⭐328)](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
+*   [PHP-Mock (⭐351)](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
 
 ### Table of Contents / Build Tools
 
-*   [Construct (⭐263)](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator.
+*   [Construct (⭐266)](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator.
 
 ### Table of Contents / Task Runners
 
@@ -289,7 +289,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Authentication
 
-*   [doorman (⭐119)](https://github.com/BlakeWilliams/doorman) - Tools to make Elixir authentication simple and flexible.
+*   [doorman (⭐120)](https://github.com/BlakeWilliams/doorman) - Tools to make Elixir authentication simple and flexible.
 
 ### Macros
 
@@ -305,7 +305,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Third Party APIs
 
-*   [dnsimple (⭐48)](https://github.com/dnsimple/dnsimple-elixir) - Elixir client for the DNSimple API v2.
+*   [dnsimple (⭐49)](https://github.com/dnsimple/dnsimple-elixir) - Elixir client for the DNSimple API v2.
 
 ### Editors
 
@@ -731,7 +731,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Graphics
 
-*   [OpenTK (⭐2.9k)](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
+*   [OpenTK (⭐3k)](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
 
 ### Image Processing
 
@@ -739,8 +739,8 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### JavaScript Engines
 
-*   [Jint (⭐3.5k)](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
-*   [Jurassic (⭐783)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
+*   [Jint (⭐3.8k)](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
+*   [Jurassic (⭐833)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
 
 ## [39. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -752,7 +752,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### System Utilities / Directory Navigation
 
-*   [histstat (⭐91)](https://github.com/vesche/histstat) - History for netstat
+*   [histstat (⭐92)](https://github.com/vesche/histstat) - History for netstat
 
 ---
 

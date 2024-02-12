@@ -10,11 +10,11 @@
 
 ### Table of Contents / Geolocation
 
-*   [GeoJSON (⭐273)](https://github.com/jmikola/geojson) - A GeoJSON implementation.
+*   [GeoJSON (⭐290)](https://github.com/jmikola/geojson) - A GeoJSON implementation.
 
 ### Table of Contents / Database
 
-*   [Pomm (⭐161)](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
+*   [Pomm (⭐164)](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Development tools
 
-*   [Open Watcom V2 (⭐773)](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
+*   [Open Watcom V2 (⭐858)](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
     ported to 64-bit Windows and Linux.
 
 ## [2. Awesome Msr](/content/dspinellis/awesome-msr/README.md)
@@ -63,7 +63,7 @@
 
 ### Validation / Barcode
 
-*   [ValidatedPropertyKit (⭐955)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
+*   [ValidatedPropertyKit (⭐956)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
 
 ## [6. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 

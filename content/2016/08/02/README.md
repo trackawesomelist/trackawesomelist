@@ -56,7 +56,7 @@
 
 ### Keyboard
 
-*   [MakemojiSDK (⭐100)](https://github.com/makemoji/MakemojiSDK) - Emoji Keyboard SDK (iOS)
+*   [MakemojiSDK (⭐101)](https://github.com/makemoji/MakemojiSDK) - Emoji Keyboard SDK (iOS)
 
 ## [8. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Apps / Translations
 
-*   [wagtailtrans (⭐104)](https://github.com/LUKKIEN/wagtailtrans) - A Wagtail add-on for supporting multilingual sites.
+*   [wagtailtrans (⭐103)](https://github.com/LUKKIEN/wagtailtrans) - A Wagtail add-on for supporting multilingual sites.
 
 ## [2. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Table of Contents / Event
 
-*   [Broadway (⭐1.4k)](https://github.com/broadway/broadway) - An event source and CQRS library.
+*   [Broadway (⭐1.5k)](https://github.com/broadway/broadway) - An event source and CQRS library.
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

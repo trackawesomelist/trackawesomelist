@@ -10,7 +10,7 @@
 
 ### Plugins
 
-*   [tmux-thumbs (⭐754)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
+*   [tmux-thumbs (⭐786)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 
 ## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Microservice / Text-Based User Interfaces
 
-*   [Sentinel (⭐21k)](https://github.com/alibaba/Sentinel) - Flow control component enabling reliability, resilience and monitoring for microservices.
+*   [Sentinel (⭐22k)](https://github.com/alibaba/Sentinel) - Flow control component enabling reliability, resilience and monitoring for microservices.
 
 ### Utility / Mocking
 
@@ -42,7 +42,7 @@
 
 ### CSV
 
-*   [CodableCSV (⭐412)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
+*   [CodableCSV (⭐413)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
 *   [CSVParser (⭐85)](https://github.com/Nero5023/CSVParser) :penguin: - Fast parser for CSV.
 
 ### UI / Barcode
@@ -85,7 +85,7 @@
 
 ### HTTP
 
-*   [Http/Adapter/Cake library (⭐4)](https://github.com/php-http/cakephp-adapter) - Adapter for [HTTPlug (⭐2.5k)](https://github.com/php-http/httplug) HTTP client abstraction.
+*   [Http/Adapter/Cake library (⭐5)](https://github.com/php-http/cakephp-adapter) - Adapter for [HTTPlug (⭐2.5k)](https://github.com/php-http/httplug) HTTP client abstraction.
 
 ## [10. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
@@ -201,7 +201,7 @@
 *   [CarbonFund.org](https://carbonfund.org/) - Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
 *   [Emitwise](https://www.emitwise.com/) - The Emitwise Reportwise tool calculates company level GHG emissions in line with the GHG Protocol for scope 1 and 2 emissions. Primarily targeting the UK but would also be useful for other countries.
 *   [Plan A](https://plana.earth/) - Software that helps your business calculate, monitor and reduce its carbon footprint. Our platform allows you to track your carbon footprint monthly and learn how to reduce it with the support of a custom sustainability action plan, automatically created based on your worst-performing indicators.
-*   [Protea OSS Carbon Footprint (⭐27)](https://github.com/protea-earth/carbon_footprint) - Open source carbon footprint calculator, the only emissions calculator to use a command line interface.
+*   [Protea OSS Carbon Footprint (⭐33)](https://github.com/protea-earth/carbon_footprint) - Open source carbon footprint calculator, the only emissions calculator to use a command line interface.
 *   [The US EPA's Carbon Footprint Calculator](https://www3.epa.gov/carbon-footprint-calculator/) - The calculator estimates your footprint in three areas- home energy, transportation and waste. Everyone's carbon footprint is different depending on their location, habits, and personal choices.
 *   [WWF UK Calculator](https://footprint.wwf.org.uk/) - The planet is in crisis - from climate change to the pollution in our oceans and devastation of our forests. It's up to all of us to fix it. Take your first step with our environmental footprint calculator.
 *   [atmosfair](https://www.atmosfair.de/) - Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.

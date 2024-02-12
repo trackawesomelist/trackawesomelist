@@ -10,7 +10,7 @@
 
 ### Apps / StreamField
 
-*   [wagtail-inventory (⭐56)](https://github.com/cfpb/wagtail-inventory) - Search Wagtail pages by the StreamField blocks they contain.
+*   [wagtail-inventory (⭐58)](https://github.com/cfpb/wagtail-inventory) - Search Wagtail pages by the StreamField blocks they contain.
 
 ## [2. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Others
 
-*   [Tell don't ask kata (⭐26)](https://github.com/gabrieletondi/tell-dont-ask-kata)
+*   [Tell don't ask kata (⭐27)](https://github.com/gabrieletondi/tell-dont-ask-kata)
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -93,10 +93,10 @@
 
 ### Code Analysis and Linter
 
-*   [yagni (⭐220)](https://github.com/venantius/yagni)
-*   [lein-bikeshed (⭐178)](https://github.com/dakrone/lein-bikeshed)
-*   [spectrum (⭐594)](https://github.com/arohner/spectrum)
-*   [cloverage (⭐494)](https://github.com/cloverage/cloverage)
+*   [yagni (⭐218)](https://github.com/venantius/yagni)
+*   [lein-bikeshed (⭐177)](https://github.com/dakrone/lein-bikeshed)
+*   [spectrum (⭐592)](https://github.com/arohner/spectrum)
+*   [cloverage (⭐500)](https://github.com/cloverage/cloverage)
 
 ---
 

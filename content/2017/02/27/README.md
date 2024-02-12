@@ -32,9 +32,9 @@
 
 ## [4. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
-### Other useful repositories
+### Other Useful Repositories
 
-- Repository: [RFSec-ToolKit (⭐1.3k)](https://github.com/cn0xroot/RFSec-ToolKit)
+- Repository: [RFSec-ToolKit (⭐1.5k)](https://github.com/cn0xroot/RFSec-ToolKit)
 
   Description: Collection of Radio Frequency Communication Protocol Hacktools
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 26, 2017
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,8 +22,8 @@
 
 ### Tools & Software
 
-*   [Comparison of web archiving software (⭐87)](https://github.com/archivers-space/research/tree/master/web_archiving)
-*   [Awesome Website Change Monitoring (⭐460)](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring)
+*   [Comparison of web archiving software (⭐88)](https://github.com/archivers-space/research/tree/master/web_archiving)
+*   [Awesome Website Change Monitoring (⭐466)](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring)
 
 ## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -107,17 +107,17 @@
 
 ### Community Extensions
 
-*   [Keyloak Proxy written in Go (⭐951)](https://github.com/gambol99/keycloak-proxy)
+*   [Keyloak Proxy written in Go (⭐948)](https://github.com/gambol99/keycloak-proxy)
 
 ### Integrations
 
 *   [Keycloak support for Aurelia (⭐3)](https://github.com/waynepennington/aurelia-keycloak)
-*   [Keycloak OAuth2 Auth for PHP (⭐179)](https://github.com/stevenmaguire/oauth2-keycloak)
-*   [Jenkins Keycloak Authentication Plugin (⭐31)](https://github.com/jenkinsci/keycloak-plugin)
+*   [Keycloak OAuth2 Auth for PHP (⭐186)](https://github.com/stevenmaguire/oauth2-keycloak)
+*   [Jenkins Keycloak Authentication Plugin (⭐33)](https://github.com/jenkinsci/keycloak-plugin)
 
 ### Themes
 
-*   [Community Keycloak Ionic Theme (⭐19)](https://github.com/lfryc/keycloak-ionic-theme)
+*   [Community Keycloak Ionic Theme (⭐21)](https://github.com/lfryc/keycloak-ionic-theme)
 *   [A Keycloak theme based on the AdminLTE UI library (⭐89)](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme)
 
 ### Docker
@@ -127,29 +127,23 @@
 
 ### Example Projects
 
-*   [Official Examples (⭐18k)](https://github.com/keycloak/keycloak/tree/master/examples)
-*   [Keycloak Quickstarts (⭐1.6k)](https://github.com/keycloak/keycloak-quickstarts)
+*   [Official Examples (⭐19k)](https://github.com/keycloak/keycloak/tree/master/examples)
+*   [Keycloak Quickstarts (⭐1.7k)](https://github.com/keycloak/keycloak-quickstarts)
 *   [Drupal 7.0 with Keycloak](https://gist.github.com/thomasdarimont/17fa146c4fb5440d7fc2ee6322ec392d)
 *   [Securing Realm Resources With Custom Roles (⭐14)](https://github.com/dteleguin/custom-admin-roles)
-*   [BeerCloak: a comprehensive KeyCloak extension example (⭐123)](https://github.com/dteleguin/beercloak)
+*   [BeerCloak: a comprehensive KeyCloak extension example (⭐124)](https://github.com/dteleguin/beercloak)
 *   [KeyCloak Extensions: Securing Realm Resources With Custom Roles (⭐14)](https://github.com/dteleguin/custom-admin-roles)
 
 ### Benchmarks
 
-*   [Gatling based Benchmark by @rvansa (⭐35)](https://github.com/rvansa/keycloak-benchmark)
+*   [Gatling based Benchmark by @rvansa (⭐34)](https://github.com/rvansa/keycloak-benchmark)
 
 ### Commercial Offerings
 
 *   [Red Hat Single Sign-On](https://access.redhat.com/products/red-hat-single-sign-on)
 *   [INTEGSOFT UNIFIED USER CREDENTIALS WITH KEYCLOAK SSO](https://www.integsoft.cz/en/sso.html#what-is-sso)
 
-## [11. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
-
-### Books
-
-*   [Building Reactive Microservices in Java](https://developers.redhat.com/promotions/building-reactive-microservices-in-java/) by Clément Escoffier
-
-## [12. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
+## [11. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
 ### Inspiration / Games
 
@@ -164,20 +158,20 @@
 *   [Thomas Feichtmeir](http://cyangmou.deviantart.com/) - Australian, dark and mature: fan of knights, dinosaurs, pirates, epic beasts, anatomy and history as well as everything twisted and weird.
 *   [Toyoi Yuuta](http://1041uuu.tumblr.com/) - Australian, capturing small animated scenes of everyday life in unsaturated colors.
 
-## [13. Vim Galore](/content/mhinz/vim-galore/README.md)
+## [12. Vim Galore](/content/mhinz/vim-galore/README.md)
 
 ### Getting help offline
 
 *   VimL functions end in `()`, e.g. `:h reverse()`
 *   commands start with `:`, e.g. `:h :echo`
 
-## [14. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [13. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Transformations - General DSP
 
 *   [NSGT](https://grrrr.org/research/software/nsgt/) [:octocat: (⭐90)](https://github.com/grrrr/nsgt) [:package:](https://pypi.python.org/pypi/nsgt) - Non-stationary gabor transform, constant-q.
 
-## [15. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
+## [14. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 
 ### Quotes
 

@@ -51,10 +51,6 @@
 *   [Bottle](https://bottlepy.org) - Fast, simple and lightweight WSGI micro web-framework for Python.
 *   [Falcon](https://falconframework.org/) - Bare-metal Python web API framework for building very fast app backends and microservices.
 
-### REST / Scala
-
-*   [ReDoc (⭐20k)](https://github.com/Rebilly/ReDoc) - OpenAPI/Swagger-generated API Documentation.
-
 ### Enterprise & Verticals / Scala
 
 *   [Flamingo](https://www.flamingo.me/) - Framework to build flexible and modern e-commerce applications.

@@ -44,7 +44,7 @@
 
 ### Core Data
 
-*   [CloudCore (⭐142)](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
+*   [CloudCore (⭐141)](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -104,11 +104,11 @@
 
 ### Sample Projects / .NET (C#/F#)
 
-*   [Event Sourcing .NET (⭐3k)](https://github.com/oskardudycz/EventSourcing.NetCore) - samples and resources about Event Sourcing and CQRS in .NET. Contains also a self-paced kit of how to built own Event Store
+*   [Event Sourcing .NET (⭐3.1k)](https://github.com/oskardudycz/EventSourcing.NetCore) - samples and resources about Event Sourcing and CQRS in .NET. Contains also a self-paced kit of how to built own Event Store
 
 ### Libraries and Frameworks / .NET
 
-*   [Marten (⭐2.4k)](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .Net Applications.
+*   [Marten (⭐2.5k)](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .Net Applications.
 
 ## [9. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -120,11 +120,11 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [goro (⭐362)](https://github.com/aunum/goro) - A high-level machine learning library in the vein of Keras.
+*   [goro (⭐368)](https://github.com/aunum/goro) - A high-level machine learning library in the vein of Keras.
 
 ### Go / Reinforcement learning
 
-*   [gold (⭐318)](https://github.com/aunum/gold) - A reinforcement learning library.
+*   [gold (⭐331)](https://github.com/aunum/gold) - A reinforcement learning library.
 
 ---
 

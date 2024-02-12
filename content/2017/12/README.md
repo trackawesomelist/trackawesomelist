@@ -149,18 +149,18 @@
 
 ### Multimedia content processing
 
-*   [Codem-isoboxer (⭐97)](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
+*   [Codem-isoboxer (⭐105)](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
 
 ## [15. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
-### Realtime
+### Datasets / Realtime
 
-*   [Reddit](https://www.reddit.com/r/datasets/comments/3mk1vg/realtime_data_is_available_including_comments/) Real-time data is available including comments, submissions and links posted to reddit
+*   [Reddit](https://www.reddit.com/r/datasets/comments/3mk1vg/realtime_data_is_available_including_comments/) - Real-time data is available including comments, submissions and links posted to reddit.
 
-### Data Dumps
+### Datasets / Data Dumps
 
-*   [Common Crawl](https://commoncrawl.org/) Open source repository of web crawl data
-*   [Wikipedia](https://dumps.wikimedia.org/enwiki/latest/) Wikipedia's complete copy of all wikis, in the form of wikitext source and metadata embedded in XML. A number of raw database tables in SQL form are also available.
+*   [Common Crawl](https://commoncrawl.org/) - Open source repository of web crawl data.
+*   [Wikipedia](https://dumps.wikimedia.org/enwiki/latest/) - Wikipedia's complete copy of all wikis, in the form of wikitext source and metadata embedded in XML. A number of raw database tables in SQL form are also available.
 
 ## [16. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -176,11 +176,11 @@
 
 ### Apps / E-commerce
 
-*   [longclaw (⭐365)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
+*   [longclaw (⭐374)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
 
 ### Apps / Misc
 
-*   [Wagtail Gridder (⭐62)](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details.
+*   [Wagtail Gridder (⭐63)](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details.
 
 ## [18. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
@@ -252,11 +252,11 @@ git log -S'<a term in the source>'
 
 ### E-Commerce and Payments
 
-*   [SimplCommerce (⭐4k)](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
+*   [SimplCommerce (⭐4.1k)](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
 
 ### Queue
 
-*   [RabbitMQ.NET (⭐1.9k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
+*   [RabbitMQ.NET (⭐2k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
 
 ## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -321,10 +321,10 @@ Webpage: <http://www.lerdevagar.com/>
 
 *   [vuedals (⭐108)](https://github.com/javisperez/vuedals) - A VueJS (2.x) Plugin for multiple modals windows with a single component instance.
 *   [sweet-modal-vue (⭐759)](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals. Now available for Vue.js.
-*   [vue-masked-input (⭐453)](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js.
+*   [vue-masked-input (⭐452)](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js.
 *   [vue-text-mask (⭐8.2k)](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript.
 *   [vue-ip-input (⭐25)](https://github.com/lakb248/vue-ip-input) - An ip input implemented by vuejs.
-*   [vue-numeric (⭐454)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
+*   [vue-numeric (⭐458)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
 
 ### Components & Libraries / Utilities
 
@@ -353,7 +353,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Errors and Exception Handling
 
-*   [OK (⭐591)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
+*   [OK (⭐594)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
 
 ## [35. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -453,7 +453,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ## [41. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### GTFS
+### GTFS / General GIS Applications for making transit visualizations
 
 *   [GTFS Best Practices](http://gtfs.org/best-practices/) - Best practices for producers of a GTFS feed.
 
@@ -489,7 +489,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Task management
 
-*   [sam (⭐89)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
+*   [sam (⭐91)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
 
 ## [45. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 

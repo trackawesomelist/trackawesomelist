@@ -43,17 +43,17 @@ Starting with time series analysis, you will also learn how to optimize portfoli
 
 ### Applications
 
-*   [Consolex (⭐117)](https://github.com/sivsushruth/consolex) - Consolex is a tool that allows you to attach a web based console to any mix project.
+*   [Consolex (⭐118)](https://github.com/sivsushruth/consolex) - Consolex is a tool that allows you to attach a web based console to any mix project.
 
 ### Testing
 
-*   [wallaby (⭐1.5k)](https://github.com/keathley/wallaby) - Wallaby helps test your web applications by simulating user interactions concurrently and manages browsers.
+*   [wallaby (⭐1.6k)](https://github.com/keathley/wallaby) - Wallaby helps test your web applications by simulating user interactions concurrently and manages browsers.
 
 ## [6. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Lists / Book/monograph Lists and Reviews
 
-*   [RStartHere (⭐645)](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R packages, organized by workflow.
+*   [RStartHere (⭐657)](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R packages, organized by workflow.
 
 ## [7. Learn to Program](/content/karlhorky/learn-to-program/README.md)
 

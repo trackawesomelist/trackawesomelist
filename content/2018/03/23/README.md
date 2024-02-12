@@ -1,36 +1,30 @@
 # Awesome List Updates on Mar 23, 2018
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
-
-### Monitoring & Debugging / Scala
-
-*   [Microservice Graph Explorer (⭐71)](https://github.com/hootsuite/microservice-graph-explorer) - Navigate and explore all of the microservices in your application in real time using the real application connections.
-
-## [2. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [1. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Tutorials / Navigation Demos
 
 *   [Setting up background tasks that run periodically when app is closed in React Native](https://hackernoon.com/easy-os-background-tasks-in-react-native-bc4476c48b8a)
 
-## [3. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [2. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Visual Programming Languages
 
 *   [Isadora](https://troikatronix.com) \[Cross-platform] - Scene based media control software with integrated projection mapper.
 
-## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Matlab / General-Purpose Machine Learning
 
 *   [MXNet (⭐21k)](https://github.com/apache/incubator-mxnet/) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, JavaScript and more.
 
-## [5. Awesome Research](/content/emptymalei/awesome-research/README.md)
+## [4. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
 ### Editors / Markdown
 
@@ -40,20 +34,20 @@
 
 *   [wikipedia:Plagiarism#Self-plagiarism](https://en.wikipedia.org/wiki/Plagiarism#Self-plagiarism).
 
-## [6. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
+## [5. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
 
 ### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
 
 *   [Raven Protocol](https://www.ravenprotocol.com/) - Raven Protocol is a decentralized and distributed deep-learning training protocol.
 *   [Thought Network](https://thought.live/) - Thought's blockchain-enabled Fabric fundamentally changes applications by embedding artificial intelligence into every bit of data making it agile, actionable and inherently secure.
 
-## [7. Awesome Drupal](/content/nirgn975/awesome-drupal/README.md)
+## [6. Awesome Drupal](/content/nirgn975/awesome-drupal/README.md)
 
 ### Articles
 
 *   [Drupal Headless Architecture with Inferno.js \[Live Demo\]](https://snipcart.com/blog/drupal-headless-architecture-tutorial)
 
-## [8. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [7. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Garbage collectors
 
@@ -75,19 +69,19 @@
 
 *   [Paul Phillips](https://twitter.com/contrarivariant) - Forever undisputed SLOC Scala compiler dev.
 
-## [9. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries / Algebraic Data Types
 
 *   [kudo-js (⭐23)](https://github.com/blitzritz/kudojs) - A small utility library with a set of Algebraic Data Types and Helper functions to help you write code in a functional programming style in Javascript
 
-## [10. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [9. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Utilities
 
 *   [ldap2pg (⭐165)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 
@@ -101,12 +95,12 @@
 
 *   [LightBDD (⭐313)](https://github.com/LightBDD/LightBDD) - BDD framework allowing to create easy to read and maintain tests.
 
-## [12. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [11. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Miscellaneous
 
-*   [virgil (⭐270)](https://github.com/ztellman/virgil)
-*   [javastar (⭐63)](https://github.com/tailrecursion/javastar)
+*   [virgil (⭐274)](https://github.com/ztellman/virgil)
+*   [javastar (⭐64)](https://github.com/tailrecursion/javastar)
 
 ---
 

@@ -51,20 +51,20 @@
 
 ### Examples
 
-*   [Vert.x Markdown service (⭐6)](https://github.com/aesteve/vertx-markdown-service) - Example on how to use [service-proxy (⭐64)](https://github.com/vert-x3/vertx-service-proxy) with Gradle.
+*   [Vert.x Markdown service (⭐6)](https://github.com/aesteve/vertx-markdown-service) - Example on how to use [service-proxy (⭐66)](https://github.com/vert-x3/vertx-service-proxy) with Gradle.
 
 ## [5. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Machine Learning
 
 *   [ahaz](http://cran.r-project.org/web/packages/ahaz/index.html) - Regularization for semiparametric additive hazards regression.
-*   [Clever Algorithms For Machine Learning (⭐235)](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
+*   [Clever Algorithms For Machine Learning (⭐238)](https://github.com/jbrownlee/CleverAlgorithmsMachineLearning)
 *   [e1071](http://cran.r-project.org/web/packages/e1071/index.html) - Misc Functions of the Department of Statistics (e1071), TU Wien
 *   [kohonen](http://cran.r-project.org/web/packages/kohonen/) - Supervised and Unsupervised Self-Organising Maps.
 *   [randomForest](http://cran.r-project.org/web/packages/randomForest/index.html) - randomForest: Breiman and Cutler's random forests for classification and regression.
 *   [randomForestSRC](http://cran.r-project.org/web/packages/randomForestSRC/index.html) - randomForestSRC: Random Forests for Survival, Regression and Classification (RF-SRC).
 *   [rattle](http://cran.r-project.org/web/packages/rattle/index.html) - Graphical user interface for data mining in R.
-*   [SuperLearner (⭐237)](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
+*   [SuperLearner (⭐258)](https://github.com/ecpolley/SuperLearner) and [subsemble](http://cran.r-project.org/web/packages/subsemble/index.html) - Multi-algorithm ensemble learning packages.
 
 ## [6. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 

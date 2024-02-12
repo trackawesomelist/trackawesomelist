@@ -23,9 +23,9 @@
 
 ## [2. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
-### Realtime
+### Datasets / Realtime
 
-*   [Eventsim (⭐452)](https://github.com/Interana/eventsim) Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
+*   [Eventsim (⭐478)](https://github.com/Interana/eventsim) - Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
 
 ## [3. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 

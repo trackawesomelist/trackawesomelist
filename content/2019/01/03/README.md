@@ -22,7 +22,7 @@
 
 ### Standalone / Hash functions
 
-*   [Coherence (⭐29)](https://github.com/liesware/coherence/) - Cryptographic server for modern web apps.
+*   [Coherence (⭐32)](https://github.com/liesware/coherence/) - Cryptographic server for modern web apps.
 
 ## [4. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
@@ -65,7 +65,7 @@
 
 ### 3D / Apache License
 
-*   [ada-doom-3 (⭐245)](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.
+*   [ada-doom-3 (⭐247)](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.
 
 ### Multimedia / Apache License
 

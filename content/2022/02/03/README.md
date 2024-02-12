@@ -177,7 +177,7 @@
 
 ### Community Resources
 
-*   [Context Mapping by ddd-crew (⭐1k)](https://github.com/ddd-crew/context-mapping) - 	Context Mapping Cheatsheet and Starter Kit by ddd-crew.
+*   [Context Mapping by ddd-crew (⭐1.2k)](https://github.com/ddd-crew/context-mapping) - 	Context Mapping Cheatsheet and Starter Kit by ddd-crew.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -219,7 +219,7 @@
 
 ### Packages / Apps
 
-*   [webaudio-tinysynth (⭐202)](https://github.com/g200kg/webaudio-tinysynth) - a small synthesizer written in JavaScript with GM like timbre map.
+*   [webaudio-tinysynth (⭐206)](https://github.com/g200kg/webaudio-tinysynth) - a small synthesizer written in JavaScript with GM like timbre map.
 *   [web-audio-beat-detector (⭐0)](https://github.com/meerasndr/sample-golang-app) - a beat detection utility which is using the Web Audio API
 
 ---

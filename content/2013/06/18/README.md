@@ -10,19 +10,19 @@
 
 ### Table of Contents / Streams
 
-*   [Streamer (⭐269)](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
+*   [Streamer (⭐268)](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
 
 ### Table of Contents / E-commerce
 
-*   [Payum (⭐1.7k)](https://github.com/payum/payum) - A payment abstraction library.
+*   [Payum (⭐1.8k)](https://github.com/payum/payum) - A payment abstraction library.
 
 ### Table of Contents / API
 
-*   [Negotiation (⭐1.3k)](https://github.com/willdurand/Negotiation) - A content negotiation library.
+*   [Negotiation (⭐1.4k)](https://github.com/willdurand/Negotiation) - A content negotiation library.
 
 ### Table of Contents / Data Structure and Storage
 
-*   [Serializer (⭐2.2k)](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
+*   [Serializer (⭐2.3k)](https://github.com/schmittjoh/serializer) - A library for serializing and de-serializing data.
 
 ### Table of Contents / Notifications
 

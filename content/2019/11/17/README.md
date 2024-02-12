@@ -30,12 +30,14 @@
 ### Open Source Projects
 
 *   [Duplicati](https://opencollective.com/duplicati) - Backup client.
-*   [Lollipop Cloud](https://opencollective.com/lollipop-cloud-team) - Cheap, easy, self-hosted clouds for everyone.
 *   [Olive](https://www.patreon.com/olivevideoeditor) - High quality video editing and compositing software.
 *   [Open Broadcaster Software](https://www.patreon.com/obsproject), [#2](https://opencollective.com/obsproject) - Video recording and live streaming software.
-*   [postActiv](https://www.patreon.com/postActiv) - Microblogging platform.
 *   [Remmina](https://remmina.org/donations/) - Remote desktop client.
-*   [V Programming Language](https://www.patreon.com/vlang), [#2](https://www.paypal.com/donate/?token=u2pjZRmcQ2ZHaiP2Ce_wYNgGYrjrOL0xc_1zq9iDrO0uElfo24bMYFuSh48Hrpgm_66GF0\&country.x=US\&locale.x=US) - Statically typed compiled programming language similar to Go, influenced by Oberon, Rust, Swift.
+*   [V Programming Language](https://www.patreon.com/vlang) - Statically typed compiled programming language similar to Go, influenced by Oberon, Rust, Swift.
+
+### Open Source Projects / Messaging and social media
+
+*   [postActiv](https://www.patreon.com/postActiv) - Microblogging platform.
 
 ### Open Source Projects / Libraries
 

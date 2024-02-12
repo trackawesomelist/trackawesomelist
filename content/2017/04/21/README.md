@@ -95,7 +95,7 @@
 
 ### For Developers / Directory Navigation
 
-*   [bcal (⭐594)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations
+*   [bcal (⭐602)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations
 
 ---
 

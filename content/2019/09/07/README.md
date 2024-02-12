@@ -22,7 +22,7 @@
 
 ### Loader
 
-*   [react-spinners-css (⭐319)](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
+*   [react-spinners-css (⭐320)](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
 
 ## [4. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

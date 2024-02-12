@@ -67,10 +67,10 @@
 
 ## [3. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
-### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
+### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
-*   [Español (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
-*   [Français (⭐25k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
+*   [Español (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
+*   [Français (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
 
 ## [4. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
@@ -312,11 +312,11 @@ git show <branch_name>:<file_name>
 
 ### Frameworks
 
-*   [EASTL (⭐7.4k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
+*   [EASTL (⭐7.5k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
 
 ### Machine Learning
 
-*   [Fido (⭐422)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
+*   [Fido (⭐427)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
 
 ## [20. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -361,7 +361,7 @@ git show <branch_name>:<file_name>
 
 ### Images / Barcode
 
-*   [SwiftyGif (⭐1.8k)](https://github.com/kirualex/SwiftyGif) - High performance GIF engine.
+*   [SwiftyGif (⭐1.9k)](https://github.com/kirualex/SwiftyGif) - High performance GIF engine.
 
 ## [26. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -429,8 +429,8 @@ git show <branch_name>:<file_name>
 
 ### Applications
 
-*   [Consolex (⭐117)](https://github.com/sivsushruth/consolex) - Consolex is a tool that allows you to attach a web based console to any mix project.
-*   [Phoenix Battleship (⭐520)](https://github.com/bigardone/phoenix-battleship) - The Good Old game built with Elixir, Phoenix Framework, React and Redux.
+*   [Consolex (⭐118)](https://github.com/sivsushruth/consolex) - Consolex is a tool that allows you to attach a web based console to any mix project.
+*   [Phoenix Battleship (⭐522)](https://github.com/bigardone/phoenix-battleship) - The Good Old game built with Elixir, Phoenix Framework, React and Redux.
 
 ### Behaviours and Interfaces
 
@@ -446,7 +446,7 @@ git show <branch_name>:<file_name>
 
 ### Examples and funny stuff
 
-*   [elixir\_koans (⭐2k)](https://github.com/elixirkoans/elixir-koans) - [Elixir koans](http://elixirkoans.io/) is a fun, easy way to get started with the elixir programming language.
+*   [elixir\_koans (⭐2.1k)](https://github.com/elixirkoans/elixir-koans) - [Elixir koans](http://elixirkoans.io/) is a fun, easy way to get started with the elixir programming language.
 *   [ex\_iss (⭐4)](https://github.com/cryptobird/ex_iss) - This package is for interfacing with the Open Notify API to information such as the ISS's current location, crew, and when it will pass over a location.
 
 ### Miscellaneous
@@ -460,7 +460,7 @@ git show <branch_name>:<file_name>
 
 ### Testing
 
-*   [wallaby (⭐1.5k)](https://github.com/keathley/wallaby) - Wallaby helps test your web applications by simulating user interactions concurrently and manages browsers.
+*   [wallaby (⭐1.6k)](https://github.com/keathley/wallaby) - Wallaby helps test your web applications by simulating user interactions concurrently and manages browsers.
 
 ### Validations
 
@@ -469,7 +469,7 @@ git show <branch_name>:<file_name>
 
 ### Reading
 
-*   [Elixir Functional Programming (⭐362)](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
+*   [Elixir Functional Programming (⭐364)](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
 
 ## [32. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
@@ -511,7 +511,7 @@ This book is packed with practical recipes, designed to provide you with all the
 
 ### GUI
 
-*   [Xamarin.Forms (⭐5.7k)](https://github.com/xamarin/Xamarin.Forms) - Build native UIs for iOS, Android and Windows from a single, shared C# codebase.
+*   [Xamarin.Forms (⭐5.6k)](https://github.com/xamarin/Xamarin.Forms) - Build native UIs for iOS, Android and Windows from a single, shared C# codebase.
 
 ### Mathematics
 
@@ -523,7 +523,7 @@ This book is packed with practical recipes, designed to provide you with all the
 
 ### Source Generator
 
-*   [awesome-analyzers (⭐451)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
+*   [awesome-analyzers (⭐475)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
 ## [35. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
@@ -541,16 +541,16 @@ This book is packed with practical recipes, designed to provide you with all the
 
 ### Web Technologies and Services
 
-*   [Web Technologies List (⭐165)](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
+*   [Web Technologies List (⭐169)](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
 
 ### Natural Language Processing
 
-*   [Topic Models Resources (⭐213)](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
+*   [Topic Models Resources (⭐224)](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
 *   [NLP for <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:"> (⭐29)](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
 
 ### Network Analysis
 
-*   [Network Analysis List (⭐2.8k)](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
+*   [Network Analysis List (⭐3.3k)](https://github.com/briatte/awesome-network-analysis) - Network Analysis related resources.
 
 ### R Development
 
@@ -559,10 +559,10 @@ This book is packed with practical recipes, designed to provide you with all the
 ### Lists / Book/monograph Lists and Reviews
 
 *   [Natural Language Processing <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:"> (⭐29)](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
-*   [Open Data (⭐191)](https://github.com/ropensci/opendata) - Using R to obtain, parse, manipulate, create, and share open data.
+*   [Open Data (⭐194)](https://github.com/ropensci/opendata) - Using R to obtain, parse, manipulate, create, and share open data.
 *   [Package Development (⭐43)](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
-*   [RStartHere (⭐645)](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R packages, organized by workflow.
-*   [Web Technologies (⭐165)](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
+*   [RStartHere (⭐657)](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R packages, organized by workflow.
+*   [Web Technologies (⭐169)](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
 
 ## [38. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 

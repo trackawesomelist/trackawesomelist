@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07, 2023
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Decentralized Systems
 
-*   [Mastodon (⭐4)](https://github.com/hyperupcall/awesome-mastodon#readme) - Open source decentralized microblogging network.
+*   [Mastodon (⭐8)](https://github.com/hyperupcall/awesome-mastodon#readme) - Open source decentralized microblogging network.
 
 ## [3. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -58,7 +58,21 @@
 
 ### External Services
 
-*   [osu-box (⭐0)](https://github.com/AiverAiva/osu-box) - Update a pinned gist to display your osu! stats.
+*   [osu-box (⭐1)](https://github.com/AiverAiva/osu-box) - Update a pinned gist to display your osu! stats.
+
+## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Algorithms & Data Structures
+
+*   [Algorithmic Thinking](https://labuladong.gitbook.io/algo-en) - Donglai Fu
+
+### Open Source Ecosystem
+
+*   [500 lines or less (⭐29k)](https://github.com/aosabook/500lines) - Build from Source Code
+
+### Quantum Computing
+
+*   [Introduction to Quantum Information](https://www.gla.ac.uk/media/Media_344957_smxx.pdf) - Stephen M. Barnett (PDF)
 
 ---
 

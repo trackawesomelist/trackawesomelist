@@ -31,8 +31,8 @@
 
 ### operations
 
-*   [geojson-flatten (⭐50)](https://github.com/tmcw/geojson-flatten): flatten multi geometries into normal geometries
-*   [geojson-random (⭐72)](https://github.com/tmcw/geojson-random): generate random geojson points, lines, and polygons
+*   [geojson-flatten (⭐51)](https://github.com/tmcw/geojson-flatten): flatten multi geometries into normal geometries
+*   [geojson-random (⭐74)](https://github.com/tmcw/geojson-random): generate random geojson points, lines, and polygons
 
 ### editors & viewers
 
@@ -44,8 +44,8 @@
 
 ### data
 
-*   [world-atlas (⭐975)](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
-*   [us-atlas (⭐825)](https://github.com/topojson/us-atlas): geojson & topojson for United States features
+*   [world-atlas (⭐994)](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
+*   [us-atlas (⭐836)](https://github.com/topojson/us-atlas): geojson & topojson for United States features
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -105,9 +105,9 @@
 
 ## [8. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
-### Other useful repositories
+### Other Useful Repositories
 
-- Repository: [Linux Kernel Exploitation (⭐4.4k)](https://github.com/xairy/linux-kernel-exploitation)
+- Repository: [Linux Kernel Exploitation (⭐5.1k)](https://github.com/xairy/linux-kernel-exploitation)
 
   Description: A bunch of links related to Linux kernel fuzzing and exploitation
 

@@ -65,10 +65,6 @@
 
 *   [RedBean](https://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
 
-### Configuration / PHP Books
-
-*   [Mastering Object-Orientated PHP](https://www.brandonsavage.net/) - A book about object-orientated PHP by Brandon Savage.
-
 ## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / SES

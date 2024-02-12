@@ -22,13 +22,13 @@
 
 ### Runtime / Playground
 
-*   [type-plus (⭐304)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
+*   [type-plus (⭐321)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
 
 ## [4. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
-### Bindings / Apache License
+### Bindings to Other Languages / Apache License
 
-*   [tcl-ada-shell (⭐6)](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.
+*   [tcl-ada-shell (⭐8)](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.
 
 ## [5. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
@@ -50,7 +50,7 @@
 
 ### React Graphics and Animations
 
-*   [react-parallax-tilt (⭐816)](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
+*   [react-parallax-tilt (⭐852)](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
 
 ## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

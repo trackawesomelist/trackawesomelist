@@ -42,13 +42,13 @@
 
 ### Third-party APIs
 
-*   [terjira (⭐841)](https://github.com/keepcosmos/terjira) - A command-line power tool for Jira.
+*   [terjira (⭐853)](https://github.com/keepcosmos/terjira) - A command-line power tool for Jira.
 
 ## [6. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Awesome Repositories
 
-- Repository: [Cyber Skills (⭐2.2k)](https://github.com/joe-shenouda/awesome-cyber-skills)
+- Repository: [Cyber Skills (⭐3.2k)](https://github.com/joe-shenouda/awesome-cyber-skills)
 
   Description: Curated list of hacking environments where you can train your cyber skills legally and safely
 

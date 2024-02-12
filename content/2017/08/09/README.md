@@ -64,9 +64,9 @@
 
 ## [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
-### Other useful repositories
+### Other Useful Repositories
 
-- Repository: [Lockpicking (⭐956)](https://github.com/meitar/awesome-lockpicking)
+- Repository: [Lockpicking (⭐1.3k)](https://github.com/meitar/awesome-lockpicking)
 
   Description: Resources relating to the security and compromise of locks, safes, and keys.
 

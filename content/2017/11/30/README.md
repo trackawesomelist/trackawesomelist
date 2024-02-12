@@ -10,14 +10,14 @@
 
 ### Configuration / Miscellaneous
 
-*   [BotMan (⭐5.7k)](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chat bots.
+*   [BotMan (⭐6k)](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chatbots.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / IDEs
 
 *   [Sublime Text](https://www.sublimetext.com/)
-    *   [rust-lang/rust-enhanced (⭐743)](https://github.com/rust-lang/rust-enhanced) — official Rust package
+    *   [rust-lang/rust-enhanced (⭐764)](https://github.com/rust-lang/rust-enhanced) — official Rust package
 
 ## [3. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -70,7 +70,7 @@ Topics: Android, RxJava, Kotlin, Freelancing, Swift, iOS, Productivity, Startups
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome Software Quality (⭐2.1k)](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources.
+*   [Awesome Software Quality (⭐2.2k)](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources.
 
 ## [7. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 

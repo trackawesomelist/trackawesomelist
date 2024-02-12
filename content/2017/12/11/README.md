@@ -16,7 +16,7 @@
 
 ### Tools and frameworks
 
-*   [reg-suit (⭐1k)](https://github.com/reg-viz/reg-suit) - Visual regression testing suite which compares images, stores snapshots, and notifies the difference to your GitHub repo.
+*   [reg-suit (⭐1.1k)](https://github.com/reg-viz/reg-suit) - Visual regression testing suite which compares images, stores snapshots, and notifies the difference to your GitHub repo.
 
 ## [3. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Templates / React
 
-*   [Viact (⭐39)](https://github.com/MR-Mostafa/Viact) - React + TypeScript + ESLint + Prettier + Support RTL + mock REST API Viact + Storybook, ErrorBoundary, UnoCss and more.
+*   [Viact (⭐40)](https://github.com/MR-Mostafa/Viact) - React + TypeScript + ESLint + Prettier + Support RTL + mock REST API Viact + Storybook, ErrorBoundary, UnoCss and more.
 
 ## [2. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -20,17 +20,13 @@
 
 ## [3. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
-### Apps / Testing
-
-*   [ThorgPress (⭐2)](https://github.com/figurestudios/thorgpress) - A tool to benchmark providers and unveil their true capabilities beyond what can be seen through the marketplace.
-
-### Provider Resources / Monitoring
+### Monitoring
 
 *   [Golem Provider dashboard (⭐5)](https://github.com/vciancio/golem-dashboard) - ReactJS dashboard made to quickly gather status from your provider nodes without having to SSH into them.
 
-### Provider Resources / Provisioning
+### Apps / Testing
 
-*   [Scalable golem provider (⭐0)](https://github.com/cryptobench/scaleable-golem-provider) - Spawn x amount of providers using Docker.
+*   [ThorgPress (⭐1)](https://github.com/figurestudios/thorgpress) - A tool to benchmark providers and unveil their true capabilities beyond what can be seen through the marketplace.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -42,13 +38,13 @@
 
 ### Shell Script Development
 
-*   [DevOps-Bash-tools (⭐1.9k)](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment.
+*   [DevOps-Bash-tools (⭐2.3k)](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment.
 
 ## [6. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
-*   [Schemix - Generate Prisma Schemas with TypeScript (⭐250)](https://github.com/ridafkih/schemix)
+*   [Schemix - Generate Prisma Schemas with TypeScript (⭐464)](https://github.com/ridafkih/schemix)
 
 ---
 

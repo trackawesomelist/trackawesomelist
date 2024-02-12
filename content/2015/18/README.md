@@ -1,6 +1,6 @@
 # Awesome List Updates on May 04 - May 10, 2015
 
-21 awesome lists updated this week.
+20 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -35,23 +35,19 @@
 ### Messaging / Scala
 
 *   [ØMQ](http://zeromq.org/) - Brokerless intelligent transport layer.
-*   [Apollo](http://activemq.apache.org/apollo/) - Faster, more reliable, easier to maintain messaging broker built from the foundations of the original ActiveMQ.
-*   [Disque (⭐7.9k)](https://github.com/antirez/disque) - Distributed message broker.
 *   [Kafka](http://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
-*   [Nanomsg](http://nanomsg.org/) - Socket library that provides several common communication patterns for building distributed systems.
-*   [Qpid](https://qpid.apache.org/) - Cross-platform messaging components built on AMQP.
 
 ## [6. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Customization / Directory Navigation
 
-*   [gittify (⭐61)](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases
+*   [gittify (⭐67)](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Machine Learning
 
-*   [MeTA (⭐676)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
+*   [MeTA (⭐679)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
 
 ## [8. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 
@@ -63,7 +59,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlxtend (⭐4.5k)](https://github.com/rasbt/mlxtend) - A library consisting of useful tools for data science and machine learning tasks.
+*   [mlxtend (⭐4.7k)](https://github.com/rasbt/mlxtend) - A library consisting of useful tools for data science and machine learning tasks.
 
 ## [10. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -154,30 +150,23 @@ A weekly newsletter about PHP, security, and the community.
 
 *   [Emmet (⭐5.3k)](https://github.com/sergeche/emmet-sublime)
 
-## [13. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
-
-### Similar lists / Videos
-
-*   The VAR Guy's [The Open Source 50](http://thevarguy.com/var-guy/var-guys-open-source-50) ([2009 list](http://wayback.archive.org/web/20121118155240/http://www.thevarguy.com/the-open-source-50/the-open-source-50-listed-a-to-z/), [2010 list](http://wayback.archive.org/web/20120509194329/http://www.thevarguy.com/the-open-source-50/the-open-source-50-a-to-z-2010-edition/), [2012 update](http://thevarguy.com/open-source-application-software-companies/top-50-open-source-companies-where-are-they-now))
-    *   *(unmaintained)*
-
-## [14. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [13. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Migrations
 
-*   [Ruckusing (⭐507)](https://github.com/ruckus/ruckusing-migrations) - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.
+*   [Ruckusing (⭐506)](https://github.com/ruckus/ruckusing-migrations) - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.
 
 ### Table of Contents / NoSQL
 
-*   [PHPMongo (⭐238)](https://github.com/sokil/php-mongo) - A MongoDB ORM.
+*   [PHPMongo (⭐243)](https://github.com/sokil/php-mongo) - A MongoDB ORM.
 
-## [15. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [14. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### Libraries and Tools
 
 *   [Apache Zeppelin](https://zeppelin.incubator.apache.org/) - A web-based notebook that enables interactive data analytics
 
-## [16. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [15. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Graphic Displays
 
@@ -185,12 +174,12 @@ A weekly newsletter about PHP, security, and the community.
 
 ### Reproducible Research
 
-*   [Sweave](https://www.statistik.lmu.de/\~leisch/Sweave/) - A package designed to write LaTeX reports using R.
+*   [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - A package designed to write LaTeX reports using R.
 
 ### Database Management
 
-*   [elastic (⭐238)](https://github.com/ropensci/elastic) - Wrapper for the Elasticsearch HTTP API
-*   [mongolite (⭐271)](https://github.com/jeroenooms/mongolite) - Streaming Mongo Client for R
+*   [elastic (⭐244)](https://github.com/ropensci/elastic) - Wrapper for the Elasticsearch HTTP API
+*   [mongolite (⭐281)](https://github.com/jeroenooms/mongolite) - Streaming Mongo Client for R
 
 ### Natural Language Processing
 
@@ -198,13 +187,13 @@ A weekly newsletter about PHP, security, and the community.
 
 ### R Development
 
-*   [installr (⭐247)](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
+*   [installr (⭐264)](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
 
 ### MOOCs / Book/monograph Lists and Reviews
 
 *   [HarvardX Biomedical Data Science](http://simplystatistics.org/2014/11/25/harvardx-biomedical-data-science-open-online-training-curriculum-launches-on-january-19/) - Introduction to R for the Life Sciences.
 
-## [17. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [16. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Algorithms
 
@@ -222,7 +211,7 @@ A weekly newsletter about PHP, security, and the community.
 
 *   [What do the top 1% of software engineers do that the other 99% do not?](http://qr.ae/0ILWY)
 
-## [18. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [17. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -235,7 +224,7 @@ A weekly newsletter about PHP, security, and the community.
 *   [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
 *   [Eyeo](https://eyeo.com/en/jobs/) - Maker of AdBlock Plus. Main office in Cologne, Germany.
 
-## [19. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [18. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Logging
 
@@ -243,7 +232,7 @@ A weekly newsletter about PHP, security, and the community.
 
 ### Queue
 
-*   [amqp (⭐646)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
+*   [amqp (⭐655)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
 
 ### XML
 
@@ -253,7 +242,7 @@ A weekly newsletter about PHP, security, and the community.
 
 *   [Elixir Cookbook](https://www.packtpub.com/application-development/elixir-cookbook) - This book is a set of recipes grouped by topic by Paulo A Pereira (2015).
 
-## [20. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [19. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Forensics
 
@@ -268,7 +257,7 @@ A weekly newsletter about PHP, security, and the community.
 
 *   [Smoke Leet Everyday (⭐180)](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF write-ups repo maintained by SmokeLeetEveryday team.
 
-## [21. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [20. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Canvas
 

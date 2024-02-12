@@ -32,7 +32,7 @@
 
 ### URI handling / Isomorphic web frameworks
 
-*   [quri (⭐101)](https://github.com/fukamachi/quri) - Another URI library for
+*   [quri (⭐103)](https://github.com/fukamachi/quri) - Another URI library for
     Common Lisp. Supports userinfo, IPv6 hostname, encoding/decoding
     utilities,… [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
@@ -50,7 +50,7 @@
 
 ### Cartridges / Opcodes
 
-*   [AntonioND's docs (⭐182)](https://github.com/AntonioND/giibiiadvance/tree/master/docs) - Corrected schematics and infos on cartridge header data.
+*   [AntonioND's docs (⭐184)](https://github.com/AntonioND/giibiiadvance/tree/master/docs) - Corrected schematics and infos on cartridge header data.
 
 ### Related projects / Syntax highlighting packages
 
@@ -64,7 +64,7 @@
 
 ### HTTP
 
-*   [raxx (⭐397)](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
+*   [raxx (⭐398)](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
 
 ### Third Party APIs
 
@@ -84,7 +84,7 @@
 
 ### Multimedia content processing
 
-*   [Kelvinadon (⭐17)](https://github.com/Streampunk/kelvinadon) - Node.JS pure Javascript module for streaming MXF files to and from JSON.
+*   [Kelvinadon (⭐18)](https://github.com/Streampunk/kelvinadon) - Node.JS pure Javascript module for streaming MXF files to and from JSON.
 
 ## [10. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 

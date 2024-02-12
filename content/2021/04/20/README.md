@@ -10,7 +10,7 @@
 
 ### Image Processing
 
-*   [SAIL (⭐245)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
+*   [SAIL (⭐270)](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
 
 ## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -241,7 +241,7 @@
 *   [A Memory of Light](http://www.goodreads.com/book/show/7743175-a-memory-of-light)
 *   [New Spring (prequel)](http://www.goodreads.com/book/show/187065.New_Spring)
 
-### Epic Fantasy / [Thorn of Glass Series](https://www.goodreads.com/book/show/7896527-throne-of-glass) (2012) *by [Saraah J. Maas](https://en.wikipedia.org/wiki/Sarah_J._Maas)* [4.21] 🔥
+### Epic Fantasy / [Thorn of Glass Series](https://www.goodreads.com/book/show/7896527-throne-of-glass) (2012) *by [Sarah J. Maas](https://en.wikipedia.org/wiki/Sarah_J._Maas)* [4.21] 🔥
 
 *   [The Assassin's Blade](https://www.goodreads.com/book/show/18243700-the-assassin-s-blade) \[4.4] 🔥
 *   [Throne of Glass](https://www.goodreads.com/book/show/7896527-throne-of-glass) \[4.21] 🔥
@@ -298,7 +298,7 @@
 
 ### R / Time Series
 
-*   [garchmodels (⭐34)](https://github.com/AlbertoAlmuinha/garchmodels) - A parsnip backend for GARCH models.
+*   [garchmodels (⭐35)](https://github.com/AlbertoAlmuinha/garchmodels) - A parsnip backend for GARCH models.
 
 ## [9. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -333,7 +333,7 @@
 
 ### eBPF Workflow: Tools and Utilities / libbpf
 
-*   [libbpf-bootstrap (⭐727)](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE.
+*   [libbpf-bootstrap (⭐843)](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE.
 
 ## [14. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 

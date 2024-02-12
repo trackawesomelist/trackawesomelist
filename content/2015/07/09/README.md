@@ -10,7 +10,7 @@
 
 ### Shell Script Development / Directory Navigation
 
-*   [shunit2 (⭐1.4k)](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
+*   [shunit2 (⭐1.5k)](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 
 ## [2. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/README.md)
 

@@ -71,21 +71,17 @@
 
 ### Questions
 
-*   [slap (⭐83)](https://github.com/akabe/slap) - A linear algebra library in OCaml with type-based static size checking for matrix operations.
+*   [slap (⭐86)](https://github.com/akabe/slap) - A linear algebra library in OCaml with type-based static size checking for matrix operations.
 
 ## [6. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Settings management
 
-*   [Wagtail-Flags (⭐81)](https://github.com/cfpb/wagtail-flags) - Feature flags for Wagtail sites.
+*   [Wagtail-Flags (⭐80)](https://github.com/cfpb/wagtail-flags) - Feature flags for Wagtail sites.
 
 ### Apps / Misc
 
-*   [Wagtail Sharing (⭐50)](https://github.com/cfpb/wagtail-sharing) – Easier sharing of Wagtail drafts.
-
-### Tools / Templates & Starter Kits
-
-*   [Wagtail Starter Kit (⭐52)](https://github.com/tkjone/starterkit-wagtail) – A cookiecutter complete with wagtail, django layout, vagrant, provisioning scrips, front end build system and more!
+*   [Wagtail Sharing (⭐49)](https://github.com/cfpb/wagtail-sharing) – Easier sharing of Wagtail drafts.
 
 ### Resources / Articles
 

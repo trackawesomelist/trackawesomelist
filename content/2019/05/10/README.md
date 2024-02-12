@@ -21,23 +21,23 @@
 
 ### Table of Contents / Testing
 
-*   [VFS Stream (⭐1.3k)](https://github.com/bovigo/vfsStream) - A virtual filesystem stream wrapper for testing.
+*   [VFS Stream (⭐1.4k)](https://github.com/bovigo/vfsStream) - A virtual filesystem stream wrapper for testing.
 
 ### Table of Contents / Continuous Integration
 
-*   [PHPCI (⭐2.4k)](https://github.com/dancryer/phpci) - An open source continuous integration platform for PHP.
+*   [PHPCI (⭐2.4k)](https://github.com/dancryer/phpci) - An open-source continuous integration platform for PHP.
 
 ### Table of Contents / Code Quality
 
-*   [PHP Mess Detector (⭐2.1k)](https://github.com/phpmd/phpmd) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
+*   [PHP Mess Detector (⭐2.3k)](https://github.com/phpmd/phpmd) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
 
 ### Table of Contents / Filtering and Validation
 
-*   [ISO-codes (⭐763)](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
+*   [ISO-codes (⭐784)](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
 
 ### Table of Contents / Data Structure and Storage
 
-*   [msgpack.php (⭐365)](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format.
+*   [msgpack.php (⭐381)](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -94,7 +94,7 @@
 ### Types / Playground
 
 *   [typesync (⭐1.4k)](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
-*   [type-fest (⭐12k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
+*   [type-fest (⭐13k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 
 ### Web / Playground
 

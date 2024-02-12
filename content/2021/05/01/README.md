@@ -17,8 +17,11 @@
 
 ### Open Source Projects
 
-*   [BookWyrm](https://www.patreon.com/bookwyrm), [#2](https://opencollective.com/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub.
 *   [Zrythm](https://liberapay.com/Zrythm) - A highly automated and intuitive digital audio workstation.
+
+### Open Source Projects / Messaging and social media
+
+*   [BookWyrm](https://www.patreon.com/bookwyrm), [#2](https://opencollective.com/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub.
 
 ### People Doing Open Source Work / Hardware related
 
@@ -46,7 +49,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail Transfer (⭐78)](https://github.com/wagtail/wagtail-transfer) - An official extension for Wagtail allowing content to be transferred between multiple instances of a Wagtail project
+*   [Wagtail Transfer (⭐80)](https://github.com/wagtail/wagtail-transfer) - An official extension for Wagtail allowing content to be transferred between multiple instances of a Wagtail project
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

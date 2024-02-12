@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 12, 2016
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -33,14 +33,7 @@
 
 *   [file-type-cli (⭐68)](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Ruby / Tornado
-
-*   [Introduction to Programming with Ruby](https://launchschool.com/books/ruby) - Launch School
-*   [Object Oriented Programming with Ruby](https://launchschool.com/books/oo_ruby) - Launch School
-
-## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [4. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### France 🇫🇷 / Paris
 

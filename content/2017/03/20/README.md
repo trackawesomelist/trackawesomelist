@@ -14,7 +14,7 @@
 
 ## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### GTFS
+### GTFS / General GIS Applications for making transit visualizations
 
 *   [GTFS Best Practices](http://gtfs.org/best-practices/) - Best practices for producers of a GTFS feed.
 

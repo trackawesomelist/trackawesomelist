@@ -10,7 +10,7 @@
 
 ### Network Analysis
 
-*   [netdiffuseR (⭐75)](https://github.com/USCCANA/netdiffuseR) - Tools for Analysis of Network Diffusion.
+*   [netdiffuseR (⭐83)](https://github.com/USCCANA/netdiffuseR) - Tools for Analysis of Network Diffusion.
 
 ## [2. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -24,20 +24,20 @@
 
 ### C / Git
 
-*   [crypto-algorithms (⭐1.6k)](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
+*   [crypto-algorithms (⭐1.7k)](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
-*   [SOMPY (⭐510)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
-*   [HDBScan (⭐92)](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
+*   [SOMPY (⭐525)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
+*   [HDBScan (⭐93)](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
 
 ## [4. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Metadata
 
-*   [MAJ API (⭐15)](https://github.com/AMWA-TV/maj) - Pure Java library for reading and writing MXF and AAF files.
+*   [MAJ API (⭐16)](https://github.com/AMWA-TV/maj) - Pure Java library for reading and writing MXF and AAF files.
 
 ## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
 

@@ -43,7 +43,7 @@
 
 ### C / Syntax highlighting packages
 
-*   [Simplified GBDK examples (⭐169)](https://github.com/mrombout/gbdk_playground)
+*   [Simplified GBDK examples (⭐175)](https://github.com/mrombout/gbdk_playground)
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

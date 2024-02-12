@@ -159,12 +159,12 @@
 
 ### Theory
 
-*   [Algorithms (⭐15k)](https://github.com/tayllan/awesome-algorithms#readme)
-    *   [Education (⭐533)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
+*   [Algorithms (⭐16k)](https://github.com/tayllan/awesome-algorithms#readme)
+    *   [Education (⭐541)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
 
 ### Gaming
 
-*   [Game Datasets (⭐563)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+*   [Game Datasets (⭐588)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 
 ## [8. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 

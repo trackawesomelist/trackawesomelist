@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 17, 2018
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -33,7 +33,7 @@
 
 ### Computer Science
 
-*   [Cryptography (⭐5k)](https://github.com/sobolevn/awesome-cryptography#readme)
+*   [Cryptography (⭐5.1k)](https://github.com/sobolevn/awesome-cryptography#readme)
     *   [Papers (⭐1.6k)](https://github.com/pFarb/awesome-crypto-papers#readme) - Theory basics for using cryptography by non-cryptographers.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
@@ -42,25 +42,19 @@
 
 *   [SwiftyComments (⭐223)](https://github.com/tsucres/SwiftyComments) - Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.
 
-## [4. Awesome Code Review](/content/joho/awesome-code-review/README.md)
-
-### Tools
-
-*   [Pull Reminders](https://pullreminders.com) Automated Slack reminders and metrics for GitHub pull requests.
-
-## [5. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
+## [4. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
 
 ### JavaScript
 
 *   [tangerine](https://github.com/niftylettuce/tangerine) - Webcam streaming service using Node.js, FFmpeg, WebSockets, and Lad.
 
-## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Natural Language Processing
 
 *   [Snips NLU (⭐3.8k)](https://github.com/snipsco/snips-nlu) - Natural Language Understanding library for intent classification and entity extraction
 
-## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI
 
@@ -70,19 +64,19 @@
 
 *   [Swipper (⭐107)](https://github.com/mdg-iitr/Swipper) - Android library for swipeable gestures to control volume , brightness and seek .
 
-## [8. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [7. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### E-Commerce / Provided by the Host
 
 *   [Payhip](https://payhip.com/) - An embeddable way to sell digital downloads & memberships
 
-## [9. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Articles Modern Testing
 
 *   [STORY-BASED BDD - AN ALTERNATIVE APPROACH TO TESTING WITH EMBER](https://www.kaliber5.de/en/blog/story-based-bdd-an-alternative-approach-to-testing-with-ember/)
 
-## [10. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [9. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Projects
 
@@ -92,7 +86,7 @@
 
 *   [Serverless streaming architectures](https://d1.awsstatic.com/serverless/Whitepaper/Stream%20Processing%20Whitepaper.pdf) - Serverless streaming architectures and best practices.
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Markdown Tools
 

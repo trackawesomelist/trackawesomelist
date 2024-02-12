@@ -16,7 +16,7 @@
 
 ### Tools and frameworks
 
-*   [test-crawler (⭐27)](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports.
+*   [test-crawler (⭐28)](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports.
 
 ## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

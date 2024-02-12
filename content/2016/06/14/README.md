@@ -16,8 +16,8 @@
 
 ### For Electron / Other
 
-*   [fix-path (⭐268)](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
-*   [electron-osx-sign (⭐518)](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
+*   [fix-path (⭐269)](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
+*   [electron-osx-sign (⭐529)](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
 
 ### Components / Other
 
@@ -53,7 +53,7 @@
 
 ### Data Packages
 
-*   [engsoccerdata (⭐697)](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2016.
+*   [engsoccerdata (⭐736)](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2016.
 
 ## [7. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 27, 2021
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -117,13 +117,13 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [finoptions (⭐174)](https://github.com/bbcho/finoptions-dev) - Complete python implementation of R package fOptions with partial implementation of fExoticOptions for pricing various options.
+*   [finoptions (⭐176)](https://github.com/bbcho/finoptions-dev) - Complete python implementation of R package fOptions with partial implementation of fExoticOptions for pricing various options.
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Tools
 
-*   [CSharpier (⭐876)](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier (⭐47k)](https://github.com/prettier/prettier) printing process.
+*   [CSharpier (⭐1k)](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier (⭐48k)](https://github.com/prettier/prettier) printing process.
 
 ## [4. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Audio
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole (⭐7.4k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole (⭐8.8k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -148,48 +148,42 @@
 
 *   [Gradientos](https://www.gradientos.app) - Makes choosing a gradient fast and easy.
 
-## [7. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
-
-### Tools / General-purpose
-
-*   [FireCracker (⭐695)](https://github.com/blst-security/firecracker) - BLST CLI tool takes your HTTP logs, uses them to map your API flows and find risks.
-
-## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### C / Git
 
-*   [libkcapi (⭐138)](https://github.com/smuellerDD/libkcapi) - Linux Kernel Crypto API User Space Interface Library.
-*   [nettle (⭐48)](https://github.com/gnutls/nettle) - is a cryptographic library that is designed to fit easily in more or less any context: In crypto toolkits for object-oriented languages (C++, Python, Pike, ...), in applications like LSH or GNUPG, or even in kernel space.
+*   [libkcapi (⭐145)](https://github.com/smuellerDD/libkcapi) - Linux Kernel Crypto API User Space Interface Library.
+*   [nettle (⭐54)](https://github.com/gnutls/nettle) - is a cryptographic library that is designed to fit easily in more or less any context: In crypto toolkits for object-oriented languages (C++, Python, Pike, ...), in applications like LSH or GNUPG, or even in kernel space.
 
-## [9. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [8. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
-### Provider Resources / Miscellaneous
+### Provider Resources
 
 *   [Automatically update provider node prices](https://gist.github.com/sv3t0sl4v/28f896752edc9e20347ffc6d8cefe74c) - Script that checks the median of the prices on stats.golem.network and updates all 3 values on the provider node related to price.
 
-## [10. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [9. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Incident Management
 
-*   [Catalyst (⭐202)](https://github.com/SecurityBrewery/catalyst) - A free SOAR system that helps to automate alert handling and incident response processes.
+*   [Catalyst (⭐251)](https://github.com/SecurityBrewery/catalyst) - A free SOAR system that helps to automate alert handling and incident response processes.
 
 ### IR Tools Collection / Memory Analysis Tools
 
-*   [Orochi (⭐165)](https://github.com/LDO-CERT/orochi) - Orochi is an open source framework for collaborative forensic memory dump analysis.
+*   [Orochi (⭐181)](https://github.com/LDO-CERT/orochi) - Orochi is an open source framework for collaborative forensic memory dump analysis.
 
-## [11. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [10. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### Learning Resources
 
 *   [Drovio](https://www.drovio.com/github-students/) \[FREE] - Remote pair programming and team collaboration tool. Free Standard subscription while you're a student, to be renewed every 6 months.
 
-## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [luisiacc/gruvbox-baby (⭐313)](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full treesitter support.
+*   [luisiacc/gruvbox-baby (⭐342)](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full treesitter support.
 
-## [13. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
+## [12. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
 ### [Prof. Andrew Ng's *Machine Learning* on Coursera](https://www.coursera.org/learn/machine-learning) / Tips for this course
 
@@ -202,13 +196,13 @@
     *   [Barbara Oakley's book *A Mind for Numbers: How to Excel at Math and Science*](https://barbaraoakley.com/books/a-mind-for-numbers) ([reviews](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers)) — "We all have what it takes to excel in areas that don't seem to come naturally to us at first"
     *   [*Make It Stick: the Science of Successful Learning*](https://www.retrievalpractice.org/make-it-stick) ([reviews](https://www.goodreads.com/book/show/18770267-make-it-stick))
 
-## [14. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/README.md)
+## [13. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/README.md)
 
 ### Platforms
 
 *   [SAP Conversational AI](https://cai.tools.sap/) - An end-to-end chatbot building platform from SAP. Comes with a free Community edition and an Enterprise edition.
 
-## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Bayesian Modeling / Nonparametric Model
 

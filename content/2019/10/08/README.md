@@ -27,7 +27,7 @@
 
 ### Testing / Matchers
 
-*   [XMLUnit (⭐283)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
+*   [XMLUnit (⭐285)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
 
 ## [4. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -93,7 +93,7 @@
 
 ### E-Books / Others
 
-*   [Archives (⭐8.1k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐8.1k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
+*   [Archives (⭐8.2k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐8.2k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
 
 ## [10. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Games
 
-*   [Binbo (⭐112)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
+*   [Binbo (⭐114)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
 
 ### Miscellaneous
 
@@ -116,8 +116,8 @@
 
 ### Dynamic type checkers
 
-*   [pydantic (⭐15k)](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
-*   [typeguard (⭐1.2k)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
+*   [pydantic (⭐16k)](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
+*   [typeguard (⭐1.3k)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
 
 ## [13. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
@@ -173,7 +173,7 @@
 
 ### Packages / Command-line apps
 
-*   [npkill (⭐7.6k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
+*   [npkill (⭐7.7k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
 
 ## [15. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

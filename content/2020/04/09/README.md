@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 09, 2020
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -41,13 +41,7 @@
 *   [ovh.ie](https://www.ovh.ie/ssl-gateway/) — Free DDoS protection and SSL certificate
 *   [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) — Free DDoS protection
 
-## [5. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
-
-### Databases
-
-*   [NCEAS Interaction Web data](https://iwdb.nceas.ucsb.edu/resources.html#host_parasite) - Collation of fish host and parasites datasets from several Canadain liminological sites, including information on prevalence and intensity. Part of a larger database of species interactions in food webs and plant relationships.
-
-## [6. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
+## [5. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
 ### Research Papers / RFID NFC Tools
 
@@ -62,26 +56,26 @@
 *   [OWASP Embedded Application Security Project](https://owasp.org/www-project-embedded-application-security/) - Development best practices and list of hardware and software tools.
 *   [Siliconpr0n](https://siliconpr0n.org/) - A Wiki/Archive of all things IC reversing.
 
-## [7. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [6. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Products
 
 *   [RosaeNLG](https://rosaenlg.org) - An open-source library for node.js or client side (browser) execution, based on the Pug template engine, to generate texts in English, French, German and Italian.
 
-## [8. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [7. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### Blog Series
 
 *   [WebGL Best Practices](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices) - Mozilla's offical set of best practices.
 *   [WebGL Month (⭐212)](https://github.com/lesnitsky/webgl-month) – Daily WebGL tutorial for a month.
 
-## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Miscellaneous
 
-*   [husky (⭐30k)](https://github.com/typicode/husky) - Create Git hook scripts.
+*   [husky (⭐31k)](https://github.com/typicode/husky) - Create Git hook scripts.
 
-## [10. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Books
 
@@ -91,11 +85,11 @@
 
 *   [Learn out of mistakes. Postmortems to the rescue.](https://fernandocejas.com/2020/03/21/learn-out-of-mistakes-postmortems/)
 
-## [11. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [10. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
-*   [xxh (⭐4.4k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
+*   [xxh (⭐4.7k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
 
 ### System Utilities / Directory Navigation
 

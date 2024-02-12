@@ -36,14 +36,14 @@
 
 ### Authentication Authorisation
 
-*   [Vert.x-Pac4j (⭐117)](https://github.com/pac4j/vertx-pac4j) - Vert.x authentication/authorisation implemented using [pac4j](http://www.pac4j.org/).
+*   [Vert.x-Pac4j (⭐121)](https://github.com/pac4j/vertx-pac4j) - Vert.x authentication/authorisation implemented using [pac4j](http://www.pac4j.org/).
 
 ## [5. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
-*   [SHML (⭐431)](https://github.com/odb/shml) - Style framework for the terminal (Shell Markup Language)
-*   [sudocabulary (⭐156)](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
+*   [SHML (⭐436)](https://github.com/odb/shml) - Style framework for the terminal (Shell Markup Language)
+*   [sudocabulary (⭐157)](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
 
 ### Multimedia and File Formats / Directory Navigation
 
@@ -79,22 +79,22 @@
 ### C / Git
 
 *   [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - Cryptographic library developed as a separated module of GnuPG.
-*   [libsodium (⭐11k)](https://github.com/jedisct1/libsodium) - Modern and easy-to-use crypto library.
+*   [libsodium (⭐12k)](https://github.com/jedisct1/libsodium) - Modern and easy-to-use crypto library.
 *   [libtomcrypt (⭐1.4k)](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit.
 *   [NaCl](https://nacl.cr.yp.to/) - High-speed library for network communication, encryption, decryption, signatures, etc.
-*   [wolfSSL (⭐2k)](https://github.com/wolfSSL/wolfssl) - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
+*   [wolfSSL (⭐2.1k)](https://github.com/wolfSSL/wolfssl) - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
 
 ### C++ / Git
 
-*   [Botan](https://botan.randombit.net/) - Cryptography library written in `C++11`.
-*   [HElib (⭐3k)](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
+*   [Botan](https://botan.randombit.net/) - Cryptography library written in `C++20`.
+*   [HElib (⭐2)](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
 *   [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - Low-level cryptographic library.
-*   [s2n (⭐4.3k)](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols.
+*   [s2n (⭐4.4k)](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols.
 
 ### C-sharp / Git
 
 *   [libsodium-net](https://github.com/adamcaudill/libsodium-net) - Secure cryptographic library, port of libsodium for .NET.
-*   [PCLCrypto (⭐227)](https://github.com/AArnott/PCLCrypto) - Provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries.
+*   [PCLCrypto (⭐228)](https://github.com/AArnott/PCLCrypto) - Provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries.
 
 ### Common Lisp / Git
 
@@ -103,7 +103,7 @@
 ### Elixir / Git
 
 *   [elixir-rsa (⭐34)](https://github.com/trapped/elixir-rsa) - `:public_key` cryptography wrapper for Elixir.
-*   [ex\_crypto (⭐132)](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `:crypto` and `:public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
+*   [ex\_crypto (⭐134)](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `:crypto` and `:public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
 
 ### Erlang / Git
 
@@ -117,36 +117,36 @@
 
 ### JavaScript / Git
 
-*   [javascript-crypto-library (⭐284)](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
-*   [PolyCrypt (⭐264)](https://github.com/polycrypt/polycrypt) - Pure JS implementation of the WebCrypto API.
+*   [javascript-crypto-library (⭐285)](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
+*   [PolyCrypt (⭐265)](https://github.com/polycrypt/polycrypt) - Pure JS implementation of the WebCrypto API.
 
 ### Java / Git
 
 *   [Flexiprovider](http://www.flexiprovider.de/) - Powerful toolkit for the Java Cryptography Architecture.
-*   [scrypt (⭐421)](https://github.com/wg/scrypt) - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
+*   [scrypt (⭐424)](https://github.com/wg/scrypt) - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
 
 ### Julia / Git
 
 *   [Crypto.jl (⭐9)](https://github.com/danielsuo/Crypto.jl) - Library that wraps OpenSSL, but also has pure Julia implementations for reference.
-*   [MbedTLS.jl (⭐35)](https://github.com/JuliaWeb/MbedTLS.jl) - Wrapper around the mbed TLS and cryptography C libary.
-*   [SHA.jl (⭐38)](https://github.com/staticfloat/SHA.jl) - Performant, 100% native-julia SHA1, SHA2-{224,256,384,512} implementation.
+*   [MbedTLS.jl (⭐40)](https://github.com/JuliaWeb/MbedTLS.jl) - Wrapper around the mbed TLS and cryptography C libary.
+*   [SHA.jl (⭐45)](https://github.com/staticfloat/SHA.jl) - Performant, 100% native-julia SHA1, SHA2-{224,256,384,512} implementation.
 
 ### Lua / Git
 
-*   [lua-lockbox (⭐334)](https://github.com/somesocks/lua-lockbox) - Collection of cryptographic primitives written in pure Lua.
+*   [lua-lockbox (⭐338)](https://github.com/somesocks/lua-lockbox) - Collection of cryptographic primitives written in pure Lua.
 
 ### PHP / Git
 
 *   [halite](https://paragonie.com/project/halite) - Simple library for encryption using `libsodium`.
-*   [PHP Encryption (⭐3.6k)](https://github.com/defuse/php-encryption) - Library for encrypting data with a key or password in PHP.
+*   [PHP Encryption (⭐3.7k)](https://github.com/defuse/php-encryption) - Library for encrypting data with a key or password in PHP.
 
 ### Python / Git
 
-*   [charm (⭐487)](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
+*   [charm (⭐506)](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
 *   [cryptography](https://cryptography.io/en/latest/) - Python library which exposes cryptographic recipes and primitives.
 *   [cryptopy](https://sourceforge.net/projects/cryptopy/) - Pure python implementation of cryptographic algorithms and applications.
 *   [paramiko](http://www.paramiko.org/) - Python implementation of the SSHv2 protocol, providing both client and server functionality.
-*   [pycryptodome (⭐2.4k)](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives.
+*   [pycryptodome (⭐2.6k)](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives.
 
 ### R / Git
 
@@ -235,10 +235,6 @@
 
 ## [10. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
-### Java VM / Clojure
-
-*   [Friboo (⭐118)](https://github.com/zalando/friboo) - Utility library for writing microservices in Clojure, with support for Swagger and OAuth.
-
 ### PHP / Scala
 
 *   [Lumen](https://lumen.laravel.com/) - Stunningly fast micro-framework.
@@ -246,7 +242,7 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [Skipper (⭐2.8k)](https://github.com/zalando/skipper) - HTTP router useful for decoupling routing from service logic.
+*   [Skipper (⭐3k)](https://github.com/zalando/skipper) - HTTP router useful for decoupling routing from service logic.
 
 ### Storage / Scala
 
@@ -355,9 +351,9 @@ git rev-list --count <branch-name>
 
 ### Concurrency
 
-*   [CUB (⭐70)](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. \[New BSD]
-*   [moderngpu (⭐1.5k)](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. \[FreeBSD & Copyright, Sean Baxter]
-*   [NCCL (⭐2.4k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
+*   [CUB (⭐75)](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. \[New BSD]
+*   [moderngpu (⭐1.6k)](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. \[FreeBSD & Copyright, Sean Baxter]
+*   [NCCL (⭐2.7k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
 
 ## [20. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -414,7 +410,7 @@ git rev-list --count <branch-name>
 
 ### Game
 
-*   [MonoGame (⭐10k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
+*   [MonoGame (⭐11k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
 
 ### ORM
 
@@ -430,7 +426,7 @@ git rev-list --count <branch-name>
 
 ## Git-Flow
 
-Improved [Git-flow (⭐5.2k)](https://github.com/petervanderdoes/gitflow-avh)
+Improved [Git-flow (⭐5.4k)](https://github.com/petervanderdoes/gitflow-avh)
 
 ### Index
 
@@ -594,6 +590,18 @@ git flow init -d
 </p>
 <hr>
 
+1.  [Arabic Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-ar.md)
+2.  [Brazilian Portuguese Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-pt_BR.md)
+3.  [Chinese Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-zh.md)
+4.  [German Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-de.md)
+5.  [Greek Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-el.md)
+6.  [Hindi Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-hi.md)
+7.  [Korean Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-ko.md)
+8.  [Polish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-pl.md)
+9.  [Spanish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-es.md)
+10. [Turkish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-tr.md)
+11. [Bengali Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md/./other-sheets/git-cheat-sheet-bn.md)
+
 ## [28. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Blog posts
@@ -661,7 +669,7 @@ git flow init -d
 
 ### Similar lists / Videos
 
-*   [Awesome Open (⭐69)](https://github.com/paulhendricks/awesome-open):
+*   [Awesome Open (⭐75)](https://github.com/paulhendricks/awesome-open):
     A curated list of organizations, projects and initiatives that maintain open codebases and datasets
 
 ## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
@@ -677,16 +685,16 @@ git flow init -d
 ### Chatting
 
 *   [chatty (⭐35)](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
-*   [cog (⭐921)](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
-*   [ExIrc (⭐147)](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
-*   [Guri (⭐20)](https://github.com/elvio/guri) - Automate tasks using chat messages.
+*   [cog (⭐920)](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
+*   [ExIrc (⭐148)](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
+*   [Guri (⭐21)](https://github.com/elvio/guri) - Automate tasks using chat messages.
 *   [kaguya (⭐74)](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
-*   [slacker (⭐83)](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
+*   [slacker (⭐84)](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
 *   [yocingo (⭐39)](https://github.com/Yawolf/yocingo) - Create your own Telegram Bot.
 
 ### Documentation
 
-*   [phoenix\_swagger (⭐654)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
+*   [phoenix\_swagger (⭐662)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
 
 ### Examples and funny stuff
 
@@ -694,11 +702,11 @@ git flow init -d
 
 ### Framework Components
 
-*   [multiverse (⭐92)](https://github.com/Nebo15/multiverse) - Plug that allows to add version compatibility layers via API Request/Response Gateways.
+*   [multiverse (⭐93)](https://github.com/Nebo15/multiverse) - Plug that allows to add version compatibility layers via API Request/Response Gateways.
 
 ### Geolocation
 
-*   [proj (⭐7)](https://github.com/CandyGumdrop/proj) - Elixir coordinate conversion library using OSGeo's PROJ.4.
+*   [proj (⭐8)](https://github.com/CandyGumdrop/proj) - Elixir coordinate conversion library using OSGeo's PROJ.4.
 
 ### HTTP
 
@@ -706,7 +714,7 @@ git flow init -d
 
 ### Images
 
-*   [ex\_image\_info (⭐92)](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
+*   [ex\_image\_info (⭐94)](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
 
 ### Logging
 
@@ -714,15 +722,15 @@ git flow init -d
 
 ### Release Management
 
-*   [distillery (⭐2.9k)](https://github.com/bitwalker/distillery) - A pure Elixir implementation of release packaging functionality for the Erlang VM.
+*   [distillery (⭐3k)](https://github.com/bitwalker/distillery) - A pure Elixir implementation of release packaging functionality for the Erlang VM.
 
 ### Security
 
-*   [ssl\_verify\_fun (⭐96)](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
+*   [ssl\_verify\_fun (⭐99)](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
 
 ### Testing
 
-*   [bypass (⭐912)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
+*   [bypass (⭐926)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
 
 ### Third Party APIs
 
@@ -759,11 +767,11 @@ git flow init -d
 
 ### Project Generators
 
-*   [crystal\_lib (⭐137)](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
+*   [crystal\_lib (⭐139)](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
 
 ### Template Engine
 
-*   [Kilt (⭐149)](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
+*   [Kilt (⭐150)](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
 *   [Slang (⭐232)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
 
 ### Web Frameworks

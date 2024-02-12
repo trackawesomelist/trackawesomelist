@@ -57,7 +57,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-threejs (⭐761)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
+*   [vue-threejs (⭐772)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
 
 ## [6. BEM Resources](/content/sturobson/BEM-resources/README.md)
 

@@ -60,11 +60,11 @@
 
 ### Source Code Repos
 
-*   [Gogs (⭐42k)](https://github.com/gogits/gogs)  - A painless self-hosted Git Service
+*   [Gogs (⭐44k)](https://github.com/gogits/gogs)  - A painless self-hosted Git Service
 
 ### Collaboration Tools
 
-*   [ssh chat (⭐5.1k)](https://github.com/shazow/ssh-chat) - Chat over SSH
+*   [ssh chat (⭐5.2k)](https://github.com/shazow/ssh-chat) - Chat over SSH
 
 ### CI / CD
 

@@ -125,7 +125,7 @@
 
 ### Testing
 
-*   [mox (⭐1.2k)](https://github.com/dashbitco/mox) - Mocks and explicit contracts for Elixir.
+*   [mox (⭐1.3k)](https://github.com/dashbitco/mox) - Mocks and explicit contracts for Elixir.
 
 ## [11. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -148,7 +148,7 @@
 
 ### Editable data grid / spreadsheet
 
-*   [ReactGrid (⭐867)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
+*   [ReactGrid (⭐968)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -178,13 +178,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-scroll-picker (⭐24)](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
+*   [vue3-scroll-picker (⭐26)](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
 
 ## [17. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Open Source / Community
 
-*   [TroisJS (⭐3.8k)](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
+*   [TroisJS (⭐4k)](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
 
 ## [18. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 

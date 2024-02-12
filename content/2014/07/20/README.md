@@ -10,7 +10,7 @@
 
 ### Database
 
-*   [BrightstarDb (⭐455)](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB is a native .NET RDF triple store
+*   [BrightstarDb (⭐458)](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB is a native .NET RDF triple store
 
 ### MVVM
 
@@ -20,20 +20,20 @@
 
 *   [Json.NET (⭐10k)](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 *   [ServiceStack.Text (⭐1.2k)](https://github.com/ServiceStack/ServiceStack.Text) - JSON, JSV and CSV Text Serializers used in servicestack.net
-*   [Msgpack-Cli (⭐810)](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure
+*   [Msgpack-Cli (⭐817)](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure
 
 ## [2. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 
 ### Extensions / General Purpose
 
-*   [FindKeyConflicts (⭐145)](https://github.com/skuroda/FindKeyConflicts) — identify conflicting key mappings.
-*   [Glue (⭐255)](https://github.com/chrissimpkins/glue) — a cross-platform, extensible plug-in for Sublime Text 2 and 3 that connects your favorite editor to your shell.
-*   [File Navigator (⭐55)](https://github.com/csch0/SublimeText-File-Navigator) — keyboard-friendly file navigator and manager.
+*   [File Navigator (⭐56)](https://github.com/csch0/SublimeText-File-Navigator) — keyboard-friendly file navigator and manager.
+*   [FindKeyConflicts (⭐149)](https://github.com/skuroda/FindKeyConflicts) — identify conflicting key mappings.
+*   [Glue (⭐254)](https://github.com/chrissimpkins/glue) — a cross-platform, extensible plug-in for Sublime Text 2 and 3 that connects your favorite editor to your shell.
 
 ### Fun stuff / Monospace Fonts
 
-*   [Recommended Fonts for Programming?](http://stackoverflow.com/questions/4689/recommended-fonts-for-programming) at StackOverflow.
 *   [Progamming Fonts](http://blog.codinghorror.com/progamming-fonts/) and [Revisiting Programming Fonts](http://blog.codinghorror.com/revisiting-programming-fonts/) at [CodingHorror](http://blog.codinghorror.com).
+*   [Recommended Fonts for Programming?](http://stackoverflow.com/questions/4689/recommended-fonts-for-programming) at StackOverflow.
 
 ## [3. Critical Path Css Tools](/content/addyosmani/critical-path-css-tools/README.md)
 
@@ -46,13 +46,13 @@
 
 ### Graphic Displays
 
-*   [extrafont (⭐282)](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
-*   [showtext (⭐427)](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
+*   [extrafont (⭐306)](https://github.com/wch/extrafont) - Tools for using fonts in R graphics.
+*   [showtext (⭐464)](https://github.com/yixuan/showtext) - Enable R graphics device to show text using system fonts.
 
 ### Database Management
 
 *   [RODBC](http://cran.r-project.org/web/packages/RODBC/) - ODBC database access for R.
-*   [DBI (⭐253)](https://github.com/rstats-db/DBI) - Defines a common interface between the R and database management systems.
+*   [DBI (⭐275)](https://github.com/rstats-db/DBI) - Defines a common interface between the R and database management systems.
 *   [RMySQL](http://cran.r-project.org/web/packages/RMySQL/) - R interface to the MySQL database.
 *   [ROracle](http://cran.r-project.org/web/packages/ROracle/index.html) - OCI based Oracle database interface for R.
 *   [RPostgreSQL](https://code.google.com/p/rpostgresql/) - R interface to the PostgreSQL database system.

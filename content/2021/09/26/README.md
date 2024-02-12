@@ -22,19 +22,19 @@
 
 ### Third-Party Packages / Search
 
-*   [django-admin-search (⭐71)](https://github.com/shinneider/django-admin-search) - Modal filter for django admin.
+*   [django-admin-search (⭐72)](https://github.com/shinneider/django-admin-search) - Modal filter for django admin.
 
 ## [4. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Machine Learning
 
-*   [scicloj.ml (⭐167)](https://github.com/scicloj/scicloj.ml)
+*   [scicloj.ml (⭐190)](https://github.com/scicloj/scicloj.ml)
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Image
 
-*   [ImageScript (⭐540)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+*   [ImageScript (⭐554)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
