@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Feb 13, 2024](/content/2024/02/13/README.md)
+
+### Web
+
+*   [Tiniest vWeb Server (⭐0)](https://github.com/davlgd/tws) - A < 1MB static hosting web server written in V, based on x.vweb. 🍃
+
 ## [Jan 21, 2024](/content/2024/01/21/README.md)
 
 ### Interpreters/Compilers

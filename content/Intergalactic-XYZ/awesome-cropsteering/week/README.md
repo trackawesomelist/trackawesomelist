@@ -6,24 +6,30 @@
 
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
-### AI / ML
+### **AI/ML**
 
 *   [OpenWeedLocator (⭐271)](https://github.com/geezacoleman/OpenWeedLocator) - Opensource hardware and software weed detector that uses entirely off-the-shelf componentry, very simple green-detection algorithms (with capacity to upgrade to in-crop detection) and 3D printable parts
+*   [Plant disease (⭐33)](https://github.com/morenoh149/plantdisease) - Predictive model for cannabis sickness. One source identifies 30 types of cannabis ailments.
 
-### Grow Automation
+### **Grow Automation**
 
 *   [DROMatic OS (⭐297)](https://github.com/drolsen/DRO-Matic) - The DRO-Matic OS has been built to automate nearly every aspect of hydroponic farming for you! From nutrient dosing to pH / EC drift fixing, feeding types to draining, top-offs and even timers; we have quantified everything you need to automate successful crops.
 *   [MudPi (⭐259)](https://github.com/mudpi/mudpi-core) - A python package to gather sensor readings, trigger components, control devices and more in an event based system that can be run on a linux SBC, including Raspberry Pi
 *   [Mycodo (⭐2.8k)](https://github.com/kizniche/Mycodo) - Mycodo is open source software for the Raspberry Pi that couples inputs and outputs in interesting ways to sense and manipulate the environment
+*   [gardenAutomation (⭐384)](https://github.com/ledgardener/gardenAutomation) - Garden Automation toolkit by [LedGardener](https://ledgardener.com/category/builds/)
 *   [WEGA-Box (⭐12)](https://github.com/WEGA-project/wegabox) - Hydroponic system management toolkit
 
-### Calculators
+### **Calculators**
 
 *   [WEGA-HPG (⭐154)](https://github.com/WEGA-project/wega-hpg) - HPG Calculator
 
 ### Node RED
 
 *   [Node-RED (⭐18k)](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
+
+### Node RED / Node RED flows
+
+*   [Home Automation Repository (⭐1)](https://github.com/Killerherts/nodeRed-HA-GrowingFunctions#installationhttps://github.com/Killerherts/nodeRed-HA-GrowingFunctions) - repository contains configuration files for a home automation system, including various sensors, inputs, and automation scripts
 
 ### Tasmota / Tasmota Configs
 
@@ -37,11 +43,11 @@
 
 *   [HAGR (⭐1)](https://github.com/JakeTheRabbit/HAGR) - Home Assistant Grow Room is a repository for grow automation related things for Home Assistant.
 
-### Facility management / Home Assistant UI
+### **Facility management** / Home Assistant UI
 
 *   [OpenTHC (⭐6)](https://github.com/openthc/docker) - OpenTHC is an environment of web-based applications focused on helping Cannabis/Hemp and Organic Horticulture industry participants meet their regulatory requirements
 
-### Irrigation / Home Assistant UI
+### **Irrigation** / Home Assistant UI
 
 *   [OpenSprinkler AVR/RPI/BBB Firmware (⭐436)](https://github.com/OpenSprinkler/OpenSprinkler-Firmware) - This is a unified OpenSprinkler firmware for Arduino, and Linux-based OpenSprinklers such as OpenSprinkler Pi
 *   [OpenMinder (⭐33)](https://github.com/autogrow/openminder) -  Allows anyone to build a device that can monitor the rootzone of their plants to make the most optimum use of water and fertigation ingredients to ensure a happy plant. This is done by measuring the water going into the plants on the irrigation side, as well as coming out on the runoff side, thus allowing comparisons
@@ -74,23 +80,23 @@
 
 ### DIY / Modular systems
 
-*   [OpenSprinkler Hardware (⭐58)](https://github.com/OpenSprinkler/OpenSprinkler-Hardware) - OpenSprinkler Hardware Design files, made in EagleCAD software.
+*   [OpenSprinkler Hardware (⭐58)](https://github.com/OpenSprinkler/OpenSprinkler-Hardware) - OpenSprinkler Hardware Design files, made in EagleCAD software
 
-### Metrics and Logging / Modular systems
+### **Metrics and Logging** / Modular systems
 
 *   [OS-RS485 (⭐2)](https://github.com/cropsteering/OS-RS485) - OpenSteering-RS485 Data logger
 *   [OpenSteering-SDI12 (⭐3)](https://github.com/cropsteering/OS-SDI12) - SDI-12 Data logger, up to 62 addresses
 
-### Mixers and dosers / Modular systems
+### **Mixers and Dosers** / Modular systems
 
-*   [WEGA-Mixer (⭐25)](https://github.com/WEGA-project/wega-mixer)
+*   [WEGA-Mixer (⭐25)](https://github.com/WEGA-project/wega-mixer) - WEGA-Mixer is a device for the automatic preparation of two-component complex fertilizers in liquids by precisely mixing their composition (RU, requires google translate).
 
-### MQTT / Modular systems
+### **MQTT** / Modular systems
 
 *   [Mosquitto (⭐8.1k)](https://github.com/eclipse/mosquitto) - Mosquitto is an open source implementation of a server for version 5.0, 3.1.1, and 3.1 of the MQTT protocol
 *   [EMQX (⭐13k)](https://github.com/emqx/emqx) - EMQX is the world's most scalable open-source MQTT broker with a high performance that connects 100M+ IoT devices in 1 cluster, while maintaining 1M message per second throughput and sub-millisecond latency.
 
-### Relay and power control / Modular systems
+### **Relay and power control** / Modular systems
 
 *   [EC-POWERCONTROL (⭐0)](https://github.com/cropsteering/EC-POWERCONTROL) - Edge controller power control for esp32
 
@@ -99,7 +105,7 @@
 *   [InfluxDB (⭐27k)](https://github.com/influxdata/influxdb) - InfluxDB is an open source time series database
 *   [Grafana (⭐59k)](https://github.com/grafana/grafana) - The open-source platform for monitoring and observability
 
-### Storing Data / Modular systems
+### **Storing Data** / Modular systems
 
 *   [Open TSDB (⭐4.9k)](https://github.com/OpenTSDB/opentsdb) - OpenTSDB is a distributed, scalable Time Series Database (TSDB) written on
     top of HBase
@@ -109,11 +115,11 @@
 *   [Giraffe (⭐176)](https://github.com/influxdata/giraffe) - A React-based visualization library powering the data visualizations in the InfluxDB 2.0 UI
 *   [D3.js (⭐107k)](https://github.com/d3/d3) - D3 (or D3.js) is a free, open-source JavaScript library for visualizing data. Its low-level approach built on web standards offers unparalleled flexibility in authoring dynamic, data-driven graphics
 
-### Zigbee / Modular systems
+### **Zigbee** / Modular systems
 
 *   [Zigbee2MQTT (⭐11k)](https://github.com/Koenkk/zigbee2mqtt) - It bridges events and allows you to control your Zigbee devices via MQTT. In this way you can integrate your Zigbee devices with whatever smart home infrastructure you are using.
 
-### Other Awesome Lists / Modular systems
+### **Other Awesome Lists** / Modular systems
 
 *   [Awesome Agriculture (⭐1.1k)](https://github.com/brycejohnston/awesome-agriculture)
 *   [Awesome ESP (⭐785)](https://github.com/agucova/awesome-esp)

@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
+### Plugin Manager
+
+*   [echasnovski/mini.nvim#mini.deps (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-deps.md) - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
+
 ### (requires Neovim 0.5) / Diagnostics
 
 *   [artemave/workspace-diagnostics.nvim (⭐29)](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.

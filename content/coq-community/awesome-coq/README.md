@@ -6,11 +6,11 @@ A curated list of awesome Coq libraries, plugins, tools, verification projects, 
 
 [ Daily / [Weekly](/content/coq-community/awesome-coq/week/README.md) / [Overview](/content/coq-community/awesome-coq/readme/README.md) ]
 
-## [Feb 08, 2024](/content/2024/02/08/README.md)
+## [Feb 13, 2024](/content/2024/02/13/README.md)
 
 ### Resources / Tutorials and Hints
 
-*   [Coq requirements in Common Criteria evaluations](https://cyber.gouv.fr/sites/default/files/document/anssi-requirements-on-the-use-of-coq-in-the-context-of-common-criteria-evaluations-v1.1-en.pdf) - Guide on how to write readable and reviewable Coq code in high assurance applications.
+*   [Coq requirements in Common Criteria evaluations](https://inria.hal.science/hal-04452421) - Guide on how to write readable and reviewable Coq code in high assurance applications.
 
 ## [Nov 09, 2023](/content/2023/11/09/README.md)
 
