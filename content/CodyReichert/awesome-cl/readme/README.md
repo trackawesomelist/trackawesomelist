@@ -1696,6 +1696,7 @@ and also: [lisp-format (⭐45)](https://github.com/eschulte/lisp-format) and [cl
 
 *   [literate-lisp (⭐55)](https://github.com/jingtaozf/literate-lisp) -  Load Common Lisp code blocks from Emacs' Org files. [MIT][200].
 *   [erudite (⭐68)](https://github.com/mmontone/erudite) - Literate Programming System built with interactive development in mind. [MIT][200].
+*   [papyrus (⭐27)](https:/github.com/tani/papyrus) - Papyrus makes your markdown executable with the reader macro of Common Lisp.[MIT][200]
 
 ## Logging
 

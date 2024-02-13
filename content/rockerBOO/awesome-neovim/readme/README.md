@@ -205,7 +205,7 @@ Collections of awesome neovim plugins.
 *   [dense-analysis/neural (⭐383)](https://github.com/dense-analysis/neural) - Integrate LLMs for generating code, interacting with chat bots, and more.
 *   [jpmcb/nvim-llama (⭐171)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
 *   [David-Kunz/gen.nvim (⭐578)](https://github.com/David-Kunz/gen.nvim) - Generate text using LLMs (via Ollama) with customizable prompts.
-*   [kiddos/gemini.nvim (⭐0)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
+*   [kiddos/gemini.nvim (⭐12)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
 
 ## Programming Languages Support
 
@@ -667,6 +667,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [serenevoid/kiwi.nvim (⭐130)](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki with necessary features.
 *   [ada0l/obsidian/ (⭐31)](https://github.com/ada0l/obsidian) - Base Obsidian functionality.
 *   [gsuuon/note.nvim (⭐37)](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
+*   [backdround/global-note.nvim (⭐1)](https://github.com/backdround/global-note.nvim) - One global note in a floating window.
 
 ## Utility
 

@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [echasnovski/mini.nvim#mini.deps (⭐3.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-deps.md) - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
 
+### Note Taking / Diagnostics
+
+*   [backdround/global-note.nvim (⭐1)](https://github.com/backdround/global-note.nvim) - One global note in a floating window.
+
 ## [Feb 12, 2024](/content/2024/02/12/README.md)
 
 ### (requires Neovim 0.5) / Diagnostics
@@ -76,7 +80,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [kiddos/gemini.nvim (⭐0)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
+*   [kiddos/gemini.nvim (⭐12)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
 
 ## [Jan 28, 2024](/content/2024/01/28/README.md)
 
