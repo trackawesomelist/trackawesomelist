@@ -6,6 +6,12 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 [ [Daily](/content/AchoArnold/discount-for-student-dev/README.md) / Weekly / [Overview](/content/AchoArnold/discount-for-student-dev/readme/README.md) ]
 
+## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
+
+### Visual Analytics
+
+*   [CARTO](https://docs.carto.com/faqs/carto-for-education#how-can-i-get-a-student-account-in-carto) \[FREE / DISCOUNT] - Free account upgrades with increased database storage, real time data, Location Data Services Credits, and premium features for 2 years.
+
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
 ### Visual Analytics
@@ -272,10 +278,6 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 ### Web Hosting
 
 *   [Bip](https://bip.sh/students) \[DISCOUNT] - Static web hosting. Bip provides a 30% recurring discount per domain on your student account [on all plans](https://bip.sh/pricing).
-
-### Visual Analytics
-
-*   [CARTO](https://carto.com/help/getting-started/student-accounts/) \[FREE / DISCOUNT] - Free account upgrades with increased database storage, real time data, Location Data Services Credits, and premium features for 2 years.
 
 ## [Oct 26 - Nov 01, 2020](/content/2020/43/README.md)
 

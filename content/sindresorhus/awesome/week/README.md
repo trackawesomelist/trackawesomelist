@@ -10,7 +10,12 @@
 
 ### Platforms
 
+*   [Bluetooth Low Energy (⭐18)](https://github.com/dotintent/awesome-ble#readme) - Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
 *   [Uno Platform (⭐23)](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
+
+### Front-End Development
+
+*   [Frontend GIS (⭐287)](https://github.com/joewdavies/awesome-frontend-gis#readme) - Geographic Information Systems (GIS) for web browsers.
 
 ### Back-End Development
 
@@ -18,6 +23,7 @@
 
 ### Miscellaneous
 
+*   [Stock Trading (⭐19)](https://github.com/shi-rudo/awesome-stock-trading#readme) - Purchase and sale of equities of publicly traded companies with the aim of generating profits.
 *   [Astrophotography (⭐27)](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
 
 ## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
@@ -1272,7 +1278,7 @@
 *   macOS - Operating system for Apple's Mac computers.
     *   [Screensavers (⭐3.8k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
     *   [Apps (⭐69k)](https://github.com/jaywcjlove/awesome-mac#readme)
-    *   [Open Source Apps (⭐38k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+    *   [Open Source Apps (⭐39k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## [Sep 17 - Sep 23, 2018](/content/2018/38/README.md)
 

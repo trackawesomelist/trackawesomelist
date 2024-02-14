@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Feb 14, 2024](/content/2024/02/14/README.md)
+
+### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
+
+*   [Combining Functional and Automata Synthesis to Discover Causal Reactive Programs](https://dl.acm.org/doi/pdf/10.1145/3571249) - ***POPL'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10470162446663474225\&hl=en\&as_sdt=0,5)]. A new algorithm that synthesizes functional reactive programs from observation data, which iterates between a functional synthesis step, which attempts to generate a transition function over observed states, and an automata synthesis step, which adds any additional latent state necessary to fully account for the observations.
+
 ## [Feb 13, 2024](/content/2024/02/13/README.md)
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
@@ -1490,12 +1496,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Meta-Level Considerations / Marr's Levels of Analysis
 
 *   [From understanding computation to understanding neural circuitry](https://dspace.mit.edu/bitstream/handle/1721.1/5782/AIM-357.pdf?sequence=2) - ***Neuroscience Research Program Bulletin***, 1979. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=11150567121969913334)].
-
-## [Jul 03, 2022](/content/2022/07/03/README.md)
-
-### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
-
-*   [AutumnSynth: Synthesis of Reactive Programs with Structured Latent State](https://openreview.net/forum?id=Qw8eyl2_N_-) - ***NeurIPS'21 AIPLANS Workshop***, 2021. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=AutumnSynth%3A+Synthesis+of+Reactive+Programs+with+Structured+Latent+State\&btnG=)].
 
 ## [Jul 02, 2022](/content/2022/07/02/README.md)
 

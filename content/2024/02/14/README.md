@@ -1,12 +1,74 @@
 # Awesome List Updates on Feb 14, 2024
 
-5 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
+
+*   [Combining Functional and Automata Synthesis to Discover Causal Reactive Programs](https://dl.acm.org/doi/pdf/10.1145/3571249) - ***POPL'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10470162446663474225\&hl=en\&as_sdt=0,5)]. A new algorithm that synthesizes functional reactive programs from observation data, which iterates between a functional synthesis step, which attempts to generate a transition function over observed states, and an automata synthesis step, which adds any additional latent state necessary to fully account for the observations.
+
+## [2. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+
+### Papers / 2024
+
+*   [Improved Membership Inference Attacks Against Language Classification Models](https://arxiv.org/pdf/2310.07219.pdf) - (ICLR) *Presents a framework for running membership inference attacks against classifier, in audit mode.*
+
+## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+### Literate programming / Third-party APIs
+
+*   [papyrus (⭐27)](https://github.com/tani/papyrus) - Papyrus makes your markdown executable with the reader macro of Common Lisp.[MIT](https://opensource.org/licenses/MIT)
+
+## [4. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+
+### Visual Analytics
+
+*   [CARTO](https://docs.carto.com/faqs/carto-for-education#how-can-i-get-a-student-account-in-carto) \[FREE / DISCOUNT] - Free account upgrades with increased database storage, real time data, Location Data Services Credits, and premium features for 2 years.
+
+## [5. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+
+### Contents / EHR
+
+*   [Akello](https://akello.io) - Integrated Mental Health Infrastructure
+
+### Contents / Frameworks
+
+*   [Inferno](https://inferno-framework.github.io) - providing testing tools for the FHIR
+
+### Contents / Libraries
+
+*   [nhs-numbers (⭐5)](https://github.com/uk-fci/nhs-number) - Python package to provide utilities for NHS Numbers, including validity checks, normalisation, and generation.
+
+### Contents / PHR
+
+*   [Fasten Health (⭐1.2k)](https://github.com/fastenhealth/fasten-onprem) - open-source, self-hosted, personal/family electronic medical record aggregator
+
+### Contents / Telemedicine
+
+*   [Healthcare worker at home](https://hcw-at-home.com) - ​ Open Source Telehealth software
+
+### Contents / Research
+
+*   [LabKey Server](https://www.labkey.com/products-services/labkey-server/) - Platform for Translational Research.
+
+## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Helpers
+
+*   [unplugin-detect-duplicated-deps (⭐30)](https://github.com/tjx666/unplugin-detect-duplicated-deps) - Detect duplicate packaged dependencies.
+
+## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+
+### Tools / Templates & Starter Kits
+
+*   [State Design System (DSFR) starter (⭐18)](https://github.com/numerique-gouv/content-manager) - Wagtail template and starter kit from the French government.
+
+## [8. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -74,27 +136,22 @@
 
 *   [Standard Webhooks (⭐989) (⭐983)](https://github.com/standard-webhooks/standard-webhooks) - Open source tools and guidelines for sending webhooks easily, securely, and reliably.
 
-## [2. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [9. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Community / Webinterface
 
 *   [NixCon](https://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐196)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐60)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
-## [4. Awesome List](/content/sindresorhus/awesome/README.md)
+## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
+*   [Bluetooth Low Energy (⭐18)](https://github.com/dotintent/awesome-ble#readme) - Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
 *   [Uno Platform (⭐23)](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
+
+### Front-End Development
+
+*   [Frontend GIS (⭐287)](https://github.com/joewdavies/awesome-frontend-gis#readme) - Geographic Information Systems (GIS) for web browsers.
 
 ### Back-End Development
 
@@ -102,9 +159,10 @@
 
 ### Miscellaneous
 
+*   [Stock Trading (⭐19)](https://github.com/shi-rudo/awesome-stock-trading#readme) - Purchase and sale of equities of publicly traded companies with the aim of generating profits.
 *   [Astrophotography (⭐27)](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
 
-## [5. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [11. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Various Godot versions
 

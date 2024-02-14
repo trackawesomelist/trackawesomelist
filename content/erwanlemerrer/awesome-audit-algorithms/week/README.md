@@ -6,6 +6,12 @@ A curated list of algorithms and papers for auditing black-box algorithms.
 
 [ [Daily](/content/erwanlemerrer/awesome-audit-algorithms/README.md) / Weekly / [Overview](/content/erwanlemerrer/awesome-audit-algorithms/readme/README.md) ]
 
+## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
+
+### Papers / 2024
+
+*   [Improved Membership Inference Attacks Against Language Classification Models](https://arxiv.org/pdf/2310.07219.pdf) - (ICLR) *Presents a framework for running membership inference attacks against classifier, in audit mode.*
+
 ## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
 
 ### Papers / 2024

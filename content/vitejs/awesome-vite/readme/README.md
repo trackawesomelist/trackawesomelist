@@ -519,6 +519,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-plugin-ngrok (⭐4)](https://github.com/aphex/vite-plugin-ngrok) - Integration with Ngrok, allowing you to easily share your local development server.
 *   [vite-plugin-docker (⭐1)](https://github.com/yracnet/vite-plugin-docker) - Docker utility based on Dockerode.
 *   [vite-plugin-api-routes (⭐20)](https://github.com/yracnet/vite-plugin-api-routes) - Generate route mapping for API Routes services from the directory tree.
+*   [unplugin-detect-duplicated-deps (⭐30)](https://github.com/tjx666/unplugin-detect-duplicated-deps) - Detect duplicate packaged dependencies.
 
 #### Testing
 

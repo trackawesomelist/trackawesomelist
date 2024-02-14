@@ -6,11 +6,11 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
-## [Feb 13, 2024](/content/2024/02/13/README.md)
+## [Feb 14, 2024](/content/2024/02/14/README.md)
 
 ### Literate programming / Third-party APIs
 
-*   [papyrus (⭐27)](https:/github.com/tani/papyrus) - Papyrus makes your markdown executable with the reader macro of Common Lisp.[MIT](https://opensource.org/licenses/MIT)
+*   [papyrus (⭐27)](https://github.com/tani/papyrus) - Papyrus makes your markdown executable with the reader macro of Common Lisp.[MIT](https://opensource.org/licenses/MIT)
 
 ## [Feb 08, 2024](/content/2024/02/08/README.md)
 

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Feb 14, 2024](/content/2024/02/14/README.md)
+
+### Framework-agnostic Plugins / Helpers
+
+*   [unplugin-detect-duplicated-deps (⭐30)](https://github.com/tjx666/unplugin-detect-duplicated-deps) - Detect duplicate packaged dependencies.
+
 ## [Feb 12, 2024](/content/2024/02/12/README.md)
 
 ### Framework-agnostic Plugins / Transformers

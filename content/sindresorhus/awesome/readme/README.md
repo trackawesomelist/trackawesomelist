@@ -178,7 +178,7 @@
 *   macOS - Operating system for Apple's Mac computers.
     *   [Screensavers (⭐3.8k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
     *   [Apps (⭐69k)](https://github.com/jaywcjlove/awesome-mac#readme)
-    *   [Open Source Apps (⭐38k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+    *   [Open Source Apps (⭐39k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 *   [watchOS (⭐452)](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
 *   [JVM (⭐2k)](https://github.com/deephacks/awesome-jvm#readme)
 *   [Salesforce (⭐692)](https://github.com/mailtoharshit/awesome-salesforce#readme)
@@ -215,6 +215,7 @@
 *   [Low Code (⭐262)](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
 *   [Capacitor (⭐403)](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
 *   [ArcGIS Developer (⭐189)](https://github.com/Esri/awesome-arcgis-developer#readme) - Mapping and location analysis platform for developers.
+*   [Bluetooth Low Energy (⭐18)](https://github.com/dotintent/awesome-ble#readme) - Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
 *   [Uno Platform (⭐23)](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
 
 ## Programming Languages
@@ -382,6 +383,7 @@
 *   [Master CSS (⭐21)](https://github.com/master-co/awesome-master-css#readme) - A virtual CSS language with enhanced syntax.
 *   [Hydrogen (⭐151)](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React.
 *   [Tiny JS (⭐612)](https://github.com/thoughtspile/awesome-tiny-js#readme) - Frontend libraries that fit into 2 kB with dependencies.
+*   [Frontend GIS (⭐287)](https://github.com/joewdavies/awesome-frontend-gis#readme) - Geographic Information Systems (GIS) for web browsers.
 
 ## Back-End Development
 
@@ -887,6 +889,7 @@
 *   [Biological Image Analysis (⭐81)](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) - Interpreting biological phenomena using images.
 *   [ChatGPT (⭐4.3k)](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
 *   [Whisper (⭐839)](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
+*   [Stock Trading (⭐19)](https://github.com/shi-rudo/awesome-stock-trading#readme) - Purchase and sale of equities of publicly traded companies with the aim of generating profits.
 *   [Steam Deck (⭐171)](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
 *   [Astrophotography (⭐27)](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
 *   [HPC (⭐43)](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.

@@ -10,6 +10,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 
+*   [Combining Functional and Automata Synthesis to Discover Causal Reactive Programs](https://dl.acm.org/doi/pdf/10.1145/3571249) - ***POPL'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10470162446663474225\&hl=en\&as_sdt=0,5)]. A new algorithm that synthesizes functional reactive programs from observation data, which iterates between a functional synthesis step, which attempts to generate a transition function over observed states, and an automata synthesis step, which adds any additional latent state necessary to fully account for the observations.
 *   [Latent Programmer: Discrete Latent Codes for Program Synthesis](https://proceedings.mlr.press/v139/hong21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9789877360194738968\&hl=en\&as_sdt=0,5)]. Paper introducing the Latent Programmer, a program synthesis method that first predicts a discrete latent code from input/output examples, and then generates the program in the target language.
 *   [PAL: Program-aided Language Models](https://proceedings.mlr.press/v202/gao23f) - ***ICML'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=14898051625978777315\&hl=en\&as_sdt=0,5)]. Paper presenting an approach that uses the LLM to read natural language problems and generate programs as the intermediate reasoning steps, but offloads the solution step to a runtime such as a Python interpreter. With PAL, decomposing the natural language problem into runnable steps remains the only learning task for the LLM, while solving is delegated to the interpreter.
 
@@ -1251,10 +1252,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Literature Management
 
 *   [Goodbye, Microsoft Academic – Hello, open research infrastructure?](https://blogs.lse.ac.uk/impactofsocialsciences/2021/05/27/goodbye-microsoft-academic-hello-open-research-infrastructure/) - ***LSE Impact Blog***, 2021. An interpretation of Microsoft's strategy on research infrastructure.
-
-### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
-
-*   [AutumnSynth: Synthesis of Reactive Programs with Structured Latent State](https://openreview.net/forum?id=Qw8eyl2_N_-) - ***NeurIPS'21 AIPLANS Workshop***, 2021. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=AutumnSynth%3A+Synthesis+of+Reactive+Programs+with+Structured+Latent+State\&btnG=)].
 
 ## [Jun 20 - Jun 26, 2022](/content/2022/25/README.md)
 
