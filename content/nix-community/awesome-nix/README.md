@@ -6,11 +6,11 @@
 
 [ Daily / [Weekly](/content/nix-community/awesome-nix/week/README.md) / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
-## [Feb 09, 2024](/content/2024/02/09/README.md)
+## [Feb 14, 2024](/content/2024/02/14/README.md)
 
 ### Community / Webinterface
 
-*   [NixCon](http://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
+*   [NixCon](https://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
 
 ## [Dec 27, 2023](/content/2023/12/27/README.md)
 
@@ -64,10 +64,6 @@
 
 ## [Jun 19, 2023](/content/2023/06/19/README.md)
 
-### Channel History / Discovery
-
-*   [Nixpkgs Bot](https://git.maralorn.de/nixos-config/tree/packages/nixpkgs-bot) - A Matrix bot to track when a Nixpkgs pull request reaches a relevant branch.
-
 ### Development / Discovery
 
 *   [nixd (⭐536)](https://github.com/nix-community/nixd) - Nix language server, based on Nix libraries.
@@ -75,12 +71,6 @@
 ### Overlays / Webinterface
 
 *   [chaotic-nyx (⭐132)](https://github.com/chaotic-cx/nyx) - Daily bumped bleeding edge packages like `mesa_git` & others that aren't yet in Nixpkgs. Created by the makers of [Chaotic-AUR](https://github.com/chaotic-aur/).
-
-## [Jun 18, 2023](/content/2023/06/18/README.md)
-
-### Command-Line Tools / Discovery
-
-*   [nix-output-monitor](https://git.maralorn.de/nix-output-monitor/) - A tool to produce useful graphs and statistics when building derivations.
 
 ## [Jun 08, 2023](/content/2023/06/08/README.md)
 
@@ -321,7 +311,7 @@
 
 ### NixOS Modules / Zig
 
-*   [base16.nix (⭐137)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐394)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
+*   [base16.nix (⭐137)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐411)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
 
 ## [Jan 10, 2022](/content/2022/01/10/README.md)
 

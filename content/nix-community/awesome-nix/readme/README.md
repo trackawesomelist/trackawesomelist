@@ -84,7 +84,9 @@
 *   [Channel History](https://channels.nix.gsc.io) - Get historical git commits for Nix channels.
 *   [Nix Infra Status](https://status.nixos.org) - Get the age and current git commit of each Nix channel.
 *   [Nix Review Tools Reports](https://malob.github.io/nix-review-tools-reports/) - Reports showing problematic dependencies (dependencies causing the most failed builds) for major Hydra jobsets.
-*   [Nixpkgs Bot](https://git.maralorn.de/nixos-config/tree/packages/nixpkgs-bot) - A Matrix bot to track when a Nixpkgs pull request reaches a relevant branch.
+
+<!-- * [Nixpkgs Bot](https://git.maralorn.de/nixos-config/tree/packages/nixpkgs-bot) - A Matrix bot to track when a Nixpkgs pull request reaches a relevant branch. -->
+
 *   [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) - A tracker for whether a PR has made it into a channel yet.
 
 ## Deployment Tools
@@ -125,7 +127,9 @@
 *   [nix-index (⭐658)](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
 *   [nix-init (⭐633)](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
 *   [nix-melt (⭐173)](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
-*   [nix-output-monitor](https://git.maralorn.de/nix-output-monitor/) - A tool to produce useful graphs and statistics when building derivations.
+
+<!-- * [nix-output-monitor](https://git.maralorn.de/nix-output-monitor/) - A tool to produce useful graphs and statistics when building derivations. -->
+
 *   [nix-prefetch (⭐104)](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 *   [nix-tree (⭐531)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 *   [nurl (⭐331)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
@@ -246,7 +250,7 @@
 
 ## NixOS Modules
 
-*   [base16.nix (⭐137)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐394)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
+*   [base16.nix (⭐137)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐411)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
 *   [Home Manager (⭐5.4k)](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
 *   [musnix (⭐394)](https://github.com/musnix/musnix) - Do real-time audio work in NixOS.
 *   [nixcloud-webservices (⭐158)](https://github.com/nixcloud/nixcloud-webservices) - A Nixpkgs extension with a focus on ease of deployment of web-related technologies.
@@ -281,6 +285,6 @@
 *   [#nixos on Libera.Chat](https://web.libera.chat/?nick=Guest?#nixos)
 *   [Discord - Nix/Nixos (Unofficial)](https://discord.gg/BMUCQx6)
 *   [Discourse](https://discourse.nixos.org/) - The best place to get help and discuss Nix-related topics.
-*   [NixCon](http://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
+*   [NixCon](https://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
 *   [Wiki (Unofficial)](https://nixos.wiki)
 

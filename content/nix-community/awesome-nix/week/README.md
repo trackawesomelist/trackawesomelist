@@ -6,11 +6,11 @@
 
 [ [Daily](/content/nix-community/awesome-nix/README.md) / Weekly / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
-## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
+## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
 ### Community / Webinterface
 
-*   [NixCon](http://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
+*   [NixCon](https://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
@@ -57,10 +57,6 @@
 
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 
-### Channel History / Discovery
-
-*   [Nixpkgs Bot](https://git.maralorn.de/nixos-config/tree/packages/nixpkgs-bot) - A Matrix bot to track when a Nixpkgs pull request reaches a relevant branch.
-
 ### Development / Discovery
 
 *   [nixd (⭐536)](https://github.com/nix-community/nixd) - Nix language server, based on Nix libraries.
@@ -68,12 +64,6 @@
 ### Overlays / Webinterface
 
 *   [chaotic-nyx (⭐132)](https://github.com/chaotic-cx/nyx) - Daily bumped bleeding edge packages like `mesa_git` & others that aren't yet in Nixpkgs. Created by the makers of [Chaotic-AUR](https://github.com/chaotic-aur/).
-
-## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
-
-### Command-Line Tools / Discovery
-
-*   [nix-output-monitor](https://git.maralorn.de/nix-output-monitor/) - A tool to produce useful graphs and statistics when building derivations.
 
 ## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
 
@@ -308,7 +298,7 @@
 
 ### NixOS Modules / Zig
 
-*   [base16.nix (⭐137)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐394)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
+*   [base16.nix (⭐137)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐411)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
 
 ## [Jan 10 - Jan 16, 2022](/content/2022/2/README.md)
 
