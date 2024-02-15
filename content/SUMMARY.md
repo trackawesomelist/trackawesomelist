@@ -2042,6 +2042,7 @@
 - [Days](daily/README.md)
   - [2024](2024/month/README.md)
     - [2](2024/2/day/README.md)
+      - [Feb 15, 2024](2024/02/15/README.md)
       - [Feb 14, 2024](2024/02/14/README.md)
       - [Feb 13, 2024](2024/02/13/README.md)
       - [Feb 12, 2024](2024/02/12/README.md)
