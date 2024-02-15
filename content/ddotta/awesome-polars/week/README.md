@@ -6,6 +6,16 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ [Daily](/content/ddotta/awesome-polars/README.md) / Weekly / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
+
+### Resources / Blog posts
+
+*   [15 Pandas ↔ Polars ↔ SQL ↔ PySpark Translations](https://www.blog.dailydoseofds.com/p/15-pandas-polars-sql-pyspark-translations) - A post that depicts the 15 most common tabular operations in Polars and their corresponding translations in Pandas, SQL and PySpark by [@ChawlaAvi](https://github.com/ChawlaAvi).
+
+### Resources / Talks and videos
+
+*   [Polars and time zones: everything you need to know | PyData Global 2023](https://www.youtube.com/watch?v=DFQFAwt_0VY) ⏳ 29 min - A video that  shows how to use Polars effectively for time series analysis involving different time zones by [@MarcoGorelli](https://github.com/MarcoGorelli).
+
 ## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
 
 ### Libraries/Packages/Scripts / Python
@@ -67,7 +77,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Resources / Blog posts
 
-*   [Pandas2 and Polars for Feature Engineering](https://www.hopsworks.ai/post/pandas2-and-polars-for-feature-engineering) - A blog post that A blog post that compares Pandas2 and Polars for Feature Engineering tasks with Python by [@hopswork (⭐1k)](https://github.com/logicalclocks/hopsworks).
+*   [Pandas2 and Polars for Feature Engineering](https://www.hopsworks.ai/post/pandas2-and-polars-for-feature-engineering) - A blog post that A blog post that compares Pandas2 and Polars for Feature Engineering tasks with Python by [@hopswork (⭐1.1k)](https://github.com/logicalclocks/hopsworks).
 *   [Spark vs Polars. Real-life Test Case. ](https://dataengineeringcentral.substack.com/p/spark-vs-polars-real-life-test-case) - A blog post in which the author tests whether Polars is able to handle "real amounts of data" and "really replace some production Spark workloads." by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐5)](https://github.com/danielbeach/PolarsVsPySpark/tree/main).
 *   [Using Polars Plugins for a 14x Speed Boost with Rust](https://towardsdatascience.com/using-polars-plugins-for-a-14x-speed-boost-with-rust-ce80bcc13d94) - A blog post thats shows the use of Polars plugin system for Rust from some concrete examples by [@ngriffiths13](https://github.com/ngriffiths13).
 

@@ -380,6 +380,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Online Tools and Applications
 
+*   [AI-Flow](https://ai-flow.net/): Connect multiple AI models easily
 *   [Code to Flow](https://codetoflow.com): Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
 *   [Recast Studio](https://recast.studio): AI-powered podcast marketing assistant.
 *   [Clipwing](https://clipwing.pro/): A tool for cutting long videos into dozens of short clips.
@@ -406,6 +407,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [Nekton.ai](https://nekton.ai/): automate your workflows with AI
 *   [Documind.chat](https://documind.chat): Chat with PDF using AI. Documind is a powerful chat with pdf tool that lets you ask questions from your pdf documents.
 *   [Snowpixel](https://snowpixel.app): Generate Images/Videos/Animations/Audio/Music/3D Objects with Text and/or Image. Upload your own data to create custom models.
+*   [Chatpdf.so](https://chatpdf.so): Talk to PDF using GPT4 AI. Chatpdf.so is a chatpdf tool that lets you do question answering on your pdf documents.
 
 # Text
 
@@ -920,7 +922,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [Animation with Dall-e + AE | Reddit](https://www.reddit.com/r/MediaSynthesis/comments/xgeehe/animation_with_dalle_ae_patent_drawing_of_an/): Patent drawing of an electronic device that ...
 *   [You Describe & AI Photoshops Faces For You \[StyleCLIP\] - YouTube](https://youtu.be/d1OET63Ulwc)
 *   [Experimental Films + Machine Learning Week 7 Part 1 (Aphantasia with OpenAI CLIP) - YouTube](https://youtu.be/-FrIui8Mp-8)
-*   [GitHub - Sanster/lama-cleaner (⭐15k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
+*   [GitHub - Sanster/lama-cleaner (⭐16k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
 *   [AgaMiko/pixel\_character\_generator (⭐113)](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 *   [Wilco Sierra](https://trywilco.com/sierra): A platform that generates engineering challenges for software engineers using GPT.
 

@@ -6,6 +6,13 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Feb 15, 2024](/content/2024/02/15/README.md)
+
+### Online Tools and Applications
+
+*   [AI-Flow](https://ai-flow.net/): Connect multiple AI models easily
+*   [Chatpdf.so](https://chatpdf.so): Talk to PDF using GPT4 AI. Chatpdf.so is a chatpdf tool that lets you do question answering on your pdf documents.
+
 ## [Feb 07, 2024](/content/2024/02/07/README.md)
 
 ### Online Tools and Applications
@@ -2468,7 +2475,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Animation with Dall-e + AE | Reddit](https://www.reddit.com/r/MediaSynthesis/comments/xgeehe/animation_with_dalle_ae_patent_drawing_of_an/): Patent drawing of an electronic device that ...
 *   [You Describe & AI Photoshops Faces For You \[StyleCLIP\] - YouTube](https://youtu.be/d1OET63Ulwc)
 *   [Experimental Films + Machine Learning Week 7 Part 1 (Aphantasia with OpenAI CLIP) - YouTube](https://youtu.be/-FrIui8Mp-8)
-*   [GitHub - Sanster/lama-cleaner (⭐15k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
+*   [GitHub - Sanster/lama-cleaner (⭐16k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
 
 ### Multimodal Embedding Space / Deforum
 

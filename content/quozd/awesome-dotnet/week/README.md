@@ -20,6 +20,10 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 *   [Foster (⭐288)](https://github.com/FosterFramework/Foster) - Foster is a small cross-platform 2D game framework in C#.
 
+### Visual Studio Plugins
+
+*   [EFCore.Visualizer](https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer) - View Entity Framework Core query plan directly in Visual Studio.
+
 ## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
 
 ### Office
@@ -68,7 +72,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Game
 
-*   [DotRecast (⭐312)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
+*   [DotRecast (⭐321)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 
 ### ORM
 
@@ -2042,7 +2046,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 ### Install tools
 
 *   [Squirrel (⭐7.1k)](https://github.com/squirrel/squirrel.windows) - Squirrel is both a set of tools and a library, to completely manage both installation and updating your desktop Windows application.
-*   [Chocolatey (⭐9.6k)](https://github.com/chocolatey/choco) - like `yum` or `apt-get`, but for Windows.
+*   [Chocolatey (⭐9.7k)](https://github.com/chocolatey/choco) - like `yum` or `apt-get`, but for Windows.
 
 ### Interoperability
 
@@ -2578,7 +2582,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Source Generator
 
-*   [Awesome Unity (⭐6.2k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
+*   [Awesome Unity (⭐6.3k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 
 ## [Oct 10 - Oct 16, 2016](/content/2016/41/README.md)
 

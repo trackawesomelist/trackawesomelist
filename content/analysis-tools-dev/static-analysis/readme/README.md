@@ -786,6 +786,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐838)](https://g
 
 *   [PHP\_CodeSniffer](https://pear.php.net/package/PHP_CodeSniffer) — Detects violations of a defined set of coding standards.
 
+*   [PHPArkitect (⭐649)](https://github.com/phparkitect/arkitect) — PHPArkitect helps you to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow. You can express the constraint that you want to enforce, in simple and readable PHP code.
+
 *   [phpca (⭐95)](https://github.com/wapmorgan/PhpCodeAnalyzer) :warning: — Finds usage of non-built-in extensions.
 
 *   [phpcpd (⭐2.2k)](https://github.com/sebastianbergmann/phpcpd) :warning: — Copy/Paste Detector for PHP code.
@@ -1113,7 +1115,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐838)](https://g
 
 *   [sleek (⭐80)](https://github.com/nrempel/sleek) — Sleek is a CLI tool for formatting SQL.  It helps you maintain a consistent style across your SQL code, enhancing readability and productivity. The heavy lifting is done by the sqlformat crate.
 
-*   [sqlcheck (⭐2.4k)](https://github.com/jarulraj/sqlcheck) :warning: — Automatically identify anti-patterns in SQL queries.
+*   [sqlcheck (⭐2.4k)](https://github.com/jarulraj/sqlcheck) — Automatically identify anti-patterns in SQL queries.
 
 *   [SQLFluff](https://www.sqlfluff.com/) — Multiple dialect SQL linter and formatter.
 

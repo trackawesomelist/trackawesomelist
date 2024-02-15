@@ -6,6 +6,16 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Feb 15, 2024](/content/2024/02/15/README.md)
+
+### Resources / Blog posts
+
+*   [15 Pandas ↔ Polars ↔ SQL ↔ PySpark Translations](https://www.blog.dailydoseofds.com/p/15-pandas-polars-sql-pyspark-translations) - A post that depicts the 15 most common tabular operations in Polars and their corresponding translations in Pandas, SQL and PySpark by [@ChawlaAvi](https://github.com/ChawlaAvi).
+
+### Resources / Talks and videos
+
+*   [Polars and time zones: everything you need to know | PyData Global 2023](https://www.youtube.com/watch?v=DFQFAwt_0VY) ⏳ 29 min - A video that  shows how to use Polars effectively for time series analysis involving different time zones by [@MarcoGorelli](https://github.com/MarcoGorelli).
+
 ## [Feb 09, 2024](/content/2024/02/09/README.md)
 
 ### Libraries/Packages/Scripts / Python
@@ -91,7 +101,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Resources / Blog posts
 
-*   [Pandas2 and Polars for Feature Engineering](https://www.hopsworks.ai/post/pandas2-and-polars-for-feature-engineering) - A blog post that A blog post that compares Pandas2 and Polars for Feature Engineering tasks with Python by [@hopswork (⭐1k)](https://github.com/logicalclocks/hopsworks).
+*   [Pandas2 and Polars for Feature Engineering](https://www.hopsworks.ai/post/pandas2-and-polars-for-feature-engineering) - A blog post that A blog post that compares Pandas2 and Polars for Feature Engineering tasks with Python by [@hopswork (⭐1.1k)](https://github.com/logicalclocks/hopsworks).
 
 ## [Oct 31, 2023](/content/2023/10/31/README.md)
 

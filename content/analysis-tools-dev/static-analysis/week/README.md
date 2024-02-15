@@ -6,6 +6,12 @@
 
 [ [Daily](/content/analysis-tools-dev/static-analysis/README.md) / Weekly / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   [PHPArkitect (⭐649)](https://github.com/phparkitect/arkitect) — PHPArkitect helps you to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow. You can express the constraint that you want to enforce, in simple and readable PHP code.
+
 ## [Jan 29 - Feb 04, 2024](/content/2024/5/README.md)
 
 ### Multiple languages / [Other](#other-1)
@@ -705,7 +711,7 @@
 *   [RustViz (⭐2.6k)](https://github.com/rustviz/rustviz) — RustViz is a tool that generates visualizations  from simple Rust programs to assist users in better  understanding the Rust Lifetime and Borrowing mechanism. It generates SVG files with graphical indicators that integrate  with mdbook to render visualizations of data-flow in Rust programs.
 *   [warnalyzer (⭐86)](https://github.com/est31/warnalyzer) — Show unused code from multi-crate Rust projects
 *   [dbcritic (⭐168)](https://github.com/channable/dbcritic) — dbcritic finds problems in a database schema, such as a missing primary key constraint in a table.
-*   [sqlcheck (⭐2.4k)](https://github.com/jarulraj/sqlcheck) :warning: — Automatically identify anti-patterns in SQL queries.
+*   [sqlcheck (⭐2.4k)](https://github.com/jarulraj/sqlcheck) — Automatically identify anti-patterns in SQL queries.
 *   [SQLFluff](https://www.sqlfluff.com/) — Multiple dialect SQL linter and formatter.
 *   [sqlint (⭐408)](https://github.com/purcell/sqlint) — Simple SQL linter.
 *   [squawk](https://squawkhq.com) — Linter for PostgreSQL, focused on migrations. Prevents unexpected downtime caused by database migrations and encourages best practices around Postgres schemas and SQL.

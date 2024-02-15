@@ -6,6 +6,12 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 [ Daily / [Weekly](/content/quozd/awesome-dotnet/week/README.md) / [Overview](/content/quozd/awesome-dotnet/readme/README.md) ]
 
+## [Feb 15, 2024](/content/2024/02/15/README.md)
+
+### Visual Studio Plugins
+
+*   [EFCore.Visualizer](https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer) - View Entity Framework Core query plan directly in Visual Studio.
+
 ## [Feb 12, 2024](/content/2024/02/12/README.md)
 
 ### CMS
@@ -70,7 +76,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Game
 
-*   [DotRecast (⭐312)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
+*   [DotRecast (⭐321)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 
 ## [Oct 23, 2023](/content/2023/10/23/README.md)
 
@@ -2185,7 +2191,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 ### Install tools
 
 *   [Squirrel (⭐7.1k)](https://github.com/squirrel/squirrel.windows) - Squirrel is both a set of tools and a library, to completely manage both installation and updating your desktop Windows application.
-*   [Chocolatey (⭐9.6k)](https://github.com/chocolatey/choco) - like `yum` or `apt-get`, but for Windows.
+*   [Chocolatey (⭐9.7k)](https://github.com/chocolatey/choco) - like `yum` or `apt-get`, but for Windows.
 
 ### Interoperability
 
@@ -2755,7 +2761,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Source Generator
 
-*   [Awesome Unity (⭐6.2k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
+*   [Awesome Unity (⭐6.3k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 
 ## [Oct 18, 2016](/content/2016/10/18/README.md)
 

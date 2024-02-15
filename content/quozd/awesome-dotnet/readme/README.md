@@ -539,7 +539,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Devtodev (⭐7)](https://github.com/devtodev-analytics/winstore-sdk) - A full-cycle analytics solution for game developers.
 *   [UnrealCLR (⭐3k)](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET Core integration
 *   [osu!framework (⭐1.5k)](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
-*   [DotRecast (⭐312)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
+*   [DotRecast (⭐321)](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 *   [Foster (⭐288)](https://github.com/FosterFramework/Foster) - Foster is a small cross-platform 2D game framework in C#.
 
 ## GIS
@@ -691,7 +691,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 *   [Wix Toolset](https://wixtoolset.org/) - The most powerful set of tools available to create your Windows installation experience
 *   [Squirrel (⭐7.1k)](https://github.com/squirrel/squirrel.windows) - Squirrel is both a set of tools and a library, to completely manage both installation and updating your desktop Windows application.
-*   [Chocolatey (⭐9.6k)](https://github.com/chocolatey/choco) - like `yum` or `apt-get`, but for Windows.
+*   [Chocolatey (⭐9.7k)](https://github.com/chocolatey/choco) - like `yum` or `apt-get`, but for Windows.
 *   [Wax](https://marketplace.visualstudio.com/items?itemName=TomEnglert.Wax) - An interactive editor for WiX projects.
 *   [Onova (⭐467)](https://github.com/Tyrrrz/Onova) - An unopinionated auto-update framework for desktop applications.
 
@@ -1233,6 +1233,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Visual Studio Plugins
 
+*   [EFCore.Visualizer](https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer) - View Entity Framework Core query plan directly in Visual Studio.
 *   [Web Essentials (⭐51)](https://github.com/madskristensen/WebEssentials2019) - Web Essentials extends Visual Studio with lots of new features that web developers have been missing for many years
 *   [VsVIM (⭐3.6k)](https://github.com/VsVim/VsVim) - VIM in Visual Studio
 *   [Nuget Package Manager](https://marketplace.visualstudio.com/items?itemName=NuGetTeam.NuGetPackageManager) - NuGet is the package manager for the Microsoft development platform including .NET
@@ -1318,7 +1319,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [ASP.NET Core Library and Framework Support (⭐209)](https://github.com/jpsingleton/ANCLAFS) - A list of what .NET libraries and frameworks are currently supported by ASP.NET Core and .NET Core).
 *   [Awesome .NET Performance (⭐3.1k)](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
 *   [awesome-ddd (⭐11k)](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
-*   [Awesome Unity (⭐6.2k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
+*   [Awesome Unity (⭐6.3k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 *   [Awesome Xamarin (⭐1.9k)](https://github.com/XamSome/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
 *   [Awesome Roslyn (⭐626)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
 *   [.NET Open Source Developer Projects (⭐14k)](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) - This community maintained list showcases .NET open source projects that are useful for any aspect of the development process.
