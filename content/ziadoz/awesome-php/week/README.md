@@ -6,6 +6,20 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 [ [Daily](/content/ziadoz/awesome-php/README.md) / Weekly / [Overview](/content/ziadoz/awesome-php/readme/README.md) ]
 
+## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
+
+### Table of Contents / Content Management Systems (CMS)
+
+*   [WordPress (⭐18k)](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
+
+### Table of Contents / Event
+
+*   [Elephant.io (⭐59)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
+
+### Configuration / Text Editors and IDEs
+
+*   [Apache NetBeans](https://netbeans.apache.org/front/main/index.html) - An IDE with support for PHP and HTML5.
+
 ## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
 
 ### Table of Contents / Content Management Systems (CMS)
@@ -401,10 +415,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [Symfony Components](https://symfony.com/components) - The components that make Symfony.
 
-### Configuration / Text Editors and IDEs
-
-*   [Apache NetBeans](https://netbeans.apache.org/) - An IDE with support for PHP and HTML5.
-
 ## [Oct 26 - Nov 01, 2020](/content/2020/43/README.md)
 
 ### Table of Contents / Content Management Systems (CMS)
@@ -687,10 +697,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *   [Safe (⭐2.3k)](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
 
 ## [Dec 16 - Dec 22, 2019](/content/2019/50/README.md)
-
-### Table of Contents / Content Management Systems (CMS)
-
-*   [WordPress](https://wordpress.org/) - A blogging platform and CMS.
 
 ### Table of Contents / Documentation
 
@@ -1738,12 +1744,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [OAuth 1.0 Client (⭐949)](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
 *   [OAuth 2.0 Client (⭐3.6k)](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
-
-## [Dec 22 - Dec 28, 2014](/content/2014/51/README.md)
-
-### Table of Contents / Event
-
-*   [Elephant.io (⭐1.2k)](https://github.com/Wisembly/Elephant.io) - Yet another web socket library.
 
 ## [Dec 08 - Dec 14, 2014](/content/2014/49/README.md)
 

@@ -172,7 +172,7 @@ Please see [CONTRIBUTING (⭐30k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Moodle](https://moodle.org/) - An open-source learning platform.
 *   [Pico CMS](https://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
 *   [Statamic](https://statamic.com/) - Build beautiful, easy-to-manage websites.
-*   [WordPress](https://wordpress.org/) - A blogging platform and CMS.
+*   [WordPress (⭐18k)](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
 
 ### Components
 
@@ -559,7 +559,7 @@ Please see [CONTRIBUTING (⭐30k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Amp (⭐4.1k)](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
 *   [Broadway (⭐1.5k)](https://github.com/broadway/broadway) - An event source and CQRS library.
 *   [CakePHP Event (⭐22)](https://github.com/cakephp/event) - An event dispatcher library.
-*   [Elephant.io (⭐1.2k)](https://github.com/Wisembly/Elephant.io) - Yet another web socket library.
+*   [Elephant.io (⭐59)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 *   [Evenement (⭐1.2k)](https://github.com/igorw/evenement) - An event dispatcher library.
 *   [Event (⭐1.5k)](https://github.com/thephpleague/event) - An event library with a focus on domain events.
 *   [Fast CGI Client (⭐544)](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket.
@@ -935,7 +935,7 @@ Libraries to help manage database schemas and migrations.
 *Text Editors and Integrated Development Environments (IDE) with support for PHP.*
 
 *   [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - A PHP IDE based on the Eclipse platform.
-*   [Apache NetBeans](https://netbeans.apache.org/) - An IDE with support for PHP and HTML5.
+*   [Apache NetBeans](https://netbeans.apache.org/front/main/index.html) - An IDE with support for PHP and HTML5.
 *   [PhpStorm](https://www.jetbrains.com/phpstorm/) - A commercial PHP IDE.
 *   [VS Code](https://code.visualstudio.com/) - An open source code editor.
 

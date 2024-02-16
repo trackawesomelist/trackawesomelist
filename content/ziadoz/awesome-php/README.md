@@ -6,6 +6,20 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 [ Daily / [Weekly](/content/ziadoz/awesome-php/week/README.md) / [Overview](/content/ziadoz/awesome-php/readme/README.md) ]
 
+## [Feb 16, 2024](/content/2024/02/16/README.md)
+
+### Table of Contents / Content Management Systems (CMS)
+
+*   [WordPress (⭐18k)](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
+
+### Table of Contents / Event
+
+*   [Elephant.io (⭐59)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
+
+### Configuration / Text Editors and IDEs
+
+*   [Apache NetBeans](https://netbeans.apache.org/front/main/index.html) - An IDE with support for PHP and HTML5.
+
 ## [Feb 11, 2024](/content/2024/02/11/README.md)
 
 ### Table of Contents / Code Analysis
@@ -422,12 +436,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [Symfony Components](https://symfony.com/components) - The components that make Symfony.
 
-## [Nov 03, 2020](/content/2020/11/03/README.md)
-
-### Configuration / Text Editors and IDEs
-
-*   [Apache NetBeans](https://netbeans.apache.org/) - An IDE with support for PHP and HTML5.
-
 ## [Oct 24, 2020](/content/2020/10/24/README.md)
 
 ### Table of Contents / Dependency Injection
@@ -729,10 +737,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *   [Safe (⭐2.3k)](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
 
 ## [Dec 09, 2019](/content/2019/12/09/README.md)
-
-### Table of Contents / Content Management Systems (CMS)
-
-*   [WordPress](https://wordpress.org/) - A blogging platform and CMS.
 
 ### Table of Contents / Documentation
 
@@ -1831,12 +1835,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [OAuth 1.0 Client (⭐949)](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
 *   [OAuth 2.0 Client (⭐3.6k)](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
-
-## [Dec 18, 2014](/content/2014/12/18/README.md)
-
-### Table of Contents / Event
-
-*   [Elephant.io (⭐1.2k)](https://github.com/Wisembly/Elephant.io) - Yet another web socket library.
 
 ## [Dec 02, 2014](/content/2014/12/02/README.md)
 

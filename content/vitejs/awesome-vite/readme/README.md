@@ -352,6 +352,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [remix-development-tools (⭐495)](https://github.com/Code-Forge-Net/Remix-Dev-Tools) - Plugin for Remix.run development tools.
 *   [vite-plugin-legacy-swc (⭐29)](https://github.com/CyanSalt/vite-plugin-legacy-swc) - Legacy browser support with SWC.
 *   [vite-plugin-biome (⭐3)](https://github.com/skrulling/vite-plugin-biome) - Biome linter.
+*   [vite-plugin-oxlint (⭐0)](https://github.com/52-entertainment/vite-plugin-oxlint) - Oxlint linter.
 
 #### Loaders
 

@@ -8,6 +8,10 @@
 
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-oxlint (⭐0)](https://github.com/52-entertainment/vite-plugin-oxlint) - Oxlint linter.
+
 ### Framework-agnostic Plugins / Transformers
 
 *   [css-media-splitter/vite-plugin (⭐3)](https://github.com/levchak0910/css-media-splitter) - Extracts all `@media` At-rules into a dedicated `.css` files and download it only when matches the media query.

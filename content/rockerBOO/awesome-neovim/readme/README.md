@@ -617,7 +617,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [startup-nvim/startup.nvim (⭐373)](https://github.com/startup-nvim/startup.nvim) - The fully customizable greeter for neovim.
 *   [willothy/veil.nvim (⭐119)](https://github.com/willothy/veil.nvim) - A blazingly fast, animated, and infinitely customizable startup / dashboard plugin.
 *   [TobinPalmer/Tip.nvim (⭐45)](https://github.com/TobinPalmer/Tip.nvim) - Get a simple tip when you launch Neovim.
-*   [CWood-sdf/spaceport.nvim (⭐23)](https://github.com/CWood-sdf/spaceport.nvim) - The start screen that gets you to your projects blazingly fast.
+*   [CWood-sdf/spaceport.nvim (⭐27)](https://github.com/CWood-sdf/spaceport.nvim) - The start screen that gets you to your projects blazingly fast.
 
 ## Icon
 
@@ -937,7 +937,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [max397574/better-escape.nvim (⭐460)](https://github.com/max397574/better-escape.nvim) - Create shortcuts to escape insert mode without getting delay.
 *   [Nexmean/caskey.nvim (⭐68)](https://github.com/Nexmean/caskey.nvim) - Utility to keymappings configuration using declarative cascading trees, optionally integrates with `which-key`.
 *   [Wansmer/langmapper.nvim (⭐92)](https://github.com/Wansmer/langmapper.nvim) - Auto translating your mappings for non-English input methods.
-*   [tris203/hawtkeys.nvim (⭐153)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
+*   [tris203/hawtkeys.nvim (⭐162)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
 
 ## Mouse
 
@@ -1181,7 +1181,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [NormalNvim/NormalNvim (⭐231)](https://github.com/NormalNvim/NormalNvim) - Focused on stability for your daily work. From the creator of Compiler.nvim.
 *   [chrisgrieser/nvim-kickstart-python (⭐79)](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your Neovim configuration for Python.
 *   [mrcjkb/kickstart-nix.nvim (⭐56)](https://github.com/mrcjkb/kickstart-nix.nvim) - A simple [Nix flake](https://nixos.wiki/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing Neovim configurations.
-*   [drybalka/clean.nvim (⭐2)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
+*   [drybalka/clean.nvim (⭐23)](https://github.com/drybalka/clean.nvim) - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
 
 ## External
 
@@ -1202,6 +1202,7 @@ These tools are used externally to Neovim to enhance the experience.
 ### OS-specific
 
 *   [chrisgrieser/alfred-neovim-utilities (⭐26)](https://github.com/chrisgrieser/alfred-neovim-utilities) - Search Neovim plugins and online `:help `via Alfred (macOS).
+*   [massix/termux.nvim (⭐1)](https://github.com/massix/termux.nvim) - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
 
 ## Wishlist
 

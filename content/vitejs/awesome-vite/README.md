@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Feb 16, 2024](/content/2024/02/16/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-oxlint (⭐0)](https://github.com/52-entertainment/vite-plugin-oxlint) - Oxlint linter.
+
 ## [Feb 14, 2024](/content/2024/02/14/README.md)
 
 ### Framework-agnostic Plugins / Helpers

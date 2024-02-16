@@ -6,6 +6,12 @@ A collection of awesome things regarding Prisma ecosystem.
 
 [ Daily / [Weekly](/content/catalinmiron/awesome-prisma/week/README.md) / [Overview](/content/catalinmiron/awesome-prisma/readme/README.md) ]
 
+## [Feb 16, 2024](/content/2024/02/16/README.md)
+
+### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
+
+*   [Dotfyle](https://dotfyle.com) - Discover and share Neovim plugins
+
 ## [Feb 10, 2024](/content/2024/02/10/README.md)
 
 ### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools

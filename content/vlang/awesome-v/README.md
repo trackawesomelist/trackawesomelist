@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Feb 16, 2024](/content/2024/02/16/README.md)
+
+### Database clients
+
+*   [mongodb (⭐40)](https://github.com/vlang/mongo) - MongoDB driver for V.
+
 ## [Feb 13, 2024](/content/2024/02/13/README.md)
 
 ### Web

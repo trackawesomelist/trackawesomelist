@@ -6,6 +6,12 @@ a curated list of awesome streaming frameworks, applications, etc
 
 [ [Daily](/content/manuzhang/awesome-streaming/README.md) / Weekly / [Overview](/content/manuzhang/awesome-streaming/readme/README.md) ]
 
+## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
+
+### Table of Contents / Toolkit
+
+*   [Apache Pekko (⭐944)](https://github.com/apache/incubator-pekko) \[Scala, Java] - Fork of Akka 2.6.x, prior to the Akka project's adoption of the Business Source License.
+
 ## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
 
 ### Table of Contents / Streaming Engine
@@ -44,7 +50,7 @@ a curated list of awesome streaming frameworks, applications, etc
 
 ### Table of Contents / Streaming Application
 
-*   [Zilla (⭐452)](https://github.com/aklivity/zilla) \[Java] - Cross-platform, API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
+*   [Zilla (⭐457)](https://github.com/aklivity/zilla) \[Java] - Cross-platform, API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 
 ## [May 08 - May 14, 2023](/content/2023/19/README.md)
 
@@ -169,7 +175,7 @@ a curated list of awesome streaming frameworks, applications, etc
 
 ### Table of Contents / Streaming Engine
 
-*   [HStreamDB (⭐670)](https://github.com/hstreamdb/hstream) \[Haskell] - The streaming database built for IoT data storage and real-time processing.
+*   [HStreamDB (⭐674)](https://github.com/hstreamdb/hstream) \[Haskell] - The streaming database built for IoT data storage and real-time processing.
 *   [Kuiper (⭐1.3k)](https://github.com/emqx/kuiper) \[Golang] - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
 
 ## [Feb 15 - Feb 21, 2021](/content/2021/7/README.md)
@@ -194,7 +200,7 @@ a curated list of awesome streaming frameworks, applications, etc
 
 ### Table of Contents / Data Pipeline
 
-*   [RudderStack (⭐3.8k)](https://github.com/rudderlabs/rudder-server) \[Go] - an open source customer data infrastructure (segment, mparticle alternative).
+*   [RudderStack (⭐3.9k)](https://github.com/rudderlabs/rudder-server) \[Go] - an open source customer data infrastructure (segment, mparticle alternative).
 
 ## [May 04 - May 10, 2020](/content/2020/18/README.md)
 

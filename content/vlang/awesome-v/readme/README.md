@@ -193,6 +193,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Database clients
 
+*   [mongodb (⭐40)](https://github.com/vlang/mongo) - MongoDB driver for V.
 *   [redis (⭐5)](https://github.com/Coachonko/redis) - Connect and interface with Redis-compatible databases.
 *   [redis (⭐64)](https://github.com/patrickpissurno/vredis) - Redis client for V, written in V.
 *   [vmemcached (⭐11)](https://github.com/blacktrub/vmemcached) - Memcached client for V, written in V.
