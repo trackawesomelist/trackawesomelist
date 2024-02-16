@@ -6,6 +6,17 @@ A curated list of algorithms and papers for auditing black-box algorithms.
 
 [ Daily / [Weekly](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md) / [Overview](/content/erwanlemerrer/awesome-audit-algorithms/readme/README.md) ]
 
+## [Feb 16, 2024](/content/2024/02/16/README.md)
+
+### Papers / 2024
+
+*   [Under manipulations, are some AI models harder to audit?](https://grodino.github.io/projects/manipulated-audits/preprint.pdf) - (SATML) *Relates the difficulty of black-box audits
+    to the capacity of the targeted models, using the Rademacher complexity.*
+
+### Papers / 2023
+
+*   [Online Fairness Auditing through Iterative Refinement](https://dl.acm.org/doi/pdf/10.1145/3580305.3599454) - (KDD) *Provides an adaptive process that automates the inference of probabilistic guarantees associated with estimating fairness metrics.*
+
 ## [Feb 14, 2024](/content/2024/02/14/README.md)
 
 ### Papers / 2024
