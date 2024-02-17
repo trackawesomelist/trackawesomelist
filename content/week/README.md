@@ -84,153 +84,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ApexCharts](https://opencollective.com/apexchartsjs) - JavaScript charts library.
 
-#### [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Development tools / Web Servers
-
-*   [envio-cli/envio (⭐646)](https://github.com/envio-cli/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/envio-cli/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/envio-cli/envio/actions/workflows/CICD.yml)
-
-#### [8. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+#### [7. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ##### Gems / Other external resources
 
 *   [alba (⭐838)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby, and TruffleRuby. [:red\_circle:](https://rubygems.org/gems/alba)
 
-#### [9. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+#### [8. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ##### Manuals and Ephemera / Ephemera
 
 *   [Hewlett-Packard Journal Volume 33 Number 12 (1982)](https://archive.org/details/Hewlett-Packard_Journal_Vol._33_No._12_1982-12_Hewlett-Packard) - Multiple articles about the HP Model 7470A plotter.
 
-#### [10. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md)
-
-##### **AI/ML**
-
-*   [OpenWeedLocator (⭐271)](https://github.com/geezacoleman/OpenWeedLocator) - Opensource hardware and software weed detector that uses entirely off-the-shelf componentry, very simple green-detection algorithms (with capacity to upgrade to in-crop detection) and 3D printable parts
-*   [Plant disease (⭐33)](https://github.com/morenoh149/plantdisease) - Predictive model for cannabis sickness. One source identifies 30 types of cannabis ailments.
-
-##### **Grow Automation**
-
-*   [DROMatic OS (⭐297)](https://github.com/drolsen/DRO-Matic) - The DRO-Matic OS has been built to automate nearly every aspect of hydroponic farming for you! From nutrient dosing to pH / EC drift fixing, feeding types to draining, top-offs and even timers; we have quantified everything you need to automate successful crops.
-*   [MudPi (⭐259)](https://github.com/mudpi/mudpi-core) - A python package to gather sensor readings, trigger components, control devices and more in an event based system that can be run on a linux SBC, including Raspberry Pi
-*   [Mycodo (⭐2.8k)](https://github.com/kizniche/Mycodo) - Mycodo is open source software for the Raspberry Pi that couples inputs and outputs in interesting ways to sense and manipulate the environment
-*   [gardenAutomation (⭐384)](https://github.com/ledgardener/gardenAutomation) - Garden Automation toolkit by [LedGardener](https://ledgardener.com/category/builds/)
-*   [WEGA-Box (⭐12)](https://github.com/WEGA-project/wegabox) - Hydroponic system management toolkit
-
-##### **Calculators**
-
-*   [WEGA-HPG (⭐154)](https://github.com/WEGA-project/wega-hpg) - HPG Calculator
-
-##### Node RED
-
-*   [Node-RED (⭐18k)](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
-
-##### Node RED / Node RED flows
-
-*   [Home Automation Repository (⭐1)](https://github.com/Killerherts/nodeRed-HA-GrowingFunctions#installationhttps://github.com/Killerherts/nodeRed-HA-GrowingFunctions) - repository contains configuration files for a home automation system, including various sensors, inputs, and automation scripts
-
-##### Tasmota / Tasmota Configs
-
-*   N/A
-
-##### Home Assistant / Node RED plugins
-
-*   [Home Assistant (⭐67k)](https://github.com/home-assistant/core) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts
-
-##### Home Assistant / Home Assistant Automation
-
-*   [HAGR (⭐1)](https://github.com/JakeTheRabbit/HAGR) - Home Assistant Grow Room is a repository for grow automation related things for Home Assistant.
-
-##### **Facility management** / Home Assistant UI
-
-*   [OpenTHC (⭐6)](https://github.com/openthc/docker) - OpenTHC is an environment of web-based applications focused on helping Cannabis/Hemp and Organic Horticulture industry participants meet their regulatory requirements
-
-##### **Irrigation** / Home Assistant UI
-
-*   [OpenSprinkler AVR/RPI/BBB Firmware (⭐436)](https://github.com/OpenSprinkler/OpenSprinkler-Firmware) - This is a unified OpenSprinkler firmware for Arduino, and Linux-based OpenSprinklers such as OpenSprinkler Pi
-*   [OpenMinder (⭐33)](https://github.com/autogrow/openminder) -  Allows anyone to build a device that can monitor the rootzone of their plants to make the most optimum use of water and fertigation ingredients to ensure a happy plant. This is done by measuring the water going into the plants on the irrigation side, as well as coming out on the runoff side, thus allowing comparisons
-
-##### ESPHome / Home Assistant UI
-
-*   [ESPHome (⭐7.1k)](https://github.com/esphome/esphome) - ESPHome is a system to control your microcontrollers by simple yet powerful configuration files and control them remotely through Home Automation systems
-
-##### Tasmota / ESPHome Configs
-
-*   [Tasmota (⭐21k)](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
-
-##### Components / Tasmota Configs
-
-*   [Seed Studio](https://www.seeedstudio.com/) - various modules and components based on ESP32 and other MCU
-*   [LILYGO](https://www.lilygo.cc/) - varous modiles and components. Good relay boards based on ESP32.
-
-##### Components / Sensors
-
-*   [Atlas Scientific](https://atlas-scientific.com/probes/) - T/H, Pressure, pH, EC, ORP probes and interface boards. Dosing pumps, flowmeters. Lab grade.
-
-##### Components / MCU and SOC
-
-*   [ESP32](https://www.espressif.com/en/products/socs/esp32) - A feature-rich MCU with integrated Wi-Fi and Bluetooth connectivity for a wide-range of applications
-*   [Particle](https://www.particle.io/) - hardware modules for IoT
-
-##### Components / Modular systems
-
-*   [WisBlock by RAK Wireless](https://www.rakwireless.com/en-us/products/wisblock) - Create your own hardware with WisBlock Core, WisBlock Base and other WisBlock Modules
-
-##### DIY / Modular systems
-
-*   [OpenSprinkler Hardware (⭐58)](https://github.com/OpenSprinkler/OpenSprinkler-Hardware) - OpenSprinkler Hardware Design files, made in EagleCAD software
-
-##### **Metrics and Logging** / Modular systems
-
-*   [OS-RS485 (⭐2)](https://github.com/cropsteering/OS-RS485) - OpenSteering-RS485 Data logger
-*   [OpenSteering-SDI12 (⭐3)](https://github.com/cropsteering/OS-SDI12) - SDI-12 Data logger, up to 62 addresses
-
-##### **Mixers and Dosers** / Modular systems
-
-*   [WEGA-Mixer (⭐25)](https://github.com/WEGA-project/wega-mixer) - WEGA-Mixer is a device for the automatic preparation of two-component complex fertilizers in liquids by precisely mixing their composition (RU, requires google translate).
-
-##### **MQTT** / Modular systems
-
-*   [Mosquitto (⭐8.1k)](https://github.com/eclipse/mosquitto) - Mosquitto is an open source implementation of a server for version 5.0, 3.1.1, and 3.1 of the MQTT protocol
-*   [EMQX (⭐13k)](https://github.com/emqx/emqx) - EMQX is the world's most scalable open-source MQTT broker with a high performance that connects 100M+ IoT devices in 1 cluster, while maintaining 1M message per second throughput and sub-millisecond latency.
-
-##### **Relay and power control** / Modular systems
-
-*   [EC-POWERCONTROL (⭐0)](https://github.com/cropsteering/EC-POWERCONTROL) - Edge controller power control for esp32
-
-##### Visualization platforms / Modular systems
-
-*   [InfluxDB (⭐27k)](https://github.com/influxdata/influxdb) - InfluxDB is an open source time series database
-*   [Grafana (⭐59k)](https://github.com/grafana/grafana) - The open-source platform for monitoring and observability
-
-##### **Storing Data** / Modular systems
-
-*   [Open TSDB (⭐4.9k)](https://github.com/OpenTSDB/opentsdb) - OpenTSDB is a distributed, scalable Time Series Database (TSDB) written on
-    top of HBase
-
-##### Visualization Libraries / Modular systems
-
-*   [Giraffe (⭐176)](https://github.com/influxdata/giraffe) - A React-based visualization library powering the data visualizations in the InfluxDB 2.0 UI
-*   [D3.js (⭐107k)](https://github.com/d3/d3) - D3 (or D3.js) is a free, open-source JavaScript library for visualizing data. Its low-level approach built on web standards offers unparalleled flexibility in authoring dynamic, data-driven graphics
-
-##### **Zigbee** / Modular systems
-
-*   [Zigbee2MQTT (⭐11k)](https://github.com/Koenkk/zigbee2mqtt) - It bridges events and allows you to control your Zigbee devices via MQTT. In this way you can integrate your Zigbee devices with whatever smart home infrastructure you are using.
-
-##### **Other Awesome Lists** / Modular systems
-
-*   [Awesome Agriculture (⭐1.1k)](https://github.com/brycejohnston/awesome-agriculture)
-*   [Awesome ESP (⭐785)](https://github.com/agucova/awesome-esp)
-*   [Awesome Home Assistant (⭐5.5k)](https://github.com/frenck/awesome-home-assistant)
-*   [Awesome InfluxDB (⭐790)](https://github.com/mark-rushakoff/awesome-influxdb)
-*   [Awesome IoT (⭐3k)](https://github.com/HQarroum/awesome-iot)
-*   [Awesome IoT & Hybrid (⭐534)](https://github.com/weblancaster/awesome-IoT-hybrid)
-*   [Awesome Open IoT (⭐596)](https://github.com/Agile-IoT/awesome-open-iot)
-*   [Awesome MQTT (⭐2k)](https://github.com/hobbyquaker/awesome-mqtt)
-*   [Awesome Open Hardware (⭐322)](https://github.com/delftopenhardware/awesome-open-hardware)
-*   [Awesome Raspberry Pi (⭐12k)](https://github.com/thibmaek/awesome-raspberry-pi)
-
-#### [11. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+#### [9. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ##### Admin Interface
 
@@ -240,31 +106,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [fast\_count (⭐205)](https://github.com/fatkodima/fast_count) - Quickly get a count estimation for large tables (>99% of accuracy for PostgreSQL).
 
-#### [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Database
 
 *   [Reindexer (⭐750)](https://github.com/Restream/reindexer) - Embeddable, in-memory, document-oriented database with a high-level Query builder interface. \[Apache2] [website](https://reindexer.io/)
 
-#### [13. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+#### [11. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ##### Resources / Tutorials and Hints
 
 *   [Coq requirements in Common Criteria evaluations](https://inria.hal.science/hal-04452421) - Guide on how to write readable and reviewable Coq code in high assurance applications.
 
-#### [14. Awesome Godot](/content/godotengine/awesome-godot/README.md)
-
-##### Plugins and scripts / Various Godot versions
-
-*   [Godot Spin Button (⭐31)](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options (Godot 4.x).
-
-#### [15. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+#### [12. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ##### Community / Webinterface
 
 *   [NixCon](https://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
 
-#### [16. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [13. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -332,13 +192,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Standard Webhooks (⭐989) (⭐983)](https://github.com/standard-webhooks/standard-webhooks) - Open source tools and guidelines for sending webhooks easily, securely, and reliably.
 
-#### [17. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+#### [14. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ##### Tools / Templates & Starter Kits
 
 *   [State Design System (DSFR) starter (⭐18)](https://github.com/numerique-gouv/content-manager) - Wagtail template and starter kit from the French government.
 
-#### [18. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+#### [15. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ##### Contents / EHR
 
@@ -364,13 +224,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [LabKey Server](https://www.labkey.com/products-services/labkey-server/) - Platform for Translational Research.
 
-#### [19. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+#### [16. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ##### Visual Analytics
 
 *   [CARTO](https://docs.carto.com/faqs/carto-for-education#how-can-i-get-a-student-account-in-carto) \[FREE / DISCOUNT] - Free account upgrades with increased database storage, real time data, Location Data Services Credits, and premium features for 2 years.
 
-#### [20. Awesome List](/content/sindresorhus/awesome/README.md)
+#### [17. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ##### Platforms
 
@@ -390,31 +250,31 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Stock Trading (⭐19)](https://github.com/shi-rudo/awesome-stock-trading#readme) - Purchase and sale of equities of publicly traded companies with the aim of generating profits.
 *   [Astrophotography (⭐27)](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
 
-#### [21. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [18. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### Literate programming / Third-party APIs
 
 *   [papyrus (⭐27)](https://github.com/tani/papyrus) - Papyrus makes your markdown executable with the reader macro of Common Lisp.[MIT](https://opensource.org/licenses/MIT)
 
-#### [22. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+#### [19. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ##### Integrations
 
 *   [Panora](https://panora.dev) - Easy, flexible API to add customer-facing integrations to your SaaS product. [![Panora](https://img.shields.io/github/stars/panoratech/panora?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/panoratech/panora)
 
-#### [23. Awesome Music](/content/ciconia/awesome-music/README.md)
+#### [20. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ##### Free Music Scores
 
 *   [Lavender Blue Open-Scores (⭐10)](https://github.com/madrisan/open-scores) - open scores for piano encoded using lilypond.
 
-#### [24. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+#### [21. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ##### Utils
 
 *   [POMWright (⭐14)](https://github.com/DyHex/POMWright) - POMWright is a TypeScript-based framework designed for creating and maintaining Page Object Models. It streamlines locator management by automatically generating nested/chained locators from flat and atomic locator structures which can be dynamically updated throughout tests. This significantly reduces code duplication and makes tests easier to read, write, and maintain.
 
-#### [25. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+#### [22. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ##### CMS
 
@@ -432,13 +292,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [EFCore.Visualizer](https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer) - View Entity Framework Core query plan directly in Visual Studio.
 
-#### [26. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+#### [23. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ##### Table of Contents / Toolkit
 
 *   [Apache Pekko (⭐944)](https://github.com/apache/incubator-pekko) \[Scala, Java] - Fork of Akka 2.6.x, prior to the Akka project's adoption of the Business Source License.
 
-#### [27. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+#### [24. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ##### Programming Languages / [Other](#other-1)
 
@@ -448,7 +308,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Betterscan.io](https://betterscan.io) — Betterscan.io - Betterscan.io checks your code and infra (various Git repositories supported, cloud stacks, CLI, Web Interface platform, integrationss available) for security and quality issues. Code Scanning/SAST/Linting using many tools/Scanners deduplicated with One Report (AI optional). Free to use in noncommerical way, commercial requires license.
 
-#### [28. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+#### [25. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ##### Blockchain API and Web services
 
@@ -458,7 +318,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [@lopp / Lightning Developers](https://twitter.com/i/lists/981976067551490048) - Software developers with experience working on LN implementations / applications.
 
-#### [29. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Plugin Manager
 
@@ -480,7 +340,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [massix/termux.nvim (⭐1)](https://github.com/massix/termux.nvim) - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
 
-#### [30. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+#### [27. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ##### Framework-agnostic Plugins / Integrations
 
@@ -498,13 +358,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [vite-plugin-react-rich-svg (⭐2)](https://github.com/iGoodie/vite-plugin-react-rich-svg) - Seamless SVG loader with versatile import options; such as DataURI, SVGR Component and Raw HTML Code.
 
-#### [31. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
+#### [28. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
 ##### :space_invader: Projects Using Prisma / Tutorials with [NestJS](https://nestjs.com/)
 
 *   [Dotfyle](https://dotfyle.com) - Discover and share Neovim plugins
 
-#### [32. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [29. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 
@@ -512,7 +372,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Latent Programmer: Discrete Latent Codes for Program Synthesis](https://proceedings.mlr.press/v139/hong21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9789877360194738968\&hl=en\&as_sdt=0,5)]. Paper introducing the Latent Programmer, a program synthesis method that first predicts a discrete latent code from input/output examples, and then generates the program in the target language.
 *   [PAL: Program-aided Language Models](https://proceedings.mlr.press/v202/gao23f) - ***ICML'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=14898051625978777315\&hl=en\&as_sdt=0,5)]. Paper presenting an approach that uses the LLM to read natural language problems and generate programs as the intermediate reasoning steps, but offloads the solution step to a runtime such as a Python interpreter. With PAL, decomposing the natural language problem into runnable steps remains the only learning task for the LLM, while solving is delegated to the interpreter.
 
-#### [33. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [30. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### PaaS
 
@@ -522,13 +382,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Singlebase.cloud](https://singlebase.cloud) — SinglebaseCloud is an AI-powered all-in-one backend platform to accelerate app development. It offers tools like Vector DB, Relational Document DB, Auth, Search, and Storage, aiming to simplify backend development. Free/Starter Plan offers Relational Document DB, Auth, Search, Storage.
 
-#### [34. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+#### [31. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ##### Pastebin and Secret Sharing
 
 *   [NoPaste (⭐323)](https://github.com/bokub/nopaste) - Open Source pastebin alternative that works with no database, and no back-end code. Instead, the data is compressed and stored entirely in the link that you share, nowhere else.
 
-#### [35. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+#### [32. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ##### Papers / 2024
 
@@ -540,7 +400,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Online Fairness Auditing through Iterative Refinement](https://dl.acm.org/doi/pdf/10.1145/3580305.3599454) - (KDD) *Provides an adaptive process that automates the inference of probabilistic guarantees associated with estimating fairness metrics.*
 
-#### [36. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [33. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Resources / Blog posts
 
@@ -550,14 +410,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Polars and time zones: everything you need to know | PyData Global 2023](https://www.youtube.com/watch?v=DFQFAwt_0VY) ⏳ 29 min - A video that  shows how to use Polars effectively for time series analysis involving different time zones by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
-#### [37. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [34. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [classic (⭐0)](https://github.com/freakinu/classic-zsh-theme) - A classic unix theme with decorators for username, host, current directory and `git` status.
 *   [frontcube (⭐0)](https://github.com/ronitkrshah/frontcube/) - Requires a nerd font. Based on the official [Frontcube (⭐4)](https://github.com/ornicar/oh-my-zsh/blob/master/themes/frontcube.zsh-theme) theme. Includes decorators for `git` status and current directory.
 
-#### [38. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [35. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Critical Views about Generative AI
 
@@ -572,14 +432,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Sora](https://openai.com/sora): OpenAI's text-to-video model [\[technical report\]](https://openai.com/research/video-generation-models-as-world-simulators)
 
-#### [39. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+#### [36. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ##### Other sources
 
 *   [SpeedChecker Insights](https://insights.speedchecker.com/) - Periodic country-level reports on mobile internet speeds, latency, and coverage
 *   [Cloudflare Radar](https://radar.cloudflare.com/) - Invaluable resource on internet traffic, security, routing, outages, DNS, and more.
 
-#### [40. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [37. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Logging
 
@@ -656,14 +516,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-#### [41. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+#### [38. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ##### Libraries
 
 *   [PureEval (⭐27)](https://github.com/PureEval/PureEval) - A powerful JavaScript functional programming toolset, including utility functions and abstract data structures.
 *   [context-fp (⭐1)](https://github.com/darky/context-fp) - Microscopic functional programming context aka dependency injection. +TS
 
-#### [42. Awesome Php](/content/ziadoz/awesome-php/README.md)
+#### [39. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ##### Table of Contents / Content Management Systems (CMS)
 
@@ -682,7 +542,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Apache NetBeans](https://netbeans.apache.org/front/main/index.html) - An IDE with support for PHP and HTML5.
 
-#### [43. Awesome V](/content/vlang/awesome-v/README.md)
+#### [40. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Web
 
@@ -693,7 +553,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [mongodb (⭐40)](https://github.com/vlang/mongo) - MongoDB driver for V.
 
-#### [44. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [41. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### Real-Time Search, Social Media Search, and General Social Media Tools
 
@@ -740,6 +600,175 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [OSINT-Tool](https://www.osint-tool.com/) - A browser extension that gives you access to a suite of OSINT utilities (Dehashed, Epieos, Domaintools, Exif data, Reverse image search, etc) directly on any webpage you visit.
 *   [Discoshell (⭐76)](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
 
+#### [42. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+
+##### 2D / Godot 4.2
+
+*   [Poder Solar (⭐3)](https://github.com/antimundo/poder-solar) - Simple resource management game.
+
+##### 3D / Godot 4.2
+
+*   [LibreAim (⭐8)](https://github.com/antimundo/libre-aim) - Libre FPS aim trainer made with Godot.
+
+##### Plugins and scripts / Various Godot versions
+
+*   [Godot Spin Button (⭐31)](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options (Godot 4.x).
+
+#### [43. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md)
+
+##### **AI/ML**
+
+*   [OpenWeedLocator (⭐271)](https://github.com/geezacoleman/OpenWeedLocator) - Opensource hardware and software weed detector that uses entirely off-the-shelf componentry, very simple green-detection algorithms (with capacity to upgrade to in-crop detection) and 3D printable parts
+*   [Plant disease (⭐33)](https://github.com/morenoh149/plantdisease) - Predictive model for cannabis sickness. One source identifies 30 types of cannabis ailments.
+
+##### **Grow Automation**
+
+*   [DROMatic OS (⭐297)](https://github.com/drolsen/DRO-Matic) - The DRO-Matic OS has been built to automate nearly every aspect of hydroponic farming for you! From nutrient dosing to pH / EC drift fixing, feeding types to draining, top-offs and even timers; we have quantified everything you need to automate successful crops.
+*   [MudPi (⭐259)](https://github.com/mudpi/mudpi-core) - A python package to gather sensor readings, trigger components, control devices and more in an event based system that can be run on a linux SBC, including Raspberry Pi
+*   [Mycodo (⭐2.8k)](https://github.com/kizniche/Mycodo) - Mycodo is open source software for the Raspberry Pi that couples inputs and outputs in interesting ways to sense and manipulate the environment
+*   [gardenAutomation (⭐384)](https://github.com/ledgardener/gardenAutomation) - Garden Automation toolkit by [LedGardener](https://ledgardener.com/category/builds/)
+*   [WEGA-Box (⭐12)](https://github.com/WEGA-project/wegabox) - Hydroponic system management toolkit
+
+##### **Calculators**
+
+*   [WEGA-HPG (⭐154)](https://github.com/WEGA-project/wega-hpg) - HPG Calculator
+
+##### Node RED
+
+*   [Node-RED (⭐18k)](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
+
+##### Node RED / Node RED flows
+
+*   [Home Automation Repository (⭐1)](https://github.com/Killerherts/nodeRed-HA-GrowingFunctions) - repository contains configuration files for a home automation system, including various sensors, inputs, and automation scripts
+
+##### Tasmota / Tasmota Configs
+
+*   N/A
+
+##### Home Assistant / Node RED plugins
+
+*   [Home Assistant (⭐67k)](https://github.com/home-assistant/core) - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts
+
+##### Home Assistant / Home Assistant Automation
+
+*   [HAGR (⭐1)](https://github.com/JakeTheRabbit/HAGR) - Home Assistant Grow Room is a repository for grow automation related things for Home Assistant
+
+##### **Facility management** / Home Assistant UI
+
+*   [OpenTHC (⭐6)](https://github.com/openthc/docker) - OpenTHC is an environment of web-based applications focused on helping Cannabis/Hemp and Organic Horticulture industry participants meet their regulatory requirements
+
+##### **Irrigation** / Home Assistant UI
+
+*   [OpenSprinkler AVR/RPI/BBB Firmware (⭐436)](https://github.com/OpenSprinkler/OpenSprinkler-Firmware) - This is a unified OpenSprinkler firmware for Arduino, and Linux-based OpenSprinklers such as OpenSprinkler Pi
+*   [OpenMinder (⭐33)](https://github.com/autogrow/openminder) -  Allows anyone to build a device that can monitor the rootzone of their plants to make the most optimum use of water and fertigation ingredients to ensure a happy plant. This is done by measuring the water going into the plants on the irrigation side, as well as coming out on the runoff side, thus allowing comparisons
+
+##### ESPHome / Home Assistant UI
+
+*   [ESPHome (⭐7.1k)](https://github.com/esphome/esphome) - ESPHome is a system to control your microcontrollers by simple yet powerful configuration files and control them remotely through Home Automation systems
+*   [PLF10 (⭐24)](https://github.com/KaufHA/PLF10/tree/main) - KAUF Power Monitoring Smart Plug (PLF10)
+
+##### ESPHome / ESPHome Configs
+
+*   [Aquaponics-Kit (⭐2)](https://github.com/TheRealFalseReality/Aquaponics-Kit) - Code for Atas Scientific Wi-Fi Aquaponics Kit to be compatable with ESPHome and HomeAssistant using Adafruit HUZZAH32 – ESP32 Feather Board
+
+##### Tasmota / ESPHome Configs
+
+*   [Tasmota (⭐21k)](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX
+
+##### Components / Tasmota Configs
+
+*   [Seed Studio](https://www.seeedstudio.com/) - various modules and components based on ESP32 and other MCU
+*   [LILYGO](https://www.lilygo.cc/) - varous modiles and components. Good relay boards based on ESP32.
+
+##### Components / Sensors
+
+*   [Atlas Scientific](https://atlas-scientific.com/probes/) - T/H, Pressure, pH, EC, ORP probes and interface boards. Dosing pumps, flowmeters. Lab grade.
+
+##### Components / MCU and SOC
+
+*   [ESP32](https://www.espressif.com/en/products/socs/esp32) - A feature-rich MCU with integrated Wi-Fi and Bluetooth connectivity for a wide-range of applications
+*   [Particle](https://www.particle.io/) - hardware modules for IoT
+
+##### Components / Modular systems
+
+*   [WisBlock by RAK Wireless](https://www.rakwireless.com/en-us/products/wisblock) - Create your own hardware with WisBlock Core, WisBlock Base and other WisBlock Modules
+
+##### DIY / Modular systems
+
+*   [OpenSprinkler Hardware (⭐58)](https://github.com/OpenSprinkler/OpenSprinkler-Hardware) - OpenSprinkler Hardware Design files, made in EagleCAD software
+
+##### **Metrics and Logging** / Modular systems
+
+*   [OS-RS485 (⭐2)](https://github.com/cropsteering/OS-RS485) - OpenSteering-RS485 Data logger
+*   [OpenSteering-SDI12 (⭐3)](https://github.com/cropsteering/OS-SDI12) - SDI-12 Data logger, up to 62 addresses
+*   [TDR-Sensor (⭐5)](https://github.com/Emperiusm/TDR-Sensor) - A TDR sensor that measures moisture content, EC, and temperature for Rockwool Substrates or Soil Substrates
+
+##### **Mixers and Dosers** / Modular systems
+
+*   [WEGA-Mixer (⭐25)](https://github.com/WEGA-project/wega-mixer) - WEGA-Mixer is a device for the automatic preparation of two-component complex fertilizers in liquids by precisely mixing their composition (RU, requires google translate).
+
+##### **MQTT** / Modular systems
+
+*   [Mosquitto (⭐8.1k)](https://github.com/eclipse/mosquitto) - Mosquitto is an open source implementation of a server for version 5.0, 3.1.1, and 3.1 of the MQTT protocol
+*   [EMQX (⭐13k)](https://github.com/emqx/emqx) - EMQX is the world's most scalable open-source MQTT broker with a high performance that connects 100M+ IoT devices in 1 cluster, while maintaining 1M message per second throughput and sub-millisecond latency.
+
+##### **Relay and power control** / Modular systems
+
+*   [EC-POWERCONTROL (⭐0)](https://github.com/cropsteering/EC-POWERCONTROL) - Edge controller power control for esp32
+
+##### Visualization platforms / Modular systems
+
+*   [InfluxDB (⭐27k)](https://github.com/influxdata/influxdb) - InfluxDB is an open source time series database
+*   [Grafana (⭐59k)](https://github.com/grafana/grafana) - The open-source platform for monitoring and observability
+
+##### **Storing Data** / Modular systems
+
+*   [Open TSDB (⭐4.9k)](https://github.com/OpenTSDB/opentsdb) - OpenTSDB is a distributed, scalable Time Series Database (TSDB) written on
+    top of HBase
+
+##### Visualization Libraries / Modular systems
+
+*   [Giraffe (⭐176)](https://github.com/influxdata/giraffe) - A React-based visualization library powering the data visualizations in the InfluxDB 2.0 UI
+*   [D3.js (⭐107k)](https://github.com/d3/d3) - D3 (or D3.js) is a free, open-source JavaScript library for visualizing data. Its low-level approach built on web standards offers unparalleled flexibility in authoring dynamic, data-driven graphics
+
+##### **Zigbee** / Modular systems
+
+*   [Zigbee2MQTT (⭐11k)](https://github.com/Koenkk/zigbee2mqtt) - It bridges events and allows you to control your Zigbee devices via MQTT. In this way you can integrate your Zigbee devices with whatever smart home infrastructure you are using.
+
+##### **Other Awesome Lists** / Modular systems
+
+*   [Awesome Agriculture (⭐1.1k)](https://github.com/brycejohnston/awesome-agriculture)
+*   [Awesome ESP (⭐785)](https://github.com/agucova/awesome-esp)
+*   [Awesome Home Assistant (⭐5.5k)](https://github.com/frenck/awesome-home-assistant)
+*   [Awesome InfluxDB (⭐790)](https://github.com/mark-rushakoff/awesome-influxdb)
+*   [Awesome IoT (⭐3k)](https://github.com/HQarroum/awesome-iot)
+*   [Awesome IoT & Hybrid (⭐534)](https://github.com/weblancaster/awesome-IoT-hybrid)
+*   [Awesome Open IoT (⭐596)](https://github.com/Agile-IoT/awesome-open-iot)
+*   [Awesome MQTT (⭐2k)](https://github.com/hobbyquaker/awesome-mqtt)
+*   [Awesome Open Hardware (⭐322)](https://github.com/delftopenhardware/awesome-open-hardware)
+*   [Awesome Raspberry Pi (⭐12k)](https://github.com/thibmaek/awesome-raspberry-pi)
+
+#### [44. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Applications / System tools
+
+*   [qarmin/czkawka (⭐14k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
+
+##### Development tools / Web Servers
+
+*   [envio-cli/envio (⭐646)](https://github.com/envio-cli/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/envio-cli/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/envio-cli/envio/actions/workflows/CICD.yml)
+
+##### Libraries / Markup language
+
+*   CommonMark
+    *   [pulldown-cmark/pulldown-cmark (⭐1.9k)](https://github.com/pulldown-cmark/pulldown-cmark) — [CommonMark](https://commonmark.org/) parser in Rust
+
+#### [45. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
+
+##### Learning Resources / Other "awesome" lists in AI and ML
+
+*   [Awesome LLM (⭐12k)](https://github.com/Hannibal046/Awesome-LLM#readme)
+
 ---
 
 - Next: [Feb 05 - Feb 11, 2024](&#x2F;content&#x2F;2024&#x2F;6&#x2F;README.md)
@@ -747,12 +776,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ## Top 50 Awesome List
 
 1. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 290K 📝 02&#x2F;14 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
-2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 167K 📝 02&#x2F;10 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 169K 📝 02&#x2F;10 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 3. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 80K 📝 02&#x2F;16 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 4. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 116K 📝 02&#x2F;08 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-5. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 54K 📝 02&#x2F;13 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-6. [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 30K 📝 02&#x2F;17 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-7. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 41K 📝 02&#x2F;12 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+5. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 41K 📝 02&#x2F;17 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+6. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 54K 📝 02&#x2F;13 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+7. [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 30K 📝 02&#x2F;17 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 8. [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source ⭐ 39K 📝 02&#x2F;12 ](https://github.com/akullpp/awesome-java)) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 9. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 69K 📝 02&#x2F;03 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 10. [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source ⭐ 60K 📝 02&#x2F;03 ](https://github.com/enaqx/awesome-react)) - A collection of awesome things regarding React ecosystem
@@ -778,9 +807,9 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 30. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source ⭐ 62K 📝 01&#x2F;25 ](https://github.com/josephmisiti/awesome-machine-learning)) - A curated list of awesome Machine Learning frameworks, libraries and software.
 31. [Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md) - ([Source ⭐ 15K 📝 02&#x2F;08 ](https://github.com/wilsonfreitas/awesome-quant)) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 32. [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 5.9K 📝 02&#x2F;17 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
-33. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source ⭐ 12K 📝 02&#x2F;09 ](https://github.com/thibmaek/awesome-raspberry-pi)) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-34. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K 📝 02&#x2F;06 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
-35. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source ⭐ 5.5K 📝 02&#x2F;14 ](https://github.com/godotengine/awesome-godot)) - A curated list of free/libre plugins, scripts and add-ons for Godot
+33. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source ⭐ 5.5K 📝 02&#x2F;17 ](https://github.com/godotengine/awesome-godot)) - A curated list of free/libre plugins, scripts and add-ons for Godot
+34. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source ⭐ 12K 📝 02&#x2F;09 ](https://github.com/thibmaek/awesome-raspberry-pi)) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+35. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K 📝 02&#x2F;06 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
 36. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 8.1K 📝 02&#x2F;09 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
 37. [Awesome Math](/content/rossant/awesome-math/README.md) - ([Source ⭐ 8K 📝 02&#x2F;08 ](https://github.com/rossant/awesome-math)) - A curated list of awesome mathematics resources
 38. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 5.3K 📝 02&#x2F;12 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
@@ -1121,7 +1150,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md) - ([Source ⭐ 919, 📝 16&#x2F;07&#x2F;07 ](https://github.com/hzoo/awesome-gametalks)) - :speech_balloon: A curated list of gaming talks (development, design, etc)
 - [Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md) - ([Source ⭐ 3.8K, 📝 23&#x2F;11&#x2F;29 ](https://github.com/gbdev/awesome-gbdev)) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
 - [Awesome Gideros](/content/stetso/awesome-gideros/README.md) - ([Source ⭐ 23, 📝 19&#x2F;10&#x2F;07 ](https://github.com/stetso/awesome-gideros)) - A curated list of awesome Gideros resources, classes and tips.
-- [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source ⭐ 5.5K, 📝 02&#x2F;14 ](https://github.com/godotengine/awesome-godot)) - A curated list of free/libre plugins, scripts and add-ons for Godot
+- [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source ⭐ 5.5K, 📝 02&#x2F;17 ](https://github.com/godotengine/awesome-godot)) - A curated list of free/libre plugins, scripts and add-ons for Godot
 - [Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/README.md) - ([Source ⭐ 355, 📝 23&#x2F;11&#x2F;18 ](https://github.com/Dvergar/awesome-haxe-gamedev)) - Resources for game development on haxe
 - [Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md) - ([Source ⭐ 86, 📝 02&#x2F;09 ](https://github.com/Billiam/awesome-ironsworn)) - An awesome list of awesome Ironsworn projects
 - [Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md) - ([Source ⭐ 772, 📝 23&#x2F;07&#x2F;16 ](https://github.com/rafaskb/awesome-libgdx)) - 🎮 📝 A curated list of libGDX resources to help developers make awesome games.
@@ -1174,7 +1203,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Library systems
 
-- [Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md) - ([Source ⭐ 23, 📝 02&#x2F;10 ](https://github.com/AI4LAM/awesome-ai4lam)) - A list of awesome AI in libraries, archives, and museum collections from around the world 🕶️
+- [Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md) - ([Source ⭐ 23, 📝 02&#x2F;17 ](https://github.com/AI4LAM/awesome-ai4lam)) - A list of awesome AI in libraries, archives, and museum collections from around the world 🕶️
 
 ### Media
 
@@ -1227,7 +1256,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md) - ([Source ⭐ 12K, 📝 23&#x2F;11&#x2F;28 ](https://github.com/terkelg/awesome-creative-coding)) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md) - ([Source ⭐ 335, 📝 23&#x2F;12&#x2F;01 ](https://github.com/j0hnm4r5/awesome-creative-technology)) - Curated list of Creative Technology groups, companies, studios, collectives, etc.
 - [Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md) - ([Source ⭐ 104, 📝 02&#x2F;02 ](https://github.com/mourarthur/awesome-credit-modeling)) - A collection of awesome papers, articles and various resources on credit and credit risk modeling
-- [Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md) - ([Source ⭐ 0, 📝 02&#x2F;13 ](https://github.com/Intergalactic-XYZ/awesome-cropsteering)) - 
+- [Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md) - ([Source ⭐ 0, 📝 02&#x2F;17 ](https://github.com/Intergalactic-XYZ/awesome-cropsteering)) - 
 - [Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md) - ([Source ⭐ 64, 📝 23&#x2F;11&#x2F;16 ](https://github.com/cytodata/awesome-cytodata)) - A curated list of awesome cytodata resources
 - [Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md) - ([Source ⭐ 3.1K, 📝 22&#x2F;02&#x2F;17 ](https://github.com/javierluraschi/awesome-dataviz)) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 - [Awesome Ddd](/content/heynickc/awesome-ddd/README.md) - ([Source ⭐ 10K, 📝 01&#x2F;05 ](https://github.com/heynickc/awesome-ddd)) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
@@ -1300,7 +1329,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md) - ([Source ⭐ 1K, 📝 23&#x2F;04&#x2F;13 ](https://github.com/nschloe/awesome-scientific-computing)) - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
 - [Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md) - ([Source ⭐ 614, 📝 23&#x2F;11&#x2F;12 ](https://github.com/writing-resources/awesome-scientific-writing)) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX 
 - [Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md) - ([Source ⭐ 995, 📝 01&#x2F;19 ](https://github.com/dersvenhesse/awesome-scriptable)) - A curated list of awesome Scriptable scripts and widgets.
-- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 167K, 📝 02&#x2F;10 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 169K, 📝 02&#x2F;10 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Awesome Sketch](/content/diessica/awesome-sketch/README.md) - ([Source ⭐ 730, 📝 17&#x2F;10&#x2F;03 ](https://github.com/diessica/awesome-sketch)) - :books: delightful stuff for SketchApp students.
 - [Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md) - ([Source ⭐ 1.8K, 📝 23&#x2F;05&#x2F;03 ](https://github.com/simskij/awesome-software-architecture)) - A curated list of resources on software architecture
 - [Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md) - ([Source ⭐ 476, 📝 02&#x2F;12 ](https://github.com/uraimo/awesome-software-patreons)) - A curated list of awesome programmers and software projects you can support!
@@ -1466,7 +1495,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome R](/content/qinwf/awesome-R/README.md) - ([Source ⭐ 5.6K, 📝 23&#x2F;12&#x2F;27 ](https://github.com/qinwf/awesome-R)) - A curated list of awesome R packages, frameworks and software.
 - [Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md) - ([Source ⭐ 431, 📝 22&#x2F;01&#x2F;06 ](https://github.com/iamericfletcher/awesome-r-learning-resources)) - A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
 - [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 13K, 📝 02&#x2F;13 ](https://github.com/markets/awesome-ruby)) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
-- [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 41K, 📝 02&#x2F;12 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+- [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 41K, 📝 02&#x2F;17 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 - [Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md) - ([Source ⭐ 283, 📝 16&#x2F;08&#x2F;30 ](https://github.com/eleventigers/awesome-rxjava)) - Useful resources for working with RxJava
 - [Awesome Scala](/content/lauris/awesome-scala/README.md) - ([Source ⭐ 8.6K, 📝 22&#x2F;09&#x2F;19 ](https://github.com/lauris/awesome-scala)) - A community driven list of useful Scala libraries, frameworks and software.
 - [Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md) - ([Source ⭐ 218, 📝 21&#x2F;10&#x2F;27 ](https://github.com/tindzk/awesome-scala-native)) -  Compilation of Scala Native resources and libraries 

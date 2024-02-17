@@ -4,6 +4,24 @@
 
 [ Daily / [Weekly](/content/Intergalactic-XYZ/awesome-cropsteering/week/README.md) / [Overview](/content/Intergalactic-XYZ/awesome-cropsteering/readme/README.md) ]
 
+## [Feb 17, 2024](/content/2024/02/17/README.md)
+
+### Node RED / Node RED flows
+
+*   [Home Automation Repository (⭐1)](https://github.com/Killerherts/nodeRed-HA-GrowingFunctions) - repository contains configuration files for a home automation system, including various sensors, inputs, and automation scripts
+
+### ESPHome / Home Assistant UI
+
+*   [PLF10 (⭐24)](https://github.com/KaufHA/PLF10/tree/main) - KAUF Power Monitoring Smart Plug (PLF10)
+
+### ESPHome / ESPHome Configs
+
+*   [Aquaponics-Kit (⭐2)](https://github.com/TheRealFalseReality/Aquaponics-Kit) - Code for Atas Scientific Wi-Fi Aquaponics Kit to be compatable with ESPHome and HomeAssistant using Adafruit HUZZAH32 – ESP32 Feather Board
+
+### **Metrics and Logging** / Modular systems
+
+*   [TDR-Sensor (⭐5)](https://github.com/Emperiusm/TDR-Sensor) - A TDR sensor that measures moisture content, EC, and temperature for Rockwool Substrates or Soil Substrates
+
 ## [Feb 13, 2024](/content/2024/02/13/README.md)
 
 ### **AI/ML**
@@ -13,10 +31,6 @@
 ### **Grow Automation**
 
 *   [gardenAutomation (⭐384)](https://github.com/ledgardener/gardenAutomation) - Garden Automation toolkit by [LedGardener](https://ledgardener.com/category/builds/)
-
-### Node RED / Node RED flows
-
-*   [Home Automation Repository (⭐1)](https://github.com/Killerherts/nodeRed-HA-GrowingFunctions#installationhttps://github.com/Killerherts/nodeRed-HA-GrowingFunctions) - repository contains configuration files for a home automation system, including various sensors, inputs, and automation scripts
 
 ## [Feb 12, 2024](/content/2024/02/12/README.md)
 
@@ -49,7 +63,7 @@
 
 ### Home Assistant / Home Assistant Automation
 
-*   [HAGR (⭐1)](https://github.com/JakeTheRabbit/HAGR) - Home Assistant Grow Room is a repository for grow automation related things for Home Assistant.
+*   [HAGR (⭐1)](https://github.com/JakeTheRabbit/HAGR) - Home Assistant Grow Room is a repository for grow automation related things for Home Assistant
 
 ### **Facility management** / Home Assistant UI
 

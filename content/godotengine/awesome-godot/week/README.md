@@ -8,6 +8,14 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
+### 2D / Godot 4.2
+
+*   [Poder Solar (⭐3)](https://github.com/antimundo/poder-solar) - Simple resource management game.
+
+### 3D / Godot 4.2
+
+*   [LibreAim (⭐8)](https://github.com/antimundo/libre-aim) - Libre FPS aim trainer made with Godot.
+
 ### Plugins and scripts / Various Godot versions
 
 *   [Godot Spin Button (⭐31)](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options (Godot 4.x).

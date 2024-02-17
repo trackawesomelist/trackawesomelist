@@ -6,6 +6,12 @@ A list of awesome AI in libraries, archives, and museum collections from around 
 
 [ Daily / [Weekly](/content/AI4LAM/awesome-ai4lam/week/README.md) / [Overview](/content/AI4LAM/awesome-ai4lam/readme/README.md) ]
 
+## [Feb 17, 2024](/content/2024/02/17/README.md)
+
+### Learning Resources / Other "awesome" lists in AI and ML
+
+*   [Awesome LLM (⭐12k)](https://github.com/Hannibal046/Awesome-LLM#readme)
+
 ## [Feb 10, 2024](/content/2024/02/10/README.md)
 
 ### Learning Resources / Computer vision
@@ -193,7 +199,7 @@ A list of awesome AI in libraries, archives, and museum collections from around 
 
 *   [Awesome Computer Vision (⭐19k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
 *   [Awesome Deep Learning for Natural Language Processing (NLP) (⭐1.2k)](https://github.com/brianspiering/awesome-dl4nlp#readme)
-*   [Awesome Generative AI (⭐4k)](https://github.com/steven2358/awesome-generative-ai#readme)
+*   [Awesome Generative AI (⭐4.1k)](https://github.com/steven2358/awesome-generative-ai#readme)
 *   [Awesome Jupyter GLAM (⭐19)](https://github.com/LibraryCarpentry/awesome-jupyter-glam#readme)
 *   [The NLP Index](https://index.quantumstat.com)
 

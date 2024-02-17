@@ -41,6 +41,10 @@ See [Vivraan/godot-lang-support (⭐290)](https://github.com/Vivraan/godot-lang-
 
 ### 2D
 
+#### Godot 4.2
+
+*   [Poder Solar (⭐3)](https://github.com/antimundo/poder-solar) - Simple resource management game.
+
 #### Godot 3.2+
 
 *   [Everplast (⭐61)](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
@@ -85,6 +89,10 @@ See [Vivraan/godot-lang-support (⭐290)](https://github.com/Vivraan/godot-lang-
 *   [Three Hungry Mice (⭐7)](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam of March 2016.
 
 ### 3D
+
+#### Godot 4.2
+
+*   [LibreAim (⭐8)](https://github.com/antimundo/libre-aim) - Libre FPS aim trainer made with Godot.
 
 #### Godot 3.2+
 

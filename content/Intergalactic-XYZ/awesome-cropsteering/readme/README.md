@@ -8,9 +8,13 @@ null
 
 ---
 
-# Awesome Crop Steering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Crop Steering
 
-A curated list of OpenSource project in indoor/outdoor agriculture automation, crop steering and cannabis cultivation.
+Curated by [IXYZ](https://ixyz.ai/) list of OpenSource projects in indoor/outdoor agriculture automation, crop steering and cannabis cultivation
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Build Status](https://github.com/Intergalactic-XYZ/awesome-cropsteering/actions/workflows/awesome-bot.yml/badge.svg)](https://github.com/Intergalactic-XYZ/awesome-cropsteering/actions/workflows/awesome-bot.yml)
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Intergalactic-XYZ/awesome-cropsteering/)
 
 ## **Contents**
 
@@ -76,7 +80,7 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 
 #### Node RED flows
 
-*   [Home Automation Repository (⭐1)](https://github.com/Killerherts/nodeRed-HA-GrowingFunctions#installationhttps://github.com/Killerherts/nodeRed-HA-GrowingFunctions) - repository contains configuration files for a home automation system, including various sensors, inputs, and automation scripts
+*   [Home Automation Repository (⭐1)](https://github.com/Killerherts/nodeRed-HA-GrowingFunctions) - repository contains configuration files for a home automation system, including various sensors, inputs, and automation scripts
 
 #### Node RED plugins
 
@@ -90,7 +94,7 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 
 #### Home Assistant Automation
 
-*   [HAGR (⭐1)](https://github.com/JakeTheRabbit/HAGR) - Home Assistant Grow Room is a repository for grow automation related things for Home Assistant.
+*   [HAGR (⭐1)](https://github.com/JakeTheRabbit/HAGR) - Home Assistant Grow Room is a repository for grow automation related things for Home Assistant
 
 #### Home Assistant UI
 
@@ -117,10 +121,11 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 ### ESPHome
 
 *   [ESPHome (⭐7.1k)](https://github.com/esphome/esphome) - ESPHome is a system to control your microcontrollers by simple yet powerful configuration files and control them remotely through Home Automation systems
+*   [PLF10 (⭐24)](https://github.com/KaufHA/PLF10/tree/main) - KAUF Power Monitoring Smart Plug (PLF10)
 
 #### ESPHome Configs
 
-*   N/A
+*   [Aquaponics-Kit (⭐2)](https://github.com/TheRealFalseReality/Aquaponics-Kit) - Code for Atas Scientific Wi-Fi Aquaponics Kit to be compatable with ESPHome and HomeAssistant using Adafruit HUZZAH32 – ESP32 Feather Board
 
 **[⬆ back to top](#contents)**
 
@@ -168,6 +173,8 @@ A curated list of OpenSource project in indoor/outdoor agriculture automation, c
 *   [OS-RS485 (⭐2)](https://github.com/cropsteering/OS-RS485) - OpenSteering-RS485 Data logger
 
 *   [OpenSteering-SDI12 (⭐3)](https://github.com/cropsteering/OS-SDI12) - SDI-12 Data logger, up to 62 addresses
+
+*   [TDR-Sensor (⭐5)](https://github.com/Emperiusm/TDR-Sensor) - A TDR sensor that measures moisture content, EC, and temperature for Rockwool Substrates or Soil Substrates
 
 **[⬆ back to top](#contents)**
 
