@@ -206,6 +206,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Critical Views about Generative AI
 
+*   [Nightshade, the tool that ‘poisons’ data, gives artists a fighting chance against AI | TechCrunch](https://techcrunch.com/2024/01/26/nightshade-the-tool-that-poisons-data-gives-artists-a-fighting-chance-against-ai/)
 *   [How AI Fails Us | Edmond & Lily Safra Center for Ethics](https://ethics.harvard.edu/how-ai-fails-us)
 *   [Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum](https://spectrum.ieee.org/midjourney-copyright): "Experiments with Midjourney and DALL-E 3 show a copyright minefield"
 *   [\[2308.03762\] GPT-4 Can't Reason](https://arxiv.org/abs/2308.03762): "despite the genuinely impressive improvement, there are good reasons to be highly skeptical of GPT-4's ability to reason"
@@ -605,7 +606,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [Exploring Multi-Persona Prompting for Better Outputs](https://www.prompthub.us/blog/exploring-multi-persona-prompting-for-better-outputs): "method of prompt engineering that instructs the LLM to summon multiple personas and have them work together to solve a task"
 *   [Conceptual Framework for Autonomous Cognitive Entities](https://arxiv.org/abs/2310.06775): a paper that "introduces the Autonomous Cognitive Entity (ACE) model, a novel framework for a cognitive architecture, enabling machines and software agents to operate more independently"
 *   [Mindstorms in Natural Language-Based Societies of Mind](https://arxiv.org/abs/2305.17066): a paper that evaluates the natural language-based societies of mind (NLSOMs), leveraging mindstorms in them to solve some practical AI tasks
-*   [AutoGen | Microsoft](https://microsoft.github.io/autogen/): multi-agent conversation framework as a high-level abstraction by Microsoft \[[github (⭐21k)](https://github.com/microsoft/autogen)]
+*   [AutoGen | Microsoft](https://microsoft.github.io/autogen/): multi-agent conversation framework as a high-level abstraction by Microsoft \[[github (⭐22k)](https://github.com/microsoft/autogen)]
 *   [OpenBMB/ChatDev (⭐20k)](https://github.com/OpenBMB/ChatDev): create customized software using natural language idea (through llm-powered multi-agent collaboration)
 *   [a16z-infra/ai-town (⭐6k)](https://github.com/a16z-infra/AI-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
 *   [AI Town](https://www.convex.dev/ai-town): a virtual town where AI characters live, chat and socialize.
@@ -949,6 +950,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Video and Animation
 
+*   [Sora](https://openai.com/sora): OpenAI's text-to-video model [\[technical report\]](https://openai.com/research/video-generation-models-as-world-simulators)
 *   [SDV (Stable Diffusion Image To Video)](https://twitter.com/stevemills/status/1727898404787986873?s=46\&t=CQsRDjHr9sNtph3xC84hXQ): generates 3 seconds of video in about 30 seconds using an A100 GPU on Colab+.
 *   \[[Emu Video | Meta](https://emu-video.metademolab.com/) ]\(<https://emu-video.metademolab.com/demo#/demo>): state-of-the-art text-to-video generation
 *   [AILab-CVC/VideoCrafter (⭐3.6k)](https://github.com/ailab-cvc/videocrafter): Open Diffusion Models for High-Quality Video Generation

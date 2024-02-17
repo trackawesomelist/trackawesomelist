@@ -6,6 +6,12 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 
 [ Daily / [Weekly](/content/stevesong/awesome-connectivity-info/week/README.md) / [Overview](/content/stevesong/awesome-connectivity-info/readme/README.md) ]
 
+## [Feb 17, 2024](/content/2024/02/17/README.md)
+
+### Other sources
+
+*   [SpeedChecker Insights](https://insights.speedchecker.com/) - Periodic country-level reports on mobile internet speeds, latency, and coverage
+
 ## [Feb 15, 2024](/content/2024/02/15/README.md)
 
 ### Other sources

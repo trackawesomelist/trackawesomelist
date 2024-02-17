@@ -2,9 +2,56 @@
 
 :scream: A curated list of amazingly awesome OSINT
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jivoi/awesome-osint/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ⭐ 14K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jivoi/awesome-osint/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ⭐ 16K · 🏷️ Theory
 
 [ [Daily](/content/jivoi/awesome-osint/README.md) / Weekly / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
+
+## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
+
+### Real-Time Search, Social Media Search, and General Social Media Tools
+
+*   [Predicta Search](https://predictasearch.com) - Search for social accounts with e-mail and phone
+*   [SocialBlade](http://socialblade.com)
+
+### Company Research / Telegram
+
+*   [Datalead AI](https://datalead.ai) - A 360-degree view to billions of people and companies with deep, actionable insights.
+
+### Username Check / Telegram
+
+*   [CheckUser](https://checkuser.vercel.app/) - search username across social networks
+
+### People Investigations / Telegram
+
+*   [Digital Footprint Check](https://www.digitalfootprintcheck.com) - Search the internet including social media accounts, employment history, dating profiles, gaming profiles, dark web credential breaches, indexed search engine occurrences, and more.
+*   [FamilyTreeNow](https://familytreenow.com) - Research family and geneology, no registration required, can search addresses, phone numbers, and email addresses as well as associations.
+*   [VineLink](https://www.vinelink.com/#state-selection) - Inmate search and notification service for victims of crime, linked to multiple correctional facilities' booking systems in the U.S.
+
+### E-mail Search / E-mail Check / Telegram
+
+*   [Gitrecon (⭐3)](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
+
+### Domain and IP Research / Telegram
+
+*   [Validin](https://app.validin.com/) - Website and API to search current and historical DNS records for free
+
+### Image Search / Telegram
+
+*   [GeoSpyer (⭐8)](https://github.com/atiilla/geospy "Original service: https://geospy.web.app/") - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
+
+### Image Analysis / Telegram
+
+*   [GeoSpy](https://geospy.web.app/) - AI based image osint tool
+
+### Web Monitoring / Telegram
+
+*   [ChangeDetection.io](https://changedetection.io)
+*   [ChangeDetection.io Open Source (⭐14k)](https://github.com/dgtlmoon/changedetection.io)
+
+### Other Tools / Telegram
+
+*   [OSINT-Tool](https://www.osint-tool.com/) - A browser extension that gives you access to a suite of OSINT utilities (Dehashed, Epieos, Domaintools, Exif data, Reverse image search, etc) directly on any webpage you visit.
+*   [Discoshell (⭐76)](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
 
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 
@@ -30,35 +77,35 @@
 
 ### Related Awesome Lists / Telegram
 
-*   [awesome-anti-forensic (⭐522)](https://github.com/remiflavien1/awesome-anti-forensic) by @remiflavien1
-*   [awesome-ctf (⭐8.4k)](https://github.com/apsdehal/awesome-ctf) by @apsdehal
-*   [awesome-forensics (⭐3.1k)](https://github.com/Cugu/awesome-forensics) by @cugu
-*   [awesome-hacking (⭐11k)](https://github.com/carpedm20/awesome-hacking) by @carpedm20
-*   [awesome-honeypots (⭐7.3k)](https://github.com/paralax/awesome-honeypots) by @paralax
-*   [awesome-incident-response (⭐6.5k)](https://github.com/meirwah/awesome-incident-response) by @meirwah
-*   [awesome-lockpicking (⭐1.2k)](https://github.com/fabacab/awesome-lockpicking) by @fabacab
-*   [awesome-malware-analysis (⭐10k)](https://github.com/rshipp/awesome-malware-analysis) by @rshipp
-*   [awesome-pentest (⭐19k)](https://github.com/enaqx/awesome-pentest) by @enaqx
-*   [awesome-privacy (⭐4.8k)](https://github.com/Lissy93/awesome-privacy/) by @Lissy93
-*   [awesome-sec-talks (⭐3.8k)](https://github.com/PaulSec/awesome-sec-talks) by @PaulSec
-*   [awesome-security (⭐10k)](https://github.com/sbilly/awesome-security) by @sbilly
-*   [awesome-threat-intelligence (⭐6.5k)](https://github.com/hslatman/awesome-threat-intelligence) by @hslatman
-*   [infosec reference (⭐5.1k)](https://github.com/rmusser01/Infosec_Reference) by @rmusser01
-*   [personal-security-checklist (⭐13k)](https://github.com/Lissy93/personal-security-checklist) by @Lissy93
-*   [SecLists (⭐49k)](https://github.com/danielmiessler/SecLists) by @danielmiessler
-*   [security-list (⭐1.6k)](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
+*   [awesome-anti-forensic (⭐633)](https://github.com/remiflavien1/awesome-anti-forensic) by @remiflavien1
+*   [awesome-ctf (⭐8.9k)](https://github.com/apsdehal/awesome-ctf) by @apsdehal
+*   [awesome-forensics (⭐3.4k)](https://github.com/Cugu/awesome-forensics) by @cugu
+*   [awesome-hacking (⭐12k)](https://github.com/carpedm20/awesome-hacking) by @carpedm20
+*   [awesome-honeypots (⭐7.7k)](https://github.com/paralax/awesome-honeypots) by @paralax
+*   [awesome-incident-response (⭐6.9k)](https://github.com/meirwah/awesome-incident-response) by @meirwah
+*   [awesome-lockpicking (⭐1.3k)](https://github.com/fabacab/awesome-lockpicking) by @fabacab
+*   [awesome-malware-analysis (⭐11k)](https://github.com/rshipp/awesome-malware-analysis) by @rshipp
+*   [awesome-pentest (⭐20k)](https://github.com/enaqx/awesome-pentest) by @enaqx
+*   [awesome-privacy (⭐5.4k)](https://github.com/Lissy93/awesome-privacy/) by @Lissy93
+*   [awesome-sec-talks (⭐3.9k)](https://github.com/PaulSec/awesome-sec-talks) by @PaulSec
+*   [awesome-security (⭐11k)](https://github.com/sbilly/awesome-security) by @sbilly
+*   [awesome-threat-intelligence (⭐7k)](https://github.com/hslatman/awesome-threat-intelligence) by @hslatman
+*   [infosec reference (⭐5.3k)](https://github.com/rmusser01/Infosec_Reference) by @rmusser01
+*   [personal-security-checklist (⭐14k)](https://github.com/Lissy93/personal-security-checklist) by @Lissy93
+*   [SecLists (⭐52k)](https://github.com/danielmiessler/SecLists) by @danielmiessler
+*   [security-list (⭐1.7k)](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
 
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
 ### Geospatial Research and Mapping Tools / Telegram
 
-*   [SatIntel (⭐459)](https://github.com/ANG13T/SatIntel)
+*   [SatIntel (⭐516)](https://github.com/ANG13T/SatIntel)
 
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 
 ### Domain and IP Research / Telegram
 
-*   [WebsiteTechMiner.py (⭐1)](https://github.com/cybersader/WebsiteTechMiner-py) - automates gathering website profiling data into a CSV from the "BuiltWith" or "Wappalyzer" API for tech stack information, technographic data, website reports, website tech lookups, website architecture lookups, etc.
+*   [WebsiteTechMiner.py (⭐3)](https://github.com/cybersader/WebsiteTechMiner-py) - automates gathering website profiling data into a CSV from the "BuiltWith" or "Wappalyzer" API for tech stack information, technographic data, website reports, website tech lookups, website architecture lookups, etc.
 
 ## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
 
@@ -84,7 +131,7 @@
 
 ### Language Tools / Telegram
 
-*   see the [Awesome Translations list (⭐87)](https://github.com/mbiesiad/awesome-translations#tools)
+*   see the [Awesome Translations list (⭐104)](https://github.com/mbiesiad/awesome-translations#tools)
 
 ### Image Search / Telegram
 
@@ -104,20 +151,20 @@
 
 ### Other Tools / Telegram
 
-*   [SpiderSuite (⭐450)](https://github.com/3nock/SpiderSuite) - An advance, cross-platform, GUI web security crawler.
+*   [SpiderSuite (⭐486)](https://github.com/3nock/SpiderSuite) - An advance, cross-platform, GUI web security crawler.
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
 ### Username Check / Telegram
 
-*   [NexFil (⭐1.9k)](https://github.com/thewhiteh4t/nexfil) - checks username from almost all social network sites.
-*   [Seekr (⭐314)](https://github.com/seekr-osint/seekr) A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.
+*   [NexFil (⭐2k)](https://github.com/thewhiteh4t/nexfil) - checks username from almost all social network sites.
+*   [Seekr (⭐428)](https://github.com/seekr-osint/seekr) A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.
 
 ### Video Search and Other Video Tools / Telegram
 
 *   [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) - Searches currently 5 YouTube archives for specific videos by ID, which is really useful for finding deleted or private YouTube videos.
-*   [Tubuep (⭐327)](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
-*   [yt-dlp (⭐56k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [Tubuep (⭐363)](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
+*   [yt-dlp (⭐66k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -136,11 +183,7 @@
 ### Username Check / Telegram
 
 *   [NameKetchup](https://nameketchup.com) - checks domain name and username in popular social media sites and platforms.
-*   [Blackbird (⭐1.9k)](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
-
-### People Investigations / Telegram
-
-*   [Digital Footprint Check](https://www.cyberoneintel.com/digitalfootprint) - Search the internet including social media accounts, employment history, dating profiles, gaming profiles, dark web credential breaches, indexed search engine occurrences, and more.
+*   [Blackbird (⭐2.2k)](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
 
 ### Image Search / Telegram
 
@@ -161,13 +204,13 @@
 
 ### Infographics and Data Visualization / Telegram
 
-*   [Perspective (⭐6.6k)](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
+*   [Perspective (⭐7.2k)](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
 
 ### Other Tools / Telegram
 
-*   [Glit (⭐34)](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
+*   [Glit (⭐37)](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
 *   [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports [10 API wrappers](https://serpapi.com/integrations).
-*   [SerpScan (⭐57)](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
+*   [SerpScan (⭐60)](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
 
 ## [Oct 03 - Oct 09, 2022](/content/2022/40/README.md)
 
@@ -277,7 +320,7 @@
 
 ### Image Analysis / Telegram
 
-*   [ExifLooter (⭐324)](https://github.com/aydinnyunus/exiflooter)
+*   [ExifLooter (⭐388)](https://github.com/aydinnyunus/exiflooter)
 
 ## [Aug 22 - Aug 28, 2022](/content/2022/34/README.md)
 
@@ -287,7 +330,7 @@
 
 ### Other Tools / Telegram
 
-*   [BeVigil-CLI (⭐88)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
+*   [BeVigil-CLI (⭐97)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
 
 ## [Aug 15 - Aug 21, 2022](/content/2022/33/README.md)
 
@@ -301,22 +344,22 @@
 
 ### Other Tools / Telegram
 
-*   [CrowdSec (⭐7k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
+*   [CrowdSec (⭐7.5k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 
 ### Username Check / Telegram
 
-*   [Maigret (⭐9k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
+*   [Maigret (⭐9.4k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 
 ### Other Tools / Telegram
 
 *   [LinkScope](https://accentusoft.com/) - LinkScope is an open source intelligence (OSINT) graphical link analysis tool and automation platform for gathering and connecting information for investigative tasks.
-    *   [LinkScope Client (⭐157)](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
+    *   [LinkScope Client (⭐202)](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
 *   [SpiderFoot](https://www.spiderfoot.net) - SpiderFoot is an open source intelligence (OSINT) automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
-    *   [SpiderFoot (⭐10k)](https://github.com/smicallef/spiderfoot) - SpiderFoot Github repository.
+    *   [SpiderFoot (⭐11k)](https://github.com/smicallef/spiderfoot) - SpiderFoot Github repository.
 
 ## [Jul 18 - Jul 24, 2022](/content/2022/29/README.md)
 
@@ -346,7 +389,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Osintgram (⭐7.4k)](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
+*   [Osintgram (⭐8.3k)](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
 
 ### Social Media Tools / Telegram
 
@@ -406,17 +449,17 @@
 
 ### Other Tools / Telegram
 
-*   [Sub3 Suite (⭐423)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
+*   [Sub3 Suite (⭐452)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
 
 ## [Mar 28 - Apr 03, 2022](/content/2022/13/README.md)
 
 ### Social Media Tools / Facebook
 
-*   [Facebook Friend List Scraper (⭐183)](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
+*   [Facebook Friend List Scraper (⭐215)](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
 
 ### Web History and Website Capture / Telegram
 
-*   [waybackpy (⭐352)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
+*   [waybackpy (⭐407)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
 
 ## [Mar 21 - Mar 27, 2022](/content/2022/12/README.md)
 
@@ -440,7 +483,7 @@
 
 ### Other Tools / Telegram
 
-*   [DuckDuckGo URL scraper (⭐16)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
+*   [DuckDuckGo URL scraper (⭐18)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
 
 ## [Feb 14 - Feb 20, 2022](/content/2022/7/README.md)
 
@@ -480,7 +523,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Sterra (⭐407)](https://github.com/novitae/sterraxcyl)
+*   [Sterra (⭐460)](https://github.com/novitae/sterraxcyl)
 
 ## [Dec 06 - Dec 12, 2021](/content/2021/49/README.md)
 
@@ -500,7 +543,7 @@
 
 ### Social Media Tools / Telegram
 
-*   [Telegram Nearby Map (⭐596)](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
+*   [Telegram Nearby Map (⭐894)](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
 
 ### Username Check / Telegram
 
@@ -534,13 +577,13 @@
 
 ### Username Check / Telegram
 
-*   [Snoop (⭐2.2k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
+*   [Snoop (⭐2.6k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
 
 ## [Aug 09 - Aug 15, 2021](/content/2021/32/README.md)
 
 ### E-mail Search / E-mail Check / Telegram
 
-*   [Ghunt (⭐14k)](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
+*   [Ghunt (⭐15k)](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
 
 ## [Jul 26 - Aug 01, 2021](/content/2021/30/README.md)
 
@@ -587,7 +630,7 @@
 *   [Kribrum](https://kribrum.io/)
 *   [WATools](https://watools.io/)
 *   [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
-*   [Oblivion (⭐421)](https://github.com/loseys/Oblivion)
+*   [Oblivion (⭐451)](https://github.com/loseys/Oblivion)
 
 ### Social Media Tools / VKontakte
 
@@ -642,7 +685,7 @@
 *   [Insecam](http://insecam.org/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
-*   [Video Stabilization Methods (⭐254)](https://github.com/yaochih/awesome-video-stabilization)
+*   [Video Stabilization Methods (⭐297)](https://github.com/yaochih/awesome-video-stabilization)
 
 ### Geospatial Research and Mapping Tools / Telegram
 
@@ -667,7 +710,7 @@
 ### Other Tools / Telegram
 
 *   [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
-*   [FOCA (⭐2.5k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
+*   [FOCA (⭐2.7k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 
 ### OSINT Videos / Telegram
 
@@ -705,8 +748,8 @@
 
 ### E-mail Search / E-mail Check / Telegram
 
-*   [h8mail (⭐3.5k)](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
-*   [Holehe (⭐5.6k)](https://github.com/megadose/holehe)
+*   [h8mail (⭐3.8k)](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
+*   [Holehe (⭐6.1k)](https://github.com/megadose/holehe)
 
 ### Video Search and Other Video Tools / Telegram
 
@@ -769,7 +812,7 @@
 
 ### Phone Number Research / Telegram
 
-*   [PhoneInfoga (⭐11k)](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
+*   [PhoneInfoga (⭐12k)](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
 
 ## [Nov 02 - Nov 08, 2020](/content/2020/44/README.md)
 
@@ -814,7 +857,7 @@
 
 ### Username Check / Telegram
 
-*   [Sherlock (⭐43k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+*   [Sherlock (⭐47k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 
 ### Browsers / Telegram
 
@@ -859,7 +902,7 @@
 
 ### Threat Intelligence / Telegram
 
-*   [OnionScan (⭐2.6k)](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
+*   [OnionScan (⭐2.7k)](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
 
 ## [Jun 15 - Jun 21, 2020](/content/2020/24/README.md)
 
@@ -871,13 +914,13 @@
 
 ### Social Media Tools / Instagram
 
-*   [Toutatis (⭐1.3k)](https://github.com/megadose/toutatis)
+*   [Toutatis (⭐1.5k)](https://github.com/megadose/toutatis)
 
 ## [Mar 30 - Apr 05, 2020](/content/2020/13/README.md)
 
 ### Privacy and Encryption Tools / Telegram
 
-*   [uBlock Origin (⭐37k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐42k)](https://github.com/gorhill/uBlock)
 
 ## [Feb 24 - Mar 01, 2020](/content/2020/8/README.md)
 
@@ -903,7 +946,7 @@
 ### Other Tools / Telegram
 
 *   [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.
-    *   [pygreynoise (⭐142)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
+    *   [pygreynoise (⭐144)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 
 ## [Jul 22 - Jul 28, 2019](/content/2019/29/README.md)
 
@@ -930,9 +973,9 @@
 
 ### Other Tools / Telegram
 
-*   [Belati (⭐494)](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
+*   [Belati (⭐516)](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 *   [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
-*   [Pown Recon (⭐417)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
+*   [Pown Recon (⭐419)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
 *   [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 
 ## [Jan 21 - Jan 27, 2019](/content/2019/3/README.md)
@@ -955,7 +998,7 @@
 
 *   [ahrefs](https://ahrefs.com) - A tool for backlink research, organic traffic research, keyword research, content marketing & more.
 *   [Similar Web](https://www.similarweb.com) - Compare any website traffic statistics & analytics.
-*   [Squatm3gator (⭐27)](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
+*   [Squatm3gator (⭐29)](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
 *   [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
 
 ### Image Search / Telegram
@@ -978,7 +1021,7 @@
 
 ### Other Tools / Telegram
 
-*   [sn0int (⭐1.6k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+*   [sn0int (⭐1.8k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
 ## [Oct 15 - Oct 21, 2018](/content/2018/42/README.md)
 
@@ -989,7 +1032,7 @@
 ### Other Tools / Telegram
 
 *   [Photon (⭐10k)](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
-*   [Zen (⭐512)](https://github.com/s0md3v/Zen) - Find email addresses of Github users
+*   [Zen (⭐522)](https://github.com/s0md3v/Zen) - Find email addresses of Github users
 
 ## [Oct 01 - Oct 07, 2018](/content/2018/40/README.md)
 
@@ -1001,7 +1044,7 @@
 
 ### Other Tools / Telegram
 
-*   [Orbit (⭐472)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
+*   [Orbit (⭐502)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 
 ## [Jun 25 - Jul 01, 2018](/content/2018/26/README.md)
 
@@ -1019,7 +1062,7 @@
 
 ### Other Tools / Telegram
 
-*   [The Harvester (⭐9.2k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
+*   [The Harvester (⭐9.9k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 
 ## [May 28 - Jun 03, 2018](/content/2018/22/README.md)
 
@@ -1074,7 +1117,7 @@
 
 ### Other Tools / Telegram
 
-*   [Datasploit (⭐2.8k)](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
+*   [Datasploit (⭐2.9k)](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 
 ## [Jun 26 - Jul 02, 2017](/content/2017/26/README.md)
 
@@ -1155,7 +1198,7 @@
 *   [Intrigue Core (⭐1.3k)](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
 *   [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 *   [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
-*   [OsintStalker (⭐566)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
+*   [OsintStalker (⭐599)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 *   [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 
 ## [May 15 - May 21, 2017](/content/2017/20/README.md)
@@ -1372,7 +1415,6 @@
 *   [OpinionCrawl](http://www.opinioncrawl.com)
 *   [Rival IQ](https://www.rivaliq.com)
 *   [SocialBakers](http://www.socialbakers.com)
-*   [SociaBlade](http://socialblade.com)
 *   [Social DownORNot](http://social.downornot.com)
 *   [Social Searcher](http://www.social-searcher.com)
 *   [Tagboard](https://tagboard.com)
@@ -1444,7 +1486,7 @@
 *   [Agora Pulse](http://barometer.agorapulse.com)
 *   [Fanpage Karma](http://www.fanpagekarma.com)
 *   [Facebook Search](http://search.fb.com/)
-*   [Fb-sleep-stats (⭐1.5k)](https://github.com/sqren/fb-sleep-stats)
+*   [Fb-sleep-stats (⭐1.6k)](https://github.com/sqren/fb-sleep-stats)
 *   [Lookup-ID.com](https://lookup-id.com)
 *   [SearchIsBack](https://searchisback.com)
 *   [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
@@ -1780,7 +1822,7 @@
 *   [Circos](http://circos.ca)
 *   [creately](http://creately.com)
 *   [Crossfilter](http://square.github.io/crossfilter)
-*   [csvkit (⭐5.6k)](https://github.com/wireservice/csvkit)
+*   [csvkit (⭐5.7k)](https://github.com/wireservice/csvkit)
 *   [Data Visualization Catalogue](http://datavizcatalogue.com)
 *   [Datawrapper](https://datawrapper.de)
 *   [Dropmark](http://www.dropmark.com)
@@ -1821,7 +1863,7 @@
 *   [Textures.js](https://riccardoscalco.github.io/textures)
 *   [Tiki-toki](http://www.tiki-toki.com)
 *   [Tik-tok](https://datanews.github.io/tik-tok)
-*   [Timeflow (⭐447)](https://github.com/FlowingMedia/TimeFlow/wiki)
+*   [Timeflow (⭐449)](https://github.com/FlowingMedia/TimeFlow/wiki)
 *   [Timeglider](http://timeglider.com/widget)
 *   [Timeline](http://timeline.knightlab.com)
 *   [Timeline](http://www.simile-widgets.org/timeline)
@@ -1920,7 +1962,7 @@
 ### Offline Browsing / Telegram
 
 *   [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
-*   [gmapcatcher (⭐201)](https://github.com/heldersepu/gmapcatcher)
+*   [gmapcatcher (⭐208)](https://github.com/heldersepu/gmapcatcher)
 *   [Hooey webprint](http://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
 *   [Offliberty](http://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
 *   [Resolver](https://metaproductsrevolver.com)

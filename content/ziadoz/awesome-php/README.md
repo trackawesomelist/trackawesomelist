@@ -6,6 +6,13 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 [ Daily / [Weekly](/content/ziadoz/awesome-php/week/README.md) / [Overview](/content/ziadoz/awesome-php/readme/README.md) ]
 
+## [Feb 17, 2024](/content/2024/02/17/README.md)
+
+### Configuration / Development Environment
+
+*   [DDEV (⭐2.3k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
+*   [Docksal (⭐663)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
+
 ## [Feb 16, 2024](/content/2024/02/16/README.md)
 
 ### Table of Contents / Content Management Systems (CMS)

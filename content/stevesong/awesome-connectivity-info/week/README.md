@@ -10,6 +10,7 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 
 ### Other sources
 
+*   [SpeedChecker Insights](https://insights.speedchecker.com/) - Periodic country-level reports on mobile internet speeds, latency, and coverage
 *   [Cloudflare Radar](https://radar.cloudflare.com/) - Invaluable resource on internet traffic, security, routing, outages, DNS, and more.
 
 ## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)

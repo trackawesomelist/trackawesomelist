@@ -324,6 +324,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [vest (⭐2)](https://github.com/alexferl/vest) - A REST client in V.
 *   [vex (⭐336)](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
 *   [vigest (⭐4)](https://github.com/withs/vigest) - Simple client for digest authentication (written in V).
+*   [vistas (⭐0)](https://github.com/Coachonko/vistas) - Central file server API.
 *   [vweb (⭐35k)](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum.
 *   [vxbloauth (⭐8)](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
 *   [west (⭐8)](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.

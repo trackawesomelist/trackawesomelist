@@ -16,6 +16,11 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [Elephant.io (⭐59)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 
+### Configuration / Development Environment
+
+*   [DDEV (⭐2.3k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
+*   [Docksal (⭐663)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
+
 ### Configuration / Text Editors and IDEs
 
 *   [Apache NetBeans](https://netbeans.apache.org/front/main/index.html) - An IDE with support for PHP and HTML5.

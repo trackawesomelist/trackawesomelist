@@ -8,10 +8,18 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
+### Critical Views about Generative AI
+
+*   [Nightshade, the tool that ‘poisons’ data, gives artists a fighting chance against AI | TechCrunch](https://techcrunch.com/2024/01/26/nightshade-the-tool-that-poisons-data-gives-artists-a-fighting-chance-against-ai/)
+
 ### Online Tools and Applications
 
 *   [AI-Flow](https://ai-flow.net/): Connect multiple AI models easily
 *   [Chatpdf.so](https://chatpdf.so): Talk to PDF using GPT4 AI. Chatpdf.so is a chatpdf tool that lets you do question answering on your pdf documents.
+
+### Image Segmentation / Deforum
+
+*   [Sora](https://openai.com/sora): OpenAI's text-to-video model [\[technical report\]](https://openai.com/research/video-generation-models-as-world-simulators)
 
 ## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
 
@@ -549,7 +557,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Conceptual Framework for Autonomous Cognitive Entities](https://arxiv.org/abs/2310.06775): a paper that "introduces the Autonomous Cognitive Entity (ACE) model, a novel framework for a cognitive architecture, enabling machines and software agents to operate more independently"
 *   [Mindstorms in Natural Language-Based Societies of Mind](https://arxiv.org/abs/2305.17066): a paper that evaluates the natural language-based societies of mind (NLSOMs), leveraging mindstorms in them to solve some practical AI tasks
-*   [AutoGen | Microsoft](https://microsoft.github.io/autogen/): multi-agent conversation framework as a high-level abstraction by Microsoft \[[github (⭐21k)](https://github.com/microsoft/autogen)]
+*   [AutoGen | Microsoft](https://microsoft.github.io/autogen/): multi-agent conversation framework as a high-level abstraction by Microsoft \[[github (⭐22k)](https://github.com/microsoft/autogen)]
 
 ### Autonomous LLM Agents / Multi-agents
 

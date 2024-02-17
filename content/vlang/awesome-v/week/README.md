@@ -11,6 +11,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Web
 
 *   [Tiniest vWeb Server (⭐0)](https://github.com/davlgd/tws) - A < 1MB static hosting web server written in V, based on x.vweb. 🍃
+*   [vistas (⭐0)](https://github.com/Coachonko/vistas) - Central file server API.
 
 ### Database clients
 
